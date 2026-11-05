@@ -1,0 +1,948 @@
+BỘ LAO ĐỘNG,
+ THƯƠNG BINH VÀ XÃ HỘI
+
+ ********
+
+CỘNG HOÀ XÃ HỘI
+ CHỦ NGHĨA VIỆT NAM
+
+ Độc lập - Tự do - Hạnh phúc
+
+ ********
+
+Số:
+ 06/2005/TT-BLĐTBXH
+
+Hà Nội, ngày 05
+ tháng 1 năm 2005
+
+ 
+
+THÔNG TƯ
+
+CỦA BỘ LAO ĐỘNG - THƯƠNG BINH VÀ XÃ HỘI SỐ
+06/2005/TT-BLĐTBXH NGÀY 05 THÁNG 01 NĂM 2005 HƯỚNG DÃN PHƯƠNG PHÁP XÂY DỰNG ĐỊNH
+MỨC LAO ĐỘNG TRONG CÁC CÔNG TY NHÀ NƯỚC THEO NGHỊ ĐỊNH SỐ 206/2004/NĐ-CP NGÀY
+14 THÁNG 12 NĂM 2004 CỦA CHÍNH PHỦ
+
+Thi hành Nghị định số 206/2004/NĐ-CP
+ngày 14 tháng 12 năm 2004 của Chính phủ quy định Quản lý lao động, tiền lương
+và thu nhập trong các công ty nhà nước, Bộ Lao động - Thương binh và Xã hội hướng
+dẫn phương pháp xây dựng định mức lao động như sau:
+
+I. PHẠM VI VÀ
+ĐỐI TƯỢNG ÁP DỤNG
+
+Phạm vi và đối tượng áp dụng các
+quy định tại Thông tư này là các công ty hoạt động theo Luật doanh nghiệp nhà
+nước, bao gồm:
+
+1. Công ty nhà nước:
+
+a) Tổng công ty nhà nước:
+
+- Tổng công ty nhà nước được
+thành lập theo Luật Doanh nghiệp nhà nước năm 1995 và Tổng công ty do Nhà nước
+quyết định đầu tư và thành lập được thành lập theo Luật Doanh nghiệp nhà nước
+năm 2003;
+
+- Tổng công ty do các công ty tự
+đầu tư và thành lập (Tổng công ty theo mô hình công ty mẹ - công ty con);
+
+- Tổng công ty đầu tư và kinh
+doanh vốn nhà nước.
+
+b) Công ty nhà nước độc lập.
+
+2. Công ty thành viên hạch toán
+độc lập của Tổng công ty do Nhà nước quyết định đầu tư và thành lập.
+
+Các Tổng công ty, công ty nêu
+trên được gọi tắt là công ty.
+
+II. NGUYÊN TẮC
+
+1. Các sản phẩm, dịch vụ đều phải
+có định mức lao động. Khi thay đổi kỹ thuật, công nghệ sản xuất, kinh doanh thì
+phải điều chỉnh định mức lao động.
+
+2. Định mức lao động tổng hợp
+cho đơn vị sản phẩm (kể cả sản phẩm quy đổi) hoặc theo định biên phải hình
+thành từ định mức nguyên công (nguyên công công nghệ, nguyên công phụ trợ, phục
+vụ), từ định biên của từng bộ phận và lao động quản lý.
+
+Đối với định mức lao động tổng hợp
+cho đơn vị sản phẩm thì trong quá trình tình toán, xây dựng định mức phải căn cứ
+vào các thông số kỹ thuật quy định cho sản phẩm, quá trình công nghệ sản xuất sản
+phẩm, chế độ làm việc của thiết bị, kết hợp với những kinh nghiệm tiên tiến có
+điều kiện áp dụng rộng rãi và các yêu cầu về chấn chỉnh tổ chức sản xuất, tổ chức
+lao động và quản lý.
+
+3. Khi xây dựng định mức lao động
+tổng hợp thì không được tính hao phí lao động làm sản phẩm phụ, sửa chữa lớn
+máy móc, thiết bị, nhà xưởng, công trình xây dựng cơ bản, chế tạo, lắp đặt thiết
+bị. Những hao phí lao động cho các loại công việc này được xây dựng định mức
+lao động tổng hợp riêng.
+
+4. Khi xây dựng định mức lao động
+tổng hợp, công ty đồng thời phải xác định độ phức tạp lao động và cấp bậc công
+việc bình quân theo phương pháp bình quân gia quyền.
+
+III. PHƯƠNG
+PHÁP
+
+Căn cứ vào kỹ thuật, quy trình
+công nghệ, tổ chức lao động và mặt hàng sản xuất, kinh doanh, công ty lựa chọn
+một trong hai phương pháp xây dựng định mức lao động tổng hợp sau:
+
+1. Phương pháp định mức lao động
+tổng hợp cho đơn vị sản phẩm (hoặc sản phẩm quy đổi):
+
+Mức lao động tổng hợp tính theo
+công thức sau:
+
+Tsp
+= Tcn + Tpv + Tql
+
+Trong đó:
+
+Tsp : Mức lao động tổng
+hợp cho đơn vị sản phẩm (đơn vị tính là giờ-người/đơn vị sản phẩm);
+
+- Tcn: Mức lao động
+công nghệ;
+
+- Tpv: Mức lao động
+phụ trợ, phục vụ
+
+- Tql: Mức lao động
+quản lý
+
+- Tcn, Tpv
+, và Tql xác định như sau: 
+
+a. Mức lao động công nghệ (Tcn):
+được tính bằng tổng thời gian lao động thực hiện các nguyên công công nghệ sản
+xuất sản phẩm trong điều kiện tổ chức, kỹ thuật xác định.
+
+b. Mức lao động phụ trợ, phục vụ
+(Tpv): được tính bằng tổng thời gian thực hiện các nguyên công phụ
+trợ, phục vụ sản xuất sản phẩm trong điều kiện tổ chức, kỹ thuật xác định. Tpv
+tính từ mức thời gian phụ trợ, phục vụ theo từng nguyên công hoặc tính bằng
+tỷ lệ % so với Tcn.
+
+c. Mức lao động quản lý (Tql):
+được tính bằng tổng thời gian lao động quản lý sản xuất sản phẩm. Tql
+tính từ quỹ thời gian lao động quản lý hoặc tính bằng tỷ lệ % so với mức lao động
+công nghệ cộng với mức lao động phụ trợ, phục vụ (Tcn + Tpv).
+
+Cách tính cụ thể các thông số Tcn,
+Tpv, Tql và tính quy đổi sản phẩm theo hướng dẫn tại điểm
+4, điểm 5, mục 1 của Phụ lục ban hành kèm theo Thông tư này.
+
+2. Phương pháp định mức lao động
+tổng hợp theo định biên:
+
+Mức lao động tổng hợp tính theo
+công thức sau:
+
+Ldb
+= Lch + Lpv + Lbs + Lql
+
+Trong đó:
+
+- Ldb: Lao động định
+biên của công ty (đơn vị tính là người).
+
+- Lch : Lao động
+chính định biên;
+
+- Lpv : Lao động phụ
+trợ, phục vụ định biên;
+
+- Lbs: Lao động bổ
+sung định biên để thực hiện chế độ ngày, giờ nghỉ theo quy định của pháp luật
+lao động đối với lao động chính và lao động phụ trợ, phục vụ;
+
+- Lql: Lao động quản
+lý định biên.
+
+Lch, Lpv,
+Lbs, Lql xác định như sau:
+
+a. Lao động chính định biên (Lch):
+được tính theo số lao động chính định biên hợp lý của từng bộ phận tổ, đội,
+phân xưởng, chi nhánh, cửa hàng hoặc tổ chức tương đương trong đơn vị thành
+viên của công ty. Lao động chính định biên của từng bộ phận được xác định trên
+cơ sở nhiệm vụ sản xuất, kinh doanh, khối lượng công việc cân đối với các điều
+kiện về tổ chức sản xuất và tổ chức lao động.
+
+b. Lao động phụ trợ, phục vụ định
+biên (Lpv): được tính theo số lao động phụ trợ, phục vụ định biên của
+từng bộ phận tổ, đội, phân xưởng, chi nhánh, cửa hàng hoặc tổ chức tương đương
+trong đơn vị thành viên của công ty. Trên cơ sở khối lượng công việc phụ trợ,
+phục vụ, quy trình công nghệ sản xuất, kinh doanh, tổ chức lao động của từng bộ
+phận trong công ty, tính Lpv bằng định biên hoặc tỷ lệ (%) so với Lch.
+
+c. Lao động bổ sung định biên (Lbs):
+được tính đối với công ty khi xác định lao động chính định biên và lao động phụ
+trợ, phục vụ định biên chưa tính đến số lao động bổ sung để thực hiện chế độ
+ngày, giờ nghỉ theo quy định của pháp luật lao động đối với lao động chính và
+lao động phụ trợ, phục vụ. Lbs được tính như sau:
+
+- Đối với công ty không làm việc
+vào ngày lễ, tết và ngày nghỉ hàng tuần thì lao động bổ sung định biên tính như
+sau:
+
+Số ngày nghỉ chế độ theo quy định
+
+Lbs
+= (Lch + Lpv) x 
+
+(365 - 60)
+
+Số ngày nghỉ chế độ theo quy định
+của pháp luật lao động, bao gồm:
+
++ Số ngày nghỉ hàng năm được hưởng
+lương tính bình quân trong năm cho 1 lao động chính và phụ trợ, phục vụ định
+biên;
+
++ Số ngày nghỉ việc riêng được
+hưởng lương tính bình quân trong năm cho 1 lao động chính và phụ trợ, phục vụ định
+biên theo thống kê kinh nghiệm của năm trước liền kề;
+
++ Số giờ làm việc hàng ngày được
+rút ngắn đối với người làm công việc đặc biệt nặng nhọc, độc hại, nguy hiểm
+(quy đổi ra ngày) tính bình quân trong năm cho 1 lao động chính và phụ trợ, phục
+vụ định biên;
+
++ Thời gian nghỉ thai sản tính
+bình quân trong năm cho 1 lao động chính và phụ trợ, phục vụ định biên.
+
+- Đối với công ty có những nghề,
+công việc đòi hỏi phải làm việc liên tục các ngày trong năm thì lao động bổ
+sung định biên tính như sau:
+
+Lbs
+
+=
+
+(Lch
+ + Lpv)
+
+x 
+
+Số ngày nghỉ chế độ 
+
+theo
+ quy định
+
+(365
+ - 60)
+
++
+
+Số lao động định biên
+
+làm
+ nghề, công việc đòi hỏi phải làm việc vào ngày lễ, tết và nghỉ hàng tuần
+
+x
+
+60
+
+(365
+ - 60)
+
+d) Lao động quản lý định biên (Lql):
+được tính bằng tổng số lao động quản lý định biên của công ty. Đối tượng lao động
+quản lý của công ty xác định theo tiết c, điểm 1, mục I của Phụ lục ban hành
+kèm theo Thông tư này.
+
+IV. TỔ CHỨC
+THỰC HIỆN
+
+1. Trách nhiệm của công ty:
+
+a) Căn cứ hướng dẫn tại Thông tư
+này, công ty có trách nhiệm tổ chức xây dựng mới hoặc sửa đổi, bổ sung hệ thống
+mức lao động (mức chi tiết và mức tổng hợp) đang áp dụng cho phù hợp. Đối với
+những mức lao động chi tiết mới xây dựng hoặc sửa đổi, bổ sung công ty phải áp
+dụng thử tối đa không quá 3 tháng, sau đó mới đưa vào áp dụng chính thức.
+
+b) Hàng năm, công ty phải đánh
+giá tình hình thực hiện hệ thống mức lao động để hoàn thiện nâng cao chất lượng
+mức. Nếu mức lao động thực tế thực hiện thấp hơn 5% hoặc cao hơn 15% so với mức
+được giao thì trong thời hạn 3 tháng, công ty phải xem xét, điều chỉnh cho phù
+hợp.
+
+c) Khi xây dựng, sửa đổi, bổ
+sung và áp dụng thử hệ thống mức lao động, công ty phải tham khảo ý kiến Ban Chấp
+hành công đoàn công ty và công bố công khai trong công ty.
+
+2. Trách nhiệm của Bộ quản lý
+ngành, Uỷ ban nhân dân tỉnh, thành phố trực thuộc Trung ương:
+
+a) Hướng dẫn các công ty thuộc
+quyền quản lý xây dựng và hoàn thiện hệ thống mức lao động để đưa vào áp dụng
+phù hợp với tổ chức sản xuất, tổ chức lao động của công ty;
+
+b) Kiểm tra việc xây dựng, thực
+hiện mức lao động trong các công ty theo quy định của pháp luật lao động.
+
+3. Trách nhiệm của Bộ Lao động -
+Thương binh và Xã hội:
+
+a) Nghiên cứu, bổ sung hoàn thiện
+phương pháp định mức lao động cho phù hợp với tình hình thực tế và quá trình hiện
+đại hóa công nghệ sản xuất, kinh doanh;
+
+b) Hướng dẫn, kiểm tra, thanh
+tra việc xây dựng, thực hiện mức lao động trong các công ty nhà nước theo quy định
+của pháp luật lao động.
+
+V. ĐIỀU KHOẢN
+THI HÀNH
+
+1. Thông tư này có hiệu lực thi
+hành sau 15 ngày, kể từ ngày đăng Công báo và thay thế Thông tư số 14/LĐTBXH-TT
+ngày 10 tháng 4 năm 1997 của Bộ Lao động - Thương binh và Xã hội hướng dẫn
+phương pháp xây dựng định mức lao động đối với các doanh nghiệp nhà nước.
+
+Các quy định tại Thông tư này được
+thực hiện từ ngày 01 tháng 01 năm 2005.
+
+2. Quỹ Hỗ trợ phát triển, Bảo hiểm
+tiền gửi Việt Nam đang áp dụng chế độ tiền lương như đối với công ty nhà nước
+quy định tại Quyết định số 17/2000/QĐ-TTg ngày 03 tháng 02 năm 2000, Quyết định
+số 88/2001/QĐ-TTg ngày 05 tháng 6 năm 2001 của Thủ tướng Chính phủ áp dụng quy
+định tại Thông tư này.
+
+3. Các doanh nghiệp nhà nước hoạt
+động theo Luật Doanh nghiệp và doanh nghiệp thuộc các thành phần kinh tế khác
+được vận dụng quy định tại Thông tư này.
+
+Trong quá trình thực hiện, nếu
+có vướng mắc, đề nghị các Bộ, ngành, Uỷ ban nhân dân tỉnh, thành phố trực thuộc
+Trung ương và công ty nhà nước phản ánh về Bộ Lao động - Thương binh và Xã hội
+xem xét, giải quyết.
+
+ 
+
+Nguyễn
+ Thị Hằng
+
+(Đã
+ ký)
+
+ 
+
+PHỤ LỤC
+
+HƯỚNG DẪN PHƯƠNG PHÁP XÂY DỰNG ĐỊNH MỨC LAO ĐỘNG TỔNG HỢP
+
+(Ban hành kèm theo Thông tư số 06/2005/TT-BLĐTBXH ngày 05 tháng 01 năm 2005
+của Bộ Lao động - Thương binh và Xã hội)
+
+I. ĐỊNH MỨC LAO ĐỘNG TỔNG HỢP
+CHO ĐƠN VỊ SẢN PHẨM
+
+Để định mức lao động tổng hợp
+cho đơn vị sản phẩm, công ty tiến hành theo các bước sau:
+
+- Phân loại lao động;
+
+- Xác định đơn vị sản phẩm tính
+mức lao động tổng hợp;
+
+- Chuẩn bị tài liệu tính mức lao
+động tổng hợp;
+
+- Tính mức lao động tổng hợp cho
+đơn vị sản phẩm.
+
+1. Phân loại lao động:
+
+Phân loại lao động là việc phân
+chia lao động thành lao động công nghệ, lao động phụ trợ, phục vụ và lao động
+quản lý để định mức hao phí thời gian lao động theo từng loại, làm cơ sở xác định
+mức lao động tổng hợp cho đơn vị sản phẩm.
+
+Việc phân loại lao động phải căn
+cứ vào tính chất ngành, nghề, tổ chức sản xuất, tổ chức lao động của công ty.
+Điều kiện tổ chức sản xuất, tổ chức lao động khác nhau thì phân loại lao động
+khác nhau, vì vậy công ty phải có hệ thống các tiêu thức đánh giá, phân loại
+lao động cho phù hợp.
+
+Có thể phân loại lao động như
+sau:
+
+a) Lao động công nghệ: là những
+lao động trực tiếp thực hiện nhiệm vụ sản xuất theo quy trình công nghệ nhằm
+làm biến đổi đối tượng lao động về các mặt hình dáng, kích thước, cơ lý hóa
+tính, vị trí... để sản xuất sản phẩm, như: những người trực tiếp xử lý đối tượng
+lao động; người trực tiếp điều khiển máy móc, thiết bị chuyên dùng; người đóng
+gói sản phẩm theo quá trình công nghệ, người vận chuyển hàng hóa đến nơi giao
+nhận...
+
+b) Lao động phụ trợ, phục vụ: là
+những lao động không trực tiếp thực hiện nhiệm vụ của quá trình công nghệ nhưng
+có nhiệm vụ phục vụ cho lao động công nghệ hoàn thành quá trình công nghệ sản
+xuất sản phẩm. Lao động phụ trợ, phục vụ được xác định căn cứ vào các chức
+năng, nhiệm vụ phục vụ, như: tổ chức công nghệ; phụ trợ công nghệ; bảo dưỡng
+thiết bị; sản xuất, bảo dưỡng dụng cụ, trang bị công nghệ; kiểm tra kỹ thuật; vận
+tải xếp dỡ; cung cấp năng lượng; phục vụ kho tàng; bảo dưỡng nhà xưởng, kiến
+trúc, công trình; bảo hộ lao động, kỹ thuật an toàn và vệ sinh công nghiệp...
+
+c) Lao động quản lý, gồm:
+
+- Phó Tổng giám đốc, Phó Giám đốc,
+Kế toán trưởng công ty (không kể Phó Tổng giám đốc, Phó Giám đốc, Kế toán trưởng
+làm việc theo hợp đồng) và viên chức chuyên môn, nghiệp vụ thuộc bộ máy điều
+hành của công ty:
+
+- Thành viên Ban kiểm soát
+(không kể Trưởng ban kiểm soát);
+
+- Viên chức giúp việc Hội đồng
+quản trị;
+
+- Cán bộ chuyên trách làm công
+tác Đảng, đoàn thể do công ty trả lương (không kể những người do đoàn thể trả
+lương).
+
+2. Xác định đơn vị sản phẩm tính
+mức lao động tổng hợp:
+
+Sản phẩm tính mức lao động tổng
+hợp là sản phẩm hàng hóa, có đơn vị đo (tấn, m, m3...) phù hợp với
+đơn vị đo lường theo quy định của Nhà nước.
+
+Đối với công ty sản xuất nhiều
+loại sản phẩm hoặc bán thành phẩm có đơn vị đo không đồng nhất thì có thể tính
+quy đổi đồng nhất về một loại sản phẩm hàng hóa. Cách tính quy đổi sản phẩm
+theo hướng dẫn tại điểm 5, mục I phụ lục này.
+
+3. Chuẩn bị tài liệu tính mức
+lao động tổng hợp:
+
+Để tính mức lao động tổng hợp,
+công ty phải có các tài liệu:
+
+- Hệ thống mức lao động chi tiết
+của tất cả các nguyên công sản xuất sản phẩm, đối với những nguyên công chưa có
+mức lao động chi tiết thì công ty phải tiến hành xây dựng theo phương pháp xây
+dựng mức lao động quy định tại Phụ lục số 2 ban hành kèm theo Thông tư số
+12/2003/TT-BLĐTBXH ngày 29 tháng 5 năm 2003 của Bộ Lao động - Thương binh và Xã
+hội;
+
+- Các tài liệu về kỹ thuật, công
+nghệ; nhiệm vụ sản xuất, kinh doanh; các định mức vật tư, nguyên, nhiên, vật liệu
+sản xuất sản phẩm.
+
+4. Tính mức lao động tổng hợp
+cho đơn vị sản phẩm:
+
+Mức lao động tổng hợp cho đơn vị
+sản phẩm tính theo công thức sau:
+
+Tsp
+= Tcn + Tpv + Tql
+
+Trong đó:
+
+- Tsp: Mức lao động tổng
+hợp cho đơn vị sản phẩm (đơn vị tính là giờ-người/đơn vị sản phẩm);
+
+- Tcn: Mức lao động
+công nghệ;
+
+- Tpv: Mức lao động
+phụ trợ, phục vụ;
+
+- Tql: Mức lao động
+quản lý.
+
+Các thông số Tcn, Tpv
+và Tql tính như sau:
+
+a) Tcn: Tính bằng tổng
+thời gian lao động thực hiện các nguyên công công nghệ sản xuất sản phẩm trong
+điều kiện tổ chức, kỹ thuật xác định, theo công thức sau:
+
+Tcn
+
+=
+
+n
+
+S tcni
+
+i=1
+
+Trong đó:
+
+- tcni: Mức lao động
+của nguyên công công nghệ thứ i;
+
+- n: Số nguyên công công nghệ sản
+xuất sản phẩm.
+
+Trường hợp một nguyên công được
+thực hiện trên nhiều loại máy móc, thiết bị khác nhau, có mức thời gian và sản
+lượng khác nhau thì áp dụng phương pháp bình quân gia quyền để tính mức lao động
+cho nguyên công đó.
+
+b) Tpv: Tính bằng tổng
+thời gian thực hiện các nguyên công phụ trợ, phục vụ sản xuất sản phẩm trong điều
+kiện tổ chức, kỹ thuật xác định. Tpv tính như sau:
+
+- Cách 1: Tính từ mức lao động thực
+hiện các nguyên công phụ trợ, phục vụ, theo công thức sau:
+
+Tpv
+
+=
+
+n
+
+S tpvi
+
+i=1
+
+Trong đó:
+
++ tpvi: Mức lao động
+của nguyên công phụ trợ, phục vụ thứ i;
+
++ n: Số nguyên công phụ trợ, phục
+vụ sản xuất sản phẩm.
+
+- Cách 2: Tính bằng tỉ lệ (%) so
+với mức lao động công nghệ (Tcn), theo công thức sau:
+
+Tpv
+= p x Tcn
+
+Trong đó: p là tỷ lệ (%) so với
+mức lao động công nghệ (Tcn). Tỷ lệ % này được tính căn cứ theo quy
+trình công nghệ hoặc thống kê kinh nghiệm hoặc theo tỷ lệ % giữa lao động phụ
+trợ, phục vụ định biên so với lao động công nghệ định biên.
+
+Ví dụ 1: Sản phẩm A có Tcn
+= 40 giờ-người/sản phẩm. Phẩm xưởng sản xuất sản phẩm A có lao động công nghệ định
+biên là 50 người; lao động phụ trợ, phục vụ định biên là 20 người, bằng 40% so
+với lao động công nghệ định biên. Tpv của sản phẩm A tính theo tỷ lệ
+% giữa lao động phụ trợ, phục vụ định biên so với lao động công nghệ định biên
+là:
+
+TpvA = 40 giờ-người/sản
+phẩm x 40% = 16 giờ-người/sản phẩm
+
+Trường hợp công ty sản xuất nhiều
+loại sản phẩm, có số lao động phụ trợ, phục vụ đồng thời phục vụ cho sản xuất
+các loại sản phẩm đó thì Tpv tính phân bổ cho từng loại sản phẩm
+theo: mức phục vụ (nếu có) hoặc đơn đặt hàng của các phân xưởng chính (nếu có)
+hoặc tỷ trọng số lượng (sản lượng, lượng lao động công nghệ...) của từng loại sản
+phẩm trong tổng số các loại sản phẩm.
+
+Ví dụ 2: Một công đoạn sản xuất
+có 20 công nhân phụ trợ, phục vụ đồng thời phục vụ cho sản xuất 3 loại sản phẩm
+A, B, C như sau:
+
+Loại
+ sản phẩm
+
+Mức
+ sản lượng trong ca làm việc 8 giờ (chiếc)
+
+Tổng
+ Tcn trong một ca cho từng loại sản phẩm (giờ)
+
+A
+
+50
+
+520
+
+B
+
+100
+
+340
+
+C
+
+800
+
+140
+
+Cộng
+
+ 
+
+1.000
+
+Tpv được phân bổ theo
+tỷ trọng Tcn của từng loại sản phẩm trong tổng số sản phẩm (tỷ trọng
+Tpv của sản phẩm A là 520 : 1.000 = 0,52; của sản phẩm B là 340 :
+1.000 = 0,34; của sản phẩm C = 140 : 1.000 = 0,14) như sau:
+
+Tpv
+ A
+
+=
+
+8
+ giờ x 20 người x 0,52
+
+50
+
+=
+
+1,644
+ giờ-người
+
+ 
+
+Tpv
+ B
+
+=
+
+8
+ giờ x 20 người x 0,34
+
+100
+
+=
+
+0,544
+ giờ-người
+
+ 
+
+Tpv
+ C
+
+=
+
+8
+ giờ x 20 người x 0,14
+
+800
+
+=
+
+0,028
+ giờ-người
+
+c) Tql: Tính bằng tổng
+thời gian thực hiện các công việc quản lý sản xuất sản phẩm. Tql
+tính như sau:
+
+- Cách 1: Tính từ quỹ thời gian
+lao động quản lý, theo công thức sau:
+
+Tql
+
+=
+
+Lql
+ x S
+
+Q
+
+Trong đó:
+
++ Lql: Số lao động quản
+lý, tính theo các đối tượng quy định tại tiết c, điểm 1, mục 1 Phụ lục này;
+
++ S: Số giờ công lao động kế hoạch
+bình quân năm của một lao động quản lý;
+
++ Q: Số lượng sản phẩm sản xuất
+trong năm.
+
+Trường hợp công ty sản xuất nhiều
+loại sản phẩm thì tính phân bổ Tql cho từng loại sản phẩm theo mức
+lao động sản xuất, theo công thức sau:
+
+Tqli
+ =
+
+(Lql x S 
+
+x
+
+Tsxi. Qi
+
+) : Qi (i ẻ j; i á
+ 1, 2.....n) 
+
+m
+
+S Tsxj . Qj
+
+j=1 
+
+Trong đó:
+
++ Tqli: Mức lao động
+quản lý cho đơn vị sản phẩm loại i;
+
++ Tsxi: Mức lao động
+sản xuất cho đơn vị sản phẩm loại i (Tsxi = Tcni + Tpvi);
+
++ Qi: Số lượng sản phẩm
+loại i sản xuất trong năm;
+
++ m: Số loại sản phẩm sản xuất
+trong năm.
+
+- Cách 2: Tính bằng tỷ lệ % so với
+mức lao động công nghệ cộng với mức lao động phụ trợ, phục vụ, theo công thức
+sau: 
+
+Tql
+= q x (Tcn + Tpv)
+
+Trong đó: q là tỷ lệ phần trăm
+so với mức lao động công nghệ cộng với mức lao động phụ trợ, phục vụ. Trường hợp
+xác định được tỷ lệ % số lao động quản lý định biên so với tổng số lao động định
+biên của công ty thì q được tính theo công thức sau:
+
+q
+
+=
+
+k
+
+100-k
+
+x
+
+100
+
+Trong đó k là tỷ lệ % giữa số
+lao động quản lý định biên so với tổng số lao động định biên của công ty.
+
+5. Tính quy đổi sản phẩm:
+
+Đối với công ty sản xuất nhiều
+loại sản phẩm có cùng tính chất nhưng có đơn vị đo không đồng nhất, sau khi
+tính được mức lao động tổng hợp cho từng loại đơn vị sản phẩm, công ty có thể
+tính quy đổi đồng nhất về một loại sản phẩm như sau:
+
+- Lựa chọn sản phẩm quy đổi: sản
+phẩm quy đổi phải mang tính đặc trưng, đại diện chung cho các loại sản phẩm;
+
+- Xác định hệ số quy đổi của từng
+loại sản phẩm: hệ số này được tính bằng mức lao động tổng hợp của từng loại sản
+phẩm chia cho mức lao động tổng hợp của đơn vị sản phẩm quy đổi;
+
+- Tính số lượng sản phẩm quy đổi:
+bằng cách lấy số lượng sản phẩm của từng loại sản phẩm nhân với hệ số quy đổi của
+loại sản phẩm đó.
+
+Ví dụ 3: Đơn vị X sản xuất 2 loại
+sản phẩm A và B. Tsp A = 50 giờ-người/sản phẩm, Tsp B =
+80 giờ-người/sản phẩm. Số lượng sản phẩm A sản xuất trong kỳ là 150 chiếc, sản
+phẩm B là 200 chiếc. Đơn vị chọn A là sản phẩm quy đổi. Bảng tính số lượng sản phẩm
+quy đổi theo sản phẩm A như sau:
+
+Loại
+ sản phẩm
+
+Số
+ lượng (chiếc)
+
+Tsp
+ (giờ-người)
+
+Hệ
+ số quy đổi
+
+Số
+ lượng sản phẩm quy đổi
+
+A
+
+150
+
+50
+
+1
+
+150
+
+B
+
+200
+
+80
+
+1,6
+
+320
+
+Cộng
+
+ 
+
+ 
+
+ 
+
+470
+
+II. ĐỊNH MỨC LAO ĐỘNG TỔNG HỢP
+THEO ĐỊNH BIÊN
+
+Để định mức lao động tổng hợp theo
+định biên, công ty tiến hành theo các bước sau:
+
+- Phân loại lao động;
+
+- Xác định khối lượng nhiệm vụ,
+công việc phải thực hiện;
+
+- Định biên lao động cho từng bộ
+phận;
+
+- Tổng hợp mức lao động định
+biên chung của công ty.
+
+1. Phân loại lao động:
+
+Phân loại lao động thành lao động
+chính, lao động phụ trợ, phục vụ, lao động bổ sung và lao động quản lý là cơ sở
+để xác định định biên lao động theo từng loại cho từng bộ phận và cả công ty.
+
+Việc phân loại lao động phải căn
+cứ vào tính chất ngành, nghề, tổ chức sản xuất, tổ chức lao động để thực hiện
+khối lượng nhiệm vụ sản xuất, kinh doanh, dịch vụ của công ty.
+
+Có thể phân loại như sau:
+
+a) Lao động chính: là những lao
+động công nghệ, lao động trực tiếp kinh doanh, dịch vụ ở các bộ phận chính theo
+quy trình công nghệ sản xuất sản phẩm hoặc tổ chức kinh doanh, dịch vụ của công
+ty;
+
+b) Lao động phụ trợ, phục vụ: là
+những lao động thực hiện chức năng phụ trợ, phục vụ cho lao động chính, làm việc
+ở các bộ phận chính và bộ phận phụ trợ, phục vụ của công ty;
+
+c) Lao động bổ sung: là những
+lao động được sử dụng để bổ sung, thay thế cho lao động chính và lao động phụ
+trợ, phục vụ khi thực hiện chế độ ngày, giờ nghỉ theo quy định của pháp luật
+lao động hoặc công ty tổ chức làm việc liên tục các ngày trong năm;
+
+d) Lao động quản lý: gồm các đối
+tượng quy định tại tiết c, điểm 1, mục I của Phụ lục này.
+
+2. Xác định khối lượng nhiệm vụ
+sản xuất, kinh doanh:
+
+Hàng năm công ty phải xác định cụ
+thể nhiệm vụ sản xuất, kinh doanh và phương án cân đối với các điều kiện để thực
+hiện nhiệm vụ sản xuất, kinh doanh, từ đó xác định cơ cấu, số lượng lao động
+chính và phụ trợ, phục vụ hợp lý để thực hiện nhiệm vụ sản xuất, kinh doanh của
+công ty. Đối với lao động quản lý thì căn cứ vào chức năng, nhiệm vụ, khối lượng
+công việc và chế độ thời giờ làm việc, nghỉ ngơi để xác định phù hợp với các
+nhiệm vụ, khối lượng công việc của từng bộ phận quản lý phải triển khai thực hiện
+trong năm.
+
+3. Định biên lao động cho từng bộ
+phận:
+
+Công ty xác định cơ cấu, số lượng
+và bố trí, sắp xếp các loại lao động theo chức danh nghề, công việc phù hợp với
+yêu cầu thực hiện khối lượng nhiệm vụ sản xuất, kinh doanh của từng bộ phận đó.
+Việc xác định thực hiện theo các bước sau:
+
+- Phân tích, mô tả công việc;
+
+- Phân tích và lựa chọn phương
+án tổ chức lao động hợp lý để thực hiện công việc;
+
+- Bố trí lao động phù hợp (có đủ
+trình độ và khả năng thực hiện công việc theo tiêu chuẩn cấp bậc kỹ thuật, tiêu
+chuẩn chuyên môn, nghiệp vụ) vào từng vị trí để thực hiện công việc.
+
+4. Tổng hợp mức lao động định
+biên chung của công ty:
+
+Sau khi định biên lao động phù hợp
+cho từng bộ phận, công ty tính tổng hợp mức lao động định biên chung của công
+ty theo công thức sau:
+
+Ldb
+= Lch + Lpv + Lbs + Lql
+
+Trong đó:
+
+- Ldb: Lao động định
+biên của công ty (đơn vị tính là người);
+
+- Lch: Lao động chính
+định biên;
+
+- Lpv: Lao động phụ
+trợ, phục vụ định biên;
+
+- Lbs: Lao động bổ
+sung định biên để thực hiện chế độ ngày, giờ nghỉ theo quy định của pháp luật
+lao động đối với lao động chính và lao động phụ trợ, phục vụ;
+
+- Lql: Lao động quản
+lý định biên.
+
+Cách tính các thông số Lch,
+Lpv, Lbs, Lql thực hiện theo hướng dẫn tại điểm
+2, mục II, Thông tư số 06/2005/TT-BLĐTBXH ngày 05 tháng 01 năm 2005 của Bộ Lao
+động - Thương binh và Xã hội.--- THÔNG TIN THÊM ---
+Ten: Thông tư 06/2005/TT-BLĐTBXH hướng dẫn phương pháp xây dựng định mức lao động trong các Công ty nhà nước theo Nghị định 206/2004/NĐ-CP do Bộ Lao động thương binh và xã hội ban hành
+So hieu: 06/2005/TT-BLĐTBXH
+Loai van ban: Thông tư
+Linh vuc nganh: Lao động - Tiền lương
+Noi ban hanh: Bộ Lao động – Thương binh và Xã hội
+Nguoi ky: Nguyễn Thị Hằng
+Ngay ban hanh: 05/01/2005
+Ngay hieu luc: 22/01/2005
+Ngay dang: 07/01/2005
+So cong bao: Từ số 7 đến số 8
+Tinh trang: Hết hiệu lực: 21/09/2015
+
+
+--- MỤC LỤC ---
+- THÔNG TƯ CỦA BỘ LAO ĐỘNG - THƯƠNG BINH VÀ XÃ HỘI SỐ 06/2005/TT-BLĐTBXH NGÀY 05 THÁNG 01 NĂM 2005 HƯỚNG DÃN PHƯƠNG PHÁP XÂY DỰNG ĐỊNH MỨC LAO ĐỘNG TRONG CÁC CÔNG TY NHÀ NƯỚC THEO NGHỊ ĐỊNH SỐ 206/2004/NĐ-CP NGÀY 14 THÁNG 12 NĂM 2004 CỦA CHÍNH PHỦ
+  - I. PHẠM VI VÀ ĐỐI TƯỢNG ÁP DỤNG
+  - II. NGUYÊN TẮC
+  - III. PHƯƠNG PHÁP
+  - IV. TỔ CHỨC THỰC HIỆN
+  - V. ĐIỀU KHOẢN THI HÀNH
+  - PHỤ LỤC HƯỚNG DẪN PHƯƠNG PHÁP XÂY DỰNG ĐỊNH MỨC LAO ĐỘNG TỔNG HỢP
+
+--- VĂN BẢN LIÊN QUAN ---
+
+Van ban duoc huong dan:
+  - Nghị định 206/2004/NĐ-CP quy định quản lý lao động, tiền lương và thu nhập trong các công ty nhà nước (ID: 52631)
+
+Van ban bi thay the:
+  - Thông tư 14/1997/TT-LĐTBXH hướng dẫn phương pháp xây dựng định mức lao động đối với các doanh nghiệp Nhà ... (ID: 42523)
+
+Van ban duoc dan chieu:
+  - Luật Doanh nghiệp nhà nước 2003 (ID: 51698)
+  - Thông tư 12/2003/TT-BLĐTBXH hướng dẫn Nghị định 114/2002/NĐ-CP về tiền lương đối với người lao động làm ... (ID: 50965)
+  - Quyết định 88/2001/QĐ-TTg về chế độ tiền lương và phụ cấp đối với cán bộ, viên chức Bảo hiểm tiền gửi Việt ... (ID: 47797)
+  - Quyết định 17/2000/QĐ-TTg về chế độ tiền lương và phụ cấp đối với cán bộ, viên chức Quỹ hỗ trợ phát triển ... (ID: 46150)
+  - Luật Doanh nghiệp Nhà nước 1995 (ID: 39099)
+
+Van ban thay the:
+  - Quyết định 764/QĐ-LĐTBXH năm 2015 bãi bỏ văn bản quy phạm pháp luật do Bộ trưởng Bộ Lao động - Thương binh ... (ID: 281435)
+  - Quyết định 1351/QĐ-BLĐTBXH năm 2015 về bãi bỏ văn bản quy phạm pháp luật do Bộ Lao động - Thương binh và Xã... (ID: 290902)
+  - Quyết định 1395/QĐ-LĐTBXH năm 2015 công bố kết quả hệ thống hóa văn bản quy phạm pháp luật thuộc lĩnh vực ... (ID: 292694)
+  - Quyết định 1351/QĐ-BLĐTBXH năm 2015 về bãi bỏ văn bản quy phạm pháp luật do Bộ Lao động - Thương binh và Xã... (ID: 290902)

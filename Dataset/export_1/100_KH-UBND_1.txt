@@ -1,0 +1,468 @@
+ỦY BAN NHÂN DÂN
+
+ THÀNH PHỐ CẦN THƠ
+
+ -------
+
+CỘNG HÒA XÃ HỘI
+ CHỦ NGHĨA VIỆT NAM
+
+ Độc lập - Tự do - Hạnh phúc
+
+ ---------------
+
+Số: 100/KH-UBND
+
+Cần Thơ, ngày 17
+ tháng 5 năm 2023
+
+ 
+
+KẾ HOẠCH
+
+XÂY
+DỰNG CƠ SỞ DỮ LIỆU NGƯỜI LAO ĐỘNG, VIỆC TÌM NGƯỜI - NGƯỜI TÌM VIỆC THÀNH PHỐ CẦN
+THƠ NĂM 2023
+
+Căn cứ Thông tư số 11/2022/TT-BLĐTBXH ngày 30 tháng
+6 năm 2022 của Bộ trưởng Bộ Lao động - Thương binh và Xã hội hướng dẫn một số nội
+dung thực hiện hỗ trợ việc làm bền vững thuộc Chương trình mục tiêu quốc gia giảm
+nghèo bền vững giai đoạn 2021 - 2025.
+
+Ủy ban nhân dân thành phố Cần Thơ ban hành Kế hoạch
+xây dựng cơ sở dữ liệu người lao động, việc tìm người - người tìm việc thành phố
+Cần Thơ năm 2023, cụ thể như sau:
+
+I. MỤC ĐÍCH, YÊU CẦU
+
+1. Mục đích
+
+Xây dựng cơ sở dữ liệu việc tìm người - người tìm
+việc, người lao động gắn với Cơ sở dữ liệu quốc gia về dân cư và các cơ sở dữ
+liệu khác nhằm phục vụ kịp thời công tác quản lý nhà nước về lao động, việc làm
+và đáp ứng yêu cầu phát triển kinh tế - xã hội, bảo đảm quốc phòng, an ninh;
+đáp ứng yêu cầu của Chương trình Chuyển đổi số quốc gia.
+
+2. Yêu cầu
+
+a) Thu thập thông tin đảm bảo tính kịp thời, chính
+xác, trung thực, khoa học, khách quan và kế thừa.
+
+b) Việc xây dựng cơ sở dữ liệu phải tuân thủ các
+quy định của pháp luật về giao dịch điện tử, lưu trữ điện tử, an ninh, an toàn,
+bảo vệ dữ liệu, bảo mật thông tin và các quy định khác có liên quan; thông tin,
+dữ liệu trao đổi được mã hóa, đảm bảo tính toàn vẹn, xác thực được với cơ sở dữ
+liệu dân cư và các cơ sở dữ liệu chuyên ngành khác có liên quan đến chính sách
+lao động, việc làm.
+
+c) Việc chia sẻ thông tin, dữ liệu tuân thủ quy định
+của pháp luật trong việc tạo lập, quản lý và sử dụng dữ liệu; đảm bảo không làm
+ảnh hưởng tới quyền lợi và trách nhiệm của doanh nghiệp, tổ chức, cá nhân liên
+quan; không được xâm phạm quyền về đời sống riêng tư, bí mật cá nhân, bí mật
+gia đình, bí mật kinh doanh trừ trường hợp pháp luật có quy định khác.
+
+d) Việc xây dựng, kết nối, chia sẻ dữ liệu thông tin
+giữa cơ sở dữ liệu về việc tìm người - người tìm việc; cơ sở dữ liệu về người
+lao động thực hiện theo quy định tại Nghị định số 47/2020/NĐ-CP ngày 09 tháng 4
+năm 2020 của Chính phủ về quản lý, kết nối và chia sẻ dữ liệu số trong cơ quan
+nhà nước; Quyết định số 749/QĐ-TTg ngày 3 tháng 6 năm 2020 của Thủ tướng Chính
+phủ phê duyệt Chương trình Chuyển đổi số Quốc gia đến năm 2025, định hướng đến
+năm 2030; Quyết định số 1371/QĐ-LĐTBXH ngày 03 tháng 12 năm 2021 của Bộ trưởng
+Bộ Lao động - Thương binh và Xã hội về việc ban hành Bộ chuẩn trao đổi dữ liệu
+điện tử lĩnh vực Lao động, Người có công và Xã hội; đảm bảo việc kết nối, chia
+sẻ cơ sở dữ liệu người lao động, việc tìm người - người tìm việc với Kho dữ liệu
+dùng chung của thành phố.
+
+II. NỘI DUNG THỰC HIỆN
+
+1. Xây dựng cơ sở dữ liệu về
+người lao động
+
+a) Đối tượng quản lý
+
+Đối tượng quản lý là người lao động từ đủ 15 tuổi
+trở lên đang cư trú tại địa bàn thành phố Cần Thơ. Dự kiến năm 2023 thu thập
+thông tin của 951.888 người lao động (trong đó bổ sung số lượng phiếu thông tin
+người lao động đáp ứng số lượng người lao động đang cư trú tại địa bàn do các địa
+phương đề xuất bổ sung năm 2022 là 65.944 người lao động).
+
+b) Xây dựng cơ sở dữ liệu về người lao động
+
+- Cơ sở dữ liệu về người lao động là cơ sở dữ liệu
+chuyên ngành, tập hợp các thông tin cơ bản về nhân khẩu học, việc làm, quan hệ
+lao động của người lao động, được số hóa, lưu trữ, quản lý bằng cơ sở hạ tầng
+thông tin, được kết nối, chia sẻ với cơ sở dữ liệu quốc gia về dân cư và các cơ
+sở dữ liệu khác theo quy định của pháp luật.
+
+- Cơ sở dữ liệu về người lao động bao gồm các thông
+tin cơ bản của người lao động, trình độ, kỹ năng lao động, tình trạng việc làm,
+quan hệ lao động, tham gia bảo hiểm xã hội của người lao động.
+
+- Thông tin trong cơ sở dữ liệu về người lao động
+được xác lập từ các nguồn sau:
+
++ Thông tin đăng ký lao động của người lao động
+thông qua ứng dụng điện tử đăng ký việc làm hoặc các ứng dụng khác có liên
+quan.
+
++ Thông tin về người lao động được số hóa, chuẩn
+hóa từ nghiệp vụ thu thập, cập nhật thông tin về lao động.
+
++ Thông tin được kết nối, chia sẻ, đối soát với cơ
+sở dữ liệu quốc gia về dân cư và các cơ sở dữ liệu khác.
+
+- Thông tin trong cơ sở dữ liệu về người lao động
+được cập nhật, điều chỉnh từ các nguồn sau:
+
++ Kết quả của quá trình thực hiện các thủ tục hành
+chính, nghiệp vụ liên quan đến quản lý lao động.
+
++ Đề xuất sửa đổi, bổ sung của cơ quan, tổ chức, cá
+nhân khi thay đổi hoặc phát hiện các thông tin trong cơ sở dữ liệu về người lao
+động chưa đầy đủ, chính xác.
+
++ Từ các cơ sở dữ liệu khác có liên quan khi có
+thay đổi.
+
+- Mẫu biểu: Mẫu số 03 Phụ lục ban hành kèm theo
+Thông tư số 11/2022/TT-BLĐTBXH (sau đây gọi tắt là Mẫu số 03).
+
+- Phương thức thực hiện:
+
++ Sở Lao động - Thương binh và Xã hội thực hiện những
+việc sau:
+
+. Tổ chức triển khai thực hiện thu thập, cập nhật,
+chỉnh sửa, tổng hợp thông tin về người lao động trên địa bàn thành phố.
+
+. Hướng dẫn Ủy ban nhân dân cấp huyện để chỉ đạo Ủy
+ban nhân dân cấp xã tổ chức thực hiện việc thu thập, cập nhật, chỉnh sửa thông
+tin về người lao động cư trú trên địa bàn quản lý.
+
+. Tổng hợp, đồng bộ cơ sở dữ liệu về người lao động
+theo hướng dẫn của Bộ Lao động - Thương binh và Xã hội để xây dựng cơ sở dữ liệu
+về người lao động trong phạm vi cả nước.
+
++ Ủy ban nhân dân cấp huyện chỉ đạo, hướng dẫn Ủy
+ban nhân dân cấp xã thực hiện việc thu thập, cập nhật, chỉnh sửa thông tin về
+người lao động cư trú trên địa bàn quản lý.
+
++ Ủy ban nhân dân cấp xã căn cứ vào nguồn lực, hướng
+dẫn của Ủy ban nhân dân cấp trên và Sở Lao động - Thương binh và Xã hội để thực
+hiện:
+
+. Lập kế hoạch và tổ chức thu thập, cập nhật, chỉnh
+sửa thông tin về người lao động cư trú trên địa bàn quản lý; xử lý các vấn đề
+phát sinh.
+
+. Thiết lập cơ chế đối soát, cập nhật, chia sẻ dữ
+liệu người lao động thu thập với dữ liệu quốc gia về dân cư và các cơ sở dữ liệu
+khác là cơ sở để xác thực hoàn thiện và cung cấp sổ lao động điện tử của người
+lao động.
+
+. Phân công trách nhiệm cụ thể các thành viên trong
+tổ triển khai Đề án 06 cấp xã trong quá trình thu thập, nhập thông tin gắn với
+chỉ tiêu, thời gian hoàn thành cụ thể và lưu trữ hồ sơ đầy đủ sau khi hoàn
+thành theo quy định.
+
+- Tần suất thu thập, cập nhật thông tin: Định kỳ,
+thường xuyên.
+
+- Quy trình thực hiện thu thập, cập nhật, chỉnh sửa
+thông tin người lao động trên nền hệ thống Cơ sở dữ liệu quốc gia về dân cư:
+
++ Bước 1: Tổ công tác triển khai Đề án 06 cấp
+xã chỉ đạo cán bộ chuyên trách về Lao động - Thương binh và Xã hội phối hợp với
+các thành viên tổ chức thu thập thông tin theo Mẫu số 03. Sau khi hoàn thiện,
+cán bộ chuyên trách về Lao động - Thương binh và Xã hội cấp xã bảo quản, lưu trữ
+Mẫu số 03 và định kỳ hàng tuần chuyển số lượng nhất định cho Công an cấp xã thực
+hiện triển khai nhập vào phần mềm trên hệ thống Cơ sở dữ liệu quốc gia về dân
+cư.
+
++ Bước 2: Công an cấp xã tiếp nhận Mẫu số 03
+và phối hợp với cán bộ chuyên trách về Lao động - Thương binh và Xã hội nhập
+vào phần mềm. Về thời gian, phương pháp nhập nội dung Mẫu số 03, Công an cấp xã
+trao đổi, thống nhất với cán bộ chuyên trách về Lao động - Thương binh và Xã hội,
+đảm bảo thông tin người lao động được nhập đầy đủ, chính xác. Sau khi nhập
+xong, Công an cấp xã ký và bàn giao lại Mẫu số 03 cho cán bộ chuyên trách về
+Lao động - Thương binh và Xã hội quản lý, lưu trữ theo quy định.
+
++ Bước 3: Cán bộ chuyên trách về lĩnh vực
+Lao động - Thương binh và Xã hội cấp xã thường xuyên cung cấp các thông tin
+thay đổi hoặc bổ sung các công dân chưa có thông tin cho Công an cấp xã cập nhật
+vào phần mềm trên hệ thống cơ sở dữ liệu quốc gia về dân cư đảm bảo kịp thời,
+chính xác.
+
++ Bước 4: Cơ quan Công an cùng cấp quản lý
+thông tin nhập vào hệ thống cơ sở dữ liệu quốc gia về dân cư và cung cấp các thống
+kê, báo cáo tình hình biến động của người lao động cho đơn vị chuyên trách cùng
+cấp phục vụ công tác quản lý khi có yêu cầu.
+
+2. Xây dựng cơ sở dữ liệu về việc
+tìm người - người tìm việc
+
+a) Xây dựng cơ sở dữ liệu việc tìm người
+
+- Cơ sở dữ liệu việc tìm người bao gồm các thông
+tin về người sử dụng lao động, vị trí việc làm mà người sử dụng lao động có nhu
+cầu tuyển dụng.
+
+- Thông tin trong cơ sở dữ liệu việc tìm người được
+xác lập từ các nguồn sau:
+
++ Thông tin đăng ký nhu cầu tuyển dụng lao động của
+người sử dụng lao động thông qua ứng dụng điện tử đăng ký việc tìm người - người
+tìm việc hoặc các ứng dụng khác có liên quan.
+
++ Thông tin việc tìm người được số hóa, chuẩn hóa từ
+nghiệp vụ thu thập, cập nhật thông tin về nhu cầu tuyển dụng lao động của người
+sử dụng lao động, nghiệp vụ về dịch vụ việc làm.
+
++ Thông tin được kết nối, chia sẻ với cơ sở dữ liệu
+quốc gia về đăng ký doanh nghiệp, cơ sở dữ liệu quốc gia về bảo hiểm xã hội.
+
+- Thông tin trong cơ sở dữ liệu việc tìm người được
+điều chỉnh, cập nhật từ các nguồn sau:
+
++ Kết quả của quá trình thực hiện các thủ tục, nghiệp
+vụ về thông tin thị trường lao động, dịch vụ việc làm.
+
++ Đề xuất sửa đổi, bổ sung của các cơ quan, tổ chức,
+cá nhân khi có thay đổi hoặc phát hiện các thông tin trong cơ sở dữ liệu việc
+tìm người chưa đầy đủ, chính xác.
+
++ Từ các cơ sở dữ liệu khác có liên quan khi có
+thay đổi.
+
+- Mẫu biểu: Mẫu số 01 Phụ lục ban hành kèm theo
+Thông tư số 11/2022/TT-BLĐTBXH hoặc Mẫu số 03/PL1, 03a/PL1 ban hành kèm theo
+Nghị định số 23/2021/NĐ-CP ngày 19 tháng 3 năm 2021 của Chính phủ quy định chi
+tiết khoản 3 Điều 37 và Điều 39 của Luật Việc làm về trung tâm dịch vụ việc
+làm, doanh nghiệp hoạt động dịch vụ việc làm.
+
+- Tần suất thu thập, cập nhật thông tin: Thường
+xuyên.
+
+- Trung tâm Dịch vụ việc làm thành phố Cần Thơ tổ
+chức thực hiện thu thập, cập nhật, quản lý thông tin trong cơ sở dữ liệu việc
+tìm người để phục vụ kết nối cung - cầu lao động ở địa phương.
+
+b) Xây dựng cơ sở dữ liệu người việc tìm
+
+- Cơ sở dữ liệu người tìm việc gồm các thông tin cơ
+bản nhân khẩu học, trình độ giáo dục phổ thông, trình độ và lĩnh vực giáo dục -
+đào tạo, kỹ năng về giáo dục nghề nghiệp, kinh nghiệm làm việc và nhu cầu về việc
+làm cần tìm của người lao động đang tìm việc làm.
+
+- Thông tin trong cơ sở dữ liệu người tìm việc được
+xác lập từ các nguồn sau:
+
++ Thông tin đăng ký tìm việc làm của người lao động
+thông qua ứng dụng điện tử đăng ký việc tìm người - người tìm việc.
+
++ Thông tin người tìm việc được số hóa, chuẩn hóa từ
+nghiệp vụ thu thập, cập nhật thông tin việc tìm người - người tìm việc, nghiệp
+vụ về dịch vụ việc làm.
+
++ Thông tin được kết nối, chia sẻ, xác thực với cơ
+sở dữ liệu quốc gia về dân cư và các cơ sở dữ liệu khác.
+
+- Thông tin trong cơ sở dữ liệu người tìm việc được
+điều chỉnh, cập nhật từ các nguồn sau:
+
++ Kết quả của quá trình thực hiện các thủ tục, nghiệp
+vụ về thông tin thị trường lao động, dịch vụ việc làm.
+
++ Đề xuất sửa đổi, bổ sung của các cơ quan, tổ chức,
+người lao động khi có thay đổi hoặc phát hiện các thông tin trong cơ sở dữ liệu
+người tìm việc chưa đầy đủ, chính xác.
+
++ Từ các cơ sở dữ liệu khác có liên quan khi có
+thay đổi.
+
+- Mẫu biểu: Mẫu số 02 Phụ lục ban hành kèm theo
+Thông tư số 11/2022/TT-BLĐTBXH hoặc Mẫu số 01/PL1, 01a/PL1 ban hành kèm theo
+Nghị định số 23/2021/NĐ-CP .
+
+- Tần suất thu thập, cập nhật: Thường xuyên.
+
+- Trung tâm Dịch vụ việc làm thành phố Cần Thơ thực
+hiện thu thập, cập nhật, quản lý thông tin trong cơ sở dữ liệu người tìm việc để
+phục vụ kết nối cung - cầu lao động ở địa phương.
+
+III. KHAI THÁC, SỬ DỤNG VÀ QUẢN
+LÝ CƠ SỞ DỮ LIỆU NGƯỜI LAO ĐỘNG, VIỆC TÌM NGƯỜI - NGƯỜI TÌM VIỆC
+
+1. Khai thác, sử dụng và quản
+lý cơ sở dữ liệu người lao động
+
+a) Các thông tin từ cơ sở dữ liệu về người lao động
+được sử dụng để làm cơ sở quản lý lao động và thiết lập sổ lao động điện tử cho
+người lao động.
+
+b) Cơ quan quản lý nhà nước về lao động, việc làm
+khai thác, sử dụng dữ liệu phục vụ các hoạt động quản lý nhà nước về lao động
+theo thẩm quyền.
+
+c) Người lao động sử dụng sổ lao động điện tử để thực
+hiện các giao dịch, thủ tục hành chính liên quan đến đào tạo, tuyển dụng lao động,
+tham gia các chính sách hỗ trợ về lao động, việc làm và các hoạt động của các
+cơ quan có liên quan.
+
+d) Cơ quan, tổ chức, cá nhân khai thác, sử dụng dữ
+liệu từ cơ sở dữ liệu người lao động qua cổng thông tin điện tử của Bộ Lao động
+- Thương binh và Xã hội, Cổng thông tin điện tử của địa phương và các hình thức
+khác do cơ quan có thẩm quyền cung cấp.
+
+2. Khai thác, sử dụng và quản
+lý cơ sở dữ liệu việc tìm người - người tìm việc
+
+a) Cơ sở dữ liệu việc tìm người - người tìm việc do
+Bộ Lao động - Thương binh và Xã hội xây dựng, quản lý thống nhất.
+
+b) Trung tâm Dịch vụ việc làm thành phố Cần Thơ:
+
+- Khai thác, sử dụng cơ sở dữ liệu việc tìm người -
+người tìm việc phục vụ nghiệp vụ thông tin thị trường lao động, dịch vụ việc
+làm, kết nối cung - cầu lao động.
+
+- Cập nhật, theo dõi, quản lý kết quả kết nối việc
+làm thành công giữa người lao động và người sử dụng lao động theo Mẫu số 04/PL1
+ban hành kèm theo Nghị định số 23/2021/NĐ-CP .
+
+c) Cơ quan quản lý nhà nước về việc làm khai thác
+và sử dụng dữ liệu phục vụ các hoạt động quản lý nhà nước về lao động, việc làm
+theo thẩm quyền.
+
+IV. TỔ CHỨC THỰC HIỆN
+
+1. Sở Lao động - Thương binh và Xã hội
+
+a) Chủ trì, phối hợp với các sở, ban, ngành có liên
+quan hướng dẫn triển khai thực hiện các nội dung xây dựng cơ sở dữ liệu người
+lao động, việc tìm người - người tìm việc trên địa bàn.
+
+b) Kiểm tra, giám sát, sơ kết, tổng kết, đánh giá,
+báo cáo kết quả thực hiện về Bộ Lao động - Thương binh và Xã hội trước ngày 15
+tháng 12.
+
+2. Công an thành phố
+
+a) Công an thành phố chỉ đạo triển khai nhập, cập
+nhật dữ liệu lao động vào phần mềm trên hệ thống cơ sở dữ liệu quốc gia về dân
+cư (theo tài liệu hướng dẫn của Bộ Công an) đảm bảo kịp thời, chính xác. Chỉ đạo
+Công an cấp xã phối hợp với cán bộ chuyên trách về lĩnh vực Lao động - Thương
+binh và Xã hội cấp xã cập nhật vào phần mềm trên hệ thống cơ sở dữ liệu quốc
+gia về dân cư các thông tin thay đổi hoặc bổ sung của công dân.
+
+b) Cung cấp các thống kê, báo cáo tình hình biến động
+của người lao động cho đơn vị chuyên trách cùng cấp phục vụ công tác quản lý
+khi có yêu cầu.
+
+3. Sở Tài chính
+
+a) Phối hợp với Sở Lao động - Thương binh và Xã hội
+tham mưu trình Ủy ban nhân dân thành phố về kinh phí thực hiện Kế hoạch.
+
+b) Hướng dẫn Sở Lao động - Thương binh và Xã hội và
+các địa phương thực hiện thanh, quyết toán kinh phí theo quy định.
+
+4. Ủy ban nhân dân các cấp
+
+a) Ủy ban nhân dân cấp huyện tổ chức thu thập, cập
+nhật, chỉnh sửa thông tin về người lao động cư trú trên địa bàn quản lý.
+
+b) Ủy ban nhân dân cấp xã tổ chức thu thập, cập nhật
+thông tin về người lao động cư trú trên địa bàn theo chỉ đạo của Ủy ban nhân
+dân cấp huyện.
+
+c) Báo cáo tình hình quản lý, khai thác sử dụng dữ
+liệu về lao động gửi Sở Lao động - Thương binh và Xã hội khi có yêu cầu của cơ
+quan quản lý.
+
+5. Trung tâm Dịch vụ việc làm thành phố Cần Thơ
+
+a) Thực hiện số hóa nghiệp vụ về dịch vụ việc làm,
+thông tin thị trường lao động đáp ứng nhu cầu thu thập, cập nhật, khai thác, quản
+lý và kết nối, báo cáo chia sẻ cơ sở dữ liệu việc tìm người - người tìm việc.
+
+b) Tổ chức thu thập, cập nhật và báo cáo dữ liệu
+thuộc phạm vi quản lý đảm bảo đầy đủ, chính xác, đúng thời hạn.
+
+Trên đây là Kế hoạch xây dựng cơ sở dữ liệu người
+lao động, việc tìm người - người tìm việc thành phố Cần Thơ năm 2023, Ủy ban
+nhân dân thành phố yêu cầu các cơ quan, đơn vị và địa phương tổ chức triển khai
+thực hiện./.
+
+ 
+
+ Nơi nhận:
+
+- Bộ LĐ-TB&XH;
+
+ - TT.TU; TT.HĐND TP;
+
+ - CT, PCT.UBND TP;
+
+ - UBMTTQVN TP;
+
+ - Công an thành phố;
+
+ - Sở, ban ngành và Đoàn thể TP;
+
+ - UBND quận, huyện;
+
+ - VP.UBND TP;
+
+ - Cổng TTĐT TP;
+
+ - Lưu: VT,HK
+
+TM. ỦY BAN NHÂN
+ DÂN
+
+ KT. CHỦ TỊCH
+
+ PHÓ CHỦ TỊCH
+
+ Nguyễn Thực Hiện--- THÔNG TIN THÊM ---
+Ten: Kế hoạch 100/KH-UBND về xây dựng cơ sở dữ liệu người lao động, việc tìm người - người tìm việc thành phố Cần Thơ năm 2023
+So hieu: 100/KH-UBND
+Loai van ban: Kế hoạch
+Linh vuc nganh: Lao động - Tiền lương
+Noi ban hanh: Thành phố Cần Thơ
+Nguoi ky: Nguyễn Thực Hiện
+Ngay ban hanh: 17/05/2023
+Ngay hieu luc: 17/05/2023
+Ngay dang: Dữ liệu đang cập nhật
+So cong bao: Dữ liệu đang cập nhật
+Tinh trang: Không xác định
+
+
+--- MỤC LỤC ---
+- KẾ HOẠCH XÂY DỰNG CƠ SỞ DỮ LIỆU NGƯỜI LAO ĐỘNG, VIỆC TÌM NGƯỜI - NGƯỜI TÌM VIỆC THÀNH PHỐ CẦN THƠ NĂM 2023
+  - I. MỤC ĐÍCH, YÊU CẦU
+  - II. NỘI DUNG THỰC HIỆN
+    - 1. Xây dựng cơ sở dữ liệu về người lao động
+    - 2. Xây dựng cơ sở dữ liệu về việc tìm người - người tìm việc
+  - III. KHAI THÁC, SỬ DỤNG VÀ QUẢN LÝ CƠ SỞ DỮ LIỆU NGƯỜI LAO ĐỘNG, VIỆC TÌM NGƯỜI - NGƯỜI TÌM VIỆC
+    - 1. Khai thác, sử dụng và quản lý cơ sở dữ liệu người lao động
+    - 2. Khai thác, sử dụng và quản lý cơ sở dữ liệu việc tìm người - người tìm việc
+  - IV. TỔ CHỨC THỰC HIỆN
+
+--- VĂN BẢN LIÊN QUAN ---
+
+Van ban duoc dan chieu:
+  - Quyết định 1371/QĐ-LĐTBXH năm 2021 về Bộ chuẩn trao đổi dữ liệu điện tử lĩnh vực Lao động, Người có công và... (ID: 496610)
+  - Nghị định 23/2021/NĐ-CP hướng dẫn Khoản 3 Điều 37 và Điều 39 Luật Việc làm về trung tâm dịch vụ việc làm, ... (ID: 468265)
+  - Quyết định 749/QĐ-TTg năm 2020 về phê duyệt "Chương trình Chuyển đổi số quốc gia đến năm 2025, định hướng ... (ID: 444136)
+  - Nghị định 47/2020/NĐ-CP về quản lý, kết nối và chia sẻ dữ liệu số của cơ quan nhà nước (ID: 439384)
+  - Luật việc làm 2013 (ID: 215628)
+
+Van ban duoc can cu:
+  - Thông tư 11/2022/TT-BLĐTBXH hướng dẫn nội dung thực hiện hỗ trợ việc làm bền vững thuộc Chương trình mục ... (ID: 520433)
+
+Van ban lien quan cung noi dung:
+  - Quyết định 2173/QĐ-UBND năm 2023 phê duyệt phương án tái cấu trúc quy trình giải quyết các thủ tục hành chính lĩnh vực Lao động - Thương binh và Xã hội được lựa chọn xây dựng dịch vụ công trực tuyến tích hợp trên Cổng Dịch vụ công quốc gia, kết nối, chia sẻ với Cơ sở dữ liệu quốc gia về dân cư thuộc thẩm quyền giải quyết của Sở Lao động-Thương binh và Xã hội, Ủy ban nhân dân cấp huyện và Ủy ban nhân dân cấp xã trên địa bàn thành phố Hà Nội (ID: 563331)
+  - Kế hoạch 190/KH-UBND về xây dựng cơ sở dữ liệu người lao động, việc tìm người - người tìm việc thành phố Cần Thơ năm 2022 (ID: 529905)
+  - Quyết định 16/2020/QĐ-UBND về Quy chế quản lý, vận hành và khai thác sử dụng Phần mềm quản lý cơ sở dữ liệu cán bộ, công chức, viên chức, người lao động tỉnh Tuyên Quang (ID: 453823)

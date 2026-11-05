@@ -1,0 +1,417 @@
+BỘ Y TẾ
+
+-------
+
+CỘNG HÒA XÃ
+ HỘI CHỦ NGHĨA VIỆT NAM
+
+ Độc lập - Tự do - Hạnh phúc 
+
+ ---------------
+
+Số : 25/2016/TT-BYT
+
+Hà Nội,
+ ngày 30 tháng 6 năm 2016
+
+ 
+
+THÔNG
+TƯ
+
+QUY
+ĐỊNH QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ ĐIỆN TỪ TRƯỜNG TẦN SỐ CÔNG NGHIỆP
+-
+MỨC TIẾP XÚC CHO PHÉP ĐIỆN TỪ TRƯỜNG TẦN SỐ CÔNG NGHIỆP TẠI NƠI LÀM
+VIỆC
+
+Căn cứ Luật
+an toàn, vệ sinh lao động số 84/2015/QH13 ngày 25 tháng 6 năm 2015;
+
+Căn cứ Luật
+tiêu chuẩn và quy chuẩn kỹ thuật số 68/2006/QH13 ngày 29 tháng 6 năm 2006;
+
+Căn cứ Nghị định số 127/2007/NĐ-CP ngày 01 tháng 8 năm 2007 của
+Chính phủ quy định chi Tiết thi hành một số Điều của Luật tiêu chuẩn và quy chuẩn kỹ thuật;
+
+Căn cứ Nghị định số 63/2012/NĐ-CP ngày 31/8/2012 của Chính phủ quy định
+chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Y tế;
+
+Theo đề nghị của Cục trưởng Cục Quản
+lý môi trường y tế;
+
+Bộ trưởng Bộ Y tế ban hành Thông tư
+quy định quy chuẩn kỹ thuật quốc gia về điện từ trường tần số công nghiệp - Mức tiếp
+xúc cho phép điện từ trường tần số công nghiệp tại nơi làm
+việc.
+
+Điều 1. Quy chuẩn kỹ
+thuật quốc gia về điện từ trường tần số công nghiệp
+
+Ban hành kèm theo Thông tư này QCVN 25/2016/BYT -
+Quy chuẩn kỹ thuật quốc gia về điện từ trường tần số công nghiệp - Mức tiếp xúc
+cho phép điện từ trường tần số công nghiệp tại nơi làm việc.
+
+Điều 2. Hiệu lực thi
+hành
+
+Thông tư này có hiệu lực từ ngày 01 tháng 12
+năm 2016.
+
+Điều 3. Trách nhiệm
+thi hành
+
+Cục trưởng Cục Quản lý môi trường y tế,
+Vụ trưởng, Cục trưởng, Tổng cục trưởng các Vụ, Cục, Tổng cục thuộc Bộ Y tế, Thủ
+trưởng các cơ quan, đơn vị trực thuộc Bộ, Giám đốc Sở Y tế các tỉnh, thành phố trực thuộc
+trung ương và Thủ trưởng cơ quan y tế các Bộ, ngành chịu trách nhiệm thi hành Thông
+tư này./.
+
+ 
+
+ 
+
+Nơi nhận:
+
+-
+ VPCP (Vụ KGVX, Công báo, Cổng TTĐT CP);
+
+-
+ Các Bộ, cơ quan ngang Bộ, cơ quan thuộc CP;
+
+-
+ Bộ Tư pháp (Cục Kiểm tra VBQPPL);
+
+-
+ Bộ trưởng (để báo cáo);
+
+-
+ Các đơn vị thuộc Bộ Y tế;
+
+-
+ UBND các tỉnh, thành
+ phố trực thuộc TW;
+
+-
+ Sở Y tế các tỉnh, thành
+ phố trực thuộc TW;
+
+-
+ Trung tâm YTDP các tỉnh, thành phố trực thuộc TW;
+
+-
+ Trung tâm BVSKLĐ&MT các tỉnh, thành phố trực thuộc TW;
+
+-
+ Tổng cục Tiêu
+ chuẩn đo lường chất lượng (để đăng bạ);
+
+-
+ Cổng thông tin điện tử Bộ Y tế;
+
+-
+ Lưu: VT, K2ĐT, PC, MT.
+
+KT. BỘ
+ TRƯỞNG
+
+ THỨ TRƯỞNG
+
+Nguyễn
+ Thanh Long
+
+ 
+
+QCVN
+25:2016/BYT
+
+QUY
+CHUẨN KỸ THUẬT QUỐC GIA VỀ ĐIỆN TỪ TRƯỜNG TẦN SỐ CÔNG NGHIỆP - MỨC TIẾP XÚC CHO
+PHÉP ĐIỆN TỪ TRƯỜNG TẦN SỐ CÔNG NGHIỆP TẠI NƠI LÀM VIỆC
+
+National
+Technical Regulation on Industrial Frequency
+Electromagnetic Fields - Permissible
+Exposure Level of Industrial Frequency
+Electromagnetic Fields in the Workplace
+
+Lời nói đầu
+
+QCVN 25:2016/BYT do
+Ban soạn thảo Quy chuẩn kỹ thuật quốc gia về vệ sinh lao động biên soạn, Cục Quản
+lý môi trường y tế trình duyệt và được ban hành kèm theo Thông tư số 25/2016/TT-BYT
+ngày
+30
+tháng 6 năm 2016 của Bộ trưởng Bộ Y tế.
+
+ 
+
+QUY CHUẨN KỸ
+THUẬT QUỐC GIA VỀ ĐIỆN TỪ TRƯỜNG TẦN SỐ CÔNG NGHIỆP - MỨC TIẾP XÚC CHO PHÉP
+ĐIỆN TỪ TRƯỜNG TẦN SỐ CÔNG NGHIỆP TẠI NƠI LÀM VIỆC
+
+National
+Technical Regulation on Industrial Frequency
+Electromagnetic Fields - Permissible
+Exposure Level of Industrial Frequency
+Electromagnetic Fields in the Workplace
+
+I. QUY ĐỊNH CHUNG
+
+1. Phạm vi Điều
+chỉnh
+
+Quy chuẩn này quy định mức tiếp xúc
+cho phép với điện từ trường tần số công nghiệp tại nơi làm việc.
+
+2. Đối tượng
+áp dụng
+
+Quy chuẩn này áp dụng cho các cơ quan
+quản lý nhà nước về môi trường;
+các cá nhân, tổ chức thực hiện quan trắc môi trường lao động; các cá nhân, tổ
+chức có các hoạt động gây ra hoặc chịu ảnh hưởng của điện từ trường tần số công
+nghiệp trong môi trường lao động.
+
+3. Giải thích
+từ ngữ
+
+Trong quy chuẩn này, các từ ngữ dưới
+đây được hiểu như sau:
+
+3.1. Điện từ trường (Electromagnetic):
+là một dạng vật chất đặc trưng cho tương tác giữa các hạt mang điện, do các hạt
+mang điện sinh ra và là trường thống nhất của điện trường và từ trường.
+
+3.2. Điện từ trường tần số công nghiệp
+(Industrial Frequency Electromagnetic Fields): Là sóng điện
+từ có tần số từ 50Hz đến 60Hz phát sinh do cảm ứng tĩnh điện và điện từ từ các
+nguồn điện, đường dây tải điện và các thiết bị dùng điện.
+
+3.3. Cường độ điện trường (Electric
+field intensity): Là độ lớn hiệu dụng của véctơ điện trường (E) tại một Điểm,
+xác định bằng lực (F) tác dụng lên một đơn vị điện tích (q) tại một Điểm trong trường,
+tính bằng vôn trên mét (V/m), nghĩa là.
+
+3.4. Cường độ từ trường (Magnetic
+field intensity): Là độ lớn hiệu dụng của véctơ từ trường.
+
+Cường độ từ trường được ký hiệu là H,
+đơn vị tính Ampe trên mét (A/m).
+
+II. QUY ĐỊNH KỸ THUẬT
+
+1. Mức tiếp xúc cho phép với điện trường
+
+- Khi người lao động không có thiết bị
+phòng tránh tác động của điện trường, thời gian làm việc tại nơi có điện trường
+được quy định tại bảng 1.
+
+Bảng 1. Mức
+tiếp xúc cho phép với điện trường tại nơi làm việc
+
+Cường độ điện
+ trường E
+
+(kV/m)
+
+<5
+
+5≤ E≤ 20
+
+20<E<25
+
+≥25
+
+Thời gian
+ tiếp xúc cho phép
+
+(Phút)
+
+Không hạn
+ chế
+
+(50/E-2).60
+
+10
+
+Không được
+ tiếp xúc
+
+- Khi người lao động sử dụng các thiết
+bị bảo hộ phòng tránh tác động của điện trường thì thời gian làm
+việc tại nơi có điện trường được thực hiện theo quy định riêng đối với từng loại
+thiết bị.
+
+2. Mức tiếp xúc cho phép với từ trường
+
+Mức tiếp xúc cho phép với từ trường được
+quy định tại bảng 2.
+
+Bảng 2. Mức
+tiếp xúc cho phép với từ trường tại nơi làm việc
+
+Thời gian
+ tiếp xúc cho phép
+
+(giờ)
+
+Cường độ từ
+ trường - H
+
+(A/m)
+
+8
+
+400
+
+<2
+
+4000
+
+III. PHƯƠNG PHÁP XÁC
+ĐỊNH
+
+Phương pháp đo điện từ trường tần số
+công nghiệp thực hiện như sau:
+
+1. Nguyên tắc
+
+- Đo đánh giá điện từ trường tại khu vực
+có nguồn phát sinh và khu vực người lao động làm việc chịu ảnh hưởng của điện từ
+trường tần số công nghiệp.
+
+- Đo vào các thời Điểm: Khi mới đưa thiết
+bị vào vận hành, khi tổ chức nơi làm việc mới, khi có thay đổi kết cấu thiết bị
+và đo định kỳ.
+
+- Khi đo phải tuân thủ tuyệt đối các
+quy phạm an toàn điện.
+
+2. Thiết bị đo
+
+- Thiết bị đo phải đáp ứng các quy định
+của pháp luật về đo lường và thiết bị đo điện từ trường tần số công nghiệp phải
+có đầu anten thu được điện từ trường tần số 50 - 60Hz.
+
+- Giới hạn đo:
+
++ Điện trường: 0,1 V/m - tối thiểu 30
+kV/m
+
++ Từ trường: 0,1 mA/m - tối thiểu 5000
+A/m
+
+- Độ nhạy tối thiểu: Điện trường 0,01 V/m; Từ trường:
+0,01 mA/m.
+
+3. Kỹ thuật đo
+
+- Đo điện từ trường tại các thiết bị
+dùng điện: Máy phát điện, máy biến thế đặt trên mặt đất, sàn làm việc: Đo ngang
+ngực người làm việc (nếu đứng), ngang đầu (nếu ngồi); nếu ở các tư thế khác đo
+tại vị trí cơ thể tiếp xúc gần nguồn nhất.
+
+- Đo điện từ trường tại các thiết bị
+cao thế, đường dây truyền tải điện:
+
++ Đối với đường dây truyền tải điện đo
+dưới đường dây hoặc Khoảng cách 1; 2; 5m vv... tính từ tim đường dây hoặc tại vị
+trí làm việc có ảnh hưởng của điện từ trường từ đường dây.
+
++ Đối với các trạm biến thế: Đo tại
+các vị trí trong trạm theo chức danh kỹ thuật.
+
++ Tại mỗi vị trí đo cần đo 3 Điểm ở độ
+cao 0,5m; 0,8m và 1,6m tính từ mặt đất hoặc sàn làm việc và cách bộ phận nối
+đất 0,5m, lấy kết quả trung bình.
+
+- Tiến hành đo: Đặt máy trên giá hoặc
+cầm tay. Bật máy, đo điện trường và từ trường tại các Điểm trên. Khi màn hình
+hiển thị kết quả đo ổn định, đọc và ghi kết quả vào biên bản đo hiện trường.
+
+IV. QUY ĐỊNH QUẢN LÝ
+
+1. Các cơ sở có người lao
+động tiếp xúc với điện từ trường tần số công nghiệp phải định kỳ đo, đánh giá
+điện từ trường tần số công nghiệp tối thiểu 1 lần/năm
+và theo các quy định của Bộ luật lao động, Luật an toàn, vệ sinh lao động.
+
+2. Người sử dụng lao động phải cung cấp
+đầy đủ phương tiện bảo hộ lao động cho người lao động phù hợp với môi trường
+làm việc theo quy định của pháp luật An toàn, vệ sinh lao động.
+
+3. Nếu điện từ trường tần số công nghiệp
+tại nơi làm việc vượt mức giới hạn cho phép, người sử dụng lao động phải thực
+hiện ngay các giải pháp cải thiện Điều kiện lao động và bảo vệ sức khỏe người
+lao động.
+
+V. TỔ CHỨC THỰC HIỆN
+
+1. Quy chuẩn này áp dụng thay thế cho
+Tiêu chuẩn từ trường tần số thấp và Tiêu chuẩn cường độ điện trường
+tần số thấp trong Tiêu chuẩn vệ sinh lao động ban hành theo Quyết định số 3733/2002/QĐ-BYT ngày 10 tháng 10 năm 2002 của Bộ
+trưởng Bộ Y tế.
+
+2. Cục Quản lý môi trường y tế - Bộ Y
+tế chủ trì, phối hợp với các cơ quan chức năng có liên quan hướng dẫn, triển khai và tổ
+chức việc thực hiện quy chuẩn này.
+
+3. Căn cứ thực tiễn yêu cầu quản lý, Cục
+Quản lý môi trường y tế có trách nhiệm kiến nghị Bộ Y tế sửa đổi, bổ
+sung cho phù hợp.
+
+4. Trong trường hợp các tiêu chuẩn quốc
+gia về điện từ trường tần số công nghiệp được viện dẫn trong Quy chuẩn này sửa
+đổi, bổ sung hoặc thay thế thì áp dụng theo các quy định tại văn bản mới.--- THÔNG TIN THÊM ---
+Ten: Thông tư 25/2016/TT-BYT Quy định Quy chuẩn kỹ thuật quốc gia về điện từ trường tần số công nghiệp - Mức tiếp xúc cho phép điện từ trường tần số công nghiệp tại nơi làm việc do Bộ trưởng Bộ Y tế
+So hieu: 25/2016/TT-BYT
+Loai van ban: Thông tư
+Linh vuc nganh: Lao động - Tiền lương, Thể thao - Y tế
+Noi ban hanh: Bộ Y tế
+Nguoi ky: Nguyễn Thanh Long
+Ngay ban hanh: 30/06/2016
+Ngay hieu luc: 01/12/2016
+Ngay dang: 03/09/2016
+So cong bao: Từ số 903 đến số 904
+Tinh trang: Còn hiệu lực
+
+
+--- MỤC LỤC ---
+- THÔNG TƯ QUY ĐỊNH QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ ĐIỆN TỪ
+  - Điều 1. Quy chuẩn kỹ thuật quốc gia về điện từ trường tần số công nghiệp
+  - Điều 2. Hiệu lực thi hành
+  - Điều 3. Trách nhiệm thi hành
+- QCVN 25:2016/BYT QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ ĐIỆN TỪ TRƯỜNG TẦN SỐ CÔNG NGHIỆP - MỨC TIẾP XÚC CHO PHÉP ĐIỆN TỪ TRƯỜNG TẦN SỐ CÔNG NGHIỆP TẠI NƠI LÀM VIỆC
+  - I. QUY ĐỊNH CHUNG
+    - 1. Phạm vi Điều chỉnh
+    - 2. Đối tượng áp dụng
+    - 3. Giải thích từ ngữ
+  - II. QUY ĐỊNH KỸ THUẬT
+  - III. PHƯƠNG PHÁP XÁC ĐỊNH
+  - IV. QUY ĐỊNH QUẢN LÝ
+  - V. TỔ CHỨC THỰC HIỆN
+
+--- VĂN BẢN LIÊN QUAN ---
+
+Van ban bi sua doi bo sung:
+  - Quyết định 3733/2002/QĐ-BYT về 21 tiêu chuẩn vệ sinh lao động, 05 nguyên tắc và 07 thông số vệ sinh lao ... (ID: 70480)
+
+Van ban duoc dan chieu:
+  - Bộ Luật lao động 2012 (ID: 142187)
+
+Van ban duoc can cu:
+  - Luật an toàn, vệ sinh lao động 2015 (ID: 281961)
+  - Nghị định 63/2012/NĐ-CP quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Y tế (ID: 146851)
+  - Nghị định 127/2007/NĐ-CP Hướng dẫn Luật Tiêu chuẩn và Quy chuẩn kỹ thuật (ID: 54148)
+  - Luật Tiêu chuẩn và quy chuẩn kỹ thuật 2006 (ID: 12979)
+
+Van ban lien quan ngon ngu:
+  - Circular No. 25/2016/TT-BYT dated June 30, 2016 on the National Technical Regulation on ... (ID: 453163)
+
+Van ban lien quan cung noi dung:
+  - Dự thảo Thông tư quy hoạch phân kênh tần số cho nghiệp vụ cố định băng tần (57000-66000) MHz do Bộ trưởng Bộ Thông tin và Truyền thông ban hành (ID: 321007)
+  - Thông tư 22/2016/TT-BYT Quy định Quy chuẩn kỹ thuật quốc gia về chiếu sáng - Mức cho phép chiếu sáng nơi làm việc do Bộ trưởng Bộ Y tế ban hành (ID: 318342)
+  - Thông tư 30/2016/TT-BYT Quy định Quy chuẩn kỹ thuật quốc gia về bức xạ tia X - Giới hạn liều tiếp xúc bức xạ tia X tại nơi làm việc do Bộ trưởng Bộ Y tế ban hành (ID: 318349)
+  - Công văn số 509/VPCP-CN về báo cáo ảnh hưởng điện từ trường công trình lưới điện cao áp do Văn phòng Chính phủ ban hành (ID: 61948)
+  - Công văn số 6815/VPCP-CN về việc điện từ trường công trình lưới điện cao áp do Văn phòng Chính phủ ban hành (ID: 58947)

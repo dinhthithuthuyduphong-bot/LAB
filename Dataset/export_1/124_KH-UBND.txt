@@ -1,0 +1,635 @@
+ỦY BAN NHÂN DÂN
+
+ TỈNH TUYÊN QUANG
+
+ -------
+
+CỘNG HÒA XÃ HỘI
+ CHỦ NGHĨA VIỆT NAM
+
+ Độc lập - Tự do - Hạnh phúc
+
+ ---------------
+
+Số: 124/KH-UBND
+
+Tuyên Quang, ngày
+ 29 tháng 6 năm 2024
+
+ 
+
+KẾ HOẠCH
+
+TRIỂN KHAI PHÁT TRIỂN THANH TOÁN KHÔNG DÙNG TIỀN MẶT TRONG
+CÔNG TÁC CHI TRẢ LƯƠNG HƯU, TRỢ CẤP BẢO HIỂM XÃ HỘI TRÊN NỀN CƠ SỞ DỮ LIỆU QUỐC
+GIA VỀ DÂN CƯ
+
+Căn cứ Chỉ thị số 21/CT-TTg 
+ngày 25/11/2022 của Thủ tướng Chính phủ về thúc đẩy chuyển đổi số trong chi trả
+an sinh xã hội không dùng tiền mặt;
+
+Căn cứ Quyết định số
+147/QĐ-BHXH ngày 31/01/2024 của Bảo hiểm xã hội Việt Nam ban hành Kế hoạch triển
+khai Đề án phát triển ứng dụng dữ liệu dân cư, định danh và xác thực điện tử phục
+vụ chuyển đổi số quốc gia năm 2024; Quyết định số 305/QĐ-BHXH ngày 19/3/2024 của
+Bảo hiểm xã hội Việt Nam về việc giao chỉ tiêu vận động, khuyến khích người nhận
+các chế độ bảo hiểm xã hội (BHXH), trợ cấp thất nghiệp (TCTN) qua phương tiện
+thanh toán không dùng tiền mặt khu vực đô thị năm 2024;
+
+Căn cứ Quy trình phối hợp số
+2286/C06-TCKT ngày 22/3/2024 của Cục Cảnh sát Quản lý hành chính về trật tự xã
+hội, Bộ Công an và Vụ tài chính kế toán, Bảo hiểm xã hội Việt Nam về phối hợp
+triển khai phát triển thanh toán không dùng tiền mặt trong công tác chi trả
+lương hưu, trợ cấp BHXH trên nền cơ sở dữ liệu quốc gia về dân cư (CSLDQGDC);
+
+Căn cứ Kế hoạch số 15/KH-UBND 
+ngày 26/01/2024 của Ủy ban nhân dân tỉnh về triển khai thực hiện Quyết định số
+06/QĐ-TTg ngày 06/01/2022 của Thủ tướng Chính phủ phê duyệt Đề án phát triển ứng
+dụng dữ liệu về dân cư, định danh và xác thực điện tử phục vụ chuyển đổi số quốc
+gia giai đoạn 2022-2025, tầm nhìn đến năm 2030 trên địa bàn tỉnh Tuyên Quang
+năm 2024;
+
+Ủy ban nhân dân tỉnh ban hành Kế
+hoạch triển khai phát triển thanh toán không dùng tiền mặt trong công tác chi
+trả lương hưu, trợ cấp BHXH trên nền cơ sở dữ liệu quốc gia về dân cư, cụ thể
+như sau:
+
+I. MỤC ĐÍCH,
+YÊU CẦU
+
+1. Mục đích
+
+- Đẩy mạnh thanh toán không
+dùng tiền mặt trong chi trả lương hưu và trợ cấp BHXH theo nhiều phương thức hiện
+đại, tiện lợi trên nền CSDLQGDC, góp phần xây dựng Chính phủ điện tử, Chính phủ
+số nâng cao khả năng tiếp cận dịch vụ thanh toán hiện đại của nền kinh tế, tăng
+cường ứng dụng công nghệ thông tin, chuyển đổi số.
+
+- Góp phần triển khai ứng dụng
+công nghệ thông tin, từng bước cải cách và đơn giản thủ tục hành chính, giấy tờ
+công dân trong chi trả lương hưu và trợ cấp BHXH; nâng cao hiệu lực, hiệu quả
+quản lý nhà nước, đổi mới về tổ chức và đẩy mạnh cung cấp dịch vụ công trực tuyến
+trong lĩnh vực an sinh xã hội, bảo đảm chi trả kịp thời, nhanh chóng, công
+khai, minh bạch và tiết kiệm chi phí hành chính.
+
+2. Yêu cầu
+
+- Đơn giản hóa các thủ tục hành
+chính trong chi trả lương hưu và trợ cấp BHXH không dùng tiền mặt; Bảo đảm người
+thụ hưởng nhận được chế độ, chính sách đúng, đủ, kịp thời và quy trình chi trả
+đơn giản, thuận lợi, dễ tiếp cận, dễ sử dụng và phù hợp với từng đối tượng thụ
+hưởng.
+
+- Chi trả không dùng tiền mặt
+phải dựa trên nhu cầu, nguyện vọng của người thụ hưởng và góp phần giảm chi
+phí, không phát sinh chi phí hành chính hoặc phát sinh thêm quy trình giải quyết
+chế độ, chính sách đối với người hưởng.
+
+- Công tác triển khai thực hiện
+đảm bảo theo đúng Quy trình phối hợp số 2286/C06-TCKT ngày 22/3/2024 của Cục Cảnh
+sát Quản lý hành chính về trật tự xã hội, Bộ Công an và Vụ tài chính kế toán,
+BHXH Việt Nam về phối hợp triển khai phát triển thanh toán không dùng tiền mặt
+trong công tác chi trả lương hưu, trợ cấp BHXH trên nền CSDLQGDC.
+
+II. MỤC TIÊU
+
+Phấn đấu hết năm 2024 có trên
+50% số người nhận lương hưu và trợ cấp BHXH qua phương tiện thanh toán không
+dùng tiền mặt; duy trì 98% số người nhận BHXH một lần và 100% số người nhận chế
+độ TCTN sử dụng phương tiện thanh toán không dùng tiền mặt.
+
+(chi tiết có Phụ lục số 01 gửi
+kèm theo)
+
+III. NHIỆM VỤ
+CHỦ YẾU
+
+Các sở, ban, ngành cấp tỉnh, Bảo
+hiểm xã hội tỉnh, Ủy ban nhân dân huyện, thành phố theo chức năng, nhiệm vụ có
+trách nhiệm tổ chức thực hiện các nhiệm vụ chủ yếu đảm bảo hoàn thành mục tiêu
+Kế hoạch.
+
+(chi tiết có Phụ lục số 02 gửi
+kèm theo)
+
+IV. TỔ CHỨC
+THỰC HIỆN
+
+1. Bảo
+hiểm xã hội tỉnh
+
+- Chủ trì, phối hợp với các sở,
+ban, ngành, tổ chức chính trị - xã hội, các địa phương, đơn vị liên quan triển
+khai có hiệu quả Kế hoạch; theo dõi, đôn đốc, kiểm tra, giám sát tình hình thực
+hiện, sơ kết, tổng kết đánh giá kết quả thực hiện Kế hoạch; định kỳ hằng năm tổng
+hợp, báo cáo kết quả thực hiện gửi Bảo hiểm xã hội Việt Nam, Ủy ban nhân dân tỉnh
+trước ngày 15/12, báo cáo hằng tháng và báo cáo đột xuất theo quy định; kịp thời
+tham mưu, đề xuất những nội dung thuộc thẩm quyền giải quyết của Ủy ban nhân
+dân tỉnh, Chủ tịch Ủy ban nhân dân tỉnh.
+
+- Phối hợp với các cơ quan, tổ
+chức cung cấp dịch vụ chi trả, dịch vụ thanh toán không dùng tiền mặt xây dựng
+phương án tổ chức triển khai thực hiện việc chi trả không dùng tiền mặt.
+
+- Chỉ đạo BHXH huyện, thành phố
+phối hợp chặt chẽ với lực lượng Công an cấp huyện, cấp xã làm nòng cốt trong việc
+tuyên truyền, hướng dẫn người thụ hưởng nhận lương hưu, trợ cấp BHXH qua phương
+tiện thanh toán không dùng tiền mặt và rà soát, xác minh làm sạch dữ liệu BHXH.
+
+- Tiếp tục chỉ đạo, hướng dẫn
+xây dựng, cập nhật cơ sở dữ liệu quản lý người hưởng lương hưu và trợ cấp BHXH
+kết nối với CSDLQGDC.
+
+2. Công an
+tỉnh
+
+- Phối hợp Bảo hiểm xã hội tỉnh
+tổ chức thực hiện thu thập, cập nhật, chỉnh sửa thông tin về người nhận lương
+hưu, trợ cấp bảo hiểm xã hội trên nền CSDLQGDC theo hướng dẫn của Cục Cảnh sát
+Quản lý hành chính về trật tự xã hội, Bộ Công an tại Quy trình phối hợp số
+2286/C06-TCKT ngày 22/3/2024.
+
+- Chỉ đạo lực lượng Công an ưu
+tiên tổ chức thu nhận hồ sơ cấp Thẻ Căn cước cho người thụ hưởng các chế độ
+BHXH theo danh sách BHXH tỉnh cung cấp; phối hợp với công chức Tư pháp – Hộ tịch
+cấp xã rà soát, đối chiếu giữa thông tin công dân trong CSDLQGDC và dữ liệu người
+hưởng trên địa bàn tỉnh; thực hiện cập nhật và xác thực thông tin đối tượng,
+thông tin tài khoản thanh toán vào hệ thống CSDLQGDC; đồng thời cung cấp các thống
+kê, báo cáo theo chức năng, thẩm quyền với Ủy ban nhân dân tỉnh (qua Bảo hiểm
+xã hội tỉnh) phục vụ công tác nghiệp vụ khi có yêu cầu.
+
+- Chỉ đạo lực lượng Công an cấp
+huyện, cấp xã phát huy vai trò Cơ quan Thường trực Tổ công tác triển khai Đề án
+06 các cấp chủ trì tham mưu đồng chí Tổ trưởng Tổ công tác Đề án 06 cùng cấp
+huy động mọi nguồn lực, sức mạnh của toàn hệ thống chính trị trong chỉ đạo, tổ
+chức triển khai thực hiện. Trong đó cán bộ BHXH địa phương, Công an cấp xã là
+nòng cốt, công chức văn hóa – xã hội cấp xã, cán bộ bưu điện; đồng thời huy động
+các nguồn nhân lực khác tại địa phương tham gia hỗ trợ tuyên truyền, hướng dẫn
+thực hiện thanh toán không dùng tiền mặt và rà soát, xác minh làm sạch dữ liệu
+BHXH.
+
+- Phối hợp với Bảo hiểm xã hội
+tỉnh, Ngân hàng Nhà nước Chi nhánh tỉnh Tuyên Quang, Sở Thông tin và Truyền
+thông và các đơn vị liên quan trong công tác đảm bảo an ninh, an toàn thông
+tin, phát hiện, phòng ngừa, ngăn chặn các hành vi vi phạm pháp luật trong thanh
+toán không dùng tiền mặt.
+
+- Phối hợp với Bảo hiểm xã hội
+tỉnh đôn đốc tổng hợp báo cáo tình hình, kết quả thực hiện Kế hoạch; báo cáo định
+kỳ vào ngày thứ 4 hằng tuần; trước ngày 15 hằng tháng; trước ngày 15 tháng 12 hằng
+năm hoặc đột xuất tổng hợp, báo cáo kết quả thực hiện gửi Bộ Công an, Ủy ban
+nhân dân tỉnh (qua Bảo hiểm xã hội tỉnh để tổng hợp) theo quy định.
+
+3. Sở Thông
+tin và Truyền thông
+
+- Chỉ đạo các cơ quan truyền
+thông của tỉnh phối hợp với Ngân hàng Nhà nước chi nhánh tỉnh Tuyên Quang, Công
+an tỉnh và các cơ quan, đơn vị liên quan thực hiện công tác thông tin tuyên
+truyền, hướng dẫn kiến thức về thanh toán không dùng tiền mặt, các tiện ích, tiện
+lợi, các chính sách của nhà nước, của tỉnh về đẩy mạnh thanh toán không dùng tiền
+mặt gắn với chuyển đổi số; cảnh báo các hành vi lừa đảo, biện pháp nhận biết rủi
+ro, cách phòng tránh và các giải pháp đảm bảo an toàn thông tin trong sử dụng
+công nghệ số, nền tảng số, tài khoản thanh toán không dùng 2 tiền mặt; phối hợp
+xử lý thông tin do tổ chức, cá nhân phản ánh về các hành vi gian lận, giả mạo,
+lừa đảo trong thanh toán không dùng tiền mặt.
+
+- Chỉ đạo các doanh nghiệp viễn
+thông có cung cấp dịch vụ ngân hàng số (MobileMoney), ví điện tử tham gia thực
+hiện việc chi trả không dùng tiền mặt cho người thụ hưởng trên địa bàn đảm bảo
+an toàn, hiệu quả, đồng thời tiếp tục triển khai các giải pháp phát triển hạ tầng
+số, nền tảng số, hạ tầng Internet trên địa bàn tỉnh; có chính sách hỗ trợ thiết
+bị, ưu đãi về dịch vụ Internet và dịch vụ công nghệ thông tin đối với người nhận
+lương hưu và trợ cấp BHXH khi sử dụng dịch vụ thanh toán không dùng tiền mặt.
+
+- Phối hợp với các cơ quan, đơn
+vị, địa phương liên quan thực hiện kết nối, chia sẻ dữ liệu giữa Hệ thống thông
+tin giải quyết thủ tục hành chính của tỉnh với Cổng dịch vụ công quốc gia và
+các hệ thống ngân hàng theo quy định, tạo điều kiện cho việc triển khai chi trả
+không dùng tiền mặt cho người thụ hưởng từ khi nộp hồ sơ đề nghị giải quyết chế
+độ.
+
+4. Ngân
+hàng Nhà nước chi nhánh tỉnh Tuyên Quang
+
+- Chỉ đạo các ngân hàng, tổ chức
+tín dụng trên địa bàn tỉnh: Chủ động tiếp cận và giới thiệu các dịch vụ chi trả,
+thanh toán không dùng tiền mặt; tạo điều kiện thuận lợi cho các cơ quan, đơn vị
+và người hưởng tiếp cận, sử dụng dịch vụ thanh toán không dùng tiền mặt; có
+chính sách phí dịch vụ phù hợp, có tính ưu đãi đối với các đối tượng; xem xét
+ưu tiên bố trí điều kiện về hạ tầng kỹ thuật, nâng cao chất lượng dịch vụ thanh
+toán nhằm tạo điều kiện thuận lợi để người hưởng trợ cấp nhận tiền qua tài khoản;
+phối hợp với Ủy ban nhân dân cấp xã, đơn vị làm nhiệm vụ chi trả tổ chức cấp
+tài khoản thanh toán cho người hưởng/người giám hộ/người được ủy quyền.
+
+- Chủ trì, phối hợp với Công an
+tỉnh, Sở Thông tin và Truyền thông, Bảo hiểm xã hội tỉnh và các cơ quan liên
+quan tiếp nhận, xử lý thông tin do tổ chức, cá nhân phản ánh về các hành vi
+gian lận, giả mạo, lừa đảo trong thanh toán không dùng tiền mặt.
+
+5. Báo
+Tuyên Quang, Đài Phát thanh và Truyền hình tỉnh
+
+- Đẩy mạnh công tác truyền
+thông về Kế hoạch này và Quyết định số 1813/QĐ-TTg ngày 28/10/2021 của Thủ tướng
+Chính phủ về việc phê duyệt Đề án phát triển thanh toán không dùng tiền mặt tại
+Việt Nam giai đoạn 2021-2025; Chỉ thị số 21/CT-TTg ngày 25/11/2022 của Thủ tướng
+Chính phủ về thúc đẩy chuyển đổi số trong chi trả an sinh xã hội không dùng tiền
+mặt và các văn bản có liên quan.
+
+- Kịp thời đưa tin, bài về những
+cách làm hay, hiệu quả của những cá nhân, đơn vị, địa phương thực hiện tốt nhiệm
+vụ chi trả lương hưu và trợ cấp BHXH không dùng tiền mặt.
+
+6. Đề nghị Ủy
+ban Mặt trận Tổ quốc Việt Nam và các tổ chức chính trị - xã hội tỉnh
+
+Phối hợp tuyên truyền đến cán bộ,
+công chức, đoàn viên, hội viên và nhân dân về phương thức, các lợi ích, các
+chính sách của Nhà nước, của tỉnh về hình thức thanh toán không sử dụng tiền mặt;
+tạo sự đồng thuận của người dân. Giám sát, phản biện việc triển khai thực hiện
+chi trả lương hưu và trợ cấp BHXH không dùng tiền mặt trên địa bàn tỉnh.
+
+7. Ủy ban
+nhân dân huyện, thành phố
+
+- Chủ trì và phối hợp với các
+đơn vị thực hiện các nội dung theo phân công tại Kế hoạch này có trách nhiệm chỉ
+đạo, triển khai thực hiện các nội dung Kế hoạch này trên địa bàn quản lý; tăng
+cường tuyên truyền về việc chuyển đổi hình thức chi trả lương hưu và trợ cấp
+BHXH bằng tiền mặt sang hình thức chi trả không dùng tiền mặt cho người thụ hưởng
+trên địa bàn.
+
+- Chỉ đạo BHXH huyện, thành phố
+phối hợp với các cơ quan liên quan hướng dẫn, theo dõi, giám sát, đôn đốc Ủy
+ban nhân dân các xã, phường, thị trấn triển khai thực hiện Kế hoạch này trên địa
+bàn.
+
+- Chỉ đạo Ủy ban nhân dân xã,
+phường, thị trấn; Tổ công tác triển khai Đề án 06 cấp xã thường xuyên rà soát
+tình hình tăng, giảm để kịp thời đề nghị điều chỉnh, bổ sung, đảm bảo thực hiện
+chế độ, chính sách đúng, đủ, kịp thời; huy động lực lượng phối hợp với Công an
+cấp xã thu thập, cập nhật thông tin về tài khoản của người hưởng và thực hiện
+xác nhận thông tin trên hệ thống CSDLQGDC.
+
+8. Các đơn
+vị cung cấp dịch vụ chi trả, các doanh nghiệp viễn thông, ngân hàng, tổ chức
+trung gian thanh toán
+
+- Phối hợp với BHXH tỉnh, BHXH
+huyện, thành phố xây dựng phương án, giải pháp chi trả lương hưu và trợ cấp
+BHXH không dùng tiền mặt.
+
+- Bảo đảm hạ tầng, công nghệ và
+các nền tảng số để triển khai chi trả không dùng tiền mặt, thực hiện đa dạng
+hóa các phương thức chi trả (qua tài khoản ngân hàng, tài khoản số hoặc ví
+điện tử...) và đảm bảo mạng lưới điểm chi trả tại cấp xã. Đối với các trường
+hợp đặc biệt (ốm đau bệnh nặng, không thể đi lại được và không có người nhận
+thay hoặc trường hợp đặc biệt khác) tổ chức cung cấp dịch vụ có trách nhiệm chi
+trả tại nhà cho người thụ hưởng.
+
+- Chuẩn bị dịch vụ đáp ứng yêu
+cầu chi trả trên cơ sở hình thức chi trả mà người hưởng lựa chọn. Bố trí cán bộ,
+nhân viên tại các xã, phường, thị trấn, các điểm giao dịch... để hướng dẫn đối
+tượng mở tài khoản và sử dụng tài khoản (đặc biệt là cách thức bảo mật thông
+tin tài khoản, cách thanh toán điện tử, cách rút tiền mặt trong tài khoản). Bố
+trí các điểm giao dịch, điểm rút tiền mặt thuận lợi, an toàn cho người hưởng dễ
+tiếp cận và rút tiền để sử dụng.
+
+- Tổ chức triển khai thực hiện
+các hoạt động truyền thông, tập huấn nâng cao năng lực và nhận thức cho cán bộ
+làm công tác chi trả chính sách các cấp và các đối tượng để triển khai thực hiện
+và ứng dụng trong việc nhận trợ cấp, thanh toán không dùng tiền mặt trên nền tảng
+số. Đặc biệt là hướng dẫn, tập huấn về kiến thức, kỹ năng số, sử dụng các ứng dụng
+nền tảng số để lập tài khoản thanh toán và thực hiện thanh toán không dùng tiền
+mặt; phổ biến kiến thức về các hành vi lừa đảo, biện pháp nhận biết rủi ro,
+cách phòng tránh và các giải pháp đảm bảo an ninh, an toàn, bảo mật trong sử dụng
+công nghệ số, nền tảng số để nhận trợ cấp, thanh toán không dùng tiền mặt cho
+người hưởng.
+
+- Có giải pháp hỗ trợ thiết bị,
+thuê bao điện thoại phù hợp cho các đối tượng yếu thế có hoàn cảnh đặc biệt khó
+khăn để mở tài khoản thanh toán.
+
+- Phối hợp chặt chẽ với chính
+quyền cấp huyện, cấp xã và các cơ quan thực hiện chính sách giải đáp thắc mắc,
+xử lý khiếu nại nhằm đảm bảo quyền, lợi ích hợp pháp của các đối tượng.
+
+Các sở, ngành, cơ quan, đơn vị,
+địa phương khẩn trương triển khai thực hiện Kế hoạch. Định kỳ báo cáo Ủy ban
+nhân dân tỉnh (qua Bảo hiểm xã hội tỉnh để tổng hợp) kết quả thực hiện
+theo quy định. Trong quá trình thực hiện, trường hợp phát sinh khó khăn, vướng
+mắc vượt thẩm quyền, kịp thời báo cáo Ủy ban nhân dân tỉnh (qua Bảo hiểm xã
+hội tỉnh để tổng hợp) chỉ đạo, giải quyết./.
+
+ 
+
+ Nơi nhận:
+
+- BHXH Việt Nam; (báo cáo);
+
+ - Thường trực Tỉnh ủy; (báo cáo);
+
+ - Thường trực HĐND tỉnh; (báo cáo);
+
+ - Chủ tịch UBND tỉnh
+
+ - Các PCT UBND tỉnh;
+
+ - UBMTTQ và các TCCTXH tỉnh;
+
+ - Các sở, ban, ngành cấp tỉnh;
+
+ - Báo Tuyên Quang;
+
+ - Đài PTTH tỉnh;
+
+ - VNPT Tuyên Quang;
+
+ - Viettel Tuyên Quang;
+
+ - Bưu điện Tuyên Quang;
+
+ - Các ngân hàng trên địa bàn tỉnh;
+
+ - UBND huyện, thành phố;
+
+ - CVP UBND tỉnh;
+
+ - Các Phó CVP UBND tỉnh;
+
+ - Cổng thông tin điện tử tỉnh;
+
+ - Phòng THVX; THCB-KSTTHC;
+
+ - Lưu VT, THVX (VB).
+
+TM. ỦY BAN NHÂN
+ DÂN
+
+ KT. CHỦ TỊCH
+
+PHÓ CHỦ TỊCH
+
+Hoàng Việt Phương
+
+ 
+
+PHỤ LỤC 01
+
+CHỈ TIÊU VẬN ĐỘNG, KHUYẾN
+KHÍCH NGƯỜI NHẬN LƯƠNG HƯU VÀ TRỢ CẤP BHXH QUA PHƯƠNG TIỆN THANH TOÁN KHÔNG
+DÙNG TIỀN MẶT NĂM 2024
+
+(Kèm theo Kế hoạch số 124/KH-UBND ngày 29/6/2024 của UBND tỉnh Tuyên Quang)
+
+TT
+
+Huyện/Thành phố
+
+Lương hưu và trợ cấp BHXH hằng tháng
+
+BHXH 1 lần
+
+TCTN
+
+1
+
+Thành phố Tuyên Quang
+
+52%
+
+98%
+
+100%
+
+2
+
+Huyện Na Hang
+
+50%
+
+98%
+
+100%
+
+3
+
+Huyện Chiêm Hóa
+
+55%
+
+98%
+
+100%
+
+4
+
+Huyện Hàm Yên
+
+47%
+
+98%
+
+100%
+
+5
+
+Huyện Yên Sơn
+
+47%
+
+98%
+
+100%
+
+6
+
+Huyện Sơn Dương
+
+47%
+
+99%
+
+100%
+
+7
+
+Huyện Lâm Bình
+
+50%
+
+98%
+
+100%
+
+ 
+
+Tổng
+
+50%
+
+98%
+
+100%
+
+ 
+
+PHỤ LỤC 02
+
+TỔNG HỢP MỘT SỐ NHIỆM VỤ CHỦ YẾU
+
+(Kèm theo Kế hoạch số 124/KH-UBND ngày 29/6/2024 của UBND tỉnh Tuyên Quang)
+
+TT
+
+NHIỆM VỤ CHỦ YẾU
+
+Cơ quan chủ trì
+
+Cơ quan phối hợp
+
+Thời gian hoàn thành
+
+1
+
+Vận động, tuyên truyền đến từng
+ người hưởng nhận chế độ qua phương thức thanh toán không dùng tiền mặt, kết hợp
+ xác minh, làm sạch dữ liệu người hưởng
+
+BHXH tỉnh, Công an tỉnh, Ủy
+ ban nhân dân huyện, thành phố
+
+Các tổ chức cung ứng dịch vụ
+ thanh toán không dùng tiền mặt; tổ chức dịch vụ ủy quyền đang thực hiện nhiệm
+ vụ chi trả lương hưu và trợ cấp BHXH
+
+Quý II/2024
+
+2
+
+Trích xuất, phân loại dữ liệu
+
+Công an tỉnh, BHXH tỉnh
+
+Công an tỉnh; các tổ chức
+ cung ứng dịch vụ thanh toán không dùng tiền mặt; tổ chức dịch vụ ủy quyền
+ đang thực hiện nhiệm vụ chi trả lương hưu và trợ cấp BHXH
+
+Quý II/2024
+
+3
+
+Lựa chọn đơn vị cung ứng dịch
+ vụ thanh toán cho người thụ hưởng
+
+BHXH tỉnh
+
+Các cơ quan, đơn vị có liên
+ quan
+
+Quý II/2024
+
+4
+
+Hỗ trợ mở tài khoản thanh
+ toán và hướng dẫn cách thức sử dụng tài khoản cho người hưởng
+
+BHXH tỉnh
+
+Các tổ chức cung ứng dịch vụ thanh
+ toán không dùng tiền mặt; tổ chức dịch vụ ủy quyền chi đang thực hiện nhiệm vụ
+ chi trả lương hưu và trợ cấp BHXH
+
+Quý II/2024
+
+5
+
+Hoàn thiện, cập nhật thông
+ tin tài khoản vào danh sách đăng ký hình thức nhận lương hưu và trợ cấp BHXH
+
+BHXH tỉnh
+
+Các tổ chức cung ứng dịch vụ
+ thanh toán không dùng tiền mặt; tổ chức đang thực hiện nhiệm vụ chi trả lương
+ hưu và trợ cấp BHXH
+
+Quý II/2024
+
+6
+
+Xác thực danh sách người nhận
+ lương hưu và trợ cấp BHXH, cập nhật đồng bộ trên hệ thống Cơ sở dữ liệu Quốc
+ gia về dân cư
+
+BHXH tỉnh
+
+Công an tỉnh; các tổ chức
+ cung ứng dịch vụ thanh toán không dùng tiền mặt; tổ chức đang thực hiện nhiệm
+ vụ chi trả lương hưu và trợ cấp BHXH
+
+Quý II/2024
+
+7
+
+Tổ chức chi trả cho người hưởng
+ qua phương thức không dùng tiền mặt (thực hiện thường xuyên, ngay khi nhận
+ đầy đủ hồ sơ)
+
+BHXH tỉnh
+
+Các các tổ chức cung ứng dịch
+ vụ thanh toán không dùng tiền mặt; tổ chức dịch vụ ủy quyền đang thực hiện
+ nhiệm vụ chi trả lương hưu và trợ cấp BHXH
+
+Hằng tháng--- THÔNG TIN THÊM ---
+Ten: Kế hoạch 124/KH-UBND năm 2024 triển khai phát triển thanh toán không dùng tiền mặt trong công tác chi trả lương hưu, trợ cấp bảo hiểm xã hội trên nền cơ sở dữ liệu quốc gia về dân cư do tỉnh Tuyên Quang ban hành
+So hieu: 124/KH-UBND
+Loai van ban: Kế hoạch
+Linh vuc nganh: Bảo hiểm, Lao động - Tiền lương
+Noi ban hanh: Tỉnh Tuyên Quang
+Nguoi ky: Hoàng Việt Phương
+Ngay ban hanh: 29/06/2024
+Ngay hieu luc: 29/06/2024
+Ngay dang: Dữ liệu đang cập nhật
+So cong bao: Dữ liệu đang cập nhật
+Tinh trang: Không xác định
+
+
+--- MỤC LỤC ---
+- KẾ HOẠCH TRIỂN KHAI PHÁT TRIỂN THANH TOÁN KHÔNG DÙNG TIỀN MẶT TRONG CÔNG TÁC CHI TRẢ LƯƠNG HƯU, TRỢ CẤP BẢO HIỂM XÃ HỘI TRÊN NỀN CƠ SỞ DỮ LIỆU QUỐC GIA VỀ DÂN CƯ
+  - I. MỤC ĐÍCH, YÊU CẦU
+  - II. MỤC TIÊU
+  - III. NHIỆM VỤ CHỦ YẾU
+  - IV. TỔ CHỨC THỰC HIỆN
+    - 1. Bảo hiểm xã hội tỉnh
+    - 2. Công an tỉnh
+    - 3. Sở Thông tin và Truyền thông
+    - 4. Ngân hàng Nhà nước chi nhánh tỉnh Tuyên Quang
+    - 5. Báo Tuyên Quang, Đài Phát thanh và Truyền hình tỉnh
+    - 6. Đề nghị Ủy ban Mặt trận Tổ quốc Việt Nam và các tổ chức chính trị - xã hội tỉnh
+    - 7. Ủy ban nhân dân huyện, thành phố
+    - 8. Các đơn vị cung cấp dịch vụ chi trả, các doanh nghiệp viễn thông, ngân hàng, tổ chức trung gian thanh toán
+  - PHỤ LỤC 01 CHỈ TIÊU VẬN ĐỘNG, KHUYẾN KHÍCH NGƯỜI NHẬN LƯƠNG HƯU VÀ TRỢ CẤP BHXH QUA PHƯƠNG TIỆN THANH TOÁN KHÔNG DÙNG TIỀN MẶT NĂM 2024
+  - PHỤ LỤC 02 TỔNG HỢP MỘT SỐ NHIỆM VỤ CHỦ YẾU
+
+--- VĂN BẢN LIÊN QUAN ---
+
+Van ban duoc dan chieu:
+  - Quyết định 1813/QĐ-TTg năm 2021 phê duyệt Đề án phát triển thanh toán không dùng tiền mặt tại Việt Nam giai... (ID: 492672)
+
+Van ban duoc can cu:
+  - Quyết định 147/QĐ-BHXH Kế hoạch triển khai Đề án phát triển ứng dụng dữ liệu dân cư, định danh và xác thực ... (ID: 599180)
+  - Kế hoạch 15/KH-UBND thực hiện Quyết định 06/QĐ-TTg phê duyệt Đề án phát triển ứng dụng dữ liệu về dân cư, ... (ID: 597141)
+  - Chỉ thị 21/CT-TTg năm 2022 về thúc đẩy chuyển đổi số trong chi trả an sinh xã hội không dùng tiền mặt do ... (ID: 540571)
+
+Van ban lien quan cung noi dung:
+  - Kế hoạch 155/KH-UBND năm 2024 thúc đẩy thực hiện thanh toán không dùng tiền mặt đối với dịch vụ điện trên địa bàn tỉnh Bắc Giang (ID: 625908)
+  - Kế hoạch 167/KH-UBND thu thập thông tin về người lao động gắn với cơ sở dữ liệu quốc gia về dân cư trên địa bàn tỉnh Tuyên Quang năm 2024 (ID: 625319)
+  - Quyết định 4696/QĐ-UBND năm 2024 về Quy chế tạm thời trong công tác triển khai ứng dụng giải pháp công nghệ để tìm kiếm và thanh toán giá dịch vụ trông giữ xe không sử dụng tiền mặt trên địa bàn Thành phố Hà Nội (ID: 623674)
+  - Kế hoạch 1709/KH-UBND năm 2024 triển khai phát triển thanh toán không dùng tiền mặt trong công tác chi trả lương hưu, trợ cấp Bảo hiểm xã hội trên nền cơ sở dữ liệu quốc gia về dân cư do tỉnh Hải Dương ban hành (ID: 610937)
+  - Quyết định 2408/QĐ-UBND năm 2023 về Kế hoạch triển khai thực hiện thanh toán không dùng tiền mặt đối với đối tượng hưởng chính sách an sinh xã hội trên địa bàn tỉnh Bắc Ninh (ID: 593260)
+  - Kế hoạch 225/KH-UBND năm 2023 thực hiện thanh toán không dùng tiền mặt cho đối tượng hưởng chính sách an sinh xã hội trên địa bàn tỉnh Hà Tĩnh (ID: 584568)
+  - Kế hoạch 192/KH-UBND năm 2022 thực hiện Đề án phát triển thanh toán không dùng tiền mặt trên địa bàn tỉnh Cà Mau giai đoạn 2022-2025 (ID: 589671)
+  - Kế hoạch 1509/KH-UBND năm 2022 thực hiện Quyết định 1813/QĐ-TTg phê duyệt Đề án phát triển thanh toán không dùng tiền mặt tại Việt Nam giai đoạn 2021-2025 trên địa bàn tỉnh Quảng Bình (ID: 551636)
+  - Kế hoạch 64/KH-UBND năm 2021 thực hiện công tác Bảo hiểm xã hội, Bảo hiểm y tế trên địa bàn thành phố Đà Nẵng giai đoạn 2021-2025 theo Nghị quyết 03/QĐ-TU (ID: 511156)

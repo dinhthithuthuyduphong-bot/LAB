@@ -1,0 +1,7584 @@
+BỘ GIAO THÔNG VẬN
+ TẢI
+
+ -------
+
+CỘNG HÒA XÃ HỘI
+ CHỦ NGHĨA VIỆT NAM
+
+ Độc lập - Tự do - Hạnh phúc 
+
+ ---------------
+
+Số: 31/VBHN-BGTVT
+
+Hà Nội, ngày 21
+ tháng 7 năm 2022
+
+ 
+
+THÔNG TƯ
+
+QUY ĐỊNH VỀ NHÂN VIÊN HÀNG KHÔNG; ĐÀO TẠO, HUẤN LUYỆN VÀ SÁT
+HẠCH NHÂN VIÊN HÀNG KHÔNG
+
+Thông tư số 10/2018/TT-BGTVT 
+ngày 14 tháng 3 năm 2018 của Bộ trưởng Bộ Giao thông vận tải quy định về nhân
+viên hàng không; đào tạo, huấn luyện và sát hạch nhân viên hàng không, có hiệu
+lực kể từ ngày 10 tháng 5 năm 2018, được sửa đổi, bổ sung bởi:
+
+Thông tư số 35/2021/TT-BGTVT 
+ngày 17 tháng 12 năm 2021 của Bộ trưởng Bộ Giao thông vận tải sửa đổi, bổ sung
+một số điều của Thông tư số 10/2018/TT-BGTVT ngày 14 tháng 3 năm 2018 của Bộ
+trưởng Bộ Giao thông vận tải quy định về nhân viên hàng không; đào tạo, huấn
+luyện và sát hạch nhân viên hàng không, có hiệu lực kể từ ngày 02 tháng 02 năm
+2022.
+
+Căn cứ Luật Hàng không dân dụng
+Việt Nam số 66/2006/QH11 ngày 29 tháng 6 năm 2006; Luật sửa đổi, bổ sung một số
+điều của Luật Hàng không dân dụng Việt Nam số 61/2014/QH13 ngày 21 tháng 11 năm
+2014;
+
+Căn cứ Nghị định
+66/2015/NĐ-CP ngày 12 tháng 8 năm 2015 của Chính phủ quy định về Nhà chức trách
+hàng không;
+
+Căn cứ Nghị định số
+92/2016/NĐ-CP ngày 01 tháng 7 năm 2016 của Chính phủ quy định về ngành, nghề
+kinh doanh có điều kiện trong lĩnh vực hàng không dân dụng;
+
+Căn cứ Nghị định số
+12/2017/NĐ-CP ngày 10 tháng 2 năm 2017 của Chính phủ quy định chức năng, nhiệm
+vụ, quyền hạn và cơ cấu tổ chức của Bộ Giao thông vận tải;
+
+Theo đề nghị của Vụ trưởng Vụ
+Tổ chức cán bộ và Cục trưởng Cục Hàng không Việt Nam; 
+
+Bộ trưởng Bộ Giao thông vận
+tải ban hành Thông tư quy định về nhân viên hàng không; đào tạo, huấn luyện và
+sát hạch nhân viên hàng không.1
+
+Chương I
+
+QUY ĐỊNH CHUNG
+
+Điều 1. Phạm
+vi điều chỉnh
+
+Thông tư này quy định về nhân
+viên hàng không; đào tạo, huấn luyện và sát hạch nhân viên hàng không.
+
+Điều 2. Đối
+tượng áp dụng
+
+Thông tư này áp dụng đối với
+nhân viên hàng không, các tổ chức, cá nhân liên quan đến công tác đào tạo, huấn
+luyện và sát hạch nhân viên hàng không.
+
+Điều 3. Quy
+ước viết tắt
+
+Trong Thông tư này, các chữ viết
+tắt dưới đây được hiểu như sau:
+
+1. ADS-B (Automatic Dependent
+Surveillance - Broadcast): giám sát phụ thuộc tự động - chế độ phát quảng bá.
+
+2. AFTN (Aeronautical Fixed
+Telecommunication Network): mạng viễn thông cố định hàng không.
+
+3. AIP (Aeronautical
+Information Publication): tập thông báo tin tức hàng không.
+
+4. AIS (Aeronautical
+Information Service): dịch vụ thông báo tin tức hàng không.
+
+5. AMHS (Air Traffic Service
+Message Handling System): hệ thống xử lý điện văn dịch vụ không lưu.
+
+6. ATFM (Air Traffic Flow
+Management): quản lý luồng không lưu.
+
+7. CNS (Communication,
+Navigation, Surveillance): thông tin, dẫn đường, giám sát hàng không.
+
+8. DME (Distance Measuring
+Equipment): thiết bị đo cự ly.
+
+9. FDP (Flight Plan Data
+Processing): xử lý hệ thống dữ liệu bay.
+
+10. GBAS (Ground Based
+Augmentation System): hệ thống tăng cường độ chính xác của tín hiệu vệ tinh dẫn
+đường đặt trên mặt đất.
+
+11. HF A/G (High Frequency
+Air/Ground): thông tin sóng ngắn không - địa.
+
+12. IATA (International Air
+Transport Association): hiệp hội vận tải hàng không quốc tế.
+
+13. ICAO (International Civil
+Aviation Organization): tổ chức hàng không dân dụng quốc tế.
+
+14. ILS (Instrument Landing
+System): hệ thống hạ cánh bằng thiết bị.
+
+15. ILS/DME/Marker (Instrument
+Landing System/Distance Measuring Equipment/Marker): hệ thống hạ cánh bằng thiết
+bị/thiết bị đo cự ly/đài chỉ mốc vô tuyến.
+
+16. NDB (Non Directional Radio
+Beacon): đài dẫn đường vô hướng.
+
+17. NOTAM (Notice to Airmen):
+điện văn thông báo hàng không.
+
+18. OJT (On-Job-Training): thực
+tập tại vị trí làm việc.
+
+19. PSR (Primary Surveillance
+Radar): ra đa giám sát sơ cấp.
+
+20. RDP (Radar Data
+Processing): xử lý dữ liệu ra đa.
+
+21. SSR (Secondary Surveillance
+Radar): ra đa giám sát thứ cấp.
+
+22. VHF A/G (Very High
+Frequency Air/Ground): thông tin sóng cực ngắn không - địa.
+
+23. VOR (Very High Frequency
+Omnidirectional Radio Range): đài vô tuyến đa hướng sóng cực ngắn.
+
+24. VCCS (Voice Communication
+Control System): hệ thống chuyển mạch thoại.
+
+Điều 4. Giải
+thích từ ngữ
+
+Trong Thông tư này, các từ ngữ
+dưới đây được hiểu như sau:
+
+1. Năng định là chứng nhận về
+năng lực chuyên môn của nhân viên hàng không đáp ứng đủ điều kiện thực hiện nhiệm
+vụ theo chức danh ghi trong giấy phép nhân viên hàng không.
+
+2. Chương trình đào tạo, huấn
+luyện ban đầu là chương trình đào tạo, huấn luyện bao gồm 02 (hai) phần: kiến
+thức chung về hàng không dân dụng và nghiệp vụ nhân viên hàng không. Sau khi
+hoàn thành chương trình này, học viên được cấp chứng chỉ chuyên môn.
+
+3. Chương trình huấn luyện năng
+định là chương trình huấn luyện dành cho nhân viên hàng không đã được cấp chứng
+chỉ chuyên môn để tham dự kỳ sát hạch cấp năng định theo quy định trong lĩnh vực
+chuyên ngành.
+
+4. Chương trình huấn luyện định
+kỳ là chương trình huấn luyện nhắc lại các kiến thức đã được học và bổ sung cập
+nhật kiến thức mới chuyên ngành hàng không để nhân viên hàng không duy trì khả
+năng làm việc ở vị trí năng định đã được cấp.
+
+5. Chương trình huấn luyện phục
+hồi là chương trình huấn luyện cho nhân viên hàng không có thời gian nghỉ giãn
+cách quá thời gian quy định để phục hồi khả năng đáp ứng công việc chuyên môn.
+
+6. Chương trình huấn luyện chuyển
+loại là chương trình huấn luyện cho nhân viên hàng không khi chuyển đổi vị trí
+chuyên môn hoặc chuyển đổi vị trí năng định.
+
+7. Chương trình huấn luyện bay
+làm quen là chương trình huấn luyện cho nhân viên không lưu tìm hiểu hoạt động
+của tổ lái trên buồng lái trong chuyến bay thương mại.
+
+8.2
+Cơ sở đào tạo, huấn luyện nghiệp vụ nhân viên hàng không (gọi tắt là cơ sở đào
+tạo) là cơ sở có đủ điều kiện hoạt động đào tạo, huấn luyện nghiệp vụ nhân viên
+hàng không theo quy định của pháp luật.
+
+9. Sát hạch nhân viên hàng
+không là việc kiểm tra để cấp giấy phép, năng định chuyên môn hoặc đánh giá để
+cấp chứng nhận trình độ tiếng Anh cho nhân viên hàng không.
+
+10.3
+Đào tạo, huấn luyện trực tuyến là hình thức đào tạo, huấn luyện nghiệp vụ nhân
+viên hàng không được thực hiện thông qua phần mềm đào tạo, huấn luyện trực tuyến
+và hạ tầng công nghệ thông tin trên nền tảng mạng Internet.
+
+11.4
+Học liệu đào tạo, huấn luyện trực tuyến bao gồm giáo trình, tài liệu giảng dạy
+hoặc tài liệu tham khảo, bài kiểm tra đánh giá được trình bày dưới hình thức
+các tập tin trình chiếu, hình ảnh, video, các ứng dụng tương tác trực tiếp giữa
+giáo viên và học viên.
+
+Điều 5. Thời
+gian giảng dạy, quy đổi thời gian giảng dạy5
+
+1. Thời gian giảng dạy trong chương
+trình đào tạo, huấn luyện được tính bằng tiết học.
+
+2. Quy đổi thời gian giảng dạy:
+01 (một) tiết lý thuyết là 45 phút, 01 (một) tiết thực hành là 60 phút.
+
+Chương II
+
+NHÂN VIÊN HÀNG KHÔNG
+
+Điều 6. Chức
+danh nhân viên hàng không
+
+1.6
+Thành viên tổ lái bao gồm lái chính, lái phụ và nhân viên hàng không khác phù hợp
+với loại tàu bay.
+
+2. Giáo viên huấn luyện bay.
+
+3. Tiếp viên hàng không.
+
+4. Nhân viên bảo dưỡng, sửa chữa
+tàu bay và thiết bị tàu bay.
+
+5. Nhân viên điều độ, khai thác
+bay.
+
+6. Nhân viên không lưu.
+
+7. Nhân viên thông báo tin tức
+hàng không.
+
+8. Nhân viên bản đồ, sơ đồ, dữ
+liệu hàng không.
+
+9. Nhân viên thông tin, dẫn đường,
+giám sát hàng không.
+
+10. Nhân viên khí tượng hàng
+không.
+
+11. Nhân viên thiết kế phương
+thức bay.
+
+12. Nhân viên tìm kiếm, cứu nạn
+hàng không dân dụng.
+
+13. Nhân viên kiểm soát an ninh
+hàng không.
+
+14. Nhân viên điều khiển, vận
+hành thiết bị hàng không, phương tiện hoạt động tại khu vực hạn chế của cảng
+hàng không, sân bay.
+
+15. Nhân viên khai thác mặt đất
+phục vụ chuyến bay.
+
+16. Nhân viên cứu nạn, chữa
+cháy tại cảng hàng không, sân bay.
+
+Điều 7. Nhiệm
+vụ theo chức danh của nhân viên hàng không
+
+1. Nhân viên kiểm soát an ninh
+hàng không thực hiện nhiệm vụ kiểm tra, soi chiếu, giám sát an ninh, duy trì trật
+tự, tuần tra, canh gác bảo vệ tại cảng hàng không, sân bay và các cơ sở khác
+theo quy định tại các văn bản quy phạm pháp luật chuyên ngành về an ninh hàng
+không.
+
+2. Nhân viên điều khiển, vận
+hành thiết bị hàng không, phương tiện hoạt động tại khu vực hạn chế của cảng
+hàng không, sân bay thực hiện nhiệm vụ điều khiển, vận hành thiết bị hàng
+không, phương tiện hoạt động tại khu vực hạn chế của cảng hàng không, sân bay
+theo quy định tại các văn bản quy phạm pháp luật chuyên ngành về quản lý, khai
+thác cảng hàng không, sân bay.
+
+3.7
+Nhân viên khai thác mặt đất phục vụ chuyến bay thực hiện một hoặc một số các
+nhiệm vụ: giám sát, điều phối, phục vụ hành khách, hành lý, hàng hóa, tàu bay tại
+cảng hàng không, sân bay và các cơ sở cung cấp dịch vụ hàng không nằm ngoài phạm
+vi ranh giới cảng hàng không, sân bay được Cục Hàng không Việt Nam cấp Giấy
+phép.
+
+4. Nhân viên cứu nạn, chữa cháy
+tại cảng hàng không, sân bay thực hiện nhiệm vụ cứu nạn, chữa cháy trong trường
+hợp xảy ra sự cố, tai nạn tại cảng hàng không, sân bay.
+
+5. Các chức danh nhân viên hàng
+không quy định tại các khoản 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11
+và 12 Điều 6 của Thông tư này thực hiện nhiệm vụ theo quy định tại các văn
+bản quy phạm pháp luật chuyên ngành hàng không về lĩnh vực tàu bay, khai thác
+tàu bay, quản lý và bảo đảm hoạt động bay.
+
+Điều 8.
+Tiêu chuẩn nhân viên hàng không
+
+1. Nhân viên hàng không quy định
+tại các khoản 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11 và 12 Điều 6 của
+Thông tư này đáp ứng tiêu chuẩn quy định tại các văn bản quy phạm pháp luật
+chuyên ngành hàng không về lĩnh vực tàu bay, khai thác tàu bay, quản lý và bảo
+đảm hoạt động bay.
+
+2. Nhân viên hàng không quy định
+tại khoản 13 Điều 6 của Thông tư này đáp ứng các tiêu chuẩn
+như sau:
+
+a) Là công dân Việt Nam đủ 18
+tuổi trở lên có lý lịch rõ ràng, đủ sức khỏe, tốt nghiệp trung học phổ thông trở
+lên;
+
+b) Không có tiền án, tiền sự
+theo quy định của pháp luật; không sử dụng ma túy, chất kích thích;
+
+c) Được Cục Hàng không Việt Nam
+cấp giấy phép nhân viên kiểm soát an ninh hàng không.
+
+3. Nhân viên hàng không quy định
+tại khoản 14, 15 và 16 Điều 6 của Thông tư này đáp ứng các
+tiêu chuẩn như sau:
+
+a) Là công dân Việt Nam hoặc nước
+ngoài đủ 18 tuổi trở lên có lý lịch rõ ràng, đủ sức khỏe, tốt nghiệp trung học
+phổ thông trở lên;
+
+b) Không có tiền án, tiền sự
+theo quy định của pháp luật; không sử dụng ma túy, chất kích thích;
+
+c) Đối với nhân viên hàng không
+quy định tại khoản 14 Điều 6 của Thông tư này phải được Cục
+Hàng không Việt Nam cấp giấy phép nhân viên điều khiển, vận hành thiết bị hàng
+không, phương tiện hoạt động tại khu vực hạn chế của cảng hàng không, sân bay;
+
+d) Đối với nhân viên hàng không
+quy định tại khoản 15 và 16 Điều 6 của Thông tư này phải có
+chứng chỉ chuyên môn chuyên ngành hàng không quy định tại khoản
+1 Điều 9 của Thông tư này.
+
+Điều 9. Chứng
+chỉ chuyên môn và Giấy chứng nhận trình độ tiếng Anh
+
+1. Chứng chỉ chuyên môn quy định
+tại Thông tư này, bao gồm một trong các loại sau:
+
+a) Chứng chỉ hoàn thành chương
+trình đào tạo, huấn luyện ban đầu chuyên ngành hàng không của cơ sở đào tạo được
+Cục Hàng không Việt Nam cấp phép theo mẫu tại Phụ lục
+01 ban hành kèm Thông tư này;
+
+b) Chứng nhận của cơ sở đào tạo
+được ICAO, IATA công nhận; cơ sở đào tạo của nước ngoài đã được Cục Hàng không
+Việt Nam công nhận theo quy định tại Điều 14 của Thông tư này;
+
+c) Chứng nhận điều khiển, vận
+hành phương tiện, thiết bị chuyên ngành hàng không của cơ sở sản xuất, chế tạo
+phương tiện, thiết bị;
+
+d) Văn bằng, chứng chỉ hoàn
+thành chương trình đào tạo cơ bản chuyên ngành hàng không của cơ sở đào tạo tại
+Việt Nam theo pháp luật về giáo dục đại học và giáo dục nghề nghiệp.
+
+2. Chứng chỉ chuyên môn quy định
+tại điểm b, c, d khoản 1 Điều này chỉ được công nhận tại Việt Nam với điều kiện
+người có văn bằng, chứng chỉ được đào tạo bổ sung các nội dung chưa được đào tạo
+theo chương trình đào tạo, huấn luyện ban đầu nghiệp vụ nhân viên hàng không tại
+cơ sở đào tạo được Cục Hàng không Việt Nam cấp phép.
+
+3. Giấy chứng nhận trình độ tiếng
+Anh cho nhân viên hàng không quy định tại Thông tư này được cấp bởi Cục trưởng
+Cục Hàng không Việt Nam theo mẫu tại Phụ lục 02 ban
+hành kèm Thông tư này.
+
+Điều 10.
+Giấy phép nhân viên hàng không
+
+1.8
+Giấy phép nhân viên hàng không được cấp cho cá nhân khi đảm bảo quy định tại Điều 8 của Thông tư này và đạt yêu cầu của kỳ sát hạch cấp giấy
+phép, năng định nhân viên hàng không của Cục Hàng không Việt Nam.
+
+2. Giấy phép nhân viên hàng
+không bao gồm các nội dung sau đây:
+
+a) Quốc hiệu nước Cộng hòa xã hội
+chủ nghĩa Việt Nam;
+
+b) Cơ quan cấp giấy phép;
+
+c) Tên giấy phép;
+
+d) Số giấy phép;
+
+đ) Ngày cấp, thời hạn của giấy
+phép (nếu có);
+
+e) Họ tên, ngày sinh, nơi sinh,
+địa chỉ, quốc tịch của người được cấp giấy phép;
+
+g) Năng định;
+
+h) Chữ ký của người được cấp giấy
+phép và dấu của cơ quan cấp giấy phép;
+
+i) Ảnh của người được cấp giấy
+phép được đóng dấu giáp lai;
+
+k) Yêu cầu khác theo quy định tại
+các văn bản quy phạm pháp luật chuyên ngành hàng không.
+
+3. Các chức danh nhân viên hàng
+không quy định tại các khoản 1, 2, 4, 5, 6, 7, 8, 9, 10, 11, 12,
+13 và 14 Điều 6 của Thông tư này khi thực hiện nhiệm vụ phải mang theo giấy
+phép nhân viên hàng không còn hiệu lực.
+
+4. Nhân viên hàng không không
+thuộc đối tượng được quy định tại khoản 3 Điều này khi thực hiện nhiệm vụ phải
+có chứng chỉ chuyên môn phù hợp.
+
+Điều 11.
+Danh mục và thời hạn hiệu lực của giấy phép và năng định nhân viên hàng không
+
+1. Danh mục giấy phép, năng định
+nhân viên hàng không được quy định tại Phụ lục 03
+ban hành kèm theo Thông tư này.
+
+2. Giấy phép nhân viên hàng
+không chỉ có hiệu lực khi năng định còn hiệu lực, riêng đối với giấy phép nhân
+viên hàng không quy định tại khoản 14 Điều 6 Thông tư này
+có hiệu lực là 07 (bảy) năm.
+
+Chương
+lII
+
+ĐÀO TẠO, HUẤN LUYỆN NGHIỆP
+VỤ NHÂN VIÊN HÀNG KHÔNG 
+
+Điều 12. Chương
+trình đào tạo, huấn luyện nghiệp vụ nhân viên hàng không
+
+1. Chương trình đào tạo, huấn
+luyện nghiệp vụ nhân viên hàng không bao gồm:
+
+a) Chương trình đào tạo, huấn
+luyện nghiệp vụ ban đầu để cấp chứng chỉ chuyên môn;
+
+b) Chương trình huấn luyện năng
+định nhân viên hàng không;
+
+c) Chương trình huấn luyện phục
+hồi nhân viên hàng không;
+
+d) Chương trình huấn luyện chuyển
+loại nhân viên hàng không;
+
+đ) Chương trình huấn luyện định
+kỳ nhân viên hàng không;
+
+e) Chương trình huấn luyện bay
+làm quen đối với kiểm soát viên không lưu.
+
+2. Chương trình đào tạo, huấn
+luyện đối với các chức danh nhân viên hàng không tại các khoản
+1, 2, 3, 4, 5 và 13 Điều 6 thực hiện theo quy định tại các văn bản quy phạm
+pháp luật chuyên ngành hàng không. Chương trình đào tạo, huấn luyện nghiệp vụ
+nhân viên hàng không đối với các chức danh còn lại thực hiện theo quy định tại Phụ lục 04, Phụ lục 05 ban
+hành kèm Thông tư này.
+
+Điều 13.
+Giáo trình đào tạo, huấn luyện nghiệp vụ nhân viên hàng không
+
+Giáo trình đào tạo, huấn luyện
+nghiệp vụ nhân viên hàng không do cơ sở đào tạo ban hành và phải phù hợp với chương
+trình đào tạo, huấn luyện quy định tại khoản 2 Điều 12 và khoản 1 Điều 21 Thông tư này.
+
+Điều 14.
+Công nhận cơ sở đào tạo, huấn luyện nghiệp vụ nhân viên hàng không ở nước ngoài
+
+Cục Hàng không Việt Nam căn cứ
+vào các văn bản quy phạm pháp luật chuyên ngành hàng không, các điều ước quốc tế
+nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên để công nhận cơ sở ở nước
+ngoài đào tạo, huấn luyện nghiệp vụ nhân viên hàng không của Việt Nam.
+
+Điều 15.
+Đào tạo, huấn luyện trực tuyến nghiệp vụ nhân viên hàng không9
+
+1. Hình thức đào tạo, huấn luyện
+trực tuyến chỉ áp dụng đối với các môn học lý thuyết.
+
+2. Nội dung đào tạo, huấn luyện
+trực tuyến phải tuân thủ các nội dung của chương trình đào tạo, huấn luyện theo
+quy định tại Điều 12 và khoản 1 Điều 21 của
+Thông tư này.
+
+3. Học liệu đào tạo, huấn luyện
+trực tuyến được xây dựng theo Chương trình đào tạo, huấn luyện nghiệp vụ nhân
+viên hàng không tại Điều 12 và khoản 1 Điều
+21 của Thông tư này.
+
+4. Phần mềm đào tạo, huấn luyện
+trực tuyến tổ chức lớp học trên không gian mạng thông qua kênh hình, kênh tiếng,
+kênh chữ (chia sẻ màn hình máy tính, thiết bị điện tử) và có chức năng sau:
+
+a) Giúp giáo viên giảng bài, tổ
+chức lưu trữ, chuyển tải học liệu đào tạo, huấn luyện trực tuyến tới học viên;
+theo dõi, kiểm tra, đánh giá kết quả học tập của học viên; theo dõi và hỗ trợ học
+viên khai thác nội dung học tập từ học liệu đào tạo, huấn luyện trực tuyến; tư
+vấn, hỗ trợ, trả lời câu hỏi và giải đáp thắc mắc của học viên trong quá trình
+học tập;
+
+b) Giúp học viên truy cập, khai
+thác nội dung học tập từ học liệu đào tạo, huấn luyện trực tuyến; thực hiện các
+hoạt động học tập và kiểm tra, đánh giá theo yêu cầu của giáo viên; đặt câu hỏi
+và trả lời câu hỏi đối với giáo viên và các học viên khác trong không gian học
+tập;
+
+c) Cho phép cơ sở đào tạo quản
+lý hồ sơ, tiến trình học tập, kết quả học tập của học viên và các hoạt động dạy
+của giáo viên; hỗ trợ quản lý các thông tin khác theo yêu cầu của cơ sở đào tạo
+và cơ quan quản lý nhà nước về đào tạo, huấn luyện nghiệp vụ nhân viên hàng
+không.
+
+5. Hạ tầng công nghệ thông tin
+phục vụ quản lý và tổ chức đào tạo, huấn luyện trực tuyến phải bảo đảm:
+
+a) Đường truyền Internet phải
+đáp ứng nhu cầu truy cập của người dùng, không để xảy ra hiện tượng nghẽn mạng
+hay quá tải;
+
+b) Thiết bị kết nối, máy tính,
+thiết bị đầu cuối có cấu hình phù hợp để cài đặt phần mềm đào tạo, huấn luyện
+trực tuyến;
+
+c) An toàn thông tin, bảo mật đối
+với chương trình, tài liệu giảng dạy thuộc tài liệu hạn chế theo quy định của
+pháp luật.
+
+6. Kiểm tra, đánh giá kết quả học
+tập trực tuyến:
+
+a) Kiểm tra, đánh giá kết quả học
+tập trực tuyến của học viên được thực hiện trực tiếp tại cơ sở đào tạo, huấn
+luyện. Trường hợp học viên không thể đến cơ sở đào tạo tại thời điểm kiểm tra,
+đánh giá kết quả học tập vì lý do bất khả kháng, thiên tai, dịch bệnh việc tổ
+chức kiểm tra, đánh giá kết quả học tập được thực hiện bằng hình thức trực tuyến;
+
+b) Việc kiểm tra, đánh giá kết
+quả học tập theo hình thức trực tuyến phải bảo đảm chính xác, công bằng, khách
+quan.
+
+7. Hồ sơ đào tạo, huấn luyện trực
+tuyến được quản lý và lưu trữ tại cơ sở đào tạo, huấn luyện gồm có:
+
+a) Hồ sơ có liên quan đến các nội
+dung quy định tại khoản 3 và khoản 6 của Điều này;
+
+b) Dữ liệu về quá trình đào tạo,
+huấn luyện trực tuyến trên hệ thống đào tạo, huấn luyện trực tuyến;
+
+c) Kế hoạch đào tạo, huấn luyện
+trực tuyến tại cơ sở đào tạo, huấn luyện theo các lớp học, môn học;
+
+d) Hồ sơ kiểm tra, đánh giá quá
+trình và kết quả học tập của học viên.
+
+Chương IV
+
+SÁT HẠCH NHÂN VIÊN HÀNG
+KHÔNG
+
+Điều 16. Hội
+đồng sát hạch
+
+1. Cục trưởng Cục Hàng không Việt
+Nam thành lập Hội đồng sát hạch để tổ chức sát hạch theo từng lĩnh vực chuyên
+môn và trình độ tiếng Anh để cấp giấy phép, năng định cho nhân viên hàng không.
+
+2. Cục Hàng không Việt Nam được
+phép sử dụng cơ sở vật chất, chuyên gia của các tổ chức trong và ngoài nước để
+tổ chức sát hạch nhân viên hàng không.
+
+3. Hội đồng làm việc phải có ít
+nhất 2/3 số thành viên tham dự, quyết định theo đa số; trường hợp các thành
+viên trong Hội đồng có ý kiến ngang nhau thì thực hiện theo kết luận của Chủ tịch
+Hội đồng.
+
+Điều 17.
+Nhiệm vụ của Hội đồng sát hạch
+
+1. Xây dựng và ban hành quy chế
+hoạt động của Hội đồng sát hạch.
+
+2. Thành lập Tổ sát hạch theo từng
+lĩnh vực chuyên môn và trình độ tiếng Anh.
+
+3. Tổ chức xây dựng kế hoạch
+sát hạch, quy trình sát hạch, nội dung sát hạch, đề và đáp án sát hạch trình Cục
+trưởng Cục Hàng không Việt Nam ban hành.
+
+4. Tổ chức sát hạch và báo cáo
+Cục trưởng Cục Hàng không Việt Nam kết quả sát hạch để cấp giấy phép, năng định
+chuyên môn, chứng nhận trình độ tiếng Anh cho nhân viên hàng không.
+
+5. Chủ tịch Hội đồng sát hạch
+chịu trách nhiệm về việc lựa chọn sát hạch viên và kết quả sát hạch trước Cục
+trưởng Cục Hàng không Việt Nam.
+
+6.10
+Tổ chức chấm phúc khảo (nếu có) đối với bài sát hạch trên giấy và thông báo kết
+quả cho người đề nghị phúc khảo.
+
+7.11
+Lập Biên bản làm việc của Hội đồng sát hạch theo mẫu quy định tại Phụ lục 06 ban hành kèm theo Thông tư này.
+
+Điều 18.
+Nhiệm vụ của Tổ sát hạch12
+
+1. Biên soạn câu hỏi, đề sát hạch
+lý thuyết, thực hành, đáp án và thang điểm phù hợp, báo cáo Hội đồng sát hạch.
+
+2. Kiểm tra phương tiện, trang
+thiết bị, địa điểm sát hạch, phương án bảo đảm an toàn trong quá trình sát hạch.
+
+3. Yêu cầu thí sinh chấp hành nội
+quy sát hạch; không để người không có nhiệm vụ vào phòng sát hạch lý thuyết,
+sát hạch thực hành.
+
+4. Lập biên bản, xử lý các trường
+hợp vi phạm nội quy trong phạm vi nhiệm vụ, quyền hạn được giao hoặc báo cáo Hội
+đồng sát hạch.
+
+5. Thực hiện việc sát hạch, tổng
+hợp kết quả, đánh giá kỳ sát hạch để báo cáo Hội đồng sát hạch.
+
+6. Sát hạch viên chịu trách nhiệm
+về kết quả sát hạch theo sự phân công của Tổ sát hạch. Tổ trưởng Tổ sát hạch chịu
+trách nhiệm về kết quả của kỳ sát hạch và báo cáo kết quả sát hạch trước Hội đồng
+sát hạch.
+
+Điều 19.
+Tiêu chuẩn sát hạch viên
+
+1. Sát hạch viên chuyên môn có
+các tiêu chuẩn như sau:
+
+a) Có tư tưởng chính trị, đạo đức
+lối sống tốt, không vi phạm kỷ luật trong 03 (ba) năm gần nhất;
+
+b) Có văn bằng, chứng chỉ đào tạo
+chuyên ngành phù hợp với lĩnh vực tham gia sát hạch;
+
+c) Có kinh nghiệm ít nhất 03
+(ba) năm làm việc ở vị trí chuyên môn phù hợp với lĩnh vực tham gia sát hạch.
+
+2. Sát hạch viên tiếng Anh đáp ứng
+một trong các tiêu chuẩn như sau:
+
+a) Là chuyên gia khai thác
+trong lĩnh vực chuyên ngành hàng không tương ứng, có ít nhất 05 (năm) năm kinh
+nghiệm, có trình độ cử nhân Anh ngữ hoặc tương đương, có chứng chỉ đánh giá tiếng
+Anh hàng không do cơ sở đào tạo được ICAO hoặc Cục Hàng không Việt Nam công nhận;
+
+b) Là giáo viên tiếng Anh có ít
+nhất 05 (năm) năm giảng dạy liên tục tại các trường đại học, có chứng nhận đánh
+giá tiếng Anh hàng không do cơ sở đào tạo được ICAO hoặc Cục Hàng không Việt
+Nam công nhận.
+
+Chương V
+
+ĐIỀU KHOẢN THI HÀNH
+
+Điều 20.
+Trách nhiệm của cơ sở đào tạo, huấn luyện nghiệp vụ nhân viên hàng không
+
+1. Báo cáo Cục Hàng không Việt
+Nam khi có sự thay đổi về các nội dung theo hồ sơ đề nghị cấp giấy chứng nhận đủ
+điều kiện đào tạo, huấn luyện nghiệp vụ nhân viên hàng không theo quy định của
+pháp luật chuyên ngành hàng không.
+
+2.13
+Tổ chức biên soạn và ban hành giáo trình đào tạo, huấn luyện phù hợp với quy định
+tại khoản 2 Điều 12 và khoản 1 Điều 21 của Thông
+tư này; quyết định hình thức đào tạo, huấn luyện trực tiếp hoặc đào tạo, huấn
+luyện trực tuyến.
+
+3. Tổ chức thực hiện đào tạo,
+huấn luyện nghiệp vụ nhân viên hàng không và cấp chứng chỉ chuyên môn theo quy
+định tại Thông tư này.
+
+4. Triển khai các giải pháp
+nâng cao chất lượng đào tạo, huấn luyện nghiệp vụ nhân viên hàng không.
+
+5.14
+Báo cáo Cục Hàng không Việt Nam về kết quả thực hiện hoạt động đào tạo, huấn
+luyện nghiệp vụ nhân viên hàng không, chi tiết như sau:
+
+a) Tên báo cáo: kết quả đào tạo,
+huấn luyện nghiệp vụ nhân viên hàng không;
+
+b) Nội dung báo cáo: các nội
+dung liên quan đến công tác đào tạo, huấn luyện nghiệp vụ nhân viên hàng không
+theo quy định tại Phụ lục 07, 07A, 07B;
+
+c) Phương thức gửi, nhận báo
+cáo: báo cáo định kỳ được thể hiện dưới hình thức văn bản giấy hoặc bản sao điện
+tử, được gửi bằng một trong các phương thức sau: gửi trực tiếp; gửi qua dịch vụ
+bưu chính hoặc các phương thức khác theo quy định của pháp luật;
+
+d) Tần suất báo cáo: định kỳ
+hàng năm;
+
+đ) Thời hạn gửi báo cáo: trước
+ngày 20 tháng 12 hàng năm;
+
+e) Thời gian chốt số liệu báo
+cáo: tính từ ngày 15 tháng 12 năm trước kỳ báo cáo đến ngày 14 tháng 12 năm thuộc
+kỳ báo cáo;
+
+g) Mẫu đề cương báo cáo: theo
+quy định tại Phụ lục 07, 07A, 07B ban hành
+kèm theo Thông tư này.
+
+6. Lưu giữ hồ sơ đào tạo, huấn
+luyện nghiệp vụ nhân viên hàng không theo quy định của pháp luật về lưu trữ.
+
+7. Chịu sự kiểm tra, giám sát của
+Bộ Giao thông vận tải, Cục Hàng không Việt Nam và các cơ quan nhà nước có thẩm
+quyền theo quy định hiện hành.
+
+Điều 21.
+Trách nhiệm của Cục Hàng không Việt Nam
+
+1. Ban hành chương trình đào tạo,
+huấn luyện nghiệp vụ nhân viên hàng không chi tiết.
+
+2. Kiểm tra, giám sát việc sát
+hạch, cấp giấy phép, năng định chuyên môn, chứng nhận trình độ tiếng Anh cho
+nhân viên hàng không.
+
+3. Xây dựng cơ sở dữ liệu và đầu
+tư trang thiết bị, cơ sở vật chất, áp dụng công nghệ thông tin để quản lý nhân
+viên hàng không, cơ sở đào tạo, sát hạch nhân viên hàng không.
+
+Điều 22. Điều
+khoản chuyển tiếp
+
+Các cơ sở đào tạo đã được Cục
+Hàng không Việt Nam cấp giấy chứng nhận có trách nhiệm hoàn thiện đầy đủ chương
+trình, giáo trình đào tạo, huấn luyện quy định tại Thông tư này trong thời hạn
+06 tháng kể từ ngày Thông tư có hiệu lực.
+
+Điều 23.
+Hiệu lực thi hành15
+
+Thông tư này có hiệu lực từ
+ngày 10 tháng 5 năm 2018 và thay thế Thông tư số 61/2011/TT-BGTVT ngày
+21/12/2011 của Bộ trưởng Bộ Giao thông vận tải quy định về nhân viên hàng
+không, cơ sở đào tạo, huấn luyện nghiệp vụ nhân viên hàng không và cơ sở đánh
+giá trình độ tiếng Anh nhân viên hàng không.
+
+Điều 24. Trách
+nhiệm thi hành
+
+Chánh Văn phòng Bộ, Chánh Thanh
+tra Bộ, các Vụ trưởng, Cục trưởng Cục Hàng không Việt Nam, Thủ trưởng các cơ
+quan, tổ chức và cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này./.
+
+ 
+
+ Nơi nhận:
+
+- Bộ trưởng (để b/c);
+
+ - Văn phòng Chính phủ (để đăng Công báo);
+
+ - Cổng Thông tin điện tử Chính phủ;
+
+ - Cổng Thông tin điện tử Bộ GTVT (để đăng tải);
+
+ - Lưu: Văn thư, PC (2).
+
+XÁC THỰC VĂN BẢN
+ HỢP NHẤT
+
+KT. BỘ TRƯỞNG 
+
+ THỨ TRƯỞNG
+
+ Lê Anh Tuấn
+
+ 
+
+PHỤ LỤC 01
+
+MẪU CHỨNG CHỈ CHUYÊN MÔN
+
+(Ban hành kèm theo Thông tư số 10/2018/TT-BGTVT ngày 14 tháng 3 năm 2018
+của Bộ trưởng Bộ Giao thông vận tải)
+
+CƠ SỞ ĐÀO TẠO,
+ HUẤN LUYỆN
+
+ TRAINING ORGANIZATION
+
+ -------
+
+CỘNG HÒA XÃ HỘI
+ CHỦ NGHĨA VIỆT NAM
+
+ Độc lập - Tự do - Hạnh phúc
+
+ SOCIALIST REPUBLIC OF VIETNAM
+
+ Independence - Freedom - Happiness
+
+ ---------------
+
+Biểu trưng của
+ cơ sở đào tạo, huấn luyện
+
+ 
+
+ 
+
+ 
+
+Ảnh màu
+
+ (Color photo)
+
+3 x 4 cm
+
+ 
+
+CHỨNG CHỈ
+ CHUYÊN MÔN
+
+ PROFESSIONAL CERTIFICATE
+
+ THỦ TRƯỞNG CƠ SỞ ĐÀO TẠO, HUẤN LUYỆN
+
+ HEAD OF TRANING ORGANIZATION
+
+ CHỨNG NHẬN
+
+ CERTIFIES THAT
+
+Ông/Bà (Mr/Ms):
+ ................................................................................................................................
+
+Ngày sinh (Date of birth):
+
+ ............................................................................................................................................................
+
+Nơi sinh (Place of birth):
+
+ ............................................................................................................................................................
+
+Đã hoàn thành khóa học ………………………………..Has
+ successfully completed the course of:
+ ....................................................................(Tên khóa
+ học/Name of the course)
+
+Thời gian khóa học từ ngày (from): ……………………………..đến
+ ngày (to): ..................................
+
+Tốt nghiệp loại (Grade):
+ ...................................................................................................................
+
+ 
+
+Số QĐ/Decision No:
+
+Số vào sổ/Manual No: /CCCM
+
+………,day
+ (ngày)... month (tháng)... year (năm)...
+
+THỦ TRƯỞNG CƠ SỞ ĐÀO TẠO, HUẤN LUYỆN
+
+ HEAD OF TRAINING ORGANIZATION
+
+(Ký tên, đóng dấu/Sign and Stamp)
+
+ 
+
+ 
+
+PHỤ LỤC 02
+
+MẪU CHỨNG NHẬN TRÌNH ĐỘ TIẾNG ANH
+
+(Ban hành kèm theo Thông tư số 10/2018/TT-BGTVT ngày 14 tháng 3 năm 2018 của
+Bộ trưởng Bộ Giao thông vận tải)
+
+BỘ GIAO THÔNG
+ VẬN TẢI
+
+MINISTRY OF TRANSPORT
+
+ CỤC HÀNG KHÔNG VIỆT NAM
+
+CIVIL AVIATION AUTHORITY OF VIET NAM
+
+ -------
+
+CỘNG HÒA XÃ HỘI
+ CHỦ NGHĨA VIỆT NAM
+
+ Độc lập - Tự do - Hạnh phúc
+
+ SOCIALIST REPUBLIC OF VIETNAM
+
+ Independence - Freedom - Happiness
+
+ ---------------
+
+ 
+
+ 
+
+Ảnh màu
+
+ (Color photo)
+
+3cm x 4cm
+
+ 
+
+CHỨNG NHẬN
+ TRÌNH ĐỘ TIẾNG ANH
+
+ CERTIFICATE OF ENGLISH LANGUAGE PROFICIENCY
+
+ CỤC TRƯỞNG CỤC HÀNG KHÔNG VIỆT NAM
+
+ DIRECTOR GENERAL OF CIVIL AVIATION AUTHORITY OF VIETNAM
+
+ CHỨNG NHẬN
+
+ CERTIFIES THAT
+
+Ông/Bà (Mr/Ms):
+ .............................................................................................................................
+
+Ngày sinh (Date of birth):.................................................................................................................
+
+Quốc tịch/Nationality:.......................................................................................................................
+
+Đạt trình độ tiếng Anh mức/Has achieved English
+ language proficiency level: ..............................
+
+Dành cho/For:
+ .................................................................................................................................
+
+Có giá trị từ/Validity from:………………………………………đến/until:
+ ..........................................
+
+ 
+
+Số QĐ/Decision No:
+
+Số vào sổ/Manual No: 
+
+………,
+ ngày…..tháng….năm….
+
+ …….., day…..month…..year…..
+
+CỤC TRƯỞNG
+
+ DIRECTOR GENERAL
+
+(Ký tên, đóng dấu/Sign and Stamp)
+
+ 
+
+PHỤ LỤC 0316
+
+DANH MỤC GIẤY PHÉP, NĂNG ĐỊNH NHÂN VIÊN HÀNG KHÔNG
+
+(Ban hành kèm theo Thông tư số 10/2018/TT-BGTVT ngày 14 tháng 3 năm 2018 của
+Bộ trưởng Bộ Giao thông vận tải)
+
+I. Giấy phép, năng định nhân
+viên hàng không nhóm khai thác, bảo dưỡng tàu bay và thiết bị tàu bay
+
+1. Giấy phép Người lái tàu bay
+tư nhân (PPL), Giấy phép Người lái tàu bay thương mại (CPL), Giấy phép Người
+lái tàu bay - tổ lái nhiều thành viên (MCPL), Giấy phép Người lái tàu bay vận tải
+hàng không thương mại (ATPL) gồm các năng định sau:
+
+a) Năng định chủng loại tàu
+bay;
+
+b) Năng định hạng tàu bay;
+
+c) Năng định loại tàu bay;
+
+d) Năng định khả năng bay bằng
+thiết bị.
+
+2. Giấy phép Giáo viên huấn luyện
+bay (FI) gồm có năng định giáo viên chủng loại và hạng tàu bay.
+
+3. Giấy phép Giáo viên mặt đất
+(huấn luyện bay lý thuyết dưới đất) gồm có năng định giáo viên mặt đất (giáo
+viên lý thuyết).
+
+4. Giấy phép Nhân viên cơ giới
+trên không, Giấy phép Nhân viên dẫn đường trên không gồm có năng định sau:
+
+a) Năng định chủng loại tàu
+bay;
+
+b) Năng định hạng tàu bay;
+
+c) Năng định loại tàu bay.
+
+5. Giấy phép Nhân viên kỹ thuật
+bảo dưỡng máy bay gồm có các năng định sau:
+
+a) Năng định hạng tàu bay cho
+nhân viên kỹ thuật bảo dưỡng tàu bay;
+
+b) Năng định loại tàu bay cho
+nhân viên kỹ thuật bảo dưỡng tàu bay.
+
+6. Giấy phép Nhân viên sửa chữa
+hàng không chuyên ngành gồm có năng định hạng tàu bay cho nhân viên sửa chữa
+hàng không chuyên ngành.
+
+7. Giấy phép Nhân viên điều độ
+khai thác bay (FD) gồm có các năng định sau:
+
+a) Năng định chủng loại tàu
+bay;
+
+b) Năng định hạng tàu bay;
+
+c) Năng định loại tàu bay.
+
+II. Giấy phép, năng định
+nhân viên hàng không nhóm bảo đảm hoạt động bay
+
+1. Giấy phép nhân viên không
+lưu với các năng định sau:
+
+a) Thủ tục bay;
+
+b) Kiểm soát tại sân bay;
+
+c) Kiểm soát tiếp cận không có
+giám sát ATS;
+
+d) Kiểm soát tiếp cận giám sát
+ATS;
+
+đ) Kiểm soát đường dài không có
+giám sát ATS;
+
+e) Kiểm soát đường dài giám sát
+ATS;
+
+g) Thông báo, hiệp đồng bay;
+
+h) ATFM;
+
+i) Kíp trưởng không lưu ở các vị
+trí: thủ tục bay; kiểm soát tại sân bay; kiểm soát tiếp cận, kiểm soát đường
+dài; thông báo, hiệp đồng bay; ATFM; 
+
+k) Huấn luyện viên không lưu,
+huấn luyện viên ATFM; 
+
+l) Đánh tín hiệu;
+
+m) Xử lý dữ liệu bay;
+
+n) Khai thác liên lạc sóng ngắn
+không - địa (HF A/G);
+
+o) Trợ giúp thủ tục kế hoạch
+bay.
+
+2. Giấy phép nhân viên CNS với
+các năng định sau:
+
+a) Khai thác, bảo dưỡng thiết bị
+thông tin sóng ngắn không - địa (HF A/G);
+
+b) Khai thác, bảo dưỡng thiết bị
+thông tin sóng cực ngắn không - địa (VHF A/G);
+
+c) Khai thác, bảo dưỡng hệ thống
+chuyển mạch thoại (VCCS);
+
+d) Khai thác, bảo dưỡng VOR; đ)
+Khai thác, bảo dưỡng DME; e) Khai thác, bảo dưỡng NDB;
+
+g) Khai thác, bảo dưỡng ILS
+(ILS/DME/Marker);
+
+h) Khai thác, bảo dưỡng hệ thống
+PSR;
+
+i) Khai thác, bảo dưỡng hệ thống
+SSR;
+
+k) Khai thác, bảo dưỡng hệ thống
+ADS-B;
+
+l) Khai thác, bảo dưỡng hệ thống
+xử lý dữ liệu bay;
+
+m) Khai thác, bảo dưỡng hệ thống
+xử lý dữ liệu ra đa, ADS-B, hệ thống ATM, hệ thống xử lý dữ liệu giám sát;
+
+n) Khai thác, bảo dưỡng hệ thống
+đèn tín hiệu và biển báo tại sân bay;
+
+o) Khai thác, bảo dưỡng GBAS;
+
+p) Bay kiểm tra, hiệu chuẩn thiết
+bị thông tin, dẫn đường, giám sát (CNS); bay đánh giá phương thức bay;
+
+q) Khai thác, bảo dưỡng VHF và
+VCCS (áp dụng cho đài kiểm soát không lưu tại cảng hàng không nội địa);
+
+r) Kíp trưởng CNS.
+
+3. Giấy phép nhân viên khí tượng
+hàng không với các năng định sau:
+
+a) Dự báo khí tượng hàng không;
+
+b) Quan trắc khí tượng hàng
+không;
+
+c) Kíp trưởng khí tượng hàng
+không.
+
+4. Giấy phép nhân viên AIS với
+các năng định sau:
+
+a) AIS sân bay;
+
+b) NOTAM;
+
+c) AIP;
+
+d) Kíp trưởng AIS sân bay; kíp
+trưởng NOTAM.
+
+5. Giấy phép nhân viên hiệp đồng
+tìm kiếm, cứu nạn HKDD với các năng định sau:
+
+a) Nhân viên Hiệp đồng tìm kiếm,
+cứu nạn tại Trung tâm Phối hợp tìm kiếm cứu nạn hàng không;
+
+b) Nhân viên Hiệp đồng tìm kiếm,
+cứu nạn tại Trung tâm Khẩn nguy sân bay.
+
+6. Giấy phép nhân viên thiết kế
+phương thức bay.
+
+7. Giấy phép nhân viên bản đồ,
+sơ đồ, dữ liệu hàng không với các năng định sau:
+
+a) Bản đồ, sơ đồ hàng không;
+
+b) Dữ liệu hàng không.
+
+III. Giấy phép, năng định nhân
+viên hàng không nhóm điều khiển, vận hành thiết bị hàng không, phương tiện hoạt
+động tại khu vực hạn chế của cảng hàng không, sân bay
+
+Giấy phép nhân viên hàng không
+nhóm điều khiển, vận hành thiết bị hàng không, phương tiện hoạt động tại khu vực
+hạn chế của cảng hàng không, sân bay với các năng định sau:
+
+1. Điều khiển xe/moóc băng chuyền.
+
+2. Điều khiển xe ô tô thông thường
+(xe tải, xe bán tải, xe chở khách trên khu bay từ 4 đến dưới 30 chỗ, xe cứu
+thương, xe dẫn tàu bay).
+
+3. Điều khiển xe chở khách trên
+khu bay từ 30 chỗ trở lên.
+
+4. Điều khiển xe suất ăn.
+
+5. Điều khiển xe cấp nước sạch.
+
+6. Điều khiển xe chữa cháy.
+
+7. Điều khiển xe đầu kéo.
+
+8. Điều khiển xe kéo đẩy tàu
+bay dùng cần kéo đẩy.
+
+9. Điều khiển xe kéo đẩy tàu
+bay không dùng cần kéo đẩy.
+
+10. Điều khiển xe nâng hàng.
+
+11. Điều khiển xe xúc nâng.
+
+12. Điều khiển xe phục vụ hành
+khách hạn chế khả năng di chuyển.
+
+13. Điều khiển xe/moóc phun
+sơn.
+
+14. Điều khiển xe thang.
+
+15. Điều khiển xe trung chuyển
+thùng hàng.
+
+16. Điều khiển xe hút vệ sinh.
+
+17. Điều khiển xe tra nạp nhiên
+liệu cho các phương tiện hoạt động trên khu bay.
+
+18. Điều khiển xe tra nạp nhiên
+liệu tàu bay.
+
+19. Điều khiển xe truyền tiếp
+nhiên liệu.
+
+20. Điều khiển xe cần cẩu.
+
+21. Điều khiển xe cắt cỏ.
+
+22. Điều khiển xe tẩy vệt cao
+su và vệt sơn.
+
+23. Điều khiển xe/moóc nâng phục
+vụ kỹ thuật tàu bay.
+
+24. Điều khiển xe nâng vật tư,
+hàng hóa rời.
+
+25. Điều khiển xe vệ sinh sân
+đường, khu bay (xe ép rác, xe quét đường, xe hút bồn, xe rửa đường, xe phun nước).
+
+26. Điều khiển máy xúc đào.
+
+27. Điều khiển phương tiện phục
+vụ khai thác khu bay (xe trám khe Mastic, xe đo ma sát).
+
+28. Điều khiển các loại cẩu và
+thiết bị nâng.
+
+29. Điều khiển xe nâng tự hành,
+thang nâng người.
+
+30. Điều khiển xe bán tải kéo
+rơ moóc.
+
+31. Điều khiển xe cấp điện cho
+tàu bay.
+
+32. Điều khiển xe cấp khí khởi
+động tàu bay.
+
+33. Điều khiển xe điều hòa
+không khí.
+
+34. Vận hành thiết bị thùng
+nâng xe suất ăn.
+
+35. Vận hành thang kéo đẩy tay.
+
+36. Vận hành cầu hành khách.
+
+37. Vận hành thiết bị cấp điện
+cho tàu bay.
+
+38. Vận hành thiết bị cấp khí
+khởi động tàu bay.
+
+39. Vận hành thiết bị tra nạp
+nhiên liệu.
+
+40. Vận hành thiết bị thủy lực
+phục vụ công tác kỹ thuật tàu bay.
+
+41. Vận hành thiết bị điều hòa
+không khí.
+
+42. Vận hành thiết bị chiếu
+sáng di động.
+
+43. Vận hành thiết bị cấp khí nén,
+khí ô xy, khí ni tơ.
+
+44. Vận hành băng chuyền kéo đẩy
+tay.
+
+45. Vận hành thiết bị cấp nước
+sạch.
+
+46. Vận hành thiết bị hút vệ
+sinh.
+
+47. Vận hành thiết bị nâng người.
+
+48. Điều khiển xe chở người 4
+bánh có gắn động cơ.
+
+IV. Giấy phép, năng định
+nhân viên hàng không nhóm kiểm soát an ninh hàng không
+
+1. An ninh soi chiếu.
+
+2. An ninh kiểm soát.
+
+3. An ninh cơ động.
+
+ 
+
+PHỤ LỤC 0417
+
+CHƯƠNG TRÌNH ĐÀO TẠO, HUẤN LUYỆN NGHIỆP VỤ NHÂN VIÊN HÀNG
+KHÔNG NHÓM KHAI THÁC CẢNG HÀNG KHÔNG, SÂN BAY 
+
+(Ban hành kèm theo Thông tư số 10/2018/TT-BGTVT ngày 14 tháng 3 năm 2018
+của Bộ trưởng Bộ Giao thông vận tải)
+
+A. CHƯƠNG
+TRÌNH ĐÀO TẠO, HUẤN LUYỆN BAN ĐẦU 
+
+CHƯƠNG I. KIẾN THỨC CHUNG VỀ
+HÀNG KHÔNG DÂN DỤNG
+
+1. Mục tiêu
+
+Trang bị cho người học những nội
+dung kiến thức chung về hàng không dân dụng và kỹ năng cơ bản về lĩnh vực khai
+thác cảng hàng không, sân bay trước khi tham gia đào tạo kiến thức chuyên môn
+nghiệp vụ. Học viên sau khi hoàn thành khóa học sẽ được cấp Quyết định công nhận
+kết quả hoàn thành khóa học.
+
+2. Đối tượng
+
+Học viên là người do các đơn vị
+hoạt động tại cảng hàng không, sân bay chỉ định tham gia các khóa đào tạo, huấn
+luyện nghiệp vụ nhân viên hàng không nhóm khai thác cảng hàng không, sân bay.
+
+3. Nội dung, thời lượng
+
+Số TT
+
+Nội dung
+
+Thời lượng tối thiểu (tiết)
+
+Lý thuyết
+
+1
+
+Khái quát chung về hàng không
+ dân dụng
+
+08
+
+08
+
+2
+
+Pháp luật về hàng không dân dụng
+
+08
+
+08
+
+3
+
+An ninh hàng không (theo
+ quy định của pháp luật về an ninh hàng không dân dụng)
+
+ 
+
+ 
+
+4
+
+An toàn hàng không
+
+24
+
+24
+
+5
+
+Công tác khẩn nguy tại cảng
+ hàng không, sân bay
+
+04
+
+04
+
+6
+
+Hàng nguy hiểm (theo quy định
+ của pháp luật về an toàn hàng không và IATA)
+
+ 
+
+ 
+
+ 
+
+Kiểm tra (áp dụng
+ cho từng nội dung)
+
+01
+
+01
+
+CHƯƠNG II. NGHIỆP VỤ NHÂN
+VIÊN HÀNG KHÔNG
+
+1. Mục tiêu
+
+Trang bị cho người học những nội
+dung kiến thức về chức trách, nhiệm vụ, kỹ năng nghiệp vụ về lĩnh vực khai thác
+cảng hàng không, sân bay. Học viên sau khi hoàn thành khóa học sẽ được cấp chứng
+chỉ chuyên môn cho từng loại nghiệp vụ được đào tạo, huấn luyện.
+
+2. Đối tượng
+
+Học viên là người do các đơn vị
+hoạt động tại cảng hàng không, sân bay chỉ định tham gia các khóa đào tạo, huấn
+luyện nghiệp vụ nhân viên hàng không nhóm khai thác cảng hàng không, sân bay đã
+hoàn thành đào tạo, huấn luyện “Kiến thức chung về hàng không, dân dụng”.
+
+Mục 1. Nhân viên điều khiển,
+vận hành thiết bị hàng không, phương tiện hoạt động tại khu vực hạn chế của cảng
+hàng không, sân bay
+
+1. Nội dung, thời lượng
+
+Số TT
+
+Nội dung
+
+Thời lượng tối thiểu (tiết)
+
+Trong đó
+
+Lý thuyết
+
+Thực hành
+
+I
+
+Kiến thức chung về phương
+ tiện, thiết bị chuyên ngành hàng không
+
+12
+
+12
+
+ 
+
+II
+
+Chuyên môn nghiệp vụ
+
+ 
+
+ 
+
+ 
+
+1
+
+Điều khiển xe/moóc băng chuyền
+
+32
+
+16
+
+16
+
+2
+
+Điều khiển xe ô tô thông thường
+ (xe tải, xe bán tải, xe chở khách trên khu bay từ 4 đến dưới 30 chỗ, xe cứu
+ thương, xe dẫn tàu bay)
+
+16
+
+08
+
+08
+
+3
+
+Điều khiển xe chở khách trên
+ khu bay từ 30 chỗ trở lên
+
+16
+
+08
+
+08
+
+4
+
+Điều khiển xe suất ăn
+
+48
+
+16
+
+32
+
+5
+
+Điều khiển xe cấp nước sạch
+
+20
+
+08
+
+12
+
+6
+
+Điều khiển xe chữa cháy
+
+64
+
+32
+
+32
+
+7
+
+Điều khiển xe đầu kéo
+
+68
+
+12
+
+56
+
+8
+
+Điều khiển xe kéo đẩy tàu bay
+ dùng cần kéo đẩy
+
+128
+
+16
+
+112
+
+9
+
+Điều khiển xe kéo đẩy tàu bay
+ không dùng cần kéo đẩy.
+
+54
+
+16
+
+38
+
+10
+
+Điều khiển xe nâng hàng
+
+72
+
+16
+
+56
+
+11
+
+Điều khiển xe xúc nâng
+
+24
+
+8
+
+16
+
+12
+
+Điều khiển xe phục vụ hành
+ khách hạn chế khả năng di chuyển
+
+48
+
+16
+
+32
+
+13
+
+Điều khiển xe/moóc phun sơn
+
+36
+
+12
+
+24
+
+14
+
+Điều khiển xe thang
+
+56
+
+16
+
+40
+
+15
+
+Điều khiển xe trung chuyển
+ thùng hàng
+
+20
+
+04
+
+16
+
+16
+
+Điều khiển xe hút vệ sinh
+
+20
+
+08
+
+12
+
+17
+
+Điều khiển xe tra nạp nhiên
+ liệu cho các phương tiện hoạt động trên khu bay
+
+24
+
+08
+
+16
+
+18
+
+Điều khiển xe tra nạp nhiên
+ liệu tàu bay
+
+64
+
+30
+
+34
+
+19
+
+Điều khiển xe truyền tiếp
+ nhiên liệu
+
+40
+
+16
+
+24
+
+20
+
+Điều khiển xe cần cẩu
+
+50
+
+16
+
+34
+
+21
+
+Điều khiển xe cắt cỏ
+
+32
+
+12
+
+20
+
+22
+
+Điều khiển xe tẩy vệt cao su
+ và vệt sơn
+
+36
+
+12
+
+24
+
+23
+
+Điều khiển xe/moóc nâng phục
+ vụ kỹ thuật tàu bay
+
+50
+
+17
+
+33
+
+24
+
+Điều khiển xe nâng vật tư,
+ hàng hóa rời
+
+48
+
+16
+
+32
+
+25
+
+Điều khiển xe vệ sinh sân đường,
+ khu bay (xe ép rác, xe quét đường, xe hút bồn, xe rửa đường, xe phun nước)
+
+36
+
+12
+
+24
+
+26
+
+Điều khiển máy xúc đào
+
+32
+
+08
+
+24
+
+27
+
+Điều khiển phương tiện phục vụ
+ khai thác khu bay (xe trám khe mastic, xe đo ma sát)
+
+16
+
+08
+
+08
+
+28
+
+Điều khiển các loại cẩu và
+ thiết bị nâng
+
+40
+
+16
+
+24
+
+29
+
+Điều khiển xe nâng tự hành,
+ thang nâng người
+
+32
+
+08
+
+24
+
+30
+
+Điều khiển xe bán tải kéo rơ
+ moóc
+
+16
+
+08
+
+08
+
+31
+
+Điều khiển xe cấp điện cho
+ tàu bay
+
+32
+
+16
+
+16
+
+32
+
+Điều khiển xe cấp khí khởi động
+ tàu bay
+
+32
+
+16
+
+16
+
+33
+
+Điều khiển xe điều hòa không
+ khí
+
+32
+
+16
+
+16
+
+34
+
+Vận hành thiết bị thùng nâng
+ xe suất ăn
+
+24
+
+8
+
+16
+
+35
+
+Vận hành thang kéo đẩy tay
+
+24
+
+08
+
+16
+
+36
+
+Vận hành cầu hành khách
+
+116
+
+68
+
+48
+
+37
+
+Vận hành thiết bị cấp điện
+ cho tàu bay
+
+16
+
+8
+
+8
+
+38
+
+Vận hành thiết bị cấp khí khởi
+ động tàu bay
+
+16
+
+8
+
+8
+
+39
+
+Vận hành thiết bị tra nạp
+ nhiên liệu
+
+68
+
+34
+
+34
+
+40
+
+Vận hành thiết bị thủy lực phục
+ vụ công tác kỹ thuật tàu bay
+
+56
+
+17
+
+39
+
+41
+
+Vận hành thiết bị điều hòa
+ không khí
+
+16
+
+8
+
+8
+
+42
+
+Vận hành thiết bị chiếu sáng
+ di động
+
+24
+
+06
+
+18
+
+43
+
+Vận hành thiết bị cấp khí
+ nén, khí ôxy, khí nitơ
+
+51
+
+16
+
+35
+
+44
+
+Vận hành băng chuyền kéo đẩy
+ tay
+
+24
+
+08
+
+16
+
+45
+
+Vận hành thiết bị cấp nước sạch
+
+10
+
+4
+
+6
+
+46
+
+Vận hành thiết bị hút vệ sinh
+
+10
+
+4
+
+6
+
+47
+
+Vận hành thiết bị nâng người
+
+32
+
+08
+
+24
+
+48
+
+Điều khiển xe chở người 4
+ bánh có gắn động cơ
+
+16
+
+08
+
+08
+
+III
+
+Kiểm tra (áp dụng
+ cho từng loại nghiệp vụ)
+
+03
+
+02
+
+01
+
+Mục 2. Nhân viên khai thác mặt
+đất phục vụ chuyến bay
+
+1. Nội dung, thời lượng
+
+Số TT
+
+Nội dung
+
+Thời lượng tối thiểu (tiết)
+
+Trong đó
+
+Lý thuyết
+
+Thực hành
+
+1
+
+Nghiệp vụ giám sát dịch vụ
+ chuyến bay đi
+
+80
+
+56
+
+24
+
+2
+
+Nghiệp vụ giám sát dịch vụ
+ chuyến bay đến
+
+48
+
+32
+
+16
+
+3
+
+Nghiệp vụ giám sát dịch vụ
+ sân đỗ
+
+80
+
+56
+
+24
+
+4
+
+Nghiệp vụ thông thoại
+
+28
+
+12
+
+16
+
+5
+
+Nghiệp vụ phục vụ hành khách
+ chuyến bay đến
+
+92
+
+52
+
+40
+
+6
+
+Nghiệp vụ phục vụ hành khách
+ ra tàu bay
+
+104
+
+56
+
+48
+
+7
+
+Nghiệp vụ làm thủ tục hành
+ khách quốc nội
+
+178
+
+98
+
+80
+
+8
+
+Nghiệp vụ làm thủ tục hành
+ khách quốc tế
+
+166
+
+116
+
+50
+
+9
+
+Nghiệp vụ phục vụ hành lý
+
+48
+
+24
+
+24
+
+10
+
+Nghiệp vụ phục vụ hành lý bất
+ thường (*)
+
+88
+
+48
+
+40
+
+11
+
+Nghiệp vụ cân bằng trọng tải
+
+124
+
+84
+
+40
+
+12
+
+Nghiệp vụ quản lý, khai thác
+ thùng/mâm
+
+88
+
+44
+
+44
+
+13
+
+Nghiệp vụ hướng dẫn chất xếp
+ tại tàu bay
+
+112
+
+72
+
+40
+
+14
+
+Nghiệp vụ chất xếp tại tàu
+ bay
+
+72
+
+40
+
+32
+
+15
+
+Nghiệp vụ tiếp nhận và vận chuyển
+ hàng hóa ra tàu bay
+
+96
+
+80
+
+16
+
+16
+
+Nghiệp vụ vệ sinh tàu bay
+
+48
+
+16
+
+32
+
+17
+
+Nghiệp vụ điều phối chuyến
+ bay
+
+88
+
+64
+
+24
+
+18
+
+Nghiệp vụ thủ tục và tài liệu
+ hàng nhập
+
+72
+
+40
+
+32
+
+19
+
+Nghiệp vụ kiểm đếm hàng nhập
+
+64
+
+40
+
+24
+
+20
+
+Nghiệp vụ trả hàng nhập
+
+64
+
+40
+
+24
+
+21
+
+Nghiệp vụ thủ tục, tài liệu
+ hàng xuất
+
+64
+
+40
+
+24
+
+22
+
+Nghiệp vụ chấp nhận hàng
+
+64
+
+40
+
+24
+
+23
+
+Nghiệp vụ xuất hàng
+
+64
+
+40
+
+24
+
+24
+
+Nghiệp vụ chất xếp hàng hóa
+
+80
+
+56
+
+24
+
+25
+
+Nghiệp vụ giao nhận hàng hóa,
+ tài liệu
+
+64
+
+40
+
+24
+
+26
+
+Nghiệp vụ hướng dẫn và giám sát
+ chất xếp hàng hóa trong nhà ga
+
+64
+
+40
+
+24
+
+27
+
+Nghiệp vụ phục vụ hàng hóa đặc
+ biệt
+
+40
+
+40
+
+ 
+
+ 
+
+Kiểm tra (áp dụng
+ cho từng loại nghiệp vụ)
+
+03
+
+02
+
+01
+
+(*) Áp dụng cho học viên đã học
+một trong các nghiệp vụ phục vụ hành khách chuyến bay đến, nghiệp vụ phục vụ
+hành khách ra tàu bay, nghiệp vụ làm thủ tục hành khách quốc nội, nghiệp vụ làm
+thủ tục hành khách quốc tế.
+
+Mục 3. Nhân viên cứu nạn, chữa
+cháy tại cảng hàng không, sân bay
+
+1. Nội dung, thời lượng
+
+Thời gian thực hành, kiểm tra
+thực hành tính theo nhóm, tối đa 10 học viên.
+
+Số TT
+
+Nội dung
+
+Thời lượng tối thiểu (tiết)
+
+Trong đó
+
+Lý thuyết
+
+Thực hành
+
+I
+
+Chuyên môn nghiệp vụ
+
+ 
+
+ 
+
+ 
+
+1
+
+Kiến thức chung về về công
+ tác cứu nạn, chữa cháy
+
+08
+
+08
+
+ 
+
+2
+
+Nghiệp vụ cứu nạn, chữa cháy
+ tại Cảng hàng không, sân bay
+
+76
+
+42
+
+34
+
+II
+
+Kiểm tra (áp dụng
+ cho từng nội dung)
+
+04
+
+02
+
+02
+
+B. CHƯƠNG
+TRÌNH ĐÀO TẠO, HUẤN LUYỆN ĐỊNH KỲ 
+
+CHƯƠNG I. KIẾN THỨC CHUNG VỀ
+HÀNG KHÔNG DÂN DỤNG
+
+1. Mục tiêu
+
+Nhằm củng cố, nhắc lại kiến thức
+và kỹ năng cho học viên đã tham gia khóa đào tạo, huấn luyện ban đầu; cập nhật
+bổ sung kiến thức mới về chuyên môn nghiệp vụ, các quy chế, quy định có liên
+quan để giúp cho nhân viên duy trì đủ điều kiện làm việc ở vị trí công việc
+chuyên môn theo quy định. Học viên sau khi hoàn thành khóa học sẽ được cấp Quyết
+định công nhận kết quả hoàn thành khóa học.
+
+2. Đối tượng
+
+Học viên là nhân viên do các
+đơn vị hoạt động tại cảng hàng không, sân bay chỉ định tham gia các khóa đào tạo,
+huấn luyện định kỳ nghiệp vụ nhân viên hàng không nhóm khai thác cảng hàng
+không, sân bay đã có chứng chỉ chuyên môn, có giấy phép và năng định còn hiệu lực,
+có thời gian làm việc liên tục không quá 36 tháng ở vị trí phù hợp.
+
+3. Nội dung, thời lượng: Được
+quy định cụ thể tại biểu dưới đây.
+
+Số TT
+
+Nội dung
+
+Thời lượng tối thiểu (tiết)
+
+Lý thuyết
+
+1
+
+Pháp luật về hàng không dân dụng
+
+02
+
+02
+
+2
+
+An ninh hàng không (theo
+ quy định của pháp luật về an ninh hàng không dân dụng)
+
+ 
+
+ 
+
+3
+
+An toàn hàng không
+
+04
+
+04
+
+4
+
+Công tác khẩn nguy tại cảng
+ hàng không, sân bay
+
+02
+
+02
+
+5
+
+Hàng nguy hiểm (theo quy định
+ của pháp luật về an toàn hàng không và IATA)
+
+ 
+
+ 
+
+ 
+
+Kiểm tra (áp dụng
+ cho từng nội dung)
+
+01
+
+01
+
+CHƯƠNG II. NGHIỆP VỤ NHÂN
+VIÊN HÀNG KHÔNG
+
+1. Mục tiêu
+
+Nhằm củng cố, nhắc lại kiến thức
+và kỹ năng cho học viên đã tham gia khóa đào tạo, huấn luyện ban đầu; cập nhật
+bổ sung kiến thức mới về chuyên môn nghiệp vụ, các quy chế, quy định có liên
+quan; luyện tập thực hành để giúp cho nhân viên duy trì đủ điều kiện làm việc ở
+vị trí công việc chuyên môn theo quy định. Học viên sau khi hoàn thành khóa học
+sẽ được cấp Quyết định công nhận kết quả hoàn thành khóa học.
+
+2. Đối tượng
+
+Học viên là nhân viên do các
+đơn vị hoạt động tại cảng hàng không, sân bay chỉ định tham gia các khóa đào tạo,
+huấn luyện định kỳ nghiệp vụ nhân viên hàng không nhóm khai thác cảng hàng
+không, sân bay đã có chứng chỉ chuyên môn, có giấy phép và năng định còn hiệu lực,
+có thời gian làm việc liên tục không quá 36 tháng ở vị trí phù hợp.
+
+Mục 1. Nhân viên điều khiển,
+vận hành thiết bị hàng không, phương tiện hoạt động tại khu vực hạn chế của cảng
+hàng không, sân bay
+
+1. Nội dung, thời lượng
+
+Số
+
+Nội dung
+
+Thời
+
+Trong đó
+
+Lý thuyết
+
+Thực hành
+
+I
+
+Chuyên môn nghiệp vụ
+
+ 
+
+ 
+
+ 
+
+1
+
+Điều khiển xe/moóc băng chuyền
+
+05
+
+04
+
+01
+
+2
+
+Điều khiển xe ô tô thông thường
+ (xe tải, xe bán tải, xe chở khách trên khu bay từ 4 đến dưới 30 chỗ, xe cứu
+ thương, xe dẫn tàu bay)
+
+05
+
+04
+
+01
+
+3
+
+Điều khiển xe chở khách trên
+ khu bay từ 30 chỗ trở lên
+
+05
+
+04
+
+01
+
+4
+
+Điều khiển xe suất ăn
+
+05
+
+04
+
+01
+
+5
+
+Điều khiển xe cấp nước sạch
+
+05
+
+04
+
+01
+
+6
+
+Điều khiển xe chữa cháy
+
+05
+
+04
+
+01
+
+7
+
+Điều khiển xe đầu kéo
+
+05
+
+04
+
+01
+
+8
+
+Điều khiển xe kéo đẩy tàu bay
+ dùng cần kéo đẩy
+
+05
+
+04
+
+01
+
+9
+
+Điều khiển xe kéo đẩy tàu bay
+ không dùng cần kéo đẩy.
+
+05
+
+04
+
+01
+
+10
+
+Điều khiển xe nâng hàng
+
+05
+
+04
+
+01
+
+11
+
+Điều khiển xe xúc nâng
+
+05
+
+04
+
+01
+
+12
+
+Điều khiển xe phục vụ hành
+ khách hạn chế khả năng di chuyển
+
+05
+
+04
+
+01
+
+13
+
+Điều khiển xe/moóc phun sơn
+
+05
+
+04
+
+01
+
+14
+
+Điều khiển xe thang
+
+05
+
+04
+
+01
+
+15
+
+Điều khiển xe trung chuyển
+ thùng hàng
+
+05
+
+04
+
+01
+
+16
+
+Điều khiển xe hút vệ sinh
+
+05
+
+04
+
+01
+
+17
+
+Điều khiển xe tra nạp nhiên
+ liệu cho các phương tiện hoạt động trên khu bay
+
+05
+
+04
+
+01
+
+18
+
+Điều khiển xe tra nạp nhiên
+ liệu tàu bay
+
+12
+
+06
+
+06
+
+19
+
+Điều khiển xe truyền tiếp
+ nhiên liệu
+
+05
+
+04
+
+01
+
+20
+
+Điều khiển xe cần cẩu
+
+14
+
+12
+
+02
+
+21
+
+Điều khiển xe cắt cỏ
+
+05
+
+04
+
+01
+
+22
+
+Điều khiển xe tẩy vệt cao su
+ và vệt sơn
+
+05
+
+04
+
+01
+
+23
+
+Điều khiển xe/moóc nâng phục
+ vụ kỹ thuật tàu bay
+
+05
+
+04
+
+01
+
+24
+
+Điều khiển xe nâng vật tư,
+ hàng hóa rời
+
+05
+
+04
+
+01
+
+25
+
+Điều khiển xe vệ sinh sân đường,
+ khu bay (xe ép rác, xe quét đường, xe hút bồn, xe rửa đường, xe phun nước)
+
+05
+
+04
+
+01
+
+26
+
+Điều khiển máy xúc đào
+
+05
+
+04
+
+01
+
+27
+
+Điều khiển phương tiện phục vụ
+ khai thác khu bay (xe trám khe mastic, xe đo ma sát)
+
+05
+
+04
+
+01
+
+28
+
+Điều khiển các loại cẩu và thiết
+ bị nâng
+
+05
+
+04
+
+01
+
+29
+
+Điều khiển xe nâng tự hành,
+ thang nâng người
+
+05
+
+04
+
+01
+
+30
+
+Điều khiển xe bán tải kéo rơ
+ mooc
+
+05
+
+04
+
+01
+
+31
+
+Điều khiển xe cấp điện cho
+ tàu bay
+
+05
+
+04
+
+01
+
+32
+
+Điều khiển xe cấp khí khởi động
+ tàu bay
+
+05
+
+04
+
+01
+
+33
+
+Điều khiển xe điều hòa không
+ khí
+
+05
+
+04
+
+01
+
+34
+
+Vận hành thiết bị thùng nâng
+ xe suất ăn
+
+03
+
+02
+
+01
+
+35
+
+Vận hành thang kéo đẩy tay
+
+05
+
+04
+
+01
+
+36
+
+Vận hành cầu hành khách
+
+05
+
+04
+
+01
+
+37
+
+Vận hành thiết bị cấp điện
+ cho tàu bay
+
+03
+
+02
+
+01
+
+38
+
+Vận hành thiết bị cấp khí khởi
+ động tàu bay
+
+03
+
+02
+
+01
+
+39
+
+Vận hành thiết bị tra nạp
+ nhiên liệu
+
+12
+
+06
+
+06
+
+40
+
+Vận hành thiết bị thủy lực phục
+ vụ công tác kỹ thuật tàu bay
+
+14
+
+12
+
+02
+
+41
+
+Vận hành thiết bị điều hòa
+ không khí
+
+03
+
+02
+
+01
+
+42
+
+Vận hành thiết bị chiếu sáng
+ di động
+
+05
+
+04
+
+01
+
+43
+
+Vận hành thiết bị cấp khí
+ nén, khí ôxy, khí nitơ
+
+14
+
+12
+
+02
+
+44
+
+Vận hành băng chuyền kéo đẩy
+ tay
+
+05
+
+04
+
+01
+
+45
+
+Vận hành thiết bị cấp nước sạch
+
+03
+
+02
+
+01
+
+46
+
+Vận hành thiết bị hút vệ sinh
+
+03
+
+02
+
+01
+
+47
+
+Vận hành thiết bị nâng người
+
+05
+
+04
+
+01
+
+48
+
+Điều khiển xe chở người 4
+ bánh có gắn động cơ
+
+05
+
+04
+
+01
+
+II
+
+Kiểm tra (áp dụng
+ cho từng loại nghiệp vụ)
+
+02
+
+01
+
+01
+
+Mục 2. Nhân viên khai thác mặt
+đất phục vụ chuyến bay
+
+1. Nội dung, thời lượng
+
+Số TT
+
+Nội dung
+
+Thời lượng tối thiểu (tiết)
+
+Trong đó
+
+Lý thuyết
+
+Thực hành
+
+I
+
+Chuyên môn nghiệp vụ
+
+ 
+
+ 
+
+ 
+
+1
+
+Nghiệp vụ giám sát dịch vụ
+ chuyến bay đi
+
+04
+
+03
+
+01
+
+2
+
+Nghiệp vụ giám sát dịch vụ
+ chuyến bay đến
+
+04
+
+03
+
+01
+
+3
+
+Nghiệp vụ giám sát dịch vụ
+ sân đỗ
+
+04
+
+03
+
+01
+
+4
+
+Nghiệp vụ thông thoại
+
+04
+
+03
+
+01
+
+5
+
+Nghiệp vụ phục vụ hành khách
+ chuyến bay đến
+
+04
+
+03
+
+01
+
+6
+
+Nghiệp vụ phục vụ hành khách
+ ra tàu bay
+
+04
+
+03
+
+01
+
+7
+
+Nghiệp vụ làm thủ tục hành
+ khách quốc nội
+
+04
+
+03
+
+01
+
+8
+
+Nghiệp vụ làm thủ tục hành
+ khách quốc tế
+
+04
+
+03
+
+01
+
+9
+
+Nghiệp vụ phục vụ hành lý
+
+04
+
+03
+
+01
+
+10
+
+Nghiệp vụ phục vụ hành lý bất
+ thường
+
+04
+
+03
+
+01
+
+11
+
+Nghiệp vụ cân bằng trọng tải
+
+04
+
+03
+
+01
+
+12
+
+Nghiệp vụ quản lý, khai thác
+ thùng/mâm
+
+04
+
+03
+
+01
+
+13
+
+Nghiệp vụ hướng dẫn chất xếp
+ tại tàu bay
+
+04
+
+03
+
+01
+
+14
+
+Nghiệp vụ chất xếp tại tàu
+ bay
+
+04
+
+03
+
+01
+
+15
+
+Nghiệp vụ tiếp nhận và vận
+ chuyển hàng hóa ra tàu bay
+
+04
+
+03
+
+01
+
+16
+
+Nghiệp vụ vệ sinh tàu bay
+
+04
+
+03
+
+01
+
+17
+
+Nghiệp vụ điều phối chuyến
+ bay
+
+04
+
+03
+
+01
+
+18
+
+Nghiệp vụ thủ tục và tài liệu
+ hàng nhập
+
+08
+
+07
+
+01
+
+19
+
+Nghiệp vụ kiểm đếm hàng nhập
+
+08
+
+07
+
+01
+
+20
+
+Nghiệp vụ trả hàng nhập
+
+08
+
+07
+
+01
+
+21
+
+Nghiệp vụ thủ tục, tài liệu
+ hàng xuất
+
+08
+
+07
+
+01
+
+22
+
+Nghiệp vụ chấp nhận hàng
+
+08
+
+07
+
+01
+
+23
+
+Nghiệp vụ xuất hàng
+
+08
+
+07
+
+01
+
+24
+
+Nghiệp vụ chất xếp hàng hóa
+
+08
+
+07
+
+01
+
+25
+
+Nghiệp vụ giao nhận hàng hóa,
+ tài liệu
+
+08
+
+07
+
+01
+
+26
+
+Nghiệp vụ hướng dẫn và giám
+ sát chất xếp hàng hóa trong nhà ga
+
+08
+
+07
+
+01
+
+27
+
+Nghiệp vụ phục vụ hàng hóa đặc
+ biệt
+
+08
+
+08
+
+ 
+
+II
+
+Kiểm tra (áp dụng
+ cho từng loại nghiệp vụ)
+
+02
+
+01
+
+01
+
+Mục 3. Nhân viên cứu nạn, chữa
+cháy tại cảng hàng không, sân bay
+
+1. Nội dung, thời lượng
+
+Thời gian thực hành, kiểm tra
+thực hành tính theo nhóm, tối đa 10 học viên.
+
+Số TT
+
+Nội dung
+
+Thời lượng tối thiểu (tiết)
+
+Trong đó
+
+Lý thuyết
+
+Thực hành
+
+I
+
+Chuyên môn nghiệp vụ
+
+ 
+
+ 
+
+ 
+
+1
+
+Kiến thức chung về về công
+ tác cứu nạn, chữa cháy
+
+04
+
+04
+
+ 
+
+2
+
+Nghiệp vụ cứu nạn, chữa cháy
+ tại Cảng hàng không, sân bay
+
+22
+
+08
+
+14
+
+II
+
+Kiểm tra (áp dụng
+ cho từng nội dung)
+
+02
+
+01
+
+01
+
+C. CHƯƠNG
+TRÌNH ĐÀO TẠO, HUẤN LUYỆN PHỤC HỒI NHÂN VIÊN HÀNG KHÔNG
+
+CHƯƠNG I. KIẾN THỨC CHUNG VỀ
+HÀNG KHÔNG DÂN DỤNG
+
+1. Mục tiêu
+
+Phục hồi các kiến thức và kỹ
+năng cho học viên đã được đào tạo, huấn luyện kiến thức ban đầu; cập nhật bổ
+sung kiến thức mới về chuyên môn nghiệp vụ, các quy chế, quy định có liên quan
+để giúp cho nhân viên phục hồi đủ điều kiện làm việc ở vị trí công việc chuyên
+môn theo quy định. Học viên sau khi hoàn thành khóa học sẽ được cấp Quyết định
+công nhận kết quả hoàn thành khóa học.
+
+2. Đối tượng
+
+Học viên là nhân viên do các
+đơn vị hoạt động tại cảng hàng không, sân bay chỉ định tham gia các khóa đào tạo,
+huấn luyện phục hồi nghiệp vụ nhân viên hàng không nhóm khai thác cảng hàng
+không, sân bay đã có chứng chỉ chuyên môn, có giấy phép và năng định còn hiệu lực
+nhưng có thời gian nghỉ dãn cách từ 03 tháng trở lên đối với nhân viên điều khiển,
+vận hành thiết bị hàng không, phương tiện hoạt động tại khu vực hạn chế của cảng
+hàng không, sân bay, nhân viên cứu nạn, chữa cháy tại cảng hàng không, sân bay
+và từ 06 tháng trở lên đối với nhân viên khai thác mặt đất phục vụ chuyến bay.
+
+3. Nội dung, thời lượng
+
+Số TT
+
+Nội dung
+
+Thời lượng tối thiểu (tiết)
+
+Lý thuyết
+
+1
+
+Pháp luật về hàng không dân dụng
+
+02
+
+02
+
+2
+
+An toàn hàng không
+
+04
+
+04
+
+3
+
+Công tác khẩn nguy tại cảng
+ hàng không, sân bay
+
+04
+
+04
+
+4
+
+Hàng nguy hiểm (theo quy định
+ của pháp luật về an toàn hàng không và IATA)
+
+ 
+
+ 
+
+ 
+
+Kiểm tra (áp dụng
+ cho từng nội dung)
+
+01
+
+01
+
+CHƯƠNG II. NGHIỆP VỤ NHÂN
+VIÊN HÀNG KHÔNG
+
+1. Mục tiêu
+
+Phục hồi các kiến thức và kỹ
+năng cho học viên đã được đào tạo, huấn luyện kiến thức ban đầu; cập nhật bổ
+sung kiến thức mới về chuyên môn nghiệp vụ, các quy chế, quy định có liên quan;
+luyện tập thực hành để giúp cho nhân viên phục hồi đủ điều kiện làm việc ở vị
+trí công việc chuyên môn theo quy định. Học viên sau khi hoàn thành khóa học sẽ
+được cấp Quyết định công nhận kết quả hoàn thành khóa học.
+
+2. Đối tượng
+
+Học viên là nhân viên do các
+đơn vị hoạt động tại cảng hàng không, sân bay chỉ định tham gia các khóa đào tạo,
+huấn luyện phục hồi nghiệp vụ nhân viên hàng không nhóm khai thác cảng hàng
+không, sân bay đã có chứng chỉ chuyên môn, có giấy phép và năng định còn hiệu lực
+nhưng có thời gian nghỉ dãn cách từ 03 tháng trở lên đối với nhân viên điều khiển,
+vận hành thiết bị hàng không, phương tiện hoạt động tại khu vực hạn chế của cảng
+hàng không, sân bay, nhân viên cứu nạn, chữa cháy tại cảng hàng không, sân bay
+và từ 06 tháng trở lên đối với nhân viên khai thác mặt đất phục vụ chuyến bay.
+
+Mục 1. Nhân viên điều khiển,
+vận hành thiết bị hàng không, phương tiện hoạt động tại khu vực hạn chế của cảng
+hàng không, sân bay
+
+1. Nội dung, thời lượng
+
+Số TT
+
+Nội dung
+
+Thời lượng tối thiểu (tiết)
+
+Trong đó
+
+Lý thuyết
+
+Thực hành
+
+I
+
+Chuyên môn nghiệp vụ
+
+ 
+
+ 
+
+ 
+
+1
+
+Điều khiển xe/moóc băng chuyền
+
+08
+
+04
+
+04
+
+2
+
+Điều khiển xe ô tô thông thường
+ (xe tải, xe bán tải, xe chở khách trên khu bay từ 4 đến dưới 30 chỗ, xe cứu
+ thương, xe dẫn tàu bay)
+
+08
+
+04
+
+04
+
+3
+
+Điều khiển xe chở khách trên
+ khu bay từ 30 chỗ trở lên
+
+08
+
+04
+
+04
+
+4
+
+Điều khiển xe suất ăn
+
+24
+
+08
+
+16
+
+5
+
+Điều khiển xe cấp nước sạch
+
+08
+
+04
+
+04
+
+6
+
+Điều khiển xe chữa cháy
+
+40
+
+08
+
+32
+
+7
+
+Điều khiển xe đầu kéo
+
+24
+
+08
+
+16
+
+8
+
+Điều khiển xe kéo đẩy tàu bay
+ dùng cần kéo đẩy
+
+24
+
+08
+
+16
+
+9
+
+Điều khiển xe kéo đẩy tàu bay
+ không dùng cần kéo đẩy.
+
+24
+
+08
+
+16
+
+10
+
+Điều khiển xe nâng hàng
+
+24
+
+08
+
+16
+
+11
+
+Điều khiển xe xúc nâng
+
+08
+
+04
+
+04
+
+12
+
+Điều khiển xe phục vụ hành
+ khách hạn chế khả năng di chuyển
+
+24
+
+08
+
+16
+
+13
+
+Điều khiển xe/moóc phun sơn
+
+16
+
+08
+
+08
+
+14
+
+Điều khiển xe thang
+
+24
+
+08
+
+16
+
+15
+
+Điều khiển xe trung chuyển
+ thùng hàng
+
+08
+
+04
+
+04
+
+16
+
+Điều khiển xe hút vệ sinh
+
+08
+
+04
+
+04
+
+17
+
+Điều khiển xe tra nạp nhiên
+ liệu cho các phương tiện hoạt động trên khu bay
+
+08
+
+04
+
+04
+
+18
+
+Điều khiển xe tra nạp nhiên
+ liệu tàu bay
+
+16
+
+10
+
+06
+
+19
+
+Điều khiển xe truyền tiếp
+ nhiên liệu
+
+18
+
+12
+
+06
+
+20
+
+Điều khiển xe cần cẩu
+
+28
+
+12
+
+16
+
+21
+
+Điều khiển xe cắt cỏ
+
+16
+
+08
+
+08
+
+22
+
+Điều khiển xe tẩy vệt cao su
+ và vệt sơn
+
+16
+
+08
+
+08
+
+23
+
+Điều khiển xe/mooc nâng phục
+ vụ kỹ thuật tàu bay
+
+28
+
+12
+
+16
+
+24
+
+Điều khiển xe nâng vật tư,
+ hàng hóa rời
+
+24
+
+08
+
+16
+
+25
+
+Điều khiển xe vệ sinh sân đường,
+ khu bay (xe ép rác, xe quét đường, xe hút bồn, xe rửa đường, xe phun nước)
+
+12
+
+04
+
+08
+
+26
+
+Điều khiển máy xúc đào
+
+12
+
+04
+
+08
+
+27
+
+Điều khiển phương tiện phục vụ
+ khai thác khu bay (xe trám khe Mastic, xe đo ma sát)
+
+08
+
+04
+
+04
+
+28
+
+Điều khiển các loại cẩu và
+ thiết bị nâng
+
+16
+
+08
+
+08
+
+29
+
+Điều khiển xe nâng tự hành,
+ thang nâng người
+
+12
+
+04
+
+08
+
+30
+
+Điều khiển xe bán tải kéo rơ
+ moóc
+
+08
+
+04
+
+04
+
+31
+
+Điều khiển xe cấp điện cho tàu
+ bay
+
+16
+
+08
+
+08
+
+32
+
+Điều khiển xe cấp khí khởi động
+ tàu bay
+
+16
+
+08
+
+08
+
+33
+
+Điều khiển xe điều hòa không
+ khí
+
+16
+
+08
+
+08
+
+34
+
+Vận hành thiết bị thùng nâng
+ xe suất ăn
+
+12
+
+04
+
+08
+
+35
+
+Vận hành thang kéo đẩy tay
+
+05
+
+04
+
+01
+
+36
+
+Vận hành cầu hành khách
+
+24
+
+08
+
+16
+
+37
+
+Vận hành thiết bị cấp điện
+ cho tàu bay
+
+08
+
+04
+
+04
+
+38
+
+Vận hành thiết bị cấp khí khởi
+ động tàu bay
+
+08
+
+04
+
+04
+
+39
+
+Vận hành thiết bị tra nạp
+ nhiên liệu
+
+16
+
+10
+
+06
+
+40
+
+Vận hành thiết bị thủy lực phục
+ vụ công tác kỹ thuật tàu bay
+
+28
+
+12
+
+16
+
+41
+
+Vận hành thiết bị điều hòa
+ không khí
+
+08
+
+04
+
+04
+
+42
+
+Vận hành thiết bị chiếu sáng
+ di động
+
+28
+
+12
+
+16
+
+43
+
+Vận hành thiết bị cấp khí
+ nén, khí ôxy, khí Nitơ
+
+28
+
+12
+
+16
+
+44
+
+Vận hành băng chuyền kéo đẩy
+ tay
+
+05
+
+04
+
+01
+
+45
+
+Vận hành thiết bị cấp nước sạch
+
+06
+
+04
+
+02
+
+46
+
+Vận hành thiết bị hút vệ sinh
+
+06
+
+04
+
+02
+
+47
+
+Vận hành thiết bị nâng người
+
+12
+
+04
+
+08
+
+48
+
+Điều khiển xe chở người 4
+ bánh có gắn động cơ
+
+08
+
+04
+
+04
+
+II
+
+Kiểm tra (áp dụng
+ cho từng loại nghiệp vụ)
+
+02
+
+01
+
+01
+
+Mục 2. Nhân viên khai thác mặt
+đất phục vụ chuyến bay
+
+1. Nội dung, thời lượng
+
+Số TT
+
+Nội dung
+
+Thời lượng tối thiểu (tiết)
+
+Trong đó
+
+Lý thuyết
+
+Thực hành
+
+I
+
+Chuyên môn nghiệp vụ
+
+ 
+
+ 
+
+ 
+
+1
+
+Nghiệp vụ giám sát dịch vụ
+ chuyến bay đi
+
+04
+
+03
+
+01
+
+2
+
+Nghiệp vụ giám sát dịch vụ
+ chuyến bay đến
+
+04
+
+03
+
+01
+
+3
+
+Nghiệp vụ giám sát dịch vụ
+ sân đỗ
+
+04
+
+03
+
+01
+
+4
+
+Nghiệp vụ thông thoại
+
+04
+
+03
+
+01
+
+5
+
+Nghiệp vụ phục vụ hành khách
+ chuyến bay đến
+
+04
+
+03
+
+01
+
+6
+
+Nghiệp vụ phục vụ hành khách
+ ra tàu bay
+
+04
+
+03
+
+01
+
+7
+
+Nghiệp vụ làm thủ tục hành
+ khách quốc nội
+
+04
+
+03
+
+01
+
+8
+
+Nghiệp vụ làm thủ tục hành
+ khách quốc tế
+
+04
+
+03
+
+01
+
+9
+
+Nghiệp vụ phục vụ hành lý
+
+04
+
+03
+
+01
+
+10
+
+Nghiệp vụ phục vụ hành lý bất
+ thường
+
+04
+
+03
+
+01
+
+11
+
+Nghiệp vụ cân bằng trọng tải
+
+04
+
+03
+
+01
+
+12
+
+Nghiệp vụ quản lý, khai thác
+ thùng/mâm
+
+04
+
+03
+
+01
+
+13
+
+Nghiệp vụ hướng dẫn chất xếp
+ tại tàu bay
+
+04
+
+03
+
+01
+
+14
+
+Nghiệp vụ chất xếp tại tàu
+ bay
+
+04
+
+03
+
+01
+
+15
+
+Nghiệp vụ tiếp nhận và vận
+ chuyển hàng hóa ra tàu bay
+
+08
+
+07
+
+01
+
+16
+
+Nghiệp vụ vệ sinh tàu bay
+
+04
+
+03
+
+01
+
+17
+
+Nghiệp vụ điều phối chuyến
+ bay
+
+04
+
+03
+
+01
+
+18
+
+Nghiệp vụ thủ tục và tài liệu
+ hàng nhập
+
+08
+
+06
+
+02
+
+19
+
+Nghiệp vụ kiểm đếm hàng nhập
+
+08
+
+06
+
+02
+
+20
+
+Nghiệp vụ trả hàng nhập
+
+08
+
+06
+
+02
+
+21
+
+Nghiệp vụ thủ tục, tài liệu
+ hàng xuất
+
+08
+
+06
+
+02
+
+22
+
+Nghiệp vụ chấp nhận hàng
+
+08
+
+06
+
+02
+
+23
+
+Nghiệp vụ xuất hàng
+
+08
+
+06
+
+02
+
+24
+
+Nghiệp vụ chất xếp hàng hóa
+
+08
+
+06
+
+02
+
+25
+
+Nghiệp vụ giao nhận hàng hóa,
+ tài liệu
+
+08
+
+06
+
+02
+
+26
+
+Nghiệp vụ hướng dẫn và giám
+ sát chất xếp hàng hóa trong nhà ga
+
+08
+
+06
+
+02
+
+27
+
+Nghiệp vụ phục vụ hàng hóa đặc
+ biệt
+
+08
+
+08
+
+ 
+
+II
+
+Kiểm tra (áp dụng cho
+ từng loại nghiệp vụ)
+
+02
+
+01
+
+01
+
+Mục 3. Nhân viên cứu nạn, chữa
+cháy tại cảng hàng không, sân bay
+
+1. Nội dung, thời lượng
+
+Thời gian thực hành, kiểm tra
+thực hành tính theo nhóm, tối đa 10 học viên.
+
+Số TT
+
+Nội dung
+
+Thời lượng tối thiểu (tiết)
+
+Trong đó
+
+Lý thuyết
+
+Thực hành
+
+I
+
+Chuyên môn nghiệp vụ
+
+ 
+
+ 
+
+ 
+
+1
+
+Kiến thức chung về về công
+ tác cứu nạn, chữa cháy
+
+04
+
+04
+
+ 
+
+2
+
+Nghiệp vụ cứu nạn, chữa cháy
+ tại Cảng hàng không, sân bay
+
+50
+
+16
+
+34
+
+II
+
+Kiểm tra (áp dụng
+ cho từng nội dung)
+
+02
+
+01
+
+01
+
+ 
+
+PHỤ LỤC 0518
+
+CHƯƠNG TRÌNH ĐÀO TẠO, HUẤN LUYỆN NGHIỆP VỤ NHÂN VIÊN
+HÀNG KHÔNG NHÓM BẢO ĐẢM HOẠT ĐỘNG BAY
+
+(Ban hành kèm theo Thông tư số 10/2018/TT-BGTVT ngày 14 tháng 3 năm 2018 của
+Bộ trưởng Bộ Giao thông vận tải)
+
+A. CHƯƠNG
+TRÌNH ĐÀO TẠO BAN ĐẦU ĐỂ CẤP CHỨNG CHỈ CHUYÊN MÔN
+
+1. Mục tiêu: Trang bị
+cho người học những nội dung kiến thức chung về hàng không dân dụng, các kiến
+thức nghiệp vụ chuyên môn và kỹ năng cơ bản về lĩnh vực bảo đảm hoạt động bay.
+Học viên sau khi hoàn thành khóa học sẽ được cấp chứng chỉ chuyên môn, được
+tham gia huấn luyện để kiểm tra cấp giấy phép và năng định tại các vị trí công
+việc chuyên môn phù hợp.
+
+2. Đối tượng: Học viên
+là người do doanh nghiệp bảo đảm hoạt động bay tuyển dụng để đào tạo, đáp ứng
+các yêu cầu về trình độ học vấn, tiếng Anh, độ tuổi, sức khỏe và các yêu cầu
+nghề nghiệp do doanh nghiệp quy định..
+
+3. Nội dung:
+
+Phần I. Kiến thức chung về hàng
+không: trang bị cho học viên các kiến thức chung về hàng không dân dụng và kỹ
+năng cơ bản trước khi tham gia đào tạo kiến thức chuyên ngành.
+
+Phần II. Kiến thức chuyên
+ngành: trang bị cho học viên các kiến thức chuyên ngành, kỹ năng cơ bản phù hợp
+lĩnh vực chứng chỉ chuyên môn.
+
+Phần III. Thực hành, tham quan.
+
+Phần IV. Ôn tập, kiểm tra.
+
+4. Thời lượng: Thời lượng
+được quy định cụ thể tại biểu dưới đây.
+
+Trong trường hợp người học đã
+có chứng chỉ chuyên môn của một chuyên ngành có nhiều nội dung liên quan đến chứng
+chỉ chuyên môn đề nghị cấp mới, áp dụng thời gian đào tạo tối thiểu đối với chứng
+chỉ chuyên môn mới đó (học viên không phải học lại những nội dung đã học mà chỉ
+cần học bổ sung những nội dung chưa được học).
+
+Số TT
+
+Nội dung
+
+Thời lượng tối thiểu (tiết)
+
+Lý thuyết
+
+Thực hành, tham quan
+
+Ôn tập, kiểm tra
+
+Kiến thức chung về hàng không
+
+Chuyên ngành
+
+I
+
+Nhân viên không lưu
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1
+
+Kiểm soát viên không lưu tại
+ sân bay, tiếp cận, đường dài
+
+1.597
+
+80
+
+1.067
+
+400
+
+50
+
+2
+
+Nhân viên thông báo, hiệp đồng
+ bay
+
+960
+
+80
+
+800
+
+60
+
+20
+
+3
+
+Nhân viên thông báo, hiệp đồng
+ bay (đối tượng đang làm việc tại vị trí thông báo, hiệp đồng bay và xử lý số
+ liệu điều hành bay đã có kinh nghiệm làm việc tại các vị trí này)
+
+480
+
+80
+
+320
+
+60
+
+20
+
+4
+
+Nhân viên đánh tín hiệu
+
+448
+
+80
+
+262
+
+96
+
+10
+
+5
+
+Nhân viên xử lý dữ liệu bay
+
+640
+
+80
+
+316
+
+204
+
+40
+
+6
+
+Nhân viên xử lý dữ liệu bay
+ (đối tượng đang làm việc tại vị trí AFTN, đã được cấp năng định AFTN)
+
+400
+
+30
+
+224
+
+122
+
+24
+
+7
+
+Nhân viên xử lý dữ liệu bay
+ (đối tượng đang làm việc tại vị trí FDP)
+
+170
+
+08
+
+100
+
+50
+
+12
+
+8
+
+Nhân viên trợ giúp thủ tục kế
+ hoạch bay
+
+500
+
+84
+
+356
+
+44
+
+16
+
+II
+
+Nhân viên AIS
+
+798
+
+80
+
+539
+
+159
+
+20
+
+III
+
+Nhân viên CNS
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1
+
+Thông tin
+
+234
+
+80
+
+120
+
+24
+
+10
+
+2
+
+Dẫn đường
+
+274
+
+80
+
+160
+
+24
+
+10
+
+3
+
+Giám sát
+
+274
+
+80
+
+160
+
+24
+
+10
+
+4
+
+Xử lý dữ liệu
+
+274
+
+80
+
+160
+
+24
+
+10
+
+5
+
+Điện nguồn
+
+246
+
+80
+
+111
+
+45
+
+10
+
+IV
+
+Nhân viên khí tượng hàng
+không
+
+384
+
+93
+
+180
+
+101
+
+10
+
+V
+
+Nhân viên tìm kiếm, cứu nạn
+ hàng không dân dụng
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1
+
+Nhân viên Hiệp đồng tìm kiếm,
+ cứu nạn tại Trung tâm Phối hợp tìm kiếm cứu nạn hàng không
+
+745
+
+80
+
+549
+
+96
+
+20
+
+2
+
+Nhân viên Hiệp đồng tìm kiếm,
+ cứu nạn tại Trung tâm Khẩn nguy sân bay
+
+370
+
+80
+
+100
+
+170
+
+20
+
+VI
+
+Nhân viên thiết kế phương
+ thức bay
+
+808
+
+80
+
+549
+
+159
+
+20
+
+VII
+
+Nhân viên bản đồ, sơ đồ, dữ
+ liệu hàng không
+
+808
+
+80
+
+549
+
+159
+
+20
+
+B. CHƯƠNG
+TRÌNH HUẤN LUYỆN NĂNG ĐỊNH
+
+1. Mục tiêu: Trang bị cho
+học viên các kiến thức, kỹ năng chuyên môn cần thiết và thực tập tại vị trí làm
+việc được phân công. Sau khi hoàn thành khóa học, học viên đủ điều kiện tham
+gia kỳ sát hạch để cấp giấy phép, năng định tại các vị trí công việc chuyên môn
+phù hợp như được quy định tại văn bản quy phạm pháp luật về quản lý và bảo đảm
+hoạt động bay.
+
+2. Đối tượng: Học viên
+đã được cấp chứng chỉ chuyên môn phù hợp với vị trí năng định tại cơ sở đào tạo,
+huấn luyện nghiệp vụ nhân viên Hàng không của Việt Nam hoặc nước ngoài được Cục
+Hàng không Việt Nam cấp phép hoặc công nhận.
+
+3. Nội dung: 
+
+Phần I. Lý thuyết 
+
+Phần II. Thực hành
+
+Phần III. Thực tập và huấn luyện
+tại vị trí làm việc (OJT) 
+
+Phần IV: Ôn tập, kiểm tra
+
+4. Thời lượng:
+
+Số TT
+
+Nội dung
+
+Thời lượng tối thiểu (tiết)
+
+Trong đó
+
+Ôn tập, kiểm tra
+
+Lý thuyết
+
+Thực hành
+
+OJT
+
+I
+
+Nhân viên không lưu
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1
+
+Kiểm soát tại sân bay
+
+1600
+
+320
+
+640
+
+560
+
+80
+
+2
+
+Kiểm soát đường dài
+
+1600
+
+320
+
+640
+
+560
+
+80
+
+3
+
+Kíp trưởng không lưu ở các vị
+ trí kiểm soát tại sân bay, kiểm soát tiếp cận, kiểm soát đường dài
+
+960
+
+56
+
+894
+
+10
+
+4
+
+Thủ tục bay tại sân bay quốc
+ tế
+
+960
+
+240
+
+220
+
+480
+
+20
+
+5
+
+Thủ tục bay tại sân bay nội địa
+
+480
+
+174
+
+100
+
+186
+
+20
+
+6
+
+Kíp trưởng thủ tục bay
+
+480
+
+120
+
+100
+
+240
+
+20
+
+7
+
+Thông báo, hiệp đồng bay
+
+960
+
+320
+
+300
+
+320
+
+20
+
+8
+
+Kíp trưởng thông báo, hiệp đồng
+ bay
+
+480
+
+56
+
+414
+
+10
+
+9
+
+ATFM
+
+1440
+
+240
+
+240
+
+940
+
+20
+
+10
+
+Kíp trưởng ATFM
+
+960
+
+56
+
+894
+
+10
+
+11
+
+Đánh tín hiệu
+
+480
+
+80
+
+120
+
+270
+
+10
+
+12
+
+Khai thác liên lạc sóng ngắn
+ không - địa (HF A/G)
+
+960
+
+46
+
+50
+
+854
+
+10
+
+13
+
+Xử lý dữ liệu bay (FDP)
+
+480
+
+46
+
+50
+
+374
+
+10
+
+14
+
+Huấn luyện viên không lưu
+
+1440
+
+56
+
+1374
+
+10
+
+15
+
+Huấn luyện viên ATFM
+
+1440
+
+56
+
+1374
+
+10
+
+16
+
+Nhân viên trợ giúp thủ tục kế
+ hoạch bay
+
+520
+
+175
+
+40
+
+285
+
+20
+
+II
+
+Nhân viên AIS
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1
+
+AIS sân bay
+
+960
+
+240
+
+220
+
+480
+
+20
+
+2
+
+Kíp trưởng AIS sân bay
+
+480
+
+120
+
+100
+
+240
+
+20
+
+3
+
+NOTAM
+
+960
+
+240
+
+220
+
+480
+
+20
+
+4
+
+Kíp trưởng NOTAM
+
+480
+
+120
+
+100
+
+240
+
+20
+
+5
+
+AIP
+
+960
+
+240
+
+220
+
+480
+
+20
+
+III
+
+Nhân viên CNS
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1
+
+Khai thác, bảo dưỡng thiết bị
+ thông tin sóng cực ngắn không - địa (VHF A/G)
+
+480
+
+32
+
+24
+
+400
+
+24
+
+2
+
+Khai thác, bảo dưỡng thiết bị
+ thông tin sóng ngắn không - địa (HF A/G)
+
+480
+
+24
+
+16
+
+416
+
+24
+
+3
+
+Kíp trưởng CNS
+
+480
+
+38
+
+20
+
+398
+
+24
+
+4
+
+Khai thác, bảo dưỡng VHF và VCCS
+ (áp dụng cho đài kiểm soát không lưu tại Cảng hàng không nội địa)
+
+480
+
+42
+
+32
+
+382
+
+24
+
+5
+
+Khai thác, bảo dưỡng hệ thống
+ chuyển mạch thoại (VCCS)
+
+480
+
+32
+
+24
+
+400
+
+24
+
+6
+
+Khai thác, bảo dưỡng NDB
+
+480
+
+24
+
+24
+
+408
+
+24
+
+7
+
+Khai thác, bảo dưỡng VOR
+
+480
+
+24
+
+24
+
+408
+
+24
+
+8
+
+Khai thác, bảo dưỡng DME
+
+480
+
+24
+
+24
+
+408
+
+24
+
+9
+
+Khai thác, bảo dưỡng ILS
+ (ILS/DME/Marker)
+
+960
+
+40
+
+40
+
+856
+
+24
+
+10
+
+Khai thác, bảo dưỡng hệ thống
+ PSR/SSR
+
+960
+
+40
+
+40
+
+856
+
+24
+
+11
+
+Khai thác, bảo dưỡng hệ thống
+ ADS-B
+
+480
+
+24
+
+24
+
+408
+
+24
+
+12
+
+Khai thác, bảo dưỡng hệ thống
+ xử lý dữ liệu ra đa, ADS-B, hệ thống ATM, hệ thống xử lý dữ liệu giám sát/hệ
+ thống xử lý dữ liệu bay
+
+960
+
+40
+
+40
+
+856
+
+24
+
+13
+
+Khai thác, bảo dưỡng hệ thống
+ đèn tín hiệu và biển báo tại sân bay
+
+480
+
+40
+
+40
+
+376
+
+24
+
+14
+
+Bay kiểm tra, hiệu chuẩn thiết
+ bị CNS; bay đánh giá phương thức bay
+
+960
+
+160
+
+80 (SIM bay HC)
+
+696
+
+24
+
+IV
+
+Nhân viên khí tượng hàng
+ không
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1
+
+Quan trắc khí tượng hàng
+ không
+
+960
+
+80
+
+80
+
+776
+
+24
+
+2
+
+Dự báo khí tượng hàng không
+
+1440
+
+160
+
+160
+
+1080
+
+40
+
+3
+
+Kíp trưởng khí tượng hàng
+ không
+
+960
+
+80
+
+80
+
+776
+
+24
+
+V
+
+Nhân viên tìm kiếm, cứu nạn
+ hàng không dân dụng
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1
+
+Nhân viên Hiệp đồng tìm kiếm,
+ cứu nạn tại Trung tâm Phối hợp tìm kiếm cứu nạn hàng không
+
+960
+
+160
+
+200
+
+580
+
+20
+
+2
+
+Nhân viên Hiệp đồng tìm kiếm,
+ cứu nạn tại Trung tâm Phối hợp tìm kiếm cứu nạn hàng không (đã có chứng chỉ
+ chuyên môn không lưu, tổ bay)
+
+640
+
+120
+
+200
+
+300
+
+20
+
+3
+
+Nhân viên Hiệp đồng tìm kiếm,
+ cứu nạn tại Trung tâm Khẩn nguy sân bay
+
+480
+
+80
+
+100
+
+280
+
+20
+
+VI
+
+Nhân viên thiết kế phương
+ thức bay
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Thiết kế phương thức bay
+
+960
+
+240
+
+220
+
+480
+
+20
+
+VII
+
+Nhân viên bản đồ, sơ đồ, dữ
+ liệu hàng không
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1
+
+Nhân viên bản đồ, sơ đồ hàng
+ không
+
+960
+
+240
+
+220
+
+480
+
+20
+
+2
+
+Nhân viên dữ liệu hàng không
+
+960
+
+240
+
+220
+
+480
+
+20
+
+C. CHƯƠNG
+TRÌNH HUẤN LUYỆN CHUYỂN LOẠI NĂNG ĐỊNH
+
+1. Mục tiêu: Nhằm trang
+bị kiến thức, kỹ năng chuyên môn dành cho nhân viên đã có năng định và đang làm
+việc tại vị trí chuyên môn này chuyển sang vị trí chuyên môn khác nhưng chưa được
+huấn luyện phù hợp để có thể được phép tham gia kiểm tra để cấp năng định.
+
+2. Đối tượng: Nhân viên
+đã có năng định vị trí chuyên môn, xin dự kiểm tra cấp năng định ở vị trí
+chuyên môn khác.
+
+3. Nội dung: 
+
+Phần I. Lý thuyết 
+
+Phần II. Thực hành
+
+Phần III. Thực tập tại vị trí
+làm việc (OJT) 
+
+Phần IV. Ôn tập, kiểm tra
+
+4. Thời lượng:
+
+Số TT
+
+Nội dung
+
+Thời lượng tối thiểu (tiết)
+
+Trong đó
+
+Ôn tập, kiểm tra
+
+Lý thuyết
+
+Thực hành
+
+OJT
+
+I
+
+Nhân viên không lưu
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1
+
+Từ các vị trí kiểm soát không
+ lưu về vị trí kiểm soát tiếp cận
+
+355
+
+95
+
+160
+
+90
+
+10
+
+2
+
+Từ vị trí kiểm soát tiếp cận
+ không có giám sát ATS sang vị trí kiểm soát tiếp cận giám sát ATS
+
+220
+
+40
+
+80
+
+90
+
+10
+
+3
+
+Từ các vị trí kiểm soát không
+ lưu về vị trí kiểm soát tại sân bay
+
+350
+
+90
+
+160
+
+90
+
+10
+
+4
+
+Từ các vị trí kiểm soát không
+ lưu về vị trí kiểm soát đường dài
+
+390
+
+80
+
+120
+
+180
+
+10
+
+5
+
+Từ vị trí kiểm soát đường dài
+ không có giám sát ATS sang vị trí kiểm soát đường dài giám sát ATS
+
+220
+
+40
+
+80
+
+90
+
+10
+
+6
+
+Từ các vị trí kiểm soát không
+ lưu về vị trí nhân viên thủ tục bay
+
+250
+
+80
+
+80
+
+80
+
+10
+
+7
+
+Từ các vị trí kiểm soát không
+ lưu sang vị trí nhân viên thông báo, hiệp đồng bay
+
+250
+
+80
+
+80
+
+80
+
+10
+
+8
+
+Từ vị trí nhân viên thông
+ báo, hiệp đồng bay sang nhân viên ATFM
+
+300
+
+100
+
+90
+
+100
+
+10
+
+9
+
+Từ vị trí kiểm soát viên
+ không lưu sang vị trí nhân viên ATFM
+
+275
+
+120
+
+60
+
+90
+
+05
+
+II
+
+Nhân viên AIS
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Nhân viên AIS tham dự huấn
+ luyện chuyển loại năng định (từ năng định thứ 2 trở lên) không phải học lại
+ những nội dung đã học mà chỉ cần học bổ sung những nội dung chưa được học hoặc
+ mới được cập nhật
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1
+
+Từ vị trí nhân viên AIS sân
+ bay sang vị trí nhân viên NOTAM
+
+200
+
+40
+
+100
+
+50
+
+10
+
+2
+
+Từ vị trí nhân viên AIS sân
+ bay sang vị trí nhân viên AIP
+
+200
+
+40
+
+100
+
+50
+
+10
+
+3
+
+Từ vị trí nhân viên NOTAM
+ sang vị trí nhân viên AIS sân bay
+
+200
+
+40
+
+100
+
+50
+
+10
+
+4
+
+Từ vị trí nhân viên NOTAM
+ sang vị trí nhân viên AIP
+
+200
+
+40
+
+100
+
+50
+
+10
+
+5
+
+Từ vị trí nhân viên AIP sang
+ vị trí nhân viên AIS sân bay
+
+200
+
+40
+
+100
+
+50
+
+10
+
+6
+
+Từ vị trí nhân viên AIP sang
+ vị trí nhân viên NOTAM
+
+200
+
+40
+
+100
+
+50
+
+10
+
+III
+
+Nhân viên CNS
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Nhân viên CNS tham dự huấn
+ luyện chuyển loại năng định (từ năng định thứ 2 trở lên) không phải học lại
+ những nội dung đã học mà chỉ cần học bổ sung những nội dung chưa được học hoặc
+ mới được cập nhật
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1
+
+Từ các vị trí khai thác bảo
+ dưỡng thiết bị thông tin sóng ngắn không - địa (HF A/G), khai thác, bảo dưỡng
+ hệ thống chuyển mạch thoại VCCS sang vị trí khai thác, bảo dưỡng thiết bị
+ thông tin sóng cực ngắn không - địa (VHF A/G)
+
+86
+
+24
+
+16
+
+40
+
+06
+
+2
+
+Từ các vị trí khai thác, bảo
+ dưỡng hệ thống chuyển mạch thoại VCCS, khai thác, bảo dưỡng thiết bị thông
+ tin sóng cực ngắn không - địa (VHF A/G) sang vị trí khai thác, bảo dưỡng thiết
+ bị thông tin sóng ngắn không - địa (HF A/G)
+
+86
+
+24
+
+16
+
+40
+
+06
+
+3
+
+Từ các vị trí khai thác, bảo dưỡng
+ thiết bị thông tin sóng ngắn không - địa (HF A/G), khai thác, bảo dưỡng thiết
+ bị thông tin sóng cực ngắn không - địa (VHF A/G) sang vị trí khai thác, bảo
+ dưỡng hệ thống chuyển mạch thoại VCCS
+
+126
+
+40
+
+40
+
+40
+
+06
+
+4
+
+Từ các vị trí khai thác, bảo
+ dưỡng VOR, khai thác, bảo dưỡng DME, khai thác, bảo dưỡng ILS (ILS/DME/
+ Marker) sang vị trí khai thác, bảo dưỡng NDB
+
+86
+
+24
+
+16
+
+40
+
+06
+
+5
+
+Từ các vị trí khai thác, bảo
+ dưỡng NDB, khai thác, bảo dưỡng DME, khai thác, bảo dưỡng ILS (ILS/DME/
+ Marker) sang vị trí khai thác, bảo dưỡng VOR
+
+86
+
+24
+
+16
+
+40
+
+06
+
+6
+
+Từ các vị trí khai thác, bảo
+ dưỡng VOR, khai thác, bảo dưỡng NDB, khai thác, bảo dưỡng ILS (ILS/DME/
+ Marker) sang vị trí khai thác, bảo dưỡng DME
+
+86
+
+24
+
+16
+
+40
+
+06
+
+7
+
+Từ các vị trí khai thác, bảo dưỡng
+ VOR, khai thác, bảo dưỡng DME, khai thác, bảo dưỡng NDB sang vị trí khai
+ thác, bảo dưỡng ILS (ILS/ DME/Marker)
+
+86
+
+24
+
+16
+
+40
+
+06
+
+8
+
+Từ vị trí khai thác, bảo dưỡng
+ hệ thống ADS-B sang vị trí khai thác, bảo dưỡng hệ thống PSR/SSR
+
+126
+
+40
+
+40
+
+40
+
+06
+
+9
+
+Từ vị trí khai thác, bảo dưỡng
+ hệ thống PSR/SSR sang vị trí khai thác, bảo dưỡng hệ thống ADS-B
+
+86
+
+24
+
+16
+
+40
+
+06
+
+10
+
+Từ vị trí khai thác mạng
+ AFTN, khai thác AMHS sang vị trí khai thác, bảo dưỡng hệ thống xử lý dữ liệu
+ ra đa, ADS-B, hệ thống ATM, hệ thống xử lý dữ liệu giám sát/hệ thống xử lý dữ
+ liệu bay
+
+126
+
+40
+
+40
+
+40
+
+06
+
+IV
+
+Nhân viên khí tượng hàng
+ không
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1
+
+Từ vị trí quan trắc khí tượng
+ hàng không sang vị trí dự báo khí tượng hàng không
+
+960
+
+240
+
+120
+
+590
+
+10
+
+2
+
+Từ vị trí dự báo khí tượng hàng
+ không sang vị trí quan trắc khí tượng hàng không
+
+120
+
+40
+
+32
+
+40
+
+08
+
+V
+
+Nhân viên bản đồ, sơ đồ, dữ
+ liệu hàng không
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1
+
+Từ vị trí nhân viên bản đồ,
+ sơ đồ hàng không về vị trí nhân viên dữ liệu hàng không
+
+250
+
+50
+
+120
+
+74
+
+06
+
+2
+
+Từ vị trí nhân viên dữ liệu
+ hàng không về vị trí nhân viên bản đồ, sơ đồ hàng không
+
+250
+
+50
+
+120
+
+74
+
+06
+
+D. CHƯƠNG
+TRÌNH HUẤN LUYỆN ĐỊNH KỲ
+
+1. Mục tiêu: Do cơ sở
+cung cấp dịch vụ bảo đảm hoạt động bay thực hiện nhằm củng cố, nhắc lại cho nhân
+viên đang làm việc tại vị trí chuyên môn các kiến thức và kỹ năng đã được học;
+cập nhập, bổ sung kiến thức mới về chuyên môn nghiệp vụ, các quy chế, quy định
+có liên quan; luyện tập thực hành để giúp cho nhân viên duy trì đủ điều kiện
+làm việc ở vị trí công việc chuyên môn theo quy định.
+
+2. Đối tượng: Là nhân
+viên đang làm việc ở vị trí chuyên môn, có giấy phép và năng định còn hiệu lực.
+
+3. Nội dung: 
+
+Phần I. Lý thuyết 
+
+Phần II. Thực hành
+
+Phần III. Ôn tập, kiểm tra
+
+4. Thời lượng:
+
+Số TT
+
+Nội dung
+
+Thời lượng tối thiểu (tiết)
+
+Trong đó
+
+Ôn tập, kiểm tra
+
+Lý thuyết
+
+Thực hành
+
+I
+
+Nhân viên không lưu
+
+ 
+
+ 
+
+ 
+
+ 
+
+1
+
+Kiểm soát tại sân bay
+
+40
+
+20
+
+16
+
+04
+
+2
+
+Kiểm soát tiếp cận giám sát
+ ATS, không có giám sát ATS
+
+40
+
+20
+
+16
+
+04
+
+3
+
+Kiểm soát đường dài giám sát ATS,
+ không có giám sát ATS
+
+40
+
+20
+
+16
+
+04
+
+4
+
+Thủ tục bay
+
+40
+
+20
+
+16
+
+04
+
+5
+
+Thông báo, hiệp đồng bay
+
+40
+
+20
+
+16
+
+04
+
+6
+
+ATFM
+
+40
+
+20
+
+16
+
+04
+
+7
+
+Đánh tín hiệu
+
+40
+
+20
+
+16
+
+04
+
+8
+
+Khai thác liên lạc sóng ngắn
+ không - địa (HF A/G)
+
+40
+
+20
+
+16
+
+04
+
+9
+
+Xử lý dữ liệu bay
+
+40
+
+20
+
+16
+
+04
+
+10
+
+Kíp trưởng không lưu tại các
+ vị trí kiểm soát tại sân bay, kiểm soát tiếp cận, kiểm soát đường dài
+
+40
+
+20
+
+16
+
+04
+
+11
+
+Kíp trưởng thủ tục bay
+
+40
+
+20
+
+16
+
+04
+
+12
+
+Kíp trưởng thông báo, hiệp đồng
+ bay
+
+40
+
+20
+
+16
+
+04
+
+13
+
+Kíp trưởng ATFM
+
+40
+
+20
+
+16
+
+04
+
+14
+
+Huấn luyện viên không lưu
+
+40
+
+20
+
+16
+
+04
+
+15
+
+Huấn luyện viên ATFM
+
+40
+
+20
+
+16
+
+04
+
+16
+
+Nhân viên trợ giúp thủ tục kế
+ hoạch bay
+
+36
+
+28
+
+04
+
+04
+
+II
+
+Nhân viên AIS
+
+ 
+
+ 
+
+ 
+
+ 
+
+1
+
+AIS sân bay
+
+40
+
+20
+
+16
+
+04
+
+2
+
+NOTAM
+
+40
+
+20
+
+16
+
+04
+
+3
+
+AIP
+
+40
+
+20
+
+16
+
+04
+
+4
+
+Kíp trưởng NOTAM
+
+40
+
+20
+
+16
+
+04
+
+5
+
+Kíp trưởng AIS sân bay
+
+40
+
+20
+
+16
+
+04
+
+III
+
+Nhân viên CNS
+
+ 
+
+ 
+
+ 
+
+ 
+
+1
+
+Khai thác, bảo dưỡng thiết bị
+ thông tin sóng cực ngắn không - địa (VHF A/G)
+
+52
+
+24
+
+24
+
+04
+
+2
+
+Khai thác, bảo dưỡng thiết bị
+ thông tin sóng ngắn không - địa (HF A/G)
+
+44
+
+16
+
+24
+
+04
+
+3
+
+Kíp trưởng CNS
+
+46
+
+20
+
+20
+
+06
+
+4
+
+Khai thác, bảo dưỡng VHF và
+ VCCS (áp dụng cho đài kiểm soát không lưu tại cảng hàng không nội địa)
+
+54
+
+24
+
+24
+
+06
+
+5
+
+Khai thác, bảo dưỡng hệ thống
+ chuyển mạch thoại (VCCS)
+
+60
+
+24
+
+32
+
+04
+
+6
+
+Khai thác, bảo dưỡng NDB
+
+44
+
+16
+
+24
+
+04
+
+7
+
+Khai thác, bảo dưỡng VOR
+
+44
+
+16
+
+24
+
+04
+
+8
+
+Khai thác, bảo dưỡng DME
+
+44
+
+16
+
+24
+
+04
+
+9
+
+Khai thác, bảo dưỡng ILS
+ (ILS/ DME/Marker)
+
+44
+
+16
+
+24
+
+04
+
+10
+
+Khai thác, bảo dưỡng hệ thống
+ PSR/SSR
+
+60
+
+24
+
+32
+
+04
+
+11
+
+Khai thác, bảo dưỡng hệ thống
+ ADS-B
+
+28
+
+08
+
+16
+
+04
+
+12
+
+Khai thác, bảo dưỡng hệ thống
+ xử lý dữ liệu ra đa, ADS-B, hệ thống ATM, hệ thống xử lý dữ liệu giám sát/hệ
+ thống xử lý dữ liệu bay
+
+60
+
+24
+
+32
+
+04
+
+13
+
+Khai thác, bảo dưỡng hệ thống
+ đèn tín hiệu và biển báo tại sân bay
+
+44
+
+16
+
+24
+
+04
+
+14
+
+Bay kiểm tra, hiệu chuẩn thiết
+ bị CNS; bay đánh giá phương thức bay
+
+70
+
+40
+
+26
+
+04
+
+IV
+
+Nhân viên khí tượng hàng
+ không
+
+ 
+
+ 
+
+ 
+
+ 
+
+1
+
+Quan trắc khí tượng hàng
+ không
+
+40
+
+20
+
+16
+
+04
+
+2
+
+Dự báo khí tượng hàng không
+
+40
+
+20
+
+16
+
+04
+
+3
+
+Kíp trưởng khí tượng hàng
+ không
+
+40
+
+20
+
+16
+
+04
+
+V
+
+Nhân viên tìm kiếm, cứu nạn
+ hàng không dân dụng
+
+ 
+
+ 
+
+ 
+
+ 
+
+1
+
+Nhân viên Hiệp đồng tìm kiếm,
+ cứu nạn tại Trung tâm Phối hợp tìm kiếm cứu nạn hàng không
+
+40
+
+20
+
+16
+
+04
+
+2
+
+Nhân viên Hiệp đồng tìm kiếm,
+ cứu nạn tại Trung tâm Khẩn nguy sân bay
+
+36
+
+24
+
+8
+
+04
+
+VI
+
+Nhân viên thiết kế phương
+ thức bay
+
+ 
+
+ 
+
+ 
+
+ 
+
+1
+
+Nhân viên thiết kế phương thức
+ bay
+
+80
+
+60
+
+16
+
+04
+
+VII
+
+Nhân viên bản đồ, sơ đồ, dữ
+ liệu hàng không
+
+ 
+
+ 
+
+ 
+
+ 
+
+1
+
+Nhân viên bản đồ, sơ đồ hàng
+ không
+
+40
+
+20
+
+16
+
+04
+
+2
+
+Nhân viên dữ liệu hàng không
+
+40
+
+20
+
+16
+
+04
+
+E. CHƯƠNG
+TRÌNH HUẤN LUYỆN PHỤC HỒI NĂNG ĐỊNH
+
+Là chương trình dành cho nhân
+viên đã có chứng chỉ chuyên môn, giấy phép nhân viên hàng không và năng định
+còn hiệu lực nhưng không làm việc liên tục tại vị trí làm việc được chỉ định với
+thời gian từ 90 ngày trở lên đối với nhân viên không lưu và từ 180 ngày trở lên
+đối với các nhân viên khác: sử dụng chương trình huấn luyện định kỳ.
+
+ 
+
+PHỤ LỤC 0619
+
+(Ban
+hành kèm theo Thông tư số 10/2018/TT-BGTVT ngày 14 tháng 3 năm 2018 của Bộ trưởng
+Bộ Giao thông vận tải)
+
+MẪU BIÊN BẢN HỌP HỘI ĐỒNG SÁT HẠCH NHÂN VIÊN HÀNG
+KHÔNG
+
+BỘ GIAO THÔNG VẬN
+ TẢI
+
+CỤC HÀNG KHÔNG VIỆT NAM
+
+ HỘI ĐỒNG SÁT HẠCH NVHK
+
+ -------
+
+CỘNG HÒA XÃ HỘI
+ CHỦ NGHĨA VIỆT NAM
+
+ Độc lập - Tự do - Hạnh phúc 
+
+ ---------------
+
+ 
+
+…………., ngày…….
+ tháng……. năm……
+
+ 
+
+BIÊN
+BẢN
+
+HỌP
+HỘI ĐỒNG SÁT HẠCH NHÂN VIÊN HÀNG KHÔNG NHÓM ……….
+
+Thực hiện quyết định số
+……./QĐ-CHK ngày…tháng ….năm…. của Cục trưởng Cục Hàng không Việt Nam về việc
+phê duyệt …… ;
+
+Vào hồi ……. ngày … tháng …. năm
+… tại trụ sở Cục Hàng không Việt Nam, Hội đồng sát hạch nhân viên hàng không
+nhóm ...;
+
+I. Chủ trì:
+
+Chủ trì: 
+
+Thư ký:
+
+II. Thành phần:
+
+- Thành viên Hội đồng sát hạch
+theo Quyết định số ……/QĐ-CHK ngày … tháng …. năm ….. gồm:
+
+- Đại diện Tổ giám sát kỳ sát hạch
+…
+
+III. Nội dung cuộc họp:
+
+1. Thông qua báo cáo kết quả của
+Tổ kiểm tra sát hạch
+
+2. Hội đồng thống nhất đề nghị Cục
+Hàng không Việt Nam cấp giấy phép………… cho các ông/bà có tên sau đây:
+
+TT
+
+Họ và tên
+
+Ngày, tháng, năm sinh
+
+Giới tính
+
+Loại giấy phép …
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3. Hội đồng thống nhất đề nghị Cục
+Hàng không Việt Nam không cấp giấy phép ………….. cho các ông/bà có tên sau đây:
+
+TT
+
+Họ và tên
+
+Ngày, tháng, năm sinh
+
+Giới tính
+
+Lý do đề nghị không cấp giấy phép …
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+4. Các ý kiến bảo lưu khác của thành
+viên Hội đồng (yêu cầu nêu rõ ý kiến bảo lưu của từng thành viên Hội đồng nếu
+có)
+
+5. Các thành viên Hội đồng cam
+kết những nội dung của Biên bản là hoàn toàn đúng sự thật, nếu sai chúng tôi
+xin chịu hoàn toàn trách nhiệm trước pháp luật.
+
+Biên bản này gồm ... trang ...
+Phụ lục và được lập thành ... bản có giá trị như nhau.
+
+Biên bản này đã được các thành
+viên Hội đồng sát hạch cấp giấy phép ………thống nhất thông qua và cùng ký tên dưới
+đây:
+
+Cuộc họp kết thúc vào hồi …… giờ
+cùng ngày.
+
+ 
+
+THƯ KÝ
+
+CHỦ TỊCH HỘI ĐỒNG
+
+ 
+
+THÀNH VIÊN THAM DỰ HỌP
+
+ 
+
+PHỤ LỤC 0720
+
+ĐỀ CƯƠNG BÁO CÁO KẾT QUẢ ĐÀO
+TẠO, HUẤN LUYỆN NHÂN VIÊN HÀNG KHÔNG
+
+(Ban hành kèm theo Thông tư số 10/2018/TT-BGTVT ngày 14 tháng 3 năm 2018 của
+Bộ trưởng Bộ Giao thông vận tải)
+
+ĐƠN VỊ: ……………….
+
+ -------
+
+CỘNG HÒA XÃ HỘI
+ CHỦ NGHĨA VIỆT NAM
+
+ Độc lập - Tự do - Hạnh phúc 
+
+ ---------------
+
+ 
+
+BÁO CÁO
+
+Kết quả đào tạo, huấn luyện nghiệp vụ nhân viên hàng không
+năm…….
+
+Kính gửi: Cục Hàng không Việt Nam
+
+1.
+Tình hình thực hiện và kết quả đạt được
+
+-
+Thông tin về các khóa đào tạo, huấn luyện được tổ chức trong năm báo cáo.
+
+- Tổng
+hợp kế hoạch đào tạo, huấn luyện năm sau.
+
+2. Tồn
+tại, hạn chế và nguyên nhân của tồn tại, hạn chế: Các vướng mắc phát sinh trong
+quá trình thực hiện (nếu có).
+
+3. Đề
+xuất, kiến nghị
+
+ 
+
+ 
+
+………, ngày …. tháng …. năm .....
+
+THỦ TRƯỞNG ĐƠN VỊ
+
+(Ký và đóng dấu)
+
+ 
+
+PHỤ LỤC 07A21
+
+ĐỀ CƯƠNG BÁO CÁO SỐ LIỆU
+ĐÀO TẠO, HUẤN LUYỆN NGHIỆP VỤ NHÂN VIÊN HÀNG KHÔNG
+
+(Ban hành kèm theo Thông tư số 10/2018/TT-BGTVT ngày 14 tháng 3 năm 2018 của
+Bộ trưởng Bộ Giao thông vận tải)
+
+ĐƠN VỊ: ……………….
+
+ -------
+
+CỘNG HÒA XÃ HỘI
+ CHỦ NGHĨA VIỆT NAM
+
+ Độc lập - Tự do - Hạnh phúc 
+
+ ---------------
+
+ 
+
+BÁO CÁO SỐ LIỆU ĐÀO TẠO, HUẤN LUYỆN NGHIỆP VỤ NHÂN VIÊN
+HÀNG KHÔNG NĂM .....
+
+STT
+
+Tên khóa học
+
+Hình thức đào tạo, huấn luyện
+
+Số lượng học viên
+
+Thời gian đào tạo, huấn luyện
+
+Kết quả đào tạo, huấn luyện (Số lượng học viên được cấp CCCM/hoàn
+ thành khóa học)
+
+Ghi chú
+
+ 
+
+Ví dụ:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1
+
+Đào tạo, huấn luyện ban đầu
+ Nhân viên điều khiển, vận hành thiết bị hàng không, phương tiện hoạt động tại
+ khu vực hạn chế của cảng hàng không, sân bay
+
+Đào tạo, huấn luyện trực tuyến lý thuyết
+
+20
+
+Ví dụ 01/3- 31/5/2022
+
+20
+
+ 
+
+ 
+
+Tổng số
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+………, ngày ….
+ tháng …. năm .....
+
+THỦ TRƯỞNG ĐƠN VỊ
+
+(Ký và đóng dấu)
+
+ 
+
+PHỤ LỤC 07B22
+
+ĐỀ CƯƠNG BÁO CÁO KẾ HOẠCH ĐÀO TẠO, HUẤN LUYỆN NGHIỆP
+VỤ NHÂN VIÊN HÀNG
+
+(Ban hành kèm theo Thông tư số 10/2018/TT-BGTVT ngày 14 tháng 3 năm 2018
+của Bộ trưởng Bộ Giao thông vận tải)
+
+ĐƠN VỊ: ……………….
+
+ -------
+
+CỘNG HÒA XÃ HỘI
+ CHỦ NGHĨA VIỆT NAM
+
+ Độc lập - Tự do - Hạnh phúc 
+
+ ---------------
+
+ 
+
+BÁO
+CÁO KẾ HOẠCH ĐÀO TẠO, HUẤN LUYỆN NGHIỆP VỤ NHÂN VIÊN HÀNG KHÔNG NĂM .....
+
+STT
+
+Tên khóa học
+
+Hình thức đào tạo, huấn luyện
+
+Số lượng học viên
+
+Thời gian dự kiến đào tạo, huấn luyện
+
+Ghi chú
+
+ 
+
+Ví dụ:
+
+ 
+
+ 
+
+ 
+
+ 
+
+1
+
+Đào tạo, huấn luyện ban đầu
+ Nhân viên điều khiển, vận hành thiết bị hàng không, phương tiện hoạt động tại
+ khu vực hạn chế của cảng hàng không, sân bay
+
+Đào tạo, huấn luyện trực tuyến
+ lý thuyết
+
+20
+
+Ví dụ 01/3- 31/5/2022
+
+ 
+
+ 
+
+Tổng số
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1
+Thông tư số 35/2021/TT-BGTVT ngày 17 tháng 12 năm 2021 của Bộ trưởng Bộ Giao
+thông vận tải sửa đổi, bổ sung một số điều của Thông tư số 10/2018/TT-BGTVT 
+ngày 14 tháng 3 năm 2018 của Bộ trưởng Bộ Giao thông vận tải quy định về nhân
+viên hàng không; đào tạo, huấn luyện và sát hạch nhân viên hàng không, có căn cứ
+ban hành như sau:
+
+“Căn cứ Luật Hàng không dân
+dụng Việt Nam ngày 29 tháng 6 năm 2006 và Luật Sửa đổi, bổ sung một số điều của
+Luật Hàng không dân dụng Việt Nam ngày 21 tháng 11 năm 2014;
+
+Căn cứ Nghị định số
+12/2017/NĐ-CP ngày 10 tháng 02 năm 2017 của Chính phủ quy định chức năng, nhiệm
+vụ, quyền hạn và cơ cấu tổ chức của Bộ Giao thông vận tải;
+
+Căn cứ Nghị định số
+92/2016/NĐ-CP ngày 01 tháng 7 năm 2016 của Chính phủ quy định về các ngành, nghề
+kinh doanh có điều kiện trong lĩnh vực hàng không dân dụng;
+
+Căn cứ Nghị định số
+89/2019/NĐ-CP ngày 15 tháng 11 năm 2019 của Chính phủ sửa đổi, bổ sung một số điều
+của Nghị định số 92/2016/NĐ-CP ngày 01 tháng 7 năm 2016 của Chính phủ quy định
+về các ngành, nghề kinh doanh có điều kiện trong lĩnh vực hàng không dân dụng
+và Nghị định số 30/2013/NĐ-CP ngày 08 tháng 4 năm 2013 của Chính phủ về kinh
+doanh vận chuyển hàng không và hoạt động hàng không chung;
+
+Theo đề nghị của Vụ trưởng Vụ
+An toàn giao thông và Cục trưởng Cục Hàng không Việt Nam,
+
+Bộ trưởng Bộ Giao thông vận tải ban hành Thông
+tư sửa đổi, bổ sung một số điều của Thông tư số 10/2018/TT-BGTVT ngày 14 tháng 3
+năm 2018 của Bộ trưởng Bộ Giao thông vận tải quy định về nhân viên hàng không;
+đào tạo, huấn luyện và sát hạch nhân viên hàng không.”
+
+2 Khoản này được sửa
+đổi theo quy định tại điểm a khoản 1 Điều 1 của Thông tư số 35/2021/TT-BGTVT sửa
+đổi, bổ sung một số điều của Thông tư số 10/2018/TT-BGTVT ngày 14 tháng 3 năm
+2018 của Bộ trưởng Bộ Giao thông vận tải quy định về nhân viên hàng không; đào
+tạo, huấn luyện và sát hạch nhân viên hàng không, có hiệu lực kể từ ngày 02
+tháng 02 năm 2022.
+
+3 Khoản này được bổ
+sung theo quy định tại điểm b khoản 1 Điều 1 của Thông tư số 35/2021/TT-BGTVT sửa
+đổi, bổ sung một số điều của Thông tư số 10/2018/TT-BGTVT ngày 14 tháng 3 năm
+2018 của Bộ trưởng Bộ Giao thông vận tải quy định về nhân viên hàng không; đào
+tạo, huấn luyện và sát hạch nhân viên hàng không, có hiệu lực kể từ ngày 02
+tháng 02 năm 2022.
+
+4 Khoản này được bổ
+sung theo quy định tại điểm c khoản 1 Điều 1 của Thông tư số 35/2021/TT-BGTVT sửa
+đổi, bổ sung một số điều của Thông tư số 10/2018/TT-BGTVT ngày 14 tháng 3 năm
+2018 của Bộ trưởng Bộ Giao thông vận tải quy định về nhân viên hàng không; đào
+tạo, huấn luyện và sát hạch nhân viên hàng không, có hiệu lực kể từ ngày 02
+tháng 02 năm 2022.
+
+5 Điều này được sửa
+đổi theo quy định tại khoản 2 Điều 1 của Thông tư số 35/2021/TT-BGTVT sửa đổi,
+bổ sung một số điều của Thông tư số 10/2018/TT-BGTVT ngày 14 tháng 3 năm 2018 của
+Bộ trưởng Bộ Giao thông vận tải quy định về nhân viên hàng không; đào tạo, huấn
+luyện và sát hạch nhân viên hàng không, có hiệu lực kể từ ngày 02 tháng 02 năm
+2022.
+
+6 Khoản này được sửa
+đổi theo quy định tại khoản 3 Điều 1 của Thông tư số 35/2021/TT-BGTVT sửa đổi,
+bổ sung một số điều của Thông tư số 10/2018/TT-BGTVT ngày 14 tháng 3 năm 2018 của
+Bộ trưởng Bộ Giao thông vận tải quy định về nhân viên hàng không; đào tạo, huấn
+luyện và sát hạch nhân viên hàng không, có hiệu lực kể từ ngày 02 tháng 02 năm
+2022.
+
+7 Khoản này được sửa
+đổi theo quy định tại khoản 4 Điều 1 của Thông tư số 35/2021/TT-BGTVT sửa đổi,
+bổ sung một số điều của Thông tư số 10/2018/TT-BGTVT ngày 14 tháng 3 năm 2018 của
+Bộ trưởng Bộ Giao thông vận tải quy định về nhân viên hàng không; đào tạo, huấn
+luyện và sát hạch nhân viên hàng không, có hiệu lực kể từ ngày 02 tháng 02 năm
+2022.
+
+8 Khoản này được sửa
+đổi theo quy định tại khoản 5 Điều 1 của Thông tư số 35/2021/TT-BGTVT sửa đổi,
+bổ sung một số điều của Thông tư số 10/2018/TT-BGTVT ngày 14 tháng 3 năm 2018 của
+Bộ trưởng Bộ Giao thông vận tải quy định về nhân viên hàng không; đào tạo, huấn
+luyện và sát hạch nhân viên hàng không, có hiệu lực kể từ ngày 02 tháng 02 năm
+2022.
+
+9 Điều này được sửa
+đổi theo quy định tại khoản 6 Điều 1 của Thông tư số 35/2021/TT-BGTVT sửa đổi,
+bổ sung một số điều của Thông tư số 10/2018/TT-BGTVT ngày 14 tháng 3 năm 2018 của
+Bộ trưởng Bộ Giao thông vận tải quy định về nhân viên hàng không; đào tạo, huấn
+luyện và sát hạch nhân viên hàng không, có hiệu lực kể từ ngày 02 tháng 02 năm
+2022.
+
+10 Khoản này được
+bổ sung theo quy định tại khoản 7 Điều 1 của Thông tư số 35/2021/TT-BGTVT sửa đổi,
+bổ sung một số điều của Thông tư số 10/2018/TT-BGTVT ngày 14 tháng 3 năm 2018 của
+Bộ trưởng Bộ Giao thông vận tải quy định về nhân viên hàng không; đào tạo, huấn
+luyện và sát hạch nhân viên hàng không, có hiệu lực kể từ ngày 02 tháng 02 năm
+2022.
+
+11 Khoản này được
+bổ sung theo quy định tại khoản 7 Điều 1 của Thông tư số 35/2021/TT-BGTVT sửa đổi,
+bổ sung một số điều của Thông tư số 10/2018/TT-BGTVT ngày 14 tháng 3 năm 2018 của
+Bộ trưởng Bộ Giao thông vận tải quy định về nhân viên hàng không; đào tạo, huấn
+luyện và sát hạch nhân viên hàng không, có hiệu lực kể từ ngày 02 tháng 02 năm
+2022.
+
+12 Điều này được
+sửa đổi theo quy định tại khoản 8 Điều 1 của Thông tư số 35/2021/TT-BGTVT sửa đổi,
+bổ sung một số điều của Thông tư số 10/2018/TT-BGTVT ngày 14 tháng 3 năm 2018 của
+Bộ trưởng Bộ Giao thông vận tải quy định về nhân viên hàng không; đào tạo, huấn
+luyện và sát hạch nhân viên hàng không, có hiệu lực kể từ ngày 02 tháng 02 năm
+2022.
+
+13 Khoản này được
+sửa đổi theo quy định tại khoản 9 Điều 1 của Thông tư số 35/2021/TT-BGTVT sửa đổi,
+bổ sung một số điều của Thông tư số 10/2018/TT-BGTVT ngày 14 tháng 3 năm 2018 của
+Bộ trưởng Bộ Giao thông vận tải quy định về nhân viên hàng không; đào tạo, huấn
+luyện và sát hạch nhân viên hàng không, có hiệu lực kể từ ngày 02 tháng 02 năm
+2022.
+
+14 Khoản này được
+sửa đổi theo quy định tại khoản 10 Điều 1 của Thông tư số 35/2021/TT-BGTVT sửa
+đổi, bổ sung một số điều của Thông tư số 10/2018/TT-BGTVT ngày 14 tháng 3 năm
+2018 của Bộ trưởng Bộ Giao thông vận tải quy định về nhân viên hàng không; đào
+tạo, huấn luyện và sát hạch nhân viên hàng không, có hiệu lực kể từ ngày 02
+tháng 02 năm 2022.
+
+15
+Điều 3 của Thông tư số 35/2021/TT-BGTVT sửa đổi, bổ sung một số điều của Thông
+tư số 10/2018/TT-BGTVT ngày 14 tháng 3 năm 2018 của Bộ trưởng Bộ Giao thông vận
+tải quy định về nhân viên hàng không; đào tạo, huấn luyện và sát hạch nhân viên
+hàng không, có hiệu lực kể từ ngày 02 tháng 02 năm 2022 quy định như sau:
+
+“Điều 3. Điều khoản thi
+hành
+
+1. Thông tư này có hiệu lực
+thi hành kể từ ngày 02 tháng 02 năm 2022.
+
+2. Các khóa đào tạo, huấn
+luyện đang thực hiện đào tạo, huấn luyện trước ngày Thông tư này có hiệu lực tiếp
+tục được thực hiện đến khi hoàn thành.
+
+3. Chánh Văn phòng Bộ, Chánh Thanh tra Bộ, các Vụ
+trưởng, Cục trưởng Cục Hàng không Việt Nam, Thủ trưởng các cơ quan, tổ chức và
+cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này./.”
+
+16 Phụ lục này được
+thay thế theo quy định tại khoản 1 Điều 2 của Thông tư số 35/2021/TT-BGTVT sửa
+đổi, bổ sung một số điều của Thông tư số 10/2018/TT-BGTVT ngày 14 tháng 3 năm
+2018 của Bộ trưởng Bộ Giao thông vận tải quy định về nhân viên hàng không; đào
+tạo, huấn luyện và sát hạch nhân viên hàng không, có hiệu lực kể từ ngày 02
+tháng 02 năm 2022
+
+17 Phụ lục này được
+thay thế theo quy định tại khoản 2 Điều 2 của Thông tư số 35/2021/TT-BGTVT sửa
+đổi, bổ sung một số điều của Thông tư số 10/2018/TT-BGTVT ngày 14 tháng 3 năm
+2018 của Bộ trưởng Bộ Giao thông vận tải quy định về nhân viên hàng không; đào
+tạo, huấn luyện và sát hạch nhân viên hàng không, có hiệu lực kể từ ngày 02
+tháng 02 năm 2022
+
+18 Phụ lục này được
+thay thế theo quy định tại khoản 3 Điều 2 của Thông tư số 35/2021/TT-BGTVT sửa
+đổi, bổ sung một số điều của Thông tư số 10/2018/TT-BGTVT ngày 14 tháng 3 năm
+2018 của Bộ trưởng Bộ Giao thông vận tải quy định về nhân viên hàng không; đào
+tạo, huấn luyện và sát hạch nhân viên hàng không, có hiệu lực kể từ ngày 02
+tháng 02 năm 2022
+
+19 Phụ lục này được
+bổ sung theo quy định tại khoản 4 Điều 2 của Thông tư số 35/2021/TT-BGTVT sửa đổi,
+bổ sung một số điều của Thông tư số 10/2018/TT-BGTVT ngày 14 tháng 3 năm 2018 của
+Bộ trưởng Bộ Giao thông vận tải quy định về nhân viên hàng không; đào tạo, huấn
+luyện và sát hạch nhân viên hàng không, có hiệu lực kể từ ngày 02 tháng 02 năm
+2022
+
+20 Phụ lục này được bổ sung theo quy định tại khoản 5 Điều 2 của
+Thông tư số 35/2021/TT-BGTVT sửa đổi, bổ sung một số điều của Thông tư số
+10/2018/TT-BGTVT ngày 14 tháng 3 năm 2018 của Bộ trưởng Bộ Giao thông vận tải
+quy định về nhân viên hàng không; đào tạo, huấn luyện và sát hạch nhân viên
+hàng không, có hiệu lực kể từ ngày 02 tháng 02 năm 2022
+
+21 Phụ lục này được
+bổ sung theo quy định tại khoản 6 Điều 2 của Thông tư số 35/2021/TT-BGTVT sửa đổi,
+bổ sung một số điều của Thông tư số 10/2018/TT-BGTVT ngày 14 tháng 3 năm 2018 của
+Bộ trưởng Bộ Giao thông vận tải quy định về nhân viên hàng không; đào tạo, huấn
+luyện và sát hạch nhân viên hàng không, có hiệu lực kể từ ngày 02 tháng 02 năm
+2022
+
+22 Phụ lục này được
+bổ sung theo quy định tại khoản 7 Điều 2 của Thông tư số 35/2021/TT-BGTVT sửa đổi,
+bổ sung một số điều của Thông tư số 10/2018/TT-BGTVT ngày 14 tháng 3 năm 2018 của
+Bộ trưởng Bộ Giao thông vận tải quy định về nhân viên hàng không; đào tạo, huấn
+luyện và sát hạch nhân viên hàng không, có hiệu lực kể từ ngày 02 tháng 02 năm
+2022--- THÔNG TIN THÊM ---
+Ten: Văn bản hợp nhất 31/VBHN-BGTVT năm 2022 hợp nhất Thông tư quy định về nhân viên hàng không; đào tạo, huấn luyện và sát hạch nhân viên hàng không do Bộ trưởng Bộ Giao thông vận tải ban hành
+So hieu: 31/VBHN-BGTVT
+Loai van ban: Văn bản hợp nhất
+Linh vuc nganh: Lao động - Tiền lương, Giao thông - Vận tải
+Noi ban hanh: Bộ Giao thông vận tải
+Nguoi ky: Lê Anh Tuấn
+Ngay ban hanh: 21/07/2022
+Ngay dang: 19/08/2022
+So cong bao: Từ số 685 đến số 686
+Tinh trang: Còn hiệu lực
+
+
+--- MỤC LỤC ---
+- THÔNG TƯ QUY ĐỊNH VỀ NHÂN VIÊN HÀNG KHÔNG; ĐÀO TẠO, HUẤN LUYỆN VÀ SÁT HẠCH NHÂN VIÊN HÀNG KHÔNG
+  - Chương I QUY ĐỊNH CHUNG
+    - Điều 1. Phạm vi điều chỉnh
+    - Điều 2. Đối tượng áp dụng
+    - Điều 3. Quy ước viết tắt
+    - Điều 4. Giải thích từ ngữ
+    - Điều 5. Thời gian giảng dạy, quy đổi thời gian giảng dạy
+  - Chương II NHÂN VIÊN HÀNG KHÔNG
+    - Điều 6. Chức danh nhân viên hàng không
+    - Điều 7. Nhiệm vụ theo chức danh của nhân viên hàng không
+    - Điều 8. Tiêu chuẩn nhân viên hàng không
+    - Điều 9. Chứng chỉ chuyên môn và Giấy chứng nhận trình độ tiếng Anh
+    - Điều 10. Giấy phép nhân viên hàng không
+    - Điều 11. Danh mục và thời hạn hiệu lực của giấy phép và năng định nhân viên hàng không
+  - Chương lII ĐÀO TẠO, HUẤN LUYỆN NGHIỆP VỤ NHÂN VIÊN HÀNG KHÔNG
+    - Điều 12. Chương trình đào tạo, huấn luyện nghiệp vụ nhân viên hàng không
+    - Điều 13. Giáo trình đào tạo, huấn luyện nghiệp vụ nhân viên hàng không
+    - Điều 14. Công nhận cơ sở đào tạo, huấn luyện nghiệp vụ nhân viên hàng không ở nước ngoài
+    - Điều 15. Đào tạo, huấn luyện trực tuyến nghiệp vụ nhân viên hàng không
+  - Chương IV SÁT HẠCH NHÂN VIÊN HÀNG KHÔNG
+    - Điều 16. Hội đồng sát hạch
+    - Điều 17. Nhiệm vụ của Hội đồng sát hạch
+    - Điều 18. Nhiệm vụ của Tổ sát hạch
+    - Điều 19. Tiêu chuẩn sát hạch viên
+  - Chương V ĐIỀU KHOẢN THI HÀNH
+    - Điều 20. Trách nhiệm của cơ sở đào tạo, huấn luyện nghiệp vụ nhân viên hàng không
+    - Điều 21. Trách nhiệm của Cục Hàng không Việt Nam
+    - Điều 22. Điều khoản chuyển tiếp
+    - Điều 23. Hiệu lực thi hành
+    - Điều 24. Trách nhiệm thi hành
+  - PHỤ LỤC 01 MẪU CHỨNG CHỈ CHUYÊN MÔN
+  - PHỤ LỤC 02 MẪU CHỨNG NHẬN TRÌNH ĐỘ TIẾNG ANH
+  - PHỤ LỤC 03 DANH MỤC GIẤY PHÉP, NĂNG ĐỊNH NHÂN VIÊN HÀNG KHÔNG
+  - PHỤ LỤC 04 CHƯƠNG TRÌNH ĐÀO TẠO, HUẤN LUYỆN NGHIỆP VỤ NHÂN VIÊN HÀNG KHÔNG NHÓM KHAI THÁC CẢNG HÀNG KHÔNG, SÂN BAY
+    - A. CHƯƠNG TRÌNH ĐÀO TẠO, HUẤN LUYỆN BAN ĐẦU
+    - B. CHƯƠNG TRÌNH ĐÀO TẠO, HUẤN LUYỆN ĐỊNH KỲ
+    - C. CHƯƠNG TRÌNH ĐÀO TẠO, HUẤN LUYỆN PHỤC HỒI NHÂN VIÊN HÀNG KHÔNG
+  - PHỤ LỤC 05 CHƯƠNG TRÌNH ĐÀO TẠO, HUẤN LUYỆN NGHIỆP VỤ NHÂN VIÊN HÀNG KHÔNG NHÓM BẢO ĐẢM HOẠT ĐỘNG BAY
+    - A. CHƯƠNG TRÌNH ĐÀO TẠO BAN ĐẦU ĐỂ CẤP CHỨNG CHỈ CHUYÊN MÔN
+    - B. CHƯƠNG TRÌNH HUẤN LUYỆN NĂNG ĐỊNH
+    - C. CHƯƠNG TRÌNH HUẤN LUYỆN CHUYỂN LOẠI NĂNG ĐỊNH
+    - D. CHƯƠNG TRÌNH HUẤN LUYỆN ĐỊNH KỲ
+    - E. CHƯƠNG TRÌNH HUẤN LUYỆN PHỤC HỒI NĂNG ĐỊNH
+  - PHỤ LỤC 06 MẪU BIÊN BẢN HỌP HỘI ĐỒNG SÁT HẠCH NHÂN VIÊN HÀNG KHÔNG
+  - PHỤ LỤC 07 ĐỀ CƯƠNG BÁO CÁO KẾT QUẢ ĐÀO TẠO, HUẤN LUYỆN NHÂN VIÊN HÀNG KHÔNG
+  - PHỤ LỤC 07A ĐỀ CƯƠNG BÁO CÁO SỐ LIỆU ĐÀO TẠO, HUẤN LUYỆN NGHIỆP VỤ NHÂN VIÊN HÀNG KHÔNG
+  - PHỤ LỤC 07B ĐỀ CƯƠNG BÁO CÁO KẾ HOẠCH ĐÀO TẠO, HUẤN LUYỆN NGHIỆP VỤ NHÂN VIÊN HÀNG
+
+--- VĂN BẢN LIÊN QUAN ---
+
+Van ban duoc hop nhat:
+  - Thông tư 35/2021/TT-BGTVT sửa đổi Thông tư 10/2018/TT-BGTVT quy định về nhân viên hàng không; đào tạo, huấn... (ID: 497772)
+  - Thông tư 10/2018/TT-BGTVT quy định về nhân viên hàng không; đào tạo, huấn luyện và sát hạch nhân viên hàng ... (ID: 361518)
+
+Van ban duoc can cu:
+  - Hiến pháp 2013 (ID: 215627)
+  - Pháp lệnh hợp nhất văn bản quy phạm pháp luật do Ủy ban Thường vụ Quốc hội ban hành (ID: 137827)

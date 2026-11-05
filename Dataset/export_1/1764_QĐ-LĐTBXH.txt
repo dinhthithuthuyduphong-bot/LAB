@@ -1,0 +1,416 @@
+BỘ
+ LAO ĐỘNG - THƯƠNG BINH VÀ XÃ HỘI
+
+ -------
+
+CỘNG
+ HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+ Độc lập - Tự do - Hạnh phúc 
+
+ ---------------
+
+Số: 1764/QĐ-LĐTBXH
+
+Hà Nội, ngày 22 tháng 11 năm 2019
+
+ 
+
+QUYẾT ĐỊNH
+
+PHÊ DUYỆT KẾ HOẠCH TRIỂN KHAI PHẦN MỀM TIẾP NHẬN, XỬ LÝ PHẢN ÁNH, KIẾN
+NGHỊ NGƯỜI DÂN, DOANH NGHIỆP, CỬ TRI VÀ ĐẠI BIỂU QUỐC HỘI THUỘC HỆ THỐNG THÔNG
+TIN BỘ VỚI NGƯỜI DÂN VÀ DOANH NGHIỆP
+
+BỘ TRƯỞNG BỘ LAO ĐỘNG - THƯƠNG BINH VÀ XÃ HỘI
+
+Căn cứ Nghị định số 14/2017/NĐ-CP
+ngày 17/02/2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu
+tổ chức của Bộ Lao động - Thương binh và Xã hội;
+
+Căn cứ Quyết định số 267/QĐ-LĐTBXH
+ngày 12/03/2018 của Bộ trưởng Bộ Lao động - Thương
+binh và Xã hội ban hành Quy chế tiếp nhận, xử lý và trả lời phản ánh, kiến nghị
+của người dân, doanh nghiệp trên Cổng Thông tin điện tử Chính phủ thuộc trách
+nhiệm của Bộ Lao động - Thương binh và Xã hội và Cổng Thông tin điện tử của Bộ
+Lao động - Thương binh và Xã hội;
+
+Căn cứ Quyết định số 596/QĐ-LĐTBXH
+ngày 21/5/2018 của Bộ trưởng Bộ Lao động - Thương
+binh và Xã hội ban hành Quy chế tiếp nhận, giải quyết và trả lời chất vấn của Đại
+biểu Quốc hội; kiến nghị của cử tri; đơn, thư của cử tri do Đại biểu Quốc hội,
+các cơ quan của Quốc hội chuyển đến Bộ Lao động - Thương binh và Xã hội;
+
+Xét đề nghị của Chánh Văn phòng Bộ
+và Giám đốc Trung tâm Thông tin,
+
+QUYẾT ĐỊNH:
+
+Điều 1. Phê duyệt kèm theo Quyết định này Kế hoạch triển
+khai phần mềm Tiếp nhận, xử lý phản ánh, kiến nghị người dân, doanh nghiệp, cử
+tri và Đại biểu Quốc hội thuộc Hệ thống thông tin Bộ với Người dân và Doanh
+nghiệp.
+
+Điều 2. Quyết định này có hiệu lực thi hành kể từ ngày
+ký.
+
+Điều 3. Giao Văn phòng Bộ phối hợp với Trung tâm Thông
+tin tổ chức khai trương và tập huấn phần mềm cho các đơn vị thuộc Bộ trong
+tháng 11 năm 2019 và đưa vào vận hành.
+
+Điều 4. Chánh Văn phòng Bộ, Vụ trưởng Vụ Kế hoạch - Tài
+chính, Giám đốc Trung tâm Thông tin, Thủ trưởng các đơn vị thuộc Bộ và các cá
+nhân có liên quan chịu trách nhiệm thi hành Quyết định này./.
+
+ 
+
+Nơi nhận:
+
+- Như Điều 4;
+
+ - Ban Dân nguyện của Quốc hội;
+
+ - Bộ trưởng (để b/c);
+
+ - Các đơn vị thuộc Bộ (để t/h);
+
+ - Tổ công tác của Bộ trưởng;
+
+ - Cổng TTĐT Chính phủ;
+
+ - Cổng TTĐT của Bộ;
+
+ - Lưu: VT, TTTT.
+
+KT. BỘ TRƯỞNG
+
+ THỨ TRƯỞNG
+
+ Lê Quân
+
+ 
+
+KẾ HOẠCH
+
+TRIỂN KHAI PHẦN MỀM TIẾP NHẬN, XỬ LÝ PHẢN ÁNH, KIẾN NGHỊ NGƯỜI DÂN,
+DOANH NGHIỆP, CỬ TRI VÀ ĐẠI BIỂU QUỐC HỘI THUỘC HỆ THỐNG THÔNG TIN BỘ VỚI NGƯỜI
+DÂN VÀ DOANH NGHIỆP
+
+(Kèm theo Quyết định số 1764/QĐ-LĐTBXH
+ngày 22 tháng 11 năm
+2019 của Bộ trưởng Bộ Lao động - Thương binh và Xã hội)
+
+I. MỤC TIÊU, PHẠM
+VI
+
+1. Mục tiêu tổng quát
+
+Thực hiện nâng cao hiệu lực, hiệu quả
+quản lý, điều hành của Lãnh đạo Bộ và các đơn vị thuộc Bộ trên cơ sở ứng dụng
+công nghệ thông tin, hướng tới xây dựng Chính phủ điện tử, thực hiện cải cách
+hành chính, minh bạch hóa thông tin trong công tác quản lý Nhà nước của các đơn
+vị thuộc Bộ. Thực hiện nhiệm vụ giải quyết và trả lời kiến nghị của cử tri; tiếp
+nhận, trả lời kiến nghị của người dân và doanh nghiệp; trả lời hỏi đáp chính
+sách; góp ý dự thảo văn bản quy phạm pháp luật; công bố kết luận thanh tra.
+
+2. Mục tiêu cụ thể
+
+a) Giảm tối đa việc sử dụng văn bản
+giấy trong điều hành xử lý phản ánh, kiến nghị của người dân và doanh nghiệp.
+Phấn đấu đến hết năm 2020 đạt mục tiêu 100% các phản ánh, kiến nghị, hỏi đáp
+chính sách được xử lý điều hành trên môi trường mạng (trừ văn bản có nội dung
+bí mật nhà nước).
+
+b) Lập và quản lý hồ sơ điện tử của
+các phản ánh, kiến nghị, hỗ trợ công tác quản lý điều hành của Bộ trong giao tiếp
+người dân và doanh nghiệp; Năm 2020, lập báo cáo thống kê và phân tích phản
+ánh, kiến nghị phục vụ công tác nghiên cứu và xây dựng kế hoạch ban hành văn bản
+quy phạm pháp luật của Bộ hàng năm.
+
+c) Tiến tới áp dụng chữ ký số trên Hệ
+thống thông tin Bộ với Người dân và Doanh nghiệp.
+
+d) Các hệ thống thông tin được kết nối
+gồm: (1) Bộ với người dân, (2) Bộ với doanh nghiệp, (3) Bộ với cử tri và Đại biểu
+Quốc hội, (4) Kết luận thanh tra, (5) Lấy ý kiến dự thảo
+văn bản quy phạm pháp luật; Bảo đảm kết nối, liên thông Hệ thống với Chính phủ
+và các đơn vị liên quan phục vụ chỉ đạo, điều hành của Lãnh đạo Bộ.
+
+3. Phạm vi
+
+Phần mềm Tiếp nhận, xử lý phản ánh,
+kiến nghị người dân, doanh nghiệp, cử tri và Đại biểu Quốc hội được triển khai
+tại Cổng thông tin điện tử của Bộ, kết nối với các đơn vị trực thuộc Bộ phục vụ
+giao tiếp với Người dân và Doanh nghiệp.
+
+II. NỘI DUNG TRIỂN
+KHAI
+
+STT
+
+Nội dung công việc
+
+Đơn vị chủ trì
+
+Đơn vị phối hợp
+
+Thời gian thực hiện
+
+1
+
+Tổ chức tập huấn
+ sử dụng phần mềm Tiếp nhận, xử lý phản ánh, kiến nghị người dân,
+ doanh nghiệp, cử tri và Đại biểu Quốc hội
+
+Văn phòng Bộ
+
+Trung tâm Thông tin
+
+Tháng 11/2019
+
+2
+
+Tiếp nhận, phân loại
+ phản ánh, kiến nghị chuyển đến các đơn vị chức năng nghiên cứu, trả lời trên
+ phần mềm Tiếp nhận, xử lý phản ánh, kiến nghị người dân, doanh nghiệp, cử tri
+ và Đại biểu Quốc hội
+
+Văn phòng Bộ
+
+Các đơn vị
+
+Thường xuyên
+
+3
+
+Tiếp nhận và xử
+ lý phản ánh, kiến nghị; cập nhật thông tin đầu vào, kết quả xử lý trên phần mềm
+ Tiếp nhận, xử lý phản ánh, kiến nghị người dân, doanh nghiệp, cử tri và Đại
+ biểu Quốc hội
+
+Các đơn vị
+
+Văn phòng Bộ
+
+Thường xuyên
+
+4
+
+Báo cáo định kỳ
+ kết quả xử lý phản ánh/kiến nghị (theo mẫu báo cáo định kỳ)
+
+Văn phòng Bộ
+
+Trung tâm Thông tin
+
+Hàng tháng
+
+5
+
+Tiếp nhận phản
+ ánh, kiến nghị (bao gồm trên Trang Cải cách hành chính) và cập nhật trên phần
+ mềm Tiếp nhận, xử lý phản ánh, kiến nghị người dân, doanh nghiệp, cử tri và Đại
+ biểu Quốc hội
+
+Văn phòng Bộ
+
+Các đơn vị
+
+Thường xuyên
+
+6
+
+Truyền thông về
+ công tác tiếp nhận, phản ánh, kiến nghị của người dân và doanh nghiệp
+
+Văn phòng Bộ
+
+Các cơ quan thông tin báo chí thuộc Bộ, Cổng TTĐT của Bộ
+
+Hàng năm
+
+7
+
+Báo cáo phân
+ tích kết quả phản ánh, kiến nghị từ phần mềm Tiếp nhận, xử lý phản ánh, kiến
+ nghị người dân, doanh nghiệp, cử tri và Đại biểu Quốc hội
+
+Văn phòng Bộ
+
+Trung tâm Thông tin, Vụ Pháp chế
+
+6 tháng, 1 năm
+
+8
+
+Quản trị cơ sở
+ dữ liệu điện tử và kết xuất dữ liệu
+
+Trung tâm Thông tin
+
+Văn phòng Bộ, Vụ Pháp chế, Thanh tra Bộ và các
+ đơn vị có liên quan
+
+Hàng năm
+
+9
+
+Kết nối các hệ
+ thống thông tin: (1) Công khai kết quả phản ánh, kiến nghị trên Cổng thông
+ tin điện tử của Bộ;
+
+(2) Lấy ý kiến
+ góp ý dự thảo văn bản quy phạm pháp luật;
+
+(3) Kết nối với
+ Cổng Thông tin điện tử của Chính phủ
+
+Trung tâm Thông tin
+
+Các đơn vị liên quan
+
+Hàng năm
+
+10
+
+Hỗ trợ kỹ thuật
+ vận hành Hệ thống
+
+- Cấp tài khoản
+ người dùng
+
+- Đảm bảo hạ tầng
+ kỹ thuật và an toàn thông tin
+
+- Hỗ trợ kỹ thuật
+
+Trung tâm Thông tin
+
+Các đơn vị
+
+Thường xuyên
+
+III. TỔ CHỨC THỰC
+HIỆN
+
+1. Văn phòng Bộ
+
+- Chủ trì, phối hợp với các đơn vị thuộc
+Văn phòng Chính phủ, Trung tâm Thông tin trong việc cấp tài khoản, hướng dẫn
+các đơn vị khai thác, sử dụng các chức năng của phần mềm
+Tiếp nhận, xử lý phản ánh, kiến nghị người dân, doanh nghiệp, cử tri và Đại biểu
+Quốc hội theo mục tiêu, yêu cầu đề ra.
+
+- Tiếp nhận, phân loại và chuyển phản
+ánh, kiến nghị của người dân và doanh nghiệp đến đơn vị chức năng nghiên cứu trả lời, cập nhật lên phần mềm Tiếp nhận, xử lý phản ánh, kiến nghị người
+dân, doanh nghiệp, cử tri và Đại biểu Quốc hội theo quy định.
+
+- Thường xuyên nghiên cứu, tổng hợp
+khó khăn, vướng mắc của các đơn vị trong quá trình khai thác, sử dụng phần mềm
+Tiếp nhận, xử lý phản ánh, kiến nghị người dân, doanh nghiệp,
+cử tri và Đại biểu Quốc hội để kịp thời đề xuất điều chỉnh, bổ sung những vấn đề
+liên quan hoặc chưa hợp lý.
+
+- Phối hợp với các cơ quan thông tấn,
+báo chí, tăng cường truyền thông đối với công tác tiếp nhận, xử lý và trả lời
+phản ánh, kiến nghị trên phần mềm Tiếp nhận, xử lý phản ánh, kiến nghị người
+dân, doanh nghiệp, cử tri và Đại biểu Quốc hội.
+
+- Phối hợp với
+Trung tâm Thông tin định kỳ tổng hợp, báo cáo Bộ tình hình giải quyết phản ánh,
+kiến nghị của cử tri, người dân và doanh nghiệp.
+
+2. Vụ Kế
+hoạch tài chính
+
+Chủ trì, phối hợp với các đơn vị, cơ
+quan liên quan bố trí kinh phí thực hiện theo quy định.
+
+3. Trung tâm Thông tin
+
+- Chủ trì, phối hợp với Văn phòng Bộ, Văn phòng Chính phủ và các đơn vị liên quan xây dựng
+công cụ tiếp nhận, xử lý phản ánh, kiến nghị của người dân, doanh nghiệp trên Cổng
+Thông tin điện tử của Bộ đảm bảo liên kết, tích hợp với Cổng
+thông tin điện tử của Chính phủ.
+
+- Đăng tải thông tin xử lý phản ánh,
+kiến nghị công khai lên chuyên trang Bộ với Người dân và
+Doanh nghiệp trên Cổng thông tin điện tử của Bộ.
+
+- Xây dựng, quản lý cơ sở dữ liệu điện
+tử các phản ánh, kiến nghị của người dân, doanh nghiệp thông qua phần mềm Tiếp
+nhận, xử lý phản ánh, kiến nghị người dân, doanh nghiệp, cử tri và Đại biểu Quốc
+hội. Định kỳ hàng quý hoặc đột xuất theo yêu cầu, có trách nhiệm xử lý, phân
+tích kết quả gửi Văn phòng Bộ, Thanh tra Bộ và tổng hợp
+chung báo cáo Bộ.
+
+- Bố trí trang thiết bị, đường truyền,
+bảo đảm hạ tầng công nghệ thông tin để vận hành, khai thác phần mềm. Xây dựng
+chuyên trang tiếp nhận, xử lý phản ánh, kiến nghị trên Cổng
+thông tin điện tử của Bộ liên kết, tích hợp với phần mềm
+Tiếp nhận, xử lý phản ánh, kiến nghị người dân, doanh nghiệp, cử tri và Đại biểu
+Quốc hội.
+
+- Phối hợp với
+Văn phòng Bộ và các đơn vị liên quan trong việc cấp, quản lý tài khoản an toàn
+để phục vụ khai thác, sử dụng phần mềm Tiếp nhận, xử lý phản ánh, kiến nghị người
+dân, doanh nghiệp, cử tri và Đại biểu Quốc hội theo hướng
+dẫn của Văn phòng Chính phủ và của Bộ.
+
+- Chủ trì, phối hợp với Văn phòng Bộ
+định kỳ tổng hợp, báo cáo Bộ tình hình giải quyết phản ánh, kiến nghị, hỏi đáp
+pháp luật của Người dân và Doanh nghiệp.
+
+- Tiến tới áp dụng chữ ký số trong
+các văn bản điện tử để chuyển xử lý, trả lời phản ánh, kiến nghị của người dân,
+doanh nghiệp thông qua phần mềm Tiếp nhận, xử lý phản ánh, kiến nghị người dân,
+doanh nghiệp, cử tri và Đại biểu Quốc hội thuộc Hệ thống Bộ
+với người dân và doanh nghiệp.
+
+4. Các đơn vị thuộc Bộ
+
+- Bố trí cán bộ
+của đơn vị làm đầu mối để theo dõi, tổng hợp việc tiếp nhận, xử lý các phản ánh, kiến nghị của cử tri, người
+dân và doanh nghiệp liên quan tới chức năng, nhiệm vụ của đơn vị.
+
+- Thường xuyên rà soát, cập nhật trên phần mềm Tiếp nhận, xử lý phản ánh, kiến nghị người dân, doanh nghiệp,
+cử tri và Đại biểu Quốc hội kết quả xử lý phản ánh, kiến nghị của đơn vị đảm bảo
+đúng thời hạn theo quy định của Bộ.
+
+- Tổ chức lưu trữ hồ sơ, tài liệu và
+xây dựng dữ liệu điện tử các phản ánh, kiến nghị về lĩnh vực chuyên môn của đơn
+vị./.--- THÔNG TIN THÊM ---
+Ten: Quyết định 1764/QĐ-LĐTBXH năm 2019 về phê duyệt Kế hoạch triển khai phần mềm Tiếp nhận, xử lý phản ánh, kiến nghị người dân, doanh nghiệp, cử tri và Đại biểu Quốc hội thuộc Hệ thống thông tin Bộ với Người dân và Doanh nghiệp do Bộ trưởng Bộ Lao động - Thương binh và Xã hội ban hành
+So hieu: 1764/QĐ-LĐTBXH
+Loai van ban: Quyết định
+Linh vuc nganh: Lao động - Tiền lương, Công nghệ thông tin
+Noi ban hanh: Bộ Lao động - Thương binh và Xã hội
+Nguoi ky: Lê Quân
+Ngay ban hanh: 22/11/2019
+Ngay hieu luc: 22/11/2019
+Ngay dang: Dữ liệu đang cập nhật
+So cong bao: Dữ liệu đang cập nhật
+Tinh trang: Còn hiệu lực
+
+
+--- MỤC LỤC ---
+- QUYẾT ĐỊNH PHÊ DUYỆT KẾ HOẠCH TRIỂN KHAI PHẦN MỀM TIẾP NHẬN, XỬ LÝ PHẢN ÁNH, KIẾN NGHỊ NGƯỜI DÂN, DOANH NGHIỆP, CỬ TRI VÀ ĐẠI BIỂU QUỐC HỘI THUỘC HỆ THỐNG THÔNG TIN BỘ VỚI NGƯỜI DÂN VÀ DOANH NGHIỆP
+  - Điều 1. Phê duyệt kèm theo Quyết định này Kế hoạch triển khai phần mềm Tiếp nhận, xử lý phản ánh, kiến nghị người dân, doanh nghiệp, cử tri và Đại biểu Quốc hội thuộc Hệ thống thông tin Bộ với Người dân và Doanh nghiệp.
+  - Điều 2. Quyết định này có hiệu lực thi hành kể từ ngày ký.
+  - Điều 3. Giao Văn phòng Bộ phối hợp với Trung tâm Thông tin tổ chức khai trương và tập huấn phần mềm cho các đơn vị thuộc Bộ trong tháng 11 năm 2019 và đưa vào vận hành.
+  - Điều 4. Chánh Văn phòng Bộ, Vụ trưởng Vụ Kế hoạch - Tài chính, Giám đốc Trung tâm Thông tin, Thủ trưởng các đơn vị thuộc Bộ và các cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này./.
+- KẾ HOẠCH TRIỂN KHAI PHẦN MỀM TIẾP NHẬN, XỬ LÝ PHẢN ÁNH, KIẾN NGHỊ NGƯỜI DÂN, DOANH NGHIỆP, CỬ TRI VÀ ĐẠI BIỂU QUỐC HỘI THUỘC HỆ THỐNG THÔNG TIN BỘ VỚI NGƯỜI DÂN VÀ DOANH NGHIỆP
+  - I. MỤC TIÊU, PHẠM VI
+  - II. NỘI DUNG TRIỂN KHAI
+  - III. TỔ CHỨC THỰC HIỆN
+
+--- VĂN BẢN LIÊN QUAN ---
+
+Van ban duoc can cu:
+  - Quyết định 267/QĐ-LĐTBXH năm 2018 về quy chế tiếp nhận, xử lý và trả lời phản ánh, kiến nghị của người dân,... (ID: 377826)
+  - Nghị định 14/2017/NĐ-CP quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Lao động - Thương ... (ID: 340184)
+
+Van ban lien quan cung noi dung:
+  - Công văn 2660/BHXH-CNTT năm 2019 triển khai phần mềm Xét duyệt chính sách theo Quyết định 166/QĐ-BHXH do Bảo hiểm xã hội Việt Nam ban hành (ID: 424264)
+  - Quyết định 696/QĐ-BTP năm 2019 về Kế hoạch triển khai Phần mềm quản lý thu, nộp tạm ứng án phí do Bộ trưởng Bộ Tư pháp ban hành (ID: 411213)
+  - Quyết định 1872/QĐ-BTTTT năm 2018 công bố Định mức kinh tế - kỹ thuật triển khai áp dụng phần mềm nguồn mở do Bộ trưởng Bộ Thông tin và Truyền thông ban hành (ID: 400385)

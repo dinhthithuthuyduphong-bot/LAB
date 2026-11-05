@@ -1,0 +1,947 @@
+BỘ
+ NỘI VỤ 
+
+ -------
+
+CỘNG
+ HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+ Độc lập – Tự do – Hạnh phúc
+
+ --------------
+
+Số:
+ 12/2010/TT-BNV
+
+Hà
+ Nội, ngày 26 tháng 11 năm 2010
+
+ 
+
+THÔNG TƯ
+
+HƯỚNG DẪN PHƯƠNG PHÁP XÁC ĐỊNH ĐƠN GIÁ CHỈNH LÝ TÀI LIỆU GIẤY
+
+Căn cứ Nghị định số 48/2008/NĐ-CP ngày 17 tháng 4 năm 2008 của Chính
+phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Nội vụ;
+
+Căn cứ Nghị định số 111/2004/NĐ-CP ngày 08
+tháng 4 năm 2004 của Chính phủ quy định chi tiết thi hành một số điều của Pháp lệnh Lưu trữ quốc gia;
+
+Căn cứ Nghị định số 60/2003/NĐ-CP ngày 06
+tháng 6 năm 2003 của Chính phủ quy định chi tiết và hướng dẫn thi hành Luật Ngân sách nhà nước;
+
+Căn cứ Thông tư số 03/2010/TT-BNV ngày 29
+tháng 4 năm 2010 của Bộ Nội vụ quy định định mức kinh tế kỹ thuật chỉnh lý tài
+liệu giấy;
+
+Sau khi có ý kiến thống nhất của Bộ Tài chính tại Văn bản số 9810/BTC-QLG ngày
+27 tháng 7 năm 2010, Bộ Nội vụ hướng dẫn phương pháp xác định đơn giá chỉnh lý
+tài liệu giấy như sau:
+
+Điều
+1. Quy định chung
+
+1. Phạm vi, đối
+tượng áp dụng: Thông tư này hướng dẫn phương pháp xác định đơn giá chỉnh lý tài
+liệu giấy để xây dựng dự toán kinh phí thực hiện thuê khoán chỉnh lý tài liệu của
+các cơ quan, tổ chức sử dụng ngân sách nhà nước.
+
+2. Đơn giá chỉnh
+lý tài liệu giấy được tính cho 01 mét giá tài liệu ban đầu đưa ra chỉnh lý bao
+gồm đơn giá tiền lương và đơn giá vật tư, văn phòng phẩm (VPP).
+
+Điều
+2. Phương pháp xác định đơn giá tiền lương 
+
+1. Đơn giá tiền
+lương chỉnh lý tài liệu giấy có hệ số 1,0 được xác định theo các bước như sau:
+
+a) Bước 1: Xác định
+tiền lương thời gian của từng bước công việc (BCV) trong quy trình chỉnh lý (i
+= 1, 2, 3, …, 23), ký hiệu là Vi theo công thức sau:
+
+Vi
+ =
+
+Tiền
+ lương cơ bản của BCV + Tiền lương bổ sung theo chế độ BCV + Các khoản nộp
+ theo lương của BCV + Phụ cấp độc hại
+
+(đồng/phút)
+
+26
+ ngày x 8 giờ x 60 phút
+
+Trong đó:
+
+- Tiền lương cơ
+bản của BCV bằng mức lương tối thiểu chung Nhà nước quy định cho từng thời kỳ
+nhân với hệ số lương của BCV (áp dụng theo Bảng lương chuyên môn nghiệp vụ đối
+với cán bộ, viên chức trong các đơn vị sự nghiệp của Nhà nước ban hành kèm theo
+Nghị định số 204/2004/NĐ-CP ngày 14 tháng 12
+năm 2004 của Chính phủ về chế độ tiền lương đối với cán bộ, công chức, viên chức
+và lực lượng vũ trang, Bảng số 3).
+
+- Tiền lương bổ
+sung theo chế độ của BCV bằng tiền lương cơ bản của BCV nhân với 0,1 (hệ số
+ngày nghỉ được hưởng lương theo chế độ).
+
+- Các khoản nộp
+theo lương của BCV bao gồm bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp
+và kinh phí công đoàn, được tính bằng tổng của tiền lương cơ bản và tiền lương
+bổ sung theo chế độ của BCV nhân với tỷ lệ quy định của Nhà nước cho từng thời
+kỳ.
+
+- Phụ cấp độc hại
+bằng mức lương tối thiểu chung Nhà nước quy định cho từng thời kỳ nhân với hệ số
+độc hại là 0,2 (quy định tại Công văn số 2939/BNV-TL
+ngày 04 tháng 10 năm 2005 của Bộ Nội vụ về chế độ phụ cấp độc hại, nguy hiểm đối
+với cán bộ, công chức, viên chức ngành lưu trữ).
+
+- 26 ngày là số
+ngày công trong 01 tháng; 8 giờ là thời gian lao động trong 01 ngày và 60 phút
+là thời gian trong 01 giờ.
+
+b) Bước 2: Xác định
+đơn giá tiền lương của từng BCV trong quy trình chỉnh lý (i = 1, 2, 3, …, 23),
+ký hiệu là Vsp.i theo công thức:
+
+Vsp,i
+= Vi x Tsp,i (đồng/mét giá).
+
+Trong đó:
+
+- Vi­ là
+tiền lương thời gian của từng BCV, đơn vị tính là đồng/phút.
+
+- Tsp,i
+là mức lao động tổng hợp của từng BCV, đơn vị tính là phút/mét giá tài liệu.
+Các mức lao động chi tiết chỉnh lý tài liệu giấy có hệ số 1,0 của quy trình chỉnh
+lý quy định tại Phụ lục số 02 của Thông tư số 03/2010/TT-BNV
+ngày 29 tháng 4 năm 2010 của Bộ Nội vụ.
+
+c) Bước 3: Xác định
+đơn giá tiền lương (Vsp) của cả quy trình chỉnh lý tài liệu theo
+công thức:
+
+Vsp
+= Vsp,1 + Vsp,2 + … Vsp,i + … Vsp,23
+(đồng/mét giá).
+
+Trong đó Vsp,i
+là đơn giá tiền lương của từng BCV trong 23 BCV của quy trình chỉnh lý tài liệu.
+
+(Phương pháp xác
+định đơn giá tiền lương chỉnh lý tài liệu giấy theo Phụ lục đính kèm).
+
+2. Đơn giá tiền
+lương chỉnh lý tài liệu giấy có hệ số khác hệ số 1,0 xác định theo đơn giá tiền
+lương chỉnh lý tài liệu giấy có hệ số 1,0 nhân với các hệ số quy định tại Thông
+tư 03/2010/TT-BNV ngày 29 tháng 4 năm 2010
+của Bộ Nội vụ.
+
+Điều
+3. Phương pháp xác định đơn giá vật tư, văn phòng phẩm
+
+Đơn giá vật tư,
+văn phòng phẩm (VPP) cho chỉnh lý 01 mét tài liệu được tính theo công thức:
+
+Đơn
+ giá vật tư, VPP
+
+=
+
+Σ
+ (Số lượng từng loại vật tư, VPP theo định mức)
+
+x
+
+Đơn
+ giá từng loại vật tư, VPP
+
+Trong đó:
+
+- Số lượng của từng
+loại vật tư, VPP quy định tại Phụ lục số 03 của Thông tư 03/2010/TT-BNV ngày 29 tháng 4 năm 2010 của Bộ
+Nội vụ.
+
+- Đơn giá từng
+loại vật tư, VPP tính theo giá thị trường tại thời điểm thực hiện chỉnh lý.
+
+Điều
+4. Tổ chức thực hiện 
+
+1. Các cơ quan,
+tổ chức sử dụng ngân sách nhà nước căn cứ tình hình thực tế tài liệu của đơn vị
+và hướng dẫn tại Thông tư này để xây dựng dự toán chi ngân sách trình cấp có thẩm
+quyền phê duyệt. Việc thanh quyết toán thực hiện theo quy định của pháp luật.
+
+2. Thông tư này
+có hiệu lực thi hành sau 45 ngày kể từ ngày ký.
+
+3. Trong quá
+trình thực hiện, nếu phát sinh vướng mắc, đề nghị phản ánh kịp thời về Bộ Nội vụ
+để nghiên cứu, sửa đổi, bổ sung cho phù hợp.
+
+ 
+
+ 
+
+Nơi nhận:
+
+ - VPTW và các Ban của Đảng;
+
+ - VP Quốc hội, VP Chủ tịch nước;
+
+ - Viện Kiểm sát nhân dân tối cao;
+
+ - Tòa án nhân dân tối cao;
+
+ - Kiểm toán Nhà nước;
+
+ - Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ;
+
+ - UBND tỉnh, TP trực thuộc TW;
+
+ - Cơ quan Trung ương của các Đoàn thể;
+
+ - Các Tập đoàn và Tổng Công ty nhà nước;
+
+ - Cục Kiểm tra VBQPPL (Bộ Tư pháp);
+
+ - Cục VTLTNN (05 bản);
+
+ - Sở Nội vụ tỉnh, TP trực thuộc TW;
+
+ - Sở Tài chính tỉnh, TP trực thuộc TW;
+
+ - Chi cục Văn thư - Lưu trữ tỉnh, TP trực thuộc TW;
+
+ - Công báo;
+
+ - Lưu: VT, Vụ Pháp chế, KHTC (03 bản).
+
+BỘ
+ TRƯỞNG
+
+ Trần Văn Tuấn
+
+ 
+
+PHỤ LỤC
+
+CÁCH XÁC ĐỊNH ĐƠN GIÁ TIỀN LƯƠNG CỦA CÁC BƯỚC CÔNG VIỆC
+TRONG QUY TRÌNH CHỈNH LÝ TÀI LIỆU GIẤY CÓ HỆ SỐ 1,0
+
+(Kèm theo Thông tư số 12/2010/TT-BNV ngày 26/11/2010 của Bộ Nội vụ)
+
+Số
+ TT
+
+Nội
+ dung công việc
+
+Ngạch,
+ bậc viên chức
+
+Hệ
+ số lương (Hi)
+
+Tiền
+ lương thời gian (Vi) (đồng/ phút)
+
+Định
+ mức lao động tổng hợp (Tsp,i) (phút)
+
+Đơn
+ giá tiền lương (Vsp,i = Vi x Tsp,i) (đồng/mét giá tài liệu)
+
+A
+
+B
+
+C
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+ = (2)x(3)
+
+1
+
+Giao nhận tài liệu và lập biên bản
+ giao nhận tài liệu 
+
+Lưu
+ trữ viên trung cấp bậc 1/12
+
+1,86
+
+157,71
+
+6,43
+
+1.013
+
+2
+
+Vận chuyển tài liệu từ kho bảo quản
+ đến địa điểm chỉnh lý (khoảng cách ~100m)
+
+Lưu
+ trữ viên trung cấp bậc 1/12
+
+1,86
+
+157,71
+
+32,13
+
+5.067
+
+3
+
+Vệ sinh sơ bộ tài liệu 
+
+Lưu
+ trữ viên trung cấp bậc 1/12
+
+1,86
+
+157,71
+
+53,55
+
+8.445
+
+4
+
+Khảo sát và biên soạn các văn bản
+ hướng dẫn chỉnh lý:
+
+- Kế hoạch chỉnh lý;
+
+- Lịch sử đơn vị hình thành
+ phông, lịch sử phông;
+
+- Hướng dẫn xác định giá trị tài
+ liệu;
+
+- Hướng dẫn phân loại, lập hồ sơ.
+
+Lưu
+ trữ viên chính bậc 2/8 hoặc lưu trữ viên bậc 7/9
+
+4,34
+
+352,38
+
+128,52
+
+45.288
+
+5
+
+Phân loại tài liệu theo Hướng dẫn
+ phân loại
+
+Lưu
+ trữ viên bậc 4/9 hoặc lưu trữ viên trung cấp bậc 8/12
+
+3,33
+
+273,10
+
+666,91
+
+182.133
+
+6
+
+Lập hồ sơ hoặc chỉnh sửa, hoàn
+ thiện hồ sơ theo Hướng dẫn lập hồ sơ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+a)
+
+Lập hồ sơ đối với tài liệu chưa lập
+ hồ sơ (tài liệu rời lẻ)
+
+Lưu
+ trữ viên bậc 3/9 hoặc lưu trữ viên trung cấp bậc 7/12
+
+3,00
+
+247,19
+
+4.479,67
+
+1.107.348
+
+b)
+
+Chỉnh sửa, hoàn thiện hồ sơ đối với
+ tài liệu đã được lập hồ sơ nhưng chưa đạt yêu cầu (tài liệu đã lập hồ sơ sơ bộ)
+
+Lưu
+ trữ viên bậc 3/9 hoặc lưu trữ viên trung cấp bậc 7/12
+
+3,00
+
+247,19
+
+2.824,55
+
+698.211
+
+7
+
+Biên mục phiếu tin (các trường 1,
+ 2, 4, 5, 6, 7, 8, 9, 11, 13, 14)
+
+Lưu
+ trữ viên bậc 3/9 hoặc lưu trữ viên trung cấp bậc 7/12
+
+3,00
+
+247,19
+
+1.711,89
+
+423.168
+
+8
+
+Kiểm tra, chỉnh sửa việc lập hồ
+ sơ và việc biên mục phiếu tin 
+
+Lưu
+ trữ viên chính bậc 2/8 hoặc lưu trữ viên bậc 7/9
+
+4,34
+
+352,38
+
+1.312,06
+
+462.346
+
+9
+
+Hệ thống hóa phiếu tin theo
+ phương án phân loại
+
+Lưu
+ trữ viên bậc 4/9 hoặc lưu trữ viên trung cấp bậc 9/12
+
+3,33
+
+273,10
+
+92,53
+
+25.271
+
+10
+
+Hệ thống hóa hồ sơ theo phiếu tin
+ 
+
+Lưu
+ trữ viên trung cấp bậc 4/12
+
+2,46
+
+204,80
+
+154,22
+
+31.586
+
+11
+
+Biên mục hồ sơ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+a
+
+Đánh số tờ cho tài liệu bảo quản
+ từ 20 năm trở lên và điền vào trường 10 của phiếu tin 
+
+Lưu
+ trữ viên trung cấp bậc 1/12
+
+1,86
+
+157,71
+
+653,31
+
+103.031
+
+b
+
+Viết mục lục văn bản đối với tài
+ liệu bảo quản vĩnh viễn
+
+Lưu
+ trữ viên trung cấp bậc 2/12
+
+2,06
+
+173,41
+
+1.156,68
+
+200.575
+
+c
+
+Viết bìa hồ sơ và chứng từ kết
+ thúc
+
+Lưu
+ trữ viên trung cấp bậc 2/12
+
+2,06
+
+173,41
+
+771,12
+
+133.716
+
+12
+
+Kiểm tra và chỉnh sửa việc biên mục
+ hồ sơ 
+
+Lưu
+ trữ viên bậc 5/9 hoặc lưu trữ viên trung cấp bậc 10/12
+
+3,66
+
+299,00
+
+487,41
+
+145.738
+
+13
+
+Đánh số chính thức cho hồ sơ vào
+ trường số 3 của phiếu tin và lên bìa hồ sơ 
+
+Lưu
+ trữ viên trung cấp bậc 2/12
+
+2,06
+
+173,41
+
+131,73
+
+22.843
+
+14
+
+Vệ sinh tài liệu, tháo bỏ ghim, kẹp,
+ làm phẳng và đưa tài liệu vào bìa hồ sơ 
+
+Lưu
+ trữ viên trung cấp bậc 1/12
+
+1,86
+
+157,71
+
+525,18
+
+82.823
+
+15
+
+Đưa hồ sơ vào hộp (cặp)
+
+Lưu
+ trữ viên trung cấp bậc 1/12
+
+1,86
+
+157,71
+
+42,84
+
+6.756
+
+16
+
+Viết và dán nhãn hộp (cặp)
+
+Lưu
+ trữ viên trung cấp bậc 2/12
+
+2,06
+
+173,41
+
+37,49
+
+6.500
+
+17
+
+Vận chuyển tài liệu vào kho và xếp
+ lên giá
+
+Lưu
+ trữ viên trung cấp bậc 1/12
+
+1,86
+
+157,71
+
+32,13
+
+5.067
+
+18
+
+Giao, nhận tài liệu sau chỉnh lý
+ và lập Biên bản giao, nhận tài liệu 
+
+Lưu
+ trữ viên trung cấp bậc 2/12
+
+2,06
+
+173,41
+
+653,31
+
+113.287
+
+19
+
+Nhập phiếu tin vào cơ sở dữ liệu
+
+Lưu
+ trữ viên trung cấp bậc 3/12
+
+2,26
+
+189,11
+
+1.542,24
+
+291.645
+
+20
+
+Kiểm tra, chỉnh sửa việc nhập phiếu
+ tin 
+
+Lưu
+ trữ viên bậc 3/9 hoặc lưu trữ viên trung cấp bậc 7/12
+
+3,00
+
+247,19
+
+385,42
+
+95.274
+
+21
+
+Lập mục lục hồ sơ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+a)
+
+Viết lời nói đầu
+
+Lưu
+ trữ viên chính bậc 2/8 hoặc lưu trữ viên bậc 7/9
+
+4,34
+
+352,38
+
+15,42
+
+5.435
+
+b)
+
+Lập bảng tra cứu bổ trợ
+
+Lưu
+ trữ viên chính bậc 2/8 hoặc lưu trữ viên bậc 7/9
+
+4,34
+
+352,38
+
+61,69
+
+21.738
+
+c)
+
+Tập hợp dữ liệu và in mục lục hồ
+ sơ từ cơ sở dữ liệu (03 bộ)
+
+Lưu
+ trữ viên trung cấp bậc 4/12
+
+2,46
+
+204,80
+
+35,99
+
+7.370
+
+d)
+
+Đóng quyển mục lục (03 bộ)
+
+Lưu
+ trữ viên trung cấp bậc 4/12
+
+2,46
+
+204,80
+
+35,87
+
+7.345
+
+22
+
+Xử lý tài liệu loại 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+a)
+
+Sắp xếp, bó gói, thống kê danh mục
+ tài liệu loại 
+
+Lưu
+ trữ viên trung cấp bậc 4/12
+
+2,46
+
+204,80
+
+412,86
+
+84.556
+
+b)
+
+Viết thuyết minh tài liệu loại
+
+Lưu
+ trữ viên chính bậc 2/8 hoặc lưu trữ viên bậc 7/9
+
+4,34
+
+352,38
+
+5,14
+
+1.812
+
+23
+
+Kết thúc chỉnh lý 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+a)
+
+Hoàn chỉnh và bàn giao hồ sơ
+ phông
+
+Lưu
+ trữ viên trung cấp bậc 2/12
+
+2,06
+
+173,41
+
+2,14
+
+371
+
+b)
+
+Viết báo cáo tổng kết chỉnh lý
+
+Lưu
+ trữ viên chính bậc 2/8 hoặc lưu trữ viên bậc 7/9
+
+4,34
+
+352,38
+
+10,28
+
+3.623
+
+Cộng
+ chi phí nhân công 
+
+Đối với tài liệu rời lẻ (Vsp =
+ Vsp,1 + Vsp,2 + … + Vsp,6a + … + Vsp,23).
+
+ 
+
+ 
+
+ 
+
+15.636
+
+3.631.170
+
+Đối với tài liệu đã lập hồ sơ sơ
+ bộ (Vsp = Vsp,1 + Vsp,2 + … + Vsp,6b + … + Vsp,23).
+
+ 
+
+ 
+
+ 
+
+13.981
+
+3.222.034
+
+Cộng
+ chi phí đã bao gồm thuế GTGT 10%
+
+Đối với tài liệu rời lẻ (Vsp x
+ 1,1)
+
+ 
+
+ 
+
+ 
+
+ 
+
+3.994.287
+
+Đối với tài liệu đã nộp hồ sơ sơ
+ bộ (Vsp x 1,1)
+
+ 
+
+ 
+
+ 
+
+ 
+
+3.544.237
+
+Ghi chú:
+
+Cách tính tiền lương thời gian của
+từng BCV - Vi tại cột số (2) = (730.000 x Hi x 1,1 x 1,22 + 730.000 x 0,2) :
+(26 x 8 x 6), trong đó 730.000 đồng là mức lương tối thiểu chung quy định tại Nghị
+định số 28/2010/NĐ-CP ngày 25/3/2010 của
+Chính phủ; hệ số lương (Hi) theo Bảng lương chuyên môn nghiệp vụ đối với cán bộ,
+viên chức trong các đơn vị sự nghiệp của nhà nước ban hành kèm theo Nghị định 204/2004/NĐ-CP ngày 14/12/2004 của Chính phủ;
+hệ số ngày nghỉ hưởng lương theo chế độ 10%; các khoản nộp theo lương 22% (BHXH
+16%, BHYT 3%, BHTN 1%, KPCĐ 2%); phụ cấp độc hại 20%; 26 ngày công/tháng; 8 giờ/ngày;
+60 phút/giờ.--- THÔNG TIN THÊM ---
+Ten: Thông tư 12/2010/TT-BNV hướng dẫn phương pháp xác định đơn giá chỉnh lý tài liệu giấy do Bộ Nội vụ ban hành
+So hieu: 12/2010/TT-BNV
+Loai van ban: Thông tư
+Linh vuc nganh: Lao động - Tiền lương
+Noi ban hanh: Bộ Nội vụ
+Nguoi ky: Trần Văn Tuấn
+Ngay ban hanh: 26/11/2010
+Ngay hieu luc: 10/01/2011
+Ngay dang: 18/12/2010
+So cong bao: Từ số 721 đến số 722
+Tinh trang: Còn hiệu lực
+
+
+--- MỤC LỤC ---
+- THÔNG TƯ HƯỚNG DẪN PHƯƠNG PHÁP XÁC ĐỊNH ĐƠN GIÁ CHỈNH LÝ TÀI LIỆU GIẤY
+  - Điều 1. Quy định chung
+  - Điều 2. Phương pháp xác định đơn giá tiền lương
+  - Điều 3. Phương pháp xác định đơn giá vật tư, văn phòng phẩm
+  - Điều 4. Tổ chức thực hiện
+  - PHỤ LỤC CÁCH XÁC ĐỊNH ĐƠN GIÁ TIỀN LƯƠNG CỦA CÁC BƯỚC CÔNG VIỆC TRONG QUY TRÌNH CHỈNH LÝ TÀI LIỆU GIẤY CÓ HỆ SỐ 1,0
+
+--- VĂN BẢN LIÊN QUAN ---
+
+Van ban duoc dan chieu:
+  - Nghị định 28/2010/NĐ-CP quy định mức lương tối thiểu chung (ID: 102835)
+  - Công văn số 2939/BNV-TL của Bộ Nội vụ về việc chế độ phụ cấp độc hại, nguy hiểm đối với cán bộ, công chức, ... (ID: 4051)
+  - Nghị định 204/2004/NĐ-CP về chế độ tiền lương đối với cán bộ, công chức, viên chức và lực lượng vũ trang (ID: 52629)
+
+Van ban duoc can cu:
+  - Thông tư 03/2010/TT-BNV quy định Định mức kinh tế - kỹ thuật chỉnh lý tài liệu giấy do Bộ Nội vụ ban hành (ID: 105424)
+  - Nghị định 48/2008/NĐ-CP quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Nội vụ (ID: 65074)
+  - Nghị định 111/2004/NĐ-CP Hướng dẫn Pháp lệnh Lưu trữ quốc gia (ID: 51991)
+  - Nghị định 60/2003/NĐ-CP Hướng dẫn Luật Ngân sách nhà nước (ID: 51008)
+
+Van ban lien quan cung noi dung:
+  - Hướng dẫn 50-HD/VPTW năm 2019 chỉnh lý tài liệu do Văn phòng Ban Chấp hành Trung ương ban hành (ID: 619076)

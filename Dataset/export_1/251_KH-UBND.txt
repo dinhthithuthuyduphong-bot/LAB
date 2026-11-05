@@ -1,0 +1,828 @@
+ỦY BAN NHÂN DÂN
+
+ TỈNH ĐỒNG NAI
+
+ -------
+
+CỘNG HÒA XÃ HỘI
+ CHỦ NGHĨA VIỆT NAM
+
+ Độc lập - Tự do - Hạnh phúc
+
+ ---------------
+
+Số: 251/KH-UBND
+
+Đồng Nai, ngày 26
+ tháng 10 năm 2023
+
+ 
+
+KẾ HOẠCH
+
+THỰC
+HIỆN MÔ HÌNH QUẢN LÝ CHƯƠNG TRÌNH AN SINH XÃ HỘI THÔNG QUA VNEID VÀ MÔ HÌNH
+PHÂN TÍCH TÌNH HÌNH LAO ĐỘNG TRÊN ĐỊA BÀN TỈNH
+
+Căn cứ Quyết định số 06/QĐ-TTg ngày 06 tháng 01 năm
+2022 của Thủ tướng Chính phủ về việc phê duyệt Đề án phát triển ứng dụng dữ liệu
+về dân cư, định danh và xác thực điện tử phục vụ chuyển đổi số quốc gia giai đoạn
+2022 - 2025, tầm nhìn đến 2030;
+
+Căn cứ Chỉ thị số 05/CT-TTg ngày 23 tháng 02 năm
+2023 của Thủ tướng Chính phủ về việc tiếp tục đẩy mạnh Đề án phát triển ứng dụng
+dữ liệu về dân cư, định danh và xác thực điện tử phục vụ chuyển đổi số quốc gia
+giai đoạn 2022 - 2025, tầm nhìn đến năm 2030 tại các bộ, ngành, địa phương năm
+2023 và những năm tiếp theo;
+
+Căn cứ Thông tư số 46/2022/TT-BCA ngày 04 tháng 11
+năm 2022 của Bộ trưởng Bộ Công an quy định về việc kết nối, chia sẻ và khai
+thác thông tin giữa Cơ sở dữ liệu quốc gia về dân cư với cơ sở dữ liệu quốc
+gia, cơ sở dữ liệu chuyên ngành và hệ thống thông tin khác;
+
+Căn cứ Văn bản số 4043/CV-TCTTKĐA ngày 13 tháng 6
+năm 2023 của Tổ công tác triển khai Đề án 06/CP của Chính phủ về việc triển
+khai mô hình điểm nhằm đầy mạnh triển khai Đề án 06;
+
+Căn cứ Hướng dẫn số 5234/LĐTBXH-TTTT ngày 23 tháng
+12 năm 2022 của Bộ trưởng Bộ Lao động - Thương binh và Xã hội về hướng dẫn chi
+trả không dùng tiền mặt đến các đối tượng hưởng chính sách an sinh xã hội; Văn
+bản số 222/LĐTBXH-VL ngày 31 tháng 01 năm 2023 của Bộ trưởng Bộ Lao động -
+Thương binh và Xã hội về thực hiện tiểu dự án “Hỗ trợ việc làm bền vững” thuộc
+Chương trình mục tiêu quốc gia Giảm nghèo bền vững giai đoạn 2021 - 2025 về quản
+lý lao động gắn với Cơ sở dữ liệu quốc gia về dân cư và triển khai Đề án 06/CP
+của Chính phủ;
+
+Căn cứ Nghị quyết số 05-NQ/TU ngày 28 tháng 3 năm
+2022 của Ban Chấp hành Đảng bộ tỉnh về chuyển đổi số tỉnh Đồng Nai đến năm 2025
+và định hướng đến năm 2030 trên địa bàn tỉnh Đồng Nai;
+
+Căn cứ Kế hoạch phối hợp số 106/KHPH-TCTTW-BCĐ06DN
+ngày 06 tháng 7 năm 2023 của Tổ công tác Đề án 06/CP Trung ương - Ban Chỉ đạo Đề
+án 06/CP tỉnh Đồng Nai về Kế hoạch phối hợp triển khai thực hiện các nhiệm tại
+Đề án phát triển ứng dụng dữ liệu về dân cư, định danh và xác thự điện tử phục
+vụ chuyển đổi số quốc gia giai đoạn 2022 - 2025, tầm nhìn đến năm 2030 tại tỉnh
+Đồng Nai;
+
+UBND tỉnh ban hành Kế hoạch thực hiện Mô hình Quản
+lý chương trình an sinh xã hội thông qua VNeID và Mô hình Phân tích tình hình
+lao động trên địa bàn tỉnh, cụ thể như sau:
+
+I. MỤC ĐÍCH, YÊU CẦU
+
+1. Mục đích
+
+a) Tập trung thực hiện đồng bộ các giải pháp, biện
+pháp xây dựng Mô hình Quản lý chương trình an sinh xã hội thông qua VNeID và Mô
+hình Phân tích tình hình lao động để triển khai kịp thời Chỉ thị số 05/CT-TTg 
+ngày 23/02/2023 của Thủ tướng Chính phủ trong năm 2023 và các năm tiếp theo hướng
+đến thực hiện hiệu quả nhiệm vụ của Đề án 06 và chuyển đổi số trên lĩnh vực an
+sinh xã hội trên địa bàn tỉnh.
+
+b) Phát huy vai trò của Tổ công tác triển khai Đề
+án 06 tại cơ sở là “hạt nhân” trong hướng dẫn thực hiện dịch vụ công trực tuyến,
+chuyển đổi số. Nâng cao vai trò, tinh thần trách nhiệm của người đứng đầu, đội
+ngũ cán bộ, công chức, viên chức thuộc các cơ quan, đơn vị liên quan trong thực
+hiện các nhiệm vụ tại Đề án 06 về xây dựng, phát triển Chính phủ điện tử, Chính
+phủ số, kinh tế số, xã hội số phù hợp, thống nhất với Chương trình chuyển đổi số
+quốc gia giai đoạn 2022 - 2025, định hướng đến năm 2030.
+
+c) Triển khai các giải pháp đồng bộ phát triển
+VNeID và ứng dụng công dân số tỉnh Đồng Nai trên nguyên tắc thống nhất, đồng bộ,
+kế thừa và phát huy thế mạnh của mỗi ứng dụng, không chồng chéo, liên thông dữ
+liệu hướng đến tiện ích cho người dân, doanh nghiệp. Triển khai hiệu quả 02 mô
+hình nhằm đem lại nhiều thuận lợi cho người dân đặc biệt là các nhóm đối tượng
+an sinh xã hội (người có công với cách mạng, người hưởng chính sách là các nhóm
+đối tượng bảo trợ xã hội trẻ em, hộ nghèo, hộ cận nghèo,...) trong việc tiếp cận
+chính sách an sinh xã hội bằng hình thức truyền thông, ứng dụng công nghệ thông
+tin trong việc thực hiện và giải quyết chính sách.
+
+2. Yêu cầu
+
+a) Quá trình triển khai thực hiện, vận hành dữ liệu
+mô hình phải đảm bảo hiệu quả, an ninh, an toàn và bảo mật bí mật thông tin
+công dân; tuân thủ chặt chẽ quy trình nghiệp vụ đảm bảo thực hiện đúng theo quy
+định của pháp luật.
+
+b) Quá trình triển khai phải thực hiện đúng quy định,
+được triển khai từng bước có trọng tâm trọng điểm, đạt hiệu quả cao trong từng
+giai đoạn thực hiện, có sự phối hợp chặt chẽ giữa các cơ quan, đơn vị trên địa
+bàn tỉnh, đúng quy định của pháp luật, đảm bảo thiết thực, hiệu quả.
+
+c) Đảm bảo trang thiết bị, cơ sở vật chất, công nghệ
+phục vụ việc chi trả cho các đối tượng hưởng chính sách không dùng tiền mặt.
+
+II. NỘI DUNG THỰC HIỆN
+
+1. Mô hình Quản lý chương trình
+an sinh xã hội thông qua VNeID
+
+a) Xây dựng hoàn thiện cơ sở dữ liệu ngành Lao động
+- Thương binh và Xã hội
+
+- Nội dung thực hiện: Tiến hành rà soát, đề xuất
+xây dựng cơ sở dữ liệu để thực hiện chuẩn hóa toàn bộ dữ liệu các đối tượng an
+sinh xã hội.
+
+- Cơ quan chủ trì: Sở Lao động - Thương binh và Xã
+hội.
+
+- Cơ quan phối hợp: Công an tỉnh và các ngành liên
+quan, UBND các huyện, thành phố chỉ đạo UBND các xã, phường, thị trấn tổ chức
+triển khai thực hiện.
+
+- Thời gian thực hiện: Quý IV năm 2023.
+
+b) Rà soát, số hóa, làm sạch, xác thực dữ liệu người
+có công, đối tượng bảo trợ xã hội, hộ nghèo, hộ cận nghèo, trẻ em, tệ nạn xã hội
+để xác thực vào Cơ sở dữ liệu quốc dân về dân cư
+
+- Nội dung thực hiện: Tiến hành thực hiện chuẩn hóa
+toàn bộ dữ liệu các đối tượng an sinh xã hội, được số hóa, làm sạch, xác thực dữ
+liệu cho các đối tượng an sinh xã hội trên một nền tảng thống nhất để xác thực
+vào cơ sở dữ liệu quốc dân về dân cư.
+
+- Cơ quan chủ trì: UBND các huyện, thành phố.
+
+- Cơ quan phối hợp: Sở Lao động - Thương binh và Xã
+hội phối hợp Công an tỉnh, Sở Thông tin và Truyền thông và các ngành liên quan.
+
+- Thời gian thực hiện: Quý IV năm 2023.
+
+c) Quy trình thực hiện cập nhật toàn bộ thông tin
+người có công, đối tượng bảo trợ xã hội, hộ nghèo, hộ cận nghèo, trẻ em, tệ nạn
+xã hội vào cơ sở dữ liệu quốc dân về dân cư
+
+- Nội dung thực hiện: Triển khai thực hiện các quy
+trình về rà soát, chuẩn hóa dữ liệu, tiến hành phân tích, làm sạch dữ liệu
+thông tin người có công, đối tượng bảo trợ xã hội, hộ nghèo, hộ cận nghèo, trẻ
+em, người nghiện ma túy vào cơ sở dữ liệu quốc dân về dân cư
+
+- Cơ quan chủ trì: UBND các huyện, thành phố.
+
+- Cơ quan phối hợp: Công an tỉnh phối hợp Sở Lao động
+- Thương binh, UBND các huyện, thành phố và các ngành liên quan.
+
+- Thời gian thực hiện: Quý IV năm 2023.
+
+d) Tích hợp, chia sẻ dữ liệu dữ liệu người có công,
+đối tượng bảo trợ xã hội, hộ nghèo, hộ cận nghèo, trẻ em, người nghiện ma túy
+sau khi đã được xác thực định danh điện tử để phục vụ cho công tác quản lý, thực
+hiện chế độ chính sách tại địa phương
+
+- Nội dung thực hiện: Tiến hành chia sẻ dữ liệu người
+có công, đối tượng bảo trợ xã hội, hộ nghèo, hộ cận nghèo, trẻ em, người nghiện
+ma túy sau khi đã được xác thực định danh điện tử để phục vụ cho công tác quản
+lý, thực hiện chế độ chính sách cho các địa phương.
+
+- Cơ quan chủ trì: Công an tỉnh chủ trì thực hiện
+tích hợp, chia sẻ dữ liệu người có công, đối tượng bảo trợ xã hội, hộ nghèo, hộ
+cận nghèo, trẻ em, người nghiện ma túy sau khi đã dược xác thực định danh điện
+tử để phục vụ cho công tác quản lý, thực hiện chế độ chính sách tại địa phương.
+
+- Cơ quan phối hợp: Sở Lao động - Thương binh và Xã
+hội, Sở Thông tin và Truyền thông, UBND các huyện, thành phố và các ngành có
+liên quan.
+
+- Thời gian thực hiện: Quý I năm 2024.
+
+(Phụ lục quy trình hướng dẫn thực hiện kèm theo).
+
+d) Thực hiện chi trả chính sách cho người có công, đối
+tượng bảo trợ xã hội không dùng tiền mặt
+
+- Hướng dẫn thực hiện thu thập, cập nhật thông tin
+tài khoản hỗ trợ chi trả không dùng tiền mặt:
+
++ Nội dung thực hiện:
+
+Chủ tịch UBND cấp xã chỉ đạo cán bộ Lao động -
+Thương binh và Xã hội cấp xã phối hợp Công an cấp xã thu thập, cập nhật thông
+tin về tài khoản của các đối tượng hưởng chính sách an sinh xã hội (sau đây gọi
+tắt là đối tượng) trên địa bàn, ưu tiên các đối tượng đang hưởng trợ cấp hàng
+tháng theo chính sách của Trung ương và chính sách đặc thù của địa phương. Trước
+mắt Công an cấp xã thực hiện xác thực thông tin trên hệ thống Cơ sở dữ liệu quốc
+gia về dân cư. Sau khi Bộ Công an hoàn thành kết nối với Ngân hàng Nhà nước Việt
+Nam (qua Napas), Công an cấp xã thực hiện xác thực thông tin tài khoản trên Hệ
+thống Cơ sở dữ liệu quốc gia về dân cư.
+
+Công tác thu thập, cập nhật, xác thực thông tin về
+tài khoản của các đối tượng dược thực hiện thường xuyên hàng tháng trước mỗi kỳ
+chi trả.
+
+Thông tin thu thập bao gồm các trường thông tin tối
+thiểu sau đây: Họ và tên; ngày/tháng/năm sinh; số Căn cước công dân, số định
+danh cá nhân; nơi thường trú (xã/huyện/tỉnh); số tài khoản hưởng trợ cấp an
+sinh xã hội của đối tượng hoặc tài khoản của cá nhân được ủy quyền (bao gồm tài
+khoản ngân hàng, ví điện tử, tài khoản mobile money và các hình thức hợp pháp
+khác); tên ngân hàng/nhà cung cấp dịch vụ nơi đối tượng mở tài khoản hoặc nơi
+cá nhân được ủy quyền mở tài khoản.
+
+Sau khi xác thực xong, Chủ tịch UBND cấp xã gửi
+danh sách cho Phòng Lao động - Thương binh và Xã hội cấp huyện tổng hợp gửi Sở
+Lao động - Thương binh và Xã hội theo dõi. Sở Lao động - Thương binh và Xã hội
+có trách nhiệm tổng hợp dữ liệu của các đối tượng hưởng chính sách an sinh xã hội
+trên địa bàn tỉnh gửi Bộ Lao động - Thương binh và Xã hội theo dõi, cập nhật thông
+tin vào Cơ sở dữ liệu quốc gia về dân cư, định danh và xác thực điện tử.
+
+Khi hệ thống các cơ sở dữ liệu về an sinh xã hội
+chính thức đi vào hoạt động, Sở Lao động - Thương binh và Xã hội phối hợp Công
+an tỉnh thực hiện việc xác thực thông tin đối tượng và thông tin tài khoản của
+đối tượng để hỗ trợ chi trả.
+
++ Cơ quan chủ trì: UBND các huyện, thành.
+
++ Cơ quan phối hợp: Sở Lao động - Thương binh và Xã
+hội, Công an tỉnh, Ngân hàng Nhà nước Chi nhánh tỉnh Đồng Nai và các đơn vị
+liên quan.
+
++ Thời gian thực hiện: Hoàn thành trong Quý IV năm
+2023.
+
+- Hướng dẫn thực hiện chi trả không dùng tiền mặt đến
+các đối tượng hưởng chính sách an sinh xã hội:
+
++ Nội dung thực hiện: Thực hiện chi trả trả không
+dùng tiền mặt đến các đối tượng hưởng chính sách an sinh xã hội trên địa bàn tỉnh.
+
++ Cơ quan chủ trì: Sở Lao động - Thương binh và Xã
+hội, UBND các huyện, thành phố.
+
++ Cơ Quan phối hợp: Công an tỉnh, Sở Thông tin và
+Truyền thông, Ngân hàng Nhà nước Chi nhánh tỉnh Đồng Nai và các đơn vị liên
+quan.
+
++ Thời gian thực hiện: Quý IV năm 2023.
+
+2. Mô hình Phân tích tình hình
+lao động
+
+a) Rà soát cập nhật thông tin về người lao động
+
+- Nội dung thực hiện: Rà soát các trường dữ liệu
+thông tin về người lao động làm việc tại các doanh nghiệp trên địa bàn tỉnh
+theo Thông tư số 01/2022/TT-BLĐTBXH ngày 25 tháng 01 năm 2022 của Bộ trưởng Bộ
+Lao động - Thương binh và Xã hội và Thông tư số 11/2022/TT-BLĐTBXH ngày 30
+tháng 6 năm 2022 của Bộ trưởng Bộ Lao động - Thương binh và Xã hội, Văn bản số
+222/LĐTBXH-VL ngày 31 tháng 01 năm 2023 của Bộ trưởng Bộ Lao động - Thương binh
+và Xã hội về việc thực hiện tiểu dự án “Hỗ trợ việc làm bền vững” thuộc Chương
+trình mục tiêu quốc gia giảm nghèo bền vững giai đoạn 2021 - 2025 về quản lý
+lao động gắn với Cơ sở dữ liệu quốc gia về dân cư và triển khai Đề án 06/CP của
+Chính phủ.
+
+- Cơ quan chủ trì: Sở Lao động - Thương binh và Xã
+hội và Ban Quản lý các Khu Công nghiệp Đồng Nai.
+
+- Cơ quan phối hợp: Sở Thông tin và Truyền thông,
+Công an tỉnh, Sở Kế hoạch và Đầu tư, Bảo hiểm xã hội tỉnh, UBND các huyện,
+thành phố.
+
+- Thời gian thực hiện: Quý IV năm 2023.
+
+b) Phân tích dữ liệu về lao động
+
+- Nội dung thực hiện: Trên cơ sở dữ liệu người lao
+động, phân tích các dữ liệu về người lao động, báo cáo về Bộ Lao động - Thương
+binh và Xã hội, Cục C06 Bộ Công an để rà soát, chuẩn hóa làm sạch dữ liệu.
+
+Thông qua cơ sở dữ liệu quốc gia về dân cư thực hiện
+phân tích tình hình lao động trên địa bàn tỉnh phục vụ công tác chỉ đạo điều
+hành của lãnh đạo tỉnh, thúc đẩy phát triển kinh tế xã hội, đảm bảo an sinh xã
+hội.
+
+- Cơ quan chủ trì: Công an tỉnh, Sở Lao động -
+Thương binh và Xã hội và Ban Quản lý các Khu Công nghiệp Đồng Nai.
+
+- Cơ quan phối hợp: Sở Thông tin và Truyền thông, Sở
+Kế hoạch và Đầu tư, Bảo hiểm xã hội tỉnh, UBND các huyện, thành phố.
+
+- Thời gian thực hiện: Quý IV năm 2023.
+
+III. KINH PHÍ THỰC HIỆN
+
+1. Kinh phí thực hiện Kế hoạch từ nguồn ngân sách
+nhà nước bao gồm chi thường xuyên và chi đầu tư phát triển được cân đối hàng
+năm cho các sở, ban, ngành, địa phương; kinh phí tự cân đối và huy động hợp
+pháp khác của các đơn vị thuộc đối tượng tham gia.
+
+2. Khuyến khích nguồn kinh phí huy động từ các
+doanh nghiệp, tổ chức, cá nhân khác; sử dụng nguồn kinh phí lồng ghép trong các
+chương trình, đề án liên quan đã được phê duyệt và các nguồn hợp pháp khác để
+thực hiện nhiệm vụ.
+
+IV. TỔ CHỨC THỰC HIỆN
+
+1. Sở Lao động - Thương binh
+và Xã hội
+
+a) Là đầu mối chủ trì, phối hợp các sở, ban, ngành
+và địa phương triển khai thực hiện Kế hoạch này.
+
+b) Cung cấp tài liệu mô tả các chỉ tiêu cần cung cấp
+về lực lượng lao động theo nhóm tuổi, khu vực thành thị, nông thôn, việc làm,
+thu nhập...
+
+c) Phối hợp UBND các huyện, thành phố tạo lập Cơ sở
+dữ liệu an sinh xã hội thông qua VNeID, phối hợp Công an tỉnh để làm sạch dữ liệu.
+
+d) Phối hợp và cung cấp cho ngân hàng danh sách các
+đối tượng người có công, bảo trợ xã hội, hộ nghèo và người nhận ủy quyền giám hộ
+sau khi đã hoàn thành việc đối chiếu, xác thực của Công an.
+
+đ) Thường xuyên, tăng cường theo dõi, đôn đốc, kiểm
+tra, giám sát và phối hợp các sở, ngành, UBND cấp huyện, cấp xã và các ngân
+hàng báo cáo UBND tỉnh; tham mưu sơ kết, tổng kết đánh giá, khen thưởng việc thực
+hiện Kế hoạch này.
+
+c) Nghiên cứu, tham mưu đề xuất UBND tỉnh có cơ chế
+hỗ trợ khuyến khích phát triển Mô hình Quản lý Chương trình an sinh xã hội
+thông qua VNeID và Mô hình Phân tích tình hình lao động.
+
+g) Theo dõi, tổng hợp tình hình triển khai của các
+sở, ban, ngành và UBND các huyện, thành phố; chủ động nắm bắt các khó khăn, vướng
+mắc có khả năng ảnh hưởng đến chất lượng, tiến độ của Kế hoạch. Phối hợp các sở,
+ban, ngành UBND các huyện, thành phố đề xuất phương án giải quyết, báo cáo UBND
+tỉnh xem xét, quyết định. Định kỳ hàng tháng hoặc đột xuất báo cáo UBND tỉnh kết
+quả thực hiện, đề xuất điều chỉnh các nội dung Kế hoạch này khi cần thiết.
+
+2. Sở Thông tin và Truyền
+thông
+
+a) Hỗ trợ kết nối, đồng bộ dữ liệu, tích hợp hệ thống
+điều hành đô thị thông minh IOC phục vụ công tác chỉ đạo điều hành của lãnh đạo
+tỉnh.
+
+b) Cử nhân sự kỹ thuật phối hợp với Cục Cảnh sát
+C06 - Bộ Công an, Công an tỉnh và Sở Lao động - Thương binh và Xã hội thực hiện
+hoàn thành Kế hoạch này.
+
+c) Phối hợp Công an tỉnh mời các Cục nghiệp vụ - Bộ
+Công an tiến hành đánh giá mức độ an ninh an toàn hệ thống trước khi kết nối
+vào Cơ sở dữ liệu quốc gia về dân cư.
+
+d) Phối hợp các cơ quan báo chí trên địa bàn tỉnh đẩy
+mạnh công tác tuyên truyền nâng cao nhận thức của cộng đồng, người dân và các đối
+tượng thụ hưởng chính sách an sinh xã hội về phương thức chi trả trợ cấp hàng
+tháng không sử dụng tiền mặt.
+
+3. Công an tỉnh
+
+a) Chỉ đạo Công an cấp huyện, cấp xã phối hợp Phòng
+Lao động - Thương binh và Xã hội cấp huyện, UBND cấp xã thực hiện việc rà soát,
+đối chiếu, xác thực về căn cước công dân, cấp số định danh cá nhân cho các đối
+tượng người có công, bảo trợ xã hội, hộ nghèo, hộ cận nghèo, trẻ em, người nhận
+ủy quyền giám hộ để Sở Lao động - Thương binh và Xã hội chuyển cho các ngân
+hàng thực hiện quy trình cấp tài khoản an sinh xã hội và cấp thẻ ATM (kể cả những
+đối tượng bảo trợ xã hội không còn khả năng và hành vi thực hiện các giao dịch).
+
+b) Cử cán bộ kỹ thuật phối hợp cán bộ kỹ thuật Cục
+Cảnh sát C06 - Bộ Công an, cán bộ Sở Thông tin và Truyền thông và cán bộ Sở Lao
+động - Thương binh và Xã hội để thực hiện.
+
+c) Phối hợp Sở Lao động - Thương binh và Xã hội làm
+sạch dữ liệu các đối tượng người có công, bảo trợ xã hội, hộ nghèo, hộ cận
+nghèo, trẻ em, người nghiện ma túy với Cơ sở dữ liệu quốc gia về dân cư; cung cấp
+tài liệu, tiêu chuẩn kỹ thuật, kết nối, hỗ trợ kỹ thuật tích hợp thông qua nền
+tảng NDXP/VDXP; phối hợp Sở Thông tin và Truyền thông mời các Cục nghiệp vụ - Bộ
+Công an đánh giá mức độ an toàn thông tin trước khi kết nối vào Cơ sở dữ liệu
+quốc gia về dân cư.
+
+4. Sở Kế hoạch và Đầu tư
+
+a) Phối hợp Sở Lao động - Thương binh và Xã hội và
+các doanh nghiệp cung cấp thông tin tích hợp hệ thống điều hành đô thị thông
+minh IOC phục vụ công tác chỉ đạo điều hành của lãnh đạo tỉnh.
+
+b) Chủ trì, phối hợp Sở Tài chính và các đơn vị
+liên quan tham mưu UBND tỉnh bố trí vốn đầu tư công để triển khai các dự án thuộc
+trách nhiệm đầu tư từ ngân sách tỉnh đã được cấp có thẩm quyền quyết định đầu
+tư theo Luật Đầu tư công trên cơ sở nội dung đề xuất của sở, ban, ngành, UBND
+các huyện, thành phố.
+
+5. Sở Tài chính
+
+Sở Lao động - Thương binh và Xã hội và các đơn vị
+liên quan xây dựng dự toán kinh phí thực hiện Kế hoạch gửi Sở Tài chính. Tùy
+theo tình hình cân đối ngân sách hàng năm, Sở Tài chính sẽ tham mưu cấp có thẩm
+quyền phân bổ theo quy định của Luật Ngân sách.
+
+6. Bảo hiểm xã hội tỉnh
+
+a) Kết nối, chia sẻ dữ liệu thông tin về người tham
+gia bảo hiểm xã hội để thực hiện công tác chỉ đạo, điều hành và quản lý chính
+sách tại địa phương.
+
+b) Phối hợp Công an tỉnh, Sở Lao động - Thương binh
+và Xã hội xác nhận các đối tượng được hưởng các chính sách an sinh xã hội thuộc
+phạm vi chi trả của Bảo hiểm xã hội.
+
+c) Phối hợp trao đổi, chia sẻ dữ liệu người tham
+gia (đối tượng thuộc hộ nghèo, hộ cận nghèo, người có công, bảo trợ xã hội, trẻ
+em do ngành Lao động - Thương binh và Xã hội quản lý) đã được cơ quan Bảo hiểm
+xã hội đồng bộ với Cơ sở dữ liệu quốc gia về dân cư Bộ Công an để thực hiện hiệu
+quả công tác quản lý chính sách tại địa phương.
+
+7. Kho bạc Nhà nước tỉnh Đồng
+Nai
+
+Phối hợp các cơ quan liên quan tiếp tục đẩy mạnh ứng
+dụng thanh toán không dùng tiền mặt; chỉ đạo Kho bạc Nhà nước các huyện, thành
+phố phối hợp các cơ quan, đơn vị triển khai phương thức chi trả chính sách cho
+đối tượng người có công, bảo trợ xã hội không dùng tiền mặt.
+
+8. Ngân hàng Nhà nước Chi nhánh
+tỉnh Đồng Nai
+
+a) Phối hợp Sở Lao động - Thương binh và Xã hội thực
+hiện quy trình hướng dẫn cấp tài khoản An sinh xã hội.
+
+b) Chỉ đạo các ngân hàng thương mại trên địa bàn tỉnh
+hỗ trợ cấp thẻ ATM miễn phí, không tính phí khi thực hiện giao dịch cùng ngân
+hàng cho các đối tượng chính sách và bảo trợ xã hội; bố trí hợp lý hệ thống máy
+ATM để người dân thuận lợi trong việc sử dụng các dịch vụ.
+
+c) Phối hợp UBND các huyện, thành phố để thực hiện
+việc thông báo số tài khoản an sinh xã hội và bàn giao ký nhận thẻ ATM cho các
+đối tượng người có công và bảo trợ xã hội.
+
+9. Bưu điện tỉnh
+
+Chỉ đạo các bưu điện cấp huyện, các điểm bưu chính
+cấp xã tiếp tục hợp đồng với UBND các huyện, thành phố thực hiện việc chi trả
+chính sách bằng tiền mặt hàng tháng cho các đối tượng bảo trợ xã hội, người có
+công không còn khả năng và hành vi mà không có người giám hộ hoặc ủy quyền thực
+hiện các giao dịch ngân hàng và các đối tượng khác không thuộc Kế hoạch này.
+
+10. Ban Quản lý các Khu Công
+nghiệp Đồng Nai
+
+a) Chủ trì triển khai rà soát, thu thập dữ liệu người
+lao động đang làm việc trong các khu công nghiệp.
+
+b) Phối hợp Sở Lao động - Thương binh và Xã hội,
+Công an tỉnh rà soát, chuẩn hóa dữ liệu phân tích lao động để báo cáo về Bộ Lao
+động - Thương binh và Xã hội, Bộ Công an để tiến hành làm sạch dữ liệu theo Đề
+án 06.
+
+11. UBND các huyện, thành phố
+
+a) Chỉ đạo Phòng Lao động - Thương binh và Xã hội,
+UBND cấp xã rà soát, phối hợp Công an cùng cấp rà soát, đối chiếu, xác thực dữ
+liệu, thông tin và cập nhật lập danh sách thống kê thông tin đầy đủ về các đối
+tượng người có công, bảo trợ xã hội, hộ nghèo, hộ cận nghèo, trẻ em, người nghiện
+ma túy để đối chiếu làm sạch dữ liệu theo quy định.
+
+b) Chỉ đạo Phòng Lao động - Thương binh và Xã hội,
+UBND cấp xã rà soát, phối hợp Công an cùng cấp xác thực hoặc cấp mới căn cước
+công dân, cấp số định danh và lập danh sách thống kê thông tin đầy đủ về các đối
+tượng người có công, bảo trợ xã hội, hộ nghèo, hộ cận nghèo, trẻ em, người ủy
+quyền, người nhận giám hộ gửi về Sở Lao động - Thương binh và Xã hội để chuyển
+cho Công an tỉnh (lưu ý trong đó có cả danh sách đối tượng bảo trợ xã hội không
+còn khả năng và hành vi thực hiện các giao dịch ngân hàng để cấp mã an sinh xã
+hội).
+
+c) Tiếp tục hoàn thành việc đối chiếu, xác thực căn
+cước công dân, cấp số định danh và mã an sinh xã hội cho các đối tượng người có
+công, bảo trợ xã hội, người nhận ủy quyền giám hộ và báo cáo tiến độ thực hiện
+hàng ngày về Sở Lao động - Thương binh và Xã hội để chuyển cho các ngân hàng thực
+hiện quy trình mở tài khoản và cấp thẻ ATM.
+
+d) Chỉ đạo UBND cấp xã phối hợp các ngân hàng hướng
+dẫn thực hiện thủ tục đề nghị mở tài khoản, xác nhận chữ ký của các đối tượng,
+người nhận ủy quyền, người giám hộ vào danh sách đề nghị mở tài khoản ngân hàng
+của các đối tượng hưởng chính sách an sinh xã hội, thông báo số tài khoản ngân
+hảng, bàn giao ký nhận thẻ ATM cho các đối tượng người có công, bảo trợ xã hội
+và hướng dẫn cách sử dụng tài khoản an toàn. Đồng thời, thường xuyên thực hiện
+việc rà soát tình hình biến động đối tượng để kịp thời điều chỉnh, đảm bảo thực
+hiện đúng, đủ, kịp thời cho đối tượng; Tổ công tác triển khai Đề án 06 cấp xã
+chỉ đạo cán bộ chuyên trách về lĩnh vực lao động - thương binh và xã hội phối hợp
+các thành viên trong tổ tiến hành thu thập thông tin theo Mẫu 03 kèm theo Thông
+tư số 11/2022/TT-BLĐTBXH ngày 30 tháng 6 năm 2022 của Bộ trưởng Bộ Lao động -
+Thương binh và Xã hội và chuyển cho Công an cấp xã thực hiện triển khai nhập
+vào phần mềm trên hệ thống Cơ sở dữ liệu quốc gia về dân cư.
+
+đ) Chỉ đạo Phòng Lao động - Thương binh và Xã hội
+phối hợp Bưu điện cùng cấp tiếp tục hợp đồng thực hiện việc chi trả chính sách
+bằng tiền mặt hàng tháng cho các đối tượng bảo trợ xã hội không còn khả năng và
+hành vi thực hiện các giao dịch ngân hàng mà không có người nhận ủy quyền hoặc
+giám hộ và các đối tượng khác không thuộc Kế hoạch này.
+
+e) Chỉ đạo các cơ quan truyền thông trên địa bàn đẩy
+mạnh các hoạt động tuyên truyền làm thay đổi nhận thức của cán bộ, đảng viên, đối
+tượng, gia đình đối tượng và cộng đồng về việc chuyển đổi hình thức chi trả
+chính sách an sinh xã hội từ bằng tiền mặt sang hình thức chi trả không dùng tiền
+mặt cho đối tượng người có công và bảo trợ xã hội.
+
+g) Phối hợp các đoàn thể huy động các nguồn lực để
+thực hiện nhiệm vụ và bảo đảm phải hoàn thành đúng thời gian kế hoạch, chất lượng
+và hiệu quả.
+
+h) Chủ trì, phối hợp Kho bạc Nhà nước cùng cấp thực
+hiện việc hướng dẫn, kiểm tra, quản lý và chi trả các khoản chi ngân sách nhà
+nước về chính sách an sinh xã hội không dùng tiền mặt trên địa bàn.
+
+V. CHẾ ĐỘ BÁO CÁO
+
+Định kỳ hàng tháng (ngày 01 hàng tháng) các sở,
+ban, ngành, UBND các huyện, thành phố báo cáo kết quả nội dung phối hợp thực hiện
+gửi UBND tỉnh (qua Sở Lao động - Thương binh và Xã hội tổng hợp). Giao Sở Lao động
+- Thương binh và Xã hội tổng hợp báo cáo UBND tỉnh theo quy định.
+
+Trên đây là Kế hoạch Mô hình Quản lý chương trình
+an sinh xã hội thông qua VNeID và Mô hình Phân tích tình hình lao động trên địa
+bàn tỉnh. Trong quá trình triển khai thực hiện nếu có khó khăn, vướng mắc; các
+cơ quan, đơn vị, địa phương kịp thời báo cáo UBND tỉnh (thông qua Sở Lao động -
+Thương binh và Xã hội) để xem xét giải quyết hoặc điều chỉnh, bổ sung cho phù hợp./.
+
+ 
+
+ Nơi nhận:
+
+- Bộ Lao động - Thương binh và Xã hội;
+
+ - Cục PC 06 - Bộ Công an;
+
+ - Thường trực Tỉnh ủy;
+
+ - Thường trực HĐND tỉnh;
+
+ - Chủ tịch, các PCT. UBND tỉnh;
+
+ - Các đơn vị tại Mục IV;
+
+ - Chánh, các PCVP. UBND tỉnh;
+
+ - Lưu: VT, THNC, CTTĐT tỉnh, KGVX (V, T).
+
+<Tannd T10.2023>
+
+TM. ỦY BAN NHÂN
+ DÂN
+
+ KT. CHỦ TỊCH
+
+ PHÓ CHỦ TỊCH
+
+ Nguyễn Sơn Hùng
+
+ 
+
+PHỤ LỤC
+
+HƯỚNG DẪN QUY TRÌNH VỀ THỰC HIỆN RÀ SOÁT, ĐỐI CHIẾU LÀM SẠCH
+VÀ NHẬP DỮ LIỆU NGƯỜI CÓ CÔNG, ĐỐI TƯỢNG BẢO TRỢ XÃ HỘI, TRẺ EM VÀO CƠ SỞ DỮ LIỆU
+QUỐC GIA VỀ DÂN CƯ TRÊN ĐỊA BÀN TỈNH
+
+(Đính kèm theo Kế hoạch số 251/KH-UBND ngày 26/10/2023 của UBND tỉnh)
+
+1. Quy trình cập nhật dữ liệu
+đối với người có công
+
+Thực hiện Công văn số 809/NCC-VP ngày 09 tháng 6 năm
+2023 của Cục Người có công - Bộ Lao động - Thương binh và Xã hội về việc triển
+khai thực hiện quy trình số 3936/NCC-QLHC ngày 08 tháng 6 năm 2023; Quy trình số
+3936/NCC-QLHC ngày 08 tháng 6 năm 2023 của Cục Người có công và Cục Cảnh sát quản
+lý hành chính về trật tự xã hội về thực hiện rà soát, đối chiếu làm sạch và nhập
+dữ liệu người có công trên hệ thống Cơ sở dữ liệu quốc gia về dân cư, cụ thể
+như sau:
+
+a) Phạm vi: Quy trình này quy định về rà soát, đối
+chiếu làm sạch dữ liệu và tổ chức nhập dữ liệu người có công từ biểu mẫu do Tổ
+công tác Đề án 06 cấp xã rà soát, thu thập.
+
+b) Đối tượng: Áp dụng đối với tập thể, cá nhân tham
+gia thực hiện công tác rà soát, đối chiếu làm sạch dữ liệu và tổ chức nhập dữ
+liệu người có công trên hệ thống Cơ sở dữ liệu quốc gia về dân cư.
+
+c) Nội dung thực hiện: Rà soát, đối chiếu làm sạch
+dữ liệu và tổ chức nhập dữ liệu người có công với cách mạng và thân nhân người
+có công với cách mạng đang hưởng trợ cấp hàng tháng (bao gồm các đối tượng đang
+hưởng trợ cấp hàng tháng theo các Quyết định của Thủ tướng Chính phủ) trên hệ
+thống Cơ sở dữ liệu quốc gia về dân cư.
+
+d) Đối tượng rà soát, đối chiếu làm sạch dữ liệu và
+nhập dữ liệu: Người có công với cách mạng và thân nhân người có công với cách mạng
+đang hưởng trợ cấp hàng tháng (bao gồm các đối tượng đang hưởng trợ cấp hàng
+tháng theo các Quyết định của Thủ tướng Chính phủ).
+
+đ) Phương pháp thực hiện: Việc rà soát, đối chiếu
+làm sạch dữ liệu và tổ chức nhập dữ liệu người có công được thực hiện thông qua
+hệ thống Cơ sở dữ liệu quốc gia về dân cư; tuyệt đối không cung cấp thông tin
+người có công với cách mạng, thân nhân người có công với cách mạng đã được rà
+soát theo Kế hoạch này cho các đối tượng khác khai thác.
+
+e) Quy trình thực hiện
+
+- Bước 1. Phòng Lao động - Thương binh và Xã hội cấp
+huyện chuyển danh sách đối tượng người có công và thân nhân người có công (bao
+gồm các đối tượng đang hưởng trợ trợ cấp hàng tháng theo các Quyết định của Thủ
+tướng Chính phủ) cho UBND cấp xã.
+
+- Bước 2. UBND cấp xã chỉ đạo cán bộ Văn hóa - Xã hội
+(phụ trách lĩnh vực người có công) chủ trì, phối hợp các thành viên Tổ công tác
+Đề án 06 cấp xã tiến hành rà soát thu thập thông tin theo Biểu mẫu ban hành kèm
+theo Quy trình số 3936/NCC-QLHC ngày 08 tháng 6 năm 2023 giữa Cục Người có công
+- Cục Cảnh sát quản lý hành chính về trật tự xã hội về thực hiện rà soát, đối
+chiếu làm sạch và nhập dữ liệu người có công trên hệ thống Cơ sở dữ liệu quốc
+gia về dân cư (gọi tắt là Quy trình số 3936/NCC-QLHC).
+
+- Bước 3. Công an cấp xã trực tiếp truy cập Phần mềm
+nhập liệu (bằng tài khoản cấp cho cá nhân của từng cán bộ, chiến sĩ), phối hợp
+thành viên Tổ công tác Đề án cấp xã truy cập vào Phần mềm nhập liệu để tra cứu,
+tìm kiếm thông tin công dân trong hệ thống Cơ sở dữ liệu quốc gia về dân cư và
+nhập bổ sung các thông tin theo Biểu mẫu đã thu thập.
+
++ Trường hợp, không có thông tin trong hệ thống Cơ
+sở dữ liệu quốc gia về dân cư, cán bộ công an cấp xã chuyển lại cho cán bộ Văn
+hóa - Xã hội (phụ trách lĩnh vực Người có công) báo cáo Phòng Lao động - Thương
+binh và Xã hội theo quy định.
+
++ Trường hợp sai khác một trong 04 trường thông tin
+(gồm: Họ, tên đệm, tên; ngày tháng năm sinh; quê quán; nơi đăng ký thường trú):
+Cán bộ Công an cấp xã tổng hợp danh sách ghi rõ thông tin sai khác gửi lại cho
+Cán bộ Văn hóa - Xã hội cấp xã (phụ trách lĩnh vực người có công) báo cáo Phòng
+Lao động - Thương binh và Xã hội theo quy định. Các trường hợp này vẫn tiến
+hành nhập dữ liệu theo thông tin trong hệ thống Cơ sở dữ liệu quốc gia về dân
+cư.
+
+- Bước 4. Sau khi hoàn thành việc nhập liệu, UBND cấp
+huyện có Văn bản thông báo kết quả cho Sở Lao động - Thương binh và Xã hội biết
+để báo cáo Cục Người có công - Bộ Lao động - Thương binh và Xã hội.
+
+2. Quy trình cập nhật dữ liệu đối
+với đối tượng trẻ em
+
+a) Bước 1: UBND các xã, phường, thị trấn chỉ đạo
+cán bộ làm công tác trẻ em xã, phường, thị trấn phối hợp Tổ công tác triển khai
+Đề án 06 cấp xã và Đoàn thanh niên, Hội Phụ nữ, cộng tác viên làm công tác dân
+số, gia đình và trẻ em và cơ quan đoàn thể có liên quan thực hiện quy định tại
+Công văn số 2513/LĐTBXH-TTTT ngày 14 tháng 7 năm 2022 của Bộ trưởng Bộ Lao động
+- Thương binh và Xã hội thực hiện quy trình chuẩn hóa, làm sạch dữ liệu trẻ em.
+Tiến hành rà soát dữ liệu và kết xuất ra danh sách trẻ em trên phần mềm quản lý
+thông tin trẻ em với các trường hợp sau:
+
+- Trẻ em không có số Căn cước công dân (CCCD), Chứng
+minh nhân dân (CMND).
+
+- Trẻ em không có số định danh cá nhân.
+
+- Định dạng số định danh cá nhân của trẻ em bị sai.
+
+- Định dạng số CCCD/CMND của trẻ em bị sai.
+
+- Trẻ em bị thiếu hoặc sai thông tin cá nhân cơ bản:
+Họ tên, ngày tháng năm sinh, giới tính, dân tộc, cha/mẹ/người giám hộ, nơi đăng
+ký khai sinh, số CCCD, số CMND.
+
+b) Bước 2: UBND các xã, phường, thị trấn chỉ đạo
+cán bộ làm công tác trẻ em xã, phường, thị trấn phối hợp Tổ công tác triển khai
+Đề án 06 cấp xã và Đoàn thanh niên, Hội Phụ nữ, cộng tác viên làm công tác dân
+số, gia đình và trẻ em và cơ quan đoàn thể có liên quan thực hiện rà soát, bổ
+sung, điều chỉnh thông tin đối với trẻ em bị thiếu hoặc sai thông tin cá nhân
+cơ bản tại các hộ gia đình. Trong quá trình rà soát, nếu có trẻ em mới sinh
+chưa được quản lý trên phần mềm, cần bổ sung vào danh sách theo quy định tại
+Công văn số 2513/LĐTBXH-TTTT ngày 14 tháng 7 năm 2022 của Bộ trưởng Bộ Lao động
+- Thương binh và Xã hội thực hiện quy trình chuẩn hóa, làm sạch dữ liệu trẻ em.
+
+Danh sách trẻ em sau khi đã rà soát, bổ sung, điều
+chỉnh được chuyển cho Công an xã, phường, thị trấn để xác thực và cung cấp mã định
+danh.
+
+c) Bước 3: UBND các xã, phường, thị trấn chỉ đạo
+Công an xã, phường, thị trấn tiếp nhận danh sách, thực hiện đối chiếu, xác thực
+thông tin và cung cấp mã định danh trẻ em, ký và bàn giao danh sách cho cán bộ
+chuyên trách về Lao động - Thương binh và Xã hội để quản lý.
+
+d) Bước 4: UBND các xã, phường, thị trấn chỉ đạo
+cán bộ làm công tác trẻ em các xã, phường, thị trấn thực hiện cập nhật thông
+tin trẻ em đã được chuẩn hóa và làm sạch vào phần mềm theo Hướng dẫn sử dụng phần
+mềm.
+
+3. Quy trình cập nhật dữ liệu đối
+với người lao động
+
+Thực hiện Công văn số 222/LĐTBXH-VL ngày 31 tháng
+01 năm 2023 của Bộ trưởng Bộ Lao động - Thương binh và Xã hội về việc thực hiện
+tiểu dự án “Hỗ trợ việc làm bền vững” thuộc Chương trình mục tiêu quốc gia Giảm
+nghèo bền vững giai đoạn 2021 - 2025 về quản lý lao động gắn với cơ sở dữ liệu
+quốc gia về dân cư và triển khai Đề án 06/CP của Chính phủ; Hệ thống cơ sở dữ
+liệu cần thu thập trên cơ sở các biểu mẫu được quy định tại Thông tư số
+11/2022/TT- BLĐTBXH ngày 30 tháng 6 năm 2022 của Bộ trưởng Bộ Lao động - Thương
+binh và Xã hội về thực hiện rà soát, đối chiếu làm sạch và nhập dữ liệu người
+lao động trên hệ thống Cơ sở dữ liệu lao động - việc làm, cụ thể như sau:
+
+a) Phạm vi: Quy trình này quy định về rà soát, cập
+nhật, đối chiếu làm sạch dữ liệu và tổ chức nhập dữ liệu người lao động của địa
+phương từ biểu mẫu do Tổ công tác Đề án 06 cấp xã rà soát, thu thập.
+
+b) Đối tượng: Áp dụng đối với tập thể cá nhân, cá
+nhân tham gia thực hiện công tác rà soát, đối chiếu làm sạch dữ liệu và tổ chức
+nhập dữ liệu người lao động trên hệ thống Cơ sở dữ liệu lao động - việc làm.
+
+c) Nội dung thực hiện: Rà soát, cập nhật, đối chiếu
+làm sạch dữ liệu và tổ chức nhập dữ liệu người lao động trên hệ thống Cơ sở dữ
+liệu lao động - việc làm.
+
+d) Đối tượng rà soát, cập nhật, đối chiếu làm sạch
+dữ liệu và nhập dữ liệu: Người lao động.
+
+đ) Phương pháp thực hiện: Việc rà soát, cập nhật, đối
+chiếu làm sạch dữ liệu và tổ chức nhập dữ liệu người lao động được thực hiện
+thông qua hệ thống Cơ sở dữ liệu quốc gia về dân cư; tuyệt đối không cung cấp
+thông tin người lao động đã được rà soát theo Kế hoạch này cho các đối tượng
+khác khai thác.
+
+e) Quy trình thực hiện
+
+- Bước 1. Sở Lao động - Thương binh và Xã hội phối
+hợp Công an tỉnh chia sẻ cơ sở dữ liệu người lao động với các trường dữ liệu về
+nhân thân người lao động từ cơ sở dữ liệu dân cư làm cơ sở dữ liệu nền để thực
+hiện thu thập thông tin về tình hình lao động (cơ sở dữ liệu lao động - việc
+làm).
+
+Sở Lao động - Thương binh và Xã hội xây dựng Cơ sở
+dữ liệu lao động - việc làm có các trường dữ liệu về nhân thân người lao động từ
+cơ sở dữ liệu dân cư và các trường dữ liệu về tình hình lao động - việc làm
+theo Biểu mẫu số 01 ban hành kèm theo Thông tư số 11/2022/TT-BLĐTBXH ngày 30
+tháng 6 năm 2022 của Bộ trưởng Bộ Lao động - Thương binh và Xã hội.
+
+Sở Lao động - Thương binh và Xã hội phối hợp Phòng
+Lao động - Thương binh và Xã hội cấp huyện triển khai tập huấn thu thập thông
+tin về tình hình lao động, tổ chức thu thập thông tin, kiểm tra giám sát, nghiệm
+thu phiếu thu thập thông tin.
+
+- Bước 2. Sở Lao động - Thương binh và Xã hội phối
+hợp Phòng Lao động - Thương binh và Xã hội cấp huyện triển khai tập huấn rà
+soát, cập nhật, đối chiếu làm sạch dữ liệu và tổ chức nhập dữ liệu người lao động
+cho UBND cấp xã vào cơ sở dữ liệu lao động - việc làm.
+
+- Bước 3. UBND các xã, phường, thị trấn chủ trì, chỉ
+đạo cán bộ Văn hóa - Xã hội (chuyên trách về lĩnh vực lao động - thương binh và
+xã hội), người được phân công nhập liệu thực hiện nhập dữ liệu người lao động
+cho UBND các xã, phường, thị trấn vào cơ sở dữ liệu lao động - việc làm.
+
+- Bước 4. Sau khi hoàn thành việc nhập liệu, UBND
+các huyện, thành phố có Văn bản thông báo kết quả cho Sở Lao động - Thương binh
+và Xã hội. Sở Lao động - Thương binh và Xã hội thực hiện việc nghiệm thu nhập
+liệu, cơ sở dữ liệu lao động - việc làm sẵn sàng phục vụ cho việc phân tích
+tình hình lao động. Sở Lao động - Thương binh và Xã hội để báo cáo Bộ Lao động
+- Thương binh và Xã hội./.--- THÔNG TIN THÊM ---
+Ten: Kế hoạch 251/KH-UBND năm 2023 thực hiện Mô hình Quản lý chương trình an sinh xã hội thông qua VNeID và Mô hình Phân tích tình hình lao động trên địa bàn tỉnh Đồng Nai
+So hieu: 251/KH-UBND
+Loai van ban: Kế hoạch
+Linh vuc nganh: Lao động - Tiền lương, Công nghệ thông tin
+Noi ban hanh: Tỉnh Đồng Nai
+Nguoi ky: Nguyễn Sơn Hùng
+Ngay ban hanh: 26/10/2023
+Ngay hieu luc: 26/10/2023
+Ngay dang: Dữ liệu đang cập nhật
+So cong bao: Dữ liệu đang cập nhật
+Tinh trang: Không xác định
+
+
+--- MỤC LỤC ---
+- KẾ HOẠCH THỰC HIỆN MÔ HÌNH QUẢN LÝ CHƯƠNG TRÌNH AN SINH XÃ HỘI THÔNG QUA VNEID VÀ MÔ HÌNH PHÂN TÍCH TÌNH HÌNH LAO ĐỘNG TRÊN ĐỊA BÀN TỈNH
+  - I. MỤC ĐÍCH, YÊU CẦU
+  - II. NỘI DUNG THỰC HIỆN
+    - 1. Mô hình Quản lý chương trình an sinh xã hội thông qua VNeID
+    - 2. Mô hình Phân tích tình hình lao động
+  - III. KINH PHÍ THỰC HIỆN
+  - IV. TỔ CHỨC THỰC HIỆN
+    - 1. Sở Lao động - Thương binh và Xã hội
+    - 2. Sở Thông tin và Truyền thông
+    - 3. Công an tỉnh
+    - 4. Sở Kế hoạch và Đầu tư
+    - 5. Sở Tài chính
+    - 6. Bảo hiểm xã hội tỉnh
+    - 7. Kho bạc Nhà nước tỉnh Đồng Nai
+    - 8. Ngân hàng Nhà nước Chi nhánh tỉnh Đồng Nai
+    - 9. Bưu điện tỉnh
+    - 10. Ban Quản lý các Khu Công nghiệp Đồng Nai
+    - 11. UBND các huyện, thành phố
+  - V. CHẾ ĐỘ BÁO CÁO
+  - PHỤ LỤC HƯỚNG DẪN QUY TRÌNH VỀ THỰC HIỆN RÀ SOÁT, ĐỐI CHIẾU LÀM SẠCH VÀ NHẬP DỮ LIỆU NGƯỜI CÓ CÔNG, ĐỐI TƯỢNG BẢO TRỢ XÃ HỘI, TRẺ EM VÀO CƠ SỞ DỮ LIỆU QUỐC GIA VỀ DÂN CƯ TRÊN ĐỊA BÀN TỈNH
+    - 1. Quy trình cập nhật dữ liệu đối với người có công
+    - 2. Quy trình cập nhật dữ liệu đối với đối tượng trẻ em
+    - 3. Quy trình cập nhật dữ liệu đối với người lao động
+
+--- VĂN BẢN LIÊN QUAN ---
+
+Van ban duoc dan chieu:
+  - Công văn 809/NCC-VP năm 2023 thực hiện Quy trình 3936/NCC-QLHC do Cục Người có công ban hành (ID: 586431)
+  - Thông tư 11/2022/TT-BLĐTBXH hướng dẫn nội dung thực hiện hỗ trợ việc làm bền vững thuộc Chương trình mục ... (ID: 520433)
+  - Thông tư 01/2022/TT-BLĐTBXH hướng dẫn thu thập, lưu trữ, tổng hợp thông tin thị trường lao động do Bộ ... (ID: 503573)
+  - Luật Đầu tư công 2019 (ID: 362113)
+  - Luật ngân sách nhà nước 2015 (ID: 281762)
+
+Van ban duoc can cu:
+  - Chỉ thị 05/CT-TTg tiếp tục đẩy mạnh triển khai Đề án phát triển ứng dụng dữ liệu về dân cư, định danh và ... (ID: 556365)
+  - Công văn 222/LĐTBXH-VL năm 2023 thực hiện tiểu dự án "Hỗ trợ việc làm bền vững" thuộc Chương trình mục tiêu... (ID: 561764)
+  - Công văn 5234/LĐTBXH-TTTT năm 2022 hướng dẫn chi trả không dùng tiền mặt đến đối tượng hưởng chính sách an ... (ID: 547352)
+  - Thông tư 46/2022/TT-BCA quy định về kết nối, chia sẻ và khai thác thông tin giữa Cơ sở dữ liệu quốc gia về ... (ID: 541683)
+  - Quyết định 06/QĐ-TTg năm 2022 phê duyệt Đề án phát triển ứng dụng dữ liệu về dân cư, định danh và xác thực ... (ID: 499726)
+
+Van ban lien quan cung noi dung:
+  - Kế hoạch 97/KH-UBND năm 2024 thực hiện thí điểm cấp phiếu Lý lịch tư pháp trên ứng dụng định danh và xác thực điện tử VNeID trên địa bàn Thành phố Hà Nội (ID: 604671)
+  - Kế hoạch 383/KH-UBND thực hiện 60 ngày, đêm tuyên truyền, hướng dẫn người dân cài đặt, đăng ký, kích hoạt tài khoản định danh điện tử VNeID và thực hiện số hóa kết quả giải quyết thủ tục hành chính, nâng cao hiệu quả sử dụng dịch vụ công trực tuyến và thanh toán trực tuyến trên địa bàn tỉnh Tiền Giang năm 2023 (ID: 576696)
+  - Quyết định 2446/QĐ-UBND năm 2023 Kế hoạch triển khai Mô hình “khám chữa bệnh sử dụng thẻ Căn cước công dân gắn chíp điện tử và ứng dụng VNeID tại các cơ sở khám chữa bệnh” trên địa bàn tỉnh Bình Định (ID: 572147)
+  - Kế hoạch 179/KH-UBND năm 2023 thực hiện chiến dịch đăng ký, kích hoạt tài khoản định danh điện tử VNeID mức độ 1, 2 đối với công dân trên địa bàn tỉnh Vĩnh Phúc (ID: 570077)

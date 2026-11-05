@@ -1,0 +1,1267 @@
+ỦY BAN NHÂN DÂN
+
+ TỈNH LÀO CAI
+
+ --------
+
+CỘNG HÒA XÃ HỘI
+ CHỦ NGHĨA VIỆT NAM
+
+ Độc lập - Tự do - Hạnh phúc
+
+ ----------------
+
+Số:
+ 57/2011/QĐ-UBND
+
+Lào Cai, ngày 30
+ tháng 12 năm 2011
+
+ 
+
+QUYẾT ĐỊNH
+
+BAN HÀNH QUY CHẾ QUẢN LÝ HỒ SƠ ĐIỆN TỬ CÁN BỘ, CÔNG CHỨC,
+VIÊN CHỨC TỈNH LÀO CAI
+
+ỦY BAN NHÂN DÂN TỈNH LÀO CAI
+
+Căn cứ Luật Tổ chức HĐND và
+UBND ngày 26/11/2003;
+
+Căn cứ Luật Cán bộ, công chức
+ngày 13/11/2008;
+
+Căn cứ Luật Viên chức ngày
+15/11/2010;
+
+Căn cứ Luật Công nghệ thông
+tin ngày 29/6/2006;
+
+Căn cứ Nghị định số
+64/2007/NĐ-CP ngày 10/4/2007 của Chính phủ về ứng dụng công nghệ thông tin
+trong hoạt động của cơ quan nhà nước;
+
+Căn cứ Quyết định số
+14/2006/QĐ-BNV ngày 06/11/2006 của Bộ Nội vụ về việc ban hành Quy chế quản lý hồ
+sơ cán bộ, công chức;
+
+Xét đề nghị của Giám đốc Sở
+Nội vụ tại Tờ trình số 503/TTr-SNV ngày 14/12/2011,
+
+QUYẾT ĐỊNH:
+
+Điều 1. Ban
+hành kèm theo Quyết định này Quy chế quản lý Hồ sơ điện tử cán bộ, công chức,
+viên chức tỉnh Lào Cai.
+
+Điều 2. Chánh
+Văn phòng UBND tỉnh; Giám đốc Sở Nội vụ; Thủ trưởng các sở, ban, ngành, đơn vị
+sự nghiệp trực thuộc UBND tỉnh; Chủ tịch UBND các huyện, thành phố và các đơn vị
+có liên quan căn cứ Quyết định thi hành.
+
+Quyết định này có hiệu lực
+thi hành sau 10 ngày kể từ ngày ký./.
+
+ 
+
+ 
+
+TM. ỦY BAN NHÂN
+ DÂN TỈNH
+
+ CHỦ TỊCH
+
+ Nguyễn Văn Vịnh
+
+ 
+
+QUY CHẾ
+
+QUẢN LÝ HỒ SƠ ĐIỆN TỬ CÁN BỘ, CÔNG CHỨC, VIÊN CHỨC TỈNH LÀO
+CAI
+
+(Ban hành kèm theo Quyết định số: 57/2011/QĐ-UBND ngày 30/12/2011 của UBND tỉnh
+Lào Cai)
+
+Chương 1.
+
+NHỮNG QUY ĐỊNH CHUNG
+
+Điều 1.
+Phạm vi điều chỉnh
+
+Quy chế này quy định nguyên tắc
+nội dung, trách nhiệm, quyền hạn, mối quan hệ giữa các cơ quan, đơn vị, tổ chức
+và cá nhân trong việc quản lý, vận hành và khai thác sử dụng Hồ sơ điện tử cán
+bộ, công chức, viên chức (Hồ sơ điện tử).
+
+Điều 2. Đối
+tượng áp dụng
+
+1. Quy chế này áp dụng đối với
+các cơ quan hành chính, đơn vị sự nghiệp của Nhà nước, các tổ chức hội được
+giao chỉ tiêu biên chế và chính quyền xã, phường, thị trấn (sau đây gọi chung
+là cấp xã) trên địa bàn tỉnh Lào Cai.
+
+2. Cán bộ, công chức, viên chức
+quy định tại Quy chế này bao gồm:
+
+a) Cán bộ, công chức, viên chức
+theo quy định của Nhà nước;
+
+b) Những người hợp đồng theo
+Nghị định số 68/2000/NĐ-CP ngày 17/11/2000 của Chính phủ về thực hiện chế độ hợp
+đồng một số loại công việc trong cơ quan hành chính nhà nước, đơn vị sự nghiệp;
+
+c) Cán bộ, công chức xã, phường,
+thị trấn.
+
+Điều 3. Giải
+thích từ ngữ
+
+1. Hồ sơ điện tử là tài liệu
+điện tử phản ánh các thông tin cơ bản nhất về cán bộ, công chức, viên chức bao
+gồm: Nguồn gốc xuất thân, quá trình công tác, hoàn cảnh kinh tế, phẩm chất,
+trình độ, năng lực, các mối quan hệ gia đình và xã hội của cán bộ, công chức,
+viên chức; được ứng dụng công nghệ thông tin nhằm hiện đại hóa, nâng cao hiệu
+suất, hiệu quả trong quản lý và khai thác thông tin hồ sơ cán bộ, công chức,
+viên chức.
+
+2. Phiếu cán bộ, công chức, viên chức dùng
+cho phần mềm quản lý hồ sơ điện tử là tài liệu tóm tắt về
+bản thân các mối quan hệ gia đình, xã hội của cán bộ, công chức, viên chức dùng
+để cập nhật vào phần mềm quản lý hồ sơ điện tử.
+
+3. Tài khoản người dùng là
+tên và mật khẩu để đăng nhập vào phần mềm quản lý Hồ sơ điện tử.
+
+4. Quản lý tài khoản người
+dùng là việc tạo mới, cấp phát, hạn chế, mở rộng hoặc hủy bỏ quyền đăng nhập
+vào phần mềm quản lý Hồ sơ điện tử.
+
+Điều 4. Phần
+mềm quản lý Hồ sơ điện tử  
+
+1. Phần mềm quản lý Hồ sơ điện
+tử cán bộ, công chức, viên chức là một bộ công cụ để phục vụ việc sử dụng, khai
+thác các thông tin từ Hồ sơ điện tử (sau đây gọi chung là phần mềm quản lý Hồ
+sơ điện tử).
+
+2. Phần mềm quản lý Hồ sơ điện
+tử do Bộ Nội vụ cung cấp, triển khai thống nhất trong toàn quốc.
+
+3. Phần mềm quản lý Hồ sơ điện
+tử là thành phần trong hệ thống Mạng thông tin tỉnh Lào Cai, được cài đặt trên
+máy chủ đặt tại Trung tâm Công nghệ thông tin và Viễn thông tỉnh Lào Cai.
+
+4. Địa chỉ truy cập phần mềm quản
+lý Hồ sơ điện tử tại http://hscbcc.laocai.gov.vn
+
+Điều 5. Các
+hành vi bị nghiêm cấm 
+
+Hồ sơ điện tử được quản lý, sử
+dụng và bảo quản theo chế độ tài liệu mật do Nhà nước quy định. Nghiêm cấm các
+hành vi:
+
+1. Sử dụng thông tin Hồ sơ điện
+tử vào mục đích vụ lợi cá nhân, các mục đích xuyên tạc sự thật, bôi xấu cán bộ
+làm ảnh hưởng hoặc chống phá cơ quan nhà nước.
+
+2. Cung cấp hoặc để lộ tên và mật
+khẩu đăng nhập vào phần mềm quản lý Hồ sơ điện tử cho cá nhân, tổ chức không được
+giao quyền và trách nhiệm quản lý sử dụng.
+
+3. Truy nhập trái phép vào phần
+mềm quản lý Hồ sơ điện tử; khai thác và sử dụng các thông tin Hồ sơ điện tử vào
+mọi mục đích.
+
+Chương 2.
+
+QUẢN LÝ, KHAI THÁC HỒ SƠ
+ĐIỆN TỬ
+
+Điều 6. Quản
+lý tài khoản đăng nhập Hồ sơ điện tử
+
+1. Cơ quan, đơn vị theo phân cấp
+về công tác quản lý cán bộ, công chức, viên chức được cấp tài khoản người dùng
+để đăng nhập, khai thác sử dụng phần mềm quản lý hồ sơ cán bộ, công chức theo
+quy định tại Khoản 3, Điều 3 Quy chế này.
+
+2. Sở Nội vụ là cơ quan tham
+mưu cho UBND tỉnh về công tác quản lý hồ sơ cán bộ, công chức, viên chức được
+phép sử dụng tài khoản quản trị của UBND tỉnh để cấp, phân quyền tài khoản người
+dùng cho các cơ quan, đơn vị theo phân cấp về công tác quản lý cán bộ; thực hiện
+chức năng nghiệp vụ về công tác cán bộ, công chức, viên chức trong toàn tỉnh. Các
+cơ quan, đơn vị có nhu cầu phân cấp tài khoản người dùng cho các đơn vị trực
+thuộc, thống nhất với Sở Nội vụ bằng văn bản để được cấp bổ sung.
+
+3. Cá nhân được giao nhiệm vụ
+quản lý, khai thác, sử dụng Hồ sơ điện tử có trách nhiệm bảo đảm an toàn tài
+khoản người dùng của cơ quan, đơn vị.
+
+Điều 7. Mô
+hình tổ chức Hồ sơ điện tử
+
+Hồ sơ điện tử của tỉnh được tổ
+chức theo mô hình 2 cấp như sau:
+
+1. Cấp một là cấp có trách nhiệm
+cập nhật, quản lý và khai thác Hồ sơ điện tử thuộc các sở, ban, ngành, đơn vị sự
+nghiệp trực thuộc tỉnh và Ủy ban nhân dân các huyện, thành phố.
+
+2. Cấp hai là cấp có trách nhiệm
+quản lý, tổ chức triển khai phần mềm quản lý Hồ sơ điện tử ; tổng hợp và lưu trữ
+Hồ sơ điện tử của các đơn vị cấp một. UBND tỉnh Lào Cai thống nhất quản lý Hồ
+sơ điện tử và ủy quyền cho Sở Nội vụ chịu trách nhiệm quản lý hoạt động của phần
+mềm quản lý Hồ sơ điện tử theo quy định của Quy chế này và các quy định khác của
+pháp luật.
+
+Điều 8.
+Nguyên tắc quản lý Hồ sơ điện tử
+
+1. Hồ sơ cán bộ, công chức,
+viên chức được quản lý, sử dụng và bảo quản theo chế độ tài liệu mật do Nhà nước
+quy định, chỉ những người được cơ quan, tổ chức, đơn vị có thẩm quyền quản lý hồ
+sơ cán bộ, công chức đồng ý bằng văn bản mới được nghiên cứu, khai thác hồ sơ của
+cán bộ, công chức, viên chức.
+
+2. Cơ quan, đơn vị có thẩm quyền
+tuyển dụng công chức, viên chức có trách nhiệm quản lý Hồ sơ điện tử của cơ
+quan, đơn vị mình.
+
+3. Thông tin trong Hồ sơ điện tử
+phải thống nhất với hồ sơ giấy; Hồ sơ điện tử có giá trị tương đương hồ sơ giấy.
+
+4. Hồ sơ điện tử phải được cập
+nhật, bổ sung các thông tin thường xuyên, kịp thời, đầy đủ và chính xác.
+
+5. Thường xuyên kiểm tra và có
+biện pháp bảo đảm an ninh, an toàn Hồ sơ điện tử.
+
+6. Bảo đảm tính tương thích
+trong toàn hệ thống thông tin liên quan đến Hồ sơ điện tử khi có sự thay đổi về
+thiết bị và công nghệ.
+
+Điều 9. Quy
+trình lập phiếu cán bộ, công chức, viên chức và cập nhật Hồ sơ điện tử
+
+Cơ quan, đơn vị được giao quản
+lý hồ sơ có trách nhiệm cập nhật những biến động thường xuyên về đội ngũ cán bộ,
+công chức, viên chức do cơ quan, đơn vị mình quản lý vào phần mềm quản lý Hồ sơ
+điện tử, cụ thể như sau:
+
+1. Lập hồ sơ mới:
+
+a) Cơ quan, đơn vị có thẩm quyền
+quản lý hồ sơ cán bộ, công chức, viên chức có trách nhiệm cập nhật đầy đủ thông
+tin cán bộ, công chức, viên chức hiện có mặt theo biên chế giao vào phần mềm quản
+lý Hồ sơ điện tử.
+
+b) Trong thời gian 15 ngày, kể
+từ ngày có quyết định tuyển dụng, cơ quan có thẩm quyền quản lý hồ sơ cán bộ,
+công chức, viên chức có trách nhiệm hướng dẫn cán bộ, công chức, viên chức kê
+khai phiếu cán bộ, công chức, viên chức (theo mẫu
+ban hành kèm theo Quy chế này), đồng thời cập nhật vào phần mềm quản lý Hồ
+sơ điện tử theo quy định tại Điểm a, Khoản 1 Điều này.
+
+2. Cập nhật thông tin Hồ sơ điện
+tử đã có:
+
+a) Đối với thông tin thay đổi từ
+phía cơ quan quản lý nhà nước như: Đào tạo, bồi dưỡng, bổ nhiệm, điều động,
+nâng lương, khen thưởng, kỷ luật... cơ quan có thẩm quyền quản lý hồ sơ cán bộ,
+công chức, viên chức có trách nhiệm cập nhật thông tin vào Hồ sơ điện tử của
+người đó (thời gian chậm nhất không quá 15 ngày, kể từ ngày văn bản có hiệu lực).
+
+b) Đối với thông tin thay đổi từ
+phía cá nhân như: Kê khai tài sản, thuế thu nhập cá nhân, kết hôn, ly hôn... cá
+nhân có trách nhiệm kê khai với cơ quan, đơn vị theo định kỳ được thực hiện đồng
+thời cùng việc kê khai phiếu bổ sung lý lịch hàng năm hoặc theo yêu cầu quản lý
+của cơ quan, đơn vị để tiến hành cập nhật vào Hồ sơ điện tử.
+
+Điều 10.
+Điều chuyển, tiếp nhận Hồ sơ điện tử
+
+Cán bộ, công chức, viên chức được
+điều động, luân chuyển đến cơ quan, tổ chức, đơn vị khác hoặc được bổ nhiệm chức
+vụ thuộc cơ quan khác quản lý thì Hồ sơ điện tử cán bộ, công chức, viên chức đó
+được chuyển cho cơ quan, tổ chức, đơn vị mới quản lý theo thẩm quyền.
+
+1. Chuyển trong cùng cơ quan, đơn
+vị có thẩm quyền tuyển dụng công chức, viên chức.
+
+Cơ quan, đơn vị có thẩm quyền
+quản lý hồ sơ có trách nhiệm điều chuyển Hồ sơ điện tử đến cơ quan, đơn vị mới
+(chậm nhất không quá 5 ngày, kể từ ngày văn bản có hiệu lực).
+
+2. Chuyển ra ngoài cơ quan, đơn
+vị có thẩm quyền tuyển dụng công chức, viên chức.
+
+Cơ quan, đơn vị có thẩm quyền
+tuyển dụng công chức, viên chức có trách nhiệm điều chuyển Hồ sơ điện tử đến cơ
+quan, đơn vị mới (chậm nhất không quá 5 ngày, kể từ ngày văn bản có hiệu lực);
+cơ quan, đơn vị tiếp nhận cán bộ, công chức, viên chức có trách nhiệm tiếp nhận
+và chuyển tiếp Hồ sơ điện tử đến cơ quan, đơn vị trực tiếp sử dụng cán bộ, công
+chức, viên chức theo phân cấp quản lý cán bộ, công chức, viên chức (chậm nhất
+không quá 15 ngày, kể từ ngày văn bản có hiệu lực).
+
+3. Chuyển sang khối Đảng, ra
+ngoài tỉnh
+
+Cơ quan, đơn vị có thẩm quyền
+tuyển dụng công chức, viên chức có trách nhiệm điều chuyển Hồ sơ điện tử sang
+khối Đảng hoặc ra ngoài tỉnh theo quy trình trên phần mềm (chậm nhất không quá
+15 ngày, kể từ ngày văn bản có hiệu lực).
+
+Điều 11.
+Lưu trữ Hồ sơ điện tử
+
+1. Hồ sơ điện tử phải được lưu
+trữ lâu dài để phục vụ công tác nghiên cứu và thực hiện chính sách đối với cán
+bộ, công chức, viên chức.
+
+2. Việc lưu trữ phải thực hiện
+tuân thủ nghiêm ngặt các nguyên tắc bảo đảm an ninh, an toàn đối với Hồ sơ điện
+tử theo các quy định hiện hành.
+
+3. Hồ sơ điện tử cán bộ, công
+chức, viên chức đã nghỉ hưu, thôi việc, từ trần vẫn được lưu trữ ở cơ quan, đơn
+vị để theo dõi.
+
+Điều 12.
+Khai thác Hồ sơ điện tử
+
+1. Khai thác Hồ sơ điện tử là
+việc thực hiện các quy trình nghiệp vụ, các chức năng tra cứu, tìm kiếm thông
+tin về cán bộ, công chức, viên chức hoặc tổng hợp các tiêu chí thông tin, kết
+xuất các thông tin, lập các bảng biểu thống kê, báo cáo và in các kết quả xử lý
+được ra màn hình hoặc ra giấy.
+
+2. Quyền sử dụng và khai thác Hồ
+sơ điện tử bao gồm các quyền như: Quyền quản trị là quyền được toàn quyền cập nhật,
+sửa chữa, xử lý sao chép, loại bỏ một phần hoặc toàn bộ Hồ sơ điện tử; quyền cập
+nhật Hồ sơ điện tử là quyền được cập nhật, sao chép, sửa chữa Hồ sơ điện tử...
+
+3. Cá nhân được giao nhiệm vụ
+quản lý, khai thác về Hồ sơ điện tử có trách nhiệm tuân thủ các quy trình về an
+toàn bảo mật thông tin.
+
+Điều 13.
+Chế độ báo cáo công tác quản lý Hồ sơ điện tử
+
+1. Báo cáo công tác quản lý Hồ
+sơ điện tử quy định như sau:
+
+a) Hàng năm các sở, ban, ngành,
+UBND huyện, thành phố có trách nhiệm báo cáo tình hình thực hiện công tác quản
+lý Hồ sơ điện tử thuộc thẩm quyền quản lý về UBND tỉnh thông qua Sở Nội vụ.
+
+Thời hạn gửi báo cáo đợt 1 trước
+ngày 15/6; đợt 2 trước ngày 15/12.
+
+b) Hàng năm Sở Nội vụ có trách
+nhiệm tổng hợp báo cáo UBND tỉnh và Bộ Nội vụ về tình hình thực trạng công tác
+quản lý Hồ sơ điện tử trong toàn tỉnh.
+
+2. Nội dung báo cáo công tác quản
+lý Hồ sơ điện tử gồm:
+
+a) Đánh giá việc thực hiện Quy
+chế quản lý Hồ sơ điện tử của cơ quan, đơn vị;
+
+b) Báo cáo thực trạng số lượng,
+chất lượng Hồ sơ điện tử cán bộ, công chức, viên chức (các thông tin được kết
+xuất từ phần mềm quản lý Hồ sơ điện tử);
+
+c) Tình trạng trang thiết bị phục
+vụ công tác quản lý Hồ sơ điện tử.
+
+Chương 3.
+
+TRÁCH NHIỆM, QUYỀN HẠN CỦA
+CÁC CƠ QUAN, ĐƠN VỊ TRONG VIỆC VẬN HÀNH, KHAI THÁC HỒ SƠ ĐIỆN TỬ
+
+Điều 14. Sở
+Nội vụ
+
+1. Tham mưu cho UBND tỉnh ban
+hành các văn bản quy định về quản lý Hồ sơ điện tử cán bộ, công chức, viên chức
+tỉnh Lào Cai; đề xuất việc nâng cấp phần mềm bảo đảm yêu cầu về khai thác, sử dụng
+phần mềm quản lý Hồ sơ điện tử.
+
+2. Hướng dẫn các sở, ban,
+ngành, các đơn vị trực thuộc tỉnh và UBND các huyện, thành phố khai thác, sử dụng
+phần mềm quản lý Hồ sơ điện tử.
+
+3. Được phép sử dụng tài khoản
+quản trị để quản lý các tài khoản người dùng của các cơ quan, đơn vị trực thuộc
+UBND tỉnh.
+
+4. Kiểm tra việc xây dựng và quản
+lý Hồ sơ điện tử của các cơ quan, đơn vị; tổng hợp, báo cáo kết quả với Bộ Nội
+vụ và UBND tỉnh theo quy định tại Điểm b, Khoản 1 Điều 13 Quy chế này.
+
+5. Xây dựng và thực hiện kế hoạch
+bồi dưỡng nghiệp vụ cho những người làm công tác quản lý Hồ sơ điện tử.
+
+6. Xây dựng dự toán kinh phí
+hàng năm để bảo đảm việc quản lý, khai thác Hồ sơ điện tử của tỉnh Lào Cai.
+
+7. Chủ trì, phối hợp với Sở
+Thông tin và Truyền thông thông báo bằng văn bản và trên Cổng thông tin điện tử
+của Sở Nội vụ cho các cơ quan, đơn vị về việc xảy ra sự cố hoặc nguy cơ xảy ra
+sự cố có ảnh hưởng xấu đến việc quản lý và khai thác sử dụng phần mềm quản lý Hồ
+sơ điện tử (khi phần mềm ngừng hoạt động trong 2 ngày làm việc liên tiếp).
+
+Điều 15. Sở
+Thông tin và Truyền thông
+
+1. Bảo đảm các yêu cầu kỹ thuật
+an toàn, bảo mật cho việc vận hành phần mềm quản lý Hồ sơ điện tử để duy trì sự
+hoạt động thông suốt của phần mềm quản lý Hồ sơ điện tử trên môi trường mạng
+Internet.
+
+2. Chủ trì, phối hợp với Sở Nội
+vụ xây dựng kế hoạch đầu tư, nâng cấp máy chủ và hạ tầng kỹ thuật liên quan đến
+công tác triển khai phần mềm quản lý Hồ sơ điện tử trình UBND xem xét, phê duyệt.
+
+Điều 16.
+Các sở, ban, ngành, UBND các huyện, thành phố
+
+1. Thực hiện theo Khoản 2 Điều
+8 và trường hợp ủy quyền cho đơn vị cấp dưới quản lý hồ sơ cán bộ, công chức,
+viên chức, đơn vị được ủy quyền có trách nhiệm lập phiếu cán bộ, công chức,
+viên chức, cập nhật thông tin cán bộ, công chức, viên chức vào Hồ sơ điện tử;
+cơ quan ủy quyền kiểm duyệt phiếu cán bộ, công chức, viên chức và đôn đốc kiểm
+tra việc nhập thông tin cán bộ, công chức, viên chức đối với đơn vị ủy quyền.
+
+2. Được cấp tài khoản người
+dùng để thực hiện việc cập nhật, quản lý và khai thác Hồ sơ điện tử cán bộ,
+công chức, viên chức thuộc cơ quan, đơn vị mình. Quyết định phân công công chức
+trực tiếp được phép sử dụng tài khoản người dùng để quản lý khai thác Hồ sơ điện
+tử.
+
+3. Xây dựng quy chế quản lý, sử
+dụng và khai thác Hồ sơ điện tử cán bộ, công chức, viên chức của cơ quan, đơn vị
+mình theo quy định tại Điều 6, 7, 8, 9, 10, 11, 12, 13 Quy chế này.
+
+4. Kiến nghị và đề xuất với cơ
+quan có thẩm quyền sửa đổi, bổ sung những quy định liên quan đến chế độ cập nhật,
+quản lý và khai thác Hồ sơ điện tử cán bộ, công chức, viên chức.
+
+5. Xây dựng dự toán kinh phí
+hàng năm để bảo đảm cho việc quản lý và khai thác Hồ sơ điện tử cán bộ, công chức,
+viên chức của cơ quan, tổ chức, đơn vị mình.
+
+Điều 17.
+Trách nhiệm của người được phân công trực tiếp làm công tác quản lý, khai thác
+Hồ sơ điện tử
+
+1. Được sử dụng tài khoản người
+dùng của cơ quan, đơn vị để thực hiện việc cập nhật, quản lý và khai thác Hồ sơ
+điện tử theo phân cấp quản lý; thay đổi mật khẩu được cấp và tự bảo mật tài khoản
+người dùng của đơn vị.
+
+2. Chịu trách nhiệm về tính kịp
+thời, chính xác của các thông tin trong Hồ sơ điện tử, sử dụng có hiệu quả phần
+mềm quản lý Hồ sơ điện tử để cung cấp kịp thời, nhanh chóng, chính xác phục vụ
+yêu cầu quản lý và tác nghiệp chuyên môn.
+
+3. Áp dụng các biện pháp bảo đảm
+an toàn và bảo mật Hồ sơ điện tử; đề xuất các biện pháp bảo đảm sử dụng và khai
+thác có hiệu quả Hồ sơ điện tử.
+
+4. Nghiên cứu, phát hiện và báo
+cáo với cấp có thẩm quyền xem xét, xử lý các vấn đề phát sinh trong công tác quản
+lý Hồ sơ điện tử.
+
+5. Định kỳ báo cáo với người đứng
+đầu cơ quan, tổ chức, đơn vị theo quy định tại Điều 12 Quy chế này.
+
+6. Trường hợp mất mật khẩu phải
+báo cáo người đứng đầu cơ quan, đơn vị và báo cáo bằng văn bản về Sở Nội vụ để
+được cấp lại mật khẩu mới.
+
+7. Thường xuyên học tập, trao đổi
+kinh nghiệm, bồi dưỡng để nâng cao trình độ chuyên môn, nghiệp vụ.
+
+Chương 4.
+
+ĐIỀU KHOẢN THI HÀNH
+
+Điều 18. Tổ
+chức thực hiện
+
+1. Sở Nội vụ có trách nhiệm hướng
+dẫn, kiểm tra, đôn đốc các sở, ban, ngành, các đơn vị sự nghiệp trực thuộc tỉnh
+và Ủy ban nhân dân các huyện, thành phố triển khai thực hiện Quy chế này. Tổng
+hợp, báo cáo kết quả triển khai thực hiện với Bộ Nội vụ và UBND tỉnh theo quy định.
+
+2. Cơ quan, tổ chức, đơn vị và
+cá nhân có thành tích xuất sắc trong việc thực hiện Quy chế này được xét khen
+thưởng theo quy định.
+
+3. Cơ quan, tổ chức, đơn vị và
+cá nhân vi phạm các điều khoản trong Quy chế này, tùy theo tính chất, mức độ sẽ
+bị xử lý theo quy định của pháp luật.
+
+Trong quá trình thực hiện, nếu
+có vấn đề gì vướng mắc, phát sinh các sở, ban, ngành, các đơn vị sự nghiệp tỉnh;
+UBND các huyện, thành phố và các tổ chức, cá nhân có liên quan kịp thời phản
+ánh về Sở Nội vụ để tổng hợp, báo cáo UBND tỉnh xem xét, sửa đổi, bổ sung cho
+phù hợp./.
+
+ 
+
+CỘNG
+HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+Độc lập - Tự do - Hạnh phúc
+
+--------------
+
+ 
+
+PHIẾU CÁN BỘ, CÔNG CHỨC, VIÊN CHỨC
+
+(Kèm theo Quyết định số 57/2011/QĐ-UBND ngày 30/12/2011 của UBND tỉnh Lào
+Cai)
+
+Cơ
+quan, đơn vị chủ quản:.................................................................................
+
+Cơ
+quan, đơn vị quản lý trực tiếp:..........................................................................
+
+I. THÔNG TIN CHUNG:
+
+1. Họ và tên khai sinh (chữ
+in hoa):............................................................................
+
+2. Họ và tên thường
+dùng:........................................................... 3. Bí
+danh:............
+
+4. Giới tính:.............................................
+5. Ngày, tháng, năm sinh: .........................
+
+6. Số hiệu công chức, viên chức:
+..............................................................................
+
+7. Số
+CMTND:...................................... Ngày cấp:..........................
+Nơi cấp: ............
+
+8. Nơi sinh:
+.................................................................................................................
+
+9. Nguyên quán: - Theo hồ sơ
+gốc:.............................................................................
+
+- Theo đơn vị HC hiện nay: ........................................................................................
+
+10. Địa chỉ hộ khẩu thường trú:
+.................................................................................
+
+- Theo đơn vị HC hiện nay:.........................................................................................
+
+- Theo hồ sơ gốc:........................................................................................................
+
+11. Nơi ở hiện nay:
+....................................................................................................
+
+12. Dân tộc:.........................
+Tôn giáo:.................... Thành phần xuất thân: ..............
+
+13. Tình trạng hôn nhân:.............................................................................................
+
+(chưa kết hôn lần nào, đang có
+vợ (hoặc chồng), hiện ly hôn, tái hôn, góa vợ (hoặc chồng)
+
+14. Địa chỉ
+Email:.................................................................. Điện
+thoại: ...................
+
+15. Đại biểu:          
+□ Quốc hội         □ HĐND cấp tỉnh            
+□ HĐND cấp huyện      □ HĐND cấp xã
+
+II. CÔNG TÁC:
+
+16. Ngày tuyển dụng đầu
+tiên:........................... Cơ quan tuyển dụng:
+..........................................
+
+17. Nghề nghiệp trước khi tuyển
+dụng:
+.......................................................................................
+
+18. Hình thức tuyển dụng:                     
+□ Thi tuyển              
+□ Xét tuyển            □
+Tiếp nhận từ nơi khác
+
+19. Nguồn tuyển dụng:
+..............................................................................................
+
+20. Vị trí tuyển dụng hiện nay:...................................................................................
+
+(Công chức, viên chức, hợp đồng
+theo Nghị định 68/2000/NĐ-CP: Hợp đồng tự bảo đảm kinh phí)
+
+21. Ngày tuyển dụng chính thức:
+..............................................................................
+
+22. Ngày vào cơ quan hiện nay:
+...............................................................................
+
+23. Công việc chuyên môn hiện
+nay:.........................................................................
+
+24. Ngày vào
+ngành:.................................. Số năm đã công tác trong
+ngành:..........
+
+25. Ngày ký
+hợp đồng:
+.............................................................................................
+
+26. Lĩnh vực công tác:
+..............................................................................................
+
+III. LƯƠNG, PHỤ CẤP:
+
+27. Mã số ngạch:..............................
+Tên ngạch, chức danh: ..................................
+
+Ngày bổ nhiệm vào ngạch cán bộ,
+công chức, viên chức: ......................................
+
+28. Bậc lương hiện hưởng:..........................
+Hệ số hiện hưởng:........................ Phần trăm hưởng bậc:
+.................% Ngày hưởng bậc lương hiện nay:
+..............................................................
+
+29. Mốc thời gian tính phụ cấp
+TNVK lần sau:........................... Phụ cấp thâm niên vượt
+khung:.............%
+
+30. Chức vụ theo đơn vị:
+.........................................................................................
+
+Chức vụ tương đương theo NĐ204:
+.......................................................................
+
+Hệ số phụ cấp chức vụ:.................................................
+Ngày bổ nhiệm: ...............
+
+31. Phụ cấp khu vực:..................................
+Các loại phụ cấp khác (nếu có): .........
+
+32. Số sổ bảo hiểm xã hội:..................................
+Ngày cấp sổ BHXH:....................
+
+IV. ĐÀO TẠO, BỒI DƯỠNG:
+
+33. Văn hóa phổ
+thông:........................................( □ Hệ bổ túc văn hóa)
+
+34. Trình độ chuyên môn:
+
+TT
+
+Trình độ
+
+Chuyên ngành đào tạo
+
+Hình thức đào tạo
+
+Tốt nghiệp loại
+
+Nước đào tạo
+
+Tên trường đào tạo
+
+Năm tốt nghiệp
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+35. Chức danh khoa học:.......................................
+Ngày, tháng, năm phong: .........
+
+36. Trình độ lý luận chính trị:
+....................................................................................
+
+37. Trình độ quản lý
+HCNN:......................................................................................
+
+38. Trình độ quản lý kinh tế:
+.....................................................................................
+
+39. Trình độ ngoại ngữ: Tiếng
+Anh:.......................... Ngoại ngữ khác: ....................
+
+40. Trình độ tin học:..............................................
+Tiếng dân tộc thiểu số: ..............
+
+41. Bồi dưỡng kiến thức an
+ninh, quốc
+phòng:                     
+□ An ninh           □ Quốc
+phòng
+
+V. THÔNG TIN KHÁC:
+
+42. Ngày vào
+Đoàn:.......................... Chức vụ Đoàn hiện
+nay:...................................
+
+43. Ngày vào Đảng:......................Ngày
+chính thức:................Số thẻ đảng: ..............
+
+Chức vụ Đảng hiện
+nay:.........................................Nơi kết nạp:
+................................
+
+44. Ngày tham gia
+LLVT:......................................... Ngày xuất ngũ:
+.........................
+
+Cấp bậc quân hàm cao nhất:............................Chức
+vụ cao nhất: ...........................
+
+45. Danh hiệu NN phong tặng:............................................
+Năm phong tặng: .........
+
+46. Đối tượng hưởng chính sách
+NN:.......................................................................
+
+47. Tình trạng sức khỏe...................Chiều
+cao:..................Cân nặng:............Nhóm máu: .............
+
+Thương binh loại:.....................................Hình
+thức thương tật:.................................
+
+Số sổ thương tật:..............................................Khuyết
+tật: .........................................
+
+48. Năng lực sở trường:..............................................................................................
+
+49. Việc làm lâu nhất:
+.................................................................................................
+
+50. Khen thưởng cao nhất:.......................................Ngày
+quyết định:.........................
+
+Số quyết định:..............Cơ
+quan quyết định:................................Người ký quyết định:....................
+
+51. Kỷ luật cao nhất (đã qua hoặc
+đang áp dụng)..............................Ngày quyết định: ...................
+
+Số quyết định:.....................Cơ
+quan quyết định:.......................Người ký quyết định:...................
+
+52. Đặc điểm lịch sử bản thân:
+
+- Khai rõ: bị bắt, bị tù (từ ngày
+tháng năm nào đến ngày tháng năm nào, ở đâu), đã khai báo cho ai, những vấn đề
+gì?
+
+...................................................................................................................................
+
+...................................................................................................................................
+
+- Bản thân có làm việc trong chế
+độ cũ (cơ quan, đơn vị nào, địa điểm, chức danh, chức vụ, thời gian làm việc...)?
+
+...................................................................................................................................
+
+...................................................................................................................................
+
+- Tham gia hoặc có quan hệ với
+các tổ chức chính trị, kinh tế, xã hội nào ở nước ngoài (làm gì, đặt trụ sở ở
+đâu...)?
+
+...................................................................................................................................
+
+...................................................................................................................................
+
+- Có thân nhân (Cha, Mẹ, Vợ, Chồng,
+con, anh chị em ruột) ở nước ngoài (làm gì, địa chỉ...)?
+
+...................................................................................................................................
+
+...................................................................................................................................
+
+53. Quan hệ gia đình:
+
+a) Về bản thân: Cha, Mẹ, Vợ
+(hoặc chồng), các con, anh chị em ruột
+
+TT
+
+Mối
+
+ quan hệ
+
+Họ và tên
+
+Năm sinh
+
+Quê quán; nghề nghiệp; chức danh, chức vụ, đơn vị công tác, học tập;
+ nơi ở hiện nay; thành viên các tổ chức chính trị - xã hội...
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+b) Về bên vợ (hoặc chồng):
+Cha, Mẹ, anh chị em ruột
+
+TT
+
+Mối quan hệ
+
+Họ và tên
+
+Năm sinh
+
+Quê quán; nghề nghiệp; chức danh, chức vụ, đơn vị công tác, học tập; nơi
+ ở hiện nay; thành viên các tổ chức chính trị - xã hội...
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+54. Diễn biến quá trình lương:
+
+(Theo Thông tư liên tịch số 01/2005/TTLT-BNV-BTC 
+ngày 05/01/2005 của Bộ Nội vụ và Bộ Tài chính về hướng dẫn thực hiện chuyển xếp
+lương cũ sang lương mới đối với cán bộ, công chức, viên chức). Kê khai ngạch, bậc
+lương kể từ khi được chuyển xếp lương theo Nghị định 204/2004/NĐ-CP).
+
+TT
+
+Từ ngày
+
+Đến ngày
+
+Mã ngạch
+
+Tên ngạch
+
+Bậc lương
+
+Hệ số lương
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Người khai
+
+ Tôi xin cam đoan những lời khai trên đây là đúng sự thật
+
+ (Ký tên, ghi rõ họ tên)
+
+ Cán bộ phụ trách công tác tổ chức cán bộ của đơn vị
+
+ (Ký tên, ghi rõ họ tên)
+
+......,ngày.....tháng....năm 20....
+
+Thủ trưởng cơ quan quản lý trực tiếp
+
+ (Ký tên, đóng dấu)--- THÔNG TIN THÊM ---
+Ten: Quyết định 57/2011/QĐ-UBND về Quy chế quản lý Hồ sơ điện tử cán bộ, công chức, viên chức tỉnh Lào Cai
+So hieu: 57/2011/QĐ-UBND
+Loai van ban: Quyết định
+Linh vuc nganh: Lao động - Tiền lương, Công nghệ thông tin, Bộ máy hành chính
+Noi ban hanh: Tỉnh Lào Cai
+Nguoi ky: Nguyễn Văn Vịnh
+Ngay ban hanh: 30/12/2011
+Ngay hieu luc: 09/01/2012
+Ngay dang: Dữ liệu đang cập nhật
+So cong bao: Dữ liệu đang cập nhật
+Tinh trang: Hết hiệu lực: 20/02/2024
+
+
+--- MỤC LỤC ---
+- QUYẾT ĐỊNH BAN HÀNH QUY CHẾ QUẢN LÝ HỒ SƠ ĐIỆN TỬ CÁN BỘ, CÔNG CHỨC, VIÊN CHỨC TỈNH LÀO CAI
+  - Điều 1. Ban hành kèm theo Quyết định này Quy chế quản lý Hồ sơ điện tử cán bộ, công chức, viên chức tỉnh Lào Cai.
+  - Điều 2. Chánh Văn phòng UBND tỉnh; Giám đốc Sở Nội vụ; Thủ trưởng các sở, ban, ngành, đơn vị sự nghiệp trực thuộc UBND tỉnh; Chủ tịch UBND các huyện, thành phố và các đơn vị có liên quan căn cứ Quyết định thi hành.
+- QUY CHẾ QUẢN LÝ HỒ SƠ ĐIỆN TỬ CÁN BỘ, CÔNG CHỨC, VIÊN CHỨC TỈNH LÀO CAI
+  - Chương 1. NHỮNG QUY ĐỊNH CHUNG
+    - Điều 1. Phạm vi điều chỉnh
+    - Điều 2. Đối tượng áp dụng
+    - Điều 3. Giải thích từ ngữ
+    - Điều 4. Phần mềm quản lý Hồ sơ điện tử
+    - Điều 5. Các hành vi bị nghiêm cấm
+  - Chương 2. QUẢN LÝ, KHAI THÁC HỒ SƠ ĐIỆN TỬ
+    - Điều 6. Quản lý tài khoản đăng nhập Hồ sơ điện tử
+    - Điều 7. Mô hình tổ chức Hồ sơ điện tử
+    - Điều 8. Nguyên tắc quản lý Hồ sơ điện tử
+    - Điều 9. Quy trình lập phiếu cán bộ, công chức, viên chức và cập nhật Hồ sơ điện tử
+    - Điều 10. Điều chuyển, tiếp nhận Hồ sơ điện tử
+    - Điều 11. Lưu trữ Hồ sơ điện tử
+    - Điều 12. Khai thác Hồ sơ điện tử
+    - Điều 13. Chế độ báo cáo công tác quản lý Hồ sơ điện tử
+  - Chương 3. TRÁCH NHIỆM, QUYỀN HẠN CỦA CÁC CƠ QUAN, ĐƠN VỊ TRONG VIỆC VẬN HÀNH, KHAI THÁC HỒ SƠ ĐIỆN TỬ
+    - Điều 14. Sở Nội vụ
+    - Điều 15. Sở Thông tin và Truyền thông
+    - Điều 16. Các sở, ban, ngành, UBND các huyện, thành phố
+    - Điều 17. Trách nhiệm của người được phân công trực tiếp làm công tác quản lý, khai thác Hồ sơ điện tử
+  - Chương 4. ĐIỀU KHOẢN THI HÀNH
+    - Điều 18. Tổ chức thực hiện
+  - PHIẾU CÁN BỘ, CÔNG CHỨC, VIÊN CHỨC
+
+--- VĂN BẢN LIÊN QUAN ---
+
+Van ban duoc dan chieu:
+  - Thông tư liên tịch 01/2005/TTLT-BNV-BTC hướng dẫn chuyển xếp lương cũ sang lương mới đối với cán bộ, công ... (ID: 52758)
+  - Nghị định 204/2004/NĐ-CP về chế độ tiền lương đối với cán bộ, công chức, viên chức và lực lượng vũ trang (ID: 52629)
+  - Nghị định 68/2000/NĐ-CP về thực hiện chế độ hợp đồng một số loại công việc trong cơ quan hành chính nhà ... (ID: 47047)
+
+Van ban duoc can cu:
+  - Luật viên chức 2010 (ID: 115271)
+  - Luật cán bộ, công chức 2008 (ID: 82202)
+  - Nghị định 64/2007/NĐ-CP về việc ứng dụng công nghệ thông tin trong hoạt động của cơ quan Nhà nước (ID: 18234)
+  - Quyết định 14/2006/QĐ-BNV ban hành quy chế quản lý hồ sơ cán bộ, công chức do Bộ trưởng Bộ Nội vụ ban hành (ID: 15819)
+  - Luật Công nghệ thông tin 2006 (ID: 12987)
+  - Luật Tổ chức Hội đồng nhân dân và Ủy ban Nhân dân 2003 (ID: 51688)
+
+Van ban thay the:
+  - Quyết định 06/2024/QĐ-UBND về Quy chế quản lý, cập nhật, sử dụng, khai thác, phê duyệt dữ liệu, thông tin ... (ID: 599109)
+
+Van ban lien quan cung noi dung:
+  - Quyết định 01/2014/QĐ-UBND về Quy chế quản lý Hồ sơ điện tử cán bộ, công, viên chức Quận 6 thành phố Hồ Chí Minh (ID: 221080)
+  - Quyết định 04/2013/QĐ-UBND Quy chế quản lý Hồ sơ điện tử cán bộ, công, viên chức quận Bình Tân, thành phố Hồ Chí Minh (ID: 215329)
+  - Quyết định 24/2013/QĐ-UBND về Quy chế quản lý, khai thác hồ sơ điện tử cán bộ, công chức, viên chức tỉnh Tuyên Quang (ID: 223002)
+  - Quyết định 44/2013/QĐ-UBND Quy chế quản lý Hồ sơ điện tử cán bộ, công, viên chức Thành phố Hồ Chí Minh (ID: 210102)
+  - Quyết định 16/2012/QĐ-UBND về Quy chế quản lý Hồ sơ điện tử cán bộ, công, viên chức trên địa bàn tỉnh Bình Phước (ID: 144229)
+  - Quyết định 17/2011/QĐ-UBND về Quy định cơ chế phối hợp, cung cấp thông tin trong việc cấp, quản lý hồ sơ Giấy chứng nhận quyền sử dụng đất, sở hữu nhà ở và tài sản khác gắn liền với đất trên địa bàn tỉnh Cà Mau do Ủy ban nhân dân tỉnh Cà Mau ban hành (ID: 132519)
+  - Quyết định 10/2011/QĐ-UBND Quy định về cơ chế phối hợp, cung cấp thông tin giữa cơ quan có liên quan trong việc cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất và quản lý hồ sơ trên địa bàn tỉnh Gia Lai do Ủy ban nhân dân tỉnh Gia Lai ban hành (ID: 124777)
+  - Quyết định 176/QĐ-UBND năm 2010 ban hành Quy định cơ chế phối hợp, cung cấp thông tin giữa các cơ quan trong việc cấp giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất và quản lý hồ sơ trên địa bàn tỉnh Bình Định do Ủy ban nhân dân tỉnh Bình Định ban hành (ID: 107757)
+  - Quyết định 70/2007/QĐ-UBND quy chế quản lý hồ sơ cán bộ công chức nhà nước do tỉnh Lào Cai ban hành (ID: 189749)

@@ -1,0 +1,482 @@
+BỘ GIÁO DỤC VÀ ĐÀO
+ TẠO
+
+ --------
+
+CỘNG HÒA XÃ HỘI CHỦ
+ NGHĨA VIỆT NAM
+
+ Độc lập - Tự do - Hạnh phúc 
+
+ ---------------
+
+Số: 1710/TB-BGDĐT
+
+Hà Nội, ngày 13
+ tháng 12 năm 2013
+
+ 
+
+THÔNG
+BÁO SỐ 02
+
+TỔ
+CHỨC LỚP TẬP HUẤN CÁN BỘ LÀM CÔNG TÁC VĂN HÓA CHO CÁC SỞ GIÁO DỤC VÀ ĐÀO TẠO,
+CÁC TRƯỜNG DỰ BỊ ĐẠI HỌC, CÁC TRƯỜNG PHỔ THÔNG DÂN TỘC NỘI TRÚ NĂM 2013
+
+Thực hiện chương trình công tác năm 2013; Căn
+cứ Kế hoạch số 1488/KH-BGDĐT ngày 28/11/2013 về việc Tổ chức lớp tập huấn cán
+bộ làm công tác văn hóa cho các sở giáo dục và đào tạo (GDĐT), các trường Dự bị
+đại học (DBĐH), các trường Phổ thông dân tộc nội trú (PTDTNT) năm 2013, Bộ Giáo
+dục và Đào tạo đã ban hành Công văn số 8617/BGDĐT-CTHSSV ngày 29/11/2013 về
+việc triệu tập lớp tập huấn cán bộ văn hóa và Thông báo số 01 ngày 04/12/2013 về
+việc đề nghị các sở GDĐT, các trường DBĐH về việc chuẩn bị công tác tổ chức lớp
+tập huấn diễn ra từ ngày 16 đến ngày 25/12/2013 với hình thức qua mạng. Thời
+hạn đăng ký danh sách đến trước ngày 10/12/2013.
+
+Bộ Giáo dục và Đào tạo tiếp tục thông báo về
+công tác chuẩn bị lớp tập huấn như sau:
+
+1. Đề nghị các sở GDĐT có trường PTDTNT,
+trường DBĐH nghiêm túc thực hiện Công văn số 8617/BGDĐT-CTHSSV ngày 29/11/2013
+và Thông báo số 01 ngày 04/12/2013.
+
+2. Do đây là hình thức tập huấn qua mạng Internet,
+Bộ Giáo dục và Đào tạo mở rộng đối tượng tham gia lớp tập huấn và giao các sở
+GDĐT bổ sung danh sách cán bộ, giáo viên tham gia lớp tập huấn theo nhu cầu của
+đơn vị.
+
+3. Đề nghị các sở GDĐT, các trường DBĐH giao
+nhiệm vụ công tác chuẩn bị kỹ thuật cho phòng công nghệ thông tin (CNTT) của đơn
+vị và thực hiện các bước hướng dẫn kỹ thuật theo (phụ lục đính kèm).
+
+4. Các sở GDĐT có trường PTDTNT nhận tài
+khoản, mật khẩu truy cập để tham gia lớp tập huấn tại địa chỉ email của Sở
+(Phòng CNTT và Văn phòng Sở). Các trường DBĐH cần liên hệ và gửi danh sách cán
+bộ phụ trách CNTT về Thường trực Ban Tổ chức để nhận tài khoản, mật khẩu đăng
+nhập.
+
+5. Sau khi hoàn thành công tác chuẩn bị kỹ
+thuật, Ban Tổ chức đề nghị các điểm cầu liên hệ với Ban Tổ chức để chạy thử hệ
+thống vào ngày 24/12/2013 (dành cho cán bộ kỹ thuật).
+
+Chi tiết xin liên hệ: Thường trực Ban Tổ
+chức, Vụ Công tác học sinh, sinh viên, Bộ Giáo dục và Đào tạo, 49 Đại Cồ Việt
+(Đ/c Vũ Đức Bình: Điện thoại: 04.38694.984/ 0975393699), email: vdbinh@moet.edu.vn.
+Liên hệ hỗ trợ kỹ thuật Cục CNTT: Đ/c Đỗ Dũng Hà – 0983968883,
+dungha@moet.edu.vn, đ/c Bùi Thanh Duy – 0946109901, btduy@moet.edu.vn.
+
+ 
+
+ 
+
+Nơi nhận:
+
+-
+ TT. Trần Quang Quý (để b/c);
+
+ - VT. Ngũ Duy Anh (để b/c) ;
+
+ - Các sở GD&ĐT (th/h);
+
+ - Các trường DBĐH (th/h);
+
+ - Cục CNTT (để ph/h) ;
+
+ - Lưu: VT, Vụ CTHSSV.
+
+TL. BỘ TRƯỞNG
+
+ KT. VỤ TRƯỞNG VỤ CÔNG TÁC 
+
+ HỌC SINH, SINH VIÊN
+
+ PHÓ VỤ TRƯỞNG
+
+ Bùi Văn Linh
+
+ 
+
+PHỤ LỤC 1
+
+HƯỚNG DẪN SỬ DỤNG HỆ THỐNG HỌP TRỰC
+TUYẾN CỦA BỘ GIÁO DỤC VÀ ĐÀO TẠO
+
+(Kèm
+theo Thông báo 02 số 1710/TB-BGDĐT ngày 13/12/2013)
+
+1.
+Chuẩn bị thiết bị, đường truyền
+
+Để triển khai
+họp trực tuyến của Bộ GD&ĐT qua Internet, mỗi điểm cầu cần chuẩn bị tối
+thiểu các thiết bị sau đây:
+
+1.1. Máy tính
+có nối mạng Internet: Tối thiểu ADSL, tốt nhất là cáp quang FTTH. Trường hợp đặc biệt có
+thể sử dụng Internet 3G.
+
+1.2. Thiết bị ghi
+hình được kết nối với máy tính: Đơn giản thì sử dụng webcam, nếu có điều kiện
+sử dụng camera, máy ảnh hoặc camera hội nghị chuyên dụng (ví dụ: Sony EVI-D70;
+EVI- D90 hay EVI – D100) – khi đó cần có thiết bị kết nối với máy tính kèm theo
+(ví dụ easy cab).
+
+1.3. Thiết bị âm
+thanh gồm:
+
+- Micro: Đơn giản có
+thể sử dụng micrro của webcam, của máy tính xách tay, .. hoặc sử dụng dàn micro
+phòng họp (nếu có sẵn). Nếu dùng dàn micro phòng họp, cần kết nối đường âm
+thanh của âm ly với máy tính.
+
+- Loa: Đơn giản có
+thể sử dụng loa máy tính hoặc các loa hội trường (nếu có sẵn) kết nối với máy
+tính.
+
+- Thiết bị trình
+chiếu (tuỳ chọn theo nhu cầu): có thể sử dụng màn chiếu LCD projector hoặc màn
+hình plasma, ..
+
+- Ánh sáng (tuỳ chọn
+theo yêu cầu): Để đảm bảo ánh sáng khi thu hình.
+
+2.
+Đăng nhập và sử dụng phòng họp ảo
+
+2.1. Đăng nhập
+
+Địa chỉ của
+phòng họp trực tuyến cho lớp tập huấn cán bộ văn hoá là:
+
+http://hop.moet.gov.vn/taphuan
+
+Sau khi gõ
+địa chỉ nêu trên vào trình duyệt web, giao diện đăng nhập vào phòng họp xuất
+hiện như
+sau:
+
+Nếu đã có tài
+khoản (account) do Cục CNTT cấp thì chúng ta kích chuột vào mục Enter with
+your login and password để đăng nhập.
+
+Trường hợp đăng nhập mà
+không cần account thì kích chuột chọn ô Enter as a Guest và gõ vào Tên
+đăng nhập.
+
+Lưu ý cách đặt tên
+đăng nhập phải là tên tường minh, thể hiện rõ người đăng nhập là cá nhân hay
+đơn vị. Ví dụ:
+
+- Sở GD&ĐT Điện
+Biên;
+
+- Phòng GD&ĐT Ba
+Đình
+
+- Trường THPT Hoàng
+Hoa Thám
+
+- Nguyễn Văn Nam, TP
+CNTT
+
+-........
+
+Sau khi đăng
+nhập nếu trình duyệt web chưa được cài plugin Flash Player, dòng thông báo như hình
+dưới sẽ xuất hiện. Khi đó, ta phải cài ứng dụng plugin theo hướng dẫn trên màn
+hình.
+
+3.
+Sử dụng một số tình huống trong cuộc họp
+
+3.1. Cách bật
+webcam:
+
+Để bật tín hiệu
+hình ảnh (bật webcam), thực hiện kích chuột chọn biểu tượng  trên thanh Menu Bar hoặc kích
+chuột chọn vào ô màu đen: Start My Webcam ở chính giữa màn hình, nằm
+trong phần quản lý của khung Video. Khi đó, màn hình sẽ xuất hiện khung cửa sổ
+thông báo Camera and Micophone Access. Tiếp theo chọn mục Allow.
+Màn hình Preview sẽ hiển thị hình ảnh từ camera hay web cam.
+
+Để tín hiệu
+hình ảnh của bạn được truyền lên phòng họp (điểm cầu khác nhìn thấy được) phải
+thực hiện lệnh chia sẻ hình ảnh bằng cách kích chuột chọn nút Start Sharing.
+Lúc này, tín hiệu hình ảnh của bạn chính thức được truyền đi đến tất cả các
+điểm cầu.
+
+Để tắt tín
+hiệu hình ảnh, dừng hình (khi cần thiết), chúng ta kích chuột chọn Stop My
+Webcam trên góc phải của khung Video.
+
+Để quản lý
+tín hiệu hình ảnh: Ví dụ như chất lượng hình ảnh cao hay thấp, phóng to, thu nhỏ
+hình ảnh, chọn tín hiệu từ thiết bị webcam hay camera khác (khi chúng ta có
+nhiều thiết bị đầu vào). Để có thể làm được như vậy trên khung cửa sổ Video,
+chúng ta thấy có mục ở góc phải màn hình có biểu tượng sau:
+
+-
+Select Camera: Chọn tín hiệu hình ảnh Camera khi có nhiều tín hiệu đầu vào.
+
+- Starts Sharing: Bật
+tín hiệu chia sẻ hình ảnh camera đến các điểm cầu.
+
+- Stop My
+Webcam: Tắt tín hiệu hình ảnh.
+
+- Maximize:
+Phóng to hình ảnh.
+
+- Preferences:
+Tinh chỉnh chất lượng
+hình ảnh hay Tiếng….
+
+3.2. Bật và
+tinh chỉnh micro:
+
+Cài đặt micro
+cho phòng họp, làm như sau:
+
+Trên Menu
+Bar, kích chuột chọn: Meeting/Audio Setup Wizard… Hộp thoại sau xuất
+hiện:
+
+Ở hộp thoại
+trên bạn có thể:
+
+- Kích nút Play
+Sound để kiểm tra (test) loa;
+
+- Và kích nút
+Next để tiếp tục. Hộp thoại sau xuất hiện:
+
+Hộp thoại
+trên hiển thị danh sách các micro có thể sử dụng trên máy tính của bạn, hãy
+chọn micro mà bạn dùng trong phòng họp này. Bấm nút Next, hộp thoại sau
+xuất hiện.
+
+Hộp thoại
+trên giúp bạn kiểm tra micro có sử dụng được không? Kích nút Record để
+ghi thử âm thanh, sau đó kích nút Play Recording để nghe lại âm thanh đã
+ghi. Khi đã kiểm tra xong micro, nhấn Next để tiếp tục rồi nhấn Finish
+để kết thúc.
+
+4.
+Cách bật/tắt micro:
+
+Để bật micro,
+kích chuột chọn vào biểu tượng  (biểu tượng micro màu trắng). Sau khi micro
+được bật, biểu tượng sẽ chuyển thành micro màu xanh  - là khi chúng ta có thể phát biểu.
+
+Để tắt micro, kích
+chọn biểu tượng micro màu xanh (đang bật) ở trên.
+
+Tinh chỉnh micro
+(quan trọng):
+
+Một việc rất quan
+trọng để đảm bảo chất lượng thu âm thanh ở điểm cầu là phải thiết lập độ nhạy
+của micro sao cho phù hợp. Cách làm như sau:
+
+Kích chuột vào mũi
+tên chỉ xuống và chọn mục Adjust Microphone Volume. (như hình dưới):
+
+Bước 1
+
+Bước 2
+
+Hộp thoại
+điều chỉnh âm lượng micro xuất hiện:
+
+Bạn hãy điều
+chỉnh âm lượng micro trong hộp thoại trên để xác định ngưỡng phù hợp nhất. Nhấn
+Ok để kết thúc.
+
+5.
+Chia sẻ một số tài nguyên từ máy tính lên phòng họp:
+
+Trong quá
+trình họp, bạn có thể chia sẻ nội dung một số tài nguyên từ máy tính lên phòng
+họp như:
+tệp văn bản, màn hình máy tính của bạn, bảng trắng, video, .. hoặc file trình
+chiếu powerpoint. Cách sử dụng như sau:
+
+Nhấn chuột
+mục Share My Screen trên màn hình và chọn nội dung cần chia sẻ lên phòng
+họp gồm:
+
+·        
+Share
+My Screen
+– chia sẻ màn hình máy tính đang kết nối với phòng họp của bạn;
+
+·        
+Share
+Whiteboard
+– chia sẻ bảng trắng để thảo luận (vẽ ý tưởng lên đó);
+
+·        
+Share
+Document
+– chia sẻ các tệp tài liệu ví dụ như:
+
+6.
+Cách tham gia phát biểu tại cuộc họp (quan trọng):
+
+Khi chủ toạ
+yêu cầu các điểm cầu tham gia phát biểu, nếu bạn muốn phát biểu phải có tín
+hiệu để chủ toạ biết. Có 2 cách phát tín hiệu để xin phát biểu được thực hiện
+như sau:
+
+Bước 1
+
+Cách 1: Sử dụng tính
+năng giơ tay (Raise Hand) của phòng họp. Bấm biểu tượng Raise Hand
+trên màn hình như sau:
+
+Bước 2
+
+Cách 2: Sử dụng tính
+năng thảo luận (Chat) của phòng họp. Khi đó, gõ yêu cầu được phát biểu của điểm
+cầu (nên sử dụng cách này để việc trao đổi thông tin được diễn ra trực tiếp,
+tức thì).
+
+Sau khi yêu
+cầu phát biểu được đưa lên phòng họp, điểm cầu cần chú ý tín hiệu đồng ý
+của Chủ toạ. Khi trạng thái người sử dụng của điểm cầu đang từ Guest
+(khách – ngồi nghe), sang Presenter (người phát biểu), thì kỹ thuật điểm
+cầu cần bật micro và video của điểm cầu (nếu cần) để đại biểu phát biểu.
+
+Chú ý (quan
+trọng):
+Trong quá trình tham gia họp, nếu ngừng phát biểu đề nghị điểm cầu phải tắt
+ngay micro (nếu nhiều micro cùng bật một thời điểm, sẽ gây hiện tượng rú rít do
+hiệu ứng vọng (echo) của micro gây ra).
+
+BAN TỔ CHỨC
+
+ 
+
+PHỤ
+LỤC 2
+
+HƯỚNG DẪN KẾT NỐI VÀ TINH CHỈNH ÂM THANH –
+HÌNH ẢNH
+
+(Kèm
+theo Thông báo 02 số 1710/TB-BGDĐT ngày 13/12/2013)
+
+- Các dây dẫn với đầu kết nối chuẩn 3.5 ly
+cho âm thanh hay composite cho hình ảnh và cả âm thanh
+
+- Mic cho máy tính hay các loại Mic khác kết
+nối với máy tính hay âm ly hội trường.
+
+- Bộ ổn áp ổn định điện (bộ lưu điện) cho
+cuộc họp ( bắt buộc các điểm cầu đều phải có); ổn định cho máy tính và cho
+modem mạng.
+
+- Phải có các quy định
+hay quy ước phòng họp và thực hiện một cách nghiêm khắc
+
+I. Điều khiển âm
+thanh và khi có nhiều kết nối;
+
+1.Chỉ nên có từ 1-2 người có quyền host1-6
+
+2. Chỉ nên có từ 2-3 người có quyền
+Presenters
+
+3. Thay đổi qua lại theo nội dung và kịch bản
+họp ( tức là khi đến điểm cầu nào phát biểu thì ta mới thiết lập họ có quyền
+báo cáo trình chiếu: Prensenter, còn khi không đến lượt điểm cầu hay kết thúc
+điểm cầu đó thì ta phải thiết lập cho họ xuống quyền "khách":
+Participantvif quyền khách không có quyền gì cả chỉ được phép nghe và xem.
+
+4. Tại một thời điểm chỉ có 1 điểm cầu được
+phát biểu và bật mic, điểm cầu nào chưa được phát biểu
+hay đến lượt thì yêu cầu bắt buộc phát tắt mic, không được phép bật mic.
+
+5. Để độ to của loa vừa phải, độ bắt nhậy của
+mic cũng vừa phải.
+
+6. Nếu muốn để webcam
+hình ảnh thì chỉ nên để 2-4 hình, ít khi để nhiều hình, chất lượng không tốt và
+khó điều khiển
+
+II. Kết nối thực tại
+một điểm cầu:
+
+ 
+
+Một số hình ảnh các đầu dây cắm cho hình ảnh
+và âm thanh:
+
+Cách thức kết nối EVI – D70 và Aver EZ
+Capture-PCI hoặc EasyCAP(cắm qua cổng USB)
+
+I. Kết nối phần cứng:
+
+1. Cắm Card Aver EZ Capture vào khe PCI trên
+mainboard của máy tính để bàn PC
+
+2. Khởi động máy tính và tiến hành cài đặt
+driver phần cứng cho card Aver Ez.
+
+3. Kết nối máy tính với máy quay EVI – D70
+thông qua Card Aver Ez bằng chuẩn dây Composite Cable vào cổng Video trên Card
+Aver và trên EVI – D70
+
+ 
+
+Tinh chỉnh phần mềm và lựa chọn định dạng
+hình cho EVI – D70
+
+@) Sau khi đã thực hiện việc cài đặt driver
+cho card Aver Ez và kết nối với EVI – D70 xong chúng ta tiếp tục tinh chỉnh độ
+phân giải và hệ cho EVI D70. Để có thể làm được chúng ta chạy chương trình “
+Windows Movie Maker” ( Đây là một phần mềm ứng dụng cho gia đình được đính kèm
+trong hệ điều hành Windows XP. Chúng ta có thể tìm theo đường dẫn sau: kích vào
+Start/All Program/Windows Movie Maker hoặc “ Start/All
+Program/Accessories/Windows Movie Maker).
+
+Tiếp đến chúng ta bật chương trình Windows
+Movie Maker lên--- THÔNG TIN THÊM ---
+Ten: Thông báo 1710/TB-BGDĐT tổ chức lớp tập huấn cán bộ làm công tác văn hóa cho sở giáo dục và đào tạo, trường Dự bị đại học, trường Phổ thông dân tộc nội trú năm 2013 do Bộ Giáo dục và Đào tạo ban hành
+So hieu: 1710/TB-BGDĐT
+Loai van ban: Thông báo
+Linh vuc nganh: Lao động - Tiền lương, Giáo dục, Văn hóa - Xã hội
+Noi ban hanh: Bộ Giáo dục và Đào tạo
+Nguoi ky: Bùi Văn Linh
+Ngay ban hanh: 13/12/2013
+Ngay hieu luc: 13/12/2013
+Ngay dang: Dữ liệu đang cập nhật
+So cong bao: Dữ liệu đang cập nhật
+Tinh trang: Không xác định
+
+
+--- MỤC LỤC ---
+- THÔNG BÁO SỐ 02 TỔ CHỨC LỚP TẬP HUẤN CÁN BỘ LÀM CÔNG TÁC VĂN HÓA CHO CÁC SỞ GIÁO DỤC VÀ ĐÀO TẠO, CÁC TRƯỜNG DỰ BỊ ĐẠI HỌC, CÁC TRƯỜNG PHỔ THÔNG DÂN TỘC NỘI TRÚ NĂM 2013
+  - PHỤ LỤC 1 HƯỚNG DẪN SỬ DỤNG HỆ THỐNG HỌP TRỰC TUYẾN CỦA BỘ GIÁO DỤC VÀ ĐÀO TẠO
+    - 1. Chuẩn bị thiết bị, đường truyền
+    - 2. Đăng nhập và sử dụng phòng họp ảo
+    - 3. Sử dụng một số tình huống trong cuộc họp
+    - 4. Cách bật/tắt micro:
+    - 5. Chia sẻ một số tài nguyên từ máy tính lên phòng họp:
+    - 6. Cách tham gia phát biểu tại cuộc họp (quan trọng):
+  - PHỤ LỤC 2 HƯỚNG DẪN KẾT NỐI VÀ TINH CHỈNH ÂM THANH – HÌNH ẢNH
+    - I. Điều khiển âm thanh và khi có nhiều kết nối;
+    - II. Kết nối thực tại một điểm cầu:
+
+--- VĂN BẢN LIÊN QUAN ---
+
+Van ban lien quan cung noi dung:
+  - Hướng dẫn 173-HD/BTGTW về công tác văn hóa, văn nghệ năm 2021 do Ban Tuyên giáo Trung ương ban hành (ID: 471241)
+  - Công văn 3386/LĐTBXH-TCCB năm 2016 triệu tập lớp tập huấn "Kỹ năng mềm trong giải quyết các nhiệm vụ chuyên môn" do Bộ Lao động - Thương binh và Xã hội ban hành (ID: 321552)
+  - Công văn 8424/BGDĐT-VP năm 2013 tập huấn cán bộ cốt cán về giáo dục tài nguyên và môi trường biển, hải đảo trong trung tâm học tập cộng đồng do Bộ Giáo dục và Đào tạo ban hành (ID: 214497)
+  - Quyết định 4051/QĐ-BVHTTDL năm 2013 thành lập Ban Tổ chức Hội nghị tập huấn công tác tổ chức cán bộ do Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch ban hành (ID: 215580)
+  - Công văn 1996/BGDĐT-VP tổ chức tập huấn năm 2013 do Bộ Giáo dục và Đào tạo ban hành (ID: 224270)
+  - Kế hoạch 1361/KH-BGDĐT về tập huấn cán bộ quản lý, báo cáo viên cốt cán thực hiện Thông tư 08/2012/TT-BGDĐT quy định chuẩn nghiệp vụ sư phạm giáo viên trung cấp chuyên nghiệp do Bộ Giáo dục và Đào tạo ban hành (ID: 162351)
+  - Công văn 7007/BGDĐT-VP về tập huấn kỹ năng xây dựng, phát triển chương trình đáp ứng yêu cầu người học cho cán bộ quản lý trung tâm giáo dục thường xuyên do Bộ Giáo dục và Đào tạo ban hành (ID: 150051)
+  - Công văn 6630/BGDĐT-VP về tập huấn giáo viên cốt cán về Giáo dục ứng phó với biến đổi khí hậu trong trung tâm giáo dục thường xuyên và trung tâm học tập cộng đồng do Bộ Giáo dục và Đào tạo ban hành (ID: 149136)

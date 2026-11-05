@@ -1,0 +1,694 @@
+ỦY
+ BAN NHÂN DÂN
+
+ THÀNH PHỐ HỒ CHÍ MINH
+
+SỞ LAO ĐỘNG THƯƠNG BINH VÀ XÃ HỘI
+
+ -------
+
+CỘNG
+ HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+ Độc lập - Tự do - Hạnh phúc 
+
+ ---------------
+
+Số:
+ 14810/KH-SLĐTBXH
+
+Thành
+ phố Hồ Chí Minh, ngày 22 tháng 4 năm 2022
+
+ 
+
+KẾ HOẠCH
+
+TRIỂN KHAI THỰC HIỆN ĐỀ ÁN PHÁT TRIỂN ỨNG DỤNG DỮ LIỆU VỀ DÂN CƯ, ĐỊNH
+DANH VÀ XÁC THỰC ĐIỆN TỬ PHỤC VỤ CHUYỂN ĐỔI SỐ QUỐC GIA TẠI SỞ LAO ĐỘNG -
+THƯƠNG BINH VÀ XÃ HỘI GIAI ĐOẠN 2022-2025, TẦM NHÌN ĐẾN NĂM 2030
+
+Thực hiện Kế hoạch số 922/KH-UBND
+ngày 28/03/2022 của Ủy ban nhân dân Thành phố v/v Triển khai thực hiện Đề án
+phát triển ứng dụng dữ liệu về dân cư, định danh và xác thực điện tử phục vụ
+chuyển đổi số quốc gia giai đoạn 2022-2025, tầm nhìn đến năm 2030 trên địa bàn
+Thành phố Hồ Chí Minh, Sở Lao động - Thương binh và Xã hội Thành phố ban hành kế
+hoạch triển khai thực hiện như sau:
+
+I. MỤC ĐÍCH YÊU CẦU
+
+1. Mục đích
+
+- Quán triệt đầy đủ, sâu sắc và triển
+khai nghiêm túc các nội dung Đề án 06 đến toàn thể cán bộ, công chức, viên chức
+và người lao động thuộc phạm vi quản lý của đơn vị, nhằm nâng cao nhận thức về
+sự cần thiết phát triển ứng dụng dữ liệu về dân cư, định danh và xác thực điện
+tử phục vụ chuyển đổi số quốc gia giai đoạn 2022 - 2025, tầm nhìn đến năm 2030.
+
+- Đẩy mạnh triển khai các giải pháp đảm
+bảo kết nối, sử dụng Cơ sở dữ liệu quốc gia về dân cư với các Cơ sở dữ liệu
+chuyên ngành phục vụ giải quyết thủ tục hành chính và cung cấp dịch vụ công trực
+tuyến; phục vụ phát triển kinh tế xã hội; phục vụ công dân số; hoàn thiện hệ
+sinh thái phục vụ kết nối, khai thác, bổ sung làm giàu dữ liệu dân cư; phục vụ
+chỉ đạo, điều hành của lãnh đạo các cấp.
+
+2. Yêu cầu
+
+- Nhận thức đúng vai trò quyết định
+trong chuyển đổi số. Sự vào cuộc của cả hệ thống chính trị, đặc biệt là người đứng
+đầu cơ quan, đơn vị; hành động đồng bộ ở các sở, ngành, địa phương và sự tham
+gia của tổ chức, doanh nghiệp và người dân là yếu tố bảo đảm sự thành công của
+chuyển đổi số.
+
+- Xác định rõ trách nhiệm và phân
+công nhiệm vụ cụ thể, xuyên suốt đối với các phòng ban, đơn vị có liên quan
+trong quá trình triển khai thực hiện, đảm bảo sự thống nhất và phối hợp chặt chẽ
+trong chỉ đạo, điều hành.
+
+- Việc phát triển ứng dụng dữ liệu về
+dân cư, định danh và xác thực điện tử phục vụ chuyển đổi số quốc gia phải đảm bảo
+hiệu quả, an ninh, an toàn và bảo mật thông tin công dân, tuân thủ các quy định
+của pháp luật, quy trình nghiệp vụ; không để xảy ra thất thoát, lãng phí trong
+quá trình thực hiện.
+
+II. CÁC NHIỆM VỤ CỤ
+THỂ VÀ PHÂN CÔNG TRÁCH NHIỆM
+
+1. Tham gia ý kiến
+vào dự thảo các văn bản hoàn thiện chính sách, pháp luật về phát triển, cung cấp
+ứng dụng, dịch vụ số liên quan đến thông tin dân cư
+
+Nghiên cứu, rà soát, đề xuất sửa đổi,
+bổ sung các quy định của pháp luật để sử dụng Cơ sở dữ liệu quốc gia về dân cư
+phục vụ thực hiện các thủ tục hành chính trên môi trường điện tử và phát triển
+kinh tế, xã hội.
+
+Đơn vị thực hiện: Thủ trưởng các
+phòng ban, đơn vị thuộc Sở căn cứ chức năng, nhiệm vụ chủ trì, phối hợp với các
+đơn vị liên quan thực hiện theo yêu cầu của các Bộ, ngành.
+
+Thời gian hoàn thành: Theo yêu cầu của
+cơ quan chủ trì soạn thảo.
+
+2. Phục vụ giải
+quyết thủ tục hành chính, cung cấp dịch vụ công trực tuyến
+
+2.1 Phối
+hợp thực hiện tích hợp, kết nối và chia sẻ dữ liệu dân cư giữa Cơ sở dữ liệu quốc
+gia về dân cư với hệ thống thông tin giải quyết thủ tục hành chính Thành phố
+thông qua nền tảng tích hợp, chia sẻ dữ liệu Thành phố (LGSP) phục
+vụ xác thực, chia sẻ thông tin công dân khi thực hiện thủ tục hành chính theo
+nguyên tắc không yêu cầu khai báo lại các thông tin đã có trong Cơ sở dữ liệu
+quốc gia về dân cư.
+
+Đơn vị chủ trì: Chánh Văn phòng Sở.
+
+Đơn vị phối hợp: các phòng ban, đơn vị
+liên quan, Văn phòng Ủy ban nhân dân Thành phố, Công an Thành phố, Sở Thông tin
+và Truyền thông.
+
+Thời gian hoàn thành: Theo chỉ đạo của
+các Bộ, ngành Trung ương.
+
+2.2 Phối
+hợp hoàn thành triển khai các dịch vụ công thiết yếu (tại Phụ lục I kèm theo
+Quyết định số 06) bảo đảm thực hiện chuẩn hóa, tái cấu trúc quy trình, cắt giảm,
+đơn giản hóa thủ tục hành chính sử dụng xác thực, chia sẻ dữ liệu từ Cơ sở dữ liệu
+quốc gia về dân cư.
+
+Đơn vị chủ trì: Trưởng phòng Việc làm
+- An toàn lao động.
+
+Đơn vị phối hợp: các phòng ban, đơn vị
+liên quan, Văn phòng Ủy ban nhân dân Thành phố, Công an Thành phố, Sở Thông tin
+và Truyền thông.
+
+Thời gian hoàn thành: Trong năm 2022 (sau
+khi Bộ Lao động - Thương binh và Xã hội hướng dẫn cách thức triển khai).
+
+2.3 Tiếp
+tục thực hiện, đề xuất đổi mới cơ chế một cửa, một cửa liên thông trong giải
+quyết thủ tục hành chính và số hóa hồ sơ, kết quả giải quyết thủ tục hành chính
+trong tiếp nhận, giải quyết thủ tục hành chính theo đúng quy định tại Quyết định
+số 468/QĐ-TTg ngày 27 tháng 3 năm 2021 và Nghị định số 107/2021/NĐ-CP ngày 06
+tháng 12 năm 2021 của Thủ tướng Chính phủ.
+
+Đơn vị chủ trì: Chánh Văn phòng Sở.
+
+Đơn vị phối hợp: các phòng ban, đơn vị
+liên quan.
+
+Thời gian hoàn thành: Trong năm 2022.
+
+2.4 Thực
+hiện số hóa, tái sử dụng kết quả số hóa hồ sơ, kết quả giải quyết thủ tục hành
+chính có liên quan đến thông tin, giấy tờ cá nhân trong tiếp nhận, giải quyết
+thủ tục hành chính để làm giàu, cập nhật, bổ sung, kết nối, chia sẻ và sử dụng
+có hiệu quả Cơ sở dữ liệu quốc gia về dân cư phục vụ giải quyết thủ tục hành
+chính.
+
+Đơn vị chủ trì: Chánh Văn phòng Sở.
+
+Đơn vị phối hợp: các phòng ban, đơn vị
+liên quan, Sở Thông tin và Truyền Thông.
+
+Thời gian thực hiện: Tại bộ phận một
+cửa Sở Lao động - Thương binh và Xã hội Thành phố từ ngày 01 tháng 6 năm 2022.
+
+2.5 Phối
+hợp triển khai theo dõi, giám sát, đánh giá các chỉ tiêu kết nối, tích hợp,
+chia sẻ dữ liệu dân cư từ Cơ sở dữ liệu quốc gia về dân cư phục vụ xác thực, định
+danh và giải quyết thủ tục hành chính, cung cấp dịch vụ công trực tuyến trên hệ
+thống đánh giá việc giải quyết thủ tục hành chính của Cổng Dịch vụ công quốc
+gia.
+
+Đơn vị chủ trì: Chánh Văn phòng Sở.
+
+Đơn vị phối hợp: các phòng ban, đơn vị
+liên quan, Văn phòng Ủy ban nhân dân Thành phố, Công an Thành phố, Sở Thông tin
+và Truyền thông.
+
+Thời gian hoàn thành: Trong tháng 6
+năm 2022.
+
+2.6 Triển
+khai hiệu quả ứng dụng di động công dân số từ VNEID trên cơ sở mở rộng tích hợp
+các thông tin, dịch vụ nhu y tế, bảo hiểm xã hội, giấy phép lái xe, hoạt động
+ngân hàng, ứng cứu khẩn cấp, phản ánh hiện trường, tố giác tội phạm...
+
+Đơn vị chủ trì: Chánh Văn phòng Sở.
+
+Đơn vị phối hợp: các phòng ban, đơn vị
+liên quan, Công an Thành phố thực hiện theo chỉ đạo, hướng dẫn của Bộ Công an.
+
+Thời gian thực hiện: thường xuyên.
+
+2.7 Rà
+soát, tái cấu trúc quy trình cắt giảm, đơn giản hóa thủ tục hành chính và tổ chức
+thực hiện tích hợp, kết nối và chia sẻ dữ liệu dân cư giữa Cơ sở dữ liệu quốc
+gia về dân cư với hệ thống thông tin giải quyết thủ tục hành chính cấp tỉnh phục
+vụ xác thực, chia sẻ thông tin công dân khi thực hiện thủ tục hành chính theo
+nguyên tắc không yêu cầu khai báo lại các thông tin đã có trong Cơ sở dữ liệu
+quốc gia về dân cư.
+
+Đơn vị chủ trì: Chánh Văn phòng Sở.
+
+Đơn vị phối hợp: các phòng ban, đơn vị
+liên quan, Sở Thông tin và Truyền thông, Công an Thành phố, Văn phòng Ủy ban
+nhân dân Thành phố, thực hiện theo chỉ đạo, hướng dẫn của Bộ, ngành Trung ương.
+
+Thời gian hoàn thành: Trong năm 2022.
+
+3. Hoàn thiện hệ
+sinh thái phục vụ kết nối, khai thác, bổ sung làm giàu dữ liệu dân cư
+
+3.1 Phối
+hợp thực hiện việc kết nối, chia sẻ giữa Cơ sở dữ liệu quốc gia về dân cư với
+cơ sở dữ liệu an sinh xã hội theo Quyết định số 1911/QĐ-TTg ngày 15 tháng 11
+năm 2021 của Thủ tướng Chính phủ.
+
+Đơn vị chủ trì: Trưởng phòng Bảo trợ
+xã hội.
+
+Đơn vị phối hợp: các phòng ban, đơn vị
+liên quan, Công an Thành phố.
+
+Thời gian hoàn thành: theo tiến độ và
+đề nghị của Công an Thành phố.
+
+3.2. Dữ
+liệu dân cư được tạo lập thành các bộ dữ liệu khác nhau, cho phép triển khai
+các dịch vụ đổi mới, sáng tạo phục vụ phát triển kinh tế xã hội theo quy định của
+pháp luật.
+
+Đơn vị chủ trì: Chánh Văn phòng Sở.
+
+Đơn vị phối hợp: các phòng ban, đơn vị
+liên quan, Công an Thành phố thực hiện theo chỉ đạo, hướng dẫn của các Bộ,
+ngành Trung ương.
+
+Thời gian thực hiện: thực hiện thường
+xuyên.
+
+4. Phục vụ công
+tác chỉ đạo, điều hành
+
+Phối hợp thực hiện nhiệm vụ thống kê,
+phân tích dân số, đảm bảo nhanh chóng, chính xác, tiết kiệm chi phí nhà nước;
+khai thác thông tin tổng hợp, phân tích từ IOC của Trung tâm Dữ liệu quốc gia về
+dân cư, phục vụ hoạch định chính sách phát triển kinh tế, xã hội, quốc phòng,
+an ninh và các chính sách khác.
+
+Đơn vị chủ trì: Chánh Văn phòng Sở.
+
+Đơn vị phối hợp: các phòng ban, đơn vị
+liên quan, Công an Thành phố, Văn phòng Ủy ban nhân dân Thành phố, Cục Thống kê
+Thành phố.
+
+Thời gian thực hiện: Từ tháng 12 năm
+2022.
+
+III. TỔ CHỨC THỰC
+HIỆN
+
+1. Căn cứ
+vào Kế hoạch này, Thủ trưởng các phòng, ban, đơn vị thuộc Sở khẩn trương triển
+khai thực hiện, có quy định từng mục tiêu, nhiệm vụ, thời gian và phân công cụ
+thể người phụ trách, người theo dõi giám sát, người thực hiện; hàng tháng, quý
+có kiểm tra, đánh giá tình hình và báo cáo kết quả thực hiện định kỳ trước
+ngày 10 hàng tháng theo chức năng, nhiệm vụ được giao về Văn phòng Sở để tổng
+hợp, báo cáo theo quy định.
+
+Trong quá trình thực hiện Kế hoạch,
+yêu cầu Thủ trưởng các phòng, ban, đơn vị chú ý tăng cường tính minh bạch,
+trách nhiệm hoạt động công vụ; kiểm tra, giám sát đánh giá quá trình thực hiện
+và khen thưởng, kỷ luật kịp thời, nghiêm minh. Chủ động tham mưu, đề xuất chính
+sách phù hợp, kiến nghị, đề xuất những giải pháp kịp thời, hiệu quả. Nâng cao
+vai trò gương mẫu, trách nhiệm của người đứng đầu trong công tác lãnh đạo, điều
+hành thực hiện nhiệm vụ của đơn vị được giao.
+
+2. Giao
+Phòng Kế hoạch - Tài chính chủ trì, hướng dẫn các đơn vị lập và đề xuất bổ sung
+kinh phí thực hiện theo quy định, trình Giám đốc Sở xem xét, gửi các cấp có thẩm
+quyền quyết định.
+
+3. Giao
+Văn phòng Sở tham mưu thành lập Tổ công tác triển khai thực hiện Kế hoạch do đồng
+chí Phó Giám đốc Sở phụ trách làm Tổ trưởng. Tổ công tác có trách nhiệm chỉ đạo,
+đôn đốc, hướng dẫn các phòng chuyên môn, đơn vị trực thuộc Sở chủ động phối hợp
+với các đơn vị có liên quan tổ chức triển khai các nhiệm vụ của Kế hoạch; Theo
+dõi, tổng hợp báo cáo tình hình thực hiện nội dung Kế hoạch hàng tháng, quý,
+tham mưu trình Giám đốc Sở; báo cáo Ban Chỉ đạo thực hiện Đề án 06 của Thành phố
+(thông qua Công an Thành phố) định kỳ ngày 15 hàng tháng theo quy định./.
+
+ 
+
+ Nơi nhận:
+
+- Ủy ban nhân dân thành
+ phố (để b/c);
+
+ - Sở Thông tin và Truyền thông; (để phối hợp)
+
+ - Văn phòng Ủy ban nhân dân thành phố; (để phối hợp)
+
+ - Công an thành phố; (để phối hợp)
+
+ - Sở Kế hoạch và Đầu tư; (để phối hợp)
+
+ - Sở Tài chính; (để phối hợp)
+
+ - Thường trực Đảng ủy;
+
+ - Gám đốc, các Phó Gám đốc Sở;
+
+ - Các phòng, ban, đơn vị thuộc Sở;
+
+ - Phòng LĐTBXH quận-huyện và TP. Thủ Đức;
+
+ - Lưu: VT-VP.
+
+GIÁM
+ ĐỐC
+
+ Lê Minh Tấn
+
+ 
+
+PHỤ LỤC
+
+DANH MỤC NHIỆM VỤ TRỌNG TÂM
+
+(Ban hành kèm theo Kế hoạch số 14810/KH-SLĐTBXH
+ngày 22 tháng 4 năm 2022 của Sở Lao động - Thương binh và Xã hội)
+
+TT
+
+Nội
+ dung
+
+Ban
+ Giám đốc chỉ đạo
+
+Đơn
+ vị chủ trì
+
+Đơn
+ vị phối hợp
+
+Đơn
+ vị giám sát
+
+Thời
+ gian thực hiện
+
+Thời
+ gian hoàn thành
+
+I
+
+Tham gia ý kiến vào dự thảo các
+ văn bản hoàn thiện chính sách, pháp luật về phát triển, cung cấp ứng dụng, dịch
+ vụ số liên quan đến thông tin dân cư
+
+1
+
+Nghiên cứu, rà soát, đề xuất sửa đổi,
+ bổ sung các quy định của pháp luật để sử dụng Cơ sở dữ liệu quốc gia về dân
+ cư phục vụ thực hiện các thủ tục hành chính trên môi trường điện tử và phát
+ triển kinh tế, xã hội
+
+Đ/c
+ Lê Minh Tấn-Giám đốc
+
+Thủ
+ trưởng các phòng ban, đơn vị thuộc Sở căn cứ chức năng, nhiệm vụ được giao
+
+các
+ đơn vị liên quan thực hiện theo yêu cầu của các Bộ, ngành.
+
+Văn
+ phòng Sở
+
+Theo
+ yêu cầu của cơ quan chủ trì soạn thảo
+
+Theo
+ yêu cầu của cơ quan chủ trì soạn thảo
+
+II
+
+Phục vụ giải quyết thủ tục hành
+ chính, cung cấp dịch vụ công trực tuyến
+
+1
+
+Phối hợp thực hiện tích hợp, kết nối
+ và chia sẻ dữ liệu dân cư giữa Cơ sở dữ liệu quốc gia về dân cư với hệ thống
+ thông tin giải quyết thủ tục hành chính Thành phố thông qua nền tảng tích hợp,
+ chia sẻ dữ liệu Thành phố (LGSP) phục vụ xác thực, chia sẻ thông tin công dân
+ khi thực hiện thủ tục hành chính theo nguyên tắc không yêu cầu khai báo lại
+ các thông tin đã có trong Cơ sở dữ liệu quốc gia về dân cư.
+
+Đ/c
+ Lê Minh Tấn-Giám đốc
+
+Chánh
+ Văn phòng Sở
+
+các
+ phòng ban, đơn vị liên quan, Văn phòng Ủy ban nhân dân Thành phố, Công an
+ Thành phố, Sở Thông tin và Truyền thông
+
+Văn
+ phòng Sở
+
+Tháng
+ 4/2022
+
+Theo
+ chỉ đạo của các Bộ, ngành Trung ương
+
+2
+
+Phối hợp hoàn thành triển khai các
+ dịch vụ công thiết yếu (tại Phụ lục I kèm theo Quyết định số 06) bảo đảm thực
+ hiện chuẩn hóa, tái cấu trúc quy trình, cắt giảm, đơn giản hóa thủ tục hành
+ chính sử dụng xác thực, chia sẻ dữ liệu từ Cơ sở dữ liệu quốc gia về dân cư.
+
+Đ/c
+ Nguyễn Văn Lâm- Phó Giám đốc
+
+Trưởng
+ phòng Việc làm - An toàn Lao động
+
+Các
+ phòng ban, đơn vị liên quan, Văn phòng Ủy ban nhân dân Thành phố, Công an
+ Thành phố, Sở Thông tin và Truyền thông
+
+Văn
+ phòng Sở
+
+Tháng
+ 4/2022
+
+Tháng
+ 12/2022
+
+3
+
+Tiếp tục thực hiện, đề xuất đổi mới
+ cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính và số hóa
+ hồ sơ, kết quả giải quyết thủ tục hành chính trong tiếp nhận, giải quyết thủ
+ tục hành chính theo đúng quy định tại Quyết định số 468/QĐ-TTg ngày 27 tháng
+ 3 năm 2021 và Nghị định số 107/2021/NĐ-CP ngày 06 tháng 12 năm 2021 của Thủ
+ tướng Chính phủ.
+
+Đ/c
+ Lê Minh Tấn-Giám đốc
+
+Chánh
+ Văn phòng Sở
+
+Các
+ phòng ban, đơn vị liên quan
+
+Văn
+ phòng Sở
+
+Tháng
+ 4/2022
+
+Tháng
+ 12/2022
+
+4
+
+Thực hiện số hóa, tái sử dụng kết
+ quả số hóa hồ sơ, kết quả giải quyết thủ tục hành chính có liên quan đến
+ thông tin, giấy tờ cá nhân trong tiếp nhận, giải quyết thủ tục hành chính để
+ làm giàu, cập nhật, bổ sung, kết nối, chia sẻ và sử dụng có hiệu quả Cơ sở dữ
+ liệu quốc gia về dân cư phục vụ giải quyết thủ tục hành chính.
+
+Đ/c
+ Lê Minh Tấn-Giám đốc
+
+Chánh
+ Văn phòng Sở
+
+Các phòng
+ ban, đơn vị liên quan, Sở Thông tin và Truyền Thông.
+
+Văn
+ phòng Sở
+
+Tháng
+ 6/2022
+
+Tháng
+ 12/2022
+
+5
+
+Phối hợp triển khai theo dõi, giám
+ sát, đánh giá các chỉ tiêu kết nối, tích hợp, chia sẻ dữ liệu dân cư từ Cơ sở
+ dữ liệu quốc gia về dân cư phục vụ xác thực, định danh và giải quyết thủ tục
+ hành chính, cung cấp dịch vụ công trực tuyến trên hệ thống đánh giá việc giải
+ quyết thủ tục hành chính của Cổng Dịch vụ công quốc gia
+
+Đ/c
+ Lê Minh Tấn-Giám đốc
+
+Chánh
+ Văn phòng Sở
+
+các
+ phòng ban, đơn vị liên quan, Văn phòng Ủy ban nhân dân Thành phố, Công an
+ Thành phố, Sở Thông tin và Truyền thông
+
+Văn
+ phòng Sở
+
+Tháng
+ 6/2022
+
+Tháng
+ 12/2022
+
+6
+
+Triển khai hiệu quả ứng dụng di động
+ công dân số từ VNEID trên cơ sở mở rộng tích hợp các thông tin, dịch vụ như y
+ tế, bảo hiểm xã hội, giấy phép lái xe, hoạt động ngân hàng, ứng cứu khẩn cấp,
+ phản ánh hiện trường, tố giác tội phạm...
+
+Đ/c
+ Lê Minh Tấn-Giám đốc
+
+Chánh
+ Văn phòng Sở
+
+các
+ phòng ban, đơn vị liên quan, Công an Thành phố thực hiện theo chỉ đạo, hướng
+ dẫn của Bộ Công an.
+
+Văn
+ phòng Sở
+
+Tháng
+ 4/2022
+
+Tháng
+ 12/2022
+
+7
+
+Rà soát, tái cấu trúc quy trình cắt
+ giảm, đơn giản hóa thủ tục hành chính và tổ chức thực hiện tích hợp, kết nối
+ và chia sẻ dữ liệu dân cư giữa Cơ sở dữ liệu quốc gia về dân cư với hệ thống thông
+ tin giải quyết thủ tục hành chính cấp tỉnh phục vụ xác thực, chia sẻ thông
+ tin công dân khi thực hiện thủ tục hành chính theo nguyên tắc không yêu cầu
+ khai báo lại các thông tin đã có trong Cơ sở dữ liệu quốc gia về dân cư
+
+Đ/c
+ Lê Minh Tấn-Giám đốc
+
+Chánh
+ Văn phòng Sở
+
+Các
+ phòng ban, đơn vị liên quan, Sở Thông tin và Truyền thông, Công an Thành phố,
+ Văn phòng Ủy ban nhân dân Thành phố, thực hiện theo chỉ đạo, hướng dẫn của Bộ,
+ ngành Trung ương
+
+Văn
+ phòng Sở
+
+Tháng
+ 4/2022
+
+Tháng
+ 12/2022
+
+III
+
+Hoàn thiện hệ sinh thái phục vụ
+ kết nối, khai thác, bổ sung làm giàu dữ liệu dân cư
+
+1
+
+Phối hợp thực hiện việc kết nối,
+ chia sẻ giữa Cơ sở dữ liệu quốc gia về dân cư với cơ sở dữ liệu an sinh xã hội
+ theo Quyết định số 1911/QĐ-TTg ngày 15 tháng 11 năm 2021 của Thủ tướng Chính
+ phủ.
+
+Đ/c
+ Nguyễn Văn Lâm- Phó Giám đốc
+
+Trưởng
+ phòng Bảo trợ xã hội
+
+các
+ phòng ban, đơn vị liên quan, Công an Thành phố.
+
+Văn
+ phòng Sở
+
+Tháng
+ 4/2022
+
+Tháng
+ 12/2022 (Theo tiến độ và đề nghị của Công an Thành phố)
+
+2
+
+Dữ liệu dân cư được tạo lập thành
+ các bộ dữ liệu khác nhau, cho phép triển khai các dịch vụ đổi mới, sáng tạo
+ phục vụ phát triển kinh tế xã hội theo quy định của pháp luật.
+
+Đ/c
+ Lê Minh Tấn-Giám đốc
+
+Chánh
+ Văn phòng Sở
+
+Các
+ phòng ban, đơn vị liên quan, Công an Thành phố thực hiện theo chỉ đạo, hướng
+ dẫn của các Bộ, ngành Trung ương
+
+Văn
+ phòng Sở
+
+Tháng
+ 4/2022
+
+Tháng
+ 12/2022
+
+IV
+
+Phục vụ công tác chỉ đạo, điều
+ hành
+
+1
+
+Phối hợp thực hiện nhiệm vụ thống
+ kê, phân tích dân số, đảm bảo nhanh chóng, chính xác, tiết kiệm chi phí nhà
+ nước; khai thác thông tin tổng hợp, phân tích từ IOC của Trung tâm Dữ liệu quốc
+ gia về dân cư, phục vụ hoạch định chính sách phát triển kinh tế, xã hội, quốc
+ phòng, an ninh và các chính sách khác.
+
+Đ/c
+ Lê Minh Tấn-Giám đốc
+
+Chánh
+ Văn phòng Sở
+
+các
+ phòng ban, đơn vị liên quan, Công an Thành phố, Văn phòng Ủy ban nhân dân
+ Thành phố, Cục Thống kê Thành phố.
+
+Văn
+ phòng Sở
+
+Tháng
+ 12/2022
+
+Tháng
+ 12/2022--- THÔNG TIN THÊM ---
+Ten: Kế hoạch 14810/KH-SLĐTBXH năm 2022 thực hiện Đề án phát triển ứng dụng dữ liệu về dân cư, định danh và xác thực điện tử phục vụ chuyển đổi số quốc gia tại Sở Lao động - Thương binh và Xã hội Thành phố Hồ Chí Minh giai đoạn 2022-2025, tầm nhìn đến năm 2030
+So hieu: 14810/KH-SLĐTBXH
+Loai van ban: Kế hoạch
+Linh vuc nganh: Lao động - Tiền lương, Công nghệ thông tin
+Noi ban hanh: Sở Lao động - Thương binh và Xã hội Thành phố Hồ Chí Minh
+Nguoi ky: Lê Minh Tấn
+Ngay ban hanh: 22/04/2022
+Ngay hieu luc: 22/04/2022
+Ngay dang: Dữ liệu đang cập nhật
+So cong bao: Dữ liệu đang cập nhật
+Tinh trang: Không xác định
+
+
+--- MỤC LỤC ---
+- KẾ HOẠCH TRIỂN KHAI THỰC HIỆN ĐỀ ÁN PHÁT TRIỂN ỨNG DỤNG DỮ LIỆU VỀ DÂN CƯ, ĐỊNH DANH VÀ XÁC THỰC ĐIỆN TỬ PHỤC VỤ CHUYỂN ĐỔI SỐ QUỐC GIA TẠI SỞ LAO ĐỘNG - THƯƠNG BINH VÀ XÃ HỘI GIAI ĐOẠN 2022-2025, TẦM NHÌN ĐẾN NĂM 2030
+  - I. MỤC ĐÍCH YÊU CẦU
+  - II. CÁC NHIỆM VỤ CỤ THỂ VÀ PHÂN CÔNG TRÁCH NHIỆM
+    - 1. Tham gia ý kiến vào dự thảo các văn bản hoàn thiện chính sách, pháp luật về phát triển, cung cấp ứng dụng, dịch vụ số liên quan đến thông tin dân cư
+    - 2. Phục vụ giải quyết thủ tục hành chính, cung cấp dịch vụ công trực tuyến
+    - 3. Hoàn thiện hệ sinh thái phục vụ kết nối, khai thác, bổ sung làm giàu dữ liệu dân cư
+    - 4. Phục vụ công tác chỉ đạo, điều hành
+  - III. TỔ CHỨC THỰC HIỆN
+  - PHỤ LỤC DANH MỤC NHIỆM VỤ TRỌNG TÂM
+
+--- VĂN BẢN LIÊN QUAN ---
+
+Van ban duoc dan chieu:
+  - Nghị định 107/2021/NĐ-CP sửa đổi Nghị định 61/2018/NĐ-CP về thực hiện cơ chế một cửa, một cửa liên thông ... (ID: 484769)
+  - Quyết định 1911/QĐ-TTg năm 2021 thực hiện kết nối, chia sẻ giữa Cơ sở dữ liệu quốc gia về dân cư với các cơ... (ID: 494509)
+  - Quyết định 468/QĐ-TTg năm 2021 phê duyệt Đề án đổi mới việc thực hiện cơ chế một cửa, một cửa liên thông ... (ID: 468978)
+
+Van ban lien quan cung noi dung:
+  - Chỉ thị 12/CT-UBND năm 2022 về đẩy mạnh thực hiện “Đề án phát triển ứng dụng Dữ liệu Quốc gia về Dân cư, định danh và xác thực điện tử phục vụ chuyển đổi số giai đoạn 2022-2025, tầm nhìn 2030” trên địa bàn tỉnh Điện Biên (ID: 540097)
+  - Kế hoạch 343/KH-UBND năm 2022 Đề án phát triển ứng dụng dữ liệu về dân cư, định danh và xác thực điện tử phục vụ chuyển đổi số quốc gia giai đoạn 2022-2025, tầm nhìn đến năm 2030 do tỉnh Lào Cai ban hành (ID: 535024)
+  - Chỉ thị 10/CT-UBND năm 2022 về tăng cường lãnh đạo, đẩy mạnh thực hiện “Đề án phát triển ứng dụng dữ liệu về dân cư, định danh và xác thực điện tử, phục vụ chuyển đổi số quốc gia giai đoạn 2022-2025, tầm nhìn đến năm 2030” trên địa bàn tỉnh Bà Rịa - Vũng Tàu (ID: 540364)
+  - Kế hoạch 5472/KH-SLĐTBXH về chỉ đạo, điều hành trên lĩnh vực Lao động, Người có công và Xã hội và Chương trình chuyển đổi số phục vụ nhiệm vụ phát triển Ngành năm 2022 do Sở Lao động - Thương binh và Xã hội Thành phố Hồ Chí Minh ban hành (ID: 545147)

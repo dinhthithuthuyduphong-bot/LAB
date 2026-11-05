@@ -1,0 +1,3932 @@
+TỔNG
+ LIÊN ĐOÀN LAO ĐỘNG
+
+VIỆT NAM 
+
+LIÊN ĐOÀN LAO ĐỘNG 
+
+THÀNH PHỐ HÀ NỘI
+
+ -------
+
+CỘNG
+ HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+ Độc lập - Tự do - Hạnh phúc 
+
+ ---------------
+
+Số: 44/KH-LĐLĐ
+
+Hà
+ Nội, ngày 03 tháng 8 năm 2022
+
+ 
+
+KẾ HOẠCH
+
+TRIỂN KHAI THỰC HIỆN DỰ ÁN “CẬP NHẬT CƠ SỞ DỮ LIỆU ĐOÀN VIÊN CÔNG ĐOÀN
+TRÊN PHẦN MỀM QUẢN LÝ ĐOÀN VIÊN VÀ IN, ĐỔI THẺ CÔNG ĐOÀN CỦA LIÊN ĐOÀN LAO ĐỘNG
+THÀNH PHỐ HÀ NỘI”
+
+- Thực hiện Kế hoạch số 56/KH-TLĐ,
+ngày 21/12/2016 của Đoàn Chủ tịch Tổng LĐLĐ Việt Nam về việc đổi thẻ đoàn viên
+Công đoàn; Công văn số 270/TLĐ, ngày 01/03/2019 của Đoàn Chủ tịch Tổng LĐLĐ Việt
+Nam về việc triển khai phần mềm quản lý đoàn viên và đổi thẻ đoàn viên Công
+đoàn;
+
+- Căn cứ các Quyết định của Tổng LĐLĐ
+Việt Nam: Quyết định số 3764/QĐ-TLĐ ngày 17/12/2021 về việc phê duyệt chủ
+trương đầu tư; Quyết định số 4025/QĐ-TLĐ ngày 12/01/2022 về việc phê duyệt báo
+cáo kinh tế kỹ thuật; Quyết định số 4104/QĐ-TLĐ ngày 19/01/2022 về việc phê duyệt
+kế hoạch lựa chọn nhà thầu Dự án: “Cập nhật cơ sở dữ liệu đoàn viên Công đoàn
+trên phần mềm quản lý đoàn viên và in, đổi thẻ Công đoàn của LĐLĐ thành phố Hà
+Nội”;
+
+- Căn cứ Hợp đồng số
+87/2022/HĐKT/LĐLĐHN-TCX ngày 14/7/2022, gói thầu số 3: chi phí nhập dữ liệu và
+cung cấp, lắp đặt thiết bị” thuộc dự án “Cập nhật cơ sở dữ liệu đoàn viên Công
+đoàn trên phần mềm quản lý đoàn viên và in, đổi thẻ Công đoàn của LĐLĐ thành phố
+Hà Nội”;
+
+Ban Thường vụ LĐLĐ thành phố Hà Nội
+xây dựng Kế hoạch triển khai thực hiện dự án “Cập nhật cơ sở dữ liệu đoàn viên
+Công đoàn trên phần mềm quản lý đoàn viên và in, đổi thẻ Công đoàn của LĐLĐ
+thành phố Hà Nội”, cụ thể như sau:
+
+I. MỤC ĐÍCH, YÊU CẦU
+
+- Triển khai thực hiện Dự án theo
+đúng tiến độ đã được Tổng LĐLĐ Việt Nam phê duyệt, nhằm hỗ trợ CĐCS và các LĐLĐ
+quận, huyện, thị xã, Công đoàn ngành, Công đoàn Tổng Công ty và Công đoàn cấp
+trên trực tiếp cơ sở và CĐCS trực thuộc thực hiện cập nhật, bổ sung dữ liệu
+đoàn viên Công đoàn lên phần mềm quản lý đoàn viên của Tổng LĐLĐ Việt Nam, phấn
+đấu hoàn thành việc cập nhật dữ liệu đoàn viên, đổi thẻ đoàn viên, cấp thẻ đoàn
+viên trong năm 2022.
+
+- Góp phần đẩy mạnh việc ứng dụng
+công nghệ thông tin, thống nhất cách quản lý đoàn viên trong hệ thống Công đoàn
+thành phố cũng như cả nước; hỗ trợ công tác quản lý đoàn viên, quản lý CĐCS,
+nâng cao chất lượng hoạt động Công đoàn trên địa bàn thành phố Hà Nội.
+
+- Quá trình thực hiện phải đảm bảo
+các quy định của Tổng LĐLĐ Việt Nam về cập nhật, quản lý, khai thác cơ sở dữ liệu
+đoàn viên Công đoàn.
+
+II. NỘI DUNG KẾ HOẠCH
+
+1. Giải pháp thu
+thập dữ liệu
+
+1.1. Thực trạng nguồn dữ liệu[1]
+
+- Tổng số đoàn
+ viên Công đoàn là:
+
+633.810
+
+ 
+
+- Số lượng đoàn viên Công đoàn đã
+ nhập là:
+
+55.945
+
+(8,83%)
+
+- Số lượng đoàn viên Công đoàn cần
+ cập nhật:
+
+577.865
+
+(91,17%)
+
+- Số lượng Công đoàn cấp trên cơ sở:
+
+45
+
+ 
+
+- Tổng số Công đoàn cơ sở:
+
+9453
+
+ 
+
+- Số Công đoàn cơ sở đã mở tài khoản:
+
+9050
+
+(95,74%)
+
+- Dữ liệu khó thu thập do một số
+nguyên nhân gồm đặc thù các Công đoàn cơ sở có thể có số lượng đoàn viên lớn, các
+hoạt động sản xuất tận dụng thời gian khôi phục sau dịch, khả năng, điều kiện ứng
+dụng tin học của người lao động chưa đồng đều, nhân lực triển khai từ Công đoàn
+cấp trên cơ sở có hạn.
+
+1.2. Thông tin đoàn viên cần
+thu thập: (Mẫu 02)
+
+a) Phần thông tin đoàn viên
+
+(1) Ảnh của đoàn viên
+
+(2) Họ và tên khai sinh
+
+Ngày, tháng, năm sinh:
+
+ 
+
+(3) Nam: ……../……/……. 
+
+(4) Nữ: ………/……/……. 
+
+Nguyên quán:
+
+(5) Tỉnh, thành phố
+
+(6) Mã tỉnh, thành phố
+
+(7) Số CMND/CCCD:
+
+(8) Ngày được kết nạp vào Công đoàn:
+……../……../…………. 
+
+b) Phần thông tin cán bộ công đoàn
+
+(9) Cán bộ Công đoàn chuyên trách (hưởng
+lương từ ngân sách Công đoàn);
+
+(10) Cán bộ Công đoàn chuyên trách
+(hưởng lương ngoài ngân sách Công đoàn);
+
+(11) Cán bộ Công đoàn không chuyên
+trách:
+
+Chức vụ Công đoàn tại Công đoàn cơ sở:
+
+(12) Chủ tịch Công đoàn cơ sở.
+
+(13) Phó Chủ tịch Công đoàn cơ sở
+
+(14) Ủy viên Ban Chấp hành Công đoàn
+cơ sở
+
+(15) Tổ trưởng Công đoàn
+
+(16) Tổ phó Công đoàn
+
+(17) Cán bộ Công đoàn cơ sở thành
+viên, Công đoàn bộ phận
+
+(18) Ủy viên Ủy ban Kiểm tra Công đoàn
+cơ sở
+
+1.3. Phương án triển khai thu
+thập dữ liệu
+
+1.3.1. Về giải pháp:
+
+a) Giải pháp 1: Tạo file excel theo
+form mẫu gồm các trường thông tin như mục 1.2 đưa lên google;
+
+b) Giải pháp 2: Tạo dựng website (tương
+thích với máy tính, máy tính bảng, smartphone) nhập thông tin gồm các trường
+thông tin như mục 1.2.
+
+c) Giải pháp 3: Nếu đoàn viên, CĐCS
+không có máy tính, điện thoại, thiết bị kết nối internet, triển khai Phiếu thu
+thập thông tin
+
+1.3.2. Phương pháp triển khai: Nhà thầu phối hợp với các Công đoàn cấp trên trực tiếp cơ sở và Công
+đoàn cơ sở để triển khai thực hiện như sau:
+
+a) Đối với giải pháp 01: Sử dụng file
+Excel
+
++ Chuyển file excel tới các cán bộ chịu
+trách nhiệm thu thập thông tin của Công đoàn cấp trên trực tiếp cơ sở
+
++ Hướng dẫn Công đoàn cấp trên trực
+tiếp cơ sở nhân rộng tới từng Công đoàn cơ sở.
+
++ Hướng dẫn đưa file excel lên google
+chuyển xuống cán bộ phụ trách cập nhật thông tin đoàn viên của Công đoàn cơ sở (tách
+nhiều file đối với các cơ sở đông đoàn viên, 500/1 file)
+
++ File ảnh: Gửi kèm theo một folder
+nén gồm các ảnh đặt tên theo số CMND/CCCD của đoàn viên.
+
+b) Đối với giải pháp 02 (Ưu tiên):
+tạo website (sử dụng trên máy tính, máy tính bảng, smartphone):
+
++ Chuyển giao ứng dụng tới các cán bộ
+chịu trách nhiệm thu thập thông tin của Công đoàn cấp trên cơ sở
+
++ Hướng dẫn Công đoàn cấp trên trực
+tiếp cơ sở về cách thức sử dụng và nạp thông tin vào ứng dụng tương ứng với mỗi
+Công đoàn cơ sở.
+
++ Công đoàn cấp trên cơ sở triển khai
+việc hướng dẫn Công đoàn cơ sở nhập thông tin đoàn viên (bao gồm cả ảnh)
+
+c) Đối với giải pháp 3: Thu thập
+thông tin bằng Phiếu thu thập thông tin đoàn viên
+
++ Công đoàn cơ sở in mẫu Phiếu thu thập
+thông tin đoàn viên và gửi tới đoàn viên của đơn vị mình.
+
++ Đoàn viên điền thông tin và gửi lại
+cho cán bộ chịu trách nhiệm thu thập thông tin của Công đoàn cơ sở
+
++ Công đoàn cơ sở tổng hợp vào biểu
+(Mẫu 02) gửi lên Công đoàn cấp trên trực tiếp cơ sở để Nhà thầu nhập dữ liệu;
+Trường hợp không tổng hợp được thì gửi các phiếu thu thập thông tin lên Công
+đoàn cấp trên trực tiếp cơ sở để Nhà thầu nhập dữ liệu; sau khi nhập xong dữ liệu,
+nhà thầu gửi lại danh sách để Công đoàn cơ sở đối khớp, xác nhận dữ liệu của
+Công đoàn cơ sở.
+
++ File ảnh: upload lên website tự động
+đổi tên theo số CMND/CCCD đoàn viên.
+
+1.3.3. Các tình huống phối hợp
+
++ TH1: Nếu CĐCS đã có sẵn dữ liệu ở một
+dạng file excel không theo tiêu chuẩn, nhà thầu phối hợp để xử lý dữ liệu về định
+dạng tiêu chuẩn, CĐCS phối hợp bổ sung các dữ liệu còn thiếu
+
++ TH2: Nếu CĐCS, đoàn viên có kiến thức
+tốt về tin học văn phòng, có máy tính, máy tính bảng, smartphone kết nối
+internet có thể triển khai theo giải pháp 1 (Excel) hoặc giải pháp 02 (tạo
+website).
+
++ TH3: Nếu CĐCS không có máy tính kết
+nối internet có thể triển khai Phiếu thu thập thông tin để đoàn viên điền thông
+tin (Mẫu 01).
+
++ TH4: Nếu CĐCS có số lượng đoàn viên
+lớn, thiếu đồng bộ về thiết bị smart phone cá nhân, cần hướng dẫn CĐCS chia tổ,
+nhóm và giao người phụ trách tổ, nhóm (Có smartphone kết nối internet) cập nhật.
+
+2. Kế hoạch thu
+thập dữ liệu:
+ Chi
+tiết tại Biểu 01
+
+3. Kế hoạch cập
+nhật dữ liệu lên phần mềm:
+
+3.1. Thông tin phần mềm:
+
+Link: http://doanvien.congdoan.vn/
+
+3.2. Kế hoạch cập nhật dữ liệu
+lên phần mềm:
+ Chi
+tiết tại Biểu 02
+
+3.3. Danh sách tài khoản:
+ Chi
+tiết tại Biểu 03
+
+3.4. Danh sách mã tỉnh, thành
+phố:
+ Chi
+tiết tại Biểu 04
+
+III. TỔ CHỨC THỰC
+HIỆN
+
+1. Đối với LĐLĐ
+thành phố
+
+1.1. Ban Tổ chức
+
+- Giao Ban Tổ chức LĐLĐ thành phố Hà
+Nội là cơ quan Thường trực, tham mưu, theo dõi, chỉ đạo việc thực hiện Kế hoạch.
+
+- Thành lập tổ công tác để hướng dẫn,
+giúp đỡ, tháo gỡ những khó khăn vướng mắc cho Công đoàn cấp trên trực tiếp cơ sở
+trong quá trình thực hiện việc đổi thẻ và cập nhật dữ liệu đoàn viên.
+
+- Phân công cán bộ LĐLĐ thành phố Hà
+Nội chịu trách nhiệm thực hiện quản lý phần mềm được phân cấp với Tổng LĐLĐ Việt
+Nam.
+
+- Thực hiện việc phê duyệt các yêu cầu
+của Công đoàn cấp trên trực tiếp cơ sở trong thẩm quyền được Tổng LĐLĐ Việt Nam
+cấp phép.
+
+- Tổng hợp các kiến nghị, đề xuất, khó
+khăn, vướng mắc trong quá trình thực hiện báo cáo Thường trực LĐLĐ thành phố
+xem xét giải quyết vả báo cáo với Tổng LĐLĐ Việt Nam xin ý kiến chỉ đạo.
+
+1.2. Văn phòng:
+
+- Phối hợp với Ban Tổ chức, các ban
+LĐLĐ thành phố; các LĐLĐ quận, huyện, thị xã, Công đoàn ngành, Công đoàn Tổng
+Công ty, Công đoàn cấp trên trực tiếp cơ sở và CĐCS trực thuộc trong triển khai
+thực hiện Dự án “Cập nhật cơ sở dữ liệu đoàn viên Công đoàn trên phần mềm quản
+lý đoàn viên và in, đổi thẻ Công đoàn của LĐLĐ thành phố Hà Nội”.
+
+- Bố trí, tạo điều kiện về phương tiện
+giao thông để Tổ hỗ trợ của LĐLĐ thành phố thực hiện nhiệm vụ.
+
+- Hướng dẫn thủ tục bàn giao, nghiệm
+thu các phần việc thực hiện Dự án; thanh quyết toán các hạng mục của Dự án khi
+hoàn thành và được nghiệm thu.
+
+- Phối hợp với các thành viên Tổ Công
+tác số 8 (thành lập theo Quyết định 173/QĐ-LĐLĐ ngày 02/3/2021 của Ban Thường vụ
+LĐLĐ thành phố) hướng dẫn, đôn đốc triển khai thực hiện Kế hoạch; Cử cán bộ phụ
+trách công nghệ thông tin phối hợp triển khai thực hiện Kế hoạch.
+
+1.3. Ban Tài chính:
+
+Hướng dẫn thanh quyết toán chi phí phục
+vụ cho việc đổi thẻ đoàn viên và cập nhật dữ liệu đoàn viên lên phần mềm quản
+lý, đảm bảo đúng quy định của Nhà nước và của Tổng LĐLĐ Việt Nam.
+
+1.4. Các ban, đơn vị trực thuộc
+
+Cử cán bộ tham gia phối hợp thực hiện
+khi có nội dung liên quan đến đơn vị mình hoặc khi được yêu cầu
+
+2. Đối với các
+LĐLĐ quận, huyện, thị xã, Công đoàn ngành, Công đoàn Tổng Công ty, Công đoàn cấp
+trên trực tiếp cơ sở.
+
+2.1. Rà soát, phân công 01 đồng chí
+Lãnh đạo (Chủ tịch hoặc Phó Chủ tịch) làm đầu mối liên hệ, phối hợp triển khai
+thực hiện Kế hoạch và 01 cán bộ Công đoàn chuyên trách phụ trách phần mềm và
+đăng ký với LĐLĐ thành phố Hà Nội (Mẫu 03) và gửi về LĐLĐ thành phố Hà Nội (qua
+Ban Tổ chức), hoàn thành trước ngày 10/8/2022.
+
+2.2. Căn cứ Kế hoạch của LĐLĐ thành
+phố, các LĐLĐ quận, huyện, thị xã, Công đoàn ngành, Công đoàn Tổng Công ty,
+Công đoàn cấp trên trực tiếp cơ sở triển khai Kế hoạch này đến các CĐCS; có
+trách nhiệm yêu cầu và đốc thúc các CĐCS thuộc phân cấp quản lý của đơn vị mình
+thu thập dữ liệu đoàn viên, hoàn thành việc nhập dữ liệu trên các giải pháp do
+nhà thầu cung cấp.
+
+2.3. Chủ động phối hợp với nhà thầu
+triển khai thực hiện Kế hoạch đảm bảo tiến độ đề ra. Chuẩn bị địa điểm, điều kiện
+cơ sở vật chất khác (nếu cần thiết) và phối hợp với nhà thầu triển khai thực hiện
+Dự án.
+
+2.4. Phân công cán bộ hướng dẫn, đôn
+đốc CĐCS triển khai thực hiện và kịp thời giải quyết các nhiệm vụ phát sinh:
+
+- Thực hiện việc phê duyệt các yêu cầu
+của Công đoàn cơ sở trong thẩm quyền được LĐLĐ thành phố cấp phép.
+
+- Tiếp nhận và xử lý các yêu cầu đề
+nghị phê duyệt của Công đoàn cơ sở như: Đề nghị phê duyệt danh sách đoàn viên mới;
+đề nghị in và phát hành thẻ đoàn viên; chuyển giao và tiếp nhận Công đoàn cơ sở,
+đoàn viên... Đảm bảo đầy đủ kinh phí và cơ sở vật chất phục vụ cho việc cập nhật
+dữ liệu và đổi thẻ đoàn viên.
+
+- Kịp thời báo cáo những khó khăn, vướng
+mắc trong quá trình thực hiện về LĐLĐ thành phố Hà Nội (qua Ban Tổ chức) để tổng
+hợp báo cáo Tổng LĐLĐ Việt Nam điều chỉnh cho phù hợp với tình hình thực tế tại
+địa phương, đơn vị.
+
+- Trường hợp cần thiết, thống nhất với
+nhà thầu thực hiện Dự án tổ chức tập huấn cho đội ngũ cán bộ Công đoàn cơ sở trực
+thuộc về công tác đổi thẻ và ứng dụng phần mềm quản lý đoàn viên, nghiệp vụ
+khai thác thông tin đoàn viên, Công đoàn cơ sở trên phần mềm quản lý đoàn viên
+
+3. Đối với các
+CĐCS (bao gồm CĐCS trực thuộc LĐLĐ thành phố)
+
+1.1. Các CĐCS là cấp trực tiếp thu thập
+thông tin đoàn viên, Công đoàn cơ sở và cập nhật dữ liệu lên phần mềm quản lý
+đoàn viên của Tổng LĐLĐ Việt Nam. Căn cứ các văn bản hướng dẫn, chỉ đạo của
+LĐLĐ thành phố về việc triển khai phần mềm quản lý đoàn viên, đổi thẻ đoàn viên
+Công đoàn, các CĐCS tiếp tục thu thập dữ liệu đoàn viên, rà soát bổ sung đầy đủ
+thông tin đoàn viên theo các giải pháp nêu tại Điểm 1.3, Mục 1, phần II Kế hoạch
+này.
+
+1.2. Các CĐCS phân công người phụ
+trách quản lý tài khoản của đơn vị mình và đăng ký với Công đoàn cấp trên trực
+tiếp cơ sở (Mẫu 02), hoàn thành trước ngày 16/8/2022.
+
+1.3. Đối với các CĐCS trực thuộc LĐLĐ
+thành phố, thông tin dữ liệu đoàn viên (nếu có); đăng ký danh sách cán bộ phụ
+trách phần mềm gửi về LĐLĐ thành phố (qua Ban Tổ chức) để tổng hợp, hoàn
+thành trước ngày 10/8/2022.
+
+4. Đối với nhà thầu
+hiện dự án:
+
+- Phối hợp với các LĐLĐ quận, huyện,
+thị xã, Công đoàn ngành, Công đoàn Tổng Công ty, Công đoàn cấp trên trực tiếp
+cơ sở và CĐCS trực thuộc tiến hành cập nhật dữ liệu đoàn viên lên phần mềm quản
+lý đoàn viên của Tổng LĐLĐ Việt Nam, đảm bảo tiến độ đề ra theo Kế hoạch này.
+
+- Nhà thầu có trách nhiệm cung cấp giải
+pháp thu thập dữ liệu; hướng dẫn, hỗ trợ các Công đoàn cấp trên trực tiếp cơ sở
+các biện pháp thực hiện việc thu thập dữ liệu đoàn viên, tập huấn cho cán bộ
+CĐCS.
+
+Trên đây là Kế hoạch triển khai thực
+hiện dự án “Cập nhật cơ sở dữ liệu đoàn viên Công đoàn lên phần mềm quản lý
+đoàn viên và in, đổi thẻ đoàn viên của LĐLĐ thành phố Hà Nội. Ban Thường vụ
+LĐLĐ thành phố Hà Nội yêu cầu các LĐLĐ quận, huyện, thị xã; Công đoàn ngành,
+Công đoàn Tổng công ty; Công đoàn cấp trên trực tiếp cơ sở; các Công đoàn cơ sở
+trực thuộc LĐLĐ thành phố Hà Nội nghiêm túc triển khai, thực hiện và hoàn thành
+việc cập nhật dữ liệu đoàn viên và đổi thẻ trong năm 2022. Quá trình thực hiện
+nếu có khó khăn, vướng mắc báo cáo về LĐLĐ thành phố (qua Ban Tổ chức LĐLĐ
+thành phố, điện thoại: 0243.9386557) để xem xét, giải quyết./.
+
+ 
+
+ Nơi nhận:
+
+- Tổng LĐLĐ Việt Nam; (Để
+ báo cáo)
+
+ - Thường trực LĐLĐ TP; (Để chỉ đạo)
+
+ - Các ban LĐLĐ Thành phố; Để thực hiện
+
+ - LĐLĐ các Q,H,T; CĐN; CĐ TCT; CĐCTTTCS; Để thực hiện
+
+- CĐCS trực thuộc LĐLĐ TP; Để thực hiện
+
+ - Các CĐCS thuộc thành phố; Để thực hiện
+
+ - Lưu: VT, ToC.
+
+TM.
+ BAN THƯỜNG VỤ 
+
+ CHỦ TỊCH
+
+ Nguyễn Phi Thường
+
+ 
+
+Biểu 01: KẾ HOẠCH THU THẬP DỮ LIỆU
+
+(Kèm
+theo Kế hoạch số: 44/KH-LĐLĐ ngày 03/8/2022 của Ban Thường vụ LĐLĐ thành phố Hà
+Nội)
+
+TT
+
+Tên
+ đơn vị
+
+Ngày
+ bắt đầu
+
+Ngày
+ kết thúc
+
+Nhà
+ thầu phối hợp
+
+CĐCS
+
+Số
+ liệu đoàn viên Công đoàn
+
+Tổng
+ số
+
+Số
+ đã cập nhật
+
+Số
+ phải thu thập dữ liệu
+
+A.
+
+QUẬN, THỊ XÃ
+
+ 
+
+ 
+
+ 
+
+4.708
+
+229.403
+
+10.506
+
+218.897
+
+1
+
+Ba Đình
+
+10/8/2022
+
+30/9/2022
+
+Nhóm
+ 1
+
+510
+
+23.370
+
+0
+
+23.370
+
+2
+
+Cầu Giấy
+
+10/8/2022
+
+30/9/2022
+
+Nhóm
+ 1
+
+394
+
+20.699
+
+0
+
+20.699
+
+3
+
+Đống Đa
+
+10/8/2022
+
+30/9/2022
+
+Nhóm
+ 1
+
+450
+
+19.547
+
+1
+
+19.546
+
+4
+
+Hoàn Kiếm
+
+10/8/2022
+
+30/9/2022
+
+Nhóm
+ 1
+
+512
+
+30.344
+
+1.403
+
+28.941
+
+5
+
+Hai Bà Trưng
+
+10/8/2022
+
+30/9/2022
+
+Nhóm
+ 1
+
+380
+
+21.472
+
+273
+
+21.199
+
+6
+
+Hoàng Mai
+
+10/8/2022
+
+30/9/2022
+
+Nhóm
+ 1
+
+408
+
+21.164
+
+1.850
+
+19.314
+
+7
+
+Long Biên
+
+10/8/2022
+
+30/9/2022
+
+Nhóm
+ 1
+
+352
+
+14.091
+
+3.598
+
+10.493
+
+8
+
+Thanh Xuân
+
+10/8/2022
+
+30/9/2022
+
+Nhóm
+ 1
+
+341
+
+16.390
+
+0
+
+16.390
+
+9
+
+Tây Hồ
+
+10/8/2022
+
+30/9/2022
+
+Nhóm
+ 1
+
+197
+
+7.854
+
+1
+
+7.853
+
+10
+
+Hà Đông
+
+10/8/2022
+
+30/9/2022
+
+Nhóm
+ 1
+
+338
+
+16.739
+
+0
+
+16.739
+
+11
+
+Bắc Từ Liêm
+
+10/8/2022
+
+30/9/2022
+
+Nhóm
+ 1
+
+263
+
+10.243
+
+442
+
+9.801
+
+12
+
+Nam Từ Liêm
+
+10/8/2022
+
+30/9/2022
+
+Nhóm
+ 1
+
+357
+
+20.358
+
+640
+
+19.718
+
+13
+
+TX Sơn Tây
+
+10/8/2022
+
+30/9/2022
+
+Nhóm
+ 1
+
+206
+
+7.132
+
+2.298
+
+4.834
+
+B.
+
+HUYỆN
+
+ 
+
+ 
+
+ 
+
+3.602
+
+147.083
+
+27.740
+
+119.343
+
+1
+
+Đông Anh
+
+10/8/2022
+
+10/9/2022
+
+Nhóm
+ 2
+
+340
+
+14.679
+
+0
+
+14.679
+
+2
+
+Gia Lâm
+
+10/8/2022
+
+10/9/2022
+
+Nhóm
+ 2
+
+279
+
+16.557
+
+330
+
+16.227
+
+3
+
+Hoài Đức
+
+10/8/2022
+
+10/9/2022
+
+Nhóm
+ 2
+
+247
+
+8.064
+
+4.090
+
+3.974
+
+4
+
+Đan Phượng
+
+10/8/2022
+
+10/9/2022
+
+Nhóm
+ 2
+
+150
+
+5.782
+
+3.869
+
+1.913
+
+5
+
+Mê Linh
+
+10/8/2022
+
+10/9/2022
+
+Nhóm
+ 2
+
+155
+
+6.676
+
+630
+
+6.046
+
+6
+
+Sóc Sơn
+
+10/8/2022
+
+10/9/2022
+
+Nhóm
+ 2
+
+261
+
+13.432
+
+0
+
+13.432
+
+7
+
+Thanh Trì
+
+10/8/2022
+
+10/9/2022
+
+Nhóm
+ 2
+
+296
+
+12.268
+
+2.037
+
+10.231
+
+8
+
+Chương Mỹ
+
+10/8/2022
+
+10/9/2022
+
+Nhóm
+ 2
+
+228
+
+9.949
+
+27
+
+9.922
+
+9
+
+Phú Xuyên
+
+10/8/2022
+
+10/9/2022
+
+Nhóm
+ 2
+
+205
+
+6.631
+
+0
+
+6.631
+
+10
+
+Ứng Hòa
+
+10/8/2022
+
+10/9/2022
+
+Nhóm
+ 2
+
+153
+
+5.177
+
+0
+
+5.177
+
+11
+
+Mỹ Đức
+
+10/8/2022
+
+10/9/2022
+
+Nhóm
+ 2
+
+141
+
+5.670
+
+2
+
+5.668
+
+12
+
+Thanh Oai
+
+10/8/2022
+
+10/9/2022
+
+Nhóm
+ 2
+
+157
+
+6.065
+
+167
+
+5.898
+
+13
+
+Thường Tín
+
+10/8/2022
+
+10/9/2022
+
+Nhóm
+ 2
+
+222
+
+8.299
+
+1
+
+8.298
+
+14
+
+Phúc Thọ
+
+10/8/2022
+
+10/9/2022
+
+Nhóm
+ 2
+
+163
+
+5.390
+
+1.341
+
+4.049
+
+15
+
+Quốc Oai
+
+10/8/2022
+
+10/9/2022
+
+Nhóm
+ 2
+
+158
+
+6.802
+
+5.365
+
+1.437
+
+16
+
+Thạch Thất
+
+10/8/2022
+
+10/9/2022
+
+Nhóm
+ 2
+
+226
+
+6.446
+
+4.934
+
+1.512
+
+17
+
+Ba Vì
+
+10/8/2022
+
+10/9/2022
+
+Nhóm
+ 2
+
+221
+
+9.196
+
+4.947
+
+4.249
+
+C.
+
+CĐ NGÀNH
+
+ 
+
+ 
+
+ 
+
+671
+
+98.683
+
+7.311
+
+91.372
+
+1
+
+Công Thương
+
+10/8/2022
+
+10/9/2022
+
+Nhóm
+ 3
+
+84
+
+10.123
+
+0
+
+10.123
+
+2
+
+Dệt May
+
+10/8/2022
+
+10/9/2022
+
+Nhóm
+ 3
+
+69
+
+15.818
+
+0
+
+15.818
+
+3
+
+Giáo dục
+
+10/8/2022
+
+10/9/2022
+
+Nhóm
+ 3
+
+185
+
+11.970
+
+2.211
+
+9.759
+
+4
+
+Giao thông Vận tải
+
+10/8/2022
+
+10/9/2022
+
+Nhóm
+ 3
+
+43
+
+4.250
+
+1.622
+
+2.628
+
+5
+
+Nông nghiệp
+
+10/8/2022
+
+10/9/2022
+
+Nhóm
+ 3
+
+32
+
+7.156
+
+0
+
+7.156
+
+6
+
+Xây dựng
+
+10/8/2022
+
+10/9/2022
+
+Nhóm
+ 3
+
+88
+
+15.480
+
+3.311
+
+12.169
+
+7
+
+Y tế
+
+10/8/2022
+
+10/9/2022
+
+Nhóm
+ 3
+
+107
+
+24.941
+
+0
+
+24.941
+
+8
+
+Công đoàn Viên chức TP
+
+10/8/2022
+
+10/9/2022
+
+Nhóm
+ 3
+
+63
+
+8.945
+
+167
+
+8.778
+
+D.
+
+TCTY, CẤP TRÊN CS
+
+ 
+
+ 
+
+ 
+
+446
+
+152.152
+
+10.388
+
+141.764
+
+1
+
+Khu Công nghiệp và CX
+
+12/9/2022
+
+12/10/2022
+
+Nhóm
+ 3
+
+314
+
+135.501
+
+1.566
+
+133.935
+
+2
+
+TCT Thương mại
+
+10/8/2022
+
+10/9/2022
+
+Nhóm 3
+
+22
+
+1.489
+
+1.298
+
+191
+
+3
+
+TCT Du lịch
+
+10/8/2022
+
+10/9/2022
+
+Nhóm
+ 3
+
+16
+
+1.950
+
+1.336
+
+614
+
+4
+
+TCT Vận tải
+
+10/8/2022
+
+10/9/2022
+
+Nhóm
+ 3
+
+22
+
+7.773
+
+4.463
+
+3.310
+
+5
+
+TCT ĐT&PT Nhà
+
+10/8/2022
+
+10/9/2022
+
+Nhóm
+ 3
+
+35
+
+2.587
+
+4
+
+2.583
+
+6
+
+TCT ĐTPT Hạ tầng
+
+10/8/2022
+
+10/9/2022
+
+Nhóm
+ 3
+
+24
+
+2.301
+
+1.319
+
+982
+
+7
+
+CĐ Cơ quan LĐLĐ TP
+
+10/8/2022
+
+10/9/2022
+
+Nhóm
+ 3
+
+13
+
+551
+
+402
+
+149
+
+E.
+
+CĐCS trực thuộc
+
+ 
+
+ 
+
+ 
+
+26
+
+6.489
+
+0
+
+6,489
+
+F.
+
+Cộng
+
+ 
+
+ 
+
+ 
+
+9.453
+
+633.810
+
+55.945
+
+577.865
+
+ 
+
+Biểu 02: KẾ HOẠCH CẬP NHẬT DỮ LIỆU LÊN PHẦN MỀM
+
+(Kèm
+theo Kế hoạch số: 44/KH-LĐLĐ ngày 03/8/2022 của Ban Thường vụ LĐLĐ thành phố Hà
+Nội)
+
+TT
+
+Tên
+ đơn vị
+
+Ngày
+ bắt đầu
+
+Ngày
+ kết thúc
+
+Nhà
+ thầu phối hợp
+
+CĐCS
+
+Số
+ liệu đoàn viên Công đoàn
+
+Tổng
+ số
+
+Số
+ đã cập nhật
+
+Số
+ phải cập nhật dữ liệu
+
+A.
+
+QUẬN, THỊ XÃ
+
+ 
+
+ 
+
+ 
+
+4.708
+
+229.403
+
+10.506
+
+218.897
+
+1
+
+Ba Đình
+
+01/10/2022
+
+30/10/2022
+
+Nhóm
+ 1
+
+510
+
+23.370
+
+0
+
+23.370
+
+2
+
+Cầu Giấy
+
+01/10/2022
+
+30/10/2022
+
+Nhóm
+ 1
+
+394
+
+20.699
+
+0
+
+20.699
+
+3
+
+Đống Đa
+
+01/10/2022
+
+30/10/2022
+
+Nhóm
+ 1
+
+450
+
+19.547
+
+1
+
+19.546
+
+4
+
+Hoàn Kiếm
+
+01/10/2022
+
+30/10/2022
+
+Nhóm
+ 1
+
+512
+
+30.344
+
+1.403
+
+28.941
+
+5
+
+Hai Bà Trưng
+
+01/10/2022
+
+30/10/2022
+
+Nhóm
+ 1
+
+380
+
+21.472
+
+273
+
+21.199
+
+6
+
+Hoàng Mai
+
+01/10/2022
+
+30/10/2022
+
+Nhóm
+ 1
+
+408
+
+21.164
+
+1.850
+
+19.314
+
+7
+
+Long Biên
+
+01/10/2022
+
+30/10/2022
+
+Nhóm
+ 1
+
+352
+
+14.091
+
+3.598
+
+10.493
+
+8
+
+Thanh Xuân
+
+01/10/2022
+
+30/10/2022
+
+Nhóm
+ 1
+
+341
+
+16.390
+
+0
+
+16.390
+
+9
+
+Tây Hồ
+
+01/10/2022
+
+30/10/2022
+
+Nhóm
+ 1
+
+197
+
+7.854
+
+1
+
+7.853
+
+10
+
+Hà Đông
+
+01/10/2022
+
+30/10/2022
+
+Nhóm
+ 1
+
+338
+
+16.739
+
+0
+
+16.739
+
+11
+
+Bắc Từ Liêm
+
+01/10/2022
+
+30/10/2022
+
+Nhóm
+ 1
+
+263
+
+10.243
+
+442
+
+9.801
+
+12
+
+Nam Từ Liêm
+
+01/10/2022
+
+30/10/2022
+
+Nhóm
+ 1
+
+357
+
+20.358
+
+640
+
+19.718
+
+13
+
+TX Sơn Tây
+
+01/10/2022
+
+30/10/2022
+
+Nhóm
+ 1
+
+206
+
+7.132
+
+2.298
+
+4.834
+
+B.
+
+HUYỆN
+
+ 
+
+ 
+
+ 
+
+3.602
+
+147.083
+
+27.740
+
+119.343
+
+1
+
+Đông Anh
+
+11/9/2022
+
+30/9/2022
+
+Nhóm
+ 2
+
+340
+
+14.679
+
+0
+
+14.679
+
+2
+
+Gia Lâm
+
+11/9/2022
+
+30/9/2022
+
+Nhóm
+ 2
+
+279
+
+16.557
+
+330
+
+16.227
+
+3
+
+Hoài Đức
+
+11/9/2022
+
+30/9/2022
+
+Nhóm
+ 2
+
+247
+
+8.064
+
+4.090
+
+3.974
+
+4
+
+Đan Phượng
+
+11/9/2022
+
+30/9/2022
+
+Nhóm
+ 2
+
+150
+
+5.782
+
+3.869
+
+1.913
+
+5
+
+Mê Linh
+
+11/9/2022
+
+30/9/2022
+
+Nhóm
+ 2
+
+155
+
+6.676
+
+630
+
+6.046
+
+6
+
+Sóc Sơn
+
+11/9/2022
+
+30/9/2022
+
+Nhóm
+ 2
+
+261
+
+13.432
+
+0
+
+13.432
+
+7
+
+Thanh Trì
+
+11/9/2022
+
+30/9/2022
+
+Nhóm
+ 2
+
+296
+
+12.268
+
+2.037
+
+10.231
+
+8
+
+Chương Mỹ
+
+11/9/2022
+
+30/9/2022
+
+Nhóm
+ 2
+
+228
+
+9.949
+
+27
+
+9.922
+
+9
+
+Phú Xuyên
+
+11/9/2022
+
+30/9/2022
+
+Nhóm
+ 2
+
+205
+
+6.631
+
+0
+
+6.631
+
+10
+
+Ứng Hòa
+
+11/9/2022
+
+30/9/2022
+
+Nhóm
+ 2
+
+153
+
+5.177
+
+0
+
+5.177
+
+11
+
+Mỹ Đức
+
+11/9/2022
+
+30/9/2022
+
+Nhóm
+ 2
+
+141
+
+5.670
+
+2
+
+5.668
+
+12
+
+Thanh Oai
+
+11/9/2022
+
+30/9/2022
+
+Nhóm
+ 2
+
+157
+
+6.065
+
+167
+
+5.898
+
+13
+
+Thường Tín
+
+11/9/2022
+
+30/9/2022
+
+Nhóm
+ 2
+
+222
+
+8.299
+
+1
+
+8.298
+
+14
+
+Phúc Thọ
+
+11/9/2022
+
+30/9/2022
+
+Nhóm
+ 2
+
+163
+
+5.390
+
+1.341
+
+4.049
+
+15
+
+Quốc Oai
+
+11/9/2022
+
+30/9/2022
+
+Nhóm
+ 2
+
+158
+
+6802
+
+5.365
+
+1.437
+
+16
+
+Thạch Thất
+
+11/9/2022
+
+30/9/2022
+
+Nhóm
+ 2
+
+226
+
+6.446
+
+4.934
+
+1.512
+
+17
+
+Ba Vì
+
+11/9/2022
+
+30/9/2022
+
+Nhóm
+ 2
+
+221
+
+9.196
+
+4.947
+
+4.249
+
+C.
+
+CĐ NGÀNH
+
+ 
+
+ 
+
+ 
+
+671
+
+98.683
+
+7.311
+
+91.372
+
+1
+
+Công Thương
+
+01/10/2022
+
+15/10/2022
+
+Nhóm
+ 2
+
+84
+
+10.123
+
+0
+
+10.123
+
+2
+
+Dệt May
+
+01/10/2022
+
+15/10/2022
+
+Nhóm
+ 2
+
+69
+
+15.818
+
+0
+
+15.818
+
+3
+
+Giáo dục
+
+01/10/2022
+
+15/10/2022
+
+Nhóm
+ 2
+
+185
+
+11.970
+
+2.211
+
+9.759
+
+4
+
+Giao thông Vận tải
+
+01/10/2022
+
+15/10/2022
+
+Nhóm
+ 2
+
+43
+
+4.250
+
+1.622
+
+2.628
+
+5
+
+Nông nghiệp
+
+01/10/2022
+
+15/10/2022
+
+Nhóm
+ 2
+
+32
+
+7.156
+
+0
+
+7.156
+
+6
+
+Xây dựng
+
+01/10/2022
+
+15/10/2022
+
+Nhóm
+ 2
+
+88
+
+15.480
+
+3.311
+
+12.169
+
+7
+
+Y tế
+
+01/10/2022
+
+15/10/2022
+
+Nhóm
+ 2
+
+107
+
+24.941
+
+0
+
+24.941
+
+8
+
+Công đoàn Viên chức TP
+
+01/10/2022
+
+15/10/2022
+
+Nhóm
+ 2
+
+63
+
+8.945
+
+167
+
+8.778
+
+D.
+
+TCTY, CẤP TRÊN CS
+
+ 
+
+ 
+
+ 
+
+446
+
+152.152
+
+10.388
+
+141.764
+
+1
+
+Khu Công nghiệp và CX
+
+12/10/2022
+
+30/10/2022
+
+Nhóm 3
+
+314
+
+135.501
+
+1.566
+
+133.935
+
+2
+
+TCT Thương mại
+
+16/10/2022
+
+30/10/2022
+
+Nhóm
+ 2
+
+22
+
+1.489
+
+1.298
+
+191
+
+3
+
+TCT Du lịch
+
+16/10/2022
+
+30/10/2022
+
+Nhóm
+ 2
+
+16
+
+1.950
+
+1.336
+
+614
+
+4
+
+TCT Vận tải
+
+16/10/2022
+
+30/10/2022
+
+Nhóm
+ 2
+
+22
+
+7.773
+
+4.463
+
+3.310
+
+5
+
+TCT ĐT&PT Nhà
+
+16/10/2022
+
+30/10/2022
+
+Nhóm
+ 2
+
+35
+
+2.587
+
+4
+
+2.583
+
+6
+
+TCT ĐTPT Hạ tầng
+
+16/10/2022
+
+30/10/2022
+
+Nhóm
+ 2
+
+24
+
+2.301
+
+1.319
+
+982
+
+7
+
+CĐ Cơ quan LĐLĐ TP
+
+16/10/2022
+
+30/10/2022
+
+Nhóm
+ 2
+
+13
+
+551
+
+402
+
+149
+
+E.
+
+CĐCS trực thuộc
+
+ 
+
+ 
+
+ 
+
+26
+
+6.489
+
+0
+
+6.489
+
+ 
+
+Cộng
+
+ 
+
+ 
+
+ 
+
+9.453
+
+633.810
+
+55.945
+
+577.865
+
+ 
+
+Biểu 03: DANH SÁCH TÀI KHOẢN
+
+(Kèm
+theo Kế hoạch số: 44/KH-LĐLĐ ngày 03/8/2022 của Ban Thường vụ LĐLĐ thành phố Hà
+Nội)
+
+TT
+
+ĐƠN
+ VỊ
+
+TÀI
+ KHOẢN
+
+GHI
+ CHÚ
+
+I. LIÊN ĐOÀN LAO ĐỘNG QUẬN, THỊ
+ XÃ
+
+1.
+
+LĐLĐ quận Ba Đình
+
+badinhhn
+
+Chưa
+ có mk
+
+2.
+
+LĐLĐ quận Cầu
+ Giấy
+
+caugiayhn
+
+ 
+
+3.
+
+LĐLĐ quận Đống Đa
+
+dongdahn
+
+ 
+
+4.
+
+LĐLĐ quận Hoàn Kiếm
+
+hoankiemhn
+
+ 
+
+5.
+
+LĐLĐ quận Hai Bà Trưng
+
+haibatrunghn
+
+ 
+
+6.
+
+LĐLĐ quận Hoàng Mai
+
+hoangmaihn
+
+ 
+
+7.
+
+LĐLĐ quận Long Biên
+
+longbienhn
+
+ 
+
+8.
+
+LĐLĐ quận Thanh Xuân
+
+thanhxuanhn
+
+ 
+
+9.
+
+LĐLĐ quận Tây Hồ
+
+tayhohn
+
+ 
+
+10.
+
+LĐLĐ quận Hà Đông
+
+hadonghn
+
+ 
+
+11.
+
+LĐLĐ quận Bắc Từ Liêm
+
+bactuliemhn
+
+ 
+
+12.
+
+LĐLĐ quận Nam Từ Liêm
+
+namtuliemhn
+
+ 
+
+13.
+
+LĐLĐ quận Sơn Tây
+
+sontayhn
+
+ 
+
+II.
+
+LIÊN ĐOÀN LAO ĐỘNG HUYỆN
+
+ 
+
+1.
+
+LĐLĐ huyện Đông Anh
+
+donganhhn
+
+ 
+
+2.
+
+LĐLĐ huyện Gia Lâm
+
+gialamhn
+
+ 
+
+3.
+
+LĐLĐ huyện Hoài Đức
+
+hoaiduchn
+
+ 
+
+4.
+
+LĐLĐ huyện Đan Phượng
+
+danphuonghn
+
+ 
+
+5
+
+LĐLĐ huyện Mê Linh
+
+melinhhn
+
+ 
+
+6.
+
+LĐLĐ huyện Sóc Sơn
+
+socsonhn
+
+ 
+
+7.
+
+LĐLĐ huyện Thanh Trì
+
+thanhtrihn
+
+ 
+
+8.
+
+LĐLĐ huyện Chương Mỹ
+
+chuongmyhn
+
+ 
+
+9.
+
+LĐLĐ huyện Phú Xuyến
+
+phuxuyenhn
+
+ 
+
+10.
+
+LĐLĐ huyện Ứng
+ Hòa
+
+unghoahn
+
+ 
+
+11.
+
+LĐLĐ huyện Mỹ Đức
+
+myduchn
+
+ 
+
+12.
+
+LĐLĐ huyện Thanh Oai
+
+thanhoaihn
+
+ 
+
+13.
+
+LĐLĐ huyện Thường Tín
+
+thuongtinhn
+
+ 
+
+14.
+
+LĐLĐ huyện Phúc Thọ
+
+phucthuhn
+
+ 
+
+15.
+
+LĐLĐ huyện Quốc
+ Oai
+
+quocoaihn
+
+ 
+
+16.
+
+LĐLĐ huyện Thạch Thất
+
+thachthathn
+
+ 
+
+17.
+
+LĐLĐ huyện Ba Vì
+
+bavihn
+
+ 
+
+III.
+
+CÔNG ĐOÀN NGÀNH
+
+ 
+
+1.
+
+CĐ ngành Công Thương
+
+congthuonghn
+
+ 
+
+2.
+
+CĐ ngành Dệt May
+
+detmayhn
+
+ 
+
+3.
+
+CĐ ngành Giáo dục
+
+giaoduchn
+
+ 
+
+4.
+
+CĐ ngành GTVT
+
+giaothonghn
+
+ 
+
+5.
+
+CĐ ngành Nông nghiệp
+
+nongnghiephn
+
+ 
+
+6.
+
+CĐ ngành Xây dựng
+
+xaydunghn
+
+ 
+
+7.
+
+CĐ ngành Y tế
+
+ytehn
+
+ 
+
+8.
+
+CĐ Viên chức Thành phố
+
+vienchuchn
+
+ 
+
+IV.
+
+CÔNG ĐOÀN CẤP TRÊN TRỰC TIẾP CƠ
+ SỞ
+
+1.
+
+CĐ Khu CN&CX
+
+khucongnghiepcxhn
+
+ 
+
+2
+
+CĐ TCT Thương
+ mại
+
+tctthuongmaihn
+
+ 
+
+3.
+
+CĐ TCT Du lịch
+
+tctdulichhn
+
+ 
+
+4.
+
+CĐ TCT Vận tải
+
+tctvantaihn
+
+ 
+
+5.
+
+CĐ TCT ĐT&PT Nhà
+
+tctdautuptnhahn
+
+ 
+
+6.
+
+CĐ TCT ĐTPT Hạ tầng Đô thị
+
+tcthatanghn
+
+ 
+
+7.
+
+CĐ Cơ quan LĐLĐ Thành phố
+
+cdcoquanhn
+
+ 
+
+ 
+
+Biểu 04: DANH SÁCH MÃ TỈNH DO TỔNG LĐLĐ VIỆT NAM CẤP PHỤC VỤ CẬP NHẬT
+CƠ SỞ DỮ LIỆU ĐOÀN VIÊN
+
+(Kèm
+theo Kế hoạch số: 44/KH-LĐLĐ ngày 03/8/2022 cửa Ban Thường vụ LĐLĐ thành phố Hà
+Nội)
+
+TT
+
+Tên
+ tỉnh, thành phố
+
+Mã
+ tỉnh, thành phố
+
+1.
+
+Hà Nội
+
+1
+
+2.
+
+Bắc Ninh
+
+2
+
+3.
+
+Hà Nam
+
+4
+
+4.
+
+Hải Phòng
+
+6
+
+5.
+
+Thái Nguyên
+
+7
+
+6.
+
+Nam Định
+
+14
+
+7.
+
+Bắc Giang
+
+21
+
+8.
+
+Lạng Sơn
+
+22
+
+9.
+
+TP Hồ Chí Minh
+
+23
+
+10.
+
+Nghệ An
+
+24
+
+11.
+
+Quảng Bình
+
+25
+
+12.
+
+Khánh Hòa
+
+26
+
+13.
+
+Thanh Hóa
+
+27
+
+14.
+
+Ninh Thuận
+
+28
+
+15.
+
+Yên Bái
+
+29
+
+16.
+
+Hậu Giang
+
+41
+
+17.
+
+Kiên Giang
+
+42
+
+18.
+
+Kon Tum
+
+43
+
+19.
+
+Lai Châu
+
+44
+
+20.
+
+Lào Cai
+
+45
+
+21.
+
+Lâm Đồng
+
+46
+
+22.
+
+Long An
+
+47
+
+23.
+
+Ninh Bình
+
+48
+
+24.
+
+Phú Thọ
+
+49
+
+25.
+
+An Giang
+
+50
+
+26.
+
+Phú Yên
+
+51
+
+27.
+
+Quảng Nam
+
+52
+
+28.
+
+Bà Rịa - Vũng Tàu
+
+53
+
+29.
+
+Quảng Ngãi
+
+54
+
+30.
+
+Bạc Liêu
+
+55
+
+31.
+
+Quảng Ninh
+
+56
+
+32.
+
+Bắc Kạn
+
+57
+
+33.
+
+Quảng Trị
+
+58
+
+34.
+
+Sóc Trăng
+
+59
+
+35.
+
+Bến Tre
+
+60
+
+36.
+
+Sơn La
+
+61
+
+37.
+
+Bình Dương
+
+62
+
+38.
+
+Tây Ninh
+
+63
+
+39.
+
+Bình Định
+
+64
+
+40.
+
+Thái Bình
+
+65
+
+41.
+
+Bình Phước
+
+66
+
+42.
+
+Bình Thuận
+
+67
+
+43.
+
+Cà Mau
+
+68
+
+44.
+
+Thừa Thiên Huế
+
+69
+
+45.
+
+Tiền Giang
+
+70
+
+46.
+
+Trà Vinh
+
+71
+
+47.
+
+Cao Bằng
+
+72
+
+48.
+
+Tuyên Quang
+
+73
+
+49.
+
+Cần Thơ
+
+74
+
+50.
+
+Vĩnh Long
+
+75
+
+51.
+
+Đà Nẵng
+
+76
+
+52.
+
+Vĩnh Phúc
+
+77
+
+53.
+
+Đắk Lắk
+
+78
+
+54.
+
+Đắk Nông
+
+79
+
+55.
+
+Đồng Nai
+
+80
+
+56.
+
+Đồng Tháp
+
+81
+
+57.
+
+Điện Biên
+
+82
+
+58.
+
+Gia Lai
+
+83
+
+59.
+
+Hà Giang
+
+84
+
+60.
+
+Hà Tĩnh
+
+85
+
+61.
+
+Hải Dương
+
+86
+
+62.
+
+Hòa Bình
+
+87
+
+63.
+
+Hưng Yên
+
+88
+
+64.
+
+Cục Cảnh sát Quản lý hành chính về
+ trật tự xã hội
+
+101
+
+65.
+
+Campuchia
+
+121
+
+66.
+
+Trung Quốc
+
+141
+
+67.
+
+Lào
+
+142
+
+68.
+
+Thái Lan
+
+143
+
+69.
+
+Pháp
+
+161
+
+ 
+
+ 
+
+Mẫu 01
+
+LIÊN
+ ĐOÀN LAO ĐỘNG…………
+
+CÔNG ĐOÀN ……………………..
+
+-------
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+PHIẾU THU THẬP THÔNG TIN ĐOÀN VIÊN
+
+I. PHẦN THÔNG TIN ĐOÀN VIÊN
+
+(2) Họ và tên khai sinh(1):
+………………………………………………………………………
+
+Ngày, tháng, năm sinh(2): ……../……/…….. 
+
+Giới tính: (3) □ Nam (4) □ Nữ
+
+Nguyên quán:
+ (5) Tỉnh, thành phố(3):
+…………………………;
+
+ 
+(6) Mã tính, thành phố(4): ………………………;
+
+(7) Số CMND/CCCD(5):
+……………………………………………………………………….. 
+
+(8) Ngày được kết nạp vào Công đoàn:
+……../……./………. 
+
+II. PHẦN THÔNG TIN CÁN BỘ CÔNG
+ĐOÀN
+
+Cán bộ Công đoàn: ngoài các
+thông tin về đoàn viên ở phần I, đề nghị cung cấp thông tin bằng cách đánh dấu
+X và ô tương ứng:
+
+(9) Cán bộ Công đoàn chuyên trách (hưởng
+ lương từ ngân sách Công đoàn):
+
+□;
+
+(10) Cán bộ Công đoàn chuyên trách (hưởng
+ lương ngoài ngân sách Công đoàn) :
+
+□;
+
+(11) Cán bộ Công đoàn không chuyên
+ trách:
+
+□;
+
+Chức vụ Công đoàn tại Công đoàn
+cơ sở:
+
+(12) Chủ tịch Công đoàn cơ sở:
+
+□;
+
+(13) Phó Chủ tịch Công đoàn cơ sở:
+
+□;
+
+(14) Ủy viên Ban Chấp hành Công
+ đoàn cơ sở:
+
+□;
+
+(15) Tổ trưởng Công đoàn:
+
+□;
+
+(16) Tổ phó Công đoàn:
+
+□;
+
+(17) Cán bộ Công đoàn cơ sở thành
+ viên, Công đoàn bộ phận:
+
+□;
+
+(18) Ủy viên Ủy ban Kiểm tra Công
+ đoàn cơ sở:
+
+□;
+
+ 
+
+ 
+
+………….., ngày ……./……/2022 
+
+Người khai thông tin 
+
+(Đoàn viên ký, ghi rõ họ tên)
+
+Ghi chú:
+
+(1) Viết IN HOA đủ dấu. (2) Định dạng dd/MM/yyyy. VD: 22/10/1990; (3)
+Chỉ ghi tên tỉnh, thành phố, VD: Hà Nội, Hải Phòng; (4) Ghi Mã tỉnh,
+thành phố theo danh sách do Tổng LĐLĐ Việt Nam cung cấp.(5) Số
+CMND/CCCD phải đảm bảo độ dài 9 hoặc 12 số;
+
+ 
+
+ 
+
+Mẫu 02
+
+TỔNG
+ LIÊN ĐOÀN LAO ĐỘNG 
+
+VIỆT NAM
+
+ĐƠN VỊ: …………………….
+
+ -------
+
+CỘNG
+ HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+ Độc lập - Tự do - Hạnh phúc 
+
+ ---------------
+
+ 
+
+ 
+
+ 
+
+DANH SÁCH NẠP MỚI ĐOÀN VIÊN CÔNG ĐOÀN
+
+TT
+
+Họ và tên *
+
+Ngày tháng năm sinh (ngày/tháng/năm) *
+
+Nguyên quán
+
+Số CMND *
+
+Ngày vào CĐ *
+
+Cán bộ Công đoàn
+
+Chức vụ CĐ tại CĐCS
+
+Nam
+
+Nữ
+
+Tỉnh
+
+Mã tỉnh
+
+Chuyên trách (Hưởng lương ngân sách CĐ)
+
+Chuyên trách (Hưởng lương ngoài ngân sách CĐ)
+
+Không chuyên trách
+
+Chủ tịch
+
+Phó chủ tịch
+
+UV BCH
+
+Tổ trưởng
+
+Tổ phó
+
+CB CĐCS thành viên, CĐ bộ phận
+
+UVUBKT
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+* Lưu ý: Danh sách đoàn viên kết thúc bằng dòng không
+ có dữ liệu, vui lòng không thay đổi định dạng của biểu mẫu, việc thay đổi định
+ dạng sẽ dẫn đến các lỗi không mong muốn
+
+* Ngày tháng phải có định dạng
+ dd/MM/yyyy. VD: 22/10/1990
+
+* Số CMND phải đảm bảo độ dài 9 hoặc
+ 12 số
+
+* Hệ thống sẽ tự động dùng import
+ khi gặp dòng không có dữ liệu
+
+Hà
+ Nội, ngày …./…./2022
+
+TM. BAN THƯỜNG VỤ
+
+CHỦ TỊCH
+
+ (Ký tên, đóng dấu)
+
+ 
+
+ 
+
+Mẫu 03
+
+TỔNG
+ LIÊN ĐOÀN LAO ĐỘNG 
+
+VIỆT NAM
+
+ĐƠN VỊ: …………………….
+
+ -------
+
+CỘNG
+ HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+ Độc lập - Tự do - Hạnh phúc 
+
+ ---------------
+
+ 
+
+ 
+
+THÔNG TIN ĐĂNG KÝ CÁN BỘ PHỤ TRÁCH PHẦN
+MỀM QUẢN LÝ ĐOÀN VIÊN CÔNG ĐOÀN
+
+TT
+
+Họ
+ và tên
+
+Chức
+ vụ Công đoàn
+
+Điện
+ thoại di động
+
+Email
+
+Ghi
+ chú
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Hà
+ Nội, ngày ……./……/2022 
+
+TM. BAN THƯỜNG VỤ CHỦ TỊCH 
+
+(Ký tên, đóng dấu)
+
+……………………..
+
+ 
+
+[1]
+Số liệu tính đến hết năm 2021--- THÔNG TIN THÊM ---
+Ten: Kế hoạch 44/KH-LĐLĐ năm 2022 thực hiện dự án “Cập nhật cơ sở dữ liệu đoàn viên Công đoàn trên phần mềm quản lý đoàn viên và in, đổi thẻ Công đoàn của Liên đoàn Lao động thành phố Hà Nội”
+So hieu: 44/KH-LĐLĐ
+Loai van ban: Kế hoạch
+Linh vuc nganh: Lao động - Tiền lương, Công nghệ thông tin
+Noi ban hanh: Liên đoàn Lao động thành phố Hà Nội
+Nguoi ky: Nguyễn Phi Thường
+Ngay ban hanh: 03/08/2022
+Ngay hieu luc: 03/08/2022
+Ngay dang: Dữ liệu đang cập nhật
+So cong bao: Dữ liệu đang cập nhật
+Tinh trang: Không xác định
+
+
+--- MỤC LỤC ---
+- KẾ HOẠCH TRIỂN KHAI THỰC HIỆN DỰ ÁN “CẬP NHẬT CƠ SỞ DỮ LIỆU ĐOÀN VIÊN CÔNG ĐOÀN TRÊN PHẦN MỀM QUẢN LÝ ĐOÀN VIÊN VÀ IN, ĐỔI THẺ CÔNG ĐOÀN CỦA LIÊN ĐOÀN LAO ĐỘNG THÀNH PHỐ HÀ NỘI”
+  - I. MỤC ĐÍCH, YÊU CẦU
+  - II. NỘI DUNG KẾ HOẠCH
+    - 1. Giải pháp thu thập dữ liệu
+    - 2. Kế hoạch thu thập dữ liệu:
+    - 3. Kế hoạch cập nhật dữ liệu lên phần mềm:
+  - III. TỔ CHỨC THỰC HIỆN
+    - 1. Đối với LĐLĐ thành phố
+    - 2. Đối với các LĐLĐ quận, huyện, thị xã, Công đoàn ngành, Công đoàn Tổng Công ty, Công đoàn cấp trên trực tiếp cơ sở.
+    - 3. Đối với các CĐCS (bao gồm CĐCS trực thuộc LĐLĐ thành phố)
+    - 4. Đối với nhà thầu hiện dự án:
+  - Biểu 01: KẾ HOẠCH THU THẬP DỮ LIỆU
+  - Biểu 02: KẾ HOẠCH CẬP NHẬT DỮ LIỆU LÊN PHẦN MỀM
+  - Biểu 03: DANH SÁCH TÀI KHOẢN
+  - Biểu 04: DANH SÁCH MÃ TỈNH DO TỔNG LĐLĐ VIỆT NAM CẤP PHỤC VỤ CẬP NHẬT CƠ SỞ DỮ LIỆU ĐOÀN VIÊN
+  - Mẫu 01 PHIẾU THU THẬP THÔNG TIN ĐOÀN VIÊN
+  - Mẫu 02 DANH SÁCH NẠP MỚI ĐOÀN VIÊN CÔNG ĐOÀN
+  - Mẫu 03 THÔNG TIN ĐĂNG KÝ CÁN BỘ PHỤ TRÁCH PHẦN MỀM QUẢN LÝ ĐOÀN VIÊN CÔNG ĐOÀN
+
+--- VĂN BẢN LIÊN QUAN ---
+
+Van ban lien quan cung noi dung:
+  - Kế hoạch 10/KH-LĐLĐ về phát triển đoàn viên, thành lập công đoàn cơ sở năm 2023 do Liên đoàn lao động Thành phố Hồ Chí Minh ban hành (ID: 558981)
+  - Hướng dẫn 285/HD-UBND-LĐLĐ năm 2022 về tổ chức Hội nghị cán bộ công chức, viên chức và Hội nghị người lao động năm 2023 do Ủy ban nhân dân - Liên đoàn Lao động Thành phố Hà Nội ban hành (ID: 536848)
+  - Công văn 1011/LĐLĐ-CSPL năm 2022 về chỉ đạo tổ chức Hội nghị cán bộ, công chức, viên chức, hội nghị người lao động năm 2023 do Liên đoàn Lao động Thành phố Hồ Chí Minh ban hành (ID: 532178)
+  - Kế hoạch 26/KH-LĐLĐ năm 2022 thực hiện Quyết định 96/QĐ-TTg phê duyệt chương trình giáo dục đạo đức, lối sống trong gia đình trong đoàn viên, người lao động đến năm 2030 do Liên đoàn Lao động Thành phố Hà Nội ban hành (ID: 546856)

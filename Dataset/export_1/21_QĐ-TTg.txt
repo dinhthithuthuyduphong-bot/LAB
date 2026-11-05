@@ -1,0 +1,561 @@
+THỦ
+ TƯỚNG CHÍNH PHỦ
+
+ -------
+
+CỘNG
+ HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+ Độc lập - Tự do - Hạnh phúc 
+
+ ---------------
+
+Số:
+ 21/QĐ-TTg
+
+Hà
+ Nội, ngày 06 tháng 01 năm 2021
+
+ 
+
+QUYẾT ĐỊNH
+
+PHÊ DUYỆT ĐỀ ÁN “ĐÀO TẠO VÀ PHÁT TRIỂN NGUỒN NHÂN LỰC AN TOÀN THÔNG TIN
+GIAI ĐOẠN 2021 - 2025”
+
+THỦ TƯỚNG CHÍNH PHỦ
+
+Căn cứ Luật Tổ chức Chính phủ ngày
+19 tháng 6 năm 2015; Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính
+phủ và Luật Tổ chức chính quyền địa phương ngày 22 tháng 11 năm 2019;
+
+Căn cứ Luật An toàn thông tin mạng
+ngày 19 tháng 11 năm 2015;
+
+Căn cứ Nghị quyết số 52-NQ/TW ngày
+27 tháng 9 năm 2019 của Bộ Chính trị về một số chủ trương, chính sách chủ động
+tham gia cuộc Cách mạng công nghiệp lần thứ tư;
+
+Theo đề nghị của Bộ trưởng Bộ
+Thông tin và Truyền thông.
+
+QUYẾT ĐỊNH:
+
+Điều 1. Phê duyệt Đề án “Đào tạo và phát triển nguồn
+nhân lực an toàn thông tin giai đoạn 2021 - 2025” (sau đây gọi tắt là Đề án) với
+những nội dung chủ yếu sau đây:
+
+I. QUAN ĐIỂM
+
+Đào tạo, phát triển đội ngũ nhân lực
+an toàn thông tin (ATTT) là nội dung quan trọng để hiện thực hóa tầm nhìn đưa
+Việt Nam trở thành cường quốc về ATTT, góp phần triển khai thành công Chương
+trình chuyển đổi số quốc gia, phát triển Chính phủ điện tử hướng tới Chính phủ
+số, nền kinh tế - xã hội số và nâng cao uy tín, xếp hạng quốc tế của Việt Nam về
+ATTT theo đánh giá của Liên minh Viễn thông quốc tế (ITU).
+
+II. MỤC TIÊU
+
+1. Mục tiêu tổng quát
+
+a) Đào tạo, nâng cao kiến thức, kỹ
+năng về ATTT cho cán bộ, công chức, viên chức, người lao động trong cơ quan, tổ
+chức Nhà nước; hỗ trợ các cơ quan, tổ chức của Đảng, tổ chức chính trị - xã hội
+đào tạo, tập huấn về ATTT khi có đề nghị từ các cơ quan, tổ chức này.
+
+b) Xây dựng và phát triển đội ngũ
+chuyên gia ATTT để bảo vệ cho các hệ thống thông tin của Đảng và Nhà nước.
+
+c) Đào tạo đội ngũ giảng viên, nghiên
+cứu viên về ATTT ở nước ngoài cho các cơ sở giáo dục đại học; đào tạo thạc sĩ,
+kỹ sư, cử nhân ATTT trong nước.
+
+d) Đào tạo kiến thức, kỹ năng ATTT
+cho các tổ chức, cá nhân và đào tạo ATTT theo cơ chế xã hội hóa.
+
+2. Mục tiêu cụ thể
+
+a) Tổ chức 3.000 lượt đào tạo ngắn hạn
+về kiến thức, kỹ năng, kỹ thuật ATTT cho cán bộ kỹ thuật chuyên trách hoặc kiêm
+nhiệm về ATTT của các cơ quan, tổ chức của Đảng, Nhà nước, tổ chức chính trị -
+xã hội, các doanh nghiệp, tổ chức kinh tế của nhà nước và các thành viên mạng
+lưới ứng cứu sự cố quốc gia.
+
+b) Tổ chức 1.000 lượt đào tạo ngắn hạn
+về quản lý, nghiệp vụ và kỹ năng ATTT cho đội ngũ lãnh đạo, quản lý của các cơ
+quan, tổ chức của Đảng, Nhà nước, tổ chức chính trị-xã hội, các doanh nghiệp, tổ
+chức kinh tế của nhà nước.
+
+c) Tổ chức 6.000 lượt đào tạo ngắn hạn
+về kiến thức, kỹ năng ATTT của người dùng cho các công chức, viên chức và người
+lao động có sử dụng thiết bị công nghệ thông tin (CNTT) khi làm việc của các cơ
+quan, tổ chức của Đảng, Nhà nước, tổ chức chính trị - xã hội, các doanh nghiệp,
+tổ chức kinh tế của nhà nước.
+
+d) Lựa chọn và tổ chức đào tạo 200
+chuyên gia ATTT để bảo vệ cho các hệ thống thông tin của Đảng và Nhà nước.
+
+đ) Đưa 150 giảng viên, nghiên cứu
+viên đi đào tạo, bồi dưỡng cập nhật về ATTT ở nước ngoài, trong đó có tối thiểu
+70 tiến sĩ.
+
+e) Đào tạo 5.000 thạc sĩ, kỹ sư, cử
+nhân ATTT.
+
+III. CÁC NHIỆM VỤ,
+GIẢI PHÁP
+
+1. Đào tạo ngắn hạn về ATTT theo hình
+thức tập trung, trực tuyến hoặc kết hợp giữa tập trung và trực tuyến về ATTT
+cho các cơ quan, tổ chức Nhà nước; hỗ trợ các cơ quan, tổ chức của Đảng, tổ chức
+chính trị - xã hội đào tạo, tập huấn về ATTT khi có đề nghị từ các cơ quan, tổ
+chức này.
+
+a) Nội dung đào tạo bao gồm:
+
+- Về quản lý, nghiệp vụ và kỹ năng
+ATTT cho đội ngũ lãnh đạo, quản lý.
+
+- Cập nhật, nâng cao kỹ năng kỹ thuật
+ATTT cho đội ngũ nhân lực kỹ thuật làm về ATTT và CNTT theo chuẩn, khung chương
+trình, yêu cầu kỹ năng ATTT do Bộ Thông tin và Truyền thông ban hành, hướng dẫn,
+các chương trình đào tạo theo các chứng chỉ quốc tế và thi lấy chứng chỉ quốc tế.
+
+- Về kiến thức, kỹ năng ATTT của người
+dùng cho các cán bộ, công chức, viên chức và người lao động có sử dụng thiết bị
+CNTT.
+
+- Về kiến thức, kỹ năng, kỹ thuật
+ATTT cho đội ngũ nhân lực kỹ thuật ATTT và CNTT của các đơn vị thành viên mạng
+lưới ứng cứu sự cố ATTT mạng quốc gia. Chú trọng các chương trình đào tạo theo
+chuẩn kỹ năng, khung chương trình, yêu cầu ATTT do Bộ Thông tin và Truyền thông
+ban hành, hướng dẫn và các chương trình đào tạo theo các chứng chỉ quốc tế và
+thi lấy chứng chỉ quốc tế.
+
+b) Xây dựng hệ thống, chương trình,
+tài liệu để phục vụ kiểm tra, đánh giá năng lực ATTT trong quá trình đào tạo. Lựa
+chọn một số cán bộ có kết quả học tập tốt để tham gia thi lấy các chứng chỉ quốc
+tế.
+
+2. Đào tạo 200 chuyên gia ATTT để bảo
+vệ cho các hệ thống thông tin của Đảng và Nhà nước
+
+Lựa chọn 200 cán bộ của các bộ,
+ngành, địa phương, các cơ quan, tổ chức đang được giao nhiệm vụ quản lý, vận
+hành các hệ thống thông tin Chính phủ điện tử, hệ thống thông tin của các cơ
+quan Đảng và Nhà nước để tổ chức đào tạo thành các chuyên gia ATTT. Chú trọng
+đào tạo cho đội ngũ này theo hình thức đào tạo chuyên sâu và thường xuyên đào tạo,
+cập nhật về kỹ năng, kỹ thuật ATTT và nghiệp vụ ATTT nâng cao theo các hình thức
+nêu tại khoản 1 mục III Điều này; đào tạo theo hình thức thực tập thực tế, tại
+chỗ (on-the-job training), tổ chức đào tạo ngắn hạn cập nhật công nghệ, nâng
+cao kiến thức, kỹ năng ATTT ở nước ngoài.
+
+3. Chuẩn hóa kỹ năng ATTT trong các
+cơ quan, tổ chức
+
+a) Xây dựng, ban hành quy định chuẩn
+kỹ năng về ATTT, tiêu chuẩn, tiêu chí, yêu cầu chuyên môn, nghiệp vụ ATTT cho
+cán bộ chuyên trách về ATTT và CNTT nhằm chuẩn hóa và nâng cao chất lượng nguồn
+nhân lực ATTT trong các cơ quan, tổ chức, doanh nghiệp; hướng dẫn, phối hợp tổ
+chức hoạt động kiểm tra, đánh giá năng lực ATTT đối với cán bộ kỹ thuật, quản
+lý về ATTT và CNTT trong các cơ quan, tổ chức.
+
+b) Đưa nội dung đào tạo về ATTT vào
+các chương trình đào tạo, bồi dưỡng, xếp hoặc nâng ngạch bậc cho tất cả các vị
+trí việc làm và các chương trình đào tạo, bồi dưỡng cho cán bộ, công chức, viên
+chức theo định kỳ trong cơ quan nhà nước.
+
+4. Đào tạo đội ngũ giảng viên, nghiên
+cứu viên về ATTT ở nước ngoài
+
+Bổ sung nhiệm vụ và ưu tiên phân bổ
+chỉ tiêu đào tạo giảng viên có trình độ tiến sĩ cho các trường đại học giai đoạn
+2021 - 2025. Ưu tiên dành chỉ tiêu học bổng từ Quyết định số 89/QĐ-TTg ngày 18
+tháng 01 năm 2019 của Thủ tướng Chính phủ phê duyệt Đề án “Nâng cao năng lực đội
+ngũ giảng viên, cán bộ quản lý các cơ sở giáo dục đại học đáp ứng yêu cầu đổi mới
+căn bản toàn diện giáo dục và đào tạo giai đoạn 2019 - 2030” và các chương
+trình đào tạo ở nước ngoài khác, đặc biệt là đào tạo bằng ngân sách nhà nước, vốn
+có nguồn gốc từ ngân sách nhà nước, học bổng trong các chương trình hợp tác giữa
+Việt Nam và các quốc gia, tổ chức quốc tế để đào tạo đội ngũ giảng viên, nghiên
+cứu viên về ATTT.
+
+5. Đào tạo thạc sĩ, kỹ sư, cử nhân
+ATTT trong nước
+
+a) Tăng chỉ tiêu tuyển sinh và nâng cao
+chất lượng đào tạo thạc sĩ, kỹ sư, cử nhân ATTT cho các cơ sở đào tạo về ATTT để
+đáp ứng mục tiêu đặt ra của Đề án.
+
+b) Nâng cao chất lượng đào tạo kỹ sư,
+cử nhân chuyên ngành ATTT trong quá trình triển khai Quyết định số 69/QĐ-TTg 
+ngày 15 tháng 01 năm 2019 của Thủ tướng Chính phủ phê duyệt Đề án nâng cao chất
+lượng giáo dục đại học giai đoạn 2019 - 2025, gắn đào tạo với thực hành, thực tập
+trong môi trường làm việc thực tế.
+
+6. Đào tạo kiến thức, kỹ năng ATTT
+cho các tổ chức, cá nhân
+
+a) Các tổ chức, doanh nghiệp quản lý,
+vận hành các hạ tầng quan trọng như viễn thông, Internet, trung tâm dữ liệu,
+các hệ thống tài chính, ngân hàng, chứng khoán, bảo hiểm và các hệ thống thông
+tin quan trọng quốc gia phải chú trọng và thường xuyên đào tạo, phát triển đội
+ngũ nhân lực ATTT tại chỗ. Ưu tiên tổ chức các khóa đào tạo theo chuẩn kỹ năng,
+khung chương trình, tiêu chí, yêu cầu chuyên môn, nghiệp vụ ATTT do Bộ Thông
+tin và Truyền thông ban hành và các chương trình đào tạo ATTT theo các chứng chỉ
+quốc tế và thi lấy chứng chỉ quốc tế.
+
+b) Các doanh nghiệp nhà nước, tổ chức
+kinh tế của nhà nước theo nhu cầu thực tiễn thường xuyên tổ chức các chương
+trình đào tạo: về kỹ năng, kỹ thuật ATTT cho cán bộ kỹ thuật ATTT, CNTT; về kiến
+thức quản lý, nghiệp vụ và kỹ năng ATTT cho đội ngũ lãnh đạo quản lý; về kiến
+thức, kỹ năng ATTT của người dùng cho các cán bộ, viên chức và người lao động
+có sử dụng thiết bị CNTT khi làm việc trong cơ quan, tổ chức.
+
+c) Khuyến khích các tổ chức, doanh
+nghiệp ngoài nhà nước triển khai các chương trình đào tạo về kỹ năng, kỹ thuật,
+nghiệp vụ ATTT cho cán bộ, viên chức và người lao động trong cơ quan, tổ chức
+mình.
+
+d) Triển khai hệ thống, chương trình,
+tài liệu để tổ chức đào tạo trực tuyến rộng rãi và kiểm tra kết quả đầu ra nhằm
+phổ biến kiến thức, kỹ năng ATTT cho đông đảo người dân trong cộng đồng.
+
+7. Đào tạo ATTT theo cơ chế xã hội
+hóa
+
+Vận động các cơ sở đào tạo, doanh
+nghiệp, chuyên gia ATTT và các tổ chức, cá nhân có liên quan kết hợp tổ chức miễn
+phí hoặc cấp học bổng các khóa đào tạo về kiến thức, kỹ năng, kỹ thuật ATTT cho
+các cơ quan, tổ chức, doanh nghiệp (đặc biệt là doanh nghiệp vừa và nhỏ) và người
+dùng liên quan đến thiết bị CNTT trong cộng đồng.
+
+8. Tổ chức điều phối thực hiện Đề án
+
+a) Điều hòa, phối hợp hoạt động triển
+khai Đề án trên phạm vi cả nước; đôn đốc, kiểm tra, giám sát công tác triển
+khai nhằm bảo đảm hiệu quả của Đề án; sơ kết, tổng kết, tổng hợp thông tin, số
+liệu về tình hình, kết quả thực hiện Đề án phục vụ công tác chỉ đạo, điều hành
+triển khai Đề án.
+
+b) Phối hợp với các cơ quan, tổ chức,
+đơn vị, doanh nghiệp, hội, hiệp hội tổ chức các câu lạc bộ sinh viên ATTT, hoạt
+động hướng nghiệp, cuộc thi ATTT, hội chợ việc làm; hỗ trợ sinh viên thực tập,
+làm việc thực tế tại các tổ chức, doanh nghiệp, viện nghiên cứu và các hoạt động
+khác theo yêu cầu thực tiễn.
+
+c) Truyền thông, nâng cao nhận thức của
+các cấp, các ngành, các cơ sở đào tạo giáo dục và toàn xã hội về đào tạo, phát
+triển nguồn nhân lực ATTT.
+
+d) Khảo sát, học tập kinh nghiệm đào
+tạo, phát triển nguồn nhân lực ATTT trong và ngoài nước. Tăng cường hợp tác quốc
+tế để trao đổi kinh nghiệm về đào tạo, nghiên cứu, phát triển nguồn nhân lực
+ATTT.
+
+9. Bảo đảm nguồn lực triển khai Đề án
+
+a) Kinh phí chi thường xuyên từ ngân
+sách trung ương bố trí để thực hiện Đề án là 150 tỷ đồng (chi tiết tại Phụ lục
+kèm theo). Căn cứ nhiệm vụ được giao tại Đề án, các bộ, ngành, địa phương xây dựng
+kế hoạch và dự toán kinh phí thực hiện, tổng hợp chung trong kế hoạch dự toán
+ngân sách hằng năm của bộ, ngành, địa phương, trình cấp có thẩm quyền quyết định.
+
+b) Các doanh nghiệp, tổ chức kinh tế
+(đặc biệt là doanh nghiệp nhà nước, doanh nghiệp quản lý và vận hành hạ tầng
+quan trọng) bố trí kinh phí từ ngân sách của mình để đào tạo ATTT.
+
+c) Các cơ sở đào tạo đại học ưu tiên
+bố trí ngân sách từ nguồn tự chủ của mình để triển khai đào tạo, nghiên cứu
+phát triển về ATTT.
+
+d) Khuyến khích việc huy động từ các
+nguồn hỗ trợ phát triển chính thức (ODA), đóng góp của các tổ chức, doanh nghiệp
+và các nguồn tài trợ hợp pháp khác để triển khai Đề án này.
+
+IV. TỔ CHỨC THỰC
+HIỆN
+
+1. Bộ Thông tin và Truyền thông
+
+a) Chủ trì tổ chức triển khai thực hiện
+Đề án; hướng dẫn các cơ quan, tổ chức xây dựng kế hoạch hàng năm để triển khai
+thực hiện các nội dung được giao trong Đề án; tổng hợp thông tin, số liệu về
+tình hình, kết quả thực hiện Đề án.
+
+b) Chủ trì, phối hợp với các cơ quan
+liên quan triển khai thực hiện khoản 1, khoản 2, điểm a khoản 3, điểm d khoản
+6, khoản 7, khoản 8 Mục III Điều này.
+
+c) Chủ trì, phối hợp với Bộ Giáo dục
+và Đào tạo, Bộ Khoa học và Công nghệ và các cơ quan, tổ chức liên quan xây dựng
+mạng lưới liên kết các chuyên gia nghiên cứu, tư vấn công nghệ về ATTT trong nước
+và quốc tế.
+
+d) Thành lập Ban Điều hành để chỉ đạo,
+điều hành, điều phối việc tổ chức triển khai Đề án. Ban Điều hành có cơ quan
+thường trực là Cục An toàn thông tin (Bộ Thông tin và Truyền thông).
+
+2. Bộ Giáo dục và Đào tạo
+
+a) Chủ trì, phối hợp với Bộ Thông tin
+và Truyền thông và các cơ quan liên quan thực hiện khoản 4, khoản 5 mục III Điều
+này.
+
+b) Chỉ đạo tổ chức triển khai đào tạo
+kiến thức, kỹ năng cơ bản về ATTT trong các cơ sở giáo dục.
+
+c) Hàng năm tổng hợp số liệu tuyển
+sinh, tốt nghiệp và tình hình đào tạo về ATTT của các cơ sở đào tạo gửi Bộ
+Thông tin và Truyền thông tổng hợp.
+
+3. Bộ Nội vụ
+
+Chủ trì, phối hợp với Bộ Thông tin và
+Truyền thông và các cơ quan liên quan thực hiện điểm b khoản 3 mục III Điều
+này.
+
+4. Bộ Quốc phòng
+
+Tổ chức triển khai đào tạo và phát
+triển nguồn nhân lực ATTT trong lĩnh vực thuộc phạm vi quản lý.
+
+5. Bộ Công an
+
+Tổ chức triển khai đào tạo và phát
+triển nguồn nhân lực ATTT trong lĩnh vực thuộc phạm vi quản lý.
+
+6. Bộ Tài chính
+
+a) Tổng hợp nhu cầu kinh phí thường
+xuyên triển khai Đề án từ ngân sách trung ương của các cơ quan, tổ chức, phân bổ
+hoặc trình cấp có thẩm quyền phân bổ kinh phí thường xuyên theo quy định của Luật
+Ngân sách nhà nước để thực hiện các nhiệm vụ, giải pháp thuộc Đề án.
+
+b) Chủ trì, phối hợp với Bộ Thông tin
+và Truyền thông xây dựng hướng dẫn cơ chế tài chính, bố trí kinh phí, nguồn lực
+và triển khai các giải pháp tại khoản 8 Mục III Điều này để triển khai các nhiệm
+vụ, giải pháp thuộc Đề án.
+
+7. Các bộ cơ quan ngang bộ, cơ quan
+thuộc Chính phủ, Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương
+
+a) Xây dựng kế hoạch đào tạo ATTT cho
+cán bộ, công chức, viên chức thuộc cơ quan; tổ chức triển khai các nội dung,
+nhiệm vụ, giải pháp khác thuộc Đề án phù hợp với chức năng, nhiệm vụ của mình;
+hàng năm báo cáo tình hình, kết quả triển khai đào tạo, phát triển nguồn nhân lực
+ATTT thuộc phạm vi quản lý gửi Bộ Thông tin và Truyền thông trước ngày 20 tháng
+12 để tổng hợp.
+
+b) Ưu tiên bố trí kinh phí để triển
+khai đào tạo về ATTT; bố trí kinh phí và cử cán bộ tham gia các khóa đào tạo ngắn
+hạn về ATTT theo thông báo, triệu tập của Bộ Thông tin và Truyền thông.
+
+c) Chủ trì, phối hợp với cơ quan
+chuyên ngành về ATTT để xây dựng, tổ chức triển khai đào tạo, nâng cao năng lực
+cho cán bộ kỹ thuật, cán bộ quản lý và người dùng cuối thuộc cơ quan, ngành,
+lĩnh vực mình quản lý.
+
+8. Các cơ sở đào tạo về ATTT
+
+a) Cử giảng viên, nghiên cứu viên đi đào
+tạo ở nước ngoài theo khoản 4 mục III Điều này; thực hiện khoản 5 mục III Điều
+này theo quy định, hướng dẫn của Bộ Giáo dục và Đào tạo.
+
+b) Huy động tối đa các nguồn lực hiện
+có, kết hợp với các chương trình, dự án khác, khai thác hiệu quả vốn đầu tư của
+Nhà nước để đào tạo kỹ sư, cử nhân; kỹ sư thực hành, cử nhân thực hành ATTT và
+đào tạo, bồi dưỡng chuyên gia ATTT.
+
+c) Tăng cường hàm lượng thực hành
+trong đào tạo ATTT để sinh viên có điều kiện cọ sát và tiếp cận thực tế.
+
+9. Các tổ chức kinh tế nhà nước,
+doanh nghiệp nhà nước
+
+a) Tổ chức triển khai các nhiệm vụ tại
+các điểm a, b, c khoản 6 mục III Điều này trong phạm vi quản lý của tổ chức.
+
+b) Bố trí đủ nguồn lực và kinh phí để
+triển khai đào tạo, bồi dưỡng về ATTT và thực hiện các nội dung, nhiệm vụ, giải
+pháp quy định tại Quyết định này.
+
+Điều 2. Quyết định này có hiệu lực thi hành kể từ ngày
+ký ban hành.
+
+Điều 3. Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ
+trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực
+thuộc trung ương chịu trách nhiệm thi hành Quyết định này./.
+
+ 
+
+Nơi nhận:
+
+- Ban Bí thư Trung ương Đảng;
+
+ - Thủ tướng, các Phó Thủ tướng Chính phủ;
+
+ - Các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ;
+
+ - HĐND, UBND các tỉnh, thành phố trực thuộc trung ương;
+
+ - Văn phòng Trung ương và các Ban của Đảng;
+
+ - Văn phòng Tổng Bí thư;
+
+ - Văn phòng Chủ tịch nước;
+
+ - Văn phòng Quốc hội;
+
+ - Tòa án nhân dân tối cao;
+
+ - Viện kiểm sát nhân dân tối cao;
+
+ - Kiểm toán Nhà nước;
+
+ - Ủy ban Giám sát tài chính Quốc gia;
+
+ - Ngân hàng Phát triển Việt Nam;
+
+ - Đại học Quốc gia Hà Nội;
+
+ - Đại học Quốc gia Thành phố Hồ Chí Minh;
+
+ - VPCP: BTCN, các PCN, Trợ lý TTg, TGĐ Cổng TTĐT, các Vụ, Cục;
+
+ - Lưu: VT, KSTT(2b).
+
+KT. THỦ TƯỚNG
+
+ PHÓ THỦ TƯỚNG
+
+ Vũ Đức Đam
+
+ 
+
+PHỤ LỤC
+
+BẢNG TỔNG HỢP KINH PHÍ CHI THƯỜNG XUYÊN TỪ
+NGÂN SÁCH TRUNG ƯƠNG PHÂN BỔ ĐỂ TRIỂN KHAI THỰC HIỆN MỘT SỐ NỘI DUNG CỦA ĐỀ ÁN
+
+(Ban hành kèm Quyết định số 21/QĐ-TTg ngày 06 tháng 01 năm 2021 của Thủ tướng
+Chính phủ)
+
+STT
+
+Nội
+ dung/Nhiệm vụ
+
+Thời
+ gian thực hiện
+
+Cơ
+ quan chủ trì
+
+Dự
+ kiến kinh phí
+
+(tỷ VND)
+
+1
+
+Tổ chức các hoạt động điều phối, quản
+ lý, điều hành, thông tin tuyên truyền, giám sát thực hiện Đề án
+
+2021
+ - 2025
+
+Bộ
+ Thông tin và Truyền thông
+
+20
+
+2
+
+Đào tạo ngắn hạn về ATTT trong nước
+
+2021
+ - 2025
+
+Bộ
+ Thông tin và Truyền thông
+
+50
+
+3
+
+Đào tạo 200 chuyên gia ATTT (ngắn hạn
+ ở trong nước và nước ngoài)
+
+2021
+ - 2025
+
+Bộ
+ Thông tin và Truyền thông
+
+40
+
+4
+
+Xây dựng hệ thống, chương trình,
+ tài liệu để đào tạo và kiểm tra, đánh giá năng lực ATTT
+
+2021
+ - 2025
+
+Bộ
+ Thông tin và Truyền thông
+
+40
+
+ 
+
+Tổng
+
+ 
+
+ 
+
+150--- THÔNG TIN THÊM ---
+Ten: Quyết định 21/QĐ-TTg năm 2021 về phê duyệt Đề án "Đào tạo và phát triển nguồn nhân lực an toàn thông tin giai đoạn 2021-2025" do Thủ tướng Chính phủ ban hành
+So hieu: 21/QĐ-TTg
+Loai van ban: Quyết định
+Linh vuc nganh: Lao động - Tiền lương, Công nghệ thông tin
+Noi ban hanh: Thủ tướng Chính phủ
+Nguoi ky: Vũ Đức Đam
+Ngay ban hanh: 06/01/2021
+Ngay hieu luc: 06/01/2021
+Ngay dang: Dữ liệu đang cập nhật
+So cong bao: Dữ liệu đang cập nhật
+Tinh trang: Còn hiệu lực
+
+
+--- MỤC LỤC ---
+- QUYẾT ĐỊNH PHÊ DUYỆT ĐỀ ÁN “ĐÀO TẠO VÀ PHÁT TRIỂN NGUỒN NHÂN LỰC AN TOÀN THÔNG TIN GIAI ĐOẠN 2021 - 2025”
+  - Điều 1. Phê duyệt Đề án “Đào tạo và phát triển nguồn nhân lực an toàn thông tin giai đoạn 2021 - 2025” (sau đây gọi tắt là Đề án) với những nội dung chủ yếu sau đây:
+  - I. QUAN ĐIỂM
+  - II. MỤC TIÊU
+  - III. CÁC NHIỆM VỤ, GIẢI PHÁP
+  - IV. TỔ CHỨC THỰC HIỆN
+    - Điều 2. Quyết định này có hiệu lực thi hành kể từ ngày ký ban hành.
+    - Điều 3. Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương chịu trách nhiệm thi hành Quyết định này./.
+  - PHỤ LỤC BẢNG TỔNG HỢP KINH PHÍ CHI THƯỜNG XUYÊN TỪ NGÂN SÁCH TRUNG ƯƠNG PHÂN BỔ ĐỂ TRIỂN KHAI THỰC HIỆN MỘT SỐ NỘI DUNG CỦA ĐỀ ÁN
+
+--- VĂN BẢN LIÊN QUAN ---
+
+Van ban duoc dan chieu:
+  - Quyết định 89/QĐ-TTg năm 2019 về phê duyệt Đề án Nâng cao năng lực đội ngũ giảng viên, cán bộ quản lý các ... (ID: 405475)
+  - Quyết định 69/QĐ-TTg năm 2019 về phê duyệt Đề án nâng cao chất lượng giáo dục đại học giai đoạn 2019-2025 ... (ID: 405039)
+  - Luật ngân sách nhà nước 2015 (ID: 281762)
+
+Van ban duoc can cu:
+  - Luật Tổ chức chính phủ và Luật Tổ chức chính quyền địa phương sửa đổi 2019 (ID: 411945)
+  - Nghị quyết 52-NQ/TW năm 2019 về chủ trương, chính sách chủ động tham gia cuộc Cách mạng công nghiệp lần thứ... (ID: 425113)
+  - Luật an toàn thông tin mạng 2015 (ID: 298365)
+  - Luật tổ chức Chính phủ 2015 (ID: 282379)
+
+Van ban lien quan cung noi dung:
+  - Quyết định 1447/QĐ-LĐTBXH năm 2021 về Kế hoạch triển khai Quyết định 1446/QĐ-TTg phê duyệt Chương trình "Đào tạo, đào tạo lại nâng cao kỹ năng nguồn nhân lực đáp ứng yêu cầu của cuộc Cách mạng công nghiệp lần thứ tư" do Bộ trưởng Bộ Lao động - Thương binh và Xã hội ban hành (ID: 498262)
+  - Quyết định 1627/QĐ-TTg năm 2021 về ký Thỏa thuận bổ sung giữa Việt Nam và Ô-xtrây-lia về Chương trình phát triển nguồn nhân lực Việt Nam - Ô-xtrây-lia giai đoạn 2021-2025 do Thủ tướng Chính phủ ban hành (ID: 489447)
+  - Thông tư 49/2019/TT-BTC hướng dẫn quản lý và sử dụng kinh phí ngân sách nhà nước hỗ trợ phát triển nguồn nhân lực cho doanh nghiệp nhỏ và vừa do Bộ trưởng Bộ Tài chính ban hành (ID: 421027)
+  - Công văn 6205/VPCP-KSTT năm 2018 về thực hiện Đề án Đào tạo và phát triển nguồn nhân lực an toàn, an ninh thông tin đến năm 2020 do Văn phòng Chính phủ ban hành (ID: 386241)
+  - Quyết định 1937/QĐ-BYT năm 2017 Kế hoạch hành động thực hiện Nghị quyết 52/NQ-CP về đẩy mạnh phát triển nguồn nhân lực các dân tộc thiểu số giai đoạn 2016-2020, định hướng đến năm 2030 do Bộ Y tế ban hành (ID: 349741)

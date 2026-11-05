@@ -1,0 +1,652 @@
+BỘ LAO ĐỘNG
+
+ THƯƠNG BINH VÀ XÃ HỘI
+
+ ******
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+ Độc lập - Tự do - Hạnh phúc
+
+******
+
+Số: 09/2005/TT-BLĐTBXH
+
+Hà Nội, ngày 05 tháng 01 năm 2005
+
+ 
+
+THÔNG TƯ
+
+HƯỚNG DẪN TÍNH NĂNG SUẤT LAO ĐỘNG BÌNH QUÂN
+VÀ TIỀN LƯƠNG BÌNH QUÂN TRONG CÁC CÔNG TY NHÀ NƯỚC THEO NGHỊ ĐỊNH SỐ
+206/2004/NĐ-CP NGÀY 14 THÁNG 12 NĂM 2004 CỦA CHÍNH PHỦ
+
+Thi hành Nghị định số
+206/2004/NĐ-CP ngày 14 tháng 12 năm 2004 của Chính phủ quy định quản lý lao động,
+tiền lương và thu nhập trong các công ty nhà nước, Bộ Lao động - Thương binh và
+Xã hội hướng dẫn tính năng suất lao động bình quân và tiền lương bình quân như
+sau:
+
+I. PHẠM VI
+VÀ ĐỐI TƯỢNG ÁP DỤNG.
+
+Phạm vi và đối tượng áp dụng
+các quy định tại Thông tư này là các công ty hoạt động theo Luật Doanh nghiệp
+nhà nước, bao gồm:
+
+1. Công ty nhà nước:
+
+a) Tổng công ty nhà nước:
+
+- Tổng công ty nhà nước được
+thành lập theo Luật Doanh nghiệp nhà nước năm 1995 và Tổng công ty do Nhà nước
+quyết định đầu tư và thành lập được thành lập theo Luật Doanh nghiệp nhà nước
+năm 2003;
+
+- Tổng công ty do các công ty tự
+đầu tư và thành lập (Tổngcông ty theo mô hình công ty mẹ - công ty con); 
+
+- Tổng công ty đầu tư và kinh
+doanh vốn nhà nước;
+
+b) Công ty nhà nước độc lập;
+
+2. Công ty thành viên hạch toán
+độc lập của Tổng công ty do Nhà nước quyết định đầu tư và thành lập.
+
+Các Tổng công ty, công ty nêu
+trên được gọi tắt là công ty.
+
+II. NGUYÊN TẮC.
+
+1. Năng suất lao động bìnhquân
+được tính trên cơ sở tổng giá trị hoặc sản phẩm tiêu thụ và số lao động sử dụng
+của công ty;
+
+2. Tiền lương bình quân được
+tính trên cơ sở quỹ tiền lương thực hiện hoặc kế hoạch theo đơn giá tiền lương
+và số lao động sử dụng của công ty;
+
+3. Tiền lương bình quân được điều
+chỉnh theo mức tăng, giảm của năng suất lao động bình quân. Năng suất lao động
+bình quân tăng thì tiền lương bình quân tăng, nhưng mức tăng tiền lương bình
+quân phải thấp hơn mức tăng năng suất lao động bình quân. Năng suất lao động
+bình quân giảm thì tiền lương bình quân giảm. Mức giảm thấp nhất bằng mức giảm
+của năng suất lao động bình quân.
+
+III. TÍNH
+NĂNG SUẤT LAO ĐỘNG BÌNH QUÂN.
+
+1. Căn cứ để tính năng suất
+lao động:
+
+a) Tổng doanh thu hoặc tổng
+doanh thu trừ tổng chi phí (chưa có lương) hoặc lợi nhuận hoặc tổng sản phẩm (kể
+cả sản phẩm quy đổi) tiêu thụ thực tế của năm trước liền kề hoặc của năm kế hoạch.
+
+Chỉ tiêu tổng doanh thu; tổng
+doanh thu trừ tổng chi phí (chưa có lương); lợi nhuận được tính theo quy định tại
+Nghị định số 199/2004/NĐ-CP ngày 03 tháng 12 năm 2004 của Chính phủ ban hành
+Quy chế quản lý tài chính của công ty nhà nước và quản lý vốn nhà nước đầu tư
+vào doanh nghiệp khác và các văn bản hướng dẫn thực hiện của Bộ Tài chính.
+
+Chỉ tiêu tổng sản phẩm (kể cả sản
+phẩm quy đổi) tiêu thụ thực tế được tính theo quy định tại Thông tư số
+06/2005/TT-BLĐTBXH ngày 05/01/2005 của Bộ Lao động - Thương binh và Xã hội.
+
+b) Số lao động thực tế sử dụng
+bình quân được tính theo hướng dẫn tại Thông tư số 08/TT-BLĐTBXH ngày 7/5/1998
+của Bộ Lao động -Thương binh và Xã hội;
+
+c) Số lao động của năm kế hoạch
+được tính theo quy định tại Thông tư số 06/2005/TT-BLĐTBXH ngày 05/01/2005 của
+Bộ Lao động - Thương binh và Xã hội.
+
+2. Tính năng suất lao động:
+
+a) Năng suất lao động bình
+quân tính theo giá trị:
+
+- Năng suất lao động thực hiện
+bình quân của năm trước liền kề, được tính theo công
+thức: 
+
+S Tthnt hoặc (S Tthnt - S Cthnt)hoặc Pthnt
+
+Wthnt
+=------------------------------------------------------ (1)
+
+Lttnt
+
+Trong đó:
+
++ Wthnt: Năng suất
+lao động thực hiện bình quân tính theo giá trị của năm trước liền kề;
+
++ S Tthnt: Tổng doanh
+thu thực hiện năm trước liền kề;
+
++ S Cthnt: Tổng chi
+phí (chưa có lương) thực hiện năm trước liền kề;
+
++ Pthnt: Lợi nhuận
+thực hiện năm trước liền kề;
+
++ Lttnt: Số lao động
+thực tế sử dụng bình quân của năm trước liền kề.
+
+- Năng suất lao động kế hoạch
+bình quân của năm kế hoạch,được tính theo công thức:
+
+S Tkh hoặc (S Tkh - S Ckh)hoặc Pkh
+
+Wkh =
+--------------------------------------------------- (2)
+
+Lkh
+
+Trong đó:
+
++ Wkh: Năng suất lao
+động kế hoạch bình quân tính theo giá trị của năm kế hoạch;
+
++ S Tkh: Tổng doanh
+thu năm kế hoạch;
+
++ S Ckh: Tổng chi
+phí (chưa có lương) năm kế hoạch;
+
++ Pkh: Lợi nhuận năm
+kế hoạch;
+
++ Lkh: Số lao động kế
+hoạch.
+
+- Năng suất lao động thực hiện
+bình quân của năm kế hoạch, được tính theo công thức:
+
+S Tthkh hoặc (S Tthkh - S Cthkh)hoặc Pthkh
+
+Wth
+=-------------------------------------------------------- (3)
+
+Lttkh
+
+Trong đó:
+
++ Wth: Năng suất lao
+động thực hiện bình quân tínhtheo giá trị của năm kế hoạch;
+
++ S Tthkh: Tổng
+doanh thu thực hiện của năm kế hoạch;
+
++ S Cthkh: Tổng chi
+phí (chưa có lương) thực hiệncủa năm kế hoạch;
+
++ Pthkh: Lợi nhuận
+thực hiện của năm kế hoạch;
+
++ Lttkh: Số lao động
+thực tế sử dụng bình quân của năm kế hoạch.
+
+Ví dụ 1: Năm 2003, tổng doanh thu thực hiện của công ty là 24 tỷ đồng, số
+lao động thực tế sử dụng bình quân là 1.200 người. Năm2004, tổng doanh thu kế
+hoạch là 26,8 tỷ đồng, tổng doanh thu thực hiện là 26 tỷ đồng; số lao động kế
+hoạch là 1.280 người, số lao động thực tế sử dụng bình quân là 1.190 người. Như
+vậy, năng suất lao động bình quân tính theo giá trị được xác định như sau:
+
++ Năng suất lao động thực hiện
+bình quân năm 2003 là: 
+
+Wthnt = 24 tỷ đồng/năm
+: 1.200 người = 0,02 tỷđồng/năm 
+
++ Năng suất lao động kế hoạch
+bình quân năm 2004 là: 
+
+Wkh = 26,8 tỷ đồng/năm:
+1.280 người = 0,0209 tỷ đồng/năm.
+
++ Năng suất lao động thực hiện
+bình quân năm 2004 là: 
+
+Wth = 26 tỷ đồng/năm:
+1.190 người = 0,0218 tỷ đồng/năm.
+
+b) Năng suất lao động bình
+quân tính theo sản phẩm:
+
+- Năng suất lao động thực
+hiện bình quân của năm trước liền kề, được tính theo công thức:
+
+Qthnt
+
+Wthnt = ----------- (4)
+
+Lttnt 
+
+Trong đó:
+
++ Wthnt: Năng suất
+lao động thực hiện bình quân tính theo sản phẩm của năm trước liền kề;
+
++ Qthnt: Tổng sản phẩm
+(kể cả sản phẩm quy đổi) tiêu thụ thực tế thực hiện của năm trước liền kề;
+
++ Lttnt: Số lao động
+thực tế sử dụng bình quân của năm trước liền kề.
+
+- Năng suất lao động kế
+hoạch bình quân của năm kế hoạch, được tính
+theo công thức:
+
+Qkh
+
+Wkh = ----------- (5)
+
+Lkh
+
+Trong đó:
+
++ Wkh: Năng suất lao
+động kế hoạch bình quân tính theo sản phẩm của năm kế hoạch;
+
++ Qkh: Tổng sản phẩm
+(kể cả sản phẩm quy đổi) tiêu thụ năm kế hoạch;
+
++ Lkh: Số lao động kế
+hoạch. 
+
+- Năng suất lao động thực
+hiện bình quân của năm kế hoạch, được tính theo
+công thức:
+
+Qthkh
+
+Wth = ----------- (6)
+
+Lttkh 
+
+Trong đó:
+
++ Wth: Năng suất lao
+động thực hiện bình quân tính theo sản phẩm của năm kế hoạch;
+
++ Qthkh: Tổng sản phẩm
+(kể cả sản phẩm quy đổi) tiêu thụ thực tế thực hiện của năm kế hoạch;
+
++ Lttkh: Số lao động
+thực tế sử dụng bình quân của năm kế hoạch.
+
+Ví dụ 2: Năm 2003, tổng sản phẩm tiêu thụ thực tế thực hiện của công ty là
+36.000 tấn/năm, số lao động thực tế sử dụng bình quânlà 1.200 người. Năm 2004,
+tổng sản phẩm tiêu thụ kế hoạch là 40.000 tấn,tổng sản phẩm tiêu thụ thực tế thực
+hiện là 41.000 tấn; số lao động kế hoạch là 1.280 người, số lao động thực tế sử
+dụng bình quân là 1.250 người. Như vậy, năng suất lao động bình quân tính theo
+sản phẩm được xácđịnh như sau:
+
++ Năng suất lao động thực hiện
+bình quân năm 2003 là: 
+
+Wth = 36.000 tấn :
+1.200 người = 30 tấn/năm.
+
++ Năng suất lao động kế hoạch
+bình quân năm 2004 là: 
+
+Wkh = 40.000 tấn :
+1.280 người = 31,25 tấn/năm.
+
++ Năng suất lao động thực hiện
+bình quân năm 2004 là: 
+
+Wth = 41.000 tấn :
+1.250 người = 32,8 tấn/năm.
+
+3. Tính mức tăng năng suất lao
+động kế hoạch bình quân của năm kế hoạch so với thực hiện của năm trước liền kề theo công thức:
+
+Wkh
+
+           Iw
+= (---------- x 100%) - 100% (7)
+
+Wthnt
+
+Trong đó:
+
++ Iw: Mức tăng năng
+suất lao động bình quân (%);
+
++ Wkh: Năng suất lao
+động kế hoạch bình quân của năm kế hoạch;
+
++ Wthnt: Năng suất
+lao động thực hiện bình quân của năm trước liền kề.
+
+Ví dụ 3: Kết hợp ví dụ 1, 2 nói trên, mức tăng năng suất lao động bình quân
+năm 2004 so với thực hiện năm 2003 là:
+
++ Mức tăng năng suất lao động
+bình quân tính theo giá trị là:
+
+0,0209 tỷ đồng/năm
+
+Iw = (
+----------------------------- x 100%) - 100% = 4,5%
+
+0,02 tỷ đồng/năm
+
++ Mức tăng năng suất lao động
+bình quân tính theo sản phẩm là:
+
+31,25 tấn/năm
+
+Iw = (
+------------------------- x 100%) - 100% = 4,17%
+
+30 tấn /năm
+
+IV. TÍNH TIỀN
+LƯƠNG BÌNHQUÂN.
+
+1. Căn cứ để tính tiềnlương
+bình quân:
+
+a) Quỹ tiền lương theo đơn giá
+tiền lương của năm trước liền kề hoặc năm kế hoạch được xác định theo quy định
+tại Thông tư số 07/2005/TT-BLĐTBXH ngày 05/01/2005 của Bộ Lao động - Thương binh
+và Xã hội;
+
+b) Số lao động thực tế sử dụng
+bình quân được tính theo hướng dẫn tại Thông tư số 08/TT-BLĐTBXH ngày 7/5/1998
+của Bộ Lao động -Thương binh và Xã hội;
+
+c) Số lao động kế hoạch được
+tính theo quy định tại Thông tư số 06/2005/TT-BLĐTBXH ngày 05/01/2005 của Bộ
+Lao động - Thương binh và Xãhội.
+
+2. Tính tiền lương bình
+quân:
+
+a) Tiền lương thực hiện bình
+quân của năm trước liền kề,được tính theo công thức:
+
+Vđgthnt
+
+TLthnt = --------------- (8)
+
+Lttnt 
+
+Trong đó:
+
+- TLthnt: Tiền lương
+thực hiện bình quân của năm trước liền kề (đồng/người-năm);
+
+- Vđgthnt: Quỹ tiền
+lương thực hiện theo đơn giá tiền lương năm trước liền kề;
+
+- Lttnt: Số lao động
+thực tế sử dụng bình quân của năm trước liền kề.
+
+b) Tiền lương kế hoạch bình
+quân của năm kế hoạch, đượcxác định theo
+công thức:
+
+Vđgkh
+
+TLkh = ------------------ (9)
+
+Lkh 
+
+Trong đó:
+
+- TLkh: Tiền lương kế
+hoạch bình quân của năm kế hoạch (đồng/người-năm);
+
+- Vđgkh : Quỹ tiền
+lương theo đơn giá tiền lương năm kế hoạch;
+
+- Lkh: Số lao động kế
+hoạch;
+
+3. Tính mức tăng tiền lương
+kế hoạch bình quân của năm kế hoạch so với thực hiện của năm trước liền kề theo công thức:
+
+TLkh
+
+Itl = ( ----------- x 100% ) - 100% (10)
+
+TLthnt
+
+Trong đó:
+
+- Itl : Mức tăng tiền
+lương bình quân (%);
+
+- TLkh : Tiền lương
+kế hoạch bình quân của năm kế hoạch;
+
+- TLthnt : Tiền
+lương thực hiện bình quân của năm trước liền kề.
+
+Ví dụ 4: Năm 2003, quỹ tiền lương thực hiện theo đơn giá tiền lương của
+công ty là 18.000 triệu đồng; số lao động thực tế sửdụng bình quân là 1.000 người.
+Năm 2004, quỹ tiền lương kế hoạch theo đơn giá lương là 20.500 triệu đồng; số
+lao động kế hoạch là 1.120 người. Như vậy, tiền lương bình quân và mức tăng tiền
+lương bình quân được xác định như sau:
+
+- Tiền lương thực hiện bình
+quân năm 2003 là:
+
+TLthnt = 18.000 triệu
+đồng: 1.000 người = 18 triệuđồng/năm.
+
+- Tiền lương kế hoạch bình quân
+năm 2004 là:
+
+TLkh = 20.500 triệu
+đồng: 1.120 người tháng = 18,304 triệu đồng/năm.
+
+- Mức tăng tiền lương kế hoạch
+bình quân năm 2004 so với thực hiện năm 2003 là:
+
+18,034 triệu đồng
+
+Itl =
+(----------------------------------- x 100%) - 100%= 1,69 %
+
+18 triệu đồng 
+
+V. điều chỉnh
+tiền lương bình quân theo mức tăng, giảm năng suất lao động bình quân để xác định
+đơn giá tiền lương.
+
+Để bảo đảm mức tăng tiền lương
+bình quân thấp hơn mức tăng năng suất lao động bình quân thì tiền lương bình
+quân năm kế hoạch để xác định đơn giá tiền lương đượcđiều chỉnh theo mức tăng,
+giảm năng suất lao động bình quân như sau:
+
+1. Đối với công ty có năng
+suất lao động kế hoạch bình quân thấp hơn năng suất lao động thực hiện bình
+quân của năm trước liền kề thì tiền lương kế hoạch
+bình quân tối đa để xác định đơn giá tiền lương được điều chỉnh theo công thức:
+
+Iw + 100%
+
+TLkh = TLthnt x
+(------------------ ) (11)
+
+100%
+
+Trong đó:
+
+- TLkh : Tiền lương
+kế hoạch bình quân tối đa để xác định đơn giá tiền lương; 
+
+- TLthnt : Tiền
+lương thực hiện bình quân của năm trước liền kề được xác định theo quy định tại
+tiết a, điểm 2, mục IV của Thông tư này;
+
+- Iw : Mức tăng năng
+suất lao động kế hoạch bình quân của năm kế hoạch so với thực hiện của năm trước
+liền kề, được xác định theo quy định tại điểm 3, mục III của Thông tư này.
+
+Ví dụ 6: Năm 2003, năng suất lao động thực hiện bình quân của công ty là
+18,5 triệu đồng/năm, tiền lương thực hiện bình quân theo đơn giá là 6 triệu đồng/năm.
+Năm 2004, năng suất lao động kế hoạch bình quân là 17,5 triệu đồng/năm.
+
+- Mức tăng năng suất lao động kế
+hoạch bình quân năm 2004 so với thực hiện năm 2003 là: 
+
+Iw = (17,5 triệu đồng
+: 18,5 triệu đồng) x 100% - 100% = - 5,4054%
+
+- Tiền lương kế hoạch bình quân
+tối đa để xác định đơn giá tiền lương năm 2004 là:
+
+TLkh = 6 triệu đồng/năm
+x [ (- 5,4054% + 100%) : 100%] =5,676 triệu đồng/năm (hoặc bằng 472.973 đồng/tháng,
+nếu tính theo tháng).
+
+2. Đối với công ty có năng
+suất lao động kế hoạch bình quân bằng năng suất lao động thực hiện bình quân của
+năm trước liền kề thì tiền lương kế hoạch bình quân
+tối đa để xác định đơn giá tiền lương bằng tiền lương thực hiện bình quân năm
+trước liền kề. 
+
+3. Đối với công ty có năng
+suất lao động kế hoạch bình quân cao hơn năng suất lao động thực hiện bình quân
+của năm trước liền kề thì tiền lương kế hoạch bình
+quân tối đa để xác định đơn giá tiền lương được điều chỉnh theo công thức: 
+
+Iw
+
+TLkh = TLthnt
++ TLthnt x --------- x 0,8 (12)
+
+100% 
+
+Trong đó:
+
+- TLkh : Tiền lương
+kế hoạch bình quân tối đa để xác định đơn giá tiền lương; 
+
+- TLthnt : Tiền
+lương thực hiện bình quân của năm trước liền kề được xác định theo quy định tại
+tiết a, điểm 2, mục IV củaThông tư này;
+
+- Iw : Mức tăng năng
+suất lao động kế hoạch bình quân của năm kế hoạch so với thực hiện của năm trước
+liền kề, được xácđịnh theo quy định tại điểm 3, mục III của Thông tư này.
+
+Ví dụ 7: Năm 2003, năng suất lao động thực hiện bình quân của công ty là
+24,6 triệu đồng/năm, tiền lương thực hiện bình quân theo đơn giá là 6,6 triệu đồng/năm.
+Năm 2004, năng suất lao động kế hoạch bình quân là 26,8 triệu đồng/năm.
+
+- Mức tăng năng suất lao động kế
+hoạch bình quân năm 2004 so với thực hiện năm 2003 là:
+
+Iw = (26,8 triệu đồng
+: 24,6 triệu đồng) x 100% - 100% = 8,94%
+
+- Tiền lương kế hoạch bình quân
+tối đa để xác định đơn giá tiền lương năm 2004 là:
+
+TLkh = 6,6 triệu đồng
++ [ (6,6 triệu đồng x 8,94% x0,8) : 100%] = 7,072 triệu đồng/năm (hoặc bằng
+589.336 đồng/tháng, nếu tính theo tháng).
+
+VI. TỔ CHỨC
+THỰC HIỆN.
+
+1. Các Bộ quản lý ngành, Uỷ ban
+nhân dân tỉnh, thành phố trực thuộc Trung ương chỉ đạo các công ty tính năng suất
+lao động bình quân làm cơ sở xác định tiền lương kế hoạch bình quân tính đơn
+giá tiền lương theo quy định tại Thông tư này;
+
+2. Đối với Quỹ hỗ trợ phát triển,
+Bảo hiểm tiền gửi Việt Nam đang áp dụng chế độ tiền lương như công ty nhà nước
+quy định tại Quyết định số 17/2000/QĐ-TTg ngày 03 tháng 02 năm 2000, Quyết định
+số 88/2001/QĐ-TTg ngày 5 tháng 6 năm 2001 của Thủ tướng Chính phủ, áp dụng các
+quy định tại Thông tư này để tính năng suất lao động bình quân, tiền lương bình
+quân làm cơ sở xác định đơn giá tiền lương và quỹ tiền lương thực hiện;
+
+3. Các doanh nghiệp nhà nước hoạt
+động theo Luật Doanh nghiệp, các doanh nghiệp thuộc các thành phần kinh tế
+khác, được vận dụng các quy định tại Thông tư này;
+
+4. Thông tư này có hiệu lực sau
+15 ngày, kể từ ngày đăng Công báo. Bãi bỏ Thông tư số 06/2001/TT-BLĐTBXH ngày
+29/01/2001 của Bộ Lao động - Thương binh và Xã hội hướng dẫn tính tốc độ tăng
+năng suất lao động bình quân và tốc độ tăng tiền lương bình quân trong các
+doanh nghiệp nhà nước;
+
+5. Các quy định tại Thông tư
+này được thực hiện từ ngày 01 tháng 01 năm 2005.
+
+Trong quá trình thực hiện, nếu
+có gì vướng mắc các Bộ quản lý ngành, Uỷ ban nhân dân tỉnh, thành phố trực thuộc
+Trung ương và các công ty nhà nước phản ánh về Bộ Lao động - Thương binh và Xã
+hội nghiên cứu, giải quyết./.
+
+ 
+
+ 
+
+BỘ TRƯỞNG BỘ LAO ĐỘNG - 
+
+ THƯƠNG BINH VÀ XÃ HỘI
+
+ Nguyễn Thị Hằng--- THÔNG TIN THÊM ---
+Ten: Thông tư 09/2005/TT-BLĐTBXH hướng dẫn tính năng suất lao động bình quân và tiền lương bình quân trong các công ty nhà nước theo Nghị định 206/2004/NĐ-CP do Bộ Lao động thương binh và xã hội ban hành
+So hieu: 09/2005/TT-BLĐTBXH
+Loai van ban: Thông tư
+Linh vuc nganh: Lao động - Tiền lương
+Noi ban hanh: Bộ Lao động – Thương binh và Xã hội
+Nguoi ky: Nguyễn Thị Hằng
+Ngay ban hanh: 05/01/2005
+Ngay hieu luc: 22/01/2005
+Ngay dang: 07/01/2005
+So cong bao: Từ số 7 đến số 8
+Tinh trang: Hết hiệu lực: 25/10/2013
+
+
+--- MỤC LỤC ---
+- THÔNG TƯ HƯỚNG DẪN TÍNH NĂNG SUẤT LAO ĐỘNG BÌNH QUÂN VÀ TIỀN LƯƠNG BÌNH QUÂN TRONG CÁC CÔNG TY NHÀ NƯỚC THEO NGHỊ ĐỊNH SỐ 206/2004/NĐ-CP NGÀY 14 THÁNG 12 NĂM 2004 CỦA CHÍNH PHỦ
+  - I. PHẠM VI VÀ ĐỐI TƯỢNG ÁP DỤNG.
+  - II. NGUYÊN TẮC.
+  - III. TÍNH NĂNG SUẤT LAO ĐỘNG BÌNH QUÂN.
+  - IV. TÍNH TIỀN LƯƠNG BÌNHQUÂN.
+  - V. điều chỉnh tiền lương bình quân theo mức tăng, giảm năng suất lao động bình quân để xác định đơn giá tiền lương
+  - VI. TỔ CHỨC THỰC HIỆN.
+
+--- VĂN BẢN LIÊN QUAN ---
+
+Van ban duoc huong dan:
+  - Nghị định 206/2004/NĐ-CP quy định quản lý lao động, tiền lương và thu nhập trong các công ty nhà nước (ID: 52631)
+
+Van ban bi thay the:
+  - Thông tư 06/2001/TT-BLĐTBXH hướng dẫn tính tốc độ tăng năng suất lao động bình quân và tốc độ tăng tiền ... (ID: 47497)
+
+Van ban duoc dan chieu:
+  - Thông tư 07/2005/TT-BLĐTBXH hướng dẫn Nghị định 206/2004/NĐ-CP về việc quản lý lao động, tiền lương và thu ... (ID: 52687)
+  - Thông tư 06/2005/TT-BLĐTBXH hướng dẫn phương pháp xây dựng định mức lao động trong các Công ty nhà nước ... (ID: 52686)
+  - Nghị định 199/2004/NĐ-CP ban hành Quy chế quản lý tài chính của công ty nhà nước và quản lý vốn nhà nước ... (ID: 52603)
+  - Luật Doanh nghiệp nhà nước 2003 (ID: 51698)
+  - Quyết định 88/2001/QĐ-TTg về chế độ tiền lương và phụ cấp đối với cán bộ, viên chức Bảo hiểm tiền gửi Việt ... (ID: 47797)
+  - Quyết định 17/2000/QĐ-TTg về chế độ tiền lương và phụ cấp đối với cán bộ, viên chức Quỹ hỗ trợ phát triển ... (ID: 46150)
+  - Thông tư 08/1998/TT-BLĐTBXH hướng dẫn cách tính số lao động bình quân năm theo Nghị định 07/1998/NĐ-CP thi ... (ID: 41750)
+  - Luật Doanh nghiệp Nhà nước 1995 (ID: 39099)
+
+Van ban thay the:
+  - Thông tư 18/2013/TT-BLĐTBXH hướng dẫn thực hiện quản lý lao động, tiền lương và tiền thưởng đối với người ... (ID: 208678)
+  - Quyết định 647/QĐ-LĐTBXH năm 2014 công bố Danh mục văn bản quy phạm pháp luật hết hiệu lực toàn bộ hoặc một... (ID: 233876)
+  - Quyết định 1395/QĐ-LĐTBXH năm 2015 công bố kết quả hệ thống hóa văn bản quy phạm pháp luật thuộc lĩnh vực ... (ID: 292694)
+  - Thông tư 26/2016/TT-BLĐTBXH hướng dẫn thực hiện quản lý lao động, tiền lương và tiền thưởng đối với người ... (ID: 315732)
+  - Quyết định 1895/QĐ-BLĐTBXH năm 2017 về công bố Danh mục văn bản quy phạm pháp luật hết hiệu lực toàn bộ ... (ID: 369622)
+  - Quyết định 746/QĐ-BLĐTBXH năm 2019 công bố kết quả hệ thống hóa văn bản quy phạm pháp luật thuộc lĩnh vực ... (ID: 419870)
+
+Van ban lien quan cung noi dung:
+  - Công văn 3586/LĐTBXH-LĐTL năm 2015 về xác định yếu tố khách quan ảnh hưởng đến năng suất lao động và lợi nhuận do Bộ Lao động - Thương binh và Xã hội ban hành (ID: 289548)

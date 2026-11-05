@@ -1,0 +1,1203 @@
+ỦY BAN NHÂN DÂN
+ 
+
+ TỈNH BÌNH PHƯỚC
+
+ -------
+
+CỘNG HÒA XÃ HỘI
+ CHỦ NGHĨA VIỆT NAM
+
+ Độc lập - Tự do - Hạnh phúc 
+
+ ---------------
+
+Số: 1812/QĐ-UBND
+
+Bình Phước, ngày
+ 04 tháng 10 năm 2022
+
+ 
+
+QUYẾT ĐỊNH
+
+BAN HÀNH ĐỀ ÁN PHÁT TRIỂN NGUỒN NHÂN LỰC CÔNG NGHỆ THÔNG TIN
+TỈNH BÌNH PHƯỚC ĐẾN NĂM 2025, ĐỊNH HƯỚNG ĐẾN NĂM 2030
+
+CHỦ TỊCH ỦY BAN NHÂN DÂN TỈNH
+
+Căn cứ Luật Tổ chức chính
+quyền địa phương ngày 19/6/2015; Luật Sửa đổi, bổ sung một số điều của Luật Tổ
+chức Chính phủ và Luật Tổ chức chính quyền địa phương ngày 22/11/2019;
+
+Căn cứ Nghị quyết số
+52-NQ/TW ngày 27/9/ 2019 của Bộ Chính trị về một số chủ trương, chính sách chủ
+động tham gia cuộc Cách mạng công nghiệp lần thứ tư;
+
+Căn cứ Nghị quyết số
+17/NQ-CP ngày 07/3/2019 của Chính phủ về một số nhiệm vụ, giải pháp trọng tâm
+phát triển Chính phủ điện tử giai đoạn 2019-2020, định hướng đến năm 2025;
+
+Căn cứ Nghị quyết số
+17/2018/NQ-HĐND ngày 14/12/2018 của Hội đồng nhân dân tỉnh quy định chính sách
+khuyến khích, hỗ trợ cán bộ, công chức, viên chức tham gia đào tạo, bồi dưỡng
+và thu hút nhân lực chất lượng cao trên địa bàn tỉnh Bình Phước;
+
+Căn cứ Nghị quyết số
+28/2021/NQ-HĐND ngày 07/12/2021 của Hội đồng nhân dân tỉnh sửa đổi, bổ sung một
+số điều của quy định chính sách khuyến khích, hỗ trợ cán bộ, công chức, viên chức
+tham gia đào tạo, bồi dưỡng và thu hút nguồn nhân lực chất lượng cao trên địa
+bàn tỉnh Bình Phước được ban hành kèm theo Nghị quyết số 17/2018/NQ-HĐND ngày
+14/12/2018 của Hội đồng nhân dân tỉnh Bình Phước;
+
+Căn cứ Quyết định số
+749/QĐ-TTg ngày 03/6/2020 của Thủ tướng Chính phủ phê duyệt chương trình Chuyển
+đổi số quốc gia đến 2025, định hướng đến 2030;
+
+Căn cứ Quyết định số
+942/QĐ-TTg ngày 15/6/2021 của Thủ tướng Chính phủ phê duyệt Chiến lược phát triển
+Chính phủ điện tử hướng tới Chính phủ số giai đoạn 2021 - 2025, định hướng đến
+năm 2030;
+
+Căn cứ Quyết định số
+21/QĐ-TTg ngày 06/01/2021 của Thủ tướng Chính phủ phê duyệt Đề án “Đào tạo và
+phát triển nguồn nhân lực an toàn thông tin giai đoạn 2021 - 2025”;
+
+Căn cứ Quyết định số
+146/QĐ-TTg ngày 28/01/2022 của Thủ tướng Chính phủ phê duyệt Đề án “Nâng
+cao nhận thức, phổ cập kỹ năng và phát triển nguồn nhân lực chuyển đổi số
+quốc gia đến năm 2025, định hướng đến năm 2030”;
+
+Căn cứ Quyết định số
+212/QĐ-BTTTT ngày 19/02/2021 của Bộ trưởng Bộ Thông tin và Truyền thông ban
+hành Kế hoạch triển khai thực hiện Quyết định số 21/QĐ-TTg ngày 06/01/2021 của
+Thủ tướng Chính phủ phê duyệt Đề án “Đào tạo và phát triển nguồn nhân lực an
+toàn thông tin giai đoạn 2021 - 2025”;
+
+Căn cứ Quyết định số
+49/QĐ-BTTTT ngày 18/01/2022 của Bộ trưởng Bộ Thông tin và Truyền thông ban hành
+Kế hoạch phát triển 1.000 nhân lực An toàn thông tin chuyên nghiệp;
+
+Căn cứ Nghị quyết số
+04-NQ/TU ngày 18/5/2021 của Ban Chấp hành Đảng bộ tỉnh về Chuyển đổi số
+đến năm 2025 trên địa bàn tỉnh Bình Phước;
+
+Căn cứ Chương trình hành động
+số 17-CTr/TU ngày 30/9/2021 của Ban Chấp hành Đảng bộ tỉnh thực hiện Nghị quyết
+Đại hội đại biểu toàn quốc lần thứ XIII của Đảng, nhiệm kỳ 2021-2026; Kế hoạch
+số 02-KH/BCN339 ngày 25/11/2021 của Ban Chủ nhiệm 339 về triển khai thực
+hiện Chương trình phát triển nguồn nhân lực tỉnh Bình Phước giai đoạn
+2021-2025;
+
+Thực hiện Kết luận số
+371-KL/TU ngày 25/6/2022 của Ban Thường vụ Tỉnh ủy về phát triển nguồn nhân lực
+công nghệ thông tin tỉnh Bình Phước đến năm 2025, định hướng đến năm 2030;
+
+Theo đề nghị của Giám đốc Sở
+Thông tin và Truyền thông tại Tờ trình số 102/TTr-STTTT ngày 07/9/2022.
+
+QUYẾT ĐỊNH:
+
+Điều 1.
+Ban hành kèm theo Quyết định này Đề án phát triển nguồn
+nhân lực công nghệ thông tin tỉnh Bình Phước đến năm 2025, định hướng đến năm
+2030.
+
+Điều 2.
+Chánh Văn phòng Ủy ban nhân dân tỉnh; Giám đốc Sở Nội
+vụ; Giám đốc Sở Thông tin và Truyền thông; Thủ trưởng các sở, ban, ngành tỉnh;
+Chủ tịch Ủy ban nhân dân các huyện, thị xã, thành phố và các tổ chức, cá nhân
+có liên quan chịu trách nhiệm thi hành Quyết định này, kể từ ngày ký./.
+
+ 
+
+ Nơi nhận:
+
+- TTTU, TT HDND tỉnh; 
+
+ - Như Điều 3;
+
+ - CT, PCT UBND tỉnh;
+
+ - LĐVP, các Phòng;
+
+ - Lưu: VT, KGVX, TD25.
+
+KT. CHỦ TỊCH
+
+ PHÓ CHỦ TỊCH
+
+ Trần Tuyết Minh
+
+ 
+
+ĐỀ ÁN
+
+PHÁT TRIỂN NGUỒN NHÂN LỰC CÔNG NGHỆ THÔNG TIN TỈNH BÌNH PHƯỚC
+ĐẾN NĂM 2025, ĐỊNH HƯỚNG ĐẾN NĂM 2030
+
+(Ban hành kèm theo Quyết định số 1812/QĐ-UBND ngày 04/10/2022 của Ủy
+ban nhân dân tỉnh)
+
+Phần I
+
+SỰ CẦN THIẾT VÀ CƠ SỞ PHÁP LÝ XÂY DỰNG ĐỀ ÁN
+
+I. SỰ CẦN
+THIẾT
+
+Trong những năm qua, được sự
+quan tâm của Tỉnh ủy, Ủy ban nhân dân tỉnh, nhiều ứng dụng CNTT đã triển khai
+thực hiện đồng bộ, góp phần tích cực hiện đại hóa hoạt động hành chính tại tỉnh,
+thúc đẩy cải cách hành chính, cung cấp ngày càng nhiều các dịch vụ công trực
+tuyến mức độ 3, mức độ 4 phục người dân và doanh nghiệp.
+
+Bên cạnh những kết quả đạt được,
+nguồn nhân lực CNTT tại tỉnh vẫn còn nhiều hạn chế, điển hình như: không ổn định
+về số lượng, thiếu nhân sự chuyên trách về CNTT; thiếu chuyên gia giỏi, kỹ sư đầu
+ngành về lĩnh vực phần mềm, bảo mật, công nghệ số, an toàn thông tin…. Điều này
+dẫn đến khó khăn trong việc triển khai các ứng dụng CNTT dùng chung, cũng như
+triển khai cung cấp dịch vụ công trực tuyến và công tác bảo đảm an toàn thông
+tin mạng tại tỉnh.
+
+Theo mục tiêu phát triển CNTT đến
+năm 2025, định hướng đến năm 2030, tỉnh sẽ quyết tâm đẩy mạnh số hóa, hiện đại
+hóa hoạt động hành chính, cung cấp một cách phổ biến nhất dịch vụ công trực tuyến
+mức độ 4 cho người dân và doanh nghiệp; căn bản chuyển đổi số thành công tại tỉnh;
+hình thành địa phương thông minh. Để đảm bảo thực hiện các mục tiêu đề ra, cần
+thiết phải xây dựng được đội ngũ nhân lực CNTT có đủ trình độ, chuyên môn, kỹ
+năng để vận hành các hệ thống hiện có cũng như các nền tảng sẽ triển khai trong
+thời gian tới. Việc ban hành Đề án phát triển nguồn nhân lực CNTT tỉnh Bình Phước
+đến năm 2025, định hướng đến năm 2030 (Đề án) sẽ tạo cơ sở cho các cơ quan, đơn
+vị, địa phương triển khai thực hiện hiệu quả, hoàn thành các nhiệm vụ chuyển đổi
+số tại tỉnh một cách tốt nhất.
+
+II. CƠ SỞ
+PHÁP LÝ XÂY DỰNG ĐỀ ÁN
+
+- Quyết định số 749/QĐ-TTg ngày
+03/6/2020 của Thủ tướng Chính phủ phê duyệt chương trình Chuyển đổi số quốc gia
+đến 2025, định hướng đến 2030.
+
+- Quyết định số 942/QĐ-TTg ngày
+15/6/2021 của Thủ tướng Chính phủ phê duyệt Chiến lược phát triển Chính phủ điện
+tử hướng tới Chính phủ số giai đoạn 2021 - 2025, định hướng đến năm 2030.
+
+- Quyết định số 21/QĐ-TTg ngày
+06/01/2021 của Thủ tướng Chính phủ phê duyệt Đề án “Đào tạo và phát triển nguồn
+nhân lực an toàn thông tin giai đoạn 2021 - 2025”.
+
+- Quyết định số 146/QĐ-TTg ngày
+28/01/2022 của Thủ tướng Chính phủ phê duyệt Đề án “Nâng cao nhận thức, phổ cập
+kỹ năng và phát triển nguồn nhân lực chuyển đổi số quốc gia đến năm 2025, định
+hướng đến năm 2030”.
+
+- Quyết định số 212/QĐ-BTTTT 
+ngày 19/02/2021 của Bộ trưởng Bộ Thông tin và Truyền thông ban hành Kế hoạch
+triển khai thực hiện Quyết định số 21/QĐ-TTg ngày 06/01/2021 của Thủ tướng
+Chính phủ phê duyệt Đề án “Đào tạo và phát triển nguồn nhân lực an toàn thông
+tin giai đoạn 2021 - 2025”.
+
+- Quyết định số 49/QĐ-BTTTT 
+ngày 18/01/2022 của Bộ trưởng Bộ Thông tin và Truyền thông ban hành Kế hoạch
+phát triển 1.000 nhân lực an toàn thông tin chuyên nghiệp.
+
+- Nghị quyết số 04-NQ/TU ngày
+18/5/2021 của Ban Chấp hành Đảng bộ tỉnh về Chuyển đổi số đến năm 2025 trên địa
+bàn tỉnh Bình Phước.
+
+- Chương trình hành động số
+17-CTr/TU ngày 30/9/2021 của Ban Chấp hành Đảng bộ tỉnh thực hiện Nghị quyết Đại
+hội đại biểu toàn quốc lần thứ XIII của Đảng, nhiệm kỳ 2021-2026; Kế hoạch số
+02-KH/BCN339 ngày 25/11/2021 của Ban Chủ nhiệm 339 về triển khai thực hiện
+Chương trình phát triển nguồn nhân lực tỉnh Bình Phước giai đoạn 2021-2025.
+
+- Kết luận số 371-KL/TU ngày
+25/6/2022 của Ban Thường vụ Tỉnh ủy về phát triển nguồn nhân lực CNTT tỉnh Bình
+Phước đến năm 2025, định hướng đến năm 2030;
+
+- Kế hoạch số 312/KH-UBND ngày
+13/10/2021 của Ủy ban nhân dân tỉnh về triển khai thực hiện Nghị quyết số
+04-NQ/TU ngày 18/5/2021 của Ban Chấp hành Đảng bộ tỉnh về chuyển đổi số đến năm
+2025 trên địa bàn tỉnh Bình Phước.
+
+Phần II
+
+THỰC TRẠNG NGUỒN NHÂN LỰC CÔNG NGHỆ THÔNG TIN
+
+I. TRONG
+CƠ QUAN NHÀ NƯỚC
+
+- Về trình độ, số lượng nhân lực
+CNTT: Đến năm 2021, tổng số cán bộ công chức, viên chức trên toàn tỉnh có trình
+độ chuyên môn về CNTT là 94 người. Trong đó, khối sở, ban, ngành cấp tỉnh là 69
+(65 đại học, 4 trình độ cao đẳng); khối cấp huyện 25 (21 đại học, 4 trình độ
+cao đẳng). Như vậy số lượng công chức, viên chức có trình độ về CNTT phân bổ không
+đồng đều, còn nhiều cơ quan không có nhân sự nào. Trong thời gian tới, để hoàn
+thành mục tiêu xây dựng thành công chính quyền điện tử, chuyển đổi số và phát
+triển địa phương thông minh thì mỗi cơ quan cần có ít nhất 01 nhân sự có trình
+độ chuyên môn về CNTT. Đối với cấp huyện, số lượng công chức, viên chức có
+trình độ chuyên môn về CNTT còn thiếu. Để đảm bảo công tác tham mưu, triển khai
+các ứng dụng tại cấp huyện thì mỗi Văn phòng Ủy ban nhân dân cấp huyện cần bố
+trí ít nhất từ 2-3 công chức có trình độ CNTT phù hợp.
+
+- Về tình hình tập huấn, bồi dưỡng:
+Qua các năm từ 2016 đến 2021, Ủy ban nhân dân tỉnh đã giao Sở Thông tin và Truyền
+thông chủ trì tổ chức 18 lớp tập huấn chuyên đề về CNTT, với 2.538 cán bộ, công
+chức, viên chức phụ trách CNTT tham gia, cụ thể gồm: Lớp bồi dưỡng về lĩnh vực
+quản trị hệ thống máy tính, mạng nội bộ và diễn tập đảm bảo an toàn thông tin
+trong hoạt động cơ quan nhà nước; kỹ năng triển khai, giám sát xây dựng, quản
+lý và vận hành datacenter; tập huấn chuẩn hóa nguồn nhân lực CNTT trong tỉnh,
+nâng cao nhận thức trang bị kỹ năng về an toàn thông tin cho công chức, viên chức;
+nâng cao nhận thức bảo mật, an toàn an ninh thông tin, ứng dụng điện toán đám
+mây cho cán bộ, công chức, viên chức; tập huấn, hướng dẫn sử dụng các ứng dụng dùng
+chung, chung tay cải cách hành chính, gồm: Tập huấn kỹ năng sử dụng Cổng dịch vụ
+công trực tuyến mức độ 3, mức độ 4 cho đoàn viên thanh niên, đoàn viên học
+sinh; kỹ năng thao tác, vận hành hệ thống trực tuyến các điểm cầu và Trung tâm
+điều hành Hội nghị truyền hình trực tuyến đa điểm (MCU) theo phân cấp; phần mềm
+họp không giấy VNPT-Ecabinet; kỹ năng triển khai cài đặt, sử dụng chữ ký số khi
+thực hiện các ứng dụng dùng chung của tỉnh cho các Ủy ban nhân dân cấp huyện, cấp
+xã; tập huấn tiếp nhận, xử lý và phản hồi thông tin qua Tổng đài thông tin dịch
+vụ công 1022 tỉnh cho lãnh đạo các sở, ban, ngành tỉnh và Ủy ban nhân dân cấp
+huyện, cấp xã; tập huấn sử dụng phần mềm báo cáo kinh tế xã hội trên phần mềm
+LRIS.
+
+II. TRONG
+DOANH NGHIỆP VÀ THỊ TRƯỜNG LAO ĐỘNG
+
+Theo thống kê của Bộ Thông tin
+và Truyền thông cho thấy, số lượng việc làm ngành phần mềm và dịch vụ CNTT của
+cả nước hằng năm tăng khoảng 30.000 lao động. Năm 2020, nhu cầu tuyển dụng của
+các doanh nghiệp là 1 triệu nhân sự CNTT. Theo thống kê năm 2020, cả nước còn
+thiếu 400.000 lao động CNTT và mỗi năm cần cung ứng mới 78.000 lao động. Tuy
+nhiên, theo thống kê của Bộ Giáo dục và Đào tạo, hiện mỗi năm chỉ có khoảng
+50.000 sinh viên CNTT tốt nghiệp. Ngoài ra, theo báo cáo thị trường của TopDev,
+năm 2021 Việt Nam cần 450.000 nhân sự lập trình viên, nhưng tổng số hiện có ở
+Việt Nam là 430.000, có nghĩa là 20.000 vị trí lập trình viên sẽ không được lấp
+đầy trong tương lai gần. Đáng chú ý là hiện nay chỉ có khoảng 35% sinh viên ra
+trường chuyên ngành công nghệ thông tin đáp ứng yêu cầu của doanh nghiệp. Năm
+2022, Việt Nam sẽ thiếu đến 150.000 nhân lực khi nhu cầu thị trường tăng lên đến
+530.000 người.
+
+Theo khảo sát chung trên cả nước
+của Bộ Thông tin và Truyền thông, khối doanh nghiệp nhà nước còn 10% và các thành
+phần doanh nghiệp khác có đến 60% chưa đưa CNTT vào hoạt động của mình. Các
+doanh nghiệp tuy đã có nhận thức bước đầu về tầm quan trọng của CNTT nhưng số
+lượng các doanh nghiệp có thể khai thác được sâu hiệu quả của CNTT thì có tỷ lệ
+chưa cao.
+
+Doanh nghiệp trên địa bàn tỉnh
+hiện nay hầu hết có quy mô vừa và nhỏ, nguồn lực tài chính còn hạn chế, nên hoạt
+động ứng dụng CNTT chưa bài bản, hiệu quả vẫn chưa thật sự diễn ra mạnh mẽ. Do
+vậy, vấn đề đặt ra là cần định hướng, hỗ trợ cho doanh nghiệp đẩy mạnh ứng dụng
+CNTT nhằm nâng cao hiệu quả hoạt động sản xuất, kinh doanh, tạo sức cạnh tranh
+trên thị trường là nhiệm vụ cần thiết hiện nay.
+
+III. ĐÁNH
+GIÁ CHUNG VỀ HIỆN TRẠNG NGUỒN NHÂN LỰC CÔNG NGHỆ THÔNG TIN
+
+1. Về ưu điểm
+
+- Trình độ cán bộ công chức,
+viên chức sử dụng máy vi tính và các nghiệp vụ thông thường trên mạng đã tăng
+đáng kể; đa số đã ứng dụng được những tiện ích thông thường vào công việc hàng
+ngày; khả năng sử dụng các ứng dụng tin học văn phòng đã được cải thiện đáng kể
+qua các năm, đã giúp cán bộ công chức, viên chức rất nhiều trong công việc
+chuyên môn.
+
+- Đội ngũ cán bộ chuyên trách,
+bán chuyên trách đã được quan tâm bồi dưỡng qua các chuyên đề như: Quản lý tập
+trung hệ thống mạng, triển khai hạ tầng mạng trong cơ quan nhà nước, an ninh mạng,
+an toàn thông tin hạ tầng mạng… từ đó giúp cho đội ngũ này được nâng cao trình
+độ, biết cách khắc phục sửa chữa máy tính, biết cài đặt các phần mềm bảo mật
+máy tính, biết cách triển khai các ứng dụng CNTT và quản trị hệ thống mạng cơ bản
+tại cơ quan, đơn vị.
+
+2. Hạn chế, bất cập
+
+- Trình độ về CNTT của cán bộ
+công chức, viên chức nói chung tuy có tiến bộ nhưng vẫn chưa đồng đều gi ữ a
+các cơ quan, địa phương; chưa theo kịp sự phát triển của công nghệ cũng như yêu
+cầu vận hành các hệ thống thông tin cho chính quyền điện tử, chính quyền số.
+Trong những năm tới, cán bộ công chức, viên chức vừa phải tiếp cận với các hệ
+thống quản lý thông tin tổng thể, vừa phải tham gia tác nghiệp trong hệ thống
+cung cấp dịch vụ công trực tuyến, liên thông. Tham gia vào các hệ thống thông
+tin với mức độ tự động hóa ngày càng cao, đòi hỏi phải được trang bị thêm các
+kiến thức về an toàn bảo mật, kỹ năng sử dụng chứng thực số…. Bên cạnh đó, cán
+bộ công chức, viên chức vẫn phải sử dụng thành thạo, khai thác được các tính
+năng nâng cao của tin học văn phòng để phục vụ công việc chuyên môn.
+
+- Cán bộ chuyên trách, bán
+chuyên trách về CNTT tại các cơ quan cần được chuẩn hóa về trình độ, kỹ năng.
+
+- Sự phát triển nhanh chóng của
+các xu hướng công nghệ mới (như điện toán đám mây, trí tuệ nhân tạo…) và các sự
+cố về bảo mật ở tầm quốc gia trong thời gian gần đây cũng đặt ra một yêu cầu mới
+là phải sớm có những lớp đào tạo nâng cao cho đội ngũ chuyên trách, bán chuyên
+trách CNTT đủ sức đảm đương việc vận hành, bảo trì các hệ thống thông tin của
+cơ quan nhà nước và những lớp bồi dưỡng phù hợp cho cán bộ công chức, viên chức
+cập nhật kiến thức mới và kỹ năng thao tác trong thực tế.
+
+- Cán bộ quản lý, lãnh đạo ở
+các cơ quan, đơn vị chưa được bồi dưỡng thường xuyên, đầy đủ về quản lý CNTT,
+chuyển đổi số từ đó, chưa nhận thức sâu về tầm nhìn, chiến lược bao quát để tổ
+chức ứng dụng CNTT, chuyển đổi số phù hợp tại cơ quan, đơn vị mình.
+
+- Cơ hội việc làm và thu nhập của
+người làm lĩnh vực CNTT trên địa bàn tỉnh thời gian qua còn thấp so với mặt bằng
+chung trong khu vực Đông Nam bộ, nên khó thu hút được nhân lực CNTT về làm việc
+cho các doanh nghiệp, tổ chức trong tỉnh.
+
+3. Nguyên nhân của những hạn
+chế, bất cập
+
+- Một số công chức chuyên trách
+CNTT tại các cơ quan, đơn vị, địa phương phải kiêm nhiệm thêm các công việc
+khác hoặc chưa có cán bộ chuyên trách CNTT nên thời gian để tập trung tìm hiểu,
+nghiên cứu chuyên sâu về CNTT không đảm bảo, không kịp thời cập nhật những kiến
+thức mới, những công nghệ mới, đặc biệt là kiến thức về an toàn, an ninh thông
+tin.
+
+- Công tác thanh tra, kiểm tra
+giám sát, kết hợp với đôn đốc thực hiện tin học hóa, chuyển đổi số trong từng
+cơ quan chưa được bao quát, thường xuyên và đầy đủ.
+
+- Đa số các doanh nghiệp không
+có bộ phận chuyên trách về CNTT, ít chú trọng cử nhân viên đi đào tạo về CNTT
+và ít đầu tư thời gian, kinh phí để được tư vấn chuyên sâu về các ứng dụng
+CNTT.
+
+Phần III
+
+QUAN ĐIỂM, MỤC TIÊU PHÁT TRIỂN NGUỒN NHÂN LỰC CÔNG NGHỆ
+THÔNG TIN
+
+I. QUAN ĐIỂM
+
+- Phát triển và nâng cao chất
+lượng nguồn nhân lực là một trong những khâu đột phá, nhằm thực hiện thắng lợi
+Nghị quyết Đại hội đại biểu toàn quốc lần thứ XIII của Đảng và Nghị quyết Đại hội
+đại biểu Đảng bộ tỉnh Bình Phước lần thứ XI nhiệm kỳ 2020-2025, sớm đưa Bình
+Phước thoát khỏi tình trạng kém phát triển, phấn đấu từng bước trở thành tỉnh
+phát triển trong khu vực phía Nam.
+
+- Phát triển nguồn nhân lực
+CNTT dựa trên nhu cầu của xã hội, đáp ứng yêu cầu phát triển, định hướng chuyển
+dịch cơ cấu kinh tế. Phát triển nguồn nhân lực CNTT là trách nhiệm của cả hệ thống
+chính trị và xã hội, nhằm huy động nguồn lực toàn xã hội để xây dựng, phát triển
+nguồn nhân lực CNTT của tỉnh có chất lượng, đáp ứng tốt yêu cầu trước mắt và
+lâu dài.
+
+II. MỤC
+TIÊU
+
+1. Mục tiêu chung
+
+- Nhằm đưa CNTT trở thành ngành
+kinh tế quan trọng của địa phương, Bình Phước xác định phát triển nguồn nhân lực
+CNTT với mục tiêu chung là xây dựng đội ngũ nhân lực CNTT sẵn sàng đáp ứng yêu
+cầu phát triển kinh tế - xã hội, sự bền vững của tỉnh trong xu thế hội nhập quốc
+tế hiện nay.
+
+- Đào tạo, nâng cao kiến thức,
+kỹ năng về CNTT, chuyển đổi số cho cán bộ, công chức, viên chức, người lao động
+trong cơ quan, tổ chức nhà nước; hỗ trợ các cơ quan, tổ chức Đảng, tổ chức
+chính trị - xã hội đào tạo, tập huấn về CNTT, chuyển đổi số.
+
+- Phổ cập kỹ năng số cho các đối
+tượng tham gia vào quá trình chuyển đổi số của tỉnh. Nâng cao chất lượng, hiệu
+quả đào tạo và phát triển nguồn nhân lực chuyển đổi số trong từng ngành, từng
+lĩnh vực, địa phương.
+
+2. Các mục tiêu cụ thể
+
+a) Mục tiêu đến năm 2025
+
+- 100% cán bộ lãnh đạo, công chức,
+viên chức và người lao động trong cơ quan nhà nước; lãnh đạo các doanh nghiệp,
+hợp tác xã được tham gia đào tạo, bồi dưỡng, tập huấn, cập nhật kiến thức về
+chuyển đổi số, kỹ năng số, công nghệ số.
+
+- 60% dân số biết và có kỹ năng
+sử dụng các loại hình dịch vụ công trực tuyến và các dịch vụ số thiết yếu khác
+trong các lĩnh vực: Y tế, giáo dục, giao thông, du lịch, ngân hàng.
+
+- 100% các thành viên mạng lưới
+ứng cứu sự cố an toàn thông tin thường xuyên được đào tạo, bồi dưỡng cập nhật
+kiến thức, kỹ năng làm nòng cốt cho tiến trình chuyển đổi số trong các ngành,
+các cấp.
+
+- Đào tạo được tối thiểu 50
+chuyên gia chuyển đổi số trong các ngành, lĩnh vực, địa phương để trở thành lực
+lượng nòng cốt dẫn dắt, tổ chức và lan tỏa tiến trình chuyển đổi số tại tỉnh.
+
+- 50% cơ sở giáo dục các cấp từ
+tiểu học đến trung học phổ thông có tổ chức các hoạt động giáo dục STEM/STEAM (phương
+pháp giáo dục tương tác đa chiều dựa trên nền tảng kết hợp giữa khoa học
+Science, công nghệ Technology, kỹ thuật Engineering và nghệ thuật Art) và kỹ
+năng số. Tổ chức các khóa/chương trình định hướng nghiệp cho học sinh THCS,
+THPT để theo học chuyên ngành công nghệ số ở các cấp học cao hơn (đại học,
+nghiên cứu sinh).
+
+- Đến năm 2025, trên địa bàn tỉnh
+có cơ sở giáo dục đào tạo chuyên ngành CNTT bậc đại học.
+
+b) Mục tiêu đến năm 2030
+
+- Duy trì 100% cán bộ lãnh đạo,
+công chức, viên chức và người lao động trong cơ quan nhà nước; các lãnh đạo
+doanh nghiệp, hợp tác xã được tham gia đào tạo, bồi dưỡng, tập huấn, cập nhật
+kiến thức về chuyển đổi số, kỹ năng số, công nghệ số.
+
+- Trên 80% dân số biết và có kỹ
+năng sử dụng các loại hình dịch vụ công trực tuyến và các dịch vụ số thiết yếu
+khác trong các lĩnh vực: Y tế, giáo dục, giao thông, du lịch, ngân hàng;
+
+- Duy trì 100% các thành viên mạng
+lưới ứng cứu sự cố an toàn thông tin được thường xuyên đào tạo, bồi dưỡng cập
+nhật kiến thức, kỹ năng làm nòng cốt cho tiến trình chuyển đổi số trong các
+ngành, các cấp.
+
+- Đào tạo được tối thiểu 100
+chuyên gia chuyển đổi số trong các ngành, lĩnh vực, địa phương để trở thành lực
+lượng nòng cốt dẫn dắt, tổ chức và lan tỏa tiến trình chuyển đổi số.
+
+- Trên 80% cơ sở giáo dục các cấp
+từ tiểu học đến trung học phổ thông có tổ chức các hoạt động giáo dục
+STEM/STEAM và kỹ năng số.
+
+- Hình thành mạng lưới đào tạo
+kiến thức, kỹ năng CNTT, công nghệ số đáp ứng cho nhu cầu trong tỉnh (các
+trung tâm đào tạo kỹ năng số, các cơ sở giáo dục đại học và trên đại học).
+
+Phần IV
+
+NHIỆM VỤ VÀ GIẢI PHÁP
+
+I. NHIỆM VỤ
+
+1. Nhiệm
+vụ nâng cao nhận thức
+
+a) Xây dựng các chương trình
+truyền thông trên phương tiện thông tin đại chúng về chuyển đổi số; thiết lập
+và phát triển các trang (tài khoản/kênh) trên các nền tảng mạng xã hội; xây dựng
+cổng thông tin điện tử chính thức về Kế hoạch chuyển đổi số tỉnh tích hợp trợ
+lý ảo tự động trả lời các nội dung liên quan đến chuyển đổi số; sử dụng công
+nghệ trí tuệ (AI), hệ thống tương tác tự động (chatbot) để thực hiện tuyên truyền
+tự động (nhiệm vụ hằng năm).
+
+b) Xây dựng, thiết lập và duy
+trì thường xuyên các chuyên mục, chuyên trang về chuyển đổi số trên các phương
+tiện thông tin đại chúng; đưa tin, đặt bài, viết bài về chuyển đổi số trên hệ
+thống báo chí, báo điện tử, trang tin điện tử, diễn đàn trực tuyến; tuyên truyền
+trên các Cổng/Trang thông tin điện tử, mạng nội bộ của các cơ quan, tổ chức nhà
+nước (nhiệm vụ thường xuyên).
+
+c) Sản xuất các chương trình,
+phim tài liệu, phóng sự, bài hát, trao đổi, đối thoại, chuyên đề chuyên sâu về
+chuyển đổi số trên hệ thống phát thanh, truyền hình; sản xuất các nội dung tin
+bài, ảnh, video, clip tạo xu thế về chuyển đổi số để đăng, phát trên các kênh,
+nền tảng khác nhau và trên các phương tiện thông tin đại chúng (nhiệm vụ hằng
+năm).
+
+d) Tổ chức các hội nghị, hội thảo,
+tọa đàm, các cuộc triển lãm, trưng bày lưu động về sản phẩm số, giải pháp số,
+các thành tựu về chuyển đổi số của tỉnh; lồng ghép nội dung về chuyển đổi số
+trong các cuộc triển lãm, giới thiệu về đất nước, con người, văn hóa, du lịch của
+tỉnh; các cuộc thi tìm hiểu về chuyển đổi số, báo chí viết về chuyển đổi số và
+kế hoạch chuyển đổi số tại tỉnh (nhiệm vụ hằng năm).
+
+đ) Biểu dương, tôn vinh, khen
+thưởng các gương điển hình tiên tiến, nhân rộng mô hình tốt, cách làm hay, sáng
+kiến có giá trị trong kế hoạch chuyển đổi số của tỉnh (nhiệm vụ hằng năm).
+
+2. Các
+nhiệm vụ về phổ cập kỹ năng
+
+a) Mở các lớp về kỹ năng số cho
+phép người dân truy cập miễn phí để tự học các kỹ năng số. Các cơ sở giáo dục
+và đào tạo, cơ sở giáo dục nghề nghiệp căn cứ vào nội dung, học liệu trên nền tảng
+để thực hiện giảng dạy, phổ cập kỹ năng số. Khuyến khích các cơ quan, tổ chức,
+doanh nghiệp tham gia xây dựng kho học liệu số phù hợp với các tiêu chuẩn trên
+nền tảng do Bộ Thông tin và Truyền thông xây dựng (nhiệm vụ hằng năm).
+
+b) Tổ chức các chương trình đào
+tạo, đào tạo lại, đào tạo ngắn hạn, bồi dưỡng, tập huấn về chuyển đổi số, kỹ
+năng số cho cán bộ, công chức, viên chức và người lao động làm việc trong các
+cơ quan từ tỉnh đến cấp xã, trong tổ chức, doanh nghiệp nhà nước và cơ quan
+thông tấn, báo chí. Lồng ghép, đưa nội dung nâng cao nhận thức về chuyển đổi số
+vào chương trình bồi dưỡng kiến thức, kỹ năng quản lý nhà nước theo tiêu chuẩn
+ngạch công chức, chương trình bồi dưỡng theo yêu cầu vị trí việc làm lãnh đạo,
+quản lý. Khuyến khích các tổ chức, doanh nghiệp tư nhân triển khai các chương
+trình đào tạo, bồi dưỡng ngắn hạn về chuyển đổi số, kỹ năng số cho người lao động
+trong tổ chức, doanh nghiệp của mình (nhiệm vụ hằng năm).
+
+c) Phát triển kỹ năng số cho
+người dân thông qua việc tuyên truyền, hướng dẫn sử dụng các dịch vụ số, trọng
+tâm là dịch vụ công trực tuyến và dịch vụ số trong các lĩnh vực y tế, giáo dục,
+thương mại, ngân hàng. Khuyến khích và tạo điều kiện cho mọi người dân được học
+tập, nghiên cứu mọi lúc, mọi nơi, mọi thời điểm và công nhận chứng chỉ đào tạo
+trực tuyến (nhiệm vụ hằng năm).
+
+3. Các nhiệm
+vụ về phát triển nguồn nhân lực CNTT trong cơ quan nhà nước
+
+a) Hằng năm tổ chức các khóa
+đào tạo, bồi dưỡng, tập huấn về chuyển đổi số, công nghệ số cho đội ngũ là cán
+bộ lãnh đạo, quản lý, cán bộ làm công tác tham mưu chuyển đổi số trong các cơ
+quan nhà nước, các công ty nhà nước (nhiệm vụ hằng năm).
+
+b) Lựa chọn tối thiểu 50 cán bộ,
+công chức từ các cơ quan nhà nước ở cấp tỉnh, địa phương và một số công ty nhà
+nước để đào tạo, bồi dưỡng kiến thức về chuyển đổi số, công nghệ số, kỹ năng tổng
+hợp, phân tích dữ liệu số để hỗ trợ ra quyết định phù hợp theo chuyên môn,
+ngành nghề. (nhiệm vụ hằng năm).
+
+c) Tổ chức đào tạo giáo viên dạy
+các nội dung liên quan đến tin học, khoa học tự nhiên, khoa học xã hội, công
+nghệ, kỹ thuật và nghệ thuật trong các cơ sở giáo dục từ tiểu học đến trung học
+phổ thông về phương pháp STEM/STEAM (nhiệm vụ hằng năm).
+
+d) Tổ chức bồi dưỡng, nâng cao
+nhận thức về ứng dụng CNTT, chuyển đổi số cho lãnh đạo các cấp của cơ quan nhà
+nước trên địa bàn tỉnh(nhiệm vụ hằng năm).
+
+đ) Tổ chức lớp lập và quản lý dự
+án CNTT cho lãnh đạo và cán bộ tham mưu, quản lý hoạt động ứng dụng CNTT; Ban
+quản lý dự án, tư vấn giám sát thi công hoạt động ứng dụng CNTT cấp tỉnh, cấp
+huyện (quý IV/2023).
+
+e) Bồi dưỡng, tập huấn nghiệp vụ
+cho cán bộ, công chức chuyên trách về CNTT tại cơ quan nhà nước trên địa bàn tỉnh
+về kỹ năng cơ bản về bảo mật trong ứng dụng CNTT, Bảo mật an ninh hệ thống mạng
+(nhiệm vụ hằng năm).
+
+4. Các nhiệm
+vụ về phát triển nguồn nhân lực CNTT trong doanh nghiệp và xã hội
+
+a) Xây dựng chính sách hỗ trợ
+doanh nghiệp thực hiện chuyển đổi số, trong đó chú trọng công tác nâng cao nhận
+thức của chủ doanh nghiệp (Năm 2022).
+
+b) Có chính sách ưu đãi đầu tư
+đối với các tổ chức mở các trung tâm, cơ sở đào tạo kỹ năng chuyển đổi số, đào
+tạo kiến thức công nghệ số (Năm 2023).
+
+c) Xây dựng các chương trình giáo
+dục định hướng nghề nghiệp đưa công nghệ số là một trong các nội dung chú trọng
+hướng nghiệp (Năm 2023).
+
+II. GIẢI
+PHÁP
+
+1. Nhóm
+các giải pháp về cơ chế, chính sách
+
+a) Xây dựng chính sách thu hút,
+hỗ trợ cán bộ, công chức, viên chức làm công tác CNTT trên địa bàn tỉnh.
+
+b) Xây dựng, cập nhật và ban
+hành cơ chế triển khai đào tạo, bồi dưỡng kiến thức, kỹ năng về chuyển đổi số
+cho đội ngũ cán bộ quản lý, chuyên trách và trực tiếp triển khai chuyển đổi số
+trong các cơ quan nhà nước.
+
+c) Áp dụng hình thức khen thưởng
+đột xuất và kịp thời cho các cơ quan, tổ chức, cá nhân có ý tưởng, sáng kiến,
+cách làm đột phá, sáng tạo trong chuyển đổi số.
+
+d) Xây dựng quỹ học bổng từ nguồn
+đóng góp, tài trợ của các tổ chức, tập đoàn, hãng công nghệ để cấp cho sinh
+viên có thành tích học tập xuất sắc ở các ngành về chuyển đổi số, công nghệ số.
+
+2. Nhóm
+các giải pháp hỗ trợ triển khai
+
+a) Tăng cường hợp tác để trao đổi
+kinh nghiệm về đào tạo, nghiên cứu công nghệ số, kỹ năng số, kinh tế số và xã hội
+số; khuyến khích các cơ sở giáo dục của tỉnh xây dựng, triển khai các chương
+trình hợp tác đào tạo, trao đổi giảng viên, học viên với các cơ sở giáo dục,
+nghiên cứu về chuyển đổi số, công nghệ số, kỹ năng số có uy tín.
+
+b) Xây dựng cơ chế quản lý, kiểm
+định, sát hạch và tăng cường công tác kiểm tra, giám sát các cơ sở giáo dục,
+đào tạo về chuyển đổi sổ, công nghệ số nhằm chuẩn hóa, nâng cao chất lượng đào
+tạo.
+
+3. Nhóm
+các giải pháp về tài chính
+
+a) Ưu tiên bố trí kinh phí từ ngân
+sách nhà nước để thực hiện các nhiệm vụ, giải pháp thuộc phạm vi Đề án được
+giao cho các cơ quan chủ trì, huy động các nguồn lực tài chính từ xã hội và các
+nguồn kinh phí khác cho hoạt động nâng cao nhận thức, phổ cập kỹ năng và phát
+triển nguồn nhân lực chuyển đổi số.
+
+b) Khuyến khích, ưu tiên bố
+trí kinh phí để triển khai các chương trình, dự án đào tạo thực hành ngắn hạn
+về chuyển đổi số, công nghệ số, kỹ năng số cho cán bộ chuyên trách tại các cơ
+quan cấp tỉnh và cấp huyện.
+
+4. Giải
+pháp công tác thông tin, tuyên truyền
+
+a) Tuyên truyền, nâng cao nhận
+thức cho mọi tầng lớp nhân dân, đội ngũ cán bộ, công chức, viên chức và lãnh đạo
+các cấp, ngành hiểu rõ ý nghĩa, tầm quan trọng của việc phát triển nguồn nhân
+lực CNTT nhằm thúc đẩy phát triển kinh tế - xã hội.
+
+b) Đẩy mạnh công tác truyền
+thông về xây dựng chính quyền điện tử, chuyển đổi số, xây dựng địa phương thông
+minh. Trong đó, nguồn nhân lực CNTT là một mắc xích không thể tách rời.
+
+c) Công khai, minh bạch thông
+tin trên Cổng thông tin điện tử của tỉnh; website của các sở, ban, ngành tỉnh; Ủy
+ban nhân dân cấp huyện về các chính sách, thu hút, ưu đãi nguồn nhân lực CNTT của
+tỉnh nhằm tạo động lực thu hút và giữ chân những cá nhân có trình độ, tâm huyết
+tham gia phục vụ công tác ứng dụng CNTT tại tỉnh.
+
+d) Hướng dẫn, tuyên truyền, tập
+huấn các kỹ năng số, dịch vụ công trực tuyến, thương mại điện tử, giao dịch
+thanh toán điện tử …cho người dân thông qua Tổ công nghệ số cộng đồng.
+
+ (Đính
+kèm Phụ lục danh mục nhiệm vụ, giải pháp thực hiện Đề án).
+
+Phần V
+
+TỔ CHỨC THỰC HIỆN
+
+1. Sở Thông tin và Truyền
+thông
+
+a) Chủ trì, phối hợp Sở Nội vụ
+và các cơ quan, đơn vị có liên quan hướng dẫn, tổ chức thực hiện Đề án; định kỳ
+kiểm tra, giám sát việc triển khai Đề án báo cáo Ủy ban nhân dân tỉnh.
+
+b) Xây dựng, theo dõi dự án, lập
+dự toán chi tiết; lựa chọn đơn vị đào tạo, chuẩn bị các chương trình đào tạo, bồi
+dưỡng trình độ và kỹ năng cho cán bộ công chức, viên chức.
+
+c) Tham mưu Ủy ban nhân dân tỉnh
+ban hành chế độ chính sách hỗ trợ cán bộ công chức, viên chức chuyên trách và
+bán chuyên trách CNTT trên địa bàn tỉnh.
+
+d) Là cơ quan đầu mối, phối hợp
+với các doanh nghiệp trong công tác phát triển các nhiệm vụ về nguồn nhân lực
+CNTT trong doanh nghiệp và xã hội.
+
+e) Chủ trì tổ chức các hội nghị,
+hội thảo giới thiệu, hội nghị sơ kết hằng năm nhằm đánh giá rút kinh nghiệm để
+triển khai Đề án đạt hiệu quả, chất lượng.
+
+f) Chủ trì, phối hợp với Sở Nội
+vụ (Ban Thi đua - Khen thưởng) tham mưu đề nghị Chủ tịch Ủy ban nhân dân tỉnh tặng
+thưởng Bằng khen cho các cơ quan, tổ chức, cá nhân có ý tưởng, sáng kiến, cách
+làm đột phá, sáng tạo trong chuyển đổi số, giúp mang lại hiệu quả cao trong hoạt
+động của cơ quan, tổ chức và lợi ích cộng đồng vào dịp tổ chức hội nghị sơ kết,
+tổng kết Đề án (riêng đối với hình thức khen thưởng đột xuất sẽ tham mưu Chủ
+tịch Ủy ban nhân dân tỉnh xem xét quyết định từng trường hợp cụ thể).
+
+2. Sở Nội vụ
+
+a) Chủ trì, phối hợp với Sở
+Thông tin và truyền thông và các sở, ban, ngành tỉnh cử cán bộ, công chức, viên
+chức tham gia các lớp đào tạo, bồi dưỡng nguồn CNTT theo phân cấp thẩm quyền.
+
+b) Tổng hợp nhu cầu đào tạo, bồi
+dưỡng nguồn CNTT của các cơ quan, đơn vị trên địa bàn trình Ủy ban nhân dân tỉnh
+ban hành. Phối hợp với Sở Tài chính, Sở Thông tin và Truyền thông thẩm định,
+đưa các nội dung đào tạo, bồi dưỡng CNTT vào Kế hoạch đào tạo, bồi dưỡng cán bộ,
+công chức, viên chức hằng năm của tỉnh, trình Chủ tịch Ủy ban nhân dân tỉnh phê
+duyệt thực hiện.”
+
+c) Phối hợp với Sở Thông tin và
+Truyền thông tham mưu đề nghị Chủ tịch Ủy ban nhân dân tỉnh tặng thưởng Bằng
+khen cho các cơ quan, tổ chức, cá nhân có ý tưởng, sáng kiến, cách làm đột
+phá, sáng tạo trong chuyển đổi số, giúp mang lại hiệu quả cao trong hoạt động của
+cơ quan, tổ chức và lợi ích cộng đồng vào dịp tổ chức hội nghị sơ kết, tổng kết
+Đề án.
+
+3. Sở Tài chính
+
+a) Căn cứ vào khả năng cân đối
+ngân sách tham mưu Ủy ban nhân dân tỉnh bố trí kinh phí thực hiện các nhiệm vụ
+theo phân cấp quản lý ngân sách.
+
+b) Thực hiện thẩm định và quyết
+toán theo quy định.
+
+4. Các cơ quan ban ngành tỉnh;
+Ủy ban nhân dân cấp huyện
+
+a) Sắp xếp, bố trí cán bộ công
+chức, viên chức tham gia các lớp đào tạo, bồi dưỡng theo quy hoạch kế hoạch và
+tạo điều kiện thuận lợi cho cán bộ trong quá trình học tập.
+
+b) Lập quy hoạch, kế hoạch đào
+tạo bồi dưỡng cho cán bộ công chức, viên chức trong cơ quan đến năm 2025, định
+hướng đến năm 2030 với yêu cầu lựa chọn nhân sự tham gia các lớp phù hợp chuyên
+môn, nghiệp vụ và công việc đang đảm trách; ký cam kết và quy định làm việc,
+thưởng phạt cụ thể với người được cử đi học và thời hạn nộp kết quả học tập (chứng
+chỉ, chứng nhận, bằng cấp).
+
+c) Phối hợp với các cơ quan,
+đơn vị tổ chức triển khai các nội dung của Đề án./.
+
+ 
+
+PHỤ LỤC
+
+DANH MỤC NHIỆM VỤ, GIẢI PHÁP THỰC HIỆN ĐỀ ÁN PHÁT TRIỂN
+NGUỒN NHÂN LỰC CÔNG NGHỆ THÔNG TIN TỈNH BÌNH PHƯỚC ĐẾN NĂM 2025, ĐỊNH HƯỚNG ĐẾN
+NĂM 2030
+
+Stt
+
+Nhiệm vụ, giải pháp
+
+Cơ quan chủ trì
+
+Cơ quan phối hợp
+
+Thời gian thực hiện
+
+I
+
+Xây
+ dựng cơ chế, chính sách
+
+ 
+
+ 
+
+ 
+
+1
+
+Xây dựng, cập nhật và ban
+ hành cơ chế, chính sách hỗ trợ, triển khai đào tạo, bồi dưỡng kiến thức, kỹ năng
+ về chuyển đổi số cho đội ngũ cán bộ quản lý, chuyên trách và trực tiếp triển
+ khai chuyển đổi số trong các cơ quan nhà nước.
+
+Sở Thông tin và Truyền thông, Sở Nội vụ
+
+Các sở, ban, ngành tỉnh; UBND cấp huyện, cấp xã
+
+2022- 2025
+
+2
+
+Xây dựng chính sách hỗ trợ
+ doanh nghiệp thực hiện chuyển đổi số, trong đó chú trọng công tác nâng cao nhận
+ thức của chủ doanh nghiệp.
+
+Sở Kế hoạch và Đầu tư
+
+Các sở, ban, ngành tỉnh; UBND cấp huyện, cấp xã; các doanh nghiệp
+
+2022
+
+3
+
+Có chính sách ưu đãi đầu tư đối
+ với các tổ chức mở các trung tâm, cơ sở đào tạo kỹ năng chuyển đổi số, đào tạo
+ kiến thức công nghệ số.
+
+Sở Giáo dục và Đào tạo, Sở Kế hoạch và Đầu tư
+
+Các sở, ban, ngành tỉnh; UBND cấp huyện, cấp xã
+
+2022- 2025
+
+4
+
+Xây dựng các chương trình
+ giáo dục định hướng nghề nghiệp đưa công nghệ số là một trong các nội dung
+ chú trọng hướng nghiệp.
+
+Sở Giáo dục và Đào tạo
+
+Các sở, ban, ngành tỉnh; UBND cấp huyện, cấp xã
+
+2022- 2025
+
+5
+
+Áp dụng hình thức khen thưởng
+ đột xuất và kịp thời cho các cơ quan, tổ chức, cá nhân có ý tưởng, sáng kiến,
+ cách làm đột phá, sáng tạo trong chuyển đổi số, giúp mang lại hiệu quả cao
+ trong hoạt động của cơ quan, tổ chức và lợi ích cho cộng đồng.
+
+Sở Nội vụ
+
+Sở Thông tin và Truyền thông; các sở, ban, ngành tỉnh; UBND cấp huyện,
+ cấp xã
+
+2022- 2025
+
+6
+
+Xây dựng quỹ học bổng từ nguồn
+ đóng góp, tài trợ của các tổ chức, tập đoàn, hãng công nghệ để cấp cho sinh
+ viên theo học chuyên sâu các ngành về chuyển đổi số, công nghệ số có thành
+ tích học tập xuất sắc.
+
+Sở Giáo dục và Đào tạo, các cơ sở giáo dục
+
+Sở Thông tin và Truyền thông
+
+2022- 2030
+
+II
+
+Nâng
+ cao nhận thức
+
+ 
+
+ 
+
+ 
+
+1
+
+Xây dựng các chương trình
+ truyền thông trên các phương tiện thông tin đại chúng về chuyển đổi số; thiết
+ lập và phát triển các trang (tài khoản/kênh) trên các nền tảng mạng xã hội;
+
+Các sở, ban, ngành tỉnh; UBND cấp huyện
+
+Sở Thông tin và Truyền thông
+
+2022- 2030
+
+2
+
+Xây dựng cổng thông tin điện
+ tử chính thức về Kế hoạch chuyển đổi số tỉnh tích hợp trợ lý ảo tự động trả lời
+ cơ quan, tổ chức, người dân, doanh nghiệp các nội dung liên quan đến chuyển đổi
+ số; sử dụng công nghệ trí tuệ (AI), hệ thống tương tác tự động (chatbot) để
+ thực hiện tuyên truyền tự động.
+
+Sở Thông tin và Truyền thông
+
+Các sở, ban, ngành tỉnh; UBND cấp huyện
+
+2022- 2023
+
+3
+
+Xây dựng, thiết lập và duy
+ trì thường xuyên các chuyên mục, chuyên trang về chuyển đổi số trên các
+ phương tiện thông tin đại chúng; đưa tin, đặt bài, viết bài về chuyển đổi số
+ trên hệ thống báo chí, báo điện tử, trang tin điện tử, diễn đàn trực tuyến;
+ tuyên truyền trên các cổng/trang thông tin điện tử, mạng nội bộ của các cơ
+ quan, tổ chức nhà nước.
+
+Đài Phát thành, Truyền hình và Báo Bình Phước
+
+Sở Thông tin và Truyền thông; các sở, ngành tỉnh; UBND cấp huyện
+
+2022- 2030
+
+4
+
+Sản xuất các chương trình, phim
+ tài liệu, phóng sự, bài hát, trao đổi, đối thoại, chuyên đề chuyên sâu về
+ chuyển đổi số trên hệ thống phát thanh, truyền hình; sản xuất các nội dung
+ tin bài, ảnh, video, clip tạo xu thế về chuyển đổi số để đăng, phát trên các
+ kênh, nền tảng khác nhau và trên các phương tiện thông tin đại chúng.
+
+Đài Phát thành, Truyền hình và Báo Bình Phước
+
+Sở Thông tin và Truyền thông; các sở, ngành tỉnh; UBND cấp huyện
+
+2022- 2030
+
+5
+
+Tổ chức các hội nghị, hội thảo,
+ tọa đàm, các cuộc triển lãm, trưng bày lưu động về sản phẩm số, giải pháp số,
+ các thành tựu về chuyển đổi số của tỉnh
+
+Sở Thông tin và Truyền thông
+
+Các sở, ngành tỉnh; UBND cấp huyện
+
+2022- 2030
+
+6
+
+Lồng ghép nội dung về chuyển
+ đổi số trong các cuộc triển lãm, giới thiệu về đất nước, con người, văn hóa,
+ du lịch của tỉnh; các cuộc thi tìm hiểu về chuyển đổi số, báo chí viết về
+ chuyển đổi số và kế hoạch chuyển đổi số tỉnh.
+
+Sở Văn hóa Thể thao và Du lịch
+
+Sở Thông tin và Truyền thông; các sở, ngành tỉnh; UBND cấp huyện
+
+2022- 2030
+
+7
+
+Biểu dương, tôn vinh, khen
+ thưởng các gương điển hình tiên tiến, nhân rộng mô hình tốt, cách làm hay,
+ sáng kiến có giá trị trong Kế hoạch chuyển đổi số của tỉnh.
+
+Sở Nội vụ, Sở Thông tin và Truyền thông
+
+Các sở, ngành tỉnh; UBND cấp huyện
+
+2022- 2030
+
+III
+
+Phổ
+ cập kỹ năng
+
+ 
+
+ 
+
+ 
+
+1
+
+Mở các lớp về kỹ năng số cho
+ phép người dân truy cập miễn phí để tự học các kỹ năng số.
+
+Sở Thông tin và Truyền thông
+
+Các sở, ngành tỉnh; UBND cấp huyện, cấp xã
+
+2022- 2023
+
+2
+
+Tổ chức các chương trình đào
+ tạo, đào tạo lại, đào tạo ngắn hạn, bồi dưỡng, tập huấn về chuyển đổi số, kỹ
+ năng số cho cán bộ, công chức, viên chức và người lao động làm việc trong các
+ cơ quan từ tỉnh đến cấp xã, trong tổ chức, doanh nghiệp nhà nước và cơ quan
+ thông tấn, báo chí.
+
+Sở Thông tin và Truyền thông
+
+Các sở, ngành tỉnh; UBND cấp huyện, cấp xã
+
+2022- 2025
+
+3
+
+Phát triển kỹ năng số cho người
+ dân thông qua việc tuyên truyền, hướng dẫn sử dụng các dịch vụ số, trọng tâm
+ là dịch vụ công trực tuyến và dịch vụ số trong các lĩnh vực y tế, giáo dục,
+ thương mại, ngân hàng. Khuyến khích và tạo điều kiện cho mọi người dân được học
+ tập, nghiên cứu mọi lúc, mọi nơi, mọi thời điểm và công nhận chứng chỉ đào tạo
+ trực tuyến.
+
+Sở Thông tin và Truyền thông, Đài Phát thành, Truyền hình và Báo Bình
+ Phước
+
+Các sở, ngành tỉnh; UBND cấp huyện, cấp xã
+
+2022- 2025
+
+IV
+
+Phát
+ triển nguồn nhân lực CNTT trong cơ quan nhà nước
+
+ 
+
+ 
+
+ 
+
+1
+
+Tổ chức các khóa đào tạo, bồi
+ dưỡng, tập huấn về chuyển đổi số, công nghệ số cho đội ngũ là cán bộ lãnh đạo,
+ quản lý, cán bộ làm công tác tham mưu chuyển đổi số trong các cơ quan nhà nước
+ đến cấp xã, các công ty nhà nước.
+
+Sở Thông tin và Truyền thông
+
+Các sở, ngành tỉnh; UBND cấp huyện, cấp xã; các công ty nhà nước
+
+2022- 2030
+
+2
+
+Lựa chọn tối thiểu 50 cán bộ
+ từ các cơ quan nhà nước ở cấp tỉnh, địa phương và một số công ty nhà nước để
+ đào tạo, bồi dưỡng kiến thức về chuyển đổi số, công nghệ số, kỹ năng tổng hợp,
+ phân tích dữ liệu số để hỗ trợ ra quyết định phù hợp theo chuyên môn, ngành
+ nghề, lĩnh vực.
+
+Sở Thông tin và Truyền thông
+
+Các sở, ngành tỉnh; UBND cấp huyện
+
+2022- 2025
+
+3
+
+Tổ chức đào tạo giáo viên dạy
+ các hoạt động giáo dục liên quan đến tin học, khoa học tự nhiên, khoa học xã
+ hội, công nghệ, kỹ thuật và nghệ thuật trong các cơ sở giáo dục từ tiểu học đến
+ trung học phổ thông về phương pháp STEM/STEAM.
+
+Sở Giáo dục và Đào tạo
+
+Sở Thông tin và Truyền thông; các sở, ngành tỉnh; UBND cấp huyện
+
+2022- 2025
+
+4
+
+Lập và quản lý dự án CNTT cho
+ Lãnh đạo và cán bộ tham mưu, quản lý hoạt động ứng dụng CNTT; Ban quản lý dự
+ án, tư vấn giám sát thi công hoạt động ứng dụng CNTT cấp tỉnh, cấp huyện.
+
+Sở Thông tin và Truyền thông
+
+Các sở, ngành tỉnh; UBND cấp huyện
+
+2022- 2025
+
+5
+
+Tổ chức bồi dưỡng, nâng cao
+ nhận thức về ứng dụng CNTT, chuyển đổi số cho lãnh đạo các cấp của cơ quan
+ nhà nước trên địa bàn tỉnh.
+
+Sở Thông tin và Truyền thông
+
+Các sở, ngành tỉnh; UBND cấp huyện, cấp xã
+
+2022- 2025
+
+6
+
+Bồi dưỡng, tập huấn nghiệp vụ
+ cho cán bộ, công chức chuyên trách về CNTT tại cơ quan nhà nước trên địa bàn
+ tỉnh về kỹ năng cơ bản về bảo mật trong ứng dụng CNTT, Bảo mật an ninh hệ thống
+ mạng
+
+Sở Thông tin và Truyền thông
+
+Các sở, ngành tỉnh; UBND cấp huyện
+
+2022- 2025
+
+V
+
+Phát
+ triển nguồn nhân lực CNTT trong doanh nghiệp và xã hội
+
+ 
+
+ 
+
+ 
+
+1
+
+Các cơ sở giáo dục và đào tạo,
+ cơ sở giáo dục nghề nghiệp căn cứ vào nội dung, học liệu trên Nền tảng để thực
+ hiện giảng dạy, phổ cập kỹ năng số. Khuyến khích các cơ quan, tổ chức, doanh
+ nghiệp tham gia xây dựng kho học liệu số phù hợp với các tiêu chuẩn trên Nền
+ tảng do Bộ Thông tin và Truyền thông xây dựng.
+
+Sở Giáo dục và Đào tạo; các tổ chức, doanh nghiệp trong tỉnh
+
+Sở Thông tin và Truyền thông; các sở, ngành tỉnh; UBND cấp huyện, cấp
+ xã
+
+2022- 2025
+
+2
+
+Khuyến khích các tổ chức,
+ doanh nghiệp tư nhân triển khai các chương trình đào tạo, bồi dưỡng ngắn hạn
+ về chuyển đổi số, kỹ năng số cho người lao động trong tổ chức, doanh nghiệp của
+ mình.
+
+Các tổ chức, doanh nghiệp trong tỉnh
+
+Sở Thông tin và Truyền thông; các sở, ngành tỉnh; UBND cấp huyện, cấp
+ xã; người dân, doanh nghiệp
+
+2022- 2025--- THÔNG TIN THÊM ---
+Ten: Quyết định 1812/QĐ-UBND năm 2022 Đề án phát triển nguồn nhân lực công nghệ thông tin tỉnh Bình Phước đến năm 2025, định hướng đến năm 2030
+So hieu: 1812/QĐ-UBND
+Loai van ban: Quyết định
+Linh vuc nganh: Lao động - Tiền lương, Công nghệ thông tin
+Noi ban hanh: Tỉnh Bình Phước
+Nguoi ky: Trần Tuyết Minh
+Ngay ban hanh: 04/10/2022
+Ngay hieu luc: 04/10/2022
+Ngay dang: Dữ liệu đang cập nhật
+So cong bao: Dữ liệu đang cập nhật
+Tinh trang: Còn hiệu lực
+
+
+--- MỤC LỤC ---
+- QUYẾT ĐỊNH BAN HÀNH ĐỀ ÁN PHÁT TRIỂN NGUỒN NHÂN LỰC CÔNG NGHỆ THÔNG TIN TỈNH BÌNH PHƯỚC ĐẾN NĂM 2025, ĐỊNH HƯỚNG ĐẾN NĂM 2030
+  - Điều 1. Ban hành kèm theo Quyết định này Đề án phát triển nguồn nhân lực công nghệ thông tin tỉnh Bình Phước đến năm 2025, định hướng đến năm 2030.
+  - Điều 2. Chánh Văn phòng Ủy ban nhân dân tỉnh; Giám đốc Sở Nội vụ; Giám đốc Sở Thông tin và Truyền thông; Thủ trưởng các sở, ban, ngành tỉnh; Chủ tịch Ủy ban nhân dân các huyện, thị xã, thành phố và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này, kể từ ngày ký./.
+- ĐỀ ÁN PHÁT TRIỂN NGUỒN NHÂN LỰC CÔNG NGHỆ THÔNG TIN TỈNH BÌNH PHƯỚC ĐẾN NĂM 2025, ĐỊNH HƯỚNG ĐẾN NĂM 2030
+  - Phần I SỰ CẦN THIẾT VÀ CƠ SỞ PHÁP LÝ XÂY DỰNG ĐỀ ÁN
+    - I. SỰ CẦN THIẾT
+    - II. CƠ SỞ PHÁP LÝ XÂY DỰNG ĐỀ ÁN
+  - Phần II THỰC TRẠNG NGUỒN NHÂN LỰC CÔNG NGHỆ THÔNG TIN
+    - I. TRONG CƠ QUAN NHÀ NƯỚC
+    - II. TRONG DOANH NGHIỆP VÀ THỊ TRƯỜNG LAO ĐỘNG
+    - III. ĐÁNH GIÁ CHUNG VỀ HIỆN TRẠNG NGUỒN NHÂN LỰC CÔNG NGHỆ THÔNG TIN
+  - Phần III QUAN ĐIỂM, MỤC TIÊU PHÁT TRIỂN NGUỒN NHÂN LỰC CÔNG NGHỆ THÔNG TIN
+    - I. QUAN ĐIỂM
+    - II. MỤC TIÊU
+  - Phần IV NHIỆM VỤ VÀ GIẢI PHÁP
+    - I. NHIỆM VỤ
+      - 1. Nhiệm vụ nâng cao nhận thức
+      - 2. Các nhiệm vụ về phổ cập kỹ năng
+      - 3. Các nhiệm vụ về phát triển nguồn nhân lực CNTT trong cơ quan nhà nước
+      - 4. Các nhiệm vụ về phát triển nguồn nhân lực CNTT trong doanh nghiệp và xã hội
+    - II. GIẢI PHÁP
+      - 1. Nhóm các giải pháp về cơ chế, chính sách
+      - 2. Nhóm các giải pháp hỗ trợ triển khai
+      - 3. Nhóm các giải pháp về tài chính
+      - 4. Giải pháp công tác thông tin, tuyên truyền
+  - Phần V TỔ CHỨC THỰC HIỆN
+  - PHỤ LỤC DANH MỤC NHIỆM VỤ, GIẢI PHÁP THỰC HIỆN ĐỀ ÁN PHÁT TRIỂN NGUỒN NHÂN LỰC CÔNG NGHỆ THÔNG TIN TỈNH BÌNH PHƯỚC ĐẾN NĂM 2025, ĐỊNH HƯỚNG ĐẾN NĂM 2030
+    - I Xây   dựng cơ chế, chính sách
+    - II Nâng   cao nhận thức
+    - III Phổ   cập kỹ năng
+    - IV Phát   triển nguồn nhân lực CNTT trong cơ quan nhà nước
+    - V Phát   triển nguồn nhân lực CNTT trong doanh nghiệp và xã hội
+
+--- VĂN BẢN LIÊN QUAN ---
+
+Van ban duoc can cu:
+  - Quyết định 146/QĐ-TTg năm 2022 phê duyệt Đề án "Nâng cao nhận thức, phổ cập kỹ năng và phát triển nguồn ... (ID: 502108)
+  - Quyết định 49/QĐ-BTTTT năm 2022 về Kế hoạch Phát triển 1.000 nhân lực an toàn thông tin chuyên nghiệp do Bộ... (ID: 501422)
+  - Nghị quyết 28/2021/NQ-HĐND sửa đổi Quy định chính sách khuyến khích, hỗ trợ cán bộ, công chức, viên chức ... (ID: 501158)
+  - Kế hoạch 312/KH-UBND năm 2021 thực hiện Nghị quyết 04-NQ/TU về chuyển đổi số đến năm 2025 trên địa bàn tỉnh... (ID: 526174)
+  - Quyết định 942/QĐ-TTg năm 2021 phê duyệt Chiến lược phát triển Chính phủ điện tử hướng tới Chính phủ số ... (ID: 477851)
+  - Quyết định 212/QĐ-BTTTT năm 2021 Kế hoạch triển khai thực hiện Quyết định 21/QĐ-TTg phê duyệt Đề án “Đào ... (ID: 471302)
+  - Quyết định 21/QĐ-TTg năm 2021 về phê duyệt Đề án "Đào tạo và phát triển nguồn nhân lực an toàn thông tin ... (ID: 461722)
+  - Quyết định 749/QĐ-TTg năm 2020 về phê duyệt "Chương trình Chuyển đổi số quốc gia đến năm 2025, định hướng ... (ID: 444136)
+  - Luật Tổ chức chính phủ và Luật Tổ chức chính quyền địa phương sửa đổi 2019 (ID: 411945)
+  - Nghị quyết 52-NQ/TW năm 2019 về chủ trương, chính sách chủ động tham gia cuộc Cách mạng công nghiệp lần thứ... (ID: 425113)
+  - Nghị quyết 17/NQ-CP năm 2019 về một số nhiệm vụ, giải pháp trọng tâm phát triển Chính phủ điện tử giai đoạn... (ID: 408619)
+  - Nghị quyết 17/2018/NQ-HĐND quy định về chính sách khuyến khích, hỗ trợ cán bộ, công chức, viên chức tham ... (ID: 403864)
+  - Luật tổ chức chính quyền địa phương 2015 (ID: 282380)
+
+Van ban lien quan cung noi dung:
+  - Nghị quyết 187/NQ-HĐND năm 2023 thông qua nội dung của Đề án phát triển nguồn nhân lực tỉnh Kiên Giang giai đoạn 2021-2030, tầm nhìn đến năm 2050 (ID: 597186)
+  - Kế hoạch 2914/KH-UBND năm 2022 về đào tạo, bồi dưỡng, tập huấn và phát triển nguồn nhân lực công nghệ thông tin và truyền thông thành phố Hồ Chí Minh giai đoạn 2022-2025 (ID: 556665)
+  - Quyết định 4819/QĐ-UBND năm 2021 phê duyệt Đề án Quản lý, sử dụng và phát triển nhân lực Khoa học và Công nghệ tỉnh Khánh Hòa, giai đoạn 2021-2025 (ID: 501540)
+  - Quyết định 1650/QĐ-UBND năm 2021 về Đề án hình thành và phát triển nhóm nghiên cứu mạnh trong cơ sở đào tạo, tổ chức khoa học và công nghệ trên địa bàn tỉnh Vĩnh Long (ID: 484096)
+  - Quyết định 6160/QĐ-UBND năm 2017 về phê duyệt Kế hoạch đào tạo nguồn nhân lực nông nghiệp công nghệ cao trên địa bàn Thành phố Hồ Chí Minh giai đoạn 2018-2020 (ID: 374525)

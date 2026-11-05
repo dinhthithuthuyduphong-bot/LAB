@@ -1,0 +1,616 @@
+ỦY BAN NHÂN DÂN
+
+ TỈNH BÌNH ĐỊNH
+
+ -------
+
+CỘNG HÒA XÃ HỘI
+ CHỦ NGHĨA VIỆT NAM
+
+ Độc lập - Tự do - Hạnh phúc 
+
+ ---------------
+
+Số: 4175/QĐ-UBND
+
+Bình Định, ngày
+ 06 tháng 11 năm 2017
+
+ 
+
+QUYẾT ĐỊNH
+
+VỀ
+VIỆC BAN HÀNH KẾ HOẠCH TUYỂN DỤNG NHÂN SỰ TRIỂN KHAI ĐỀ ÁN XÂY DỰNG TRUNG TÂM
+CÔNG NGHỆ PHẦN MỀM TẠI BÌNH ĐỊNH
+
+ỦY BAN NHÂN DÂN TỈNH
+
+Căn cứ Luật tổ chức Chính quyền địa phương ngày
+19/6/2015;
+
+Thực hiện kết luận số 181-KL/TU ngày 31/10/2017 của
+Ban Thường vụ Tỉnh ủy (Khóa XIX) tại Hội nghị lần thứ 31;
+
+Xét đề nghị của Sở Thông tin và Truyền thông tại
+Tờ trình số 50/TTr-STTTT ngày 22/8/2017; Biên bản họp liên ngành của Sở Thông
+tin và Truyền thông, Sở Nội vụ, Sở Tài chính, Sở Khoa học và Công nghệ ngày
+10/8/2017,
+
+QUYẾT ĐỊNH
+
+Điều 1. Ban hành kèm theo Quyết
+định này Kế hoạch Tuyển dụng nhân sự triển khai Đề án Xây dựng Trung tâm công
+nghệ phần mềm tại Bình Định.
+
+Điều 2. Giao Sở Thông tin và
+Truyền thông chủ trì, phối hợp với Sở Tài chính, Nội vụ và các cơ quan liên
+quan tổ chức triển khai thực hiện các nội dung, công việc tại Kế hoạch kèm theo
+Quyết định này.
+
+Điều 3. Chánh Văn phòng UBND tỉnh;
+Giám đốc các Sở: Thông tin và Truyền thông, Tài chính, Nội vụ, Khoa học và Công
+nghệ; Giám đốc Kho bạc Nhà nước tỉnh và Thủ trưởng các cơ quan liên quan chịu
+trách nhiệm thi hành Quyết định này kể từ ngày ký./.
+
+ 
+
+ Nơi nhận:
+
+- Như Điều 3;
+
+ - Thường trực Tỉnh ủy;
+
+ - Thường trực HĐND tỉnh;
+
+ - CT, PCT UBND tỉnh;
+
+ - Lãnh đạo VP UBND tỉnh;
+
+ - Lưu: VT, K9, K12, K20.
+
+TM. ỦY BAN NHÂN
+ DÂN
+
+ KT. CHỦ TỊCH
+
+ PHÓ CHỦ TỊCH
+
+ Trần Châu
+
+ 
+
+KẾ HOẠCH
+
+TUYỂN
+DỤNG NHÂN SỰ TRIỂN KHAI ĐỀ ÁN XÂY DỰNG TRUNG TÂM CÔNG NGHỆ PHẦN MỀM TẠI BÌNH ĐỊNH
+
+(Kèm theo Quyết định số 4175/QĐ-UBND ngày 06/11/2017 của UBND tỉnh)
+
+A. MỤC ĐÍCH, YÊU CẦU
+
+- Hình thành đội ngũ cán bộ, lập trình viên nòng cốt
+của Trung tâm Công nghệ phần mềm Bình Định nhằm tạo nền tảng để phát triển
+ngành công nghiệp phần mềm trên địa bàn tỉnh với mục tiêu đến năm 2025, ngành
+công nghiệp phần mềm sẽ góp phần làm thay đổi cơ cấu trong ngành công nghiệp của
+địa phương về doanh số, giá trị kim ngạch xuất khẩu và thu hút lao động.
+
+- Xây dựng đội ngũ lập trình viên có đủ năng lực để
+đến năm 2020 có đủ năng lực phát triển và vận hành hệ thống thông tin của tỉnh
+để phục vụ cho chính quyền điện tử.
+
+- Thực hiện công tác tuyển dụng nhân sự đảm bảo yêu
+cầu về trình độ, kỹ năng, phù hợp với yêu cầu thực tế của nhiệm vụ gia công phần
+mềm cho đối tác nước ngoài.
+
+B. NỘI DUNG KẾ HOẠCH
+
+Triển khai tuyển dụng 30 nhân sự và chuẩn bị các điều
+kiện về cơ sở vật chất có liên quan để thực hiện các nội dung đã ký kết trong
+Biên bản hợp tác giữa UBND tỉnh Bình Định và Công ty TMA Solutions cụ thể:
+
+I. Chế độ, chính sách đối với người được tuyển dụng
+
+1. Hình thức hợp đồng, tuyển dụng:
+
+Các nhân viên được tuyển dụng để thực hiện công việc
+gia công phần mềm cho đối tác nước ngoài làm việc theo chế độ hợp đồng tại
+Trung tâm Công nghệ thông tin - Truyền thông thuộc Sở Thông tin và Truyền thông
+Bình Định (không bố trí biên chế viên chức).
+
+2. Chế độ tiền lương, phụ cấp:
+
+Người được tuyển dụng thực hiện nhiệm vụ gia công
+phần mềm được hưởng các chính sách cụ thể như sau:
+
+a. Trong thời gian đào tạo (tối đa 06 tháng)
+
+- Công ty TMA Solutions sẽ hỗ trợ trong 03 tháng đầu
+tiên với số tiền hỗ trợ 2.000.000đ/người/tháng; kể từ tháng thứ 04 trở đi, Công
+ty TMA sẽ xem xét nâng mức hỗ trợ tùy vào năng lực thực tế của mỗi cá nhân.
+
+- Tỉnh Bình Định hỗ trợ kinh phí theo chính sách đặc
+thù cho các nhân sự được tuyển dụng mới với mức hỗ trợ: 5.000.000đ/người/tháng.
+
+- Các trường hợp công chức, viên chức được chọn đề
+cử đi đào tạo được hưởng nguyên lương và các chế độ khác theo quy định hiện
+hành và được hỗ trợ 5.000.000đ/người/tháng.
+
+b. Sau thời gian đào tạo (tối đa 24 tháng tiếp
+theo)
+
+- Kết thúc thời gian đào tạo tại Công ty TMA Solutions,
+nhân sự được tuyển dụng được ký kết hợp đồng lao động với Trung tâm CNTT - Truyền
+thông Bình Định.
+
+- Tỉnh tiếp tục hỗ trợ kinh phí theo chính sách đặc
+thù cho các nhân sự được tuyển dụng (trừ đối tượng là công chức, viên chức được
+chọn để cử đi đào tạo) đã qua đào tạo nhằm thu hút nguồn nhân lực để phát triển
+ngành công nghiệp phần mềm trên địa bàn tỉnh với mức hỗ trợ 3.000.000đ/người/tháng.
+
+- Trung tâm CNTT - Truyền thông Bình Định có trách
+nhiệm đảm bảo việc chi trả lương và kinh phí hỗ trợ theo chính sách đặc thù với
+mức tối thiểu như sau:
+
++ Nhân sự được tuyển dụng vào vị trí Trưởng nhóm lập
+trình: 7.000.000đ/người/tháng.
+
++ Nhân sự được tuyển dụng vào các vị trí khác:
+5.000.000đ/người/tháng.
+
+c. Sau 30 tháng: Việc chi trả lương do Trung
+tâm CNTT - Truyền thông Bình Định đảm bảo từ nguồn thu của các hợp đồng gia
+công phần mềm với các đối tác nước ngoài và các hợp đồng hợp pháp khác theo quy
+định.
+
+3. Các điều kiện ràng buộc:
+
+Trước khi được cử tham gia khóa đào tạo tại Công ty
+TMA Solutions, các nhân sự được lựa chọn phải ký cam kết với tỉnh (thông qua Sở
+Thông tin và Truyền thông) với các ràng buộc, cụ thể như sau:
+
+- Cam kết làm việc tại Trung tâm CNTT - Truyền
+thông Bình Định ít nhất 24 tháng tính từ thời gian kết thúc đào tạo tại Công ty
+TMA Solutions.
+
+- Cam kết bồi thường gấp 03 lần kinh phí được nhận
+trong quá trình đào tạo tại Công ty TMA Solutions nếu tự ý nghỉ việc khi chưa kết
+thúc thời gian 24 tháng nêu trên.
+
+II. Vị trí, yêu cầu đối với người được tuyển dụng
+
+1. Trưởng nhóm lập trình (Project Manager)
+
+a. Số lượng tuyển dụng: 02 người.
+
+b. Yêu cầu năng lực:
+
+- Tốt nghiệp Đại học các chuyên ngành công nghệ
+thông tin, thành thạo tiếng Anh (TOEIC 500 trở lên).
+
+- Có kinh nghiệm ở vị trí tương đương từ 02 năm trở
+lên, có kiến thức về quản lý dự án CNTT, hiểu rõ quy trình phát triển một dự
+án.
+
+- Có khả năng phân tích và thiết kế phần mềm.
+
+- Có kỹ năng lập kế hoạch, theo dõi và kiểm soát tiến
+độ; kỹ năng quản lý nhân sự, giao tiếp, đàm phán và ra quyết định.
+
+- Thành thạo ít nhất một ngôn ngữ lập trình.
+
+c. Mô tả công việc:
+
+- Quản lý trực tiếp nhân viên tham gia phát triển dự
+án.
+
+- Tiếp nhận công việc từ cấp trên, ước lượng độ lớn
+của dự án, lên lịch triển khai, theo dõi và quản lý tiến độ dự án, quản lý công
+việc của nhân viên trong nhóm, báo cáo tiến độ lên cán bộ quản lý trực tiếp hoặc
+khách hàng.
+
+- Thực hiện nhiệm vụ phân tích và thiết kế phần mềm.
+
+- Dự đoán rủi ro liên quan đến kỹ thuật, tiến độ của
+dự án, báo cáo kịp thời kèm với các hướng giải quyết.
+
+- Đảm bảo tiến độ phát triển sản phẩm theo đúng kế
+hoạch.
+
+- Đảm bảo chất lượng dự án như mong muốn của khách
+hàng.
+
+- Biết phân tích kết quả dự án để đề ra những giải
+pháp tốt hơn cho dự án tiếp theo (phân tích pest practice, lesson learnt, những
+chỉ số về chất lượng).
+
+- Hướng dẫn, hỗ trợ và đào tạo thành viên trong
+nhóm.
+
+2. Nhân viên kiểm thử (Tester)
+
+a. Số lượng tuyển dụng: 06 người.
+
+b. Yêu cầu năng lực:
+
+- Tốt nghiệp Đại học các chuyên ngành Công nghệ
+thông tin, thành thạo tiếng Anh (TOEIC 400 trở lên).
+
+- Hiểu biết về quy trình phát triển phần mềm, cẩn
+thận, tỉ mỉ.
+
+- Có khả năng phân tích yêu cầu, specs của khách
+hàng.
+
+- Có kỹ năng viết test case, test scenarios và thực
+hiện test.
+
+- Tư duy logic tốt, có khả năng làm việc độc lập và
+theo nhóm.
+
+c. Mô tả công việc:
+
+- Nghiên cứu yêu cầu của dự án, viết test suits,
+test case, lập kế hoạch test, test phần mềm.
+
+- Biết setup môi trường như spec mô tả.
+
+- Báo cáo kết quả test và quản lý lỗi trong quá
+trình phát triển phần mềm.
+
+- Đảm bảo các dự án phần mềm được thực hiện theo
+đúng chuẩn về chất lượng.
+
+3. Nhân viên đồ họa (Designer)
+
+a. Số lượng tuyển dụng: 02 người.
+
+b. Yêu cầu năng lực:
+
+- Tốt nghiệp đại học hoặc cao đẳng mỹ thuật, đồ họa;
+ưu tiên tốt nghiệp các trường đào tạo mỹ thuật đa phương tiện Arena.
+
+- Sử dụng tốt các phần mềm thiết kế đồ họa 2D như
+Photoshop, Corel, Illustrator hoặc các phần mềm đồ họa tương đương, có khả năng
+sáng tạo tốt, tư duy mỹ thuật cao.
+
+- Thành thạo các phần mềm biên tập, xử lý kỹ xảo
+cho video như Adobe After Effect, Premiere Pro, Anime Studio Pro.
+
+c. Mô tả công việc:
+
+- Thiết kế, cắt ghép, chỉnh sửa sản phẩm bằng đồ họa
+2D.
+
+- Thiết kế Website Template.
+
+- Thiết kế logo, profile, profile, catalogue,
+brochure,...
+
+4. Nhân viên Quản lý chất lượng phần mềm
+(Quality Assuarance)
+
+a. Số lượng tuyển dụng: 01 người.
+
+b. Yêu cầu năng lực:
+
+- Tốt nghiệp Đại học các chuyên ngành công nghệ
+thông tin.
+
+- Nắm vững các quy trình phát triển dự án phần mềm.
+
+- Có kiến thức tốt về các quy trình quản lý chất lượng:
+CMMI, Agile - Scrum,…
+
+- Ưu tiên có kinh nghiệm làm QA, có khả năng thu thập
+và phân tích thông tin tốt.
+
+- Khả năng làm việc bằng tiếng Anh (TOEIC 400 trở
+lên).
+
+- Có khả năng chịu được áp lực, nhiệt tình sáng tạo
+trong công việc.
+
+c. Mô tả công việc:
+
+- Tham gia đào tạo dự án và thành viên dự án theo
+quy trình đã xây dựng.
+
+- Thực hiện kiểm soát các dự án, tham gia cải tiến
+quy trình và chất lượng các dự án của công ty sau khi đạt được chuẩn theo quy định.
+
+- Lập hồ sơ liên quan đến việc quản lý chất lượng dự
+án.
+
+- Giám sát quá trình thực hiện dự án nhằm đảm bảo
+chất lượng và giảm thiểu rủi ro.
+
+- Cập nhật, tổng hợp và báo cáo thông tin trong quá
+trình phát triển dự án.
+
+5. Nhân viên lập trình (Developer)
+
+a. Số lượng tuyển dụng: 20 người.
+
+b. Yêu cầu năng lực:
+
+- Tốt nghiệp Đại học các chuyên ngành Công nghệ
+thông tin, thành thạo tiếng Anh (TOEIC 400 trở lên).
+
+- Lập trình thành thạo một trong các ngôn ngữ Java,
+C++, Ajax, Json, HTML, CSS, SQL Server, XML.
+
+- Có kiến thức về các framework tương ứng với các
+ngôn ngữ lập trình.
+
+- Có kiến thức căn bản về lập trình hướng đối tượng,
+cơ sở dữ liệu.
+
+- Tư duy logic tốt, có khả năng làm việc độc lập và
+theo nhóm.
+
+- Có khả năng quản lý công việc, quản lý thời gian
+tốt.
+
+- Biết viết báo cáo kết quả công việc.
+
+c. Mô tả công việc: Tham gia các dự án phát
+triển phần mềm cho các đối tác nước ngoài.
+
+III. Lộ trình thực hiện
+
+- Tháng 11/2017: Thực hiện tuyển dụng đợt 1, tối
+thiểu 10 nhân sự đề cử tham gia đào tạo tại Công ty TMA Solutions.
+
+- Năm 2018: Thực hiện tuyển dụng đợt 2 vào thời điểm
+thích hợp để bổ sung số lượng còn thiếu sau đợt tuyển dụng lần 1.
+
+- Năm 2019: Thực hiện đánh giá hiệu quả đầu tư và
+tham mưu giải pháp triển khai giai đoạn tiếp theo.
+
+IV. Về việc bố trí địa điểm làm việc
+
+- Trong thời gian đầu, hoạt động của bộ phận gia
+công phần mềm được bố trí tại văn phòng Trung tâm CNTT - Truyền thông.
+
+- Tỉnh hỗ trợ kinh phí để mua sắm các trang thiết bị
+cần thiết và chi phí hành chính phục vụ cho hoạt động của bộ phận gia công phần
+mềm làm việc tại Trung tâm CNTT - Truyền thông.
+
+C. KINH PHÍ THỰC HIỆN
+
+- Tổng kinh phí thực hiện là 4.315.000.000đ
+(Bốn tỷ, ba trăm mười lăm triệu đồng). Trong đó:
+
++ Chi phí hỗ trợ thu hút nguồn nhân lực:
+3.060.000.000 đồng.
+
++ Chi phí mua sắm trang thiết bị: 805.000.000 đồng.
+
++ Hỗ trợ chi hoạt động: 450.000.000 đồng.
+
+(Chi tiết như Phụ
+lục kèm theo)
+
+- Nguồn kinh phí thực hiện: Ngân sách tỉnh cấp bổ
+sung cho Sở Thông tin và Truyền thông trong năm 2017 và giao dự toán chi ngân
+sách tỉnh năm 2018, 2019, 2020.
+
+D. TỔ CHỨC THỰC HIỆN
+
+1. Sở Thông tin và Truyền thông
+
+- Chủ trì, phối hợp với các cơ quan liên quan tổ chức
+triển khai thực hiện Kế hoạch này.
+
+- Phối hợp với Công ty TMA Solutions và các cơ quan
+liên quan triển khai thực hiện công tác tuyển dụng, đào tạo.
+
+- Làm việc với các trường Đại học trên địa bàn tỉnh
+để đặt hàng đào tạo, phối hợp thực hiện tuyển dụng nhân sự phục vụ cho nhu cầu
+gia công phần mềm trên địa bàn tỉnh.
+
+- Tham mưu đề xuất UBND tỉnh Đề án Xây dựng Trung
+tâm Công nghệ phần mềm tại Khu đô thị Khoa học và Giáo dục Quy Hòa.
+
+2. Sở Tài chính: Chủ trì, phối hợp với Sở
+Thông tin và Truyền thông đề xuất UBND tỉnh bố trí kinh phí để thực hiện Kế hoạch
+này theo quy định.
+
+3. Sở Nội vụ: Chủ trì, phối hợp với Sở Thông
+tin và Truyền thông đề xuất UBND tỉnh bố trí nguồn nhân lực để thực hiện Kế hoạch
+này.
+
+Trên đây là Kế hoạch Tuyển dụng nhân sự triển khai
+Đề án Xây dựng Trung tâm công nghệ phần mềm tại Bình Định, trong quá trình triển
+khai thực hiện nếu có vướng mắc, phát sinh, các cơ quan liên quan phản ánh bằng
+văn bản qua Sở Thông tin và Truyền thông để tổng hợp, báo cáo đề xuất UBND tỉnh
+xem xét chỉ đạo
+
+ 
+
+PHỤ LỤC
+
+(Kèm theo Quyết định số 4175/QĐ-UBND ngày 06/11/2017 của
+UBND tỉnh)
+
+STT
+
+Nội dung chi
+
+Số lượng
+
+Số tiền
+
+Thành tiền (đồng)
+
+I
+
+Chi phí hỗ trợ thu hút nguồn nhân lực
+
+ 
+
+ 
+
+3.060.000.000
+
+1
+
+Kinh phí hỗ trợ 6 tháng đầu (5 triệu/tháng)
+
+30 người
+
+30.000.000
+
+900.000.000
+
+2
+
+Kinh phí hỗ trợ 24 tháng tiếp theo (3 triệu/tháng)
+
+30 người
+
+72.000.000
+
+2.160.000.000
+
+II
+
+Chi phí mua sắm trang thiết bị
+
+ 
+
+ 
+
+805.000.000
+
+1
+
+Máy tính để bàn
+
+30
+
+10.000.000
+
+300.000.000
+
+2
+
+Máy tính xách tay
+
+2
+
+20.000.000
+
+40.000.000
+
+3
+
+Projector, màn chiếu
+
+1
+
+25.000.000
+
+25.000.000
+
+4
+
+Webserver, Database server
+
+2
+
+120.000.000
+
+240.000.000
+
+5
+
+Hệ thống mạng LAN, thiết bị mạng LAN
+
+1
+
+75.000.000
+
+75.000.000
+
+6
+
+Bộ bàn ghế làm việc
+
+30
+
+2.500.000
+
+75.000.000
+
+7
+
+Máy lạnh
+
+2
+
+15.000.000
+
+30.000.000
+
+8
+
+Hệ thống điện
+
+1
+
+20.000.000
+
+20.000.000
+
+III
+
+Hỗ trợ chi hoạt động
+
+30
+
+15.000.000
+
+450.000.000
+
+Tổng cộng
+
+4.315.000.000
+
+(Bốn tỷ, ba
+ trăm mười lăm triệu đồng)--- THÔNG TIN THÊM ---
+Ten: Quyết định 4175/QĐ-UBND năm 2017 về Kế hoạch Tuyển dụng nhân sự triển khai Đề án Xây dựng Trung tâm công nghệ phần mềm tại Bình Định
+So hieu: 4175/QĐ-UBND
+Loai van ban: Quyết định
+Linh vuc nganh: Lao động - Tiền lương, Công nghệ thông tin
+Noi ban hanh: Tỉnh Bình Định
+Nguoi ky: Trần Châu
+Ngay ban hanh: 06/11/2017
+Ngay hieu luc: 06/11/2017
+Ngay dang: Dữ liệu đang cập nhật
+So cong bao: Dữ liệu đang cập nhật
+Tinh trang: Còn hiệu lực
+
+
+--- MỤC LỤC ---
+- QUYẾT ĐỊNH VỀ VIỆC BAN HÀNH KẾ HOẠCH TUYỂN DỤNG NHÂN SỰ TRIỂN KHAI ĐỀ ÁN XÂY DỰNG TRUNG TÂM CÔNG NGHỆ PHẦN MỀM TẠI BÌNH ĐỊNH
+  - Điều 1. Ban hành kèm theo Quyết định này Kế hoạch Tuyển dụng nhân sự triển khai Đề án Xây dựng Trung tâm công nghệ phần mềm tại Bình Định.
+  - Điều 2. Giao Sở Thông tin và Truyền thông chủ trì, phối hợp với Sở Tài chính, Nội vụ và các cơ quan liên quan tổ chức triển khai thực hiện các nội dung, công việc tại Kế hoạch kèm theo Quyết định này.
+  - Điều 3. Chánh Văn phòng UBND tỉnh; Giám đốc các Sở: Thông tin và Truyền thông, Tài chính, Nội vụ, Khoa học và Công nghệ; Giám đốc Kho bạc Nhà nước tỉnh và Thủ trưởng các cơ quan liên quan chịu trách nhiệm thi hành Quyết định này kể từ ngày ký./.
+- KẾ HOẠCH TUYỂN DỤNG NHÂN SỰ TRIỂN KHAI ĐỀ ÁN XÂY DỰNG TRUNG TÂM CÔNG NGHỆ PHẦN MỀM TẠI BÌNH ĐỊNH
+  - A. MỤC ĐÍCH, YÊU CẦU
+  - B. NỘI DUNG KẾ HOẠCH
+  - C. KINH PHÍ THỰC HIỆN
+  - D. TỔ CHỨC THỰC HIỆN
+  - PHỤ LỤC Kèm theo Quyết định số 4175/QĐ-UBND ngày 06/11/2017 của UBND tỉnh
+
+--- VĂN BẢN LIÊN QUAN ---
+
+Van ban duoc can cu:
+  - Luật tổ chức chính quyền địa phương 2015 (ID: 282380)
+
+Van ban lien quan cung noi dung:
+  - Kế hoạch 10/KH-UBND năm 2013 về phát triển công nghiệp Công nghệ thông tin và thúc đẩy ứng dụng phần mềm nguồn mở năm 2013 và giai đoạn 2013-2015 do tỉnh An Giang ban hành (ID: 182995)
+  - Quyết định 1896/QĐ-UBND năm 2011 phê duyệt Đề án phát triển công nghiệp phần mềm thành phố Hải Phòng đến năm 2015, định hướng 2020 (ID: 280286)
+  - Quyết định 67/2005/QĐ-UBND về việc chuyển giao chức năng quản lý Nhà nước về công nghệ thông tin và Trung tâm Công nghệ phần mềm Đà Nẵng trực thuộc Sở Khoa học và Công nghệ sang Sở Bưu chính Viễn thông do Ủy ban nhân dân thành phố Đà Nẵng ban hành (ID: 9624)

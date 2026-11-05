@@ -1,0 +1,707 @@
+ỦY BAN NHÂN DÂN
+
+ TỈNH ĐẮK NÔNG
+
+ -------
+
+CỘNG HÒA XÃ HỘI
+ CHỦ NGHĨA VIỆT NAM
+
+ Độc lập - Tự do - Hạnh phúc 
+
+ ---------------
+
+Số: 309/KH-UBND
+
+Đắk Nông, ngày 16
+ tháng 5 năm 2023
+
+ 
+
+KẾ HOẠCH
+
+TỔ
+CHỨC THU THẬP, CẬP NHẬT, CHỈNH SỬA, TỔNG HỢP THÔNG TIN VỀ NGƯỜI LAO ĐỘNG TRÊN ĐỊA
+BÀN TỈNH ĐẮK NÔNG
+
+Thực hiện Quyết định số 06/QĐ-TTg ngày 06/01/2022 của
+Thủ tướng Chính phủ phê duyệt Đề án phát triển ứng dụng dữ liệu về dân cư, định
+danh và xác thực điện tử phục vụ chuyển đổi số quốc gia giai đoạn 2022-2025, tầm
+nhìn đến 2030; Quyết định số 90/QĐ-TTg ngày 18/01/2022 của Thủ tướng Chính phủ
+phê duyệt Chương trình mục tiêu quốc gia giảm nghèo bền vững giai đoạn
+2021-2025; Thông tư số 11/2022/TT-BLĐTBXH ngày 30/6/2022 của Bộ Lao động -
+Thương binh và Xã hội hướng dẫn một số nội dung thực hiện hỗ trợ việc làm bền vững
+thuộc Chương trình mục tiêu quốc gia giảm nghèo bền vững giai đoạn 2021-2025;
+Thông tư số 46/2022/TT-BTC ngày 28/7/2022 của Bộ Tài chính quy định quản lý, sử
+dụng và quyết toán kinh phí sự nghiệp từ nguồn ngân sách trung ương thực hiện
+Chương trình mục tiêu quốc gia giảm nghèo bền vững giai đoạn 2021-2025; Công
+văn số 222/LĐTBXH-VL ngày 31/01/2023 của Bộ Lao động - Thương binh và Xã hội về
+việc thực hiện tiểu dự án “Hỗ trợ việc làm bền vững” thuộc Chương trình mục
+tiêu quốc gia Giảm nghèo bền vững giai đoạn 2021-2025 về quản lý lao động gắn với
+cơ sở dữ liệu quốc gia về dân cư và triển khai Đề án 06/CP của Chính phủ.
+
+Ủy ban nhân dân tỉnh ban hành Kế hoạch tổ chức thu
+thập, cập nhật, chỉnh sửa, tổng hợp thông tin về người lao động trên địa bàn tỉnh
+Đắk Nông (Kế hoạch), cụ thể như sau:
+
+I. MỤC ĐÍCH, YÊU CẦU
+
+1. Mục đích
+
+- Thu thập, cập nhật, lưu trữ, tổng hợp thông tin về
+người lao động trên địa bàn tỉnh Đắk Nông làm cơ sở quản lý lao động và thiết lập
+sổ lao động điện tử cho người lao động; khai thác, sử dụng dữ liệu phục vụ các
+hoạt động quản lý nhà nước về lao động theo thẩm quyền như: hoạch định các
+chính sách liên quan đến phát triển nguồn nhân lực, xây dựng kế hoạch phát triển
+kinh tế - xã hội, hướng nghiệp, đào tạo nghề gắn với giải quyết việc làm của địa
+phương.
+
+- Kết quả thu thập, cập nhật, lưu trữ, tổng hợp
+thông tin về người lao động trên địa bàn tỉnh là cơ sở để các cấp, các ngành
+đánh giá, dự báo biến động của thị trường lao động trên địa bàn tỉnh, qua đó
+xây dựng và hoạch định các chính sách phát triển nguồn nhân lực, kế hoạch sản
+xuất - kinh doanh phù hợp với xu hướng phát triển thị trường lao động; là cơ sở
+để xây dựng thực hiện các nhiệm vụ, giải pháp phát triển thị trường lao động
+linh hoạt, hiện đại, hiệu quả, bền vững và hội nhập theo quan điểm mà Nghị quyết
+06/NQ-CP ngày 10/01/2023 của Chính phủ đề ra.
+
+2. Yêu cầu
+
+- Đảm bảo phục vụ kịp thời, chính xác, đầy đủ, có hệ
+thống công tác quản lý của nhà nước về lao động, việc làm, đáp ứng yêu cầu phát
+triển kinh tế - xã hội, bảo đảm quốc phòng an ninh, đáp ứng yêu cầu Chương
+trình chuyển đổi số Quốc gia của Trung ương và của địa phương.
+
+- Thông tin, dữ liệu về người lao động được số hóa,
+chuẩn hóa từ nghiệp vụ thu thập, cập nhật thông tin về lao động; thông tin được
+kết nối, chia sẻ, đối soát với cơ sở dữ liệu quốc gia về dân cư và các cơ sở dữ
+liệu khác.
+
+- Điều tra, thu thập, cập nhật, tổng hợp thông tin về
+người lao động, phải được thực hiện đúng tiến độ cả về thời gian, không gian, bảo
+đảm cung cấp kịp thời số liệu về người lao động.
+
+- Quản lý, sử dụng kinh phí điều tra, thu thập, cập
+nhật, chỉnh sửa, tổng hợp thông tin về người lao động đúng chế độ hiện hành, sử
+dụng tiết kiệm và hiệu quả.
+
+II. PHẠM VI, ĐỐI TƯỢNG, NỘI
+DUNG, SỐ LƯỢNG, QUY TRÌNH THU THẬP, CẬP NHẬT, CHỈNH SỬA, TỔNG HỢP THÔNG TIN VỀ
+NGƯỜI LAO ĐỘNG
+
+1. Phạm vi thu thập, cập nhật thông tin: Thu
+thập, cập nhật, tổng hợp thông tin về người lao động được tiến hành trên phạm
+vi toàn tỉnh.
+
+2. Đối tượng được thu thập: Đối tượng được
+thu thập là người từ đủ 15 tuổi trở lên đang cư trú trên địa bàn tỉnh.
+
+3. Nội dung thu thập
+
+- Họ, chữ đệm và tên khai sinh; ngày, tháng, năm
+sinh; giới tính; số căn cước công dân hoặc chứng minh nhân dân; mã số bảo hiểm
+xã hội; nơi đăng ký thường trú, nơi ở hiện tại (nếu khác nơi đăng ký thường
+trú); đối tượng ưu tiên (nếu có).
+
+- Trình độ giáo dục phổ thông cao nhất; trình độ
+chuyên môn kỹ thuật và chuyên ngành đào tạo.
+
+- Tình trạng tham gia hoạt động kinh tế:
+
++ Có việc làm: Vị thế việc làm; công việc đang làm,
+thuộc lĩnh vực; hình thức tham gia bảo hiểm xã hội (nếu có); ký kết hợp đồng
+lao động, loại hợp đồng lao động; nơi làm việc; loại hình nơi làm việc, địa chỉ
+nơi làm việc.
+
++ Người thất nghiệp: Thời gian thất nghiệp; nhu cầu
+việc làm cần tìm; thông tin liên hệ.
+
++ Người không tham gia hoạt động kinh tế: Lý do
+không tham gia hoạt động kinh tế (đi học, hưu trí, nội trợ, khuyết tật,
+khác).
+
+4. Số lượng thu thập: Khoảng 397.705 người (theo
+số liệu Báo cáo số 813/BC-UBND ngày 26/12/2022 của UBND tỉnh về nâng cao hiệu
+quả quản lý, khai thác, sử dụng và phát huy các nguồn lực của nền kinh tế theo
+Nghị quyết số 39-NQ/TW của Bộ Chính trị trên địa bàn tỉnh năm 2022).
+
+5. Sản phẩm thu thập, lưu trữ và tổng hợp: Phiếu
+thu thập thông tin theo mẫu số 03 ban hành kèm theo Thông tư số
+11/2022/TT-BLĐTBXH ngày 30/6/2022 của Bộ Lao động - Thương binh và Xã hội. Dữ
+liệu dạng số kết quả thu thập thông tin và nhập vào phần mềm trên hệ thống cơ sở
+dữ liệu quốc gia về dân cư.
+
+6. Phương pháp thu thập, cập nhật thông tin:
+
+- Điều tra viên hỏi trực tiếp người lao động để ghi
+vào Phiếu thông tin;
+
+- Điều tra viên hỏi trực tiếp thân nhân của người
+lao động để ghi vào phiếu thông tin;
+
+- Điều tra viên gửi Phiếu cho người lao động hoặc
+thân nhân người lao động cung cấp các thông tin điền vào Phiếu.
+
+7. Quy trình thực hiện
+
+7.1. Quy trình điều tra, thu thập, cập nhật
+và xử lý thông tin
+
+- Tổ công tác triển khai Đề án 06 cấp thôn, buôn,
+bon, tổ dân phố (Trưởng thôn, buôn, bon, tổ dân phố) trực tiếp điều tra, thu thập
+thông tin người lao động vào Phiếu thông tin (Mẫu số 03).
+
+- Sau khi thông tin được điều tra, thu thập, Tổ
+công tác triển khai Đề án 06 cấp thôn, buôn, bon, tổ dân phố chuyển cho Tổ công
+tác triển khai Đề án 06 cấp xã qua Công chức phụ trách lĩnh vực Lao động -
+Thương binh và Xã hội để phối hợp kiểm tra, rà soát Phiếu và kịp thời chỉnh sửa,
+cập nhật đảm bảo đầy đủ nội dung thông tin (nếu có sai sót). Tiếp theo,
+chuyển Phiếu thông tin cho lực lượng Công an cấp xã cập nhật vào phần mềm trên
+hệ thống cơ sở dữ liệu quốc gia về dân cư; trường hợp thông tin có sai sót phối
+hợp với công chức phụ trách lĩnh vực Lao động - Thương binh và Xã hội để kiểm
+tra bổ sung, chỉnh sửa theo quy định.
+
+- Công chức phụ trách lĩnh vực Lao động - Thương
+binh và Xã hội cấp xã thường xuyên cung cấp các thông tin thay đổi hoặc bổ sung
+các công dân chưa có thông tin cho Công an cấp xã cập nhật vào phần mềm trên hệ
+thống Cơ sở dữ liệu quốc gia về dân cư đảm bảo kịp thời, chính xác.
+
+7.2. Tổng hợp kết quả điều tra, thu thập, cập
+nhật thông tin
+
+- Kết quả điều tra, thu thập, cập nhật thông tin
+người lao động được cập nhật hằng ngày trên hệ thống cơ sở dữ liệu quốc gia về
+dân cư.
+
+- Sau khi toàn bộ người lao động từ đủ 15 tuổi được
+nhập vào phần mềm trên hệ thống Cơ sở dữ liệu quốc gia về dân cư, cơ quan Công
+an các cấp chịu trách nhiệm quản lý thông tin đã được nhập vào hệ thống. Đồng
+thời, sẽ cung cấp thống kê, báo cáo tình hình biến động của người lao động cho
+đơn vị chuyên trách cùng cấp để phục vụ công tác quản lý khi có yêu cầu.
+
+8. Tiến độ triển khai
+
+Cơ quan được giao chủ trì, cơ quan có liên quan, điều
+tra viên và cán bộ nhập dữ liệu thực hiện theo tiến độ thời gian sau:
+
+TT
+
+Nội dung công
+ việc
+
+Thời gian thực
+ hiện
+
+Đơn vị phụ
+ trách
+
+1
+
+Xây dựng và hoàn thiện Kế hoạch thu thập, cập nhật,
+ chỉnh sửa, tổng hợp thông tin về người lao động
+
+Tháng 4, 5
+
+Sở LĐ-TB&XH,
+ Công an tỉnh
+
+2
+
+Tập huấn, hướng dẫn, triển khai Kế hoạch thu thập,
+ cập nhật
+
+Tháng 6, 7
+
+Sở LĐTB&XH,
+ Công an tỉnh
+
+3
+
+Thống kê, rà soát đối tượng thu thập
+
+Tháng 7
+
+Tổ Đề án 06 cấp xã
+
+4
+
+Tiến hành điều tra, thu thập, cập nhật
+
+Tháng 7, 8
+
+Trưởng thôn, buôn,
+ bon, tổ dân phố
+
+5
+
+Xử lý thông tin Phiếu thu thập
+
+Tháng 9
+
+Tổ Đề án 06 cấp xã
+
+6
+
+Nghiệm thu, cập nhật thông tin vào phần mềm
+
+Tháng 9, 10
+
+Sở LĐ-TBXH, Công
+ an cấp xã
+
+7
+
+Tổng hợp, báo cáo, phân tích thông tin
+
+Tháng 11, 12
+
+Sở LĐ TB&XH,
+ Công an tỉnh
+
+III. KINH PHÍ THỰC HIỆN
+
+Kinh phí thực hiện Kế hoạch này được đảm bảo từ nguồn
+ngân sách nhà nước (ngân sách trung ương và ngân sách địa phương theo phân cấp),
+trong đó ưu tiên sử dụng từ kinh phí sự nghiệp thực hiện Tiểu dự án 3 thuộc Dự
+án 4 Chương trình mục tiêu quốc gia Giảm nghèo bền vững năm 2023 đối với một số
+đơn vị, địa phương đã được giao dự toán tại Quyết định số 2115/QĐ-UBND ngày
+15/12/2022 và Quyết định số số 2129/QĐ-UBND ngày 15/12/2022 của UBND tỉnh Đắk
+Nông.
+
+Đối với các nội dung công việc thuộc chức năng, thuộc
+nhiệm vụ chính trị được cấp có thẩm quyền giao, các cơ quan, đơn vị cần nâng
+cao tinh thần trách nhiệm, chủ động sử dụng nguồn lực hiện có (kinh phí đã được
+bố trí, trang thiết bị và công cụ, dụng cụ tại đơn vị, nhân lực của đơn vị) để
+triển khai thực hiện đảm bảo hoàn thành tốt nhiệm vụ được cấp có thẩm quyền
+giao. Ngân sách nhà nước bổ sung kinh phí trong trường hợp khối lượng công việc
+được giao quá lớn, vượt khả năng tự đảm bảo của cơ quan, đơn vị và không trùng
+lặp với các nhiệm vụ đã được đảm bảo kinh phí thực hiện.
+
+Việc quản lý, sử dụng và thanh, quyết toán kinh phí
+thực hiện đúng theo quy định của Luật Ngân sách nhà nước và các văn bản pháp luật
+khác có liên quan.
+
+IV. TỔ CHỨC THỰC HIỆN
+
+1. Sở Lao động - Thương binh và Xã hội
+
+- Chủ trì, phối hợp với các cơ quan, đơn vị, địa
+phương tổ chức triển khai thực hiện Kế hoạch đảm bảo hiệu quả, đúng tiến độ.
+
+- Hướng dẫn UBND cấp huyện chỉ đạo UBND cấp xã tổ
+chức thực hiện việc thu thập, cập nhật, chỉnh sửa thông tin về người lao động
+đang cư trú tại địa bàn quản lý.
+
+- Tổ chức tập huấn, hướng dẫn nghiệp vụ công tác
+thu thập, cập nhật, chỉnh sửa, tổng hợp thông tin về người lao động của địa
+phương. Đôn đốc, kiểm tra, giám sát việc thu thập, cập nhật thông tin tại cơ sở;
+nghiệm thu kết quả thu thập, xử lý thông tin, cập nhật, tổng hợp, báo cáo kết
+quả; xử lý kịp thời các phát sinh xảy ra trong quá trình thực hiện.
+
+2. Sở Thông tin và Truyền thông, Báo Đắk Nông,
+Đài Phát thanh và Truyền hình Đắk Nông
+
+- Sở Thông tin và Truyền thông phối hợp với Sở Lao
+động - Thương binh và Xã hội và các cơ quan có liên quan hướng dẫn công tác
+tuyên truyền việc triển khai thực hiện Kế hoạch và thông tin về thị trường lao
+động tỉnh trên các phương tiện thông tin đại chúng.
+
+- Báo Đắk Nông, Đài Phát thanh và Truyền hình Đắk
+Nông, Cổng Thông tin điện tử tỉnh: Tăng cường tin, bài thông tin về quá trình,
+tiến độ triển khai kế hoạch của các ngành, địa phương; cập nhật tình hình thị
+trường lao động tỉnh trên các phương tiện thông tin đại chúng.
+
+3. Công an tỉnh
+
+- Phối hợp với Sở Lao động - Thương binh và Xã hội
+triển khai Kế hoạch; tổ chức tập huấn cho cán bộ, chiến sĩ Công an xã, phường,
+thị trấn về công tác nhập liệu trên phần mềm; tham gia kiểm tra, giám sát kết
+quả thu thập, cập nhật thông tin người lao động tại cơ sở.
+
+- Chỉ đạo lực lượng Công an cấp xã tiếp nhận Phiếu
+thu thập thông tin từ công chức phụ trách lĩnh vực Lao động - Thương binh và Xã
+hội xã, phường, thị trấn, chịu trách nhiệm nhập thông tin từ Phiếu thông tin
+vào phần mềm trên hệ thống cơ sở dữ liệu quốc gia về dân cư (theo tài liệu
+hướng dẫn của Bộ Công an). Trường hợp kinh phí thực hiện nhiệm vụ phát sinh
+ngoài hoặc vượt quá dự toán được giao, Công an cấp xã có văn bản báo cáo Công
+an cấp huyện (cơ quan quản lý cấp trên trực tiếp) để được xem xét, xử lý.
+
+- Chỉ đạo lực lượng Công an các huyện, thành phố quản
+lý thông tin nhập vào hệ thống cơ sở dữ liệu quốc gia về dân cư và định kỳ 06
+tháng, hàng năm cung cấp các thống kê, báo cáo tình hình biến động của người
+lao động cho Sở Lao động - Thương binh và Xã hội và đơn vị chuyên trách cùng cấp
+phục vụ công tác quản lý hoặc khi có yêu cầu.
+
+- Tổng hợp dữ liệu, chia sẻ dữ liệu về người lao động
+từ đủ 15 tuổi trở lên được thu thập, cập nhật thông tin với các sở, ngành có
+liên quan theo chỉ đạo, hướng dẫn của Bộ Công an.
+
+4. UBND các huyện, thành phố
+
+- Xây dựng Kế hoạch thu thập, cập nhật, chỉnh sửa
+thông tin về người lao động cư trú trên địa bàn quản lý.
+
+- Sử dụng có hiệu quả kinh phí từ ngân sách cấp
+trên hỗ trợ theo quy định, đồng thời chủ động cân đối ngân sách địa phương để bố
+trí cho các nội dung thuộc nhiệm vụ chi của ngân sách cấp mình theo quy định
+phân cấp hiện hành.
+
+- Chỉ đạo, hướng dẫn UBND cấp xã, phường, thị trấn
+triển khai, quán triệt thôn, buôn, bon, tổ dân phố, hộ gia đình và người lao động
+tích cực phối hợp, hỗ trợ với ngành chức năng, điều tra viên để cung cấp thông
+tin, ghi chép thông tin đầy đủ, chính xác, trung thực; thực hiện việc thu thập,
+cập nhật, chỉnh sửa thông tin về người lao động trên địa bàn quản lý; kiểm tra,
+giám sát việc thu thập thông tin người lao động tại các xã, phường, thị trấn.
+
+- Tổng hợp hồ sơ, chứng từ thu thập, cập nhật, chỉnh
+sửa thông tin về người lao động cư trú trên địa bàn từ các xã, phường, thị trấn
+để thanh quyết toán với Sở Lao động - Thương binh và Xã hội theo quy định trước
+ngày 30/10 hàng năm.
+
+- Báo cáo tình hình quản lý, khai thác sử dụng dữ
+liệu về người lao động trên địa bàn về Sở Lao động - Thương binh và Xã hội trước
+ngày 30/11 hàng năm.
+
+5. UBND cấp xã
+
+- Xây dựng Kế hoạch và tổ chức thu thập, cập nhật,
+chỉnh sửa thông tin về người lao động cư trú trên địa bàn quản lý.
+
+- Chỉ đạo cán bộ chuyên trách về lĩnh vực Lao động
+- Thương binh và Xã hội tiếp nhận phiếu thu thập từ Sở Lao động - Thương binh
+và Xã hội. Phối hợp với các thành viên trong Tổ công tác triển khai Đề án 06 cấp
+xã tiến hành thu thập Phiếu thông tin và chuyển cho Công an cấp xã thực hiện
+triển khai nhập vào phần mềm trên hệ thống cơ sở dữ liệu quốc gia về dân cư. Tổng
+hợp kinh phí thu thập, thủ tục gửi UBND huyện, thành phố (thông qua Phòng Lao động
+- Thương binh và Xã hội) để thanh quyết toán theo quy định trước ngày
+20/9/2023.
+
+- Chỉ đạo công chức phụ trách lĩnh vực Lao động -
+Thương binh và Xã hội cấp xã thường xuyên cung cấp các thông tin thay đổi hoặc
+bổ sung các công dân chưa có thông tin cho Công an cấp xã cập nhật vào phần mềm
+trên hệ thống cơ sở dữ liệu quốc gia về dân cư đảm bảo kịp thời, chính xác.
+
+- Lựa chọn điều tra viên thu thập, cập nhật thông
+tin người lao động là Trưởng thôn, buôn, bon, tổ dân phố trên địa bàn tỉnh tham
+gia tập huấn nghiệp vụ và trực tiếp thu thập, cập nhật, chỉnh sửa, tổng hợp
+thông tin về người lao động của địa phương; thực hiện kiểm tra giám sát, làm sạch
+thông tin ghi chép; tổng hợp phiếu thu thập gửi về công chức phụ trách lĩnh vực
+Lao động - Thương binh và Xã hội cấp xã. Hoàn thành trước ngày 30/8/2023.
+
+- Thiết lập cơ chế đối soát, cập nhật, chia sẻ dữ
+liệu người lao động đã thu thập với dữ liệu quốc gia về dân cư và các cơ sở dữ
+liệu khác là cơ sở để xác thực hoàn thiện và cung cấp sổ lao động điện tử của
+người lao động.
+
+Trên đây là Kế hoạch tổ chức thu thập, cập nhật, chỉnh
+sửa tổng hợp thông tin về người lao động trên địa bàn tỉnh Đắk Nông; các Sở,
+Ban, ngành, UBND các huyện, thành phố phối hợp triển khai thực hiện; báo cáo kết
+quả thực hiện trước ngày 20/12 hàng năm về Ủy ban nhân dân tỉnh (qua Sở Lao động
+- Thương binh và Xã hội)./.
+
+ 
+
+ Nơi nhận:
+
+- Bộ LĐTBXH (b/c);
+
+ - Thường trực HĐND tỉnh (b/c);
+
+ - CT, các PCT UBND tỉnh;
+
+ - Các Sở: LĐTBXH, TT&TT, Tài chính;
+
+ - Công an tỉnh;
+
+ - Cục Thống kê tỉnh;
+
+ - Báo Đắk Nông, Đài PT&TH Đắk Nông;
+
+ - CVP, các PCVP UBND tỉnh;
+
+ - UBND các huyện, thành phố;
+
+ - UBND các xã, phường, thị trấn;
+
+ - CVP, các PCVP UBND tỉnh;
+
+ - Lưu: VT, CTTĐT, KGVX (Q).
+
+KT. CHỦ TỊCH
+
+ PHÓ CHỦ TỊCH
+
+ Tôn Thị Ngọc Hạnh
+
+ 
+
+Mẫu
+số 03
+
+Tỉnh/thành
+phố:…............................................................
+
+Quận/huyện/thị xã/thành phố:……………………………………...
+
+Xã/phường /thị trấn:……………………….....................
+
+ 
+
+PHIẾU THÔNG TIN VỀ NGƯỜI
+LAO ĐỘNG
+
+(Thu thập thông tin người lao động từ 15 tuổi trở lên đang
+cư trú tại địa bàn)
+
+1. Họ,
+chữ đệm và tên khai sinh: ......................................................................................
+
+2. Ngày, tháng, năm
+ sinh:
+
+ 
+
+ 
+
+-
+
+ 
+
+ 
+
+-
+
+ 
+
+ 
+
+ 
+
+ 
+
+3. Giới tính: □ Nam □ Nữ
+
+4. Số
+CCCD/CMND(1):..............................................5. Mã số
+BHXH(2):................................
+
+6.
+Nơi đăng ký thường trú(3): .............................................................................................
+
+..............................................................................................................................................
+
+7.
+Nơi ở hiện tại(4) (Chỉ thu thập nếu khác nơi đăng ký thường trú):
+..................................
+
+..............................................................................................................................................
+
+8. Đối
+tượng ưu tiên (nếu có): □ Người khuyết
+tật, □ Thuộc hộ nghèo, □ Thuộc hộ cận nghèo
+
+□ Thuộc
+hộ bị thu hồi đất □ Thân
+nhân của người có công với cách mạng
+
+□ Dân tộc
+thiểu số (ghi tên dân tộc):……………………………………………………………..
+
+9. Trình
+độ giáo dục phổ thông cao nhất đã tốt nghiệp/đạt được:
+
+□ Chưa học
+xong Tiểu học □ Tốt nghiệp Tiểu học □ Tốt
+nghiệp THCS □ Tốt nghiệp THPT
+
+10.
+Trình độ chuyên môn kỹ thuật cao nhất đạt được:
+
+□ Chưa
+qua đào tạo □ CNKT không có bằng
+ □ Chứng chỉ nghề dưới 3 tháng
+
+□ Sơ cấp
+ □ Trung cấp
+ □ Cao đẳng
+ □ Đại học
+ □ Trên đại học
+
+10.1.
+Chuyên ngành đào tạo(5):………………………………………………………………….
+
+11.
+Tình trạng tham gia hoạt động kinh tế:
+
+□ Người
+có việc làm(6) → Chuyển câu 12
+
+□ Người
+thất nghiệp(7) → Chuyển câu 13
+
+□ Không
+tham gia hoạt động kinh tế, lý do: □ Đi học □ Hưu trí □
+Nội trợ □ Khuyết tật □ Khác
+
+12.
+Người có việc làm:
+
+12.1. Vị
+thế việc làm: □Chủ cơ sở SXKD □Tự làm □Lao động gia
+đình 
+
+□Làm
+công ăn lương □Xã viên HTX
+
+12.2
+Công việc cụ thể đang làm(8):…………………………………………………………………
+
+a.
+Tham gia BHXH: □ Có (Loại: □ Bắt
+buộc □ Tự nguyện) 
+ □ Không
+
+b. Hợp
+đồng lao động (HĐLĐ): □ Có
+ □
+Không
+
+Loại hợp
+đồng lao động: □ HĐLĐ xác định thời hạn □ HĐLĐ
+không xác định thời hạn.
+
+Thời
+gian bắt đầu thực hiện HĐLĐ (ngày/tháng/năm):……/….……/………
+
+12.3.
+Nơi làm việc(9):………………………………………………………………………………
+
+a. Loại
+hình nơi làm việc:
+
+□ Hộ
+nông, lâm nghiệp, thủy sản □ Cá nhân làm tự do □ Cơ sở kinh
+doanh cá thể □ Hợp tác xã
+
+□ Doanh
+nghiệp (□ DN Nhà nước □ DN ngoài Nhà nước DN FDI) 
+ □ Khu vực nhà nước
+
+□ Đơn vị
+sự nghiệp ngoài nhà nước □ Khu vực nước
+ngoài □ Tổ chức đoàn thể khác
+
+b. Địa
+chỉ nơi làm việc(10):…………………….….…………………………………………….....
+
+13.
+Người thất nghiệp: □ Chưa bao giờ làm
+việc □ Đã từng làm
+việc
+
+13.1. Thời
+gian thất nghiệp: □ Dưới 3 tháng □ Từ 3
+tháng đến 1 năm □ Trên 1 năm
+
+14.
+Việc làm cần tìm: □ nhà nước □ ngoài
+nhà nước □ có vốn đầu tư nước ngoài
+
+Tên công
+việc cần tìm:
+..........................................................................................
+
+15.
+Thông tin liên hệ: Số điện thoại liên hệ:...........................................................
+
+ 
+
+ 
+
+Ngày…. tháng….năm ……
+
+Người cung cấp thông tin
+
+(Ký, ghi rõ họ tên)
+
+ 
+
+Ghi
+chú:
+
+- (1)
+Ghi số CCCD, trường hợp chưa có số CCCD thì ghi số CMND; (2) Ghi số
+trên thẻ BHYT đã được cơ quan BHXH cấp;
+
+- (3),
+(4), (10) Ghi rõ theo thứ tự số nhà, đường phố, xóm, làng; thôn, ấp, bản,
+buôn, phum, sóc; xã/phường/thị trấn; quận/huyện/thị xã/thành phố thuộc tỉnh; tỉnh/thành
+phố trực thuộc trung ương;
+
+- (5)
+Ghi chi tiết tên gọi mã cấp III của giáo dục, đào tạo theo quy định tại Phần I
+Phụ lục danh mục giáo dục, đào tạo của hệ thống giáo dục quốc dân tại Quyết định
+số 01/2017/QĐ-TTg ngày 17/01/2017 của Thủ tướng Chính phủ ban hành
+danh mục giáo dục, đào tạo của hệ thống giáo dục quốc dân;
+
+- (6)
+Người có việc làm là người có làm bất cứ việc gì (không bị pháp luật cấm) để tạo
+ra các sản phẩm hàng hóa hoặc cung cấp các dịch vụ nhằm mục đích tạo thu nhập
+cho bản thân và gia đình;
+
+- (7) Người thất nghiệp là người đang không có việc làm, đang tìm
+kiếm việc làm và sẵn sàng làm việc;
+
+- (8)
+Ghi cụ thể tên công việc/nghề nghiệp đang làm theo mã nghề cấp 3 của Phụ lục I
+tại Quyết định số 34/2020/QĐ-TTg ngày 26/11/2020 của Thủ tướng Chính
+phủ ban hành Danh mục nghề nghiệp Việt Nam;
+
+- (9)
+Ghi tên cụ thể tên cụ thể của người sử dụng lao động (tên cơ quan/đơn vị/tổ chức/doanh
+nghiệp/hộ kinh doanh/hợp tác xã/cá nhân có thuê mướn). Trường hợp người lao động
+đánh dấu X vào □ Tự làm ở câu 12.1 thì không ghi.
+
+- STT 8, 9, 10, 11, 12, 13, 14:
+Đánh dấu X vào □ tương ứng với nội dung trả lời.--- THÔNG TIN THÊM ---
+Ten: Kế hoạch 309/KH-UBND năm 2023 tổ chức thu thập, cập nhật, chỉnh sửa, tổng hợp thông tin về người lao động trên địa bàn tỉnh Đắk Nông
+So hieu: 309/KH-UBND
+Loai van ban: Kế hoạch
+Linh vuc nganh: Lao động - Tiền lương
+Noi ban hanh: Tỉnh Đắk Nông
+Nguoi ky: Tôn Thị Ngọc Hạnh
+Ngay ban hanh: 16/05/2023
+Ngay hieu luc: 16/05/2023
+Ngay dang: Dữ liệu đang cập nhật
+So cong bao: Dữ liệu đang cập nhật
+Tinh trang: Không xác định
+
+
+--- MỤC LỤC ---
+- KẾ HOẠCH TỔ CHỨC THU THẬP, CẬP NHẬT, CHỈNH SỬA, TỔNG HỢP THÔNG TIN VỀ NGƯỜI LAO ĐỘNG TRÊN ĐỊA BÀN TỈNH ĐẮK NÔNG
+  - I. MỤC ĐÍCH, YÊU CẦU
+  - II. PHẠM VI, ĐỐI TƯỢNG, NỘI DUNG, SỐ LƯỢNG, QUY TRÌNH THU THẬP, CẬP NHẬT, CHỈNH SỬA, TỔNG HỢP THÔNG TIN VỀ NGƯỜI LAO ĐỘNG
+  - III. KINH PHÍ THỰC HIỆN
+  - IV. TỔ CHỨC THỰC HIỆN
+  - Mẫu số 03 PHIẾU THÔNG TIN VỀ NGƯỜI LAO ĐỘNG
+
+--- VĂN BẢN LIÊN QUAN ---
+
+Van ban duoc dan chieu:
+  - Công văn 222/LĐTBXH-VL năm 2023 thực hiện tiểu dự án "Hỗ trợ việc làm bền vững" thuộc Chương trình mục tiêu... (ID: 561764)
+  - Nghị quyết 06/NQ-CP năm 2023 về phát triển thị trường lao động linh hoạt, hiện đại, hiệu quả, bền vững và ... (ID: 549907)
+  - Thông tư 46/2022/TT-BTC quy định quản lý, sử dụng và quyết toán kinh phí sự nghiệp từ nguồn ngân sách trung... (ID: 524086)
+  - Thông tư 11/2022/TT-BLĐTBXH hướng dẫn nội dung thực hiện hỗ trợ việc làm bền vững thuộc Chương trình mục ... (ID: 520433)
+  - Quyết định 90/QĐ-TTg năm 2022 phê duyệt Chương trình mục tiêu quốc gia giảm nghèo bền vững giai đoạn ... (ID: 500969)
+  - Quyết định 06/QĐ-TTg năm 2022 phê duyệt Đề án phát triển ứng dụng dữ liệu về dân cư, định danh và xác thực ... (ID: 499726)
+  - Quyết định 34/2020/QĐ-TTg về Danh mục nghề nghiệp Việt Nam do Thủ tướng Chính phủ ban hành (ID: 458436)
+  - Quyết định 01/2017/QĐ-TTg Danh mục giáo dục, đào tạo của hệ thống giáo dục quốc dân do Thủ tướng Chính phủ ... (ID: 322627)
+  - Luật ngân sách nhà nước 2015 (ID: 281762)
+
+Van ban lien quan cung noi dung:
+  - Kế hoạch 3691/KH-UBND năm 2023 thu thập, cập nhật, chỉnh sửa, tổng hợp thông tin về người lao động gắn với Cơ sở dữ liệu Quốc gia về dân cư và các Cơ sở dữ liệu khác trên địa bàn tỉnh Lai Châu giai đoạn 2023-2025 (ID: 580901)
+  - Kế hoạch 219/KH-UBND năm 2023 thu thập thông tin về người lao động gắn với cơ sở dữ liệu quốc gia về dân cư trên địa bàn tỉnh Tuyên Quang (ID: 580643)
+  - Kế hoạch 117/KH-UBND năm 2023 về tổ chức thu thập, cập nhật, chỉnh sửa, tổng hợp thông tin về người lao động trên địa bàn tỉnh Quảng Ngãi giai đoạn 2023-2025 (ID: 568470)
+  - Kế hoạch 275/KH-UBND năm 2023 về tổ chức thu thập, cập nhật, chỉnh sửa, tổng hợp thông tin về người lao động và thông tin nhu cầu tuyển dụng của người sử dụng lao động trên địa bàn tỉnh Nghệ An giai đoạn 2023-2025 (ID: 564424)
+  - Kế hoạch 67/KH-UBND năm 2023 về thu thập, cập nhật, điều chỉnh, tổng hợp thông tin về người lao động trên địa bàn tỉnh Lạng Sơn giai đoạn 2023-2025 (ID: 562646)
+  - Kế hoạch 1935/KH-UBND năm 2023 thu thập, cập nhật, chỉnh sửa, tổng hợp thông tin về người lao động trên địa bàn tỉnh Lâm Đồng (ID: 562811)

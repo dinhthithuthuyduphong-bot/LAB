@@ -1,0 +1,636 @@
+ỦY
+ BAN NHÂN DÂN
+
+TỈNH QUẢNG NGÃI
+
+ -------
+
+CỘNG
+ HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+ Độc lập - Tự do - Hạnh phúc 
+
+ ---------------
+
+Số: 756/QĐ-UBND
+
+Quảng Ngãi, ngày 20 tháng 8 năm 2021
+
+ 
+
+QUYẾT ĐỊNH
+
+BAN HÀNH QUY CHẾ QUẢN LÝ, VẬN HÀNH VÀ KHAI THÁC PHẦN MỀM QUẢN LÝ TIỀN
+LƯƠNG, CẢI CÁCH TIỀN LƯƠNG CÁN BỘ, CÔNG CHỨC, VIÊN CHỨC VÀ NGƯỜI LAO ĐỘNG TỈNH
+QUẢNG NGÃI
+
+ỦY BAN NHÂN DÂN TỈNH QUẢNG NGÃI
+
+Căn cứ Luật Tổ chức chính quyền địa
+phương ngày 19/6/2015; Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính
+phủ và Luật Tổ chức chính quyền địa phương ngày 22/11/2019;
+
+Căn cứ Luật Ban hành văn bản quy
+phạm pháp luật ngày 22/6/2015;
+
+Căn cứ Luật Ngân sách nhà nước
+ngày 25/6/2015;
+
+Căn cứ Luật Kế toán ngày 20/11/2015;
+
+Căn cứ Luật Công nghệ thông tin
+ngày 29/6/2006;
+
+Căn cứ Nghị định số 163/2016/NĐ-CP 
+ngày 21/12/2016 của Chính phủ quy định chi tiết thi hành một số điều của Luật
+Ngân sách nhà nước;
+
+Căn cứ Nghị định số 64/2007/NĐ-CP 
+ngày 10/4/2007 của Chính phủ về việc ứng dụng công
+nghệ thông tin trong hoạt động của cơ quan nhà nước;
+
+Theo đề nghị của Giám đốc Sở Tài
+chính tại Công văn số 2065/STC-NS ngày 29/7/2021 và ý kiến của Giám đốc Sở Tư
+pháp tại Công văn số 647/STP-VBPQ ngày 02/7/2021.
+
+QUYẾT ĐỊNH:
+
+Điều 1. Ban hành kèm theo Quyết định này Quy chế quản
+lý, vận hành và khai thác Phần mềm quản lý tiền lương, cải cách tiền lương cán
+bộ, công chức, viên chức và người lao động tỉnh Quảng Ngãi.
+
+Điều 2. Quyết định này có hiệu lực thi hành kể từ ngày
+ký.
+
+Điều 3. Chánh Văn phòng UBND tỉnh; Thủ trưởng các sở,
+ban, ngành, các Hội đoàn thể tỉnh, Chủ tịch UBND các huyện, thị xã, thành phố
+và Thủ trưởng các cơ quan, đơn vị có liên quan chịu trách nhiệm thi hành Quyết
+định này./.
+
+ 
+
+ 
+
+Nơi nhận:
+
+- Như Điều 4;
+
+ - Thường trực HĐND tỉnh;
+
+ - CT, PCT UBND tỉnh;
+
+ - Văn phòng Tỉnh ủy;
+
+ - Văn phòng Đoàn ĐBQH và HĐND tỉnh;
+
+ - VPUB: PCVP, NC, QTTV, CBTH;
+
+ - Lưu: VT, KTTiền433.
+
+TM.
+ ỦY BAN NHÂN DÂN
+
+ CHỦ TỊCH
+
+ Đặng Văn Minh
+
+ 
+
+QUY CHẾ
+
+QUẢN
+LÝ, VẬN HÀNH VÀ KHAI THÁC PHẦN MỀM QUẢN LÝ TIỀN LƯƠNG, CẢI CÁCH TIỀN LƯƠNG CÁN
+BỘ, CÔNG CHỨC, VIÊN CHỨC VÀ NGƯỜI LAO ĐỘNG TỈNH QUẢNG NGÃI
+
+(Ban hành kèm theo Quyết định số 756/QĐ-UBND ngày 20 tháng 8 năm 2021 của Ủy
+ban nhân dân tỉnh Quảng Ngãi)
+
+Chương I
+
+QUY ĐỊNH CHUNG
+
+Điều 1. Phạm vi
+áp dụng
+
+Quy chế này quy định quản lý, vận
+hành và khai thác Phần mềm quản lý tiền lương, cải cách tiền lương cán bộ, công
+chức, viên chức và người lao động tỉnh Quảng Ngãi (sau đây gọi tắt là phần mềm
+quản lý tiền lương).
+
+Điều 2. Đối tượng
+áp dụng
+
+Các đơn vị dự toán thuộc ngân sách địa
+phương (tỉnh, huyện, thị xã, thành phố và xã, phường, thị trấn) gồm: Cơ quan
+nhà nước; cơ quan thuộc khối Đảng, đoàn thể; đơn vị sự
+nghiệp công lập; tổ chức, đơn vị khác có sử dụng ngân sách địa phương (sau
+đây gọi tắt là cơ quan, tổ chức, đơn vị, địa phương).
+
+Điều 3. Giải
+thích từ ngữ
+
+Phần mềm quản lý tiền lương là để chi
+lương, thực hiện lập dự toán ngân sách và cải cách tiền lương, cụ thể:
+
+1. Quản lý, cập nhật, theo dõi tiền
+lương, dự toán tiền lương, cải cách tiền lương cán bộ công chức, viên chức và
+người lao động.
+
+2. Tin học hóa quá
+trình báo cáo tiền lương, dự toán tiền lương và cải cách tiền lương cán bộ công
+chức, viên chức và người lao động theo quy định của pháp luật.
+
+3. Tổng hợp tình hình quản lý tiền
+lương, lập dự toán tiền lương, cải cách tiền lương cán bộ công chức, viên chức
+và người lao động trong phạm vi từng cơ quan, tổ chức, đơn vị, địa phương; từng
+bước hình thành Cơ sở dữ liệu về tiền lương, dự toán và cải cách tiền lương của
+tỉnh Quảng Ngãi.
+
+4. Cơ sở dữ liệu tiền lương, dự toán
+tiền lương, cải cách tiền lương cán bộ công chức, viên chức và người lao động
+là dữ liệu được hình thành trong quá trình sử dụng Phần mềm (nhập trực tiếp vào
+phần mềm khi có biến động, thay đổi, thêm mới, hoặc nhập khẩu số liệu từ excel,
+từ các hệ thống khác khi kết nối, chia sẻ).
+
+5. Tài khoản (Acount): Bao gồm tên
+đơn vị, tên đăng nhập và mật khẩu để truy cập vào hệ thống phần mềm.
+
+Điều 4. Mục đích,
+yêu cầu
+
+1. Mục đích
+
+a) Tăng cường ứng dụng Công nghệ
+thông tin trong công tác quản lý, điều hành, xây dựng cơ sở dữ liệu về tiền
+lương, dự toán tiền lương, cải cách tiền lương cán bộ công chức, viên chức và
+người lao động tập trung và thống nhất trên toàn tỉnh.
+
+b) Hiện đại hóa việc quản lý việc tiền
+lương, dự toán tiền lương, cải cách tiền lương cán bộ công chức, viên chức và
+người lao động nhằm hỗ trợ tối ưu cho việc khai thác, chia sẻ, tích hợp dữ liệu về tiền lương, dự toán tiền lương, cải cách tiền lương cán bộ
+công chức, viên chức và người lao động với các hệ thống
+liên quan.
+
+c) Phục vụ cho công tác quản lý, điều
+hành; xây dựng và tổng hợp số liệu, báo cáo về tiền lương, dự toán tiền lương,
+cải cách tiền lương cán bộ công chức, viên chức và người lao động của các cơ
+quan, tổ chức, đơn vị, địa phương trên địa bàn tỉnh.
+
+2. Yêu cầu
+
+Việc quản lý, vận hành và khai thác
+phần mềm tiền lương thực hiện nghiêm túc, thường xuyên, phản ánh đúng thông tin
+liên quan và tình hình theo dõi, quản lý tiền lương, dự toán tiền lương, cải
+cách tiền lương cán bộ công chức, viên chức và người lao động thực tế tại các
+cơ quan, tổ chức, đơn vị, địa phương.
+
+Chương II
+
+NỘI DUNG, NGUYÊN
+TẮC QUẢN LÝ, VẬN HÀNH VÀ KHAI THÁC PHẦN MỀM
+
+Điều 5. Vận hành
+Phần mềm quản lý tiền lương
+
+1. Phần mềm quản lý tiền lương được sử
+dụng thống nhất trên địa bàn toàn tỉnh và được áp dụng cho các đơn vị dự toán
+thuộc ngân sách tỉnh, huyện, xã bao gồm các lĩnh vực quản lý nhà nước, Đảng,
+đoàn thể và sự nghiệp để quản lý việc sử dụng các nguồn kinh phí chi lương, phụ
+cấp, các khoản phải nộp theo lương của đơn vị.
+
+Vận hành phần mềm theo phương thức trực
+tuyến qua đường truyền thông Internet hoặc mạng chuyên dụng. Đơn vị sử dụng phần
+mềm dùng chứng thư số, chữ ký số trong giao dịch bảng chi trả lương, báo cáo cơ
+quan chủ quản, cơ quan tài chính các cấp và các đơn vị liên quan.
+
+2. Địa chỉ truy cập tại: https://tienluong.quangngai.gov.vn
+
+Điều 6. Quản lý
+tài khoản đăng nhập Phần mềm quản lý tiền lương
+
+1. Sở Tài chính quản lý tài khoản được
+cấp của hệ thống, theo dõi quá trình chi trả lương các đơn vị, quản lý nhật ký
+hoạt động của người dùng, thực hiện cấp mới và thu hồi tài khoản người dùng khi
+không còn nhu cầu sử dụng. Phối hợp đơn vị cung cấp phần mềm tiền lương, đơn vị
+cung cấp dịch vụ CNTT và hạ tầng truyền thông thực hiện
+lưu trữ dữ liệu tiền lương an toàn theo định kỳ, đảm bảo hệ thống hoạt động liên tục.
+
+2. Cơ quan, đơn vị được cấp tài khoản
+người dùng để đăng nhập, quản lý, khai thác sử dụng phần mềm quản lý tiền
+lương.
+
+3. Cá nhân được giao nhiệm vụ quản
+lý, vận hành, khai thác và sử dụng phần mềm quản lý tiền lương có trách nhiệm bảo quản, bảo đảm an toàn về tài
+khoản người dùng cũng như bảo mật thông tin.
+
+Điều 7. Quy định
+về sử dụng Phần mềm để thực hiện các công việc liên quan tới quản lý tiền
+lương, cải cách tiền lương cán bộ công chức, viên chức và người lao động
+
+1. Tính lương: Thiết lập, cập nhật
+danh sách cán bộ công chức, viên chức và người lao động hưởng lương, chấm công,
+tính lương hệ số, phụ cấp, nguồn chi trả và thực hiện Bảng tính lương, tính các
+khoản thu nhập khác, các khoản khấu trừ không thường xuyên, tính thuế thu nhập cá nhân, tính lương truy lĩnh, thực hiện quyết toán thuế và
+các báo cáo liên quan.
+
+2. Lập dự toán tiền lương: Lập dự
+toán tiền lương cho cán bộ công chức, viên chức và người lao động hiện thời, lập
+dự toán tiền lương cho cán bộ công chức, viên chức và người lao động trong tổng
+biên chế được duyệt, lập dự toán tiền lương cho cán bộ công chức, viên chức và
+người lao động do nâng lương, phụ cấp, dự toán tiền lương giảm do cán bộ công
+chức, viên chức và người lao động nghỉ hưu, nghỉ thai sản và các báo cáo liên
+quan.
+
+3. Cải cách tiền lương: Lập bảng cải
+cách tiền lương, tổng hợp nguồn và nhu cầu cải cách tiền lương, các biểu mẫu
+liên quan.
+
+4. Đơn vị chủ quản, cơ quan tài chính
+các cấp thực hiện phê duyệt và tổng hợp bảng lương, dự toán tiền lương, cải
+cách tiền lương theo quy định.
+
+5. Quản lý các danh mục về tổ chức,
+các loại phụ cấp, phụ cấp đặc biệt ngành, danh mục khấu trừ không thường xuyên,
+ngạch bậc lương và nguồn chi trả tiền lương.
+
+6. Cá nhân được giao nhiệm vụ có
+trách nhiệm cập nhật đầy đủ, kịp thời thông tin về biến động tiền lương, tổ chức
+tính toán, chi trả lương, phụ cấp, các khoản phải nộp theo lương và tiền công
+cho người lao động; các khoản trích cho cơ quan bảo hiểm xã hội, Liên đoàn lao
+động và các đơn vị khác có liên quan theo quy định trên Phần mềm quản lý tiền
+lương. Thủ trưởng đơn vị xem xét, phê duyệt (ký số) làm cơ sở pháp lý thực hiện.
+
+Các đơn vị cấp dưới có trách nhiệm tổng
+hợp, báo cáo, quyết toán tiền lương theo quy định cho đơn vị dự toán cấp trên (đối
+với đơn vị nhận dự toán giao từ đơn vị dự toán cấp trên) hoặc cơ quan tài
+chính đồng cấp (đối với đơn vị nhận dự toán giao từ UBND đồng cấp kể
+cả đơn vị có đơn vị dự toán trực thuộc).
+
+Điều 8. Nguyên tắc
+cập nhật, quản lý và khai thác sử dụng phần mềm Quản lý tiền lương
+
+1. Hoạt động của Phần mềm quản lý tiền
+lương phải đảm bảo tuân thủ theo các quy định của Luật Công nghệ thông tin, Luật
+Giao dịch điện tử, Luật An toàn thông tin mạng, Luật Ngân sách nhà nước, Luật Kế
+toán và các văn bản liên quan về an toàn bảo mật thông tin trong việc sử dụng,
+trao đổi các chứng từ điện tử, văn bản điện tử.
+
+2. Đơn vị triển khai, sử dụng phần mềm
+có trách nhiệm quản lý dữ liệu, thông tin về tiền lương, dự toán và cải cách tiền
+lương cán bộ công chức, viên chức và người lao động của cơ quan, đơn vị mình.
+Các thông tin về tiền lương, dự toán và cải cách tiền lương cán bộ công chức,
+viên chức và người lao động của đơn vị triển khai phải được nhập đầy đủ trên Phần
+mềm quản lý tiền lương.
+
+3. Khi có biến động về thông tin tiền
+lương, dự toán và cải cách tiền lương cán bộ công chức, viên chức và người lao
+động (tăng, giảm, điều chỉnh...) phải được cập nhật kịp thời trên Phần mềm quản
+lý tiền lương.
+
+4. Cơ sở dữ liệu tiền lương, dự toán
+và cải cách tiền lương cán bộ công chức, viên chức và người lao động được quản
+lý, bảo mật, bảo đảm an toàn; chỉ cơ quan, tổ chức, đơn vị, cá nhân được giao
+nhiệm vụ, mới được khai thác, sử dụng theo quy định của pháp luật.
+
+5. Các cơ quan, tổ chức, đơn vị, địa
+phương và cá nhân tham gia vào việc quản lý, sử dụng, khai thác Phần mềm quản
+lý tiền lương có trách nhiệm bảo đảm bí mật về mật khẩu đăng nhập, không làm mất
+cơ sở dữ liệu, thực hiện đúng các quy định tại Quy chế này và hướng dẫn của cơ
+quan chuyên ngành theo nhiệm vụ được giao.
+
+6. Việc cập nhật và quản lý thông tin
+tiền lương trên phần mềm của các cơ quan, tổ chức, đơn vị, địa phương được thực
+hiện theo hướng dẫn của Ủy ban nhân dân tỉnh và Sở Tài chính.
+
+Điều 9. Nội dung
+quản lý, vận hành và khai thác phần mềm quản lý tiền lương
+
+1. Cập nhật thông tin về tiền lương,
+cải cách tiền lương cán bộ công chức, viên chức, người lao động vào phần mềm.
+
+2. Tìm kiếm thông tin theo các tiêu
+chí tùy chọn.
+
+3. Báo cáo, thống kê và kết xuất
+thông tin theo các tiêu chí tùy chọn và theo các mẫu biểu quy định.
+
+4. Quản lý việc tính lương cán bộ
+công chức, viên chức, người lao động.
+
+5. Quản lý việc lập, tổng hợp dự toán
+tiền lương cán bộ công chức, viên chức, người lao động.
+
+6. Quản lý, tổng hợp nguồn và nhu cầu
+cải cách tiền lương cán bộ công chức, viên chức, người lao động.
+
+7. Thực hiện quản trị chức năng hệ thống,
+phân vai trò sử dụng, phân quyền nhóm người dùng và người dùng, sao lưu và phục
+hồi hệ thống.
+
+Điều 10. Khai
+thác và kết xuất thông tin từ phần mềm quản lý tiền lương
+
+1. Khai thác thông tin về tiền lương,
+cải cách tiền lương cán bộ, công chức viên chức và người lao động được thực hiện
+theo các quy trình nghiệp vụ, các chức năng tìm kiếm, tổng hợp, thống kê và kết
+xuất thông tin từ phần mềm phục vụ cho công tác sử dụng và quản lý tiền lương,
+cải cách tiền lương cán bộ, công chức viên chức và người lao động (tính lương, dự toán tiền lương, tổng hợp nguồn và nhu cầu cải cách tiền
+lương, báo cáo theo quy định...).
+
+2. Sở Tài chính được sử dụng thông
+tin từ phần mềm quản lý tiền lương để phục vụ cho công tác lập dự toán tiền
+lương, nhu cầu, nguồn cải cách tiền lương theo quy định.
+
+3. Các cơ quan, tổ chức, đơn vị, địa
+phương được phép khai thác và kết xuất thông tin từ phần mềm quản lý tiền lương
+thuộc thẩm quyền quản lý.
+
+Điều 11. Hỗ trợ
+và khắc phục sự cố phần mềm
+
+1. Khi cần hỗ trợ hoặc khắc phục sự cố
+đơn vị liên hệ với Công ty cổ phần MISA để được hướng dẫn, xử lý.
+
+Điện thoại: 02363 667 555 / Email: asales@dng.misa.com.vn
+
+Địa chỉ văn phòng đại diện tại Đà Nẵng: Tầng 4, tòa nhà Vạn Tường - QK5, số 174 Lê Đình Lý, quận Hải Châu,
+thành phố Đà Nẵng. Hoặc các kênh liên hệ công bố tại
+website: https://www.misa.vn/
+
+2. Thời gian hỗ trợ: Hỗ trợ kỹ thuật
+24/7 (24 giờ/ngày, 07 ngày/tuần, kể cả
+ngày nghỉ, ngày lễ) đối với hệ thống cung cấp.
+
+3. Trong quá trình thực hiện nếu có
+vướng mắc, đề nghị các đơn vị phản ánh trực tiếp bằng văn bản gửi về Sở Tài
+chính.
+
+Chương III
+
+TRÁCH NHIỆM, QUYỀN
+HẠN CỦA CÁC CƠ QUAN, TỔ CHỨC, ĐƠN VỊ, ĐỊA PHƯƠNG TRONG VIỆC QUẢN LÝ, VẬN HÀNH
+VÀ KHAI THÁC PHẦN MỀM QUẢN LÝ TIỀN LƯƠNG
+
+Điều 12. Cơ
+quan, tổ chức, đơn vị trực tiếp sử dụng
+
+1. Chịu trách nhiệm về dữ liệu tiền
+lương đã cung cấp trên Phần mềm quản lý tiền lương tại đơn vị sử dụng và đơn vị
+trực thuộc theo phân cấp quản lý (nếu có).
+
+2. Quản lý tài khoản người dùng để thực
+hiện việc cập nhật, quản lý và khai thác sử dụng phần mềm quản lý tiền lương của
+cơ quan, đơn vị mình và các đơn vị trực thuộc theo phân cấp quản lý. Quyết định
+phân công công chức, viên chức trực tiếp được phép sử dụng tài khoản người dùng
+và theo dõi, phụ trách phần mềm.
+
+3. Bảo vệ thông tin cá nhân theo quy
+định tại Điều 21 của Luật Công nghệ thông tin.
+
+4. Cập nhật các thông tin về tiền
+lương tại cơ quan, đơn vị và các đơn vị trực thuộc theo định kỳ hàng tháng. Chịu
+trách nhiệm về tính chính xác, đầy đủ các thông tin về tiền lương thuộc thẩm
+quyền quản lý đã được cập nhật vào phần mềm đảm bảo tính thống nhất với hồ sơ giấy lưu trữ
+tại cơ quan, đơn vị và khớp đúng với số liệu thanh toán tiền
+lương qua kho bạc nhà nước.
+
+5. Sử dụng thông tin về tiền lương
+trong cơ quan, đơn vị và đơn vị trực thuộc theo phân cấp quản lý (nếu có) để phục
+vụ công tác quản lý và nhiệm vụ chuyên môn được giao.
+
+6. Sử dụng chức năng báo cáo, thống
+kê, tìm kiếm nâng cao để thực hiện các báo cáo liên quan đến công tác sử dụng
+và quản lý tiền lương.
+
+7. Kiến nghị và đề xuất với cơ quan
+có thẩm quyền sửa đổi, bổ sung các quy định có liên quan đến quản lý, vận hành
+và khai thác phần mềm quản lý tiền lương của cơ quan, đơn vị mình và đơn vị trực
+thuộc theo phân cấp quản lý (nếu có).
+
+Điều 13. Người
+được phân công trực tiếp quản lý, khai thác sử dụng phần mềm quản lý tiền
+lương.
+
+1. Được sử dụng tài khoản người dùng
+của cơ quan, đơn vị để thực hiện việc cập nhật, bổ sung thông tin về tiền lương
+trong cơ quan, đơn vị mình vào phần mềm quản lý tiền lương; có trách nhiệm bảo
+quản và bảo mật tài khoản người dùng và thông tin của cơ quan, đơn vị.
+
+2. Rà soát, cập nhật, điều chỉnh
+thông tin về tiền lương kịp thời, đầy đủ ngay khi có thay đổi; định kỳ kiểm
+tra, cập nhật các thông tin theo quy định.
+
+3. Chịu trách nhiệm tính kịp thời,
+chính xác các thông tin về tiền lương đã được cập nhật vào phần mềm và đảm bảo
+tính thống nhất với hồ sơ giấy đang lưu trữ tại cơ quan, đơn vị và số liệu
+thanh toán tiền lương qua kho bạc nhà nước; khai thác, sử dụng có hiệu quả phần
+mềm để cung cấp thông tin nhanh chóng, chính xác phục vụ công tác quản lý tiền
+lương.
+
+4. Áp dụng các
+biện pháp đảm bảo an toàn thông tin và vận hành thông suốt phần mềm quản lý tiền
+lương; đề xuất các biện pháp để khai thác và sử dụng phần mềm có hiệu quả, đồng
+thời nghiên cứu, phát hiện và báo cáo với thủ trưởng cơ
+quan, đơn vị để xem xét, xử lý các vấn đề trong công tác quản lý tiền lương đã
+cập nhật trên phần mềm.
+
+5. Trường hợp mất mật khẩu, tài khoản
+có dấu hiệu bị đánh cắp mật khẩu phải báo cáo ngay với thủ trưởng cơ quan, đơn
+vị và báo cáo về Sở Tài chính để được cấp lại mật khẩu mới.
+
+Điều 14. Sở
+Thông tin và Truyền thông
+
+1. Đảm bảo vận hành phần mềm hoạt động
+an toàn dữ liệu, ổn định và liên tục.
+
+2. Thực hiện sao lưu các tệp hệ thống
+phân vùng cung cấp tài nguyên cho phần mềm, các tệp hệ điều hành máy chủ ảo hóa
+của phần mềm, cấu hình và sao lưu vùng mạng đảm bảo phần mềm
+hoạt động ổn định và an toàn.
+
+3. Khi có sự cố xảy ra, nhanh chóng xử
+lý hoặc phối hợp với Sở Tài chính, đơn vị cung cấp phần mềm để hỗ trợ và xử lý
+sự cố.
+
+4. Nghiên cứu, đề xuất tính năng bảo mật của phần mềm nếu cần thiết.
+
+Điều 15. Sở Tài
+chính
+
+1. Chịu trách nhiệm trong việc quản
+lý và khai thác phần mềm quản lý tiền lương trên toàn tỉnh.
+
+2. Đảm bảo an toàn, sử dụng tài khoản
+được cung cấp để khai thác tài nguyên trên hệ thống cơ sở dữ liệu tiền lương tại
+Trung tâm dữ liệu tỉnh.
+
+3. Sử dụng, kết xuất thông tin từ phần
+mềm để thực hiện báo cáo định kỳ, đột xuất theo yêu cầu của Bộ ngành Trung
+ương, Ủy ban nhân dân tỉnh liên quan đến tiền lương.
+
+4. Xét duyệt thông tin, dữ liệu về tiền
+lương và theo dõi việc cập nhật dữ liệu về tiền lương trên phần mềm quản lý tiền
+lương đối với các cơ quan, tổ chức, đơn vị cấp tỉnh và Phòng Tài chính -Kế hoạch
+cấp huyện.
+
+5. Chủ trì, phối hợp với Sở Thông tin
+và Truyền thông, KBNN tỉnh, các cơ quan, đơn vị có liên quan trong việc triển
+khai phần mềm để:
+
+a) Rà soát và điều chỉnh kịp thời các
+thông tin, danh mục, tính năng trong phần mềm cho phù hợp với các quy định hiện
+hành của Chính phủ, bộ, ngành Trung ương và Ủy ban nhân dân tỉnh.
+
+b) Đề xuất nâng cấp các tính năng của
+phần mềm đảm bảo yêu cầu về khai thác và sử dụng phần mềm quản lý tiền lương có
+hiệu quả.
+
+6. Có trách nhiệm thông báo đến các
+cơ quan, đơn vị có liên quan về việc xảy ra sự cố hoặc nguy cơ xảy ra sự cố có ảnh
+hưởng xấu đến việc quản lý và khai thác sử dụng phần mềm (khi phần mềm ngừng
+hoạt động quá 03 ngày làm việc liên tiếp).
+
+7. Đưa việc sử dụng hiệu quả phần mềm
+vào trong những tiêu chí để đánh giá xếp
+hạng chỉ số cải cách hành chính hàng năm. Xem xét, đề xuất Ủy ban nhân dân tỉnh
+biểu dương, khen thưởng các cơ quan, đơn vị và cá nhân ứng
+dụng có hiệu quả phần mềm trong công tác quản lý tiền lương tại đơn vị.
+
+8. Báo cáo Ủy ban nhân dân tỉnh về việc
+thay đổi, bổ sung, điều chỉnh đối tượng áp dụng trong trường hợp có yêu cầu và
+điều kiện quản lý mới.
+
+Điều 16. UBND
+các huyện, thị xã, thành phố
+
+1. Chỉ đạo tổ chức thực hiện Phần mềm
+quản lý tiền lương trên địa bàn thuộc quyền quản lý đảm bảo theo Quy chế này.
+
+2. Sử dụng thông tin từ phần mềm để
+thực hiện báo cáo định kỳ, đột xuất theo yêu cầu của Sở Tài chính, Ủy ban nhân
+dân tỉnh liên quan đến tiền lương.
+
+3. Sử dụng chức năng báo cáo, thống
+kê, tìm kiếm nâng cao để thực hiện các báo cáo liên quan đến công tác sử dụng
+và quản lý tiền lương.
+
+4. Kiến nghị và đề xuất với cơ quan
+có thẩm quyền sửa đổi, bổ sung các quy định có liên quan đến quản lý, vận hành
+và khai thác phần mềm quản lý tiền lương tại địa bàn quản lý.
+
+Điều 17. Phòng
+Tài chính - Kế hoạch các huyện, thị xã, thành phố
+
+1. Tham mưu cho UBND huyện, thị xã,
+thành phố trong việc quản lý, cập nhật và khai thác phần mềm quản lý tiền lương
+tại địa bàn thuộc quyền quản lý theo đúng quy định.
+
+2. Chịu trách nhiệm thẩm định, xét
+duyệt thông tin, dữ liệu về tiền lương trên phần mềm quản lý tiền lương đối với
+các cơ quan, tổ chức, đơn vị trên địa bàn.
+
+3. Theo dõi, kiểm tra việc cập nhật
+các thông tin về tiền lương đối với cơ quan, tổ chức, đơn vị trên địa bàn.
+
+4. Kết xuất thông tin từ phần mềm để
+thực hiện các báo cáo định kỳ, đột xuất theo yêu cầu của cấp thẩm quyền liên
+quan đến tiền lương.
+
+5. Phối hợp với Sở Tài chính và các
+cơ quan, đơn vị có liên quan trong việc triển khai phần mềm để:
+
+a) Rà soát và điều chỉnh kịp thời các
+thông tin, danh mục, biểu mẫu, tính năng trong phần mềm cho phù hợp với các quy
+định hiện hành của Chính phủ, bộ, ngành Trung ương và Ủy ban nhân dân tỉnh.
+
+b) Đề xuất nâng cấp các tính năng của
+phần mềm đảm bảo yêu cầu về khai thác và sử dụng phần mềm quản lý tiền lương có
+hiệu quả.
+
+Chương IV
+
+ĐIỀU KHOẢN THI
+HÀNH
+
+Điều 18. Tổ chức
+thực hiện
+
+1. Sở Tài chính theo dõi, kiểm tra,
+đôn đốc các cơ quan, tổ chức, đơn vị, địa phương trong việc quản lý, vận hành
+và khai thác phần mềm.
+
+2. Các cơ quan, tổ chức, đơn vị, địa
+phương có trách nhiệm sử dụng phần mềm để quản lý tiền
+lương của cơ quan, đơn vị mình theo đúng quy định tại Quy chế này.
+
+Điều 19. Trong quá trình triển khai thực hiện, nếu có vướng
+mắc, phát sinh, Thủ trưởng các cơ quan, tổ chức, đơn vị, địa phương kịp thời phản
+ánh về Ủy ban nhân dân tỉnh (thông qua Sở Tài chính) để xem xét sửa đổi, bổ
+sung cho phù hợp./.--- THÔNG TIN THÊM ---
+Ten: Quyết định 756/QĐ-UBND năm 2021 về Quy chế quản lý, vận hành và khai thác Phần mềm quản lý tiền lương, cải cách tiền lương cán bộ, công chức, viên chức và người lao động tỉnh Quảng Ngãi
+So hieu: 756/QĐ-UBND
+Loai van ban: Quyết định
+Linh vuc nganh: Lao động - Tiền lương, Công nghệ thông tin, Bộ máy hành chính
+Noi ban hanh: Tỉnh Quảng Ngãi
+Nguoi ky: Đặng Văn Minh
+Ngay ban hanh: 20/08/2021
+Ngay hieu luc: 20/08/2021
+Ngay dang: Dữ liệu đang cập nhật
+So cong bao: Dữ liệu đang cập nhật
+Tinh trang: Còn hiệu lực
+
+
+--- MỤC LỤC ---
+- QUYẾT ĐỊNH BAN HÀNH QUY CHẾ QUẢN LÝ, VẬN HÀNH VÀ KHAI THÁC PHẦN MỀM QUẢN LÝ TIỀN LƯƠNG, CẢI CÁCH TIỀN LƯƠNG CÁN BỘ, CÔNG CHỨC, VIÊN CHỨC VÀ NGƯỜI LAO ĐỘNG TỈNH QUẢNG NGÃI
+  - Điều 1. Ban hành kèm theo Quyết định này Quy chế quản lý, vận hành và khai thác Phần mềm quản lý tiền lương, cải cách tiền lương cán bộ, công chức, viên chức và người lao động tỉnh Quảng Ngãi.
+  - Điều 2. Quyết định này có hiệu lực thi hành kể từ ngày ký.
+  - Điều 3. Chánh Văn phòng UBND tỉnh; Thủ trưởng các sở, ban, ngành, các Hội đoàn thể tỉnh, Chủ tịch UBND các huyện, thị xã, thành phố và Thủ trưởng các cơ quan, đơn vị có liên quan chịu trách nhiệm thi hành Quyết định này./.
+- QUY CHẾ QUẢN LÝ, VẬN HÀNH VÀ KHAI THÁC PHẦN MỀM QUẢN LÝ TIỀN LƯƠNG, CẢI CÁCH TIỀN LƯƠNG CÁN BỘ, CÔNG CHỨC, VIÊN CHỨC VÀ NGƯỜI LAO ĐỘNG TỈNH QUẢNG NGÃI
+  - Chương I QUY ĐỊNH CHUNG
+    - Điều 1. Phạm vi áp dụng
+    - Điều 2. Đối tượng áp dụng
+    - Điều 3. Giải thích từ ngữ
+    - Điều 4. Mục đích, yêu cầu
+  - Chương II NỘI DUNG, NGUYÊN TẮC QUẢN LÝ, VẬN HÀNH VÀ KHAI THÁC PHẦN MỀM
+    - Điều 5. Vận hành Phần mềm quản lý tiền lương
+    - Điều 6. Quản lý tài khoản đăng nhập Phần mềm quản lý tiền lương
+    - Điều 7. Quy định về sử dụng Phần mềm để thực hiện các công việc liên quan tới quản lý tiền lương, cải cách tiền lương cán bộ công chức, viên chức và người lao động
+    - Điều 8. Nguyên tắc cập nhật, quản lý và khai thác sử dụng phần mềm Quản lý tiền lương
+    - Điều 9. Nội dung quản lý, vận hành và khai thác phần mềm quản lý tiền lương
+    - Điều 10. Khai thác và kết xuất thông tin từ phần mềm quản lý tiền lương
+    - Điều 11. Hỗ trợ và khắc phục sự cố phần mềm
+  - Chương III TRÁCH NHIỆM, QUYỀN HẠN CỦA CÁC CƠ QUAN, TỔ CHỨC, ĐƠN VỊ, ĐỊA PHƯƠNG TRONG VIỆC QUẢN LÝ, VẬN HÀNH VÀ KHAI THÁC PHẦN MỀM QUẢN LÝ TIỀN LƯƠNG
+    - Điều 12. Cơ quan, tổ chức, đơn vị trực tiếp sử dụng
+    - Điều 13. Người được phân công trực tiếp quản lý, khai thác sử dụng phần mềm quản lý tiền lương.
+    - Điều 14. Sở Thông tin và Truyền thông
+    - Điều 15. Sở Tài chính
+    - Điều 16. UBND các huyện, thị xã, thành phố
+    - Điều 17. Phòng Tài chính - Kế hoạch các huyện, thị xã, thành phố
+  - Chương IV ĐIỀU KHOẢN THI HÀNH
+    - Điều 18. Tổ chức thực hiện
+    - Điều 19. Trong quá trình triển khai thực hiện, nếu có vướng mắc, phát sinh, Thủ trưởng các cơ quan, tổ chức, đơn vị, địa phương kịp thời phản ánh về Ủy ban nhân dân tỉnh (thông qua Sở Tài chính) để xem xét sửa đổi, bổ sung cho phù hợp./.
+
+--- VĂN BẢN LIÊN QUAN ---
+
+Van ban duoc dan chieu:
+  - Luật an toàn thông tin mạng 2015 (ID: 298365)
+  - Luật Giao dịch điện tử 2005 (ID: 6922)
+
+Van ban duoc can cu:
+  - Luật Tổ chức chính phủ và Luật Tổ chức chính quyền địa phương sửa đổi 2019 (ID: 411945)
+  - Nghị định 163/2016/NĐ-CP hướng dẫn Luật ngân sách nhà nước (ID: 335331)
+  - Luật kế toán 2015 (ID: 298369)
+  - Luật ngân sách nhà nước 2015 (ID: 281762)
+  - Luật ban hành văn bản quy phạm pháp luật 2015 (ID: 282382)
+  - Luật tổ chức chính quyền địa phương 2015 (ID: 282380)
+  - Nghị định 64/2007/NĐ-CP về việc ứng dụng công nghệ thông tin trong hoạt động của cơ quan Nhà nước (ID: 18234)
+  - Luật Công nghệ thông tin 2006 (ID: 12987)
+
+Van ban lien quan cung noi dung:
+  - Nghị quyết 31/2023/NQ-HĐND quy định về tỷ lệ trích nguồn thu được để lại để tạo nguồn cải cách tiền lương đối với các đơn vị có số thu lớn do Thành phố Hồ Chí Minh quản lý (ID: 596850)
+  - Quyết định 16/2022/QĐ-UBND về Quy chế quản lý, sử dụng và khai thác phần mềm cơ sở dữ liệu về giá tỉnh Hà Giang (ID: 527929)
+  - Quyết định 675/QĐ-UBND năm 2022 quy định về thẩm quyền phê duyệt danh sách bảng lương đối với các cơ quan hành chính Nhà nước, đơn vị sự nghiệp công lập trên địa bàn tỉnh Bình Phước (ID: 515016)
+  - Quyết định 75/2014/QĐ-UBND phê duyệt cơ chế thực hiện tiền lương và tạo nguồn cải cách tiền lương đối với cơ sở giáo dục công lập chất lượng cao theo Luật Thủ đô do thành phố Hà Nội ban hành (ID: 254469)
+  - Quyết định 128/QĐ-UBND năm 2012 về cấp kinh phí thực hiện cải cách tiền lương tối thiểu chung do tỉnh Kon Tum ban hành (ID: 235780)
+  - Nghị quyết 32/NQ-HĐND năm 2011 sử dụng nguồn thực hiện cải cách tiền lương còn dư năm 2010 do tỉnh Vĩnh Phúc ban hành (ID: 197756)

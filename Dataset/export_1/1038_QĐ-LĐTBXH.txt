@@ -1,0 +1,731 @@
+BỘ LAO ĐỘNG -
+ THƯƠNG BINH VÀ XÃ HỘI
+
+ -------
+
+CỘNG HÒA XÃ HỘI
+ CHỦ NGHĨA VIỆT NAM
+
+ Độc lập - Tự do - Hạnh phúc 
+
+ ---------------
+
+Số: 1038/QĐ-LĐTBXH
+
+Hà Nội, ngày 24
+ tháng 08 năm 2010
+
+ 
+
+QUYẾT ĐỊNH
+
+VỀ
+VIỆC PHÊ DUYỆT ĐỀ ÁN “ỨNG DỤNG CÔNG NGHỆ THÔNG TIN VÀO QUẢN LÝ NGƯỜI NƯỚC NGOÀI
+LÀM VIỆC TẠI VIỆT NAM”
+
+BỘ TRƯỞNG BỘ LAO ĐỘNG - THƯƠNG BINH VÀ XÃ HỘI
+
+Căn cứ Nghị định số 186/2007/NĐ-CP ngày 25 tháng
+12 năm 2007 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ
+chức của Bộ Lao động - Thương binh và Xã hội;
+
+Căn cứ Nghị định số 34/2008/NĐ-CP ngày 25 tháng
+3 năm 2008 của Chính phủ Quy định về tuyển dụng và quản lý người nước ngoài làm
+việc tại Việt Nam;
+
+Căn cứ Quyết định số 946/QĐ-LĐTBXH ngày
+24/7/2009 của Bộ trưởng Bộ Lao động - Thương binh và Xã hội về việc phê duyệt Kế
+hoạch ứng dụng công nghệ thông tin Bộ Lao động - Thương binh và Xã hội giai đoạn
+2009-2010 và định hướng đến năm 2015;
+
+Theo đề nghị của Cục trưởng Cục Việc làm và Giám
+đốc Trung tâm Thông tin,
+
+QUYẾT ĐỊNH:
+
+Điều 1. Phê duyệt Đề án: “Ứng dụng công nghệ thông tin vào Quản lý
+người nước ngoài làm việc tại Việt Nam” (đính kèm).
+
+Điều 2. Giao Trung tâm Thông tin chủ trì, phối hợp với Cục Việc làm
+để tổ chức triển khai thực hiện Đề án này.
+
+Điều 3. Chánh Văn phòng Bộ, Vụ trưởng Vụ Kế hoạch-Tài chính, Cục trưởng
+Cục Việc làm, Giám đốc Trung tâm Thông tin và Thủ trưởng các đơn vị có liên
+quan chịu trách nhiệm thi hành Quyết định này./.
+
+ 
+
+ 
+
+Nơi nhận:
+
+- Như điều 3;
+
+ - Bộ trưởng (để báo cáo);
+
+ - Lưu VP, KH-TC, CVL, TTTT.
+
+KT. BỘ TRƯỞNG
+
+ THỨ TRƯỞNG
+
+ Nguyễn Thanh Hòa
+
+ 
+
+ĐỀ ÁN
+
+ỨNG
+DỤNG CÔNG NGHỆ THÔNG TIN VÀO QUẢN LÝ NGƯỜI NƯỚC NGOÀI LÀM VIỆC TẠI VIỆT NAM
+
+(Ban hành kèm theo Quyết định số 1038/QĐ-LĐTBXH ngày 24 tháng 8 năm 2010 của
+Bộ trưởng Bộ Lao động - Thương binh và Xã hội)
+
+I. SỰ CẦN THIẾT
+
+1. Căn cứ pháp lý
+
+- Tại Điều 131, 132 và 133 mục V của
+Bộ Luật Lao động quy định quyền hạn, trách nhiệm của người lao động nước
+ngoài tại Việt Nam.
+
+- Tại Điều 18 Nghị định số
+34/2008/NĐ-CP ngày 25/3/2008 của Chính phủ qui định về tuyển dụng và quản
+lý người nước ngoài làm việc tại Việt Nam thì Sở Lao động - Thương binh và Xã hội
+có trách nhiệm: "Tiếp nhận và lưu trữ hồ sơ đề nghị cấp giấy phép lao động,
+hồ sơ đề nghị gia hạn giấy phép lao động và hồ sơ đề nghị cấp lại giấy phép lao
+động; thực hiện cấp giấy phép lao động, gia hạn giấy phép lao động và cấp lại
+giấy phép lao động; theo dõi, tổng hợp và báo cáo tình hình lao động làm việc tại
+các doanh nghiệp, cơ quan, tổ chức trên địa bàn quản lý; kiểm tra, thanh tra việc
+thực hiện các quy định của Bộ luật Lao động và Nghị định này".
+
+- Tại Quyết định số 946/QĐ-LĐTBXH ngày 24/7/2009 của
+Bộ trưởng Bộ Lao động - Thương binh và Xã hội về việc phê duyệt Kế hoạch ứng dụng
+công nghệ thông tin Bộ Lao động - Thương binh và Xã hội giai đoạn 2009-2010 và
+định hướng đến năm 2015 đã đưa vào kế hoạch xây dựng cơ sở dữ liệu về lao động
+và chuyên gia nước ngoài làm việc tại Việt Nam.
+
+2. Thực trạng lao động nước
+ngoài (Người nước ngoài) làm việc tại Việt Nam
+
+2.1. Thực trạng số lượng Người nước ngoài làm
+việc tại Việt Nam
+
+- Qua số liệu báo cáo của các Sở Lao động - Thương
+binh và Xã hội tỉnh, thành phố trực thuộc Trung ương và các Ban quản lý khu
+công nghiệp, khu chế xuất và khu kinh tế thì số lao động nước ngoài làm việc tại
+Việt Nam qua các năm có xu hướng ngày một tăng cao, nhất là 2 năm gần đây, cụ
+thể như sau:
+
+Năm
+
+2005
+
+2006
+
+2007
+
+2008
+
+2009
+
+Số Người nước ngoài làm việc tại Việt Nam
+
+21.217
+
+34.117
+
+43.766
+
+52.633
+
+55.482
+
+- Số liệu thống kê trên cho thấy số lượng lao động
+nước ngoài ngày càng tăng về số tuyệt đối, tốc độ tăng bình quân từ năm 2005 đến
+năm 2009 khoảng 27,16%.
+
+- Mặc dù các cơ quan chức năng đã có nhiều biện
+pháp như ban hành các văn bản hướng dẫn cụ thể, rõ ràng cho từng đối tượng, tổ
+chức tuyên truyền tập huấn, tăng cường công tác thanh tra, kiểm tra, tăng cường
+sự phối hợp giữa ngành Lao động - Thương binh và Xã hội và các ngành có liên
+quan, nhất là ngành Công an ở các cấp, nhưng tỷ lệ người lao động nước ngoài đã
+được cấp giấy phép lao động năm 2008 cũng chỉ đạt gần 44%, tăng trên 8% so với
+năm 2007.
+
+Nhìn chung, lao động nước ngoài làm việc tại Việt
+Nam đã được cấp giấy phép thường giữ những vị trí quan trọng trong doanh nghiệp
+(trừ những trường hợp lao động nước ngoài làm việc theo hợp đồng dịch vụ, làm
+việc cho các công trình do nhà đầu tư nước ngoài trúng thầu tại Việt Nam). Bên
+cạnh những lao động nước ngoài đã được cấp phép còn một bộ phận không nhỏ lao động
+chưa được cấp giấy phép hoặc những đối tượng lao động phổ thông nước ngoài
+không đủ điều kiện làm việc tại Việt Nam đã vào Việt Nam làm việc bằng nhiều
+con đường và nhiều hình thức khác nhau thì chưa được các địa phương tổng hợp và
+báo cáo.
+
+2.2. Tình hình quản lý Người nước ngoài làm
+việc tại Việt Nam 
+
+Việc quản lý Người nước ngoài làm việc tại Việt Nam
+chưa thực hiện được đầy đủ, kịp thời và thiếu sự phối hợp, hỗ trợ của các
+ngành, các đơn vị ở địa phương.
+
+- Theo quy định tại Nghị định số 34/2008/NĐ-CP ngày
+25/3/2008 của Chính phủ quy định về tuyển dụng và quản lý người nước ngoài làm
+việc tại Việt Nam thì người sử dụng lao động phải làm thủ tục đề nghị cấp giấy
+phép lao động cho người nước ngoài trước khi người nước ngoài làm việc tại Việt
+Nam; người sử dụng lao động phải có trách nhiệm báo cáo tình hình sử dụng lao động
+nước ngoài với Sở Lao động - Thương binh và Xã hội,… Tuy nhiên, đến nay đa số
+các trường hợp người nước ngoài vào Việt Nam làm việc rồi mới làm các thủ tục để
+cấp giấy phép lao động, người sử dụng lao động không báo cáo tình hình sử dụng
+lao động, các cơ quan chưa có sự phối hợp trong việc quản lý lao động nước
+ngoài, dẫn đến việc theo dõi, quản lý lao động nước ngoài chưa chặt chẽ.
+
+- Hiện nay, người nước ngoài có thể nhập cảnh vào
+Việt Nam qua các cửa khẩu quốc tế đường không do Bộ Công an quản lý (Nội Bài,
+Tân Sơn Nhất, Đà Nẵng,…); hoặc cửa khẩu quốc tế đường bộ do Bộ Quốc phòng quản
+lý;… Sau khi nhập cảnh, người nước ngoài được phép đi lại, tạm trú bất cứ ở đâu
+mà pháp luật không cấm. Do đó, nếu không có sự phối hợp chặt chẽ, cung cấp
+thông tin kịp thời giữa các cơ quan chức năng và sự giám sát chặt chẽ đối với
+người nước ngoài tạm trú tại các địa phương thì rất khó khăn trong việc quản lý
+người nước ngoài tạm trú và làm việc tại Việt Nam.
+
+- Về thực hiện chế độ báo cáo, theo quy định tại
+Nghị định số 34/2008/NĐ-CP ngày 25/3/2008 thì người sử dụng lao động có trách
+nhiệm báo cáo tình hình sử dụng lao động nước ngoài 6 tháng và cả năm với Sở
+Lao động - Thương binh và Xã hội, tuy nhiên rất ít doanh nghiệp báo cáo theo
+đúng quy định, vì vậy các Sở Lao động - Thương binh và Xã hội không thể tổng hợp
+được đầy đủ số lao động nước ngoài làm việc trên địa bàn để báo cáo về Bộ Lao động
+- Thương binh và Xã hội. Các số liệu báo cáo của các Sở Lao động - Thương binh
+và Xã hội chủ yếu nắm được bằng phương pháp thủ công thông qua công tác kiểm
+tra và thực hiện cấp giấy phép lao động từ sổ ghi chép ban đầu, chưa có ứng dụng
+Công nghệ thông tin (CNTT), do vậy việc quản lý, tổng hợp số liệu gặp rất nhiều
+khó khăn. Mặt khác, còn một số lượng lớn lao động nước ngoài làm việc tự do hoặc
+lao động phổ thông đang làm việc nhưng chưa có một đơn vị nào quản lý tổng hợp
+báo cáo được.
+
+Tình hình thực tiễn trên đây đòi hỏi việc ứng dụng
+CNTT vào công tác quản lý lao động nước ngoài làm việc tại Việt Nam là rất cần
+thiết nhằm cập nhật thông tin, dữ liệu đầy đủ, nhanh chóng, kịp thời, chính
+xác, quản lý thống nhất từ trung ương đến địa phương, phục vụ việc quản lý, chỉ
+đạo, điều hành và thực hiện các chủ trương, chính sách lớn của Đảng và Nhà nước.
+
+II. MỤC TIÊU VÀ NHIỆM VỤ CỦA ĐỀ
+ÁN 
+
+1. Mục tiêu của Đề án 
+
+- Xây dựng một hệ thống ứng dụng CNTT vào quản lý dữ
+liệu người lao động nước ngoài làm việc tại Việt Nam cho phép cập nhật, xử lý,
+tổng hợp, khai thác và cung cấp trực tuyến các thông tin, dữ liệu liên quan đến
+đối tượng nhằm phục vụ cho công tác quản lý, chỉ đạo, điều hành của Bộ, Sở Lao
+động - Thương binh và Xã hội các tỉnh, thành phố trực thuộc trung ương.
+
+- Góp phần quan trọng đẩy nhanh cải cách hành chính
+trong lĩnh vực cung cấp dịch vụ công của Bộ Lao động - Thương binh và Xã hội, tạo
+cơ sở vững chắc để cung cấp trực tuyến các dịch vụ công.
+
+2. Nhiệm vụ của Đề án 
+
+- Thiết lập quy trình thu thập, cập nhật, xử lý, tổng
+hợp trực tuyến và quản lý thống nhất các thông tin dữ liệu về Người nước ngoài
+làm việc tại Việt Nam;
+
+- Xây dựng cơ chế pháp lý và các quy định cụ thể
+cho các tổ chức, cá nhân khi tham gia hệ thống, bảo đảm cho sự hoạt động có hiệu
+quả và lâu dài của Đề án;
+
+- Xây dựng hệ thống phần mềm cập nhật, xử lý, tổng
+hợp trực tuyến thông tin dữ liệu, phục vụ các yêu cầu quản lý và hoạch định
+chính sách về quản lý lao động nước ngoài làm việc tại Việt Nam.
+
+III. NỘI DUNG CÁC HOẠT ĐỘNG CHỦ
+YẾU CỦA ĐỀ ÁN
+
+1. Khảo sát thực trạng quản lý Người nước ngoài
+làm việc tại Việt Nam 
+
+1.1. Nắm số lượng Người nước ngoài đang làm việc tại
+Việt Nam (doanh nghiệp, khu công nghiệp, khu chế xuất, khu kinh tế);
+
+1.2. Chất lượng Người nước ngoài (trình độ chuyên
+môn kỹ thuật, nghề nghiệp, tuổi…)
+
+1.3. Quốc tịch;
+
+1.4. Công việc đảm nhận;
+
+1.5. Có giấy phép/không có giấy phép;
+
+1.6. Hình thức làm việc;
+
+1.7. Doanh nghiệp, tổ chức có sử dụng Người nước
+ngoài;…
+
+2. Xây dựng quy trình quản lý 
+
+- Cục Việc làm chủ trì phối hợp với các cơ quan
+liên quan thiết lập cơ chế để thu thập và cập nhật số liệu ở cơ sở bao gồm các
+công việc rà soát văn bản hiện hành, đề xuất điều chỉnh hoặc ban hành văn bản
+quy định trách nhiệm giữa các cơ quan quản lý Nhà nước về xuất nhập cảnh (Bộ
+Công an, Bộ Quốc phòng) và các cơ quan liên quan đến việc quản lý lao động là
+người nước ngoài đến làm việc tại Việt Nam (các Dự án, Chương trình hợp tác, cơ
+quan đại diện, khu chế xuất, …) để tổng hợp, theo dõi được số lượng lao động cụ
+thể và công việc hoặc cơ quan người lao động trong suốt quá trình đến làm việc
+tại Việt Nam.
+
+- Trên cơ sở ứng dụng CNTT, tiến hành thiết kế mẫu
+biểu thu thập thông tin, thống nhất về ghi chép, cập nhật, xử lý và tổng hợp
+thông tin về lao động nước ngoài làm việc tại Việt Nam cho Bộ, Sở Lao động -
+Thương binh và Xã hội và các Ban quản lý khu công nghiệp, khu chế xuất, khu
+kinh tế.
+
+3. Xây dựng hệ thống phần mềm về người nước
+ngoài làm việc tại Việt Nam 
+
+3.1. Xây dựng module quản lý hệ thống (quản trị người
+dùng, phân quyền chức năng hệ thống…);
+
+3.2. Xây dựng module cập nhật, xem, sửa, xóa thông
+tin gốc ban đầu;
+
+3.3. Xây dựng module xử lý, tổng hợp báo cáo thống
+kê tĩnh, động;
+
+3.4. Xây dựng module tìm kiếm (tra cứu) thông tin;
+
+3.5. Xây dựng module xử lý giao dịch trực tuyến (tạo,
+xóa tài khoản; truy vấn tài khoản; bảo mật và xác thực tài khoản);
+
+3.6. Thu thập và cập nhật thông tin, dữ liệu gốc.
+
+4. Tập huấn, đào tạo cán bộ cho các Sở Lao động
+- Thương binh và Xã hội, các doanh nghiệp và các khu công nghiệp, khu chế xuất,
+khu kinh tế để quản lý, cập nhật, khai thác, sử dụng thông tin.
+
+IV. KẾ HOẠCH TRIỂN KHAI CỦA ĐỀ
+ÁN
+
+TT
+
+Nội dung công
+ việc
+
+Tiến độ
+
+Đơn vị chủ trì
+
+Đơn vị phối hợp
+
+1
+
+Khảo sát hạ tầng và quy trình nghiệp vụ quản
+ lý người nước ngoài làm việc tại Việt Nam
+
+ 
+
+ 
+
+ 
+
+Xây dựng mẫu thu thập thông tin nghiệp vụ quản lý
+ người nước ngoài làm việc tại Việt Nam
+
+01/8 đến 10/8
+
+Cục VL
+
+TTTT
+
+Đi khảo sát thực tế 05 tỉnh có người nước ngoài
+ làm việc tại Việt Nam
+
+15/8 đến 15/9
+
+Cục VL
+
+TTTT
+
+Hoàn thiện mẫu thu thập thông tin gốc
+
+15/9 đến 30/9
+
+Cục VL
+
+TTTT
+
+2
+
+Xây dựng hệ thống phần mềm
+
+01/10 đến 18/11
+
+TTTT
+
+ 
+
+3
+
+Tập huấn, đào tạo cán bộ cho các Sở Lao động -
+ Thương binh và Xã hội
+
+19/11 đến 15/12
+
+TTTT
+
+Cục VL
+
+V. KINH PHÍ
+
+1. Nguồn kinh phí thực hiện đề án 
+
+Từ nguồn ngân sách nhà nước trong dự toán ngân sách
+ứng dụng CNTT được giao hàng năm của Trung tâm Thông tin.
+
+2. Dự toán chi tiết
+
+TT
+
+Nội dung công
+ việc
+
+Đơn vị tính
+
+Đơn giá (1000đ)
+
+Số lượng
+
+Thành tiền (1000đ)
+
+Ghi chú
+
+1
+
+Xây dựng quy trình nghiệp vụ quản lý người nước
+ ngoài làm việc tại Việt Nam
+
+ 
+
+ 
+
+ 
+
+22.000
+
+TT số
+ 44/2007/TTLT-BTC-BKHCN
+
++ Nghiên cứu, thiết kế, xây dựng và hoàn thiện mẫu
+ thu thập thông tin gốc (cả hội thảo, lấy ý kiến chuyên gia,…)
+
+ 
+
+10.000
+
+01
+
+10.000
+
++ Xây dựng Hệ thống chỉ tiêu tổng hợp, báo cáo thống
+ kê
+
+ 
+
+12.000
+
+01
+
+12.000
+
+2
+
+Khảo sát hạ tầng và quy trình nghiệp vụ quản
+ lý người nước ngoài làm việc tại Việt Nam
+
+ 
+
+ 
+
+ 
+
+76.600
+
+TT số
+ 51/2008/TT-BTC và NĐ số 102/2009/NĐ-CP và TT số 23/2007/TT-BTC
+
++ Khảo sát hạ tầng công nghệ và thực trạng quy
+ trình quản lý người nước ngoài làm việc tại Việt Nam (05 tỉnh x 3 người x 3
+ ngày x 2 công)
+
+Công
+
+300
+
+90
+
+27.000
+
++ Phân tích đặc tả yêu cầu hệ thống
+
+Công
+
+800
+
+10
+
+8.000
+
++ Phân tích thực thể thông tin quản lý
+
+Công
+
+800
+
+10
+
+8.000
+
++ Thiết kế kiến trúc tổng thể, mô hình Hệ thống ứng
+ dụng 
+
+Công
+
+800
+
+12
+
+9.600
+
++ Thiết kế Hệ thống thông tin, dữ liệu
+
+Công
+
+800
+
+10
+
+8.000
+
++ Thiết kế chức năng của Hệ thống phần mềm
+
+Công
+
+800
+
+20
+
+16.000
+
+3
+
+Xây dựng hệ thống phần mềm
+
+ 
+
+ 
+
+ 
+
+624.000
+
+ 
+
++ Xây dựng module quản lý hệ thống (Quản trị người
+ dùng; phân quyền chức năng hệ thống,…)
+
+Công
+
+800
+
+90
+
+72.000
+
+ 
+
++ Xây dựng module cập nhật, xem, sửa, xóa thông
+ tin gốc ban đầu
+
+Công
+
+800
+
+160
+
+128.000
+
++ Xây dựng module xử lý, tổng hợp báo cáo thống
+ kê tĩnh, động
+
+Công
+
+800
+
+250
+
+200.000
+
++ Xây dựng module tìm kiếm (tra cứu) thông tin
+
+Công
+
+800
+
+70
+
+56.000
+
++ Xây dựng module xử lý giao dịch trực tuyến (Tạo,
+ xóa tài khoản; Truy vấn tài khoản; Bảo mật và sát thực tài khoản)
+
+Công
+
+800
+
+140
+
+112.000
+
++ Thiết kế sao lưu, phục hồi Hệ thống thông tin dữ
+ liệu
+
+Công
+
+800
+
+30
+
+24.000
+
+ 
+
++ Thiết kế kịch bản và kiểm thử chương trình
+
+Công
+
+800
+
+37
+
+29.600
+
+ 
+
+4
+
+Tập huấn, đào tạo cán bộ cho các Sở LĐ-TBXH
+
+Lớp
+
+3
+
+50.000
+
+150.000
+
+TT số
+ 23/2007/TT-BTC
+
+5
+
+Quản lý phí (5%)
+
+ 
+
+ 
+
+ 
+
+42.780
+
+ 
+
+6
+
+Kinh phí dự phòng (10%)
+
+ 
+
+ 
+
+ 
+
+87.020
+
+ 
+
+Tổng kinh phí
+
+ 
+
+ 
+
+ 
+
+1.000.000
+
+ 
+
+VI. TỔ CHỨC THỰC HIỆN
+
+- Cục Việc làm chủ trì phối hợp với các cơ quan
+liên quan:
+
++ Thiết lập cơ chế và hướng dẫn quy trình thu thập và
+cập nhật số liệu ở cơ sở bao gồm các công việc rà soát văn bản hiện hành, đề xuất
+điều chỉnh hoặc ban hành văn bản quy định trách nhiệm giữa các cơ quan quản lý
+Nhà nước về xuất nhập cảnh (Bộ Công an, Bộ Quốc phòng) và các cơ quan liên quan
+đến việc quản lý người nước ngoài làm việc tại Việt Nam;
+
++ Phối hợp với Trung tâm Thông tin tổ chức khảo sát
+thực trạng người nước ngoài làm việc tại Việt Nam, trên cơ sở kết quả thu được,
+Trung tâm Thông tin có trách nhiệm triển khai ứng dụng CNTT-TT để xây dựng quy trình
+Quản lý người nước ngoài làm việc tại Việt Nam.
+
+- Trung tâm Thông tin chủ trì xây dựng hệ thống phần
+mềm Quản lý người nước ngoài làm việc tại Việt Nam và phối hợp với Cục Việc làm
+tổ chức tập huấn, đào tạo cán bộ cho các Sở LĐ-TBXH tỉnh, thành phố trực thuộc
+trung ương.
+
+- Vụ Kế hoạch - Tài chính phân bổ kinh phí triển
+khai trên cơ sở đề xuất của Trung tâm Thông tin.--- THÔNG TIN THÊM ---
+Ten: Quyết định 1038/QĐ-LĐTBXH năm 2010 phê duyệt Đề án "Ứng dụng công nghệ thông tin vào Quản lý người nước ngoài làm việc tại Việt Nam" do Bộ trưởng Bộ Lao động - Thương binh và Xã hội ban hành
+So hieu: 1038/QĐ-LĐTBXH
+Loai van ban: Quyết định
+Linh vuc nganh: Lao động - Tiền lương, Công nghệ thông tin, Bộ máy hành chính
+Noi ban hanh: Bộ Lao động - Thương binh và Xã hội
+Nguoi ky: Nguyễn Thanh Hòa
+Ngay ban hanh: 24/08/2010
+Ngay hieu luc: 24/08/2010
+Ngay dang: Dữ liệu đang cập nhật
+So cong bao: Dữ liệu đang cập nhật
+Tinh trang: Còn hiệu lực
+
+
+--- MỤC LỤC ---
+- QUYẾT ĐỊNH VỀ VIỆC PHÊ DUYỆT ĐỀ ÁN “ỨNG DỤNG CÔNG NGHỆ THÔNG TIN VÀO QUẢN LÝ NGƯỜI NƯỚC NGOÀI LÀM VIỆC TẠI VIỆT NAM”
+  - Điều 1. Phê duyệt Đề án: “Ứng dụng công nghệ thông tin vào Quản lý người nước ngoài làm việc tại Việt Nam” (đính kèm).
+  - Điều 2. Giao Trung tâm Thông tin chủ trì, phối hợp với Cục Việc làm để tổ chức triển khai thực hiện Đề án này.
+  - Điều 3. Chánh Văn phòng Bộ, Vụ trưởng Vụ Kế hoạch-Tài chính, Cục trưởng Cục Việc làm, Giám đốc Trung tâm Thông tin và Thủ trưởng các đơn vị có liên quan chịu trách nhiệm thi hành Quyết định này./.
+- ĐỀ ÁN ỨNG DỤNG CÔNG NGHỆ THÔNG TIN VÀO QUẢN LÝ NGƯỜI NƯỚC NGOÀI LÀM VIỆC TẠI VIỆT NAM
+  - I. SỰ CẦN THIẾT
+    - 1. Căn cứ pháp lý
+    - 2. Thực trạng lao động nước ngoài (Người nước ngoài) làm việc tại Việt Nam
+  - II. MỤC TIÊU VÀ NHIỆM VỤ CỦA ĐỀ ÁN
+  - III. NỘI DUNG CÁC HOẠT ĐỘNG CHỦ YẾU CỦA ĐỀ ÁN
+  - IV. KẾ HOẠCH TRIỂN KHAI CỦA ĐỀ ÁN
+  - V. KINH PHÍ
+  - VI. TỔ CHỨC THỰC HIỆN
+
+--- VĂN BẢN LIÊN QUAN ---
+
+Van ban duoc dan chieu:
+  - Bộ luật Lao động 1994 (ID: 38702)
+
+Van ban duoc can cu:
+  - Quyết định 946/QĐ-LĐTBXH năm 2009 phê duyệt Kế hoạch ứng dụng công nghệ thông tin của Bộ Lao động - Thương ... (ID: 143031)
+  - Nghị định 34/2008/NĐ-CP quy định về tuyển dụng và quản lý người nước ngoài làm việc tại Việt Nam (ID: 64372)
+  - Nghị định 186/2007/NĐ-CP quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Lao động - Thương... (ID: 60724)
+
+Van ban lien quan cung noi dung:
+  - Quyết định 968/QĐ-LĐTBXH năm 2011 phê duyệt Kế hoạch ứng dụng công nghệ thông tin trong hoạt động của Bộ Lao động - Thương binh và Xã hội giai đoạn 2011 - 2015 (ID: 178711)

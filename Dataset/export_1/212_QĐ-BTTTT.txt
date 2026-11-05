@@ -1,0 +1,546 @@
+BỘ
+ THÔNG TIN VÀ 
+
+TRUYỀN THÔNG
+
+ -------
+
+CỘNG
+ HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+ Độc lập - Tự do - Hạnh phúc 
+
+ ---------------
+
+Số: 212/QĐ-BTTTT
+
+Hà
+ Nội, ngày 19 tháng 02
+ năm 2021 
+
+ 
+
+QUYẾT ĐỊNH
+
+BAN HÀNH KẾ HOẠCH TRIỂN KHAI THỰC HIỆN QUYẾT ĐỊNH SỐ 21/QĐ-TTg NGÀY 06
+THÁNG 01 NĂM 2021 CỦA THỦ TƯỚNG CHÍNH PHỦ PHÊ DUYỆT ĐỀ ÁN “ĐÀO TẠO VÀ PHÁT TRIỂN
+NGUỒN NHÂN LỰC AN TOÀN THÔNG TIN GIAI ĐOẠN 2021 - 2025”
+
+BỘ TRƯỞNG BỘ THÔNG TIN VÀ TRUYỀN THÔNG
+
+Căn cứ Nghị định số 17/2017/NĐ-CP 
+ngày 17 tháng 02 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn
+và cơ cấu tổ chức của Bộ Thông tin và Truyền thông;
+
+Căn cứ Quyết định số 21/QĐ-TTg 
+ngày 06 tháng 01 năm 2021 của Thủ tướng Chính phủ phê duyệt Đề án “Đào tạo và
+phát triển nguồn nhân lực
+an toàn thông tin giai đoạn 2021 - 2025”;
+
+Theo đề nghị của Cục trưởng Cục An
+toàn thông tin.
+
+QUYẾT ĐỊNH:
+
+Điều 1. Ban hành Kế hoạch triển khai thực hiện Quyết định
+số 21/QĐ-TTg ngày 06 tháng 01 năm 2021 của Thủ tướng Chính phủ phê duyệt Đề án
+“Đào tạo và phát triển nguồn nhân lực an toàn thông tin giai đoạn 2021 - 2025”
+theo Phụ lục kèm theo Quyết định này.
+
+Điều 2. Quyết định này có hiệu lực thi hành kể từ ngày
+ký ban hành.
+
+Điều 3. Chánh Văn phòng, Vụ trưởng Vụ Kế hoạch - Tài
+chính, Cục trưởng Cục An toàn thông tin, Thủ trưởng các cơ quan, đơn vị thuộc Bộ,
+Thủ trưởng các đơn vị có liên quan chịu trách nhiệm thi hành Quyết định này./.
+
+ 
+
+ Nơi nhận:
+
+- Như Điều 3;
+
+- Bộ trưởng (để b/c);
+
+ - Thứ trưởng Nguyễn Huy Dũng;
+
+ - Cổng TTĐT của Bộ;
+
+ - Sở TTTT các tỉnh, thành phố trực thuộc TƯ;
+
+ - Đơn vị chuyên trách CNTT của các bộ, cơ quan ngang bộ, cơ quan thuộc Chính
+ phủ;
+
+ - Hiệp hội An toàn thông tin Việt Nam;
+
+ - Lưu: VT, ATTT.QHPT (5b).
+
+KT. BỘ TRƯỞNG
+
+ THỨ TRƯỞNG
+
+ Nguyễn Huy Dũng
+
+ 
+
+KẾ HOẠCH
+
+TRIỂN KHAI THỰC HIỆN QUYẾT ĐỊNH SỐ 21/QĐ-TTg NGÀY 06 THÁNG 01 NĂM 2021
+CỦA THỦ TƯỚNG CHÍNH PHỦ PHÊ DUYỆT ĐỀ ÁN “ĐÀO TẠO VÀ PHÁT TRIỂN NGUỒN NHÂN LỰC
+AN TOÀN THÔNG TIN GIAI ĐOẠN 2021 - 2025”
+
+(Ban hành kèm theo Quyết định số 212/QĐ-BTTTT
+ngày 19/02/2021 của Bộ trưởng Bộ Thông tin và Truyền
+thông)
+
+I. MỤC ĐÍCH, YÊU CẦU
+
+1. Mục đích
+
+- Tăng cường xây dựng, đào tạo, bồi
+dưỡng, phát triển đội ngũ nhân lực an toàn thông tin mạng nhằm góp phần triển
+khai thành công Chương trình chuyển đổi số quốc gia, phát triển Chính phủ số,
+kinh tế số - xã hội số và nâng cao uy tín, vị thế của Việt Nam trong lĩnh vực
+an toàn thông tin trên trường quốc tế.
+
+- Xác định cụ thể các nhiệm vụ tại
+Quyết định số 21/QĐ-TTg ngày 06 tháng 01 năm 2021 của Thủ tướng Chính phủ phê
+duyệt Đề án “Đào tạo và phát triển nguồn nhân lực an toàn thông tin giai đoạn
+2021 - 2025” (gọi tắt là Đề án).
+
+- Tổ chức triển khai các nhiệm vụ tại
+Đề án đã được phê duyệt; thực hiện tốt vai trò chủ trì, điều phối triển khai Đề
+án nhằm tăng số lượng và nâng cao chất lượng đội ngũ nhân lực an toàn thông tin
+để hiện thực hóa tầm nhìn đưa Việt Nam trở thành cường quốc về an toàn thông
+tin.
+
+2. Yêu cầu
+
+- Bảo đảm triển khai kịp thời, đồng bộ,
+khoa học và hiệu quả các nội dung và nhiệm vụ Bộ Thông tin và Truyền thông được
+giao tại Đề án.
+
+- Xác định rõ các nội dung công việc,
+phân công trách nhiệm thực hiện rõ ràng, cụ thể; chủ động giải quyết kịp thời
+những khó khăn, vướng mắc trong quá trình thực hiện đảm bảo hoàn thành các nhiệm
+vụ đề ra.
+
+- Thực hiện chất lượng, hiệu quả các
+chương trình đào tạo, bồi dưỡng, phát triển nguồn lực an toàn thông tin; bảo đảm
+huy động, phát huy tối đa các nguồn lực để thực hiện Đề án, trong đó gắn kết
+các chương trình, đề án, kế hoạch phát triển nguồn nhân lực khác của bộ, ngành,
+địa phương đã được cấp có thẩm quyền phê duyệt; phát huy tối đa năng lực của
+các cơ sở đào tạo, bồi dưỡng và đội ngũ chuyên gia, giảng viên về an toàn thông
+tin để phục vụ thực hiện Kế hoạch.
+
+- Đổi mới hình thức, hoạt động đào tạo
+và phát triển nguồn lực an toàn thông tin một cách chủ động, hiệu quả nhằm hình
+thành đội ngũ chuyên gia bảo đảm an toàn không gian mạng Việt Nam và hệ thống
+thông tin của các cơ quan Đảng, Nhà nước.
+
+- Khuyến khích tận dụng các nguồn lực
+xã hội để thực hiện nhiệm vụ, đặc biệt là tận dụng sự tham gia có trách nhiệm của
+cơ sở đào tạo, doanh nghiệp, chuyên gia an toàn thông tin và các tổ chức, cá
+nhân có liên quan.
+
+II. NỘI DUNG THỰC
+HIỆN
+
+1. Tổ chức xây dựng, ban hành Kế hoạch
+triển khai thực hiện Đề án.
+
+2. Tổ chức quán triệt và triển khai
+thực hiện nghiêm túc, tích cực các nhiệm vụ đã đề ra đảm bảo tiến độ, hiệu quả.
+
+3. Tổ chức điều phối, hướng dẫn, kiểm
+tra, đôn đốc các cơ quan, đơn vị thực hiện nhiệm vụ theo đúng Kế hoạch.
+
+(Chi
+tiết nhiệm vụ tại Phụ lục kèm theo).
+
+III. NGUỒN KINH
+PHÍ THỰC HIỆN
+
+Nguồn kinh phí thực hiện các nội dung
+tại Kế hoạch này do Ngân sách nhà nước đảm bảo.
+
+IV. TỔ CHỨC THỰC
+HIỆN
+
+1. Cục An toàn thông tin (ATTT) là đầu
+mối, có trách nhiệm theo dõi, đôn đốc các đơn vị, tổ chức, doanh nghiệp, cá
+nhân có liên quan trong việc triển khai Kế hoạch này; xây dựng Kế hoạch triển
+khai hàng năm trình Lãnh đạo Bộ Thông tin và Truyền thông phê duyệt và tổ chức
+triển khai thực hiện.
+
+2. Vụ Kế hoạch - Tài chính cân đối, bố
+trí ngân sách thực hiện các nhiệm vụ được giao theo Kế hoạch.
+
+3. Sở Thông tin và Truyền thông các tỉnh,
+thành phố trực thuộc Trung ương trên cơ sở Kế hoạch này, tham mưu cho Chủ tịch Ủy
+ban nhân dân cấp tỉnh ban hành kế hoạch triển khai tại địa phương và phối hợp với
+các đơn vị chức năng của Bộ Thông tin và Truyền thông trong quá trình triển
+khai Kế hoạch này.
+
+4. Các đơn vị chuyên trách về Công
+nghệ thông tin của các bộ, cơ quan ngang bộ và cơ quan thuộc Chính phủ trên cơ
+sở Kế hoạch này, tham mưu cho Lãnh đạo các cơ quan ban hành kế hoạch triển khai
+tại cơ quan và phối hợp với các đơn vị chức năng của Bộ Thông tin và Truyền
+thông trong quá trình triển khai Kế hoạch này./.
+
+ 
+
+PHỤ LỤC
+
+NHIỆM VỤ TRIỂN KHAI THỰC HIỆN QUYẾT ĐỊNH
+SỐ 21/QĐ-TTG NGÀY 06 THÁNG 01 NĂM 2021 CỦA THỦ TƯỚNG CHÍNH PHỦ PHÊ DUYỆT ĐỀ ÁN
+“ĐÀO TẠO VÀ PHÁT TRIỂN NGUỒN NHÂN LỰC AN TOÀN THÔNG TIN GIAI ĐOẠN 2021 - 2025”
+
+(Kèm theo Quyết định số 212/QĐ-BTTTT ngày
+19/2/2021 của Bộ trưởng Bộ Thông tin và Truyền
+thông)
+
+Stt
+
+Nội dung thực hiện
+
+Đơn
+ vị thực hiện
+
+Thời
+ gian thực hiện
+
+I
+
+Triển khai các nhiệm vụ giao cho
+ Bộ Thông tin và Truyền thông
+
+ 
+
+ 
+
+1
+
+Đào tạo ngắn hạn về ATTT theo hình
+ thức tập trung, trực tuyến hoặc kết hợp giữa tập trung và trực tuyến về ATTT
+ cho các cơ quan, tổ chức Nhà nước; hỗ trợ các cơ quan, tổ chức của Đảng, tổ
+ chức chính trị - xã hội đào tạo, tập huấn về ATTT khi có đề nghị từ các cơ
+ quan, tổ chức này
+
+Cục
+ ATTT
+
+2021-2025
+
+1.1
+
+Đào tạo về quản lý, nghiệp vụ và kỹ
+ năng ATTT cho đội ngũ lãnh đạo, quản lý
+
+Cục
+ ATTT
+
+2021-2025
+
+1.2
+
+Cập nhật, nâng cao kỹ năng kỹ thuật
+ ATTT cho đội ngũ nhân lực kỹ thuật làm về ATTT và CNTT theo chuẩn, khung
+ chương trình, yêu cầu kỹ năng ATTT do Bộ Thông tin và Truyền thông ban hành,
+ hướng dẫn, các chương trình đào tạo theo các chứng chỉ quốc tế và thi lấy chứng
+ chỉ quốc tế
+
+Cục
+ ATTT
+
+2021-2025
+
+1.3
+
+Đào tạo về kiến thức, kỹ năng ATTT
+ của người dùng cho các cán bộ, công chức, viên chức và người lao động có sử dụng
+ thiết bị CNTT
+
+Cục
+ ATTT
+
+2021-2025
+
+1.4
+
+Đào tạo về kiến thức, kỹ năng, kỹ
+ thuật ATTT cho đội ngũ nhân lực kỹ thuật ATTT và CNTT của các đơn vị thành
+ viên mạng lưới ứng cứu sự cố ATTT mạng quốc gia.
+
+Cục
+ ATTT
+
+2021-2025
+
+1.5
+
+Xây dựng hệ thống, chương trình,
+ tài liệu để phục vụ kiểm tra, đánh giá năng lực ATTT trong quá trình đào tạo.
+ Lựa chọn một số cán bộ có kết quả học tập tốt để tham gia thi lấy các chứng
+ chỉ quốc tế
+
+Cục
+ ATTT
+
+2021-2025
+
+2
+
+Đào tạo 200 chuyên gia ATTT để bảo
+ vệ cho các hệ thống thông tin của Đảng và Nhà nước Lựa chọn 200 cán bộ của
+ các bộ, ngành, địa phương, các cơ quan, tổ chức đang được giao nhiệm vụ quản
+ lý, vận hành các hệ thống thông tin Chính phủ điện tử, hệ thống thông tin của
+ các cơ quan Đảng và Nhà nước đế tổ chức đào tạo thành các chuyên gia ATTT.
+ Chú trọng đào tạo cho đội ngũ này theo hình thức đào tạo chuyên sâu và thường
+ xuyên đào tạo, cập nhật về kỹ năng, kỹ thuật ATTT và nghiệp vụ ATTT nâng cao;
+ đào tạo theo hình thức thực tập thực tế, tại chỗ (on-the-job training), tổ chức
+ đào tạo ngắn hạn cập nhật công nghệ, nâng cao kiến thức, kỹ năng ATTT ở nước
+ ngoài
+
+Cục
+ ATTT
+
+2021-2025
+
+3
+
+Xây dựng, ban hành quy định chuẩn kỹ
+ năng về ATTT, tiêu chuẩn, tiêu chí, yêu cầu chuyên môn, nghiệp vụ ATTT cho
+ cán bộ chuyên trách về ATTT và CNTT nhằm chuẩn hóa và
+ nâng cao chất lượng nguồn nhân lực ATTT trong các cơ quan, tổ chức, doanh
+ nghiệp; hướng dẫn, phối hợp tổ chức hoạt động kiểm tra, đánh giá năng lực
+ ATTT đối với cán bộ kỹ thuật, quản lý về ATTT và CNTT trong các cơ quan, tổ
+ chức
+
+Cục
+ ATTT
+
+2021-2025
+
+4
+
+Triển khai hệ thống, chương trình,
+ tài liệu để tổ chức đào tạo trực tuyến rộng rãi và kiểm tra kết quả đầu ra nhằm
+ phổ biến kiến thức, kỹ năng ATTT cho đông đảo người dân trong cộng đồng
+
+Cục
+ ATTT
+
+2021-2025
+
+5
+
+Vận động các cơ sở đào tạo, doanh
+ nghiệp, chuyên gia ATTT và các tổ chức, cá nhân có liên quan kết hợp tổ chức
+ miễn phí hoặc cấp học bổng các khóa đào tạo về kiến thức, kỹ năng, kỹ thuật
+ ATTT cho các cơ quan, tổ chức, doanh nghiệp (đặc biệt là doanh nghiệp vừa và
+ nhỏ) và người dùng liên quan đến thiết bị CNTT trong cộng đồng
+
+Cục
+ ATTT
+
+2021-2025
+
+6
+
+Tổ chức điều phối thực hiện Đề án
+
+ 
+
+ 
+
+6.1
+
+Đề xuất thành lập Ban Điều hành để
+ chỉ đạo, điều hành, điều phối việc tổ chức triển khai Đề án
+
+Cục
+ ATTT
+
+Quý II/2021
+
+6.2
+
+Hàng năm tổ chức đề xuất và triển
+ khai các nhiệm vụ duy trì hoạt động của Ban Điều hành
+
+Cục
+ ATTT
+
+2021-2025
+
+6.3
+
+Điều hòa, phối hợp hoạt động triển
+ khai Đề án trên phạm vi cả nước; đôn đốc, kiểm tra, giám sát công tác triển
+ khai nhằm bảo đảm hiệu quả của Đề án; sơ kết, tổng kết, tổng hợp thông tin, số
+ liệu về tình hình, kết quả thực hiện Đề án phục vụ công tác chỉ đạo, điều
+ hành triển khai Đề án
+
+Cục
+ ATTT
+
+2021-2025
+
+6.4
+
+Phối hợp với các cơ quan, tổ chức,
+ đơn vị, doanh nghiệp, hội, hiệp hội tổ chức các câu lạc bộ sinh viên ATTT, hoạt
+ động hướng nghiệp, cuộc thi ATTT, hội chợ việc làm; hỗ trợ sinh viên thực tập,
+ làm việc thực tế tại các tổ chức, doanh nghiệp, viện nghiên cứu và các hoạt động khác theo yêu cầu thực tiễn
+
+Cục
+ ATTT
+
+2021-2025
+
+6.5
+
+Truyền thông, nâng cao nhận thức của
+ các cấp, các ngành, các cơ sở đào tạo giáo dục và toàn xã hội về đào tạo,
+ phát triển nguồn nhân lực ATTT
+
+Cục
+ ATTT
+
+2021-2025
+
+6.6
+
+Khảo sát, học tập kinh nghiệm đào tạo,
+ phát triển nguồn nhân lực ATTT trong và ngoài nước. Tăng cường hợp tác quốc tế
+ để trao đổi kinh nghiệm về đào tạo, nghiên cứu, phát triển nguồn nhân lực
+ ATTT
+
+Cục
+ ATTT
+
+2021-2025
+
+7
+
+Tổ chức liên quan xây dựng mạng lưới
+ liên kết các chuyên gia nghiên cứu, tư vấn công nghệ về
+ ATTT trong nước và quốc tế
+
+Cục
+ ATTT
+
+2021-2025
+
+II
+
+Phối hợp thực hiện các nhiệm vụ
+ giao cho bộ, ngành, địa phương
+
+ 
+
+ 
+
+1
+
+Đào tạo đội ngũ giảng viên, nghiên
+ cứu viên về ATTT ở nước ngoài
+
+Cục
+ ATTT
+
+2021-2025
+
+2
+
+Đào tạo thạc sĩ, kỹ sư, cử nhân
+ ATTT trong nước
+
+Cục
+ ATTT
+
+2021-2025
+
+3
+
+Đào tạo kiến thức, kỹ năng ATTT cho
+ các tổ chức, cá nhân
+
+Cục
+ ATTT
+
+2021-2025
+
+4
+
+Tổ chức triển khai đào tạo kiến thức,
+ kỹ năng cơ bản về ATTT trong các cơ sở giáo dục
+
+Cục
+ ATTT
+
+2021-2025
+
+5
+
+Đưa nội dung đào tạo về ATTT vào
+ các chương trình đào tạo, bồi dưỡng, xếp hoặc nâng ngạch bậc cho tất cả các vị
+ trí việc làm và các chương trình đào tạo, bồi dưỡng cho cán bộ, công chức,
+ viên chức theo định kỳ trong cơ quan nhà nước
+
+Cục
+ ATTT
+
+2021-2025
+
+6
+
+Các nhiệm vụ khác (nếu có)
+
+Cục
+ ATTT
+
+2021-2025--- THÔNG TIN THÊM ---
+Ten: Quyết định 212/QĐ-BTTTT năm 2021 Kế hoạch triển khai thực hiện Quyết định 21/QĐ-TTg phê duyệt Đề án “Đào tạo và phát triển nguồn nhân lực an toàn thông tin giai đoạn 2021-2025” do Bộ trưởng Bộ Thông tin và Truyền thông ban hành
+So hieu: 212/QĐ-BTTTT
+Loai van ban: Quyết định
+Linh vuc nganh: Lao động - Tiền lương, Công nghệ thông tin
+Noi ban hanh: Bộ Thông tin và Truyền thông
+Nguoi ky: Nguyễn Huy Dũng
+Ngay ban hanh: 19/02/2021
+Ngay hieu luc: 19/02/2021
+Ngay dang: Dữ liệu đang cập nhật
+So cong bao: Dữ liệu đang cập nhật
+Tinh trang: Còn hiệu lực
+
+
+--- MỤC LỤC ---
+- QUYẾT ĐỊNH BAN HÀNH KẾ HOẠCH TRIỂN KHAI THỰC HIỆN QUYẾT ĐỊNH SỐ 21/QĐ-TTg NGÀY 06 THÁNG 01 NĂM 2021 CỦA THỦ TƯỚNG CHÍNH PHỦ PHÊ DUYỆT ĐỀ ÁN “ĐÀO TẠO VÀ PHÁT TRIỂN NGUỒN NHÂN LỰC AN TOÀN THÔNG TIN GIAI ĐOẠN 2021 - 2025”
+  - Điều 1. Ban hành Kế hoạch triển khai thực hiện Quyết định số 21/QĐ-TTg ngày 06 tháng 01 năm 2021 của Thủ tướng Chính phủ phê duyệt Đề án “Đào tạo và phát triển nguồn nhân lực an toàn thông tin giai đoạn 2021 - 2025” theo Phụ lục kèm theo Quyết định này.
+  - Điều 2. Quyết định này có hiệu lực thi hành kể từ ngày ký ban hành.
+  - Điều 3. Chánh Văn phòng, Vụ trưởng Vụ Kế hoạch - Tài chính, Cục trưởng Cục An toàn thông tin, Thủ trưởng các cơ quan, đơn vị thuộc Bộ, Thủ trưởng các đơn vị có liên quan chịu trách nhiệm thi hành Quyết định này./.
+- KẾ HOẠCH TRIỂN KHAI THỰC HIỆN QUYẾT ĐỊNH SỐ 21/QĐ-TTg NGÀY 06 THÁNG 01 NĂM 2021 CỦA THỦ TƯỚNG CHÍNH PHỦ PHÊ DUYỆT ĐỀ ÁN “ĐÀO TẠO VÀ PHÁT TRIỂN NGUỒN NHÂN LỰC AN TOÀN THÔNG TIN GIAI ĐOẠN 2021 - 2025”
+  - I. MỤC ĐÍCH, YÊU CẦU
+  - II. NỘI DUNG THỰC HIỆN
+  - III. NGUỒN KINH PHÍ THỰC HIỆN
+  - IV. TỔ CHỨC THỰC HIỆN
+  - PHỤ LỤC NHIỆM VỤ TRIỂN KHAI THỰC HIỆN QUYẾT ĐỊNH SỐ 21/QĐ-TTG NGÀY 06 THÁNG 01 NĂM 2021 CỦA THỦ TƯỚNG CHÍNH PHỦ PHÊ DUYỆT ĐỀ ÁN “ĐÀO TẠO VÀ PHÁT TRIỂN NGUỒN NHÂN LỰC AN TOÀN THÔNG TIN GIAI ĐOẠN 2021 - 2025”
+
+--- VĂN BẢN LIÊN QUAN ---
+
+Van ban duoc can cu:
+  - Quyết định 21/QĐ-TTg năm 2021 về phê duyệt Đề án "Đào tạo và phát triển nguồn nhân lực an toàn thông tin ... (ID: 461722)
+  - Nghị định 17/2017/NĐ-CP quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Thông tin và ... (ID: 340185)
+
+Van ban lien quan cung noi dung:
+  - Quyết định 49/QĐ-BTTTT năm 2022 về Kế hoạch Phát triển 1.000 nhân lực an toàn thông tin chuyên nghiệp do Bộ trưởng Bộ Thông tin và Truyền thông ban hành (ID: 501422)
+  - Quyết định 3428/QÐ-BVHTTDL năm 2021 phê duyệt Kế hoạch đào tạo, phát triển nguồn nhân lực công nghệ của Bộ Văn hóa, Thể thao và Du lịch đến năm 2025 (ID: 498990)
+  - Quyết định 1447/QĐ-LĐTBXH năm 2021 về Kế hoạch triển khai Quyết định 1446/QĐ-TTg phê duyệt Chương trình "Đào tạo, đào tạo lại nâng cao kỹ năng nguồn nhân lực đáp ứng yêu cầu của cuộc Cách mạng công nghiệp lần thứ tư" do Bộ trưởng Bộ Lao động - Thương binh và Xã hội ban hành (ID: 498262)
+  - Nghị quyết 139/NQ-CP năm 2021 về ký kết Công hàm trao đổi Dự án học bổng phát triển nguồn nhân lực giữa Chính phủ nước Cộng hòa xã hội chủ nghĩa Việt Nam và Chính phủ Nhật Bản do Chính phủ ban hành (ID: 494528)
+  - Thông tư 95/2021/TT-BTC quy định về việc lập dự toán, quản lý sử dụng và quyết toán kinh phí thực hiện Đề án “Đào tạo và phát triển nguồn nhân lực an toàn thông tin giai đoạn 2021-2025” do Bộ trưởng Bộ Tài chính ban hành (ID: 494811)
+  - Quyết định 1627/QĐ-TTg năm 2021 về ký Thỏa thuận bổ sung giữa Việt Nam và Ô-xtrây-lia về Chương trình phát triển nguồn nhân lực Việt Nam - Ô-xtrây-lia giai đoạn 2021-2025 do Thủ tướng Chính phủ ban hành (ID: 489447)
+  - Công văn 235/CATTT-ATHTTT năm 2020 hướng dẫn mô hình bảo đảm an toàn thông tin cấp bộ, tỉnh do Cục An toàn thông tin ban hành (ID: 467948)
+  - Công văn 6205/VPCP-KSTT năm 2018 về thực hiện Đề án Đào tạo và phát triển nguồn nhân lực an toàn, an ninh thông tin đến năm 2020 do Văn phòng Chính phủ ban hành (ID: 386241)
+  - Quyết định 1233/QĐ-BTTTT năm 2015 về Chương trình khung và mẫu giấy chứng nhận đào tạo ngắn hạn về an toàn thông tin trong khuôn khổ Đề án “Đào tạo và phát triển nguồn nhân lực an toàn, an ninh thông tin đến năm 2020” do Bộ trưởng Bộ Thông tin và Truyền thông ban hành (ID: 284529)
+  - Quyết định 99/QĐ-TTg năm 2014 phê duyệt Đề án "Đào tạo và phát triển nguồn nhân lực an toàn, an ninh thông tin đến năm 2020" do Thủ tướng Chính phủ ban hành (ID: 219222)

@@ -1,0 +1,1413 @@
+BỘ QUỐC PHÒNG
+
+ -------
+
+CỘNG HÒA XÃ HỘI
+ CHỦ NGHĨA VIỆT NAM
+
+ Độc lập - Tự do - Hạnh phúc 
+
+ ---------------
+
+Số:
+ 121/2016/TT-BQP
+
+Hà Nội, ngày 30
+ tháng 08 năm 2016
+
+ 
+
+THÔNG TƯ
+
+BAN
+HÀNH QUY TRÌNH KIỂM ĐỊNH KỸ THUẬT AN TOÀN ĐỐI VỚI THIẾT BỊ KẸP ĐẠN BẰNG KHÍ NÉN
+SỬ DỤNG TRONG BỘ QUỐC PHÒNG (QTKĐ 05:2016/BQP)
+
+Căn cứ Nghị định số 34/2016/NĐ-CP
+ngày 14 tháng 5 năm 2016 của Chính phủ quy định chi tiết một số điều và biện
+pháp thi hành Luật Ban hành văn bản quy phạm pháp
+luật năm 2015;
+
+Căn cứ Nghị định số 44/2016/NĐ-CP
+ngày 15 tháng 5 năm 2016 của Thủ tướng Chính phủ quy định chi tiết một số điều
+của Luật an toàn, vệ sinh lao động về hoạt động
+kiểm định kỹ thuật an toàn lao động, huấn luyện an toàn, vệ sinh lao động và
+quan trắc môi trường lao động;
+
+Căn cứ Nghị định số 35/2013/NĐ-CP ngày 22 tháng
+4 năm 2013 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ
+chức của Bộ Quốc phòng;
+
+Xét đề nghị của Chủ nhiệm Tổng cục Kỹ thuật,
+
+Bộ trưởng Bộ Quốc phòng ban hành quy trình kiểm
+định kỹ thuật an toàn đối với máy, thiết bị có yêu cầu nghiêm ngặt về an toàn
+lao động trong Bộ Quốc phòng.
+
+Điều 1. Ban hành kèm theo Thông tư này quy trình kiểm định kỹ thuật
+an toàn đối với thiết bị kẹp đạn bằng khí nén sử dụng trong Bộ Quốc phòng.
+
+Ký hiệu: QTKĐ 05:2016/BQP.
+
+Điều 2. Hiệu lực thi hành
+
+Thông tư này có hiệu lực thi hành kể từ ngày 15
+tháng 10 năm 2016.
+
+Điều 3. Trách nhiệm thi hành
+
+Chủ nhiệm Tổng cục Kỹ thuật, Thủ trưởng các cơ
+quan, đơn vị liên quan chịu trách nhiệm thi hành Thông tư này./.
+
+ 
+
+ 
+
+Nơi nhận:
+
+- Bộ LĐTB&XH;
+
+ - BTTM, TCKT (3b), TCHC, TCCNQP;
+
+ - Các QK, QĐ, BĐ, QC, BC;
+
+ - BTL: BĐBP, CSBVN, TĐHN, BVLCTHCM;
+
+ - Cục Kiểm tra văn bản Bộ Tư pháp;
+
+ - Vụ Pháp chế/BQP, Công báo, Cổng TTĐTCP, Cổng TTĐT/BQP;
+
+ - Lưu: VT, NCTH, PC; Q43.
+
+KT. BỘ TRƯỞNG
+
+ THỨ TRƯỞNG
+
+ Thượng tướng Bế Xuân Trường
+
+ 
+
+QUY TRÌNH KIỂM ĐỊNH
+
+QTKĐ 05:2016/BQP
+
+THIẾT BỊ KẸP ĐẠN BẰNG KHÍ NÉN.
+
+QUY TRÌNH KIỂM ĐỊNH KỸ THUẬT AN TOÀN
+
+(Ban hành kèm
+theo Thông tư số 121/2016/TT-BQP ngày 30 tháng 8 năm 2016 của Bộ trưởng Bộ Quốc
+phòng)
+
+ 
+
+Mục lục
+
+Lời nói đầu
+
+1. Phạm vi và đối tượng áp dụng
+
+1.1. Phạm vi áp dụng
+
+1.2. Đối tượng áp dụng
+
+2. Các hình thức kiểm định
+
+3. Tài liệu viện dẫn
+
+4. Thuật ngữ và định nghĩa
+
+4.1. Thiết bị kẹp đạn bằng khí nén
+
+4.2. Kiểm định kỹ thuật lần đầu
+
+4.3 Kiểm định kỹ thuật định kỳ
+
+4.4. Kiểm định kỹ thuật bất thường
+
+5. Các bước kiểm định
+
+6. Phương tiện kiểm định
+
+7. Điều kiện kiểm định
+
+8. Chuẩn bị kiểm định
+
+8.1. Thống nhất kế hoạch kiểm định
+
+8.2. Kiểm tra hồ sơ, lý lịch
+
+8.3. Chuẩn bị lực lượng và trang thiết bị kiểm định
+
+8.4. Chuẩn bị các biện pháp an toàn khi kiểm định
+
+9. Tiến hành kiểm định
+
+9.1. Kiểm tra kỹ thuật bên ngoài
+
+9.2. Kiểm tra kỹ thuật bên trong
+
+9.3. Kiểm tra kỹ thuật, thử nghiệm
+
+9.4. Kiểm tra
+vận hành
+
+10. Xử lý kết quả kiểm định
+
+11. Thời hạn kiểm định
+
+ 
+
+Lời nói đầu
+
+Quy trình kiểm định kỹ thuật an toàn đối với thiết
+bị kẹp đạn bằng khí nén sử dụng trong Bộ Quốc phòng (QTKĐ 05:2016/BQP) do Tổng
+cục Kỹ thuật biên soạn, trình Bộ trưởng Bộ Quốc phòng ban hành kèm theo Thông
+tư số 121/2016/TT-BQP ngày 30 tháng 8 năm 2016.
+
+ 
+
+THIẾT
+BỊ KẸP ĐẠN BẰNG KHÍ NÉN.
+
+QUY
+TRÌNH KIỂM ĐỊNH KỸ THUẬT AN TOÀN
+
+1. PHẠM VI VÀ ĐỐI TƯỢNG ÁP DỤNG
+
+1.1. Phạm vi áp dụng:
+
+Quy trình này áp dụng đối với các thiết bị kẹp đạn
+bằng khí nén (sau đây gọi tắt là thiết bị) thuộc Danh mục máy, thiết bị, vật tư
+có yêu cầu nghiêm ngặt về an toàn lao động đặc thù quân sự do Bộ Quốc phòng ban
+hành.
+
+Căn cứ vào quy trình này, đơn vị kiểm định kỹ thuật
+an toàn trong Bộ Quốc phòng (đơn vị kiểm định) áp dụng trực tiếp hoặc xây dựng
+quy trình cụ thể, chi tiết cho từng dạng, loại thiết bị kẹp đạn bằng khí nén
+nhưng không được trái với quy định của quy trình này. Các doanh nghiệp, cơ
+quan, tổ chức, đơn vị sử dụng các thiết bị kẹp đạn bằng khí nén có trách nhiệm
+phối hợp với đơn vị kiểm định theo quy định của pháp luật.
+
+1.2. Đối tượng áp dụng:
+
+- Các cơ quan, tổ chức, đơn vị trong Quân đội quản
+lý, sử dụng thiết bị kẹp đạn bằng khí nén (gọi chung là cơ sở);
+
+- Các đơn vị kiểm định kỹ thuật an toàn trong Quân
+đội;
+
+- Các cơ quan quản lý nhà nước có liên quan.
+
+2. CÁC HÌNH THỨC KIỂM ĐỊNH
+
+Quy trình kiểm
+định kỹ thuật an toàn thiết bị kẹp đạn bằng khí nén phải được thực hiện đầy đủ
+trong những trường hợp sau:
+
+- Kiểm định kỹ thuật an toàn lần đầu, trước khi đưa
+vào sử dụng;
+
+- Kiểm định kỹ thuật an toàn định kỳ;
+
+- Kiểm định kỹ thuật an toàn bất thường.
+
+3. TÀI LIỆU VIỆN DẪN
+
+Bao gồm những Quy chuẩn, Tiêu chuẩn kỹ thuật quốc
+gia về an toàn sau:
+
+- QCVN 02: 2008/BCT:
+Quy chuẩn kỹ thuật quốc gia về an toàn trong bảo quản, vận chuyển sử dụng và
+tiêu hủy vật liệu nổ công nghiệp;
+
+- QCVN: 01-2008/BLĐTBXH:
+Quy chuẩn kỹ thuật quốc gia vè an toàn lao động nồi hơi và bình chịu áp lực;
+
+- TCVN 8366: 2010:
+Bình chịu áp lực - Yêu cầu kỹ thuật an toàn về thiết kế, chế tạo;
+
+- TCVN 6155:1996:
+Bình chịu áp lực - Yêu cầu kỹ thuật an toàn về lắp đặt, sử dụng, sửa chữa;
+
+- TCVN 6156:1996:
+Bình chịu áp lực - Yêu cầu kỹ thuật an toàn về lắp đặt, sử dụng, sửa chữa,
+phương pháp thử;
+
+- TCVN 6008:2010:
+Thiết bị áp lực. Mối hàn. Yêu cầu kỹ thuật và phương pháp thử;
+
+- TCVN 6174:1997:
+Vật liệu nổ công nghiệp yêu cầu an toàn về sản xuất, thử nổ và nghiệm thu;
+
+- TCVN-18-2006:
+Quy phạm trang bị điện.
+
+Trong trường hợp các quy chuẩn kỹ thuật quốc gia và
+tiêu chuẩn quốc gia viện dẫn tại quy trình kiểm định này có bổ sung, sửa đổi hoặc
+thay thế thì áp dụng theo quy định tại văn bản mới nhất.
+
+Việc kiểm định các chỉ tiêu về kỹ thuật an toàn của
+thiết bị kẹp đạn bằng khí nén có thể áp dụng theo tiêu chuẩn khác khi có đề nghị
+của cơ sở sử dụng, chế tạo với điều kiện tiêu chuẩn
+đó phải có các chỉ tiêu kỹ thuật về an toàn bằng hoặc cao hơn so với các chỉ
+tiêu quy định trong các tiêu chuẩn quốc
+gia được viện dẫn trong quy trình này.
+
+4. THUẬT NGỮ VÀ ĐỊNH NGHĨA
+
+Quy trình này sử dụng các thuật ngữ, định nghĩa
+trong các tài liệu viện dẫn nêu trên và một số thuật ngữ, định nghĩa trong quy
+trình này được hiểu như sau:
+
+4.1. Thiết bị kẹp đạn bằng khí nén:
+
+Là thiết bị dùng để kẹp chặt quả đạn trên giá mà lực
+kẹp được tạo ra là do áp lực khí nén của một thiết bị áp lực cung cấp.
+
+4.2. Kiểm tra kỹ thuật an toàn hằng năm:
+
+Là hoạt động đánh giá định kỳ về tình trạng kỹ thuật
+an toàn của thiết bị theo quy định của nội quy, quy trình kỹ thuật, quy chuẩn,
+tiêu chuẩn kỹ thuật an toàn trong quá trình sử dụng.
+
+4.3. Kiểm định kỹ thuật an toàn lần đầu:
+
+Là hoạt động đánh giá tình trạng kỹ thuật an toàn của
+thiết bị theo các quy chuẩn, tiêu chuẩn kỹ thuật an toàn khi lắp đặt, trước khi
+đưa vào để sử dụng lần đầu.
+
+4.4. Kiểm định kỹ thuật an toàn định kỳ:
+
+Là hoạt động đánh giá tình trạng kỹ thuật an toàn của
+thiết bị theo các quy chuẩn, tiêu chuẩn kỹ thuật an khi hết thời hạn của lần kiểm
+định trước.
+
+4.5. Kiểm định kỹ thuật an toàn bất thường:
+
+Là hoạt động đánh giá tình trạng kỹ thuật an toàn của
+thiết bị theo các quy chuẩn, tiêu chuẩn kỹ
+thuật an toàn, cụ thể:
+
+- Sau khi sửa chữa, nâng cấp, cải tạo có ảnh hưởng
+tới tình trạng kỹ thuật an toàn của thiết bị.
+
+- Sau khi thay đổi vị trí lắp đặt;
+
+- Khi có yêu cầu của cơ sở hoặc cơ quan có thẩm quyền.
+
+5. CÁC BƯỚC KIỂM ĐỊNH
+
+Tiến hành kiểm tra kỹ thuật an toàn theo các bước
+sau:
+
+Bước 1. Chuẩn bị kiểm định;
+
+Bước 2. Kiểm tra hồ sơ kỹ thuật;
+
+Bước 3. Kiểm tra bên ngoài, bên trong;
+
+Bước 4. Kiểm tra kỹ thuật thử nghiệm;
+
+Bước 5. Kiểm tra vận hành;
+
+Bước 6. Xử lý kết quả kiểm định.
+
+Lưu ý:
+
+- Nhà đặt thiết bị phải thỏa mãn các yêu cầu thiết
+kế về phòng nổ, phòng cháy chữa cháy và chống sét;
+
+- Trước khi thực hiện việc kiểm định: Các biện pháp
+an toàn phải được thực hiện, thiết bị phải được vệ sinh sạch sẽ; cơ sở phải cử
+người chứng kiến kiểm định;
+
+- Các bước kiểm tra tiếp theo chỉ được tiến hành
+khi kết quả kiểm tra ở bước trước đó đã đạt yêu cầu. Tất cả các kết quả kiểm
+tra của từng bước phải được ghi chép đầy đủ vào bản ghi chép hiện trường theo mẫu
+quy định tại Phụ lục 01 ban hành kèm theo quy trình
+này và lưu lại đầy đủ tại tổ chức kiểm định.
+
+6. PHƯƠNG TIỆN KIỂM ĐỊNH
+
+Các phương tiện phục vụ kiểm định phải phù hợp với đối tượng kiểm định, phải được kiểm
+định, hiệu chuẩn theo quy định và còn hạn kiểm định, bao gồm:
+
+6.1. Thiết bị, dụng cụ phục vụ khám xét:
+
+- Thiết bị chiếu sáng có điện áp của nguồn không
+quá 12 V và an toàn phòng nổ;
+
+- Búa kiểm tra có khối lượng từ 0,3 kg đến 0,5 kg;
+
+- Kính lúp có độ phóng đại phù hợp;
+
+- Dụng cụ đo đạc cơ khí: Thước cặp, thước dây;
+
+- Thiết bị kiểm tra bên trong: Thiết bị nội soi;
+
+- Thiết bị đo điện trở tiếp đất.
+
+6.2. Thiết bị, dụng cụ phục vụ thử bền, thử kín:
+
+- Thiết bị tạo áp suất có đặc tính kỹ thuật (lưu lượng,
+áp suất) phù hợp với đối tượng thử;
+
+- Phương tiện, thiết bị kiểm tra độ kín.
+
+6.3. Thiết bị, dụng cụ đo lường:
+
+Áp kế và lực kế có cấp chính xác và thang đo phù hợp
+với áp suất thử.
+
+6.4. Thiết bị, dụng cụ đo, kiểm tra chuyên dùng khác (nếu cần):
+
+- Thiết bị siêu âm chiều dầy;
+
+- Thiết bị kiểm tra chất lượng mối hàn;
+
+- Thiết bị kiểm tra chất lượng bề mặt kim loại.
+
+7. ĐIỀU KIỆN KIỂM ĐỊNH
+
+Khi tiến hành kiểm định thiết bị kẹp đạn bằng khí
+nén phải đảm bảo các điều kiện sau đây:
+
+7.1. Thiết bị phải ở trạng thái sẵn sàng đưa vào kiểm
+định;
+
+7.2. Hồ sơ, tài liệu thiết bị phải đầy đủ;
+
+7.3. Các yếu tố môi trường, thời tiết không làm ảnh
+hưởng tới kết quả kiểm định;
+
+7.4. Các trang thiết bị, dụng cụ kiểm định đầy đủ
+và phù hợp với đối tượng kiểm định;
+
+7.5. Các điều kiện về an toàn, vệ sinh lao động phải
+đáp ứng để kiểm định thiết bị.
+
+8. CHUẨN BỊ KIỂM ĐỊNH
+
+Trước khi tiến hành kiểm định thiết bị kẹp đạn bằng
+khí nén, phải thực hiện các công việc chuẩn
+bị sau:
+
+8.1. Thống nhất kế hoạch kiểm định, công việc kiểm
+định và phối hợp giữa đơn vị kiểm định với cơ sở để đáp ứng các yêu cầu sau:
+
+8.1.1. Chuẩn bị hồ sơ, tài liệu thiết bị;
+
+8.1.2. Vệ sinh bên trong, bên ngoài thiết bị;
+
+8.1.3. Chuẩn bị các công việc đảm bảo cho việc xem
+xét tất cả các bộ phận của thiết bị;
+
+8.1.4. Chuẩn bị điều kiện về nhân lực, vật tư phục
+vụ kiểm định; cử người tham gia và chứng
+kiến kiểm định.
+
+8.2. Kiểm tra hồ sơ, lý lịch:
+
+Căn cứ vào hình thức kiểm định để kiểm tra, xem xét
+hồ sơ của thiết bị:
+
+8.2.1. Khi kiểm định kỹ thuật an toàn lần đầu:
+
+- Kiểm tra lý lịch: Theo mẫu tại QCVN 01-2008-BLĐTBXH, lưu ý xem xét các tài liệu
+sau:
+
++ Các chỉ tiêu về kim loại chế tạo thiết bị và hệ
+thống ống áp lực;
+
++ Tính toán sức bền các bộ phận chịu áp lực;
+
++ Bản vẽ cấu tạo ghi đủ các kích thước chính;
+
++ Hướng dẫn vận hành, bảo dưỡng sửa chữa;
+
+- Hồ sơ xuất xưởng của thiết bị:
+
++ Các chứng chỉ về kim loại chế tạo, kim loại hàn;
+
++ Kết quả kiểm
+tra chất lượng mối hàn;
+
++ Biên bản nghiệm thử xuất xưởng.
+
+- Các báo cáo kết quả hiệu chuẩn thiết bị đo lường;
+biên bản kiểm tra tiếp đất, chống sét, thiết bị bảo vệ thiết bị (nếu có);
+
+- Hồ sơ lắp đặt thiết bị:
+
++ Tên cơ sở lắp đặt và cơ sở sử dụng;
+
++ Đặc tính của những vật liệu bổ sung khi lắp đặt;
+
++ Những số liệu về hàn như: Công nghệ hàn, mã hiệu
+que hàn, tên thợ hàn và kết quả thử nghiệm các mối hàn;
+
++ Các biên bản kiểm định từng bộ phận thiết bị (nếu
+có);
+
++ Các tài liệu về kiểm tra khác đối với các bộ phận
+của thiết bị và hệ thống đường ống áp lực;
+
++ Nhà đặt thiết bị gồm: Mặt bằng bố trí thiết bị,
+các quy định về khoảng cách an toàn, hệ thống điện, hệ thống chiếu sáng, hệ thống
+chống sét, bố trí cửa thoát hiểm, công
+trình vệ sinh;
+
++ Biên bản nghiệm thu tổng
+thể thiết bị, bản vẽ hoàn công.
+
+8.2.2. Khi kiểm định kỹ thuật an toàn định kỳ:
+
+- Kiểm tra lý lịch, biên bản kiểm định và phiếu kết
+quả kiểm định thiết bị lần trước;
+
+- Hồ sơ về quản lý sử dụng, vận hành, bảo dưỡng;
+biên bản thanh tra, kiểm tra thiết bị (nếu
+có).
+
+8.2.3. Khi kiểm định bất thường:
+
+Xem xét các hồ sơ như Mục 8.2.2
+và xem xét bổ sung các hồ sơ sau:
+
+- Trường hợp sửa chữa cải tạo, nâng cấp: Các hồ sơ
+liên quan đến thiết kế sửa chữa, cải tạo, nâng cấp, biên bản nghiệm thu sau sửa
+chữa, cải tạo, nâng cấp;
+
+- Trường hợp thay đổi vị trí lắp đặt: Xem xét bổ
+sung hồ sơ lắp đặt.
+
+8.2.4. Trường hợp sau khi thiết bị không làm việc từ
+12 tháng trở lên xem xét hồ sơ như kiểm định định kỳ.
+
+Lưu ý:
+
+Đối với những thiết bị kẹp đạn bằng khí nén rõ xuất
+xứ nhưng hồ sơ kỹ thuật không đầy đủ thì phải tiến hành lập bổ sung.
+
+Đánh giá:
+
+Kết quả kiểm tra hồ sơ, lý lịch thiết bị kẹp đạn bằng
+khí nén đạt yêu cầu khi:
+
+- Lý lịch thiết bị đầy đủ và đáp ứng Điều 2.4 QCVN 01-2008/BLĐTBXH;
+
+- Nếu không đảm bảo, cơ sở phải có biện pháp khắc
+phục bổ sung theo Điều 3.2.2 QCVN 01-2008/BLĐTBXH.
+
+8.3. Chuẩn bị lực lượng và trang thiết bị kiểm định:
+
+Bố trí kiểm định viên và người chứng kiến kiểm định.
+Chuẩn bị đầy đủ phương tiện, trang bị thực
+hiện kiểm định.
+
+8.4. Chuẩn bị các biện pháp an toàn khi kiểm định:
+
+Xác định và thống nhất biện pháp an toàn với cơ sở
+trước khi thực hiện kiểm định. Chuẩn bị đầy đủ phương tiện bảo vệ cá nhân đảm bảo
+an toàn cho quá trình kiểm định.
+
+9. TIẾN HÀNH KIỂM ĐỊNH
+
+9.1. Kiểm tra bên ngoài:
+
+Kiểm tra bên
+ngoài theo trình tự các bước sau:
+
+9.1.1. Kiểm tra
+phần lắp đặt và độ chính xác các kích thước hình học:
+
+Kiểm tra lắp
+ghép giữa cụm kẹp thân đạn và bình áp lực với đường ống áp lực.
+
+Các chỉ tiêu đánh giá theo quy định của tài liệu
+thiết kế.
+
+9.1.2. Kiểm tra sự đồng bộ, đầy đủ, kết cấu và bố
+trí hợp lý và khả năng làm việc an toàn của thiết bị, trong đó tập trung vào:
+
+- Mặt bằng, vị trí lắp đặt;
+
+- Hệ thống chiếu sáng vận hành;
+
+- Hệ thống tiếp đất an toàn điện, chống sét (nếu
+có);
+
+- Kiểm tra
+các thông số kỹ thuật trên nhãn mác so với hồ sơ lý lịch;
+
+- Kiểm tra tình trạng của các thiết bị an toàn, đo
+lường và phụ trợ về số lượng, kiểu loại, các thông số kỹ thuật so với thiết kế
+và tiêu chuẩn quy định;
+
+- Các loại van lắp trên thiết bị về số lượng, kiểu
+loại, các thông số kỹ thuật so với thiết kế và tiêu chuẩn quy định;
+
+- Kiểm tra
+tình trạng các thiết bị phụ trợ khác kèm theo phục vụ quá trình làm việc của
+thiết bị kẹp đạn bằng khí nén;
+
+- Kiểm tra tình trạng mối hàn, bề mặt kim loại các
+bộ phận chịu áp lực của thiết bị. Khi có nghi ngờ thì yêu cầu cơ sở áp dụng các
+biện pháp kiểm tra bổ sung phù hợp để
+đánh giá chính xác hơn;
+
+- Kiểm tra
+các chi tiết ghép nối.
+
+Đánh giá:
+
+Kết quả kiểm
+tra bên ngoài thiết bị kẹp đạn bằng khí nén đạt yêu cầu khi:
+
+- Đáp ứng theo thiết kế của nhà chế tạo và các quy
+định tại Mục 3 TCVN 6155:1996;
+
+- Đáp ứng các quy định theo Mục 8 TCVN 8366:2010;
+
+- Không có các vết nứt, phồng, móp, bị ăn mòn quá
+quy định, dấu vết xì môi chất ở các bộ phận
+chịu áp lực và ở các mối hàn, mối nối.
+
+9.2. Kiểm tra kỹ thuật bên trong (bình áp lực):
+
+9.2.1. Kiểm tra kết cấu bên trong bình chịu áp lực;
+
+9.2.2. Kiểm tra tình trạng cặn bẩn, han gỉ, ăn mòn
+thành kim loại bên trong của bình chịu áp lực;
+
+9.2.3. Kiểm tra tình trạng mối hàn, bề mặt kim loại
+các bộ phận chịu áp lực của thiết bị. Khi có nghi ngờ thì yêu cầu cơ sở áp dụng
+các biện pháp kiểm tra bổ sung phù hợp để đánh giá chính xác hơn;
+
+9.2.4. Đối với những vị trí không thể tiến hành kiểm tra bên trong khi kiểm định thì việc kiểm
+tra tình trạng kỹ thuật phải được thực hiện theo tài liệu kỹ thuật của nhà chế
+tạo. Trong tài liệu phải ghi rõ: Hạng mục, phương pháp và trình tự kiểm tra;
+
+9.2.5. Khi không có khả năng kiểm tra bên trong do
+đặc điểm kết cấu của bình chịu áp lực, cho phép thay thế việc kiểm tra bên
+trong bằng thử thủy lực với áp suất thử quy định và kiểm tra những bộ phận có
+thể khám xét được;
+
+9.2.6. Khi phát hiện có những khuyết tật làm giảm độ
+bền thành chịu áp lực (thành bị mỏng, các mối nối mòn...) cần giảm thông số làm
+việc của bình. Việc giảm thông số phải dựa trên cơ sở tính lại sức bền theo các
+số liệu thực tế.
+
+Đánh giá:
+
+Kết quả kiểm
+tra bên trong thiết bị kẹp đạn bằng khí nén đạt yêu cầu khi:
+
+- Đáp ứng theo thiết kế của nhà chế tạo và các quy
+định tại Mục 3 TCVN 8366:2010;
+
+- Không có các vết nứt, phồng, móp, bị ăn mòn quá
+quy định ở các bộ phận chịu áp lực và ở các mối hàn, mối nối.
+
+9.3. Kiểm tra kỹ thuật, thử nghiệm:
+
+9.3.1. Kiểm tra khe hở lắp ghép giữa cụm kẹp thân đạn
+và bình áp lực với đường ống áp lực của
+thiết bị.
+
+Đánh giá:
+
+Kết quả kiểm tra
+đạt yêu cầu khi đáp ứng yêu cầu theo tài liệu thiết kế.
+
+9.3.2. Kiểm tra điện trở nối đất của thiết bị:
+
+Yêu cầu điện trở nối đất đo được ≤ 5 Ω quy định tại
+Mục 1.7.52 Phần I TCVN-18-2006: Quy phạm
+trang bị điện.
+
+9.3.3. Bình áp lực của thiết bị kẹp đạn bằng khí
+nén được miễn thử bền khi kiểm định lần đầu nếu thời gian thử xuất xưởng không
+quá 24 tháng, được bảo quản tốt, khi vận chuyển, lắp đặt không có biểu hiện bị
+va đập, biến dạng. Biên bản kiểm định phải ghi rõ lý do và đính kèm các biên bản
+nghiệm thử thủy lực xuất xưởng của cơ sở
+chế tạo, biên bản nghiệm thu lắp đặt.
+
+9.3.4. Thử thủy
+lực (thử bền) bình áp lực:
+
+Thời hạn thử bền bình áp lực của thiết bị không quá
+04 năm một lần, trong trường hợp kiểm định bất thường theo Mục 3.12 TCVN 6156:1996 thì phải tiến hành thử bền với
+các yêu cầu như sau:
+
+- Phải có biện pháp khống chế sự tác động của quá
+trình thử thủy lực đến các thiết bị bảo vệ tự động, đo kiểm và đảm bảo các thiết
+bị này không bị phá hỏng trong quá trình thử. Trong trường hợp không thực hiện
+được thì cô lập hoặc được tháo ra thử riêng;
+
+- Môi chất thử là nước; nhiệt độ môi chất thử dưới
+50 °C và không thấp hơn nhiệt độ môi trường xung quanh quá 5 °C;
+
+- Áp suất thử, thời gian duy trì áp suất thử được
+quy định trong Bảng 1 và Bảng 2:
+
+Bảng 1
+
+Áp suất, thời gian
+duy trì thử bền sau khi lắp đặt lần đầu
+
+Áp suất thiết kế
+
+ (bar)
+
+Áp suất thử
+
+ (bar)
+
+Thời gian duy trì
+
+ (phút)
+
+p ≤ 5
+
+2p nhưng không nhỏ
+ hơn 2 bar
+
+20
+
+p > 5
+
+1,5p nhưng không
+ nhỏ hơn 10 bar
+
+20
+
+Bảng 2
+
+Áp suất, thời gian
+duy trì thử bền khi kiểm định định kỳ, bất thường
+
+Áp suất làm việc định
+ mức (bar)
+
+Áp suất thử
+
+ (bar)
+
+Thời gian duy trì
+ (phút)
+
+plv ≤ 5
+
+1,5 plv
+ nhưng không nhỏ hơn 2 bar
+
+05
+
+plv >
+ 5
+
+1,25 plv
+ nhưng không nhỏ hơn plv + 3 bar
+
+05
+
+Ghi chú: plv - Áp suất
+làm việc.
+
+- Trình tự thử bền:
+
++ Nạp môi chất thử và tiến hành tăng áp suất từ từ
+để tránh hiện tượng dãn nở đột ngột làm hỏng thiết bị, duy trì áp suất thử
+trong thời gian 5 phút và nghiêm cấm việc gõ búa. Theo dõi, phát hiện các hiện
+tượng: Biến dạng, nứt... trong quá trình thử thủy lực.
+
++ Giảm áp suất từ từ về áp suất làm việc định mức,
+giữ nguyên áp suất này trong suốt quá trình thử. Sử dụng búa kiểm tra gõ vào các
+vị trí có nghi ngờ sau đó giảm áp suất về (0); khắc phục các tồn tại (nếu có)
+và kiểm tra lại kết quả đã khắc phục được.
+
+Đánh giá:
+
+Kết quả thử
+thủy lực bình áp lực thiết bị kẹp đạn bằng
+khí nén đạt đạt yêu cầu khi đạt các yêu cầu sau:
+
+- Không có hiện tượng nứt;
+
+- Không tìm ra bụi nước, rỉ nước qua các mối nối;
+
+- Không phát hiện có biến dạng;
+
+- Áp suất không giảm khi duy trì ở áp suất thử. Nếu
+do xì hở ở các van, mặt bích... mà áp suất thử giảm không quá 3% trong thời
+gian duy trì thử, thì cũng coi như việc thử thủy
+lực đạt yêu cầu. Nếu áp suất giảm quá 3% trong thời gian duy trì thử, thì phải
+khắc phục các chỗ hở và thử lại.
+
+9.3.5. Trong trường hợp bình áp lực của thiết bị được
+miễn thử thủy lực theo quy định của TCVN
+về kỹ thuật an toàn hiện hành thì phải ghi rõ lý do trong biên bản kiểm định và
+đính kèm các biên bản nghiệm thử thủy lực khi xuất xưởng của cơ sở chế tạo,
+biên bản nghiệm thu lắp đặt (nếu có).
+
+9.3.6. Thử kín bình áp lực của thiết bị:
+
+- Môi chất thử là khí trơ hoặc không khí;
+
+- Áp suất thử bằng áp suất làm việc định mức;
+
+- Thời gian duy trì áp suất thử kín đảm bảo được sự
+ổn định của áp suất môi chất thử và thời gian kiểm tra nhưng không dưới 30
+phút;
+
+- Trình tự thử: Nạp môi chất thử vào hệ thống và
+tăng áp suất đến đến áp suất thử;
+
+- Phát hiện các rò rỉ bằng dung dịch xà phòng hoặc
+bằng các biện pháp khác.
+
+Đánh giá:
+
+Kết quả thử
+kín bình áp lực của thiết bị kẹp đạn bằng khí nén đạt yêu cầu khi:
+
+- Không có sự rò rỉ khí;
+
+- Độ sụt áp cho phép trong thời gian duy trì áp suất
+thử trong 30 phút đầu: ≤ 0,5 % áp suất thử.
+
+9.4. Kiểm tra
+vận hành (thử vận hành):
+
+9.4.1. Kiểm tra đầy đủ các điều kiện để thiết bị có
+thế vận hành bình thường;
+
+9.4.2. Căn cứ vào quy trình, phối hợp với cơ sở đưa
+thiết bị vào làm việc, xem xét tình trạng làm việc của thiết bị và các phụ kiện
+kèm theo; sự làm việc của các thiết bị đo lường, bảo vệ;
+
+9.4.3. Khi thiết bị làm việc ổn định, tiến hành
+nâng áp suất để kiểm tra và hiệu chỉnh áp
+suất làm việc của van an toàn, thực hiện niêm chì van an toàn.
+
+Có thể cho phép hiệu chỉnh và niêm chì van an toàn
+trên thiết bị chuyên dùng không cùng quá trình thử vận hành và phải lắp vào nồi
+trước khi kiểm tra vận hành;
+
+Chú ý:
+
+Van an toàn đã được kẹp chì ở giá trị:
+
++ plv + 0,05 - Khi áp suất làm việc cho
+phép đến 3 bar;
+
++ 1,15plv - Khi áp suất làm việc cho
+phép trên 3 bar đến 60 bar;
+
++ 1,10plv - Khi áp suất làm việc cho
+phép trên 60 bar.
+
+Đánh giá:
+
+Kết quả thử vận hành thiết bị kẹp đạn bằng khí nén
+đạt yêu cầu khi:
+
+Thiết bị kẹp đạn, các thiết bị phụ trợ và các thiết
+bị đo lường bảo vệ làm việc bình thường, đạt các thông số kỹ thuật định mức.
+
+10. XỬ LÝ KẾT QUẢ KIỂM ĐỊNH
+
+10.1. Lập biên bản kiểm định với đầy đủ nội dung
+theo mẫu quy định tại Phụ lục II ban hành kèm theo
+quy trình này.
+
+10.2. Thông qua biên bản kiểm định:
+
+Thành phần tham gia thông qua biên bản kiểm định bắt
+buộc tối thiểu phải có các thành viên sau:
+
+- Đại diện cơ sở hoặc người được cơ sở ủy quyền;
+
+- Người được giao tham gia và chứng kiến kiểm định;
+
+- Kiểm định viên thực hiện việc kiểm định.
+
+Khi biên bản được thông qua, kiểm định viên, người
+tham gia chứng kiến kiểm định, đại diện cơ sở hoặc người được cơ sở ủy quyền
+cùng ký và đóng dấu (nếu có) vào biên bản. Biên bản kiểm định được lập thành
+hai (02) bản, mỗi bên có trách nhiệm lưu giữ 01 bản.
+
+10.3. Ghi tóm tắt kết quả kiểm định vào lý lịch của
+thiết bị (ghi rõ họ tên kiểm định viên, ngày tháng năm kiểm định và đóng dấu kiểm
+định).
+
+10.4. Dán tem kiểm định: Kiểm định viên dán tem kiểm
+định khi thiết bị kiểm định đạt yêu cầu (mẫu tem kiểm định theo quy định của Bộ
+Quốc phòng). Tem được dán ở vị trí dễ quan sát.
+
+10.5. Chứng nhận kết quả kiểm định:
+
+- Khi thiết bị đạt được các yêu cầu kỹ thuật an
+toàn, đơn vị kiểm định cấp giấy chứng nhận kết quả kiểm định cho thiết bị trong
+thời hạn 05 ngày làm việc kể từ ngày thông qua biên bản kiểm định tại cơ sở;
+
+- Khi thiết bị được kiểm định không đạt các yêu cầu
+thì chỉ thực hiện theo 10.1 và 10.2; chỉ cấp cho cơ sở biên bản kiểm định trong
+đó phải ghi rõ lý do thiết bị không đạt yêu cầu kiểm định, kiến nghị cơ sở khắc
+phục và thời hạn thực hiện các kiến nghị đó; đồng thời gửi biên bản kiểm định
+và thông báo về cơ quan quản lý nhà nước về an toàn lao động trong Quân đội.
+
+11. THỜI HẠN KIỂM ĐỊNH
+
+11.1. Kiểm định định kỳ thiết bị: Không quá 02 năm/lần;
+thử bền: Không quá 04 năm/lần. Đối với thiết bị đã sử dụng trên 12 năm: Không
+quá 01 năm/lần.
+
+11.2. Trường hợp nhà chế tạo quy định thời hạn khám
+nghiệm ngắn hơn thì theo quy định của nhà chế tạo.
+
+11.3. Khi rút ngắn chu kỳ kiểm định, kiểm định viên
+phải nêu rõ lý do trong biên bản kiểm định.
+
+11.4. Khi thời hạn kiểm định được quy định trong
+các quy chuẩn kỹ thuật quốc gia thì thực hiện theo quy định của quy chuẩn đó.
+
+11.5. Những trường hợp phải kiểm định bất thường,
+thực hiện theo Mục 4.5 Quy trình này./.
+
+ 
+
+PHỤ LỤC I
+
+MẪU BẢN GHI CHÉP TẠI HIỆN TRƯỜNG
+
+(Cơ quan quản lý cấp
+ trên)
+
+(Tên đơn vị KĐ)
+
+ -------
+
+CỘNG HÒA XÃ HỘI
+ CHỦ NGHĨA VIỆT NAM
+
+ Độc lập - Tự do - Hạnh phúc 
+
+ ---------------
+
+Số:
+
+…………., ngày ….
+ tháng …. năm 20….
+
+ 
+
+BẢN GHI CHÉP TẠI
+HIỆN TRƯỜNG
+
+(Ghi đầy đủ thông
+số kiểm tra, thử nghiệm theo đúng quy
+trình kiểm định)
+
+I. Thông tin chung
+
+Tên thiết bị:
+.........................................................................................................................
+
+Tên tổ chức, cá nhân đề nghị: ............................................................................................
+
+Địa chỉ (trụ sở chính của cơ sở):
+........................................................................................
+
+Địa chỉ (vị trí) lắp đặt: ..........................................................................................................
+
+Nội dung buổi làm việc với cơ sở: 
+
+- Làm việc với ai: (thông tin)
+...............................................................................................
+
+- Người chứng kiến:
+............................................................................................................
+
+II. Kiểm tra hồ sơ
+
+1. Kiểm định lần đầu
+
+a) Hồ sơ xuất xưởng:
+
+- Lý lịch của thiết bị;
+
+- Bản vẽ cấu tạo của thiết bị;
+
+- Hướng dẫn vận hành, bảo dưỡng;
+
+- Các chứng chỉ kiểm
+tra chất lượng kim loại chế tạo, kim loại hàn, mối hàn.
+
+b) Hồ sơ lắp đặt:
+
+- Thiết kế lắp đặt;
+
+- Biên bản nghiệm thu.
+
+c) Các chứng chỉ kiểm tra về đo lường:
+
+- Phiếu kiểm định áp kế;
+
+- Phiếu kiểm định nhiệt kế;
+
+- Biên bản kiểm tra
+tiếp địa, chống sét;
+
+- Biên bản kiểm tra thiết bị bảo vệ .
+
+2. Kiểm định định kỳ và bất thường
+
+a) Lý lịch, biên bản kiểm định và phiếu kết quả kiểm
+định lần trước.
+
+b) Nhật ký vận hành.
+
+c) Sổ theo dõi sửa chữa và bảo dưỡng; biên bản thanh
+tra, kiểm tra (nếu có).
+
+d) Hồ sơ về sửa
+chữa; biên bản kiểm tra về chất lượng sửa
+chữa, thay đổi.
+
+III. Kiểm tra kỹ thuật bên ngoài, bên trong thiết
+bị
+
+1. Kiểm tra
+bên ngoài
+
+a) Vị trí lắp đặt (khoảng cách với tường, giữa các
+thiết bị):
+
+b) Ánh sáng vận hành:
+
+c) Thông số kỹ thuật so với lý lịch:
+
+- Mã hiệu:
+
+- Số chế tạo:
+
+- Nước chế tạo:
+
+- Tháng năm chế tạo:
+
+- Áp suất thiết kế:
+
+- Áp suất làm việc:
+
+- Nhiệt độ làm việc :
+
+- Dung tích:.
+
+d) Tình trạng han gỉ, rạn, nứt, phồng, dộp thành
+kim loại thiết bị:
+
+e) Tình trạng sơn:
+
+2. Kiểm tra
+bên trong (bình áp lực)
+
+a) Thiết bị sử dụng khi kiểm tra:
+
+b) Tình trạng cặn bẩn:
+
+c) Bề mặt kim loại, mối hàn:
+
+- Móp méo:
+
+- Phồng:
+
+- Han gỉ:
+
+- Rạn nứt:
+
+3. Tình trạng của thiết bị kiểm tra, an toàn, dụng
+cụ đo kiểm
+
+- Van an toàn (số lượng, loại, DN, PN, áp suất đặt):
+
+- Áp kế (số lượng, thang đo, đơn vị đo, cấp chính
+xác, số tem, thời hạn hiệu chuẩn):
+
+- Nhiệt kế (số lượng, thang đo, đơn vị đo, cấp
+chính xác, số tem, thời hạn hiệu chuẩn):
+
+IV. Thử kín
+
+1. Môi chất thử:
+
+2. Áp suất thử:
+
+3. Thời gian thử:
+
+4. Áp kế mẫu (thang đo, đơn vị đo, cấp chính xác, số
+tem, thời hạn hiệu chuẩn):
+
+5. Nhiệt kế (thang đo, đơn vị đo, cấp chính xác, số
+tem, thời hạn hiệu chuẩn):
+
+- Kết quả:
+
++ Tình trạng rò rỉ:
+
++ Tình trạng biến dạng:
+
++ Độ tụt áp:
+
+V. Thử vận hành
+
+1. Tình trạng làm việc của thiết bị:
+
+2. Tình trạng làm việc của van an toàn:
+
+3. Tình trạng làm việc của thiết bị đo lường:
+
+4. Tình trạng làm việc của thiết bị phụ trợ:
+
+ 
+
+ 
+
+KIỂM ĐỊNH VIÊN
+
+(Ký, ghi rõ họ và tên)
+
+ 
+
+PHỤ LỤC II
+
+MẪU BIÊN BẢN KIỂM ĐỊNH KỸ THUẬT AN TOÀN
+
+(Cơ quan quản lý cấp
+ trên)
+
+ (Tên tổ chức KĐ)
+
+ -------
+
+CỘNG HÒA XÃ HỘI
+ CHỦ NGHĨA VIỆT NAM
+
+ Độc lập - Tự do - Hạnh phúc 
+
+ ---------------
+
+ 
+
+………., ngày …..
+ tháng ….. năm …..
+
+ 
+
+BIÊN BẢN KIỂM ĐỊNH
+KỸ THUẬT AN TOÀN
+
+(Thiết bị Kẹp đạn bằng khí nén)
+
+Số: …………../BBKĐ
+
+Chúng tôi gồm:
+
+1……………………………………….. Số hiệu kiểm định viên:
+........................................... 
+
+2……………………………………….. Số hiệu kiểm định viên:
+........................................... 
+
+Thuộc: ................................................................................................................................
+
+Số đăng ký chứng nhận của đơn vị kiểm định:
+.................................................................. 
+
+Đã tiến hành kiểm định: .....................................................................................................
+
+Của (ghi rõ tên cơ sở):........................................................................................................
+
+Địa chỉ (trụ sở chính của cơ sở):
+........................................................................................
+
+Địa chỉ (vị trí) lắp đặt:
+..........................................................................................................
+
+Quy trình kiểm định áp dụng:...............................................................................................
+
+Chứng kiến kiểm định và thông qua biên bản:
+................................................................... 
+
+1………………………………………………………… 
+ Chức vụ: ...................................... 
+
+2………………………………………………………… 
+ Chức vụ: ...................................... 
+
+I. THÔNG SỐ CƠ BẢN
+CỦA THIẾT BỊ
+
+Loại, mã hiệu: ………………………………… Lực kẹp thiết kế:
+....................................... N
+
+Số chế tạo: ……………………………………. Lực kẹp làm việc:
+..................................... N
+
+Năm chế tạo: ………………………………….. Nhà chế tạo:
+.............................................. 
+
+Công dụng của thiết bị:
+......................................................................................................
+
+Ngày kiểm định lần trước: …………………………………… Do:
+........................................ 
+
+II. HÌNH THỨC KIỂM
+ĐỊNH
+
+Lần đầu □ ;
+ Định kỳ □ , Bất thường □
+
+III. NỘI DUNG KIỂM
+ĐỊNH
+
+1. Kiểm tra hồ sơ
+
+- Nhận xét: ..........................................................................................................................
+
+- Đánh giá kết quả: Đạt
+□ Không
+đạt □
+
+2. Kiểm tra kỹ thuật bên ngoài, bên trong
+
+Hạng mục kiểm
+ tra
+
+Đạt
+
+Không đạt
+
+Vị trí lắp đặt
+
+ 
+
+ 
+
+Các cơ cấu kẹp chặt
+
+ 
+
+ 
+
+Chiếu sáng vận hành
+
+ 
+
+ 
+
+Tiếp địa chống sét, tiếp địa an toàn.
+
+ 
+
+ 
+
+Tình trạng bề mặt kim loại các bộ phận chịu áp lực
+
+ 
+
+ 
+
+Tình trạng mối hàn, các mối nối.
+
+ 
+
+ 
+
+Tình trạng các ống áp lực
+
+ 
+
+ 
+
+Các van, thiết bị phụ trợ
+
+ 
+
+ 
+
+Van an toàn
+
+ 
+
+ 
+
+Áp kế
+
+ 
+
+ 
+
+Nhiệt kế
+
+ 
+
+ 
+
+Các thiết bị an toàn, đo lường, tự động khác
+
+ 
+
+ 
+
+- Nhận xét: ..............................................................................................................................
+
+- Đánh giá kết quả:
+ Đạt
+□ Không đạt □
+
+3. Thử nghiệm
+
+Nội dung
+
+Môi chất thử
+
+Áp suất thử
+ (bar)
+
+Thời gian duy
+ trì (phút)
+
+Thử kín
+
+ 
+
+ 
+
+ 
+
+Thử vận hành
+
+ 
+
+ 
+
+ 
+
+- Nhận xét:
+.........................................................................................................................
+
+- Đánh giá kết quả:
+ Đạt
+□
+ Không
+đạt □
+
+IV. KẾT LUẬN VÀ
+KIẾN NGHỊ
+
+1. Thiết bị được kiểm định có kết quả:
+ Đạt □
+ Không đạt □
+
+2. Đã được dán tem kiểm định số: ……………………… Tại vị
+trí: ………………
+
+3. Lực kẹp làm việc: ……………………… bar
+
+4. Áp suất làm việc của bình áp lực: ……………….. bar
+
+5. Áp suất đặt của van an toàn: ………………….. bar
+
+6. Các kiến nghị:
+................................................................................................................
+
+Thời gian thực hiện kiến nghị:
+...........................................................................................
+
+V. THỜI HẠN KIỂM
+ĐỊNH
+
+Kiểm định định kỳ ngày …………… tháng ………… năm
+................................................. 
+
+Lý do rút ngắn thời hạn: ....................................................................................................
+
+Biên bản đã được thông qua ngày ……. tháng ………. năm
+............................................ 
+
+Tại:
+....................................................................................................................................
+
+Biên bản được lập thành …………..bản, mỗi bên giữ …………
+bản.
+
+Chúng tôi, những kiểm định viên thực hiện kiểm định
+hoàn toàn chịu trách nhiệm về tính chính xác các nhận xét và đánh giá kết quả
+kiểm định ghi trong biên bản này
+
+ 
+
+CHỦ CƠ SỞ
+
+Cam kết thực hiện đầy đủ, đúng hạn các kiến nghị
+
+ (ký tên, đóng dấu)
+
+NGƯỜI CHỨNG KIẾN
+
+(ký, ghi rõ họ, tên)
+
+KIỂM ĐỊNH VIÊN
+
+(ký, ghi rõ họ, tên)--- THÔNG TIN THÊM ---
+Ten: Thông tư 121/2016/TT-BQP quy trình kiểm định kỹ thuật an toàn đối với thiết bị kẹp đạn bằng khí nén sử dụng trong Bộ Quốc phòng (QTKĐ 05:2016/BQP)
+So hieu: 121/2016/TT-BQP
+Loai van ban: Thông tư
+Linh vuc nganh: Lao động - Tiền lương
+Noi ban hanh: Bộ Quốc phòng
+Nguoi ky: Bế Xuân Trường
+Ngay ban hanh: 30/08/2016
+Ngay hieu luc: 15/10/2016
+Ngay dang: 25/09/2016
+So cong bao: Từ số 989 đến số 990
+Tinh trang: Còn hiệu lực
+
+
+--- MỤC LỤC ---
+- THÔNG TƯ BAN HÀNH QUY TRÌNH KIỂM ĐỊNH KỸ THUẬT AN TOÀN ĐỐI VỚI THIẾT BỊ KẸP ĐẠN BẰNG KHÍ NÉN SỬ DỤNG TRONG BỘ QUỐC PHÒNG (QTKĐ 05:2016/BQP)
+  - Điều 1 Ban hành kèm theo Thông tư này quy trình kiểm định kỹ thuật an toàn đối với thiết bị kẹp đạn bằng khí nén sử dụng trong Bộ Quốc phòng.
+  - Điều 2. Hiệu lực thi hành
+  - Điều 3. Trách nhiệm thi hành
+- QUY TRÌNH KIỂM ĐỊNH QTKĐ 05:2016/BQP THIẾT BỊ KẸP ĐẠN BẰNG KHÍ NÉN. QUY TRÌNH KIỂM ĐỊNH KỸ THUẬT AN TOÀN
+- THIẾT BỊ KẸP ĐẠN BẰNG KHÍ NÉN. QUY TRÌNH KIỂM ĐỊNH KỸ THUẬT AN TOÀN
+  - 1. PHẠM VI VÀ ĐỐI TƯỢNG ÁP DỤNG
+  - 2. CÁC HÌNH THỨC KIỂM ĐỊNH
+  - 3. TÀI LIỆU VIỆN DẪN
+  - 4. THUẬT NGỮ VÀ ĐỊNH NGHĨA
+  - 5. CÁC BƯỚC KIỂM ĐỊNH
+  - 6. PHƯƠNG TIỆN KIỂM ĐỊNH
+  - 7. ĐIỀU KIỆN KIỂM ĐỊNH
+  - 8. CHUẨN BỊ KIỂM ĐỊNH
+  - 9. TIẾN HÀNH KIỂM ĐỊNH
+  - 10. XỬ LÝ KẾT QUẢ KIỂM ĐỊNH
+  - 11. THỜI HẠN KIỂM ĐỊNH
+  - PHỤ LỤC I MẪU BẢN GHI CHÉP TẠI HIỆN TRƯỜNG
+  - PHỤ LỤC II MẪU BIÊN BẢN KIỂM ĐỊNH KỸ THUẬT AN TOÀN
+
+--- VĂN BẢN LIÊN QUAN ---
+
+Van ban duoc can cu:
+  - Nghị định 44/2016/NĐ-CP hướng dẫn Luật an toàn, vệ sinh lao động về hoạt động kiểm định kỹ thuật an toàn ... (ID: 299837)
+  - Nghị định 34/2016/NĐ-CP quy định chi tiết và biện pháp thi hành Luật ban hành văn bản quy phạm pháp luật (ID: 312070)
+
+Van ban lien quan cung noi dung:
+  - Thông tư 126/2016/TT-BQP quy trình kiểm định kỹ thuật an toàn đối với xà cẩu đạn tên lửa sử dụng trong Bộ Quốc phòng (QTKĐ 10:2016/BQP) (ID: 325374)
+  - Thông tư 128/2016/TT-BQP quy trình kiểm định kỹ thuật an toàn đối với tời điện, tời thủ công nâng thuốc phóng, thuốc nổ sử dụng trong Bộ Quốc phòng (QTKĐ 12:2016/BQP) (ID: 325375)
+  - Thông tư 127/2016/TT-BQP quy trình kiểm định kỹ thuật an toàn đối với xe cẩu ghế dù sử dụng trong Bộ Quốc phòng (QTKĐ 11:2016/BQP) (ID: 325399)
+  - Thông tư 142/2014/TT-BQP quy định công tác kiểm định kỹ thuật an toàn máy, thiết bị, vật tư có yêu cầu nghiêm ngặt về an toàn lao động trong Bộ Quốc phòng (ID: 263105)
+  - Thông tư 06/2014/TT-BLĐTBXH quy định hoạt động kiểm định kỹ thuật an toàn lao động đối với máy, thiết bị, vật tư có yêu cầu nghiêm ngặt về an toàn lao động thuộc trách nhiệm quản lý của Bộ Lao động - Thương binh và Xã hội (ID: 223681)
+  - Thông tư 07/2014/TT-BLĐTBXH về 27 quy trình kiểm định kỹ thuật an toàn đối với máy, thiết bị có yêu cầu nghiêm ngặt về an toàn lao động thuộc trách nhiệm quản lý của Bộ Lao động - Thương binh và Xã hội ban hành (ID: 223682)

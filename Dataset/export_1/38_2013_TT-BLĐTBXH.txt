@@ -1,0 +1,359 @@
+BỘ LAO ĐỘNG -
+ THƯƠNG BINH VÀ XÃ HỘI
+
+ --------
+
+CỘNG HÒA XÃ HỘI
+ CHỦ NGHĨA VIỆT NAM
+
+ Độc lập - Tự do - Hạnh phúc
+
+ ----------------
+
+Số:
+ 38/2013/TT-BLĐTBXH
+
+Hà Nội, ngày 30
+ tháng 12 năm 2013
+
+ 
+
+THÔNG TƯ
+
+BAN
+HÀNH QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ AN TOÀN LAO ĐỘNG ĐỐI VỚI ỐNG CÁCH ĐIỆN CÓ
+CHỨA BỌT VÀ SÀO CÁCH ĐIỆN DẠNG ĐẶC DÙNG ĐỂ LÀM VIỆC KHI CÓ ĐIỆN
+
+Căn cứ Nghị định số 106/2012/NĐ-CP
+ngày 20 tháng 12 năm 2012 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn
+và cơ cấu tổ chức của Bộ Lao động - Thương binh và Xã hội;
+
+Căn cứ Nghị định số 127/2007/NĐ-CP
+ngày 01 tháng 8 năm 2007 của Chính phủ quy định chi tiết một số điều của Luật Tiêu chuẩn và Quy chuẩn kỹ thuật;
+
+Căn cứ Nghị định số 132/2008/NĐ-CP
+ngày 31 tháng 12 năm 2008 của Chính phủ quy định chi tiết thi hành một số điều
+của Luật Chất lượng sản phẩm, hàng hóa;
+
+Theo đề nghị của Cục trưởng Cục An toàn lao động;
+
+Bộ trưởng Bộ Lao động - Thương binh và Xã hội quy
+định:
+
+Điều 1. Ban hành kèm theo Thông
+tư này Quy chuẩn kỹ thuật quốc gia về an toàn lao động đối với ống cách điện có
+chứa bọt và sào cách điện dạng đặc dùng để làm việc khi có điện.
+
+Ký hiệu: QCVN 14:2013/BLĐTBXH.
+
+Điều 2. Quy chuẩn kỹ thuật
+quốc gia về an toàn lao động đối với với ống cách điện có chứa bọt và sào cách
+điện dạng đặc dùng để làm việc khi có điện có hiệu lực từ ngày 28 tháng 6 năm
+2014.
+
+Điều 3. Các Bộ, cơ quan
+ngang Bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân các tỉnh, thành phố trực thuộc
+Trung ương và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành./. 
+
+ 
+
+ 
+
+Nơi nhận:
+
+- Thủ tướng, các Phó Thủ tướng Chính phủ;
+
+ - Văn phòng Quốc hội; Văn phòng Chính phủ;
+
+ - Các Bộ, cơ quan ngang Bộ, cơ quan thuộc CP;
+
+ - UBND các tỉnh, thành phố trực thuộc TƯ;
+
+ - Sở LĐTBXH các tỉnh, thành phố trực thuộc TƯ;
+
+ - Tòa án nhân dân tối cao;
+
+ - Viện kiểm sát nhân dân tối cao;
+
+ - Cục kiểm tra VBQPPL - Bộ Tư pháp;
+
+ - Công báo;
+
+ - Website Bộ LĐTBXH;
+
+ - Lưu: VT, PC, Cục ATLĐ.
+
+KT. BỘ TRƯỞNG
+
+ THỨ TRƯỞNG
+
+ Bùi Hồng Lĩnh
+
+ 
+
+QCVN 14: 2013/BLĐTBXH
+
+QUY
+CHUẨN KỸ THUẬT QUỐC GIA VỀ AN TOÀN LAO ĐỘNG ĐỐI VỚI ỐNG CÁCH ĐIỆN CÓ CHỨA BỌT
+VÀ SÀO CÁCH ĐIỆN DẠNG ĐẶC DÙNG ĐỂ LÀM VIỆC KHI CÓ ĐIỆN
+
+National
+technical regulation on safe work of Insulating foam-filled tubes and solid
+rods for live working
+
+Lời nói đầu
+
+QCVN 14:2013/BLĐTBXH do Cục An toàn lao động biên
+soạn, Bộ Lao động - Thương binh và Xã hội ban hành theo Thông tư số
+38/2013/TT-BLĐTBXH ngày 30 tháng 12 năm 2013, sau khi có ý kiến thẩm định của Bộ
+Khoa học và Công nghệ.
+
+ 
+
+QUY CHUẨN KỸ THUẬT
+QUỐC GIA VỀ AN TOÀN LAO ĐỘNG ĐỐI VỚI ỐNG CÁCH ĐIỆN CÓ CHỨA BỌT VÀ SÀO CÁCH ĐIỆN
+DẠNG ĐẶC DÙNG ĐỂ LÀM VIỆC KHI CÓ ĐIỆN
+
+National
+technical regulation on safe work of Insulating foam-filled tubes and solid
+rods for live working
+
+1. QUY ĐỊNH CHUNG
+
+1.1. Phạm vi điều chỉnh
+
+Quy chuẩn này quy định các yêu cầu an toàn đối với
+các ống cách điện có chứa bọt và sào cách điện dạng đặc làm từ vật liệu tổng hợp,
+được thiết kế làm các dụng cụ, trang bị để làm việc có điện trên hệ thống đang
+vận hành ở điện áp từ 1 kV trở lên.
+
+1.2. Đối tượng áp dụng
+
+1.2.1. Các tổ chức, cá nhân sản xuất, nhập khẩu,
+lưu thông và sử dụng ống cách điện có chứa bọt và sào cách điện dạng đặc làm từ
+vật liệu tổng hợp.
+
+1.2.2. Các tổ chức kiểm tra chất lượng sản phẩm
+hàng hóa, các cơ quan quản lý nhà nước và các tổ chức, cá nhân khác có liên
+quan.
+
+1.3. Giải thích từ ngữ
+
+Trong quy chuẩn này, các thuật ngữ dưới đây được hiểu
+như sau:
+
+1.3.1. Thử nghiệm điển hình: thử nghiệm một hoặc
+nhiều trang bị được sản xuất theo một thiết kế nhất định để chứng tỏ thiết kế
+này đáp ứng các yêu cầu kỹ thuật nhất định.
+
+1.3.2. Thử nghiệm thường xuyên: thử nghiệm mà từng
+trang bị riêng rẽ phải chịu trong hoặc sau khi sản xuất để đảm bảo nó phù hợp với
+một số tiêu chí nhất định.
+
+1.3.3. Thử nghiệm lấy mẫu: thử nghiệm trên một số
+trang bị được lấy ngẫu nhiên từ một nhóm.
+
+1.3.4. Thử nghiệm chấp nhận: thử nghiệm theo thỏa
+thuận để chứng minh với khách hàng rằng trang bị đáp ứng một số điều kiện nhất
+định về yêu cầu kỹ thuật của nó.
+
+2. QUY ĐỊNH VỀ KỸ THUẬT
+
+2.1. Sào cách điện dạng đặc được chế tạo với ba phần
+chính:
+
+- Phần làm việc.
+
+- Phần cách điện.
+
+- Phần tay cầm.
+
+2.2. Phần cách điện nằm giữa phần làm việc và tay cầm
+cần được chế tạo bằng các vật liệu cách điện có tính chất cách điện và tính cơ
+học cao.
+
+2.3. Cấu trúc phần làm việc phải đảm bảo có thể gắn
+chắc với các thiết bị và phần cách điện khi thao tác.
+
+2.4. Sào làm bằng ống cách điện phải đảm bảo không
+cho hơi ẩm và bụi lọt vào phía trong.
+
+2.5. Cấu tạo và khối lượng của sào cách điện dạng đặc
+phải đảm bảo thuận lợi cho một người thao tác.
+
+2.6. Vật liệu làm ống cách điện có chứa bọt hoặc
+sào cách điện dạng đặc phải làm từ vật liệu tổng hợp, có thể được tăng cường bằng
+sợi vô cơ hoặc sợi nhân tạo.
+
+2.7. Bên trong ống cách điện có chứa bọt thì bọt đổ
+vào phải liên kết được với vách ống cách điện và cả bọt cũng như chất kết dính
+không được bị suy giảm trong các thử nghiệm, trừ các thử nghiệm phá hủy.
+
+2.8. Đường kính ống cách điện có chứa bọt và sào
+cách điện dạng đặc đo được phải nằm trong giới hạn dung sai qui định tại Bảng
+1, Mục 2- Đặc tính kỹ thuật của TCVN 5587: 2008
+ống cách điện có chứa bọt và sào cách điện dạng đặc dùng để làm việc khi có điện.
+
+2.9. Việc thử nghiệm điển hình; thử nghiệm thường
+xuyên; thử nghiệm lấy mẫu phải tuân thủ theo các quy định tại Mục 3- Thử nghiệm
+điển hình; Mục 4- Thử nghiệm thường xuyên và thử nghiệm lấy mẫu của TCVN 5587:2008.
+
+2.10. Trong trường hợp TCVN 5587: 2008 ống cách điện có chứa bọt và
+sào cách điện dạng đặc dùng để làm việc khi có điện nói trên có sự sửa đổi, bổ
+sung thì thực hiện theo những quy định mới nhất.
+
+3. QUY ĐỊNH VỀ QUẢN LÝ
+
+3.1. Sào cách điện dạng đặc hoặc ống cách điện
+có chứa bọt sản xuất trong nước
+
+3.1.1. Sào cách điện dạng đặc hoặc ống cách điện có
+chứa bọt sản xuất trong nước phải được chứng nhận hợp quy và công bố hợp quy
+phù hợp với các quy định tại mục 2 của Quy chuẩn này.
+
+Việc chứng nhận hợp quy do các tổ chức chứng nhận hợp
+quy đã được Cục An toàn lao động, Bộ Lao động - Thương binh và Xã hội chỉ định
+thực hiện và thực hiện theo phương thức: thử nghiệm mẫu điển hình kết hợp đánh
+giá quá trình sản xuất; giám sát thông qua thử nghiệm mẫu lấy tại nơi sản xuất
+kết hợp với đánh giá quá trình sản xuất (Phương thức 3 trong «Quy định về công
+bố hợp chuẩn, công bố hợp quy và phương thức đánh giá sự phù hợp với tiêu chuẩn,
+quy chuẩn kỹ thuật» ban hành kèm theo Thông tư số 28/2012/QĐ-BKHCN
+ngày 12/12/2012 của Bộ trưởng Bộ Khoa học và Công nghệ).
+
+3.1.2. Sào cách điện dạng đặc hoặc ống cách điện có
+chứa bọt sản xuất trong nước trước khi đưa ra lưu thông trên thị trường phải gắn
+dấu hợp quy, ghi nhãn theo quy định tại Mục 5- Các điều khoản đặc biệt của TCVN 5587 : 2008.
+
+3.2. Sào cách điện dạng đặc hoặc ống cách điện
+có chứa bọt nhập khẩu
+
+3.2.1. Sào cách điện dạng đặc hoặc ống cách điện có
+chứa bọt nhập khẩu phải được chứng nhận hợp quy phù hợp với các quy định tại mục
+2 của Quy chuẩn này.
+
+3.2.2. Việc chứng nhận hợp quy do các tổ chức chứng
+nhận đã được Cục An toàn lao động, Bộ Lao động- Thương binh và Xã hội chỉ định
+hoặc các tổ chức, cá nhân nước ngoài được thừa nhận tiến hành.
+
+3.2.3. Việc chứng nhận hợp quy được thực hiện theo
+phương thức thử nghiệm, đánh giá lô sản phẩm, hàng hóa (Phương thức 7 trong «Quy
+định về công bố hợp chuẩn, công bố hợp quy và phương thức đánh giá sự phù hợp với
+tiêu chuẩn, quy chuẩn kỹ thuật» ban hành kèm theo Thông tư số 28/2012/QĐ-BKHCN ngày 12/12/2012 của Bộ trưởng
+Bộ Khoa học và Công nghệ).
+
+3.2.4. Trong trường hợp các sào cách điện dạng đặc
+hoặc ống cách điện có chứa bọt nhập khẩu mà theo thỏa thuận song phương, đa
+phương giữa các cơ quan có thẩm quyền của Cộng hòa Xã hội chủ nghĩa Việt Nam với
+các nước xuất khẩu sào cách điện dạng đặc hoặc ống cách điện có chứa bọt quy định
+không phải kiểm tra chất lượng khi nhập khẩu thì các sào cách điện dạng đặc hoặc
+ống cách điện có chứa bọt này được miễn kiểm tra nhập khẩu.
+
+3.2.5. Sào cách điện dạng đặc hoặc ống cách điện có
+chứa bọt nhập khẩu trước khi đưa ra lưu thông trên thị trường phải gắn dấu hợp
+quy, ghi nhãn theo quy định tại Mục 5- Các điều khoản đặc biệt của TCVN 5587 : 2008.
+
+3.3. Sào cách điện dạng đặc hoặc ống cách điện
+có chứa bọt lưu thông trên thị trường
+
+3.3.1. Sào cách điện dạng đặc hoặc ống cách điện có
+chứa bọt dùng để làm việc khi có điện lưu thông trên thị trường phải gắn dấu hợp
+quy, ghi nhãn theo quy định tại Mục 5- Các điều khoản đặc biệt của TCVN 5587 : 2008.
+
+3.3.2. Trong trường hợp cần thiết, cơ quan nhà nước
+có thẩm quyền tiến hành việc kiểm tra chất lượng đối với sào cách diện dạng đặc
+hoặc ống cách điện có chứa bọt lưu thông trên thị trường như đối với các sản phẩm
+sản xuất trong nước hoặc nhập khẩu.
+
+3.4. Quản lý sào cách điện dạng đặc hoặc ống
+cách điện có chứa bọt trong quá trình sử dụng
+
+3.4.1. Sào cách điện dạng đặc hoặc ống cách điện có
+chứa bọt phải được bảo quản trong môi trường khô ráo thoáng mát, cách xa vật
+phát nhiệt, không bị ảnh hưởng của các dung môi có hại và theo đúng hướng dẫn của
+nhà sản xuất.
+
+3.4.2. Sử dụng sào cách điện dạng đặc hoặc ống cách
+điện có chứa bọt đúng mục đích, theo đúng chức năng và theo đúng hướng dẫn của
+nhà sản xuất.
+
+3.4.3. Sào cách điện dạng đặc hoặc ống cách điện có
+chứa bọt phải được thử nghiệm thường xuyên ít nhất 01 lần trong 12 tháng. Việc
+thử nghiệm thường xuyên được thực hiện theo điều 11, Mục 4- Thử nghiệm thường
+xuyên và thử nghiệm lấy mẫu của TCVN 5587 :
+2008.
+
+Sau mỗi lần thử nghiệm thường xuyên phải có biên bản
+ghi lại kết quả thử nghiệm và dán tem trên sào cách điện dạng đặc hoặc ống cách
+điện có chứa bọt, trên đó ghi kết quả thử nghiệm đạt hay không đạt và thời hạn
+thử nghiệm tiếp theo. Việc dán tem do đơn vị thử nghiệm thực hiện.
+
+Không sử dụng sào cách điện dạng đặc hoặc ống cách
+điện có chứa bọt nếu kết quả thử nghiệm không đạt yêu cầu.
+
+4. TRÁCH NHIỆM CỦA TỔ CHỨC, CÁ
+NHÂN
+
+4.1. Các tổ chức, cá nhân sản xuất, nhập khẩu, lưu
+thông và sử dụng sào cách điện dạng đặc hoặc ống cách điện có chứa bọt có trách
+nhiệm tuân thủ các quy định tại Quy chuẩn này.
+
+4.2. Quy chuẩn này là căn cứ để các cơ quan kiểm
+tra chất lượng sào cách điện dạng đặc hoặc ống cách điện có chứa bọt tiến hành
+việc kiểm tra và cũng là căn cứ để các tổ chức đánh giá sự phù hợp tiến hành chứng
+nhận hợp quy cho sào cách điện dạng đặc hoặc ống cách điện có chứa bọt.
+
+5. TỔ CHỨC THỰC HIỆN
+
+5.1. Cục An toàn lao động, Bộ Lao động - Thương
+binh và Xã hội có trách nhiệm phối hợp với các cơ quan chức năng có liên quan hướng
+dẫn và tổ chức việc thực hiện Quy chuẩn này.
+
+5.2. Các cơ quan quản lý nhà nước về lao động địa
+phương có trách nhiệm hướng dẫn, thanh tra, kiểm tra việc thực hiện các quy định
+của Quy chuẩn kỹ thuật này.
+
+5.3. Trong quá trình thực hiện, nếu có vướng mắc,
+các cơ quan, tổ chức, cá nhân có liên quan có trách nhiệm kịp thời phản ánh với
+Bộ Lao động- Thương binh và Xã hội để xem xét giải quyết./.--- THÔNG TIN THÊM ---
+Ten: Thông tư 38/2013/TT-BLĐTBXH về Quy chuẩn kỹ thuật quốc gia an toàn lao động đối với ống cách điện có chứa bọt và sào cách điện dạng đặc dùng để làm việc khi có điện do Bộ trưởng Bộ Lao động - Thương binh và Xã hội ban hành
+So hieu: 38/2013/TT-BLĐTBXH
+Loai van ban: Thông tư
+Linh vuc nganh: Lao động - Tiền lương
+Noi ban hanh: Bộ Lao động - Thương binh và Xã hội
+Nguoi ky: Bùi Hồng Lĩnh
+Ngay ban hanh: 30/12/2013
+Ngay hieu luc: 28/06/2014
+Ngay dang: 15/03/2014
+So cong bao: Từ số 321 đến số 322
+Tinh trang: Còn hiệu lực
+
+
+--- MỤC LỤC ---
+- THÔNG TƯ BAN HÀNH QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ AN TOÀN LAO ĐỘNG ĐỐI VỚI ỐNG CÁCH ĐIỆN CÓ CHỨA BỌT VÀ SÀO CÁCH ĐIỆN DẠNG ĐẶC DÙNG ĐỂ LÀM VIỆC KHI CÓ ĐIỆN
+  - Điều 1. Ban hành kèm theo Thông tư này Quy chuẩn kỹ thuật quốc gia về an toàn lao động đối với ống cách điện có chứa bọt và sào cách điện dạng đặc dùng để làm việc khi có điện.
+  - Điều 2. Quy chuẩn kỹ thuật quốc gia về an toàn lao động đối với với ống cách điện có chứa bọt và sào cách điện dạng đặc dùng để làm việc khi có điện có hiệu lực từ ngày 28 tháng 6 năm 2014.
+  - Điều 3. Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành./.
+- QCVN 14: 2013/BLĐTBXH QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ AN TOÀN LAO ĐỘNG ĐỐI VỚI ỐNG CÁCH ĐIỆN CÓ CHỨA BỌT VÀ SÀO CÁCH ĐIỆN DẠNG ĐẶC DÙNG ĐỂ LÀM VIỆC KHI CÓ ĐIỆN
+  - 1. QUY ĐỊNH CHUNG
+  - 2. QUY ĐỊNH VỀ KỸ THUẬT
+  - 3. QUY ĐỊNH VỀ QUẢN LÝ
+  - 4. TRÁCH NHIỆM CỦA TỔ CHỨC, CÁ NHÂN
+  - 5. TỔ CHỨC THỰC HIỆN
+
+--- VĂN BẢN LIÊN QUAN ---
+
+Van ban duoc dan chieu:
+  - Thông tư 28/2012/TT-BKHCN về Quy định công bố hợp chuẩn, công bố hợp quy và phương thức đánh giá sự phù hợp... (ID: 165233)
+
+Van ban duoc can cu:
+  - Nghị định 106/2012/NĐ-CP quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Lao động - Thương... (ID: 154043)
+  - Nghị định 132/2008/NĐ-CP Hướng dẫn Luật Chất lượng sản phẩm, hàng hóa (ID: 83467)
+  - Nghị định 127/2007/NĐ-CP Hướng dẫn Luật Tiêu chuẩn và Quy chuẩn kỹ thuật (ID: 54148)
+
+Van ban lien quan cung noi dung:
+  - Nghị định 14/2014/NĐ-CP hướng dẫn Luật điện lực về an toàn điện (ID: 221983)
+  - Thông tư 42/2013/TT-BLĐTBXH về Quy chuẩn kỹ thuật quốc gia an toàn lao động đối với thang máy thủy lực do Bộ trưởng Bộ Lao động - Thương binh và Xã hội ban hành (ID: 219170)
+  - Thông tư 41/2013/TT-BLĐTBXH về Quy chuẩn kỹ thuật quốc gia an toàn lao động đối với công việc hàn hơi do Bộ trưởng Bộ Lao động - Thương binh và Xã hội ban hành (ID: 219171)
+  - Thông tư 40/2013/TT-BLĐTBXH về Quy chuẩn kỹ thuật quốc gia an toàn lao động đối với máy vận thăng do Bộ trưởng Bộ Lao động - Thương binh và Xã hội ban hành (ID: 219172)
+  - Thông tư 37/2013/TT-BLĐTBXH Quy chuẩn kỹ thuật quốc gia an toàn lao động đối với Pa lăng điện do Bộ trưởng Bộ Lao động - Thương binh và Xã hội ban hành (ID: 219176)
+  - Thông tư 36/2013/TT-BLĐTBXH về Quy chuẩn kỹ thuật quốc gia an toàn lao động đối với sàn thao tác treo do Bộ trưởng Bộ Lao động - Thương binh và Xã hội ban hành (ID: 219177)

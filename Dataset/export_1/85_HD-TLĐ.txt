@@ -1,0 +1,771 @@
+TỔNG LIÊN ĐOÀN
+ LAO ĐỘNG 
+
+ VIỆT NAM
+
+ -------
+
+CỘNG HÒA XÃ HỘI
+ CHỦ NGHĨA VIỆT NAM
+
+ Độc lập - Tự do - Hạnh phúc
+
+ ---------------
+
+Số: 85/HD-TLĐ
+
+Hà Nội, ngày 18
+ tháng 4 năm 2023
+
+ 
+
+HƯỚNG DẪN
+
+THU
+KINH PHÍ CÔNG ĐOÀN KHU VỰC SẢN XUẤT KINH DOANH QUA TÀI KHOẢN CÔNG ĐOÀN VIỆT NAM
+MỞ TẠI NGÂN HÀNG TMCP ĐẦU TƯ VÀ PHÁT TRIỂN VIỆT NAM
+
+- Căn cứ Luật Công đoàn năm 2012;
+
+- Căn cứ Nghị định số 191/2013/NĐ-CP ngày
+21/11/2013 của Chính phủ quy định chi tiết về tài chính công đoàn;
+
+- Căn cứ Quyết định số 1908/QĐ-TLĐ ngày 19/12/2016
+của Tổng Liên đoàn Lao động Việt Nam về việc ban hành Quy định về quản lý tài
+chính, tài sản công đoàn, thu, phân phối nguồn thu và thưởng, phạt thu, nộp tài
+chính công đoàn;
+
+- Căn cứ Quy chế phối hợp số 5659/QCPH-TLĐ-BIDV
+ngày 15/12/2022 giữa Tổng Liên đoàn Lao động Việt Nam và Ngân hàng TMCP Đầu tư
+và Phát triển Việt Nam;
+
+Tổng Liên đoàn Lao động Việt Nam ban hành hướng dẫn
+thực hiện thu kinh phí công đoàn khu vực sản xuất kinh doanh qua tài khoản Công
+đoàn Việt Nam mở tại Ngân hàng TMCP Đầu tư và Phát triển Việt Nam (BIDV) cho
+các cấp công đoàn như sau:
+
+I. THÔNG TIN CHUNG VỀ HỆ THỐNG
+
+1. Thông tin tài khoản nhận
+kinh phí công đoàn
+
+Tên tài khoản nhận kinh phí công đoàn: Công đoàn
+Việt Nam
+
+Số tài khoản nhận kinh phí công đoàn: V2TT + Mã
+số thuế của đơn vị.
+
+Mở tại: Ngân hàng TMCP Đầu tư và Phát triển Việt
+Nam.
+
+2. Hướng dẫn đơn vị nộp Kinh
+phí công đoàn qua tài khoản định danh
+
+Khi nhận được Thông báo thu kinh phí công đoàn từ công
+đoàn cấp trên được phân cấp thu, các doanh nghiệp, đơn vị nộp kinh phí công
+đoàn qua các kênh thanh toán (Quầy giao dịch BIDV, BIDV iBank, Ngân hàng khác)
+bằng Tài khoản định danh, cụ thể như sau:
+
+Cấu trúc tài khoản đinh danh: Đầu mã định danh
+V2TT + Mã số thuế của đơn vị nộp KPCĐ (Ví dụ: V2TT0123456789,
+V2TT0123456789001)
+
+(Lưu ý: Mã số thuế là dãy số viết liền gồm 10 hoặc
+13 ký tự số liên tiếp không có các ký tự đặc biệt ở giữa dãy số)
+
+- Đối với kênh Quầy giao dịch BIDV: đơn vị nộp KPCĐ
+nộp tiền mặt hoặc lập ủy nhiệm chi để chuyển tiền đến Tài khoản định danh, cụ
+thể:
+
++ Số tài khoản thụ hưởng: là số tài khoản định danh
+theo đúng cấu trúc (ví dụ: V2TT0123456789)
+
++ Tên người thụ hưởng: Công đoàn Việt Nam
+
++ Số tiền thanh toán: là số tiền cần nộp KPCĐ
+
++ Nội dung chuyển tiền: <Tên doanh nghiệp/đơn vị>
+nộp KPCĐ tháng/quý... năm
+
+(Ví dụ: Công ty ABC nộp KPCĐ tháng 1.2023)
+
+- Đối với kênh Ngân hàng điện tử (BIDV iBank): đơn
+vị nộp KPCĐ sử dụng kênh chuyển tiền trong BIDV để chuyển tiền đến tài khoản thụ
+hưởng là tài khoản định danh, cụ thể:
+
++ Số tài khoản thụ hưởng: nhập số tài khoản định
+danh theo đúng cấu trúc (ví dụ: V2TT0123456789)
+
++ Tên người thụ hưởng: Công đoàn Việt Nam
+
++ Số tiền thanh toán: nhập số tiền cần nộp KPCĐ
+
++ Nội dung chuyển tiền: <Tên doanh nghiệp/đơn vị>
+nộp KPCĐ tháng/quý...năm
+
+(Ví dụ: Công ty ABC nộp KPCĐ tháng 1.2023)
+
+- Đối với kênh từ ngân hàng khác: đơn vị nộp KPCĐ sử
+dụng kênh chuyển tiền 24/7 của các ngân, hàng khác để chuyển tiền đến tài khoản
+thụ hưởng là tài khoản định danh, cụ thể:
+
++ Số tài khoản thụ hưởng: nhập số tài khoản định
+danh theo đúng cấu trúc (ví dụ: V2TT0123456789)
+
++ Ngân hàng thụ hưởng: chọn BIDV
+
++ Tên người thụ hưởng: Công đoàn Việt Nam
+
++ Số tiền thanh toán: nhập số tiền cần nộp KPCĐ
+
++ Nội dung chuyển tiền: <Tên doanh nghiệp/đơn vị>
+nộp KPCĐ tháng /quý...năm
+
+(Ví dụ: Công ty ABC nộp KPCĐ quý I.2023)
+
+3. Vận hành hệ thống
+
+- Phần mềm thực hiện cấp trả tự động phần kinh phí
+được sử dụng cho các cấp công đoàn vào 19 giờ hàng ngày. Trường hợp đơn vị nộp
+kinh phí sau 19 giờ sẽ được tự động phân bổ vào 19 giờ ngày tiếp theo (tính cả
+ngày thứ 7 và chủ nhật). Những nơi chưa có tổ chức công đoàn, đơn vị phát hành
+Thông báo thu kinh phí công đoàn sẽ nhận và đưa vào tài khoản tạm giữ phần kinh
+phí được sử dụng và thực hiện chi trả cho người lao động theo quy định của Tổng
+Liên đoàn.
+
+- Tỷ lệ cấp trả kinh pin công đoàn 2% cho các cấp
+công đoàn được Tổng Liên đoàn thông báo hàng năm.
+
+- Phần mềm cho phép khai thác, sử dụng các loại báo
+cáo phục vụ theo dõi, quản lý việc thu, phân bổ nguồn thu kinh phí công đoàn
+khu vực sản xuất kinh doanh của các doanh nghiệp, đơn vị theo phân cấp của Tổng
+Liên đoàn.
+
+4. Thực hiện hạch toán kế toán
+
+Các đơn vị thực hiện việc hạch toán kế toán thu
+kinh phí công đoàn khu vực sản xuất kinh doanh qua tài khoản Công đoàn Việt Nam
+theo Hướng dẫn số 22/HD-TLĐ ngày 29/4/2022 của Tổng Liên đoàn Lao động Việt
+Nam.
+
+II. TỔ CHỨC THỰC HIỆN
+
+1. Cấp Tổng Liên đoàn Lao động
+Việt Nam (cấp 1)
+
+- Tổng Liên đoàn phối hợp với BIDV xây dựng và hoàn
+thiện phần mềm phục vụ cho việc thu, quản lý và chuyển trả nguồn kinh phí công
+đoàn của các đơn vị sản xuất kinh doanh cho các cấp công đoàn và thực hiện triển
+khai thu thí điểm từ ngày 15/2/2023.
+
+- Tổng Liên đoàn tiếp tục phối hợp với BIDV nâng cấp,
+bảo trì phần mềm để việc thu, quản lý và chuyển trả nguồn kinh phí công đoàn của
+các đơn vị sản xuất kinh doanh cho các cấp công đoàn được hoàn thiện.
+
+- Chỉ đạo, hướng dẫn các cấp công đoàn triển khai
+việc thu kinh phí công đoàn khu vực sản xuất kinh doanh qua hệ thống ngân hàng
+BIDV.
+
+- Định kỳ hàng năm, Tổng Liên đoàn và BIDV luân
+phiên tổ chức tổng kết đánh giá các hoạt động phối hợp, đối với những khó khăn,
+vướng mắc phát sinh phải kịp thời phối hợp giải quyết ngay.
+
+2. LĐLĐ tỉnh, thành phố; Công
+đoàn ngành Trung ương và tương đương; Công đoàn Tổng Công ty trực thuộc Tổng
+Liên đoàn (cấp 2)
+
+- Thực hiện ký quy chế phối hợp và mở tài khoản ở
+chi nhánh BIDV tại địa phương được Hội sở chính BIDV phân giao (theo danh sách
+BIDV giới thiệu đính kèm), thời hạn hoàn thành trước ngày 15 tháng 5 năm 2023.
+Trong trường hợp đơn vị có nhu cầu lựa chọn chi nhánh khác với chi nhánh Hội sở
+chính BIDV phân giao, đề nghị đơn vị gửi văn bản về Tổng Liên đoàn Lao động Việt
+Nam để Tổng Liên đoàn Lao động Việt Nam thống nhất với Hội sở chính BIDV xem
+xét.
+
+- Phối hợp với các chi nhánh BIDV tại địa phương đã
+ký kết quy chế phối hợp tiến hành rà soát lập danh sách các doanh nghiệp, đơn vị
+đóng kinh phí công đoàn thuộc cấp mình quản lý (bao gồm cả doanh nghiệp, đơn vị
+có tổ chức công đoàn và doanh nghiệp, đơn vị chưa có tổ chức công đoàn) cũng
+như các đơn vị được cấp trả kinh phí công đoàn phải đảm bảo đầy đủ dữ liệu: Mã
+số thuế của doanh nghiệp nộp, số tài khoản của Công đoàn cơ sở, số tiền phải
+đóng kinh phí công đoàn trong năm (theo mẫu đính kèm hướng dẫn).
+
+- Gửi danh sách các doanh nghiệp, đơn vị đóng kinh
+phí công đoàn thuộc cấp mình quản lý theo mẫu quy định (bản cứng có ký đóng dấu
+và bản mềm excel) cho Tổng Liên đoàn (qua Bộ phận tài chính, Ban Tài chính) và
+chi nhánh BIDV tại địa phương ký kết quy chế phối hợp để thực hiện nhập dữ liệu
+vào phần mềm, thời hạn hoàn thành gửi danh sách trước ngày 31 tháng 5 năm 2023.
+
+- Chỉ phát hành Thông báo thu kinh phí công đoàn tới
+các doanh nghiệp, đơn vị thuộc đối tượng đóng kinh phí công đoàn do cấp mình quản
+lý khi BIDV đã hoàn thành việc nhập dữ liệu vào phần mềm và đơn vị đã đăng nhập
+và kiểm tra được dữ liệu thu trên phần mềm.
+
+- Khi nhận kinh phí của đơn vị chưa có tổ chức công
+đoàn, đơn vị thực hiện chi cho người lao động tại doanh nghiệp theo quy định của
+Tổng Liên đoàn.
+
+- Xác nhận tư cách pháp nhân của các công đoàn cơ sở,
+đơn vị thuộc cấp quản lý (theo danh sách) cho BIDV chi nhánh nơi mở tài khoản để
+hỗ trợ việc mở tài khoản (nếu CĐCS có nhu cầu nhận tại BIDV) trong trường hợp bị
+thất lạc Quyết định thành lập.
+
+- Chỉ đạo cấp trên trực tiếp cơ sở triển khai việc
+thu kinh phí công đoàn khu vực sản xuất kinh doanh qua tài khoản Công đoàn Việt
+Nam tới các doanh nghiệp, đơn vị thuộc đối tượng đóng kinh phí công đoàn.
+
+- Thực hiện chế độ phối hợp cung cấp thông tin, báo
+cáo định kỳ hoặc đột xuất về quá trình triển khai, thực hiện thu kinh phí công
+đoàn khu vực sản xuất kinh doanh qua BIDV theo yêu cầu của cấp trên.
+
+3. Liên đoàn Lao động cấp quận,
+huyện; Công đoàn ngành cấp trên trực tiếp cơ sở (cấp 3)
+
+- Thực hiện sự chỉ đạo của công đoàn cấp trên trực
+tiếp quản lý thực hiện mở tài khoản của đơn vị mình ở chi nhánh BIDV tại địa
+phương. Thời hạn mở tài khoản hoàn thành trước ngày 31/5/2023.
+
+- Phối hợp với chi nhánh BIDV đã mở tài khoản tiến
+hành rà soát, lập danh sách các doanh nghiệp, đơn vị đóng kinh phí công đoàn
+thuộc cấp mình quản lý (bao gồm cả doanh nghiệp, đơn vị có tổ chức công đoàn và
+doanh nghiệp, đơn vị chưa có tổ chức công đoàn) cũng như các đơn vị được cấp trả
+kinh phí công đoàn phải đảm bảo đầy đủ dữ liệu: Mã số thuế của doanh nghiệp nộp,
+số tài khoản của công đoàn cơ sở, số tiền phải đóng kinh phí công đoàn trong
+năm. Trong trường hợp đơn vị đã có tài khoản tại chi nhánh BIDV thực hiện kê
+khai đóng kinh phí theo quy định (hướng dẫn công đoàn cơ sở, doanh nghiệp mờ
+tài khoản tại chi nhánh BIDV khi đơn vị có nhu cầu).
+
+- Gửi danh sách các doanh nghiệp, đơn vị đóng kinh
+phí công đoàn thuộc cấp mình quản lý theo mẫu quy định cho Liên đoàn Lao động cấp
+2 tổng hợp để gửi cho chi nhánh BIDV tại địa phương đã ký kết quy chế thực hiện
+nhập dữ liệu vào phần mềm thu kinh phí công đoàn qua tài khoản công đoàn Việt
+Nam tại chi nhánh BIDV.
+
+- Chỉ phát hành Thông báo thu kinh phí công đoàn tới
+các doanh nghiệp, đơn vị thuộc đối tượng đóng kinh phí công đoàn do cấp mình quản
+lý khi BIDV đã hoàn thành việc nhập dữ liệu vào phần mềm và đơn vị đã đăng nhập
+và kiểm tra được dữ liệu thu trên phần mềm.
+
+- Khi nhận kinh phí của đơn vị chưa có tổ chức công
+đoàn, đơn vị thực hiện chi cho người lao động tại doanh nghiệp theo quy định của
+Tổng Liên đoàn.
+
+- Xác nhận tư cách pháp nhân của các công đoàn cơ sở,
+đơn vị thuộc cấp quản lý (theo danh sách) cho BIDV chi nhánh nơi mở tài khoản để
+hỗ trợ việc mở tài khoản (nếu CĐCS có nhu cầu) trong trường hợp bị thất lạc Quyết
+định thành lập.
+
+- Chỉ đạo công đoàn cơ sở triển khai việc thu kinh
+phí công đoàn khu vực sản xuất kinh doanh qua tài khoản Công đoàn Việt Nam tới
+các doanh nghiệp, đơn vị thuộc đối tượng đóng kinh phí công đoàn.
+
+- Thực hiện chế độ phối hợp cung cấp thông tin, báo
+cáo định kỳ hoặc đột xuất về quá trình triển khai, thực hiện thu kinh phí công
+đoàn khu vực sản xuất kinh doanh qua BIDV theo yêu cầu của cấp trên.
+
+4. Công đoàn Cấp cơ sở (cấp
+4)
+
+- Cung cấp đầy đủ hồ sơ cần thiết để tiến hành mở
+tài khoản tại chi nhánh BIDV nếu có nhu cầu.
+
+- Cung cấp các dữ liệu cần thiết như: Mã số thuế của
+doanh nghiệp nộp, số tài khoản của Công đoàn cơ sở, số tiền phải đóng kinh phí
+công đoàn trong năm của doanh nghiệp cho Công đoàn cấp trên trực tiếp quản lý để
+tiến hành khai báo dữ liệu vào hệ thống.
+
+- Căn cứ vào số kinh phí công đoàn doanh nghiệp,
+đơn vị phải đóng theo Thông báo thu kinh phí công đoàn của Công đoàn cấp trên,
+Công đoàn cơ sở đôn đốc Chủ doanh nghiệp thực hiện đóng kinh phí công đoàn hàng
+tháng/quý/năm.
+
+- Phối hợp, hướng dẫn kế toán chuyên môn thực hiện
+việc đóng kinh phí công đoàn theo đúng cú pháp; đối chiếu số kinh phí công đoàn
+doanh nghiệp, đơn vị đã nộp, còn phải nộp; trao đổi thông tin, phối hợp xử lý
+các vướng mắc trong quá trình nộp kinh phí công đoàn.
+
+Trên cơ sở hướng dẫn này, các cấp công đoàn chủ động
+triển khai, thực hiện kể từ ngày ban hành hướng dẫn. Trong quá trình thực hiện,
+nếu có vướng mắc, đơn vị báo cáo về Tổng Liên đoàn (qua Ban Tài chính) để được
+chỉ đạo, hướng dẫn./.
+
+(Ghi chú: Các LĐLĐ tỉnh, thành phố; Công đoàn
+ngành Trung ương và tương đương; Công đoàn Tổng công ty trực thuộc Tổng Liên
+đoàn; Công đoàn cấp trên trực tiếp cơ sở tiếp tục mở tài khoản nhận kinh phí tại
+BIDV; tuyên truyền đến công đoàn cơ sở có thể lựa chọn Vietinbank, Agribank,
+BIDV hoặc sử dụng cả 3 tài khoản để nhận kinh phí được cấp trả tự động).
+
+ 
+
+ Nơi nhận:
+
+- Thường trực ĐCT (để b/c);
+
+ - Ngân hàng TMCP Đầu tư và Phát triển VN (để b/c);
+
+ - Ngân hàng TMCP Đầu tư và Phát triển VN chi nhánh Ba Đình (để thực hiện);
+
+ - Các Ban, VPUBKT, VPTLĐ;
+
+ - Các LĐLĐ tỉnh, thành phố;
+
+ - Các CĐNTW và tương đương, CĐ Tổng Công ty trực thuộc TLĐ;
+
+ - Lưu VT, TC.
+
+TL. ĐOÀN CHỦ TỊCH
+
+ TRƯỞNG BAN TÀI CHÍNH
+
+ Nguyễn Minh Dũng
+
+ 
+
+TỔNG LIÊN ĐOÀN LAO
+ ĐỘNG VIỆT NAM
+
+ ĐƠN VỊ RA THÔNG BÁO[1]
+
+ -------
+
+CỘNG HÒA XÃ HỘI
+ CHỦ NGHĨA VIỆT NAM
+
+ Độc lập - Tự do - Hạnh phúc
+
+ ---------------
+
+Số: …../TB-LĐLĐ
+
+…., ngày ....
+ tháng … năm 2023
+
+ 
+
+THÔNG
+BÁO
+
+Về việc đóng 2% kinh phí công đoàn năm 2023
+
+Kính gửi:
+
+Ban Giám đốc …………….…
+
+ Công đoàn cơ sở …………...
+
+- Căn cứ khoản 2, Điều 26, Luật Công đoàn năm 2012;
+
+- Căn cứ Nghị định số 191/2013/NĐ-CP ngày
+21/11/2013 của Chính phủ quy định chi tiết về tài chính công đoàn;
+
+- Căn cứ Quyết định số 1908/QĐ-TLĐ ngày 19/12/2016
+của Tổng Liên đoàn Lao động Việt Nam về việc ban hành Quy định về quản lý tài
+chính, tài sản công đoàn, thu, phân phối nguồn thu và thưởng, phạt thu, nộp tài
+chính công đoàn;
+
+- Căn cứ Quy chế phối hợp số 480/QCPH - TLĐ
+VIETINBANK ngày 24/9/2016 giữa Tổng Liên đoàn Lao động Việt Nam và Ngân hàng
+TMCP Công thương Việt Nam, trong đó quy định về thu KPCĐ tập trung về tài khoản
+Công đoàn Việt Nam thông qua Vietinbank.
+
+- Căn cứ Quy chế phối hợp số 500/QCPH-TLĐ-AGRIBANK
+ngày 28/5/2020 giữa Tổng Liên đoàn Lao động Việt Nam và Ngân hàng Nông nghiệp
+và Phát triển Nông thôn Việt Nam (AGRIBANK) về thu KPCĐ tập trung về tài khoản
+Công đoàn Việt Nam thông qua AGRIBANK.
+
+- Căn cứ Quy chế phối hợp số 5659/QCPH-TLĐ-BIDV
+ngày 15/12/2022 giữa Tổng Liên đoàn Lao động Việt Nam và Ngân hàng TMCP Đầu tư
+và Phát triển Việt Nam (BIDV) về thu KPCĐ tập trung về tài khoản Công đoàn Việt
+Nam thông qua BIDV.
+
+Thông báo Công ty... đóng kinh phí công đoàn theo Điều
+5, Chương II Nghị định 191/2013/NĐ-CP của Chính phủ “Mức đóng bằng 2% quỹ tiền
+lương làm căn cứ đóng bảo hiểm xã hội cho người lao động cụ thể như sau:
+
+Số kinh phí công đoàn phải đóng năm 20...:
+................................................................... 
+
+Bằng chữ: ..................................................................................................................
+
+Nguồn đóng kinh phí công đoàn: “Đối với doanh
+nghiệp và đơn vị có hoạt động sản xuất kinh doanh, dịch vụ khoản đóng kinh phí
+công đoàn được hạch toán vào chi phí sản xuất, kinh doanh, dịch vụ trong kỳ”
+(trích khoản 3, Điều 7, Chương II Nghị định 191/NĐ-CP của Chính phủ).
+
+Liên đoàn Lao động ……………….. đề nghị Công ty thực hiện
+nộp kinh phí công đoàn nêu trên về tài khoản Công đoàn Việt Nam như sau:
+
+Tài khoản Công
+ đoàn Việt Nam mở tại ngân hàng BIDV
+
+Tài khoản Công
+ đoàn Việt Nam mở tại ngân hàng VietinBank
+
+Tài khoản Công
+ đoàn Việt Nam mở tại ngân hàng Agribank
+
+Tên đơn vị hưởng: Công đoàn Việt Nam
+
+Số Tài khoản: V2TT + MST (Mã số thuế của đơn vị)
+
+Tại: Ngân hàng TMCP Đầu tư và Phát triển Việt
+ Nam
+
++ Nội dung chuyển tiền: <Tên doanh nghiệp/đơn
+ vị> nộp KPCĐ tháng/quý...năm
+
+Thời điểm chuyển tiền KPCĐ cùng với thời điểm
+ đóng BHXH hàng tháng.
+
+(Ví dụ: MST 0123456789 Công ty ABC nộp KPCĐ tháng
+ 1 năm 2023)
+
+Tên đơn vị hưởng: Công đoàn Việt Nam
+
+Số Tài khoản: 117001366668 
+
+Tại: Ngân hàng TMCP Công thương Việt Nam
+
+Thời điểm chuyển tiền KPCĐ cùng với thời điểm
+ đóng BHXH hàng tháng
+
+Lưu ý: Nội dung chuyển tiền theo cấu trúc:
+ MST xxxxxxxx (tên đơn vị) đóng KPCĐ 2% tháng…… năm ……
+
+Trong đó: xxxxxxxxxxx là mã số thuế của doanh
+ nghiệp. Khi nộp tiền tại quầy, Doanh nghiệp ghi số điện thoại tại giấy nộp tiền
+ để làm căn cứ liên lạc.
+
+Ví dụ: MST 123456789 CTY TNHH MTV abc đóng KPCĐ
+ 2% tháng 01/20....
+
+Tên đơn vị hưởng: Công đoàn Việt Nam
+
+Số tài khoản: 1400 288 668 989
+
+Tại: Ngân hàng Nông nghiệp và Phát triển Nông
+ thôn Việt Nam
+
+Nội dung chuyển tiền: MST <Mã số thuế>
+ <Tên doanh nghiệp/đơn vị> nộp KPCĐ tháng/quý...năm
+
+Đề nghị đơn vị nộp đủ kinh phí công đoàn 2% về Tổng
+Liên đoàn. Sau khi Tổng Liên đoàn nhận kinh phí công đoàn, trong 24h công đoàn
+cơ sở tại đơn vị sẽ nhận được 75% số tiền đơn vị đã nộp (trong trường hợp đơn vị
+chưa có công đoàn cơ sở, 75% số tiền đơn vị đã nộp sẽ chuyển về LĐLĐ ………….. để
+thực hiện việc chi cho người lao động tại đơn vị theo quy định hiện hành của Tổng
+Liên đoàn).
+
+Đề nghị Ban Giám đốc Công ty……, Ban chấp hành Công
+đoàn cơ sở quan tâm thực hiện các nội dung nêu trên.
+
+Trong quá trình thực hiện có vướng mắc đơn vị liên
+hệ theo địa chỉ: Liên đoàn Lao động ………………., Sđt: ……………….
+
+ 
+
+ Nơi nhận:
+
+- Như kính gửi; 
+
+ - Thường trực …..;
+
+ - Lưu VT.
+
+TM. BAN THƯỜNG
+ VỤ
+
+ CHỦ TỊCH
+
+DANH
+SÁCH CÔNG ĐOÀN CƠ SỞ THAY ĐỔI THÔNG TIN TÀI KHOẢN NHẬN KINH PHÍ CÔNG ĐOÀN
+
+Stt
+
+Tên DN nộp KPCĐ
+
+MST DN nộp KPCĐ
+
+Tên CĐCS
+
+STK nhận KPCĐ
+ hiện tại của CĐCS
+
+STK nhận KPCĐ mới
+ của CĐCS
+
+Ngân hàng mở
+ tài khoản
+
+Thời điểm bắt đầu
+ thay đổi
+
+Ghi chú
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Xác nhận của
+ Liên đoàn Lao động Cấp 2
+
+Xác nhận của
+ Chi nhánh BIDV…
+
+ 
+
+DANH
+SÁCH ĐỐI TƯỢNG NỘP KINH PHÍ CÔNG ĐOÀN NĂM…..
+
+STT
+
+Thông tin LĐLĐ
+ cấp 2 hoặc 3 theo dõi DN nộp kinh phí
+
+Thông tin DN
+ & CĐCS
+
+ 
+
+Địa phương/
+ Ngành
+
+Đơn vị phân cấp
+ thu (*)
+
+STK ĐV phân cấp
+ thu (*)
+
+Cấp CĐ (Dự
+ toán) (*)
+
+Tên DN nộp KPCĐ
+ (*)
+
+MST DN nộp KPCĐ
+ (*)
+
+Có CĐCS (Y/N)
+ (*)
+
+STK CĐCS tại DN
+ nộp KP/ STK tên LĐLĐ nhận tiền (*)
+
+Tên tài khoản
+ CĐCS/ LĐLĐ nhận tiền (*)
+
+Số lao động
+
+Số lao động
+ tăng giảm trong năm
+
+Số đoàn viên
+
+Số đoàn viên
+ tăng giảm trong năm
+
+Địa chỉ
+
+Số điện thoại
+
+Email
+
+Tình trạng hoạt
+ động (Giá trị A/C tương ứng Hoạt động/ Không hoạt động)
+
+Số tiền DN phải
+ nộp trong năm (Do ĐV được phân cấp thu xác định (*)
+
+Số liệu kỳ trước
+ chuyển sang
+
+ST phải nộp
+ tăng giảm kỳ trước
+
+ST phải nộp
+ tăng giảm trong năm
+
+Ngân hàng mở
+ tài khoản (Cột 9)
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Xác nhận của
+ Liên đoàn Lao động Cấp 2
+
+Xác nhận của Chi nhánh BIDV…
+
+Lưu ý:
+
+- Cột dấu * là giá trị bắt buộc khai báo
+
+- Cột 23 chỉ khai báo với trường hợp tài khoản
+nhận KPCĐ tại cột 9 được mở tại Ngân hàng khác
+
+- Cột 10 ghi chính xác tên chủ tài khoản (In
+hoa, không dấu) được khai báo tại cột 9
+
+- Liên đoàn lao động cấp 2 lập danh sách và gửi
+lại Chi nhánh BIDV đầu mối tại địa phương
+
+- Chi nhánh BIDV đầu mối tại địa phương gửi file
+scan và excel tới Chi nhánh BIDV Ba Đình (email: …@bidv.com.vn; …@bidv.com.vn;
+hoaidt3@bidv.com.vn)
+
+ 
+
+[1] Liên đoàn Lao động tỉnh, thành phố; công
+đoàn ngành Trung ương và tương đương và Công đoàn Tổng Công ty trực thuộc Tổng
+Liên đoàn (cấp 2); Liên đoàn Lao động cấp quận, huyện và Công đoàn ngành cấp
+trên trực tiếp cơ sở (cấp 3).--- THÔNG TIN THÊM ---
+Ten: Hướng dẫn 85/HD-TLĐ năm 2023 thu kinh phí công đoàn khu vực sản xuất kinh doanh qua tài khoản Công đoàn Việt Nam mở tại Ngân hàng thương mại cổ phần Đầu tư và Phát triển Việt Nam do Tổng liên đoàn Lao động Việt Nam ban hành
+So hieu: 85/HD-TLĐ
+Loai van ban: Hướng dẫn
+Linh vuc nganh: Lao động - Tiền lương, Tài chính nhà nước
+Noi ban hanh: Tổng liên đoàn Lao động Việt Nam
+Nguoi ky: Nguyễn Minh Dũng
+Ngay ban hanh: 18/04/2023
+Ngay hieu luc: 18/04/2023
+Ngay dang: Dữ liệu đang cập nhật
+So cong bao: Dữ liệu đang cập nhật
+Tinh trang: Còn hiệu lực
+
+
+--- MỤC LỤC ---
+- HƯỚNG DẪN THU KINH PHÍ CÔNG ĐOÀN KHU VỰC SẢN XUẤT KINH DOANH QUA TÀI KHOẢN CÔNG ĐOÀN VIỆT NAM MỞ TẠI NGÂN HÀNG TMCP ĐẦU TƯ VÀ PHÁT TRIỂN VIỆT NAM
+  - I. THÔNG TIN CHUNG VỀ HỆ THỐNG
+    - 1. Thông tin tài khoản nhận kinh phí công đoàn
+    - 2. Hướng dẫn đơn vị nộp Kinh phí công đoàn qua tài khoản định danh
+    - 3. Vận hành hệ thống
+    - 4. Thực hiện hạch toán kế toán
+  - II. TỔ CHỨC THỰC HIỆN
+    - 1. Cấp Tổng Liên đoàn Lao động Việt Nam (cấp 1)
+    - 2. LĐLĐ tỉnh, thành phố; Công đoàn ngành Trung ương và tương đương; Công đoàn Tổng Công ty trực thuộc Tổng Liên đoàn (cấp 2)
+    - 3. Liên đoàn Lao động cấp quận, huyện; Công đoàn ngành cấp trên trực tiếp cơ sở (cấp 3)
+    - 4. Công đoàn Cấp cơ sở (cấp 4)
+  - THÔNG BÁO Về việc đóng 2% kinh phí công đoàn năm 2023
+  - DANH SÁCH CÔNG ĐOÀN CƠ SỞ THAY ĐỔI THÔNG TIN TÀI KHOẢN NHẬN KINH PHÍ CÔNG ĐOÀN
+  - DANH SÁCH ĐỐI TƯỢNG NỘP KINH PHÍ CÔNG ĐOÀN NĂM…..
+
+--- VĂN BẢN LIÊN QUAN ---
+
+Van ban duoc dan chieu:
+  - Hướng dẫn 22/HD-TLĐ năm 2021 thực hiện chế độ kế toán hành chính, sự nghiệp trong các đơn vị kế toán cơ ... (ID: 485127)
+
+Van ban duoc can cu:
+  - Quyết định 1908/QĐ-TLĐ năm 2016 về Quy định quản lý tài chính, tài sản công đoàn; thu, phân phối nguồn thu ... (ID: 336820)
+  - Nghị định 191/2013/NĐ-CP hướng dẫn về tài chính công đoàn (ID: 214175)
+  - Luật Công đoàn 2012 (ID: 142186)
+
+Van ban lien quan cung noi dung:
+  - Công văn 1990/TLĐ năm 2018 hướng dẫn hạch toán kế toán thu kinh phí công đoàn khu vực sản xuất kinh doanh qua tài khoản Công đoàn Việt Nam do Tổng Liên đoàn Lao động Việt Nam ban hành (ID: 479874)
+  - Hướng dẫn 1305/HD-TLĐ năm 2017 thu kinh phí công đoàn khu vực sản xuất kinh doanh qua tài khoản của Tổng Liên đoàn lao động Việt Nam (ID: 361136)
+  - Công văn 1232/TLĐ năm 2017 về hướng dẫn hạch toán số kinh phí phải thu, phải nộp và kinh phí tiết giảm tại công đoàn các cấp trên cơ sở do Tổng Liên đoàn lao động Việt Nam ban hành (ID: 358401)

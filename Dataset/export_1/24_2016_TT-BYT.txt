@@ -1,0 +1,490 @@
+BỘ Y TẾ
+
+ -------
+
+CỘNG HÒA XÃ HỘI
+ CHỦ NGHĨA VIỆT NAM
+
+ Độc lập - Tự do - Hạnh phúc 
+
+ ---------------
+
+Số: 24/2016/TT-BYT
+
+Hà Nội, ngày 30
+ tháng 6 năm 2016
+
+ 
+
+THÔNG TƯ
+
+QUY
+ĐỊNH QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ TIẾNG ỒN - MỨC TIẾP XÚC CHO PHÉP TIẾNG ỒN TẠI
+NƠI LÀM VIỆC
+
+Căn cứ Luật an
+toàn, vệ sinh lao động số 84/2015/QH13 ngày 25 tháng 6 năm 2015;
+
+Căn cứ Luật tiêu
+chuẩn và quy chuẩn kỹ thuật số 68/2006/QH13 ngày 29 tháng 6 năm 2006;
+
+Căn cứ Nghị định số 127/2007/NĐ-CP
+ngày 01 tháng 8 năm 2007 của Chính phủ quy định chi tiết thi hành một số điều của
+Luật tiêu chuẩn và quy chuẩn kỹ thuật;
+
+Căn cứ Nghị định số 63/2012/NĐ-CP
+ngày 31/8/2012 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu
+tổ chức của Bộ Y tế;
+
+Theo đề nghị của Cục trưởng Cục Quản lý môi trường
+y tế;
+
+Bộ trưởng Bộ Y tế ban hành Thông tư quy định quy
+chuẩn kỹ thuật quốc gia về tiếng ồn - Mức tiếp xúc cho phép tiếng ồn tại nơi
+làm việc.
+
+Điều 1. Quy chuẩn kỹ thuật quốc
+gia về tiếng ồn
+
+Ban hành kèm theo Thông tư này QCVN 24/2016/BYT -
+Quy chuẩn kỹ thuật quốc gia về tiếng ồn - Mức tiếp xúc cho phép tiếng ồn tại
+nơi làm việc.
+
+Điều 2. Hiệu lực thi hành
+
+Thông tư này có hiệu lực từ ngày 01 tháng 12 năm
+2016.
+
+Điều 3. Trách nhiệm thi hành
+
+Cục trưởng Cục Quản lý môi trường y tế, Vụ trưởng,
+Cục trưởng, Tổng cục trưởng các Vụ, Cục, Tổng cục thuộc Bộ Y tế, Thủ trưởng các
+cơ quan, đơn vị trực thuộc Bộ, Giám đốc Sở Y tế các tỉnh, thành phố trực thuộc
+trung ương và Thủ trưởng cơ quan y tế các Bộ, ngành chịu trách nhiệm thi hành Thông
+tư này./.
+
+ 
+
+ 
+
+Nơi nhận:
+
+- VPCP (Vụ KGVX, Công báo, Cổng TTĐT
+ CP);
+
+ - Các Bộ, cơ quan ngang Bộ, cơ quan thuộc CP;
+
+ - Bộ Tư pháp (Cục Kiểm tra VBQPPL);
+
+ - Bộ trưởng (để báo cáo);
+
+ - Các đơn vị thuộc Bộ Y tế;
+
+ - UBND các tỉnh, thành phố trực thuộc TW;
+
+ - Sở Y tế các tỉnh, thành phố trực thuộc TW;
+
+ - Trung tâm YTDP các tỉnh, thành phố trực thuộc TW;
+
+ - Trung tâm BVSKLĐ&MT các tỉnh, thành phố trực thuộc TW;
+
+ - Tổng cục Tiêu chuẩn đo lường chất lượng (để đăng bạ);
+
+ - Cổng thông tin điện tử Bộ Y tế;
+
+ - Lưu: VT, K2ĐT, PC, MT.
+
+KT. BỘ TRƯỞNG
+
+ THỨ TRƯỞNG
+
+ Nguyễn Thanh Long
+
+ 
+
+QCVN 24:2016/BYT
+
+QUY
+CHUẨN KỸ THUẬT QUỐC GIA VỀ TIẾNG ỒN - MỨC TIẾP XÚC CHO PHÉP TIẾNG ỒN TẠI NƠI
+LÀM VIỆC
+
+National
+Technical Regulation on Noise - Permissible Exposure Levels of Noise in the
+Workplace
+
+Lời nói đầu
+
+QCVN 24:2016/BYT do Ban soạn thảo Quy chuẩn kỹ thuật
+quốc gia về vệ sinh lao động biên soạn, Cục Quản lý môi trường y tế trình duyệt
+và được ban hành theo Thông tư số 24/2016/TT-BYT ngày 30 tháng 6 năm 2016 của Bộ
+trưởng Bộ Y tế.
+
+ 
+
+QUY CHUẨN KỸ THUẬT
+QUỐC GIA VỀ TIẾNG ỒN - MỨC TIẾP XÚC CHO PHÉP TIẾNG ỒN TẠI NƠI LÀM VIỆC
+
+National
+Technical Regulation on Noise - Permissible Exposure Levels of Noise in the
+Workplace
+
+I. QUY ĐỊNH CHUNG
+
+1. Phạm vi điều chỉnh
+
+Quy chuẩn này quy định mức tiếp xúc cho phép với tiếng
+ồn tại nơi làm việc.
+
+2. Đối tượng áp dụng
+
+Quy chuẩn này áp dụng cho các cơ quan quản lý nhà
+nước về môi trường; các cá nhân, tổ chức thực hiện quan trắc môi trường lao động;
+các cá nhân, tổ chức có các hoạt động gây ra tiếng ồn tại nơi làm việc tác động
+đến thính lực người lao động.
+
+Quy chuẩn này không áp dụng cho người làm việc sử dụng
+tai nghe.
+
+II. QUY ĐỊNH KỸ THUẬT
+
+1. Mức tiếp xúc cho phép với tiếng ồn của người lao
+động tại nơi làm việc không vượt quá các giá trị quy định tại bảng 1.
+
+Bảng 1. Giới hạn cho
+phép mức áp suất âm theo thời gian tiếp xúc
+
+Thời gian tiếp
+ xúc với tiếng ồn
+
+Giới hạn cho
+ phép mức áp suất âm tương đương (LAeq) - dBA
+
+8 giờ
+
+85
+
+4 giờ
+
+88
+
+2 giờ
+
+91
+
+1 giờ
+
+94
+
+30 phút
+
+97
+
+15 phút
+
+100
+
+7 phút
+
+103
+
+3 phút
+
+106
+
+2 phút
+
+109
+
+1 phút
+
+112
+
+30 giây
+
+115
+
+Trong mọi thời điểm khi làm việc, mức áp âm cực đại
+(Max) không vượt quá 115 dBA.
+
+2. Giới hạn cho phép mức áp suất âm tại các vị trí
+lao động quy định tại bảng 2.
+
+Bảng 2. Giới hạn cho
+phép mức áp suất âm tại các vị trí lao động ở các dải ốc ta
+
+Vị trí lao động
+
+Mức áp suất âm
+ chung hoặc tương đương không quá (dBA)
+
+Mức áp suất âm ở
+ các dải ốc ta với tần số trung tâm (Hz) không vượt quá (dB)
+
+63
+
+125
+
+250
+
+500
+
+1000
+
+2000
+
+4000
+
+8000
+
+1. Tại vị trí làm việc, lao động, sản xuất trực
+ tiếp
+
+85
+
+99
+
+92
+
+86
+
+83
+
+80
+
+78
+
+76
+
+74
+
+2. Buồng theo dõi và điều khiển từ xa không có
+ thông tin bằng điện thoại, các phòng thí nghiệm, thực nghiệm, các phòng thiết
+ bị máy có nguồn ồn.
+
+80
+
+94
+
+87
+
+82
+
+78
+
+75
+
+73
+
+71
+
+70
+
+3. Buồng theo dõi và điều khiển từ xa có thông
+ tin bằng điện thoại, phòng điều phối, phòng lắp máy chính xác, đánh máy chữ.
+
+70
+
+87
+
+79
+
+72
+
+68
+
+65
+
+63
+
+61
+
+59
+
+4. Các phòng chức năng, hành chính, kế toán, kế
+ hoạch.
+
+65
+
+83
+
+74
+
+68
+
+63
+
+60
+
+57
+
+55
+
+54
+
+5. Các phòng lao động trí óc, nghiên cứu thiết kế,
+ thống kê, lập chương trình máy tính, phòng thí nghiệm lý thuyết và xử lý số
+ liệu thực nghiệm.
+
+55
+
+75
+
+66
+
+59
+
+54
+
+50
+
+47
+
+45
+
+43
+
+Trong mọi thời điểm khi làm việc, mức áp âm cực đại
+(Max) không vượt quá 115 dBA.
+
+3. Trang bị bảo hộ cá nhân: Tại nơi làm việc, nếu
+chưa thực hiện được các giải pháp giảm mức áp suất âm xuống dưới 85 dBA thì phải
+thực hiện chế độ bảo vệ thính lực cho người lao động. Trang bị bảo vệ thính lực
+cho người lao động phải đạt yêu cầu ở bảng 3.
+
+Bảng 3. Yêu cầu
+trang bị cá nhân bảo vệ thính lực
+
+Mức áp âm (dBA)
+
+Hiệu suất giảm ồn
+ của trang bị bảo vệ thính lực (dBA)
+
+<90
+
+10-13
+
+Từ 90 đến <95
+
+14-17
+
+Từ 95 đến <100
+
+18-21
+
+Từ 100 đến <105
+
+22-25
+
+Từ 105 đến <110
+
+≥ 26
+
+4. Trường hợp tiếp xúc với các mức áp suất âm khác
+nhau trong một ca làm việc: Tổng mức tiếp xúc với tiếng ồn không được vượt quá
+1 và được tính theo công thức sau:
+
+D = [C1/T1 + C2/T2
++ ... + Cn/Tn] ≤ 1
+
+Trong đó:
+
+D là tổng mức tiếp xúc với tiếng ồn trong ngày làm
+việc.
+
+C1, C2 ,…. Cn là
+khoảng thời gian tiếp xúc thực tế thứ 1, 2,...n tương ứng với mức tiếng ồn thực
+tế đo được trong khoảng thời gian đó.
+
+T1, T2 …. Tn là
+khoảng thời gian tiếp xúc cho phép tương ứng với mức tiếng ồn thực tế đo được
+trong khoảng thời gian C1, C2, ….Cn.
+
+III. PHƯƠNG PHÁP XÁC ĐỊNH
+
+Đo tiếng ồn nơi làm việc theo các phương pháp sau:
+
+1. TCVN 9799:2013
+(ISO 9612:2009) Âm học - Xác định mức tiếp xúc tiếng ồn nghề nghiệp - Phương
+pháp kỹ thuật.
+
+2. Phương pháp 1910.95 App G (OSHA - Monitoring
+noise levels).
+
+IV. QUY ĐỊNH QUẢN LÝ
+
+1. Các cơ sở có người lao động tiếp xúc với tiếng ồn
+phải định kỳ tổ chức đo kiểm tra tiếng ồn nơi làm việc tối thiểu 1 lần/năm và
+theo các quy định của Bộ luật lao động, Luật an toàn, vệ sinh lao động.
+
+2. Người sử dụng lao động phải cung cấp đầy đủ
+trang thiết bị bảo hộ lao động cho người lao động phù hợp với môi trường làm việc.
+
+3. Nếu tiếng ồn nơi làm việc vượt mức giới hạn cho
+phép, người sử dụng lao động phải thực hiện ngay các giải pháp cải thiện điều
+kiện lao động và bảo vệ sức khỏe người lao động.
+
+V. TỔ CHỨC THỰC HIỆN
+
+1. Quy chuẩn này áp dụng thay thế cho tiêu chuẩn về
+tiếng ồn trong Tiêu chuẩn vệ sinh lao động ban hành theo Quyết định số 3733/2002/QĐ-BYT ngày 10/10/2002 của Bộ trưởng Bộ
+Y tế.
+
+2. Cục Quản lý môi trường y tế - Bộ Y tế chủ trì,
+phối hợp với các cơ quan chức năng có liên quan hướng dẫn, triển khai và tổ chức
+việc thực hiện quy chuẩn này.
+
+3. Căn cứ thực tiễn yêu cầu quản lý, Cục Quản lý
+môi trường y tế có trách nhiệm kiến nghị Bộ Y tế sửa đổi, bổ sung cho phù hợp.
+
+4. Trong trường hợp các tiêu chuẩn quốc gia, tiêu
+chuẩn quốc tế về tiếng ồn được viện dẫn trong quy chuẩn này sửa đổi, bổ sung hoặc
+thay thế thì áp dụng theo quy định tại văn bản mới.--- THÔNG TIN THÊM ---
+Ten: Thông tư 24/2016/TT-BYT Quy định Quy chuẩn kỹ thuật quốc gia về tiếng ồn - Mức tiếp xúc cho phép tiếng ồn tại nơi làm việc do Bộ trưởng Bộ Y tế ban hành
+So hieu: 24/2016/TT-BYT
+Loai van ban: Thông tư
+Linh vuc nganh: Lao động - Tiền lương, Thể thao - Y tế
+Noi ban hanh: Bộ Y tế
+Nguoi ky: Nguyễn Thanh Long
+Ngay ban hanh: 30/06/2016
+Ngay hieu luc: 01/12/2016
+Ngay dang: 03/09/2016
+So cong bao: Từ số 903 đến số 904
+Tinh trang: Còn hiệu lực
+
+
+--- MỤC LỤC ---
+- THÔNG TƯ QUY ĐỊNH QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ TIẾNG ỒN - MỨC TIẾP XÚC CHO PHÉP TIẾNG ỒN TẠI NƠI LÀM VIỆC
+  - Điều 1. Quy chuẩn kỹ thuật quốc gia về tiếng ồn
+  - Điều 2. Hiệu lực thi hành
+  - Điều 3. Trách nhiệm thi hành
+- QCVN 24:2016/BYT QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ TIẾNG ỒN - MỨC TIẾP XÚC CHO PHÉP TIẾNG ỒN TẠI NƠI LÀM VIỆC
+  - I. QUY ĐỊNH CHUNG
+  - II. QUY ĐỊNH KỸ THUẬT
+  - III. PHƯƠNG PHÁP XÁC ĐỊNH
+  - IV. QUY ĐỊNH QUẢN LÝ
+  - V. TỔ CHỨC THỰC HIỆN
+
+--- VĂN BẢN LIÊN QUAN ---
+
+Van ban bi sua doi bo sung:
+  - Quyết định 3733/2002/QĐ-BYT về 21 tiêu chuẩn vệ sinh lao động, 05 nguyên tắc và 07 thông số vệ sinh lao ... (ID: 70480)
+
+Van ban duoc dan chieu:
+  - Bộ Luật lao động 2012 (ID: 142187)
+
+Van ban duoc can cu:
+  - Luật an toàn, vệ sinh lao động 2015 (ID: 281961)
+  - Nghị định 63/2012/NĐ-CP quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Y tế (ID: 146851)
+  - Nghị định 127/2007/NĐ-CP Hướng dẫn Luật Tiêu chuẩn và Quy chuẩn kỹ thuật (ID: 54148)
+  - Luật Tiêu chuẩn và quy chuẩn kỹ thuật 2006 (ID: 12979)
+
+Van ban lien quan ngon ngu:
+  - Circular No. 24/2016/TT-BYT dated June 30, 2016, 
+national technical regulation on noise - permissible ... (ID: 318635)
+
+Van ban lien quan cung noi dung:
+  - Thông tư 22/2016/TT-BYT Quy định Quy chuẩn kỹ thuật quốc gia về chiếu sáng - Mức cho phép chiếu sáng nơi làm việc do Bộ trưởng Bộ Y tế ban hành (ID: 318342)
+  - Thông tư 23/2016/TT-BYT Quy định Quy chuẩn kỹ thuật quốc gia về bức xạ tử ngoại - Mức tiếp xúc cho phép bức xạ tử ngoại tại nơi làm việc do Bộ trưởng Bộ Y tế ban hành (ID: 318343)
+  - Thông tư 27/2016/TT-BYT Quy định Quy chuẩn kỹ thuật quốc gia về rung - Giá trị cho phép tại nơi làm việc do Bộ trưởng Bộ Y tế ban hành (ID: 318347)
+  - Thông tư 30/2016/TT-BYT Quy định Quy chuẩn kỹ thuật quốc gia về bức xạ tia X - Giới hạn liều tiếp xúc bức xạ tia X tại nơi làm việc do Bộ trưởng Bộ Y tế ban hành (ID: 318349)
+  - Thông tư 68/2014/TT-BGTVT về Quy chuẩn kỹ thuật quốc gia về kiểm soát tiếng ồn trên tàu biển do Bộ trưởng Bộ Giao thông vận tải ban hành (ID: 258192)

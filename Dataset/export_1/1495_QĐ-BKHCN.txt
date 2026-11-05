@@ -1,0 +1,683 @@
+BỘ KHOA HỌC VÀ 
+
+ CÔNG NGHỆ
+
+ -------
+
+CỘNG HÒA XÃ HỘI
+ CHỦ NGHĨA VIỆT NAM
+
+ Độc lập - Tự do - Hạnh phúc 
+
+ ---------------
+
+Số: 1495/QĐ-BKHCN
+
+Hà Nội, ngày 12
+ tháng 08 năm 2022
+
+ 
+
+QUYẾT ĐỊNH
+
+BAN HÀNH KẾ HOẠCH THỰC HIỆN QUYẾT ĐỊNH SỐ 146/QĐ-TTg NGÀY
+28/01/2022 CỦA THỦ TƯỚNG CHÍNH PHỦ PHÊ DUYỆT ĐỀ ÁN “NÂNG CAO NHẬN THỨC, PHỔ CẬP
+KỸ NĂNG VÀ PHÁT TRIỂN NGUỒN NHÂN LỰC CHUYỂN ĐỔI SỐ QUỐC GIA ĐẾN NĂM 2025, ĐỊNH
+HƯỚNG ĐẾN NĂM 2030” CỦA BỘ KHOA HỌC VÀ CÔNG NGHỆ GIAI ĐOẠN 2022-2025
+
+BỘ TRƯỞNG BỘ KHOA HỌC VÀ CÔNG NGHỆ
+
+Căn cứ Nghị định số
+95/2017/NĐ-CP ngày 16/8/2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền
+hạn và cơ cấu tổ chức của Bộ Khoa học và Công nghệ;
+
+Căn cứ Nghị quyết số
+01/NQ-CP ngày 01 tháng 01 năm 2021 của Chính phủ về nhiệm vụ, giải pháp chủ yếu
+thực hiện Kế hoạch phát triển kinh tế - xã hội và Dự toán ngân sách nhà nước
+năm 2021;
+
+Căn cứ Nghị quyết số
+50/NQ-CP ngày 20 tháng 5 năm 2021 của Chính phủ về Chương trình hành động của
+Chính phủ thực hiện Nghị quyết Đại hội đại biểu toàn quốc lần thứ XIII của Đảng;
+
+Căn cứ Quyết định số
+146/QĐ-TTg ngày 28 tháng 01 năm 2022 của Thủ tướng Chính phủ phê duyệt Đề án
+“Nâng cao nhận thức, phổ cập kỹ năng và phát triển nguồn nhân lực chuyển đổi số
+quốc gia đến năm 2025, định hướng đến năm 2030”;
+
+Theo đề nghị của Giám đốc
+Trung tâm Công nghệ thông tin.
+
+QUYẾT ĐỊNH:
+
+Điều 1.
+Ban hành kèm theo Quyết định này Kế hoạch thực hiện Quyết
+định số 146/QĐ-TTg ngày 28/01/2022 của Thủ tướng Chính phủ phê duyệt Đề án
+“Nâng cao nhận thức, phổ cập kỹ năng và phát triển nguồn nhân lực chuyển đổi số
+quốc gia đến năm 2025, định hướng đến năm 2030” (sau đây gọi tắt là Kế hoạch).
+
+Điều 2.
+Quyết định này có hiệu lực kể từ ngày ký.
+
+Điều 3.
+Giám đốc Trung tâm Công nghệ thông tin, Chánh Văn phòng Bộ,
+Vụ trưởng Vụ Kế hoạch - Tài chính và Thủ trưởng các đơn vị có liên quan chịu
+trách nhiệm thi hành Quyết định này./.
+
+ 
+
+ Nơi nhận:
+
+- Như Điều 4;
+
+ - Thủ tướng Chính phủ (để b/c);
+
+ - Bộ TTTT (để t/d, p/h);
+
+ - Bộ trưởng (để b/c);
+
+ - Các Thứ trưởng (để biết);
+
+ - Các Bộ, cơ quan ngang Bộ (để p/h);
+
+ - Cổng TTĐT của Bộ;
+
+ - Lưu: VT, TTCNTT.
+
+KT. BỘ TRƯỞNG
+
+ THỨ TRƯỞNG
+
+ Bùi Thế Duy
+
+ 
+
+KẾ HOẠCH
+
+THỰC HIỆN QUYẾT ĐỊNH SỐ 146/QĐ-TTg NGÀY 28/01/2022 CỦA THỦ
+TƯỚNG CHÍNH PHỦ PHÊ DUYỆT ĐỀ ÁN “NÂNG CAO NHẬN THỨC, PHỔ CẬP KỸ NĂNG VÀ PHÁT
+TRIỂN NGUỒN NHÂN LỰC CHUYỂN ĐỔI SỐ QUỐC GIA ĐẾN NĂM 2025, ĐỊNH HƯỚNG ĐẾN NĂM
+2030” CỦA BỘ KHOA HỌC VÀ CÔNG NGHỆ GIAI ĐOẠN 2022-2025
+
+(Ban hành kèm theo Quyết định số 1495/QĐ-BKHCN ngày 12 tháng 08 năm 2022 của
+Bộ trưởng Bộ Khoa học và Công nghệ)
+
+I. Mục tiêu
+chung
+
+Tạo sự chuyển biến mạnh mẽ
+trong nhận thức và hành động của lãnh đạo và cán bộ, công chức, viên chức
+(CBCCVC) của Bộ Khoa học và Công nghệ để thúc đẩy thực hiện chuyển đổi số. Phổ
+cập kỹ năng số cho CBCCVC đang làm việc tại Bộ Khoa học và Công nghệ. Nâng cao
+chất lượng, hiệu quả đào tạo và phát triển nguồn nhân lực chuyển đổi số trong
+ngành khoa học và công nghệ.
+
+II. Mục tiêu
+cụ thể đến năm 2025
+
+1. Lãnh đạo các cấp nhận thức
+sâu sắc về chuyển đổi số để chỉ đạo thực hiện chuyển đối số tại cơ quan, tổ chức,
+đơn vị mình.
+
+2. Xây dựng được mạng lưới chuyển
+đổi số đến tận cấp cơ sở với đội ngũ thành viên được thường xuyên đào tạo, bồi
+dưỡng cập nhật kiến thức, kỹ năng làm nòng cốt cho tiến trình chuyển đổi số
+
+3. 100% CBCCVC hằng năm được
+tham gia đào tạo, bồi dưỡng, tập huấn, cập nhật kiến thức về chuyển đổi số, kỹ
+năng số, công nghệ số.
+
+4. 100% cán bộ chuyên trách
+công nghệ thông tin hằng năm được đào tạo, bồi dưỡng, tập huấn về công nghệ số
+và được đánh giá trực tuyến kết quả đào tạo qua Hệ thống đánh giá, sát hạch chuẩn
+kỹ năng số quốc gia.
+
+III. Nhiệm vụ
+thực hiện trong giai đoạn 2022-2025
+
+Chi tiết các nhiệm vụ tại phụ lục
+kèm theo.
+
+IV. Tổ chức
+thực hiện
+
+1. Trách nhiệm thực hiện 
+
+a. Các đơn vị thuộc Bộ:
+
+- Chỉ đạo, tổ chức thực hiện
+các nhiệm vụ được phân công trong Kế hoạch theo đúng tiến độ và đảm bảo hiệu quả,
+chất lượng.
+
+- Gửi báo cáo tình hình thực hiện
+các nhiệm vụ được giao trong Kế hoạch về Trung tâm Công nghệ thông tin định kỳ
+trước ngày 10 tháng 12 hằng tháng. 
+
+b. Trung tâm Công nghệ thông
+tin:
+
+- Làm đầu mối tổ chức, hướng dẫn,
+theo dõi, đôn đốc kiểm tra các đơn vị thuộc Bộ triển khai việc thực hiện Kế hoạch,
+kịp thời báo cáo và kiến nghị với Bộ trưởng các biện pháp cần thiết để đảm bảo
+Kế hoạch được thực hiện hiệu quả, đúng tiến độ.
+
+- Phối hợp, hỗ trợ các đơn vị
+trong quá trình thực hiện các nhiệm vụ thuộc Kế hoạch.
+
+- Tổng hợp, đánh giá, xây dựng
+báo cáo kết quả thực hiện Đề án gửi Bộ Thông tin và Truyền thông, định kỳ trước
+ngày 15 tháng 12 hằng năm.
+
+c. Trung tâm Nghiên cứu và Phát
+triển truyền thông Khoa học và Công nghệ
+
+- Làm đầu mối chủ trì thực hiện
+các chiến dịch truyền thông về chuyển đổi số, xây dựng các nội dung tuyên truyền,
+tạo xu thế về chuyển đổi số của Bộ Khoa học và Công nghệ.
+
+d. Vụ Tổ chức cán bộ
+
+- Ưu tiên xây dựng kế hoạch,
+chương trình đào tạo, bồi dưỡng nhân lực chuyển đổi số thuộc thẩm quyền của Bộ
+theo quy định của pháp luật hiện hành.
+
+- Phối hợp, hỗ trợ các đơn vị
+trong việc đào tạo CBCCVC về chuyển đổi số. 
+
+đ. Vụ Kế hoạch - Tài chính
+
+- Phối hợp với các đơn vị có
+liên quan, thẩm định, trình Lãnh đạo Bộ phê duyệt kinh phí thực hiện Kế hoạch
+trong tổng dự toán chi ngân sách nhà nước hằng năm theo quy định của pháp luật
+hiện hành.
+
+2. Kinh phí thực hiện
+
+Kinh phí thực hiện Kế hoạch được
+trích từ nguồn kinh phí Ngân sách nhà nước cấp cho Bộ Khoa học và Công nghệ và
+các nguồn kinh phí hợp pháp khác theo quy định của pháp luật hiện hành.
+
+ 
+
+PHỤ LỤC
+
+DANH MỤC NHIỆM VỤ THỰC HIỆN ĐỀ ÁN NÂNG CAO NHẬN THỨC, PHỔ
+CẬP KỸ NĂNG VÀ PHÁT TRIỂN NGUỒN NHÂN LỰC CHUYỂN ĐỔI SỐ QUỐC GIA ĐẾN NĂM 2025, ĐỊNH
+HƯỚNG ĐẾN NĂM 2030” CỦA BỘ KHOA HỌC VÀ CÔNG NGHỆ TRONG GIAI ĐOẠN 2022-2025
+
+(Ban hành kèm theo Quyết định số 1495/QĐ-BKHCN ngày 12 tháng 08 năm 2022 của
+Bộ trưởng Bộ Khoa học và Công nghệ)
+
+TT
+
+Nhiệm vụ, giải pháp
+
+Cơ quan chủ trì
+
+Cơ quan phối hợp
+
+Thời gian thực hiện
+
+Thời gian hoàn thành
+
+Kết quả, sản phẩm
+
+I
+
+Xây
+ dựng cơ chế chính sách
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1
+
+Xây dựng và ban hành cơ chế,
+ chính sách hỗ trợ, triển khai đào tạo, bồi dưỡng kiến thức, kỹ năng về chuyển
+ đổi số cho đội ngũ cán bộ quản lý, chuyên trách và trực tiếp triển khai chuyển
+ đổi số
+
+Vụ Tổ chức cán bộ
+
+Trung tâm Công nghệ thông tin
+
+08/2022
+
+12/2025
+
+Cơ chế, chính sách hỗ trợ,
+ triển khai đào tạo, bồi dưỡng kiến thức, kỹ năng về chuyển đổi số
+
+2
+
+Tham mưu, đề xuất cấp có thẩm
+ quyền biểu dương, khen thưởng các tổ chức, cá nhân điển hình tiên tiến trong
+ thực hiện chuyển đổi số
+
+Vụ Thi đua - Khen thưởng
+
+Trung tâm Công nghệ thông tin
+
+08/2022
+
+12/2025
+
+Danh sách tập thể, cá nhân được
+ đề nghị khen thưởng
+
+II
+
+Nâng
+ cao nhận thức
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1
+
+Xây dựng, thiết lập và duy
+ trì thường xuyên các chuyên mục, chuyên trang về chuyển đổi số trên các
+ phương tiện thông tin đại chúng; đưa tin, đặt bài, viết bài về chuyển đổi số trên
+ hệ thống báo chí, báo điện tử, trang tin điện tử, diễn đàn trực tuyến; tuyên
+ truyền trên các cổng/trang thông tin điện tử, mạng nội bộ của Bộ và các đơn vị
+ thuộc Bộ
+
+Trung tâm Công nghệ thông tin
+ và các đơn vị chủ quản cổng/trang thông tin điện tử
+
+Các đơn vị thuộc Bộ
+
+08/2022
+
+12/2025
+
+Tin bài về chuyển đổi số trên
+ hệ thống báo chí, báo điện tử, trang tin điện tử, diễn đàn trực tuyến; tuyên
+ truyền trên các cổng/trang thông tin điện tử, mạng nội bộ của Bộ và các đơn vị
+ thuộc Bộ
+
+2
+
+Đưa các tin bài về chuyển đổi
+ số trên trang thông tin điện tử của Văn phòng các Chương trình KH&CN quốc
+ gia
+
+Văn phòng các Chương trình
+ KH&CN quốc gia
+
+ 
+
+08/2022
+
+12/2022
+
+Các tin, bài liên quan đến
+ chuyển đổi số trên trang thông tin điện tử của Văn phòng các Chương trình
+ KH&CN quốc gia
+
+3
+
+Truyền thông nâng cao nhận thức
+ về chuyển đổi số trên trên các kênh thông tin, nền tảng số của Bộ
+
+Trung tâm Nghiên cứu và Phát
+ triển truyền thông Khoa học và Công nghệ
+
+Trung tâm Công nghệ thông
+ tin, Văn phòng Bộ
+
+08/2022
+
+12/2025
+
+Một số hội nghị, hội thảo, tọa
+ đàm, phỏng vấn, tin bài, ảnh, video, clip
+
+4
+
+Nâng cao nhận thức về kỹ năng
+ số cho người dân, doanh nghiệp về Tiêu chuẩn Đo lường Chất lượng
+
+Tổng cục Tiêu chuẩn Đo lường
+ Chất lượng
+
+ 
+
+08/2022
+
+12/2025
+
+Các tin, bài liên quan đến
+ chuyển đổi số trong lĩnh vực Tiêu chuẩn Đo lường Chất lượng
+
+5
+
+Tuyên truyền, phổ biến nâng
+ cao nhận thức về các tiêu chuẩn liên quan đến Chuyển đổi số ngành Tiêu chuẩn
+ Đo lường chất lượng
+
+Tổng cục Tiêu chuẩn Đo lường
+ Chất lượng
+
+ 
+
+08/2022
+
+12/2025
+
+Hội nghị, hội thảo, bồi dưỡng
+ nâng cao nhận thức trong hệ thống ngành Tiêu chuẩn Đo lường chất lượng về các
+ tiêu chuẩn liên quan đến Chuyển đổi số
+
+6
+
+Tuyên truyền, phổ biến nâng
+ cao nhận thức về Chuyển đổi số trong lĩnh vực đo lường
+
+Tổng cục Tiêu chuẩn Đo lường
+ Chất lượng
+
+ 
+
+08/2022
+
+12/2025
+
+Hội nghị, hội thảo bồi dưỡng
+ nâng cao nhận thức trong hệ thống ngành Tiêu chuẩn Đo lường chất lượng về hoạt
+ động Chuyển đổi số trong lĩnh vực đo lường
+
+7
+
+Tuyên truyền, phổ biến nâng
+ cao nhận thức về Chuyển đổi số trong lĩnh vực đánh giá hợp chuẩn và hợp quy
+
+Tổng cục Tiêu chuẩn Đo lường
+ Chất lượng
+
+ 
+
+08/2022
+
+12/2025
+
+Hội nghị, hội thảo, bồi dưỡng
+ nâng cao nhận thức trong hệ thống ngành Tiêu chuẩn Đo lường chất lượng về hoạt
+ động Chuyển đổi số trong lĩnh vực đánh giá hợp chuẩn và hợp quy
+
+8
+
+Tổ chức tập huấn cho cơ quan
+ quản lý, tổ chức, doanh nghiệp về mã số mã vạch để chuyển đổi số
+
+Tổng cục Tiêu chuẩn Đo lường
+ Chất lượng
+
+ 
+
+08/2022
+
+12/2025
+
+Tài liệu hướng dẫn, triển khai
+ đào tạo, bồi dưỡng kiến thức về mã số, mã vạch để chuyển đổi số cho đội ngũ
+ cán bộ quản lý, chuyên trách và trực tiếp triển khai chuyển đổi số; cùng các
+ đơn vị doanh nghiệp có liên quan
+
+9
+
+Xây dựng và duy trì chuyên mục
+ “Chuyển đổi số” trên Tạp chí Khoa học và Công nghệ Việt Nam điện tử nhằm
+ tuyên truyền sâu rộng về Đề án
+
+Tạp chí Khoa học và Công nghệ
+ Việt Nam
+
+ 
+
+08/2022
+
+12/2025
+
+Các tin, bài liên quan đến
+ chuyển đổi số trên Tạp chí Khoa học và Công nghệ Việt Nam
+
+10
+
+Cập nhật thông tin về chuyển
+ đổi số, biên soạn và xuất bản tổng luận chuyên đề về chuyển đổi số trong khoa
+ học công nghệ và đổi mới sáng tạo
+
+Cục Thông tin Khoa học và
+ Công nghệ Quốc gia
+
+ 
+
+08/2022
+
+12/2025
+
+Tổng luận chuyên đề về chuyển
+ đổi số trong khoa học công nghệ và đổi mới sáng tạo
+
+III
+
+Phổ
+ cập kỹ năng và phát triển nguồn nhân lực chuyển đổi số
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1
+
+Đào tạo, đào tạo lại, đào tạo
+ ngắn hạn, bồi dưỡng, tập huấn về chuyển đổi số, kỹ năng số cho CBCCVC. 100%
+ cán bộ lãnh đạo, CBCCVC trong Bộ được tham gia đào tạo, bồi dưỡng, tập huấn, cập
+ nhật kiến thức về chuyển đổi số, kỹ năng số, công nghệ số
+
+Các đơn vị thuộc Bộ
+
+ 
+
+08/2022
+
+12/2025
+
+01 buổi tập huấn về chuyển đổi
+ số, kỹ năng số cho CBCCVC thuộc Bộ/ năm hoặc các chương trình đào tạo
+
+2
+
+Tổ chức lớp bồi dưỡng, tập huấn
+ ngắn hạn về chuyển đổi số, kỹ năng số cho cán bộ, viên chức và người lao động
+ thuộc các tổ chức thực hiện chức năng ứng dụng, chuyển giao, đổi mới công nghệ
+ và đổi mới sáng tạo tại địa phương giai đoạn 2022-2025
+
+Cục Ứng dụng và Phát triển
+ công nghệ
+
+Trung tâm Công nghệ thông tin,
+ Vụ Phát triển KH&CN địa phương, Vụ Tổ chức cán bộ
+
+08/2022
+
+12/2025
+
+120 cán bộ, viên chức và người
+ lao động được bồi dưỡng, tập huấn.
+
+IV
+
+Hợp
+ tác, hỗ trợ triển khai
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1
+
+Xây dựng, phát triển, kết nối
+ mạng lưới hợp tác trong nước và quốc tế nhằm đào tạo nhân lực KH&CN phục
+ vụ việc chuyển đổi số, chuyển giao, đổi mới, hoàn thiện công nghệ
+
+Quỹ đổi mới công nghệ quốc
+ gia
+
+Vụ Hợp tác quốc tế; Trung tâm
+ Nghiên cứu và Phát triển truyền thông Khoa học và Công nghệ
+
+08/2022
+
+12/2025
+
+- 01 mạng lưới hợp tác trong
+ nước (tối thiểu 100 chuyên gia, 05 tổ chức);
+
+- 01 mạng lưới hợp tác quốc tế
+ (tối thiểu 50 chuyên gia tại nước ngoài);
+
+- 03 chương trình đào tạo về
+ Chuyển đổi số, Đổi mới công nghệ và Chuyển giao làm chủ công nghệ.
+
+V
+
+Triển
+ khai
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1
+
+Xây dựng kế hoạch thực hiện Đề
+ án cả giai đoạn
+
+Trung tâm Công nghệ thông tin
+
+Các đơn vị thuộc Bộ
+
+08/2022
+
+12/2022
+
+Kế hoạch thực hiện Đề án giai
+ đoạn 2022-2025
+
+2
+
+Thực hiện tổng hợp, đánh giá,
+ báo cáo kết quả triển khai Đề án gửi Bộ Thông tin và Truyền thông trước ngày
+ 15/12 hằng năm
+
+Trung tâm Công nghệ thông tin
+
+Các đơn vị thuộc Bộ
+
+Định kỳ hằng năm
+
+12/2025
+
+Báo cáo kết quả triển khai Đề
+ án hằng năm
+
+3
+
+Tham mưu, đề xuất Lãnh đạo Bộ
+ cử cán bộ và bố trí kinh phí cho cán bộ tham gia chương trình đào tạo 1000
+ chuyên gia chuyển đổi số và các hoạt động của mạng lưới chuyên gia chuyển đổi
+ số quốc gia theo sự điều phối của Bộ Thông tin và Truyền thông
+
+Trung tâm Công nghệ thông tin
+
+Vụ Tổ chức cán bộ; Vụ Kế hoạch
+ - Tài chính
+
+08/2022
+
+12/2025
+
+Danh sách CBCCVC của Bộ đủ điều
+ kiện tham gia--- THÔNG TIN THÊM ---
+Ten: Quyết định 1495/QĐ-BKHCN năm 2022 về Kế hoạch thực hiện Quyết định 146/QĐ-TTg phê duyệt Đề án "Nâng cao nhận thức, phổ cập kỹ năng và phát triển nguồn nhân lực chuyển đổi số quốc gia đến năm 2025, định hướng đến năm 2030" của Bộ Khoa học và Công nghệ giai đoạn 2022-2025
+So hieu: 1495/QĐ-BKHCN
+Loai van ban: Quyết định
+Linh vuc nganh: Lao động - Tiền lương, Công nghệ thông tin
+Noi ban hanh: Bộ Khoa học và Công nghệ
+Nguoi ky: Bùi Thế Duy
+Ngay ban hanh: 12/08/2022
+Ngay hieu luc: 12/08/2022
+Ngay dang: Dữ liệu đang cập nhật
+So cong bao: Dữ liệu đang cập nhật
+Tinh trang: Còn hiệu lực
+
+
+--- MỤC LỤC ---
+- QUYẾT ĐỊNH BAN HÀNH KẾ HOẠCH THỰC HIỆN QUYẾT ĐỊNH SỐ 146/QĐ-TTg NGÀY 28/01/2022 CỦA THỦ TƯỚNG CHÍNH PHỦ PHÊ DUYỆT ĐỀ ÁN “NÂNG CAO NHẬN THỨC, PHỔ CẬP KỸ NĂNG VÀ PHÁT TRIỂN NGUỒN NHÂN LỰC CHUYỂN ĐỔI SỐ QUỐC GIA ĐẾN NĂM 2025, ĐỊNH HƯỚNG ĐẾN NĂM 2030” CỦA BỘ KHOA HỌC VÀ CÔNG NGHỆ GIAI ĐOẠN 2022-2025
+  - Điều 1. Ban hành kèm theo Quyết định này Kế hoạch thực hiện Quyết định số 146/QĐ-TTg ngày 28/01/2022 của Thủ tướng Chính phủ phê duyệt Đề án “Nâng cao nhận thức, phổ cập kỹ năng và phát triển nguồn nhân lực chuyển đổi số quốc gia đến năm 2025, định hướng đến năm 2030” (sau đây gọi tắt là Kế hoạch).
+  - Điều 2. Quyết định này có hiệu lực kể từ ngày ký.
+  - Điều 3. Giám đốc Trung tâm Công nghệ thông tin, Chánh Văn phòng Bộ, Vụ trưởng Vụ Kế hoạch - Tài chính và Thủ trưởng các đơn vị có liên quan chịu trách nhiệm thi hành Quyết định này./.
+- KẾ HOẠCH THỰC HIỆN QUYẾT ĐỊNH SỐ 146/QĐ-TTg NGÀY 28/01/2022 CỦA THỦ TƯỚNG CHÍNH PHỦ PHÊ DUYỆT ĐỀ ÁN “NÂNG CAO NHẬN THỨC, PHỔ CẬP KỸ NĂNG VÀ PHÁT TRIỂN NGUỒN NHÂN LỰC CHUYỂN ĐỔI SỐ QUỐC GIA ĐẾN NĂM 2025, ĐỊNH HƯỚNG ĐẾN NĂM 2030” CỦA BỘ KHOA HỌC VÀ CÔNG NGHỆ GIAI ĐOẠN 2022-2025
+  - I. Mục tiêu chung
+  - II. Mục tiêu cụ thể đến năm 2025
+  - III. Nhiệm vụ thực hiện trong giai đoạn 2022-2025
+  - IV. Tổ chức thực hiện
+  - PHỤ LỤC DANH MỤC NHIỆM VỤ THỰC HIỆN ĐỀ ÁN NÂNG CAO NHẬN THỨC, PHỔ CẬP KỸ NĂNG VÀ PHÁT TRIỂN NGUỒN NHÂN LỰC CHUYỂN ĐỔI SỐ QUỐC GIA ĐẾN NĂM 2025, ĐỊNH HƯỚNG ĐẾN NĂM 2030” CỦA BỘ KHOA HỌC VÀ CÔNG NGHỆ TRONG GIAI ĐOẠN 2022-2025
+    - I Xây   dựng cơ chế chính sách
+    - II Nâng   cao nhận thức
+    - III Phổ   cập kỹ năng và phát triển nguồn nhân lực chuyển đổi số
+    - IV Hợp   tác, hỗ trợ triển khai
+    - V Triển   khai
+
+--- VĂN BẢN LIÊN QUAN ---
+
+Van ban duoc can cu:
+  - Quyết định 146/QĐ-TTg năm 2022 phê duyệt Đề án "Nâng cao nhận thức, phổ cập kỹ năng và phát triển nguồn ... (ID: 502108)
+  - Nghị quyết 50/NQ-CP năm 2021 về Chương trình hành động thực hiện Nghị quyết Đại hội đại biểu toàn quốc lần ... (ID: 474838)
+  - Nghị quyết 01/NQ-CP về nhiệm vụ, giải pháp chủ yếu thực hiện Kế hoạch phát triển kinh tế - xã hội và Dự ... (ID: 461294)
+  - Nghị định 95/2017/NĐ-CP về quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Khoa học và ... (ID: 359166)
+
+Van ban lien quan cung noi dung:
+  - Công văn 4771/BGDĐT-CNTT năm 2023 hướng dẫn thực hiện nhiệm vụ ứng dụng công nghệ thông tin, chuyển đổi số và thống kê giáo dục năm học 2023-2024 do Bộ Giáo dục và Đào tạo ban hành (ID: 578699)
+  - Quyết định 11/QĐ-BXD năm 2023 về Chiến lược phát triển Khoa học, Công nghệ và đổi mới sáng tạo ngành Xây dựng đến năm 2030 do Bộ trưởng Bộ Xây dựng ban hành (ID: 550292)
+  - Quyết định 1413/QĐ-BXD năm 2022 về Chiến lược phát triển nguồn nhân lực ngành Xây dựng giai đoạn 2022-2030 do Bộ trưởng Bộ Xây dựng ban hành (ID: 550293)
+  - Kế hoạch 265/KH-UBND bồi dưỡng nâng cao nhận thức về chuyển đổi số cho cán bộ, công chức, viên chức tỉnh Quảng Ninh năm 2022 (ID: 539285)
+  - Quyết định 2400/QÐ-BVHTTDL năm 2022 về Kế hoạch triển khai Quyết định 146/QĐ-TTg phê duyệt Đề án "Nâng cao nhận thức, phổ cập kỹ năng và phát triển nguồn nhân lực chuyển đổi số quốc gia đến năm 2025, định hướng đến năm 2030" do Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch ban hành (ID: 531037)
+  - Quyết định 1961/QĐ-BTC về Kế hoạch Chuyển đổi số của Bộ Tài chính năm 2022 (ID: 530960)
+  - Quyết định 922/QĐ-BTTTT năm 2022 phê duyệt Đề án "Xác định Bộ chỉ số đánh giá chuyển đổi số của các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ, các tỉnh, thành phố trực thuộc Trung ương và của quốc gia" do Bộ trưởng Bộ Thông tin và Truyền thông ban hành (ID: 514140)
+  - Quyết định 431/QĐ-BXD phê duyệt "Kế hoạch ứng dụng công nghệ thông tin, chuyển đổi số của cơ quan Bộ Xây dựng năm 2022" (ID: 514395)
+  - Quyết định 359/QĐ-BTTTT năm 2022 về Kế hoạch thực hiện Quyết định 146/QĐ-TTg phê duyệt Đề án "Nâng cao nhận thức, phổ cập kỹ năng và phát triển nguồn nhân lực chuyển đổi số quốc gia đến năm 2025, định hướng đến năm 2030" của Bộ Thông tin và Truyền thông (ID: 505045)

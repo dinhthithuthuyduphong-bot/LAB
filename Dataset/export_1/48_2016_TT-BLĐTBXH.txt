@@ -1,0 +1,641 @@
+BỘ LAO ĐỘNG
+ THƯƠNG BINH VÀ XÃ HỘI
+
+ -------
+
+CỘNG HÒA XÃ HỘI
+ CHỦ NGHĨA VIỆT NAM
+
+ Độc lập - Tự do - Hạnh phúc 
+
+ ---------------
+
+Số:
+ 48/2016/TT-BLĐTBXH
+
+Hà Nội, ngày 28
+ tháng 12 năm 2016
+
+ 
+
+THÔNG TƯ
+
+BAN
+HÀNH QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ AN TOÀN LAO ĐỘNG ĐỐI VỚI THANG MÁY ĐIỆN
+KHÔNG BUỒNG MÁY
+
+Căn cứ Luật An toàn, vệ sinh lao động số
+84/2015/QH13 ngày 25 tháng 6 năm 2015;
+
+Căn cứ Nghị định số 39/2016/NĐ-CP ngày 15 tháng
+5 năm 2016 của Chính phủ quy định chi tiết thi hành một số điều của Luật An
+toàn, vệ sinh lao động;
+
+Căn cứ Nghị định số 106/2012/NĐ-CP ngày 20 tháng
+12 năm 2012 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ
+chức của Bộ Lao động - Thương binh và Xã hội;
+
+Theo đề nghị của Cục trưởng Cục An toàn lao động;
+
+Bộ trưởng Bộ Lao động - Thương binh và Xã hội
+ban hành Thông tư ban hành Quy chuẩn kỹ thuật quốc gia về an toàn lao động đối
+với Thang máy điện không buồng máy.
+
+Điều 1. Tên và ký hiệu Quy chuẩn
+
+Ban hành kèm theo Thông tư này Quy chuẩn kỹ thuật
+quốc gia về an toàn lao động đối với Thang máy điện không buồng máy.
+
+Ký hiệu: QCVN 26:2016/BLĐTBXH.
+
+Điều 2. Tổ chức thực hiện
+
+1. Các tổ chức cá nhân sản xuất, nhập khẩu, cung cấp,
+sử dụng, sửa chữa thang máy điện không buồng máy có trách nhiệm thực hiện đúng
+các quy định tại Quy chuẩn ban hành kèm theo Thông tư này.
+
+2. Các tổ chức thực hiện việc kiểm định, chứng nhận
+hợp quy đối với thang máy điện không buồng máy phải tuân theo các quy định tại
+Quy chuẩn ban hành kèm theo Thông tư này.
+
+3. Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ,
+Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương và các tổ chức, cá
+nhân có liên quan chịu trách nhiệm thi hành Thông tư này.
+
+Điều 3. Hiệu lực thi hành
+
+1. Thông tư này có hiệu lực kể từ ngày 01 tháng 8
+năm 2017.
+
+2. Trong quá trình thực hiện, nếu có vướng mắc đề
+nghị phản ánh về Bộ Lao động - Thương binh và Xã hội để nghiên cứu giải quyết./.
+
+ 
+
+ Nơi nhận:
+
+- Ban bí thư Trung ương Đảng;
+
+ - Thủ tướng Chính phủ, các Phó Thủ tướng Chính phủ;
+
+ - Văn phòng Quốc hội; Văn phòng Chủ tịch nước;
+
+ - Văn phòng Chính phủ;
+
+ - Văn phòng Trung ương và các Ban của Đảng;
+
+ - Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ;
+
+ - Viện Kiểm sát nhân dân tối cao, Tòa án nhân dân tối cao;
+
+ - Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam;
+
+ - Cơ quan Trung ương các đoàn thể và các Hội;
+
+ - Kiểm toán nhà nước;
+
+ - HĐND, UBND các tỉnh, thành phố trực thuộc Trung ương;
+
+ - Sở LĐTBXH, thành phố trực thuộc Trung ương;
+
+ - Các Tập đoàn kinh tế và các Tổng công ty hạng đặc biệt;
+
+ - Bảo hiểm tiền gửi Việt Nam;
+
+ - Ngân hàng Chính sách xã hội; Ngân hàng Phát triển Việt Nam;
+
+ - Cục Kiểm tra văn bản quy phạm pháp luật (Bộ Tư pháp);
+
+ - Công báo; Cổng TTĐT Chính phủ;
+
+ - Cổng TTĐT Bộ LĐTBXH;
+
+ - Lưu: VT, ATLĐ, PC.
+
+KT. BỘ TRƯỞNG
+
+ THỨ TRƯỞNG
+
+ Doãn Mậu Diệp
+
+ 
+
+QCVN 26:2016/BLĐTBXH
+
+QUY
+CHUẨN KỸ THUẬT QUỐC GIA VỀ AN TOÀN LAO ĐỘNG ĐỐI VỚI THANG MÁY ĐIỆN KHÔNG BUỒNG
+MÁY
+
+National
+technical regulation on safe work for machine room-less electric lift
+
+Lời nói đầu
+
+QCVN 26:2016/BLĐTBXH - Quy chuẩn kỹ thuật quốc gia
+về an toàn lao động đối với thang máy điện không buồng máy do Cục An toàn lao động
+biên soạn, Bộ Lao động - Thương binh và Xã hội ban hành theo Thông tư số
+48/2016/TT-BLĐTBXH ngày 28 tháng 12 năm 2016, sau khi có ý kiến thẩm định của Bộ
+Khoa học và Công nghệ.
+
+ 
+
+QUY CHUẨN KỸ THUẬT
+QUỐC GIA VỀ AN TOÀN LAO ĐỘNG ĐỐI VỚI THANG MÁY ĐIỆN KHÔNG BUỒNG MÁY
+
+National
+technical regulation on safe work for machine room-less electric lift
+
+1. Quy định chung
+
+1.1. Phạm vi điều chỉnh
+
+Quy chuẩn kỹ thuật này áp dụng đối với các loại
+thang máy điện không có buồng máy (sau đây gọi tắt là thang máy) được lắp đặt cố
+định, sử dụng để vận chuyển người hoặc hàng hóa có người đi kèm phục vụ những tầng
+dừng xác định di chuyển theo ray dẫn hướng đặt đứng hoặc nghiêng không quá 15°
+so với phương thẳng đứng.
+
+Đối với các thang máy làm việc theo chế độ nghiêm
+ngặt, có đối tượng phạm vi hoạt động đặc biệt (như vận chuyển hóa chất, vật liệu
+nổ...) và hoạt động trong môi trường có tính chất khác thường, ngoài việc tuân
+thủ các quy định của quy chuẩn này, còn phải tuân thủ các quy định khác của cơ
+quan có thẩm quyền về an toàn lao động hoặc cơ quan có thẩm quyền về phòng cháy
+chữa cháy khi lắp đặt và sử dụng.
+
+1.2. Đối tượng áp dụng
+
+Quy chuẩn này áp dụng với:
+
+1.2.1. Các tổ chức, cá nhân sản xuất, nhập khẩu,
+cung cấp, sử dụng, sửa chữa thang máy.
+
+1.2.2. Các cơ quan quản lý nhà nước và các tổ chức,
+cá nhân có liên quan.
+
+1.3. Giải thích từ ngữ
+
+Thang máy điện không buồng máy là thang máy điện có
+động cơ dẫn động, các cơ cấu và các bộ phận khác được đặt trong giếng thang.
+
+Bên cạnh đó, quy chuẩn này sử dụng các thuật ngữ, định
+nghĩa của Tiêu chuẩn quốc gia TCVN 6395:2008 Thang máy điện - Yêu cầu về cấu tạo
+và lắp đặt.
+
+2. Quy định về kỹ thuật
+
+2.1. Tuân thủ các yêu cầu kỹ thuật được quy định tại
+TCVN 6395:2008 Thang máy điện - yêu cầu về cấu tạo và lắp đặt, trừ các quy định
+tại Mục 5, Mục 10.8 và Mục 11.8.1.4.1.
+
+2.2. Quy định về vị trí của máy dẫn động và puly
+
+2.2.1. Máy dẫn động thang máy phải được lắp đặt tại
+vị trí thuận tiện cho việc kiểm tra, thử nghiệm, bảo dưỡng và sửa chữa.
+
+2.2.2. Tại vị trí lắp máy dẫn động và puly không được
+để các ống dẫn, cáp điện hoặc các thiết bị khác không phải của thang máy.
+
+Không sử dụng vị trí dùng để lắp máy dẫn động và
+puly kết hợp vào một mục đích khác không liên quan đến thang máy.
+
+2.2.3. Nhiệt độ nơi lắp đặt máy dẫn động và các thiết
+bị điện phải duy trì trong giới hạn từ + 5°C đến + 40°C.
+
+2.2.4. Tại trần giếng thang phải bố trí móc treo có
+kết cấu chắc chắn để treo thiết bị nâng phục vụ việc tháo lắp máy dẫn động, thiết
+bị của thang máy.
+
+2.2.5. Các bộ phận đỡ máy dẫn động và khu vực làm
+việc bên trong giếng thang phải có kết cấu chịu được các tải trọng và lực đặt
+lên chúng.
+
+2.3. Quy định về bộ khống chế vượt tốc
+
+Bộ khống chế vượt tốc phải được lắp đặt tại vị trí
+thuận tiện cho người tác động.
+
+2.4. Quy định về dây treo, cáp
+
+2.4.1. Đối với loại cáp thép tròn, có đường kính
+không nhỏ hơn 8mm phải tuân thủ các quy định tại mục 7.9.1 của TCVN 6395:2008 .
+
+2.4.2. Đối với các loại cáp khác phải tuân thủ các
+quy định tại mục 7.9.1.1 và 7.9.1.3 của TCVN 6395:2008 . Bên cạnh đó, nhà sản xuất
+thang máy phải chứng minh được độ bền của cáp và chịu trách nhiệm trước pháp luật
+về việc bảo đảm an toàn trong quá trình vận hành, kiểm tra, bảo dưỡng, xử lý sự
+cố thang máy sử dụng loại cáp này; Đưa ra các nội dung hướng dẫn về thời hạn
+thay cáp, dấu hiệu nhận biết cáp không còn đảm bảo an toàn vào tài liệu hướng dẫn
+lắp đặt, vận hành, kiểm tra, bảo dưỡng, xử lý sự cố.
+
+2.4.3. Cáp sử dụng phải có chứng chỉ, nguồn gốc, xuất
+xứ rõ ràng của nhà sản xuất cáp và được các tổ chức chứng nhận sự phù hợp chứng
+nhận đạt yêu cầu về độ an toàn.
+
+2.5. Quy định đường kính puly và cố định đầu cáp
+
+2.5.1. Đối với loại cáp tròn, có đường kính không
+nhỏ hơn 8mm phải tuân thủ các quy định tại mục 7.9.2 của TCVN 6395:2008 .
+
+2.5.2. Đối với các loại cáp khác, nhà sản xuất
+thang máy phải đưa ra các thông số về hệ số an toàn, tuổi thọ của cáp, yêu cầu
+về loại puly, quy định cố định đầu cáp để đảm bảo an toàn, phù hợp với loại cáp
+được sử dụng và chịu trách nhiệm trước pháp luật về việc bảo đảm an toàn trong
+quá trình vận hành, kiểm tra, bảo dưỡng, xử lý sự cố thang máy sử dụng loại cáp
+này.
+
+2.6. Quy định về công tác cứu hộ
+
+Phải trang bị cho thang máy hai hệ thống cứu hộ bằng
+tay và cứu hộ bằng điện để có thể dễ dàng thao tác trong quá trình cứu hộ thang
+máy khi gặp sự cố:
+
+2.6.1. Cứu hộ bằng tay
+
+2.6.1.1. Phải trang bị phương tiện cứu hộ bằng tay
+cho thang máy (thanh tác động, cần kéo, móc kéo,..) để dịch chuyển cabin đến tầng
+dừng gần nhất.
+
+2.6.1.2. Nếu không tiếp cận được máy dẫn động khi cứu
+hộ bằng tay phải có cơ cấu mở phanh máy dẫn động đặt bên ngoài giếng thang máy
+tại vị trí thuận tiện cho người thực hiện thao tác cứu hộ.
+
+2.6.1.3. Tại vị trí mở phanh phải có các biện pháp
+để dễ dàng trong việc nhận biết được vị trí cabin (Có thể dùng cách đánh dấu
+lên cáp hoặc bằng cách quan sát hệ thống hiển thị của bộ điều khiển thang
+máy...).
+
+2.6.1.4. Phải có cơ cấu nhả bộ khống chế vượt tốc đặt
+bên ngoài giếng thang tại vị trí thuận tiện cho người thực hiện thao tác cứu hộ.
+
+2.6.2. Cứu hộ bằng điện
+
+Phải trang bị phương tiện cứu hộ bằng điện cho
+thang máy và đảm bảo các yêu cầu sau:
+
+2.6.2.1. Cho phép điều khiển chuyển động của cabin
+từ tủ điều khiển (tủ điều khiển phải được đặt ở bên ngoài giếng thang máy tại vị
+trí thuận tiện cho người thực hiện thao tác cứu hộ) bằng cách ấn nút liên tục.
+Chiều chuyển động phải được chỉ rõ.
+
+2.6.2.2. Nếu tủ điều khiển lắp trong giếng thang mà
+không tiếp cận được thì phải có thiết bị điều khiển khác thay thế.
+
+2.6.3. Quy định về công tác bảo dưỡng, bảo trì
+thang máy
+
+Nhà sản xuất thang máy phải đưa ra quy trình bảo dưỡng,
+bảo trì thích hợp để đảm bảo an toàn cho người trong quá trình bảo dưỡng, bảo
+trì.
+
+2.6.4. Quy trình cứu hộ
+
+Nhà sản xuất thang máy phải đưa ra quy trình cứu hộ
+thích hợp trong trường hợp xảy ra sự cố.
+
+3. Quy định về quản lý
+
+3.1. Hồ sơ kỹ thuật của thang máy bao gồm:
+
+3.1.1. Bản thuyết minh chung phải thể hiện được:
+
+- Tên và địa chỉ của Nhà sản xuất, kiểu, mã hiệu,
+năm sản xuất, số tầng hoạt động, tải trọng (số người) cho phép;
+
+- Các đặc trưng kỹ thuật chính của hệ thống như:
+Thiết bị điều khiển, thiết bị an toàn, máy dẫn động, hệ số an toàn và tuổi thọ
+của cáp, cơ cấu hạn chế quá tải.
+
+3.1.2. Bản sao chứng chỉ thử nghiệm trên mẫu của các
+bộ phận an toàn.
+
+3.1.3. Bản sao chứng chỉ của các bộ phận quan trọng
+khác (cáp, xích, thiết bị phòng nổ, kính,...).
+
+3.1.4. Bản vẽ sơ đồ nguyên lý hoạt động.
+
+3.1.5. Bản vẽ lắp các cụm cơ cấu của thang máy, sơ
+đồ mắc cáp, đối trọng.
+
+3.1.6. Bản vẽ tổng thể của thang máy có ghi các
+kích thước và thông số chính, kích thước cabin.
+
+3.1.7. Hướng dẫn lắp đặt, vận hành, kiểm tra, quy
+trình bảo dưỡng, bảo trì, xử lý sự cố.
+
+3.1.8. Tất cả các bộ phận hợp thành của thang máy
+phải có chứng nhận về chất lượng và nơi sản xuất; thang máy khi xuất xưởng phải
+ghi rõ mã hiệu, tải trọng (số người) cho phép tại bảng điều khiển trong cabin.
+
+3.2. Điều kiện đảm bảo an toàn đối với thang máy sản
+xuất trong nước 
+
+Nhà sản xuất thang máy phải thực hiện các yêu cầu về
+quản lý chất lượng như sau:
+
+3.2.1. Đủ hồ sơ kỹ thuật theo quy định tại mục 3.1
+của Quy chuẩn này.
+
+3.2.2. Thang máy sản xuất trong nước phải được chứng
+nhận hợp quy theo quy định tại mục 4.1.1 của Quy chuẩn này.
+
+3.2.3. Nhà sản xuất phải công bố hợp quy đối với
+thang máy theo quy định.
+
+3.2.4. Gắn dấu hợp quy sau khi lắp đặt xong trước
+khi đưa thang máy vào sử dụng.
+
+3.3. Điều kiện đảm bảo an toàn đối với thang máy nhập
+khẩu 
+
+3.3.1. Đủ hồ sơ kỹ thuật theo quy định tại mục 3.1
+của Quy chuẩn này.
+
+3.3.2. Thang máy khi nhập khẩu phải được chứng nhận
+hợp quy theo quy định tại mục 4.1.2 của Quy chuẩn này.
+
+3.3.3. Trong trường hợp nhập khẩu, nếu theo thỏa
+thuận song phương hoặc đa phương giữa cơ quan có thẩm quyền của Cộng hòa xã Nam
+với các nước xuất khẩu thang máy quy định không phải kiểm tra chất lượng khi nhập
+khẩu thì các thang máy này được miễn kiểm tra nhập khẩu.
+
+3.4. Điều kiện đảm bảo an toàn đối với thang máy
+cung cấp trên thị trường
+
+Đối với thang máy cung cấp trên thị trường, các tổ
+chức cá nhân phân phối, bán lẻ phải thực hiện các yêu cầu sau:
+
+3.4.1. Đã được chứng nhận hợp quy và gắn dấu hợp
+quy.
+
+3.4.2. Tuân thủ các quy chuẩn kỹ thuật quốc gia
+tương ứng trong quá trình bảo quản, cung cấp thang máy và theo hướng dẫn của
+nhà sản xuất.
+
+3.4.3. Tự áp dụng các biện pháp kiểm soát chất lượng
+nhằm duy trì chất lượng của thang máy do mình bán.
+
+3.5. Yêu cầu đối với thang máy đủ điều kiện lắp đặt
+
+3.5.1. Thang máy khi lắp đặt phải có đủ các điều kiện
+sau:
+
+3.5.1.1. Có đủ hồ sơ kỹ thuật theo quy định tại mục
+3.1 của Quy chuẩn này.
+
+3.5.1.2. Đã được chứng nhận hợp quy, công bố hợp
+quy theo quy định. Thang máy nhập khẩu phải có hồ sơ hoàn thành thủ tục Hải
+quan theo quy định.
+
+3.5.2. Yêu cầu đối với đơn vị lắp đặt, hiệu chỉnh,
+bảo dưỡng và sửa chữa thang máy
+
+3.5.2.1. Đơn vị lắp đặt, hiệu chỉnh, bảo dưỡng và sửa
+chữa thang máy phải có đủ các điều kiện sau:
+
+3.5.2.1.1. Có tư cách pháp nhân, được cơ quan có thẩm
+quyền cấp đăng ký kinh doanh hoạt động trong lĩnh vực này theo quy định của
+pháp luật.
+
+3.5.2.1.2. Người trực tiếp lắp đặt, hiệu chỉnh, bảo
+dưỡng và sửa chữa thang máy phải được đào tạo về chuyên môn phù hợp với quy định
+của Luật Giáo dục nghề nghiệp; được huấn luyện an toàn, vệ sinh lao động theo
+quy định của Luật An toàn, vệ sinh lao động và văn bản hướng dẫn.
+
+3.5.2.1.3. Có đủ trang thiết bị phục vụ cho quá
+trình lắp đặt, hiệu chỉnh và sửa chữa thang máy.
+
+3.5.2.1.4. Tuân thủ theo các yêu cầu, hướng của nhà
+sản xuất và các quy định của quy chuẩn này.
+
+3.5.2.1.5. Đơn vị lắp đặt thang máy phải xây dựng
+các biện pháp an toàn cho quá trình lắp đặt, tuân thủ các Quy chuẩn kỹ thuật quốc
+gia về an toàn lao động có liên quan và hướng dẫn lắp đặt của nhà sản xuất.
+
+3.5.3. Yêu cầu về nghiệm thu kỹ thuật an toàn sau lắp
+đặt thang máy
+
+3.5.3.1. Đơn vị lắp đặt thang máy phải tiến hành
+các việc chuẩn bị nghiệm thu bao gồm:
+
+3.5.3.1.1. Hồ sơ nghiệm thu thang máy.
+
+3.5.3.1.2. Chuẩn bị các điều kiện để thang máy hoạt
+động.
+
+3.5.3.1.3. Cùng bên đặt hàng chuẩn bị tải và đảm bảo
+các điều kiện để nghiệm thu.
+
+3.5.3.2. Việc nghiệm thu thang máy sau lắp đặt nhằm
+mục đích:
+
+Đánh giá mức độ phù hợp của các thông số và kích
+thước của thang máy với các số liệu ghi trong hồ sơ kỹ thuật và mức độ an toàn
+của thang máy sau lắp đặt.
+
+3.5.3.3. Các thông số kỹ thuật cần kiểm tra gồm:
+
+3.5.3.3.1. Tải trọng làm việc cho phép.
+
+3.5.3.3.2. Tốc độ làm việc và kích thước lắp ráp.
+
+3.5.3.3.3. Độ chính xác dừng tầng.
+
+3.5.3.3.4. Mức độ làm việc ổn định của các cơ cấu
+an toàn, hệ thống điều khiển, hệ thống cứu hộ.
+
+3.5.3.4. Khi công việc lắp đặt thang máy hoàn tất,
+đơn vị lắp đặt phải lập biên bản nghiệm thu lắp đặt. Nội dung biên bản nghiệm
+thu phải thể hiện rõ việc kiểm tra đo đạc thực tế và đánh giá kết quả theo các
+quy định kỹ thuật của quy chuẩn này. Nếu trong tiêu chuẩn thiết kế của Nhà sản
+xuất quy định cao hơn thì thực hiện theo quy định của nhà sản xuất.
+
+3.6. Quản lý sử dụng an toàn thang máy
+
+3.6.1. Người chịu trách nhiệm quản lý kỹ thuật, quản
+lý vận hành thang máy phải được huấn luyện cơ bản về nghiệp vụ mà mình đảm nhận,
+được huấn luyện an toàn, vệ sinh lao động theo quy định của Luật An toàn, vệ
+sinh lao động và văn bản hướng dẫn, trong đó có nội dung huấn luyện công tác cứu
+hộ trong trường hợp thang máy gặp sự cố.
+
+3.6.2. Chỉ sử dụng thang máy có tình trạng kỹ thuật
+tốt và chưa hết hạn kiểm định kỹ thuật an toàn. Trong quá trình sử dụng, nếu
+phát hiện thang máy không đảm bảo an toàn, đơn vị sử dụng có thể đưa ra yêu cầu
+kiểm định trước thời hạn.
+
+3.6.3. Chỉ những người có trách nhiệm (trực tiếp kiểm
+tra, bảo dưỡng, sửa chữa, cứu hộ) mới được phép tiếp cận hệ thống dẫn động.
+
+3.6.4. Mỗi thang máy phải có sổ theo dõi việc hiệu
+chỉnh, bảo dưỡng, bảo trì và sửa chữa.
+
+3.6.5. Thang máy trong quá trình sử dụng phải được
+bảo dưỡng định kỳ không quá 03 tháng một lần. Giữa các chu kỳ bảo dưỡng, đơn vị
+sử dụng phải có những đợt kiểm tra để kịp thời phát hiện, ngăn ngừa và xử lý những
+mối nguy hiểm có thể xảy ra trong quá trình vận hành thang máy.
+
+3.6.6. Thang máy khi đưa vào sử dụng phải có nguồn
+gốc, xuất xứ rõ ràng và đầy đủ hồ sơ theo quy định tại mục 3.1 quy chuẩn này
+
+4. Chứng nhận hợp quy và kiểm định
+kỹ thuật an toàn đối với thang máy
+
+4.1. Chứng nhận hợp quy đối với thang máy
+
+4.1.1. Việc chứng nhận hợp quy đối với thang máy sản
+xuất trong nước:
+
+4.1.1.1. Nếu sản xuất hàng loạt thì việc chứng nhận
+hợp quy được thực hiện theo phương thức 5: thử nghiệm mẫu điển hình và đánh giá
+quá trình sản xuất; giám sát thông qua thử nghiệm mẫu lấy tại nơi sản xuất hoặc
+trên thị trường kết hợp với đánh giá quá trình sản xuất (được quy định tại phụ
+lục II của Quy định về công bố hợp chuẩn, công bố hợp quy và phương thức đánh
+giá sự phù hợp với tiêu chuẩn, quy chuẩn kỹ thuật ban hành kèm theo Thông tư số
+28/2012/TT-BKHCN ngày 12/12/2012 của Bộ trưởng Bộ Khoa học và Công nghệ).
+
+4.1.1.2. Nếu sản xuất đơn chiếc thì việc chứng nhận
+hợp quy được thực hiện theo phương thức 8: thử nghiệm hoặc kiểm định toàn bộ sản
+phẩm hàng hóa (được quy định tại phụ lục II của Quy định về công bố hợp chuẩn,
+công bố hợp quy và phương thức đánh giá sự phù hợp với tiêu chuẩn, quy chuẩn kỹ
+thuật ban hành kèm theo Thông tư số 28/2012/TT-BKHCN ngày 12/12/2012 của Bộ trưởng
+Bộ Khoa học và Công nghệ).
+
+4.1.2. Việc chứng nhận hợp quy đối với thang máy nhập
+khẩu:
+
+4.1.2.1. Nếu được nhập khẩu hàng loạt thì việc chứng
+nhận hợp quy được thực hiện theo phương thức 7: thử nghiệm, đánh giá lô sản phẩm,
+hàng hóa (được quy định tại phụ lục II của Quy định về công bố hợp chuẩn, công
+bố hợp quy và phương thức đánh giá sự phù hợp với tiêu chuẩn, quy chuẩn kỹ thuật
+ban hành kèm theo Thông tư số 28/2012/TT-BKHCN ngày 12/12/2012 của Bộ trưởng Bộ
+Khoa học và Công nghệ)
+
+4.1.2.2. Nếu được nhập khẩu đơn chiếc thì việc chứng
+nhận hợp quy được thực hiện theo phương thức 8: thử nghiệm hoặc kiểm định toàn
+bộ sản phẩm hàng hóa (được quy định tại phụ lục II của Quy định về công bố hợp
+chuẩn, công bố hợp quy và phương thức đánh giá sự phù hợp với tiêu chuẩn, quy
+chuẩn kỹ thuật ban hành kèm theo Thông tư số 28/2012/TT-BKHCN ngày 12/12/2012 của
+Bộ trưởng Bộ Khoa học và Công nghệ)
+
+4.1.3. Việc chứng nhận hợp quy phải do tổ chức chứng
+nhận sự phù hợp được Bộ Lao động - Thương binh và Xã hội chỉ định.
+
+4.2. Kiểm định kỹ thuật an toàn thang máy
+
+4.2.1. Thang máy trước khi đưa vào sử dụng phải được
+kiểm định lần đầu, kiểm định định kỳ trong quá trình sử dụng, hoặc kiểm định bất
+thường theo quy trình kiểm định do Bộ Lao động - Thương binh và Xã hội ban hành
+và được gắn tem kiểm định theo quy định.
+
+Việc kiểm định kỹ thuật an toàn thang máy không buồng
+máy phải do tổ chức kiểm định kỹ thuật an toàn lao động được Bộ Lao động -
+Thương binh và Xã hội cấp giấy chứng nhận đủ điều kiện hoạt động kiểm định.
+
+4.2.2. Chu kỳ kiểm định định kỳ đối với thang máy
+không buồng máy:
+
+4.2.2.1. Chu kỳ kiểm định là không quá 03 năm một lần
+đối với các thang máy làm việc trong điều kiện làm việc bình thường.
+
+4.2.2.2. Chu kỳ kiểm định là không quá 02 năm một lần
+đối với các thang máy đã sử dụng trên 10 năm hoặc làm việc trong điều kiện môi
+trường ăn mòn, tần suất làm việc cao.
+
+4.2.2.3. Thời hạn kiểm định có thể rút ngắn nếu nhà
+sản xuất hoặc đơn vị sử dụng yêu cầu.
+
+4.2.2.4. Tổ chức kiểm định kỹ thuật an toàn lao động
+có thể rút ngắn thời hạn kiểm định nhưng phải nêu rõ lý do trong biên bản kiểm
+định về các vấn đề kỹ thuật đảm bảo an toàn của thang máy trong quá trình sử dụng.
+
+5. Thanh tra, kiểm tra và xử lý
+vi phạm
+
+5.1. Việc thanh tra và xử lý vi phạm các quy định của
+Quy chuẩn này do thanh tra nhà nước về lao động và thanh tra an toàn, vệ sinh
+lao động thực hiện.
+
+5.2. Việc kiểm tra chất lượng sản xuất, nhập khẩu,
+cung cấp và sử dụng thang máy được thực hiện theo Luật Chất lượng sản phẩm,
+hàng hóa và Quy chuẩn này.
+
+6. Trách nhiệm của các tổ chức,
+cá nhân
+
+6.1. Các tổ chức, cá nhân làm nhiệm vụ sản xuất, nhập
+khẩu, cung cấp và sử dụng thang máy có trách nhiệm tuân thủ các quy định tại
+Quy chuẩn này.
+
+6.2. Quy chuẩn này là căn cứ để các cơ quan kiểm
+tra chất lượng thang máy tiến hành việc kiểm tra và cũng là căn cứ để các Tổ chức
+đánh giá sự phù hợp tiến hành chứng nhận hợp quy.
+
+7. Tổ chức thực hiện
+
+7.1. Cục An toàn lao động, Bộ Lao động - Thương
+binh và Xã hội có trách nhiệm hướng dẫn và kiểm tra việc thực hiện Quy chuẩn
+này.
+
+7.2. Các cơ quan quản lý nhà nước về lao động địa
+phương có trách nhiệm hướng dẫn, thanh tra, kiểm tra việc thực hiện các quy định
+của Quy chuẩn này.
+
+7.3. Trong quá trình thực hiện, nếu có vướng mắc, các
+cơ quan, tổ chức, cá nhân có liên quan có trách nhiệm kịp thời phản ánh với Bộ
+Lao động - Thương binh và Xã hội để xem xét giải quyết./.--- THÔNG TIN THÊM ---
+Ten: Thông tư 48/2016/TT-BLĐTBXH ban hành Quy chuẩn kỹ thuật quốc gia về an toàn lao động đối với Thang máy điện không buồng máy do Bộ trưởng Bộ Lao động - Thương binh và Xã hội ban hành
+So hieu: 48/2016/TT-BLĐTBXH
+Loai van ban: Thông tư
+Linh vuc nganh: Lao động - Tiền lương
+Noi ban hanh: Bộ Lao động - Thương binh và Xã hội
+Nguoi ky: Doãn Mậu Diệp
+Ngay ban hanh: 28/12/2016
+Ngay hieu luc: 01/08/2017
+Ngay dang: 14/07/2017
+So cong bao: Từ số 489 đến số 490
+Tinh trang: Hết hiệu lực: 01/07/2021
+
+
+--- MỤC LỤC ---
+- THÔNG TƯ BAN HÀNH QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ AN TOÀN LAO ĐỘNG ĐỐI VỚI THANG MÁY ĐIỆN KHÔNG BUỒNG MÁY
+  - Điều 1. Tên và ký hiệu Quy chuẩn
+  - Điều 2. Tổ chức thực hiện
+  - Điều 3. Hiệu lực thi hành
+- QCVN 26:2016/BLĐTBXH QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ AN TOÀN LAO ĐỘNG ĐỐI VỚI THANG MÁY ĐIỆN KHÔNG BUỒNG MÁY
+  - 1. Quy định chung
+  - 2. Quy định về kỹ thuật
+  - 3. Quy định về quản lý
+  - 4. Chứng nhận hợp quy và kiểm định kỹ thuật an toàn đối với thang máy
+  - 5. Thanh tra, kiểm tra và xử lý vi phạm
+  - 6. Trách nhiệm của các tổ chức, cá nhân
+  - 7. Tổ chức thực hiện
+
+--- VĂN BẢN LIÊN QUAN ---
+
+Van ban duoc dan chieu:
+  - Luật Giáo dục nghề nghiệp 2014 (ID: 259733)
+  - Thông tư 28/2012/TT-BKHCN về Quy định công bố hợp chuẩn, công bố hợp quy và phương thức đánh giá sự phù hợp... (ID: 165233)
+  - Luật chất lượng sản phẩm, hàng hóa 2007 (ID: 59776)
+
+Van ban duoc can cu:
+  - Nghị định 39/2016/NĐ-CP hướng dẫn Luật An toàn, vệ sinh lao động (ID: 299834)
+  - Luật an toàn, vệ sinh lao động 2015 (ID: 281961)
+  - Nghị định 106/2012/NĐ-CP quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Lao động - Thương... (ID: 154043)
+
+Van ban lien quan ngon ngu:
+  - Circular No. 48/2016/TT-BLDTBXH dated December 28, 2016 on promulgating of National technical regulation on... (ID: 477609)
+
+Van ban thay the:
+  - Thông tư 42/2019/TT-BLĐTBXH về Quy chuẩn kỹ thuật quốc gia về an toàn lao động đối với thang máy do Bộ ... (ID: 459046)
+  - Quyết định 1535/QĐ-LĐTBXH năm 2021 công bố Danh mục văn bản quy phạm pháp luật hết hiệu lực toàn bộ hoặc ... (ID: 500179)
+  - Quyết định 225/QĐ-BLĐTBXH năm 2024 công bố kết quả hệ thống hóa văn bản quy phạm pháp luật thuộc lĩnh vực ... (ID: 604011)
+
+Van ban lien quan cung noi dung:
+  - Thông tư 14/2019/TT-BCT sửa đổi Thông tư 32/2016/TT-BCT về Quy chuẩn kỹ thuật quốc gia về an toàn tời trục mỏ" do Bộ trưởng Bộ Công thương ban hành (ID: 421981)
+  - Thông tư 278/2017/TT-BQP về Quy chuẩn QCVN 03:2017/BQP, Quy chuẩn kỹ thuật quốc gia về hủy đốt đạn súng, ngòi đạn và hỏa cụ do Bộ trưởng Bộ Quốc phòng ban hành (ID: 367327)
+  - Thông tư 184/2017/TT-BQP Quy chuẩn QCVN 09:2017/BQP, Quy chuẩn kỹ thuật quốc gia về an toàn lao động đối với pháo mặt đất do Bộ trưởng Bộ Quốc phòng ban hành (ID: 359722)
+  - Thông tư 20/2017/TT-BLĐTBXH Quy chuẩn kỹ thuật quốc gia về an toàn lao động đối với Đường ống dẫn hơi nước và nước nóng do Bộ trưởng Bộ Lao động - Thương binh và Xã hội ban hành (ID: 328170)
+  - Công văn 677/LĐTBXH-ATLĐ năm 2017 xây dựng và ban hành quy chuẩn kỹ thuật quốc gia về an toàn, vệ sinh lao động do Bộ Lao động - Thương binh và Xã hội ban hành (ID: 341031)
+  - Thông tư 03/2017/TT-BNNPTNT quy chuẩn kỹ thuật quốc gia về yêu cầu bảo đảm an toàn thực phẩm trong sản xuất kinh doanh thủy sản do Bộ Nông nghiệp và Phát triển nông thôn ban hành (ID: 340439)
+  - Thông tư 49/2016/TT-BLĐTBXH ban hành Quy chuẩn kỹ thuật quốc gia đối với phương tiện bảo vệ mắt cá nhân dùng trong công việc hàn do Bộ Lao động - Thương binh và Xã hội ban hành (ID: 353339)
+  - Thông tư 50/2016/TT-BLĐTBXH ban hành Quy chuẩn kỹ thuật quốc gia đối với Bộ lọc tự động dùng trong mặt nạ hàn do Bộ trưởng Bộ Lao động - Thương binh và Xã hội ban hành (ID: 353340)
+  - Thông tư 32/2016/TT-BCT Quy chuẩn kỹ thuật Quốc gia về an toàn tời trục mỏ do Bộ trưởng Bộ Công thương ban hành (ID: 335438)

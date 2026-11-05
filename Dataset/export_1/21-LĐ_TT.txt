@@ -1,0 +1,298 @@
+BỘ LAO ĐỘNG
+
+****** 
+
+CỘNG HOÀ XÃ HỘI CHỦ
+ NGHĨA VIỆT NAM
+
+Độc lập - Tự do - Hạnh
+ phúc
+
+******** 
+
+Số: 21-LĐ/TT 
+
+Hà Nội, ngày 24
+ tháng 11 năm 1976  
+
+ 
+
+THÔNG TƯ
+
+QUY
+ĐỊNH VIỆC CHẾ TẠO, VÀ SỬ DỤNG AN TOÀN NỒI ĐUN NƯỚC NÓNG VÀ NỒI HƠI CÓ ÁP SUẤT
+THẤP (ĐẾN 0,7AT)
+
+Để thực hiện chỉ thị số 224-CT/TW ngày 13-08-1975 của Ban bí
+thư trung ương Đảng và chỉ thị số 249-TTg ngày 10-07-1975 của Thủ tướng Chính
+phủ;
+
+Để bảo đảm an toàn lao động trong việc sử dụng những nồi hơi,
+nồi đun nước nóng có áp suất thấp (đến 0,7at) để cất rượu, chế biến đậu phụ, nấu
+giấy, làm thịt lợn…, trong khi chờ Chính phủ ban hành quy phạm kỹ thuật an toàn
+cho các loại thiết bị này; 
+
+Căn cứ điều 21 của Điều lệ tạm thời về bảo hộ lao động ban
+hành kèm theo nghị định số 181-CP ngày 18-12-1964 của Hội đồng Chính phủ, sau
+khi đã trao đổi ý kiến với một số ngành và cơ sở chế tạo và sử dụng nồi áp suất
+thấp, Bộ Lao động tạm thời quy định;.
+
+I. ĐỐI VỚI
+KHÂU THIẾT KẾ, CHẾ TẠO
+
+1. Người thiết kế phải hiểu biết về thiết bị chịu áp lực
+và chịu trách nhiệm về bản thiết kế của mình. Bản thiết kế đó phải được cơ quan
+quản lý cấp trên duyệt y về mặt kỹ thuật. Cơ sở chế tạo, lắp đặt hoặc sử dụng
+muốn sửa đổi thiết kế phải được đơn vị thiết kế thỏa thuận bằng văn bản. Thay đổi
+thiết kế những nồi áp suất thấp do nước ngoài chế tạo thì phải được cơ quan quản
+lý cấp trên cho phép về mặt kỹ thuật.
+
+2. Chỉ được phép chế tạo những nồi áp suất thấp tại các
+xí nghiệp có đủ điều kiện thỏa mãn những yêu cầu thiết kế và được Bộ chủ quản cấp
+giấy phép nếu là xí nghiệp do trung ương quản lý hoặc phải được Ủy ban nhân dân
+tỉnh, thành phố cấp giấy phép, nếu là xí nghiệp do địa phương quản lý.
+
+3. Không được xuất khỏi xưởng chế tạo những nồi áp suất
+thấp, nếu chưa có đủ các điều kiện dưới đây:
+
+- Chưa được nhà máy chế tạo tổ chức kiểm nghiệm và xác nhận phẩm
+chất bằng văn bản;
+
+- Chưa có đủ hồ sơ xuất xưởng bao gồm lý lịch, bản chứng nhận
+phẩm chất vật liệu, tài liệu thiết kế, giấy chứng nhận xuất xưởng và bản hướng
+dẫn bảo quản, sử dụng. Hồ sơ xuất xưởng phải giao theo thiết bị cho khách hàng;
+
+- Chưa có tấm nhãn hiệu bằng kim loại mầu gắn trên thành nồi ở
+chỗ dễ thấy nhất và có đủ các số liệu sau đây:
+
+a) Tên nhà máy chế tạo
+
+b) Số chế tạo
+
+c) Tháng năm chế tạo
+
+d) Áp suất làm việc (at)
+
+e) Nhiệt độ làm việc (0C)
+
+g) Dung tích toàn bộ (lít)
+
+4. Kết cấu của nồi phải bảo đảm dễ dàng cho việc xem
+xét, sữa chữa, cạo rửa cả mặt trong và mặt ngoài.
+
+5. Vật liệu dùng để chế tạo các bộ phận chịu áp lực của
+nồi phải có đủ chứng từ xác nhận phẩm chất và phải thỏa mãn các yêu cầu kỹ thuật
+theo bảng sau đây:
+
+ 
+
+Số thứ tự
+
+Tên vật liệu
+
+Cơ tính
+
+Thành phần hóa học
+
+Phạm vi áp dụng
+
+Không nhỏ hơn
+
+Hàm lượng P, S, C không lớn hơn, %
+
+δ B,
+
+N/mm2
+
+δ 10,
+
+%
+
+δ 5,
+
+%
+
+P
+
+S
+
+C
+
+1
+
+ 
+
+ 
+
+2
+
+Thép
+
+ 
+
+ 
+
+Thép
+
+373
+
+ 
+
+ 
+
+353
+
+23
+
+ 
+
+ 
+
+26
+
+27
+
+0,045
+
+ 
+
+ 
+
+0.040
+
+0,045
+
+ 
+
+ 
+
+0,040
+
+0,23
+
+ 
+
+ 
+
+0,22
+
+Làm các bộ phận của nồi không bể đốt nóng
+
+Làm thành buồng đốt ống lò
+
+Ghi chú: δ10 là độ dãn dài tương đối khi mẫu thử dài gấp
+10 lần đường kính.
+
+            
+- δ5 là độ dãn tương đối khi mẫu thử dài gấp 5 lần đường kính.
+
+6. Việc hàn các bộ phận của nồi chỉ được phép tiến hành
+sau khi phòng kiểm tra chất lượng sản phẩm của nhà máy chế tạo đã kiểm tra và
+xác định việc gia công bảo đảm, giá lắp đúng kỹ thuật.
+
+7. Chỉ được dùng những thợ hàn có giấy phép hàn thiết bị
+chịu áp lực do cơ quan quản lý cấp trên của đơn vị cấp để hàn các bộ phận chịu
+áp lực của nồi. Trường hợp không có thợ hàn có giấy phép hàn thiết bị chịu áp lực
+thì phải dùng thợ hàn từ bậc 4 trở lên.
+
+8. Nhà máy chế tạo phải kiểm tra các mối hàn của nồi bằng
+phương pháp xem xét bên ngoài để phát hiện những thiếu sót và tiến hành nghiệm
+thử bằng sức nước. Trị số áp suất nghiệm thử do nhà máy chế tạo quy định nhưng
+không thấp hơn 1,5 áp suất làm việc không nhỏ hơn 2at.
+
+9. Trên mỗi nồi hơi và nồi đun nước nóng phải được
+trang bị các thiết bị tối thiểu sau đây:
+
+a) Một áp kế để đo áp suất đặt ở phía trên của nồi;
+
+b) Ít nhất có một ống thủy hoặc có thể dùng hai mặt kính khi
+môi chất ở dạng dụng dịch 
+
+c) Một van an toàn đặt ở phía trên của nồi. Van an toàn phải
+được tính toán và cấu tạo sao cho áp suất trong nồi không thể vượt quá áp suất
+làm việc 0,1 at;
+
+Có thể thay van an toàn bằng ống xí nghiệp-phông đệm nước có
+chiều cao cột nước tương ứng với áp suất làm việc lớn nhất của nồi. Trên ống
+xi-phông đệm nước có chiều cao cột nước tương ứng với áp suất làm việc lớn nhất
+của nồi. Trên ống xí nghiệp-phông này không được lắp van chặt và phải thông với
+khí quyển. Đường kính của ống xí nghiệp-phông ít nhất phải là 50 mm.
+
+d) Đối với các nồi  hơi và nồi đun nước nóng vận hành
+liên tục  thì phải đặt máy bươm nước hoặc một nguồn cung cấp khác để bổ
+sung nước hoặc môi chất cho các nồi.Trường hợp sản phẩm làm ra theo từng mẻ như
+nồi cất rượu thô gián đoạn…thì không nhất thiết phải có bơm hơi cấp môi chất ;
+
+đ) Mỗi nồi phải có đường xả cặn. Kết cấu của hệ thống xả cặn
+phải đảm bảo xả được nước và cặn bẩn từ những phần thấp nhất của  nồi vừa
+không gây tai nạn lao động trong khi xả.
+
+10. Những nồi áp suất thấp do nước ngoài chế tạo phải
+thoả mãn yêu cầu của qui định này. Khi không thoả mãn các yêu cầu của qui định
+thì phải được cơ quan thanh tra kĩ thuật an toàn của Nhà nước thoả thuận trước
+khi đặt mua.
+
+II. ĐỐI VỚI KHÂU SỬ DỤNG
+
+11. Lập qui trình vận hành và qui trình xử lí sự cối nồi,
+tổ chức cho công nhân học tập và định kì thao diễn xử lí sự cố.
+
+12. Lập kế hoạch tu sửa định kì hàng năm cho từng nồi
+và có nội dung tu sửa cụ thể.
+
+13. Kiểm tra đảm bảo sự hoạt động bình thường của những
+thiết bị đã nêu tại điểm 9, mục I nói trên.
+
+ Thông tư này qui định những biện pháp đề phòng tai nạn
+do nổ nồi áp suất thấp, có tính cách bắt buộc đối với tất cả các cơ sở quốc
+doanh, hợp tác xã và tư  nhân có chế tạo hoặc sử dụng loại thiết bị trên. Các
+đơn vị và cá nhân nào không thực hiện đầy đủ các biện pháp trong thông tư này để
+xảy ra tai nạn, thì tuỳ mức độ nặng nhẹ, đơn vị và cá nhân đó phải chịu kỷ luật
+và có thể bị truy tố trước pháp luật.
+
+Bộ Lao động yêu cầu các Bộ, Tổng cục quản lý sản xuất, Uỷ ban
+nhân dân các địa phương kịp thời phổ biến, đôn đốc và tạo điều kiện cho các cơ
+sở thuộc quyền quản lý thực hiện đúng những biện pháp trên đây.
+
+Các Sở, Ty lao động phải tổ chức kiểm tra và bắt buộc các cơ sở
+thực hiện ngay thông tư này nhằm ngăn chăn, đề phòng tai nạn do nổ nồi áp suất
+thấp gây ra.
+
+ 
+
+KT BỘ TRƯỞNG BỘ LAO
+ ĐỘNG
+
+THỨ TRƯỞNG
+
+ 
+
+ 
+
+ 
+
+ 
+
+Nguyễn Song Tùng--- THÔNG TIN THÊM ---
+Ten: Thông Tư 21-LĐ/TT-1976 Quy định việc chế tạo, và sử dụng an toàn nồi đun nước nóng và nồi hơi có áp suất thấp (đến 0,7at) do Bộ Lao Động ban hành
+So hieu: 21-LĐ/TT
+Loai van ban: Thông tư
+Linh vuc nganh: Lao động - Tiền lương
+Noi ban hanh: Bộ Lao động
+Nguoi ky: Nguyễn Song Tùng
+Ngay ban hanh: 24/11/1976
+Ngay hieu luc: 09/12/1976
+Ngay dang: 15/12/1976
+So cong bao: Số 11
+Tinh trang: Không còn phù hợp
+
+
+--- MỤC LỤC ---
+- THÔNG TƯ QUY ĐỊNH VIỆC CHẾ TẠO, VÀ SỬ DỤNG AN TOÀN NỒI ĐUN NƯỚC NÓNG VÀ NỒI HƠI CÓ ÁP SUẤT THẤP (ĐẾN 0,7AT)
+  - I. ĐỐI VỚI KHÂU THIẾT KẾ, CHẾ TẠO
+  - II. ĐỐI VỚI KHÂU SỬ DỤNG
+
+--- VĂN BẢN LIÊN QUAN ---
+
+Van ban lien quan cung noi dung:
+  - Nghị định 181-CP năm 1964 ban hành điều lệ tạm thời về bảo hộ lao động do Hội đồng Chính phủ ban hành (ID: 20291)

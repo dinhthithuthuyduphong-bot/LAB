@@ -1,0 +1,617 @@
+BỘ LAO ĐỘNG -
+ THƯƠNG BINH VÀ XÃ HỘI
+
+ --------
+
+CỘNG HÒA XÃ HỘI
+ CHỦ NGHĨA VIỆT NAM
+
+ Độc lập - Tự do - Hạnh phúc
+
+ ----------------
+
+Số:
+ 37/2013/TT-BLĐTBXH
+
+Hà Nội, ngày 30
+ tháng 12 năm 2013
+
+ 
+
+THÔNG TƯ
+
+BAN
+HÀNH QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ AN TOÀN LAO ĐỘNG ĐỐI VỚI PA LĂNG ĐIỆN
+
+Căn cứ Nghị định số 106/2012/NĐ-CP
+ngày 20/12/2012 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu
+tổ chức của Bộ Lao động Thương binh và Xã hội;
+
+Căn cứ Nghị định số 127/2007/NĐ-CP
+ngày 01 tháng 8 năm 2007 của Chính phủ quy định chi tiết một số điều của Luật Tiêu chuẩn và Quy chuẩn kỹ thuật;
+
+Căn cứ Nghị định số 132/2008/NĐ-CP
+ngày 31 tháng 12 năm 2008 của Chính phủ quy định chi tiết thi hành một số điều
+của Luật Chất lượng sản phẩm, hàng hóa;
+
+Theo đề nghị của Cục trưởng Cục An toàn lao động;
+
+Bộ trưởng Bộ Lao động - Thương binh và Xã hội quy
+định:
+
+Điều 1. Ban hành kèm theo Thông tư này Quy chuẩn kỹ thuật quốc gia về
+an toàn lao động đối với Pa lăng điện.
+
+Ký hiệu: QCVN 13:2013/BLĐTBXH.
+
+Điều 2. Quy chuẩn kỹ thuật quốc gia về an toàn lao động đối với Pa
+lăng điện có hiệu lực từ ngày 28 tháng 6 năm 2014.
+
+Điều 3. Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Ủy ban
+nhân dân các tỉnh, thành phố trực thuộc Trung ương và các tổ chức, cá nhân có
+liên quan chịu trách nhiệm thi hành./.
+
+ 
+
+ 
+
+Nơi nhận:
+
+- Thủ tướng, các Phó thủ tướng Chính phủ;
+
+ - Văn phòng Quốc hội;
+
+ - Văn phòng Chính phủ;
+
+ - Các Bộ, cơ quan ngang Bộ, cơ quan thuộc CP;
+
+ - Tòa án nhân dân tối cao;
+
+ - Viện kiểm sát nhân dân tối cao;
+
+ - UBND các tỉnh, thành phố trực thuộc TƯ;
+
+ - Sở LĐTBXH các tỉnh, thành phố trực thuộc TƯ;
+
+ - Cục kiểm tra VBQPPL - Bộ Tư pháp;
+
+ - Công báo;
+
+ - Website Bộ LĐTBXH;
+
+ - Lưu: VT, PC, ATLĐ.
+
+KT. BỘ TRƯỞNG
+
+ THỨ TRƯỞNG
+
+ Bùi Hồng Lĩnh
+
+ 
+
+QCVN
+13: 2013/BLĐTBXH
+
+QUY
+CHUẨN KỸ THUẬT QUỐC GIA VỀ AN TOÀN LAO ĐỘNG ĐỐI VỚI PA LĂNG ĐIỆN
+
+National
+technical regulation on safe work for electrical tackle
+
+Lời nói đầu
+
+QCVN 13: 2013/BLĐTBXH - Quy chuẩn kỹ thuật quốc gia
+về an toàn lao động đối với pa lăng điện do Cục An toàn lao động biên soạn, Bộ
+Lao động - Thương binh và Xã hội ban hành theo Thông tư số 37/2013/TT-BLĐTBXH
+ngày 30 tháng 12 năm 2013, sau khi có ý kiến thẩm định của Bộ Khoa học và
+Công nghệ.
+
+ 
+
+QUY CHUẨN KỸ THUẬT
+QUỐC GIA VỀ AN TOÀN LAO ĐỘNG ĐỐI VỚI PA LĂNG ĐIỆN
+
+National
+technical regulation on safe work for electrical tackle
+
+1. Quy định chung
+
+1.1. Phạm vi điều chỉnh
+
+Quy chuẩn kỹ thuật này áp dụng cho pa lăng điện
+thông dụng cố định và di động dùng cáp hoặc xích (gọi chung là pa lăng) được sử
+dụng như một cơ cấu nâng hạ độc lập hoặc cơ cấu nâng hàng di chuyển theo một
+phương nhất định có tải trọng nâng từ 1000kg trở lên.
+
+1.2. Đối tượng áp dụng
+
+Quy chuẩn này áp dụng với:
+
+1.2.1. Các tổ chức, cá nhân sản xuất, nhập khẩu,
+lưu thông và sử dụng pa lăng điện.
+
+1.2.2. Các cơ quan quản lý nhà nước và các tổ chức,
+cá nhân khác có liên quan.
+
+2. Quy định về kỹ thuật
+
+2.1. Quy định chung
+
+Các pa lăng điện thuộc đối tượng và phạm vi nêu trên
+phải đảm bảo các đặc tính kỹ thuật an toàn theo yêu cầu kỹ thuật của TCVN 5180:1990 Pa lăng điện - Yêu cầu chung về
+an toàn và TCVN 4244:2005 Thiết bị nâng - Thiết
+kế, chế tạo và kiểm tra kỹ thuật.
+
+2.2. Các quy định cụ thể
+
+2.2.1. Yêu cầu đối với kết cấu và vật liệu
+
+2.2.1.1. Các bộ phận ghép nối kèm theo pa lăng phải
+được chế tạo để đảm bảo an toàn khi sử dụng theo tính năng được quy định trong
+lý lịch.
+
+2.2.1.2. Đơn vị sản xuất phải tiến hành kiểm tra chất
+lượng vật liệu dùng để chế tạo các phần tử chịu tải của pa lăng, các mối hàn, độ
+cách điện của dây dẫn và các cuộn dây điện.
+
+Kiểm tra từng nguyên công khi chế tạo và lắp ráp,
+thử nghiệm pa lăng điện ở trạng thái động và trạng thái tĩnh.
+
+Kết quả kiểm tra được ghi vào lý lịch máy.
+
+2.2.1.3. Hàn các phần tử của pa lăng.
+
+2.2.1.3.1. Vật liệu hàn phải đảm bảo giới hạn bền của
+mối hàn không thấp hơn giới hạn bền của vật liệu được hàn. Độ dai va đập của mối
+hàn phải phù hợp với điều kiện làm việc của kết cấu pa lăng.
+
+2.2.1.3.2. Để đảm bảo cơ tính của mối hàn theo quy
+định khi hàn các phần tử chịu tải của pa lăng phải thực hiện theo hướng dẫn tại
+các tài liệu kỹ thuật hàn.
+
+2.2.1.4. Móc nâng hàng.
+
+2.2.1.4.1. Móc nâng hàng phải được chế tạo bằng
+phương pháp rèn, dập hoặc bằng thép tấm (được gọi là móc rèn, móc dập hoặc móc
+tấm).
+
+Phôi móc nâng hàng sau khi rèn hoặc dập phải thường
+hóa và làm sạch vảy ô xít. Móc rèn và móc dập không cho phép hàn móc rèn và móc
+dập ngay cả hàn đắp để khắc phục khuyết tật.
+
+Các tấm thép của móc tấm phải được ghép với nhau bằng
+đinh tán. Cho phép hàn cục bộ tấm thép.
+
+2.2.1.4.2. Khi có tải móc nâng hàng phải quay được
+tự do. Đối với móc nâng hàng có sức nâng trên 3 tấn, chỗ quay của móc nâng hàng
+phải dùng ổ bi. Yêu cầu này không áp dụng cho móc nâng hàng của pa lăng không
+cho phép quay móc.
+
+2.2.1.4.3. Đai ốc kẹp chặt móc rèn, móc dập và chốt
+móc tấm vào thanh ngang phải có khả năng chống tự tháo, cho phép kẹp các móc
+nâng hàng vào thanh ngang bằng các phương pháp tin cậy khác.
+
+Móc phải có khóa bảo hiểm để loại trừ khả năng rơi
+tự do của cơ cấu móc hàng khi nâng. Khóa không được làm giảm mặt cắt chịu tải của
+chuôi móc.
+
+2.2.1.4.4. Nhà sản xuất phải đánh dấu rõ hai điểm
+cho phép kiểm tra kích thước độ mở của móc trong thời gian sử dụng.
+
+2.2.1.4.5. Trên thân hộp treo móc nâng hàng phải
+ghi tải trọng làm việc lớn nhất cho phép của pa lăng.
+
+2.2.1.5. Cần phải tính đến ảnh hưởng của nhiệt khi
+tính toán các phần tử kết cấu pa lăng chịu tác dụng nhiệt lớn.
+
+2.2.1.6. Đối với pa lăng di chuyển được thì phải có
+kết cấu đảm bảo cho bánh dẫn không bị lệch khỏi thanh ray dẫn hướng.
+
+2.2.1.7. Tốc độ di chuyển của pa lăng điều khiển từ
+sàn không được lớn hơn 0,8 m/s.
+
+2.2.1.8. Thiết bị cuộn cáp của pa lăng phải đảm bảo
+cuộn cáp lên tang thành lớp.
+
+2.2.1.9. Đối trọng và các phần tử của nó phải được
+đặt trong vỏ hoặc gắn với pa lăng để đối trọng không rơi hoặc thay đổi vị trí
+trên pa lăng.
+
+2.2.1.10. Cần phải chống rỉ các chi tiết kim loại của
+pa lăng có thể bị rỉ.
+
+2.2.2. Yêu cầu đối với cáp, xích, tang, ròng rọc và
+móc nâng
+
+2.2.2.1. Hệ số an toàn của xích định cữ mắt tròn
+không nhỏ hơn 8.0; xích tấm - không nhỏ 5.0 có tính đến khối lượng và hiệu suất
+của hệ thống ròng rọc, không tính đến tải trọng động.
+
+2.2.2.2. Việc chọn và tính cáp thép phải tính đến
+các đặc tính của cáp và chế độ làm việc của pa lăng.
+
+2.2.2.3. Cáp của pa lăng dùng để vận chuyển kim loại
+nung đỏ, kim loại lỏng, xỉ lỏng cần có bộ phận che chắn phù hợp để tránh sự ảnh
+hưởng trực tiếp của nhiệt độ và bắn tóe của kim loại. Lõi cáp này phải bền nhiệt.
+
+2.2.2.4. Tang phải có rãnh để rải cáp.
+
+Bán kính rãnh trên tang và ròng rọc được xác định
+theo công thức r ≈ 0,53d trong đó d là đường kính cáp.
+
+Chiều sâu rãnh:
+
+Đối với tang không nhỏ hơn 0,20d.
+
+Đối với ròng rọc không nhỏ hơn 1,35d.
+
+Góc mở của rãnh ròng rọc cáp không nhỏ hơn 30° và
+không lớn hơn 50°.
+
+Tang phải được chế tạo sao cho cáp được cuộn theo từng
+lớp.
+
+Khả năng chứa cáp của tang phải bảo đảm khi bộ phận
+mang tải ở vị trí thấp nhất theo tính toán trên tang vẫn còn lại ít nhất 1,5
+vòng cáp (không tính những vòng nằm dưới tấm kẹp).
+
+2.2.2.5. Độ lệch của cáp khỏi rãnh dẫn hướng trên
+tang hoặc trên ròng rọc không được vượt quá 1:15.
+
+2.2.2.6. Ròng rọc dùng cho xích hàn và đĩa xích
+dùng cho xích tấm không ít hơn 5 lỗ hoặc răng trong đó ít nhất có 2 lỗ hoặc
+răng ăn khớp hoàn toàn với xích.
+
+2.2.2.7. Ròng rọc và đĩa xích cần có cơ cấu rải
+đúng xích và ngăn ngừa xích rơi khỏi ròng rọc (đĩa xích) hoặc khỏi đường tâm của
+nó.
+
+2.2.2.8. Vỏ treo móc pa lăng cần sơn các vạch vàng
+và đen xen kẽ để báo nguy hiểm cho người sử dụng.
+
+2.2.3. Yêu cầu đối với thiết bị an toàn
+
+2.2.3.1. Cơ cấu nâng cần được trang bị công tắc
+hành trình để khống chế hành trình giới hạn trên của móc.
+
+Trong trường hợp pa lăng xích có li hợp ma sát, cho
+phép không dùng công tắc hành trình.
+
+2.2.3.2. Công tắc hành trình giới hạn trên cần đặt
+sao cho khoảng cách giữa móc nâng hàng và vỏ của pa lăng không nhỏ hơn 100 mm
+khi móc nâng hàng ở vị trí cao nhất.
+
+Đối với pa lăng xích cho phép lắp gối tựa chất dẻo
+trên vỏ pa lăng.
+
+2.2.3.3. Phải có cơ cấu khống chế tải trọng cho pa
+lăng điện khi trọng tải của pa lăng vượt quá 15% sức nâng cho phép nó để ngắt
+chuyển động cơ cấu nâng.
+
+2.2.4. Yêu cầu đối với thiết bị điện và điều khiển
+
+2.2.4.1. Thiết bị điều khiển được cấp điện từ mạng điều
+khiển hoặc mạng động lực.
+
+Nếu thiết bị điều khiển được đóng vào mạng động lực,
+điện áp mạng động lực không được lớn hơn 380V.
+
+2.2.4.2. Sơ đồ điện cũng như thiết bị điều khiển cần
+được khóa liên động để loại trừ khả năng nối mạch đồng thời 2 công tắc đảo chiều
+khi điều khiển bằng phương pháp gián tiếp hoặc nối mạng đồng thời 2 phân tử
+chuyển động đảo chiều khi điều khiển bằng phương pháp trực tiếp.
+
+2.2.4.3. Điện áp trong mạng điều khiển khi điều khiển
+bằng phương pháp gián tiếp không được lớn hơn 42V.
+
+Trong trường hợp dùng thiết bị điều khiển có vỏ làm
+bằng vật liệu cách điện hoặc có phủ lớp cách điện cho phép điện áp mạng điều khiển
+đến 220V.
+
+Khi mạng điều khiển được nối với biến thế hạ áp,
+các cuộn dây của chúng không được nối điện với nhau.
+
+Đề phòng dò điện của thiết bị điều khiển, thiết bị
+an toàn trong mạch điều khiển và mạch bảo vệ phải được nối đất.
+
+2.2.4.4. Khi điều khiển pa lăng điện bằng phương
+pháp trực tiếp, bảng điều khiển phải được chế tạo bằng vật liệu cách điện hoặc
+có phủ lớp cách điện.
+
+2.2.4.5. Trong pa lăng cần dùng dây dẫn bằng đồng
+có lớp cách điện có tiết diện mặt cắt ngang: Mạch thứ cấp và mạch phanh điện tử
+không nhỏ hơn 0,75mm2, trong mạch dẫn vào động cơ điện không nhỏ hơn
+1,5mm2.
+
+2.2.4.6. Vỏ thiết bị điều khiển phải chịu được va đập.
+
+Dây treo thiết bị điều khiển phải chịu được lực 0,5
+KN.
+
+2.2.4.7. Thiết bị điều khiển gián tiếp pa lăng từ
+sàn phải có khóa điều khiển liên động pa lăng.
+
+2.2.4.8. Các nút ấn có thiết bị điều khiển phải được
+bố trí trên cùng một bảng điều khiển và có ký hiệu để nhận biết.
+
+2.2.4.9. Tất cả các pa lăng điện phải được bảo vệ
+chống điện giật theo các quy định hiện hành.
+
+2.2.5. Yêu cầu đối với việc ghi nhãn cho pa lăng điện
+
+2.2.5.1. Pa lăng điện khi xuất xưởng hoặc lưu thông
+trên thị trường phải được ghi nhãn theo quy định của pháp luật.
+
+2.2.5.2. Nhãn gắn trên pa lăng điện phải được đặt ở
+vị trí dễ nhìn thấy nhất và phải bao gồm các nội dung cơ bản sau:
+
+(1) Loại pa lăng;
+
+(2) Mã hiệu của pa lăng;
+
+(3) Xuất xứ;
+
+(4) Năm sản xuất;
+
+(5) Tải trọng nâng cho phép;
+
+(6) Công suất làm việc động cơ;
+
+(7) Điện áp danh định;
+
+(8) Chiều cao nâng lớn nhất;
+
+(9) Vận tốc nâng.
+
+3. Quy định về quản lý
+
+3.1. Hồ sơ kỹ thuật gốc của pa lăng điện bao gồm:
+
+3.1.1. Bản thuyết minh chung phải thể hiện được:
+Tên và địa chỉ của nhà sản xuất, kiểu mẫu, mã hiệu, năm sản xuất, tải trọng
+nâng cho phép, công suất làm việc của động cơ, nguyên lý hoạt động và các đặc
+trưng kỹ thuật chính của hệ thống (thiết bị điều khiển, thiết bị an toàn, cơ cấu
+hạn chế quá tải, cơ cấu nâng), các tiêu chuẩn áp dụng đối với pa lăng điện.
+
+3.1.2. Bản vẽ sơ đồ nguyên lý hoạt động.
+
+3.1.3. Bản vẽ lắp các cụm cơ cấu của pa lăng.
+
+3.1.4. Bản vẽ tổng thể của pa lăng có ghi các kích
+thước và thông số chính.
+
+3.1.5. Quy trình kiểm tra và thử tải, quy trình xử
+lý, khắc phục sự cố.
+
+3.1.6. Hướng dẫn sử dụng và lắp đặt.
+
+3.1.7. Chế độ kiểm tra, sửa chữa và bảo dưỡng định
+kỳ.
+
+3.1.8. Các chế độ làm việc của pa lăng và các thiết
+bị an toàn.
+
+3.2. Pa lăng điện sản xuất trong nước
+
+Nhà chế tạo pa lăng điện phải thực hiện các yêu cầu
+về quản lý chất lượng như sau:
+
+3.2.1. Đủ hồ sơ kỹ thuật theo quy định tại 3.1 của
+Quy chuẩn này.
+
+3.2.2. Pa lăng điện chế tạo trong nước phải được chứng
+nhận hợp quy và công bố hợp quy phù hợp với các quy định tại 4.1 của Quy chuẩn
+này trên cơ sở việc chứng nhận hợp quy của Tổ chức chứng nhận hợp quy được Bộ Lao
+động - Thương binh và Xã hội chỉ định.
+
+3.2.3. Đơn vị chế tạo phải công bố hợp quy và đăng
+ký hợp quy đối với pa lăng điện theo quy định sau khi được chứng nhận hợp quy.
+
+3.2.4. Phải được gắn dấu hợp quy trước khi đưa ra
+lưu thông trên thị trường.
+
+3.2.5. Chịu sự kiểm tra giám sát của cơ quan kiểm
+tra chất lượng sản phẩm, hàng hóa thuộc Bộ Lao động - Thương binh và Xã hội.
+
+3.3. Pa lăng điện nhập khẩu
+
+3.3.1. Đủ hồ sơ kỹ thuật theo quy định tại 3.1 của
+Quy chuẩn này.
+
+3.3.2. Pa lăng điện khi nhập khẩu phải được chứng
+nhận hợp quy theo quy định tại 4.1.
+
+3.3.3. Trong trường hợp nhập khẩu mà theo thỏa thuận
+song phương, đa phương giữa cơ quan có thẩm quyền của nước Cộng hòa Xã hội chủ
+nghĩa Việt Nam với các nước xuất khẩu pa lăng điện quy định không phải kiểm tra
+chất lượng khi nhập khẩu thì các pa lăng điện này được miễn kiểm tra nhập khẩu.
+
+3.3.4. Pa lăng điện nhập khẩu không đáp ứng được quy
+định tại mục 3.1, khi nhập khẩu phải được tổ chức chứng nhận hợp quy do Bộ Lao
+động - Thương binh và Xã hội chỉ định hoặc được thừa nhận theo điều ước quốc tế
+mà Việt Nam là thành viên hoặc thỏa thuận quốc tế mà cơ quan có thẩm quyền của
+nước Cộng hòa xã hội chủ nghĩa Việt Nam ký kết tiến hành kiểm tra tại cửa khẩu
+nhập.
+
+3.3.5. Pa lăng điện nhập khẩu phải được kiểm tra chất
+lượng theo trình tự, thủ tục quy định và bị xử lý nếu có vi phạm theo luật định.
+
+3.4. Pa lăng điện lưu thông trên thị trường
+
+Pa lăng điện lưu thông trên thị trường, người bán
+hàng phải thực hiện các yêu cầu sau:
+
+3.4.1. Tuân thủ các quy chuẩn kỹ thuật quốc gia
+tương ứng trong quá trình bảo quản, lưu thông pa lăng điện theo hướng dẫn của
+nhà chế tạo.
+
+3.4.2. Tự áp dụng các biện pháp kiểm soát chất lượng
+nhằm duy trì chất lượng của pa lăng điện do mình bán.
+
+3.4.3. Chịu sự kiểm tra chất lượng theo những nội
+dung, trình tự, thủ tục quy định và bị xử lý vi phạm theo luật định.
+
+3.5. Quản lý sử dụng an toàn pa lăng điện
+
+3.5.1. Pa lăng điện phải được sử dụng, bảo trì và bảo
+dưỡng theo hướng dẫn của nhà sản xuất.
+
+3.5.2. Người chịu trách nhiệm quản lý trực tiếp,
+người vận hành pa lăng điện phải được huấn luyện an toàn lần đầu trước khi giao
+việc, huấn luyện an toàn định kỳ hàng năm và phải được cấp Chứng chỉ huấn luyện
+an toàn lao động theo quy định.
+
+3.5.3. Những yêu cầu an toàn khi sử dụng pa lăng điện:
+
+3.5.3.1. Chỉ sử dụng pa lăng điện có tình trạng kỹ
+thuật tốt và chưa hết hạn kiểm định kỹ thuật an toàn. Trong quá trình sử dụng nếu
+phát hiện pa lăng điện không đảm bảo an toàn, đơn vị sử dụng có thể đưa ra yêu
+cầu kiểm định trước thời hạn.
+
+3.5.3.2. Các pa lăng điện trước khi đưa vào sử dụng
+phải được gắn tem kiểm định và ghi nhãn theo quy định.
+
+3.5.3.3. Mỗi pa lăng điện phải có sổ theo dõi bảo
+dưỡng, sửa chữa theo quy định của nhà chế tạo.
+
+3.5.3.4. Pa lăng điện phải được sử dụng, vận chuyển,
+lưu giữ, bảo trì, bảo dưỡng theo chỉ dẫn của nhà sản xuất.
+
+3.5.4. Người vận hành pa lăng điện phải được trang
+bị phương tiện bảo vệ cá nhân, giầy, mũ bảo hộ, găng tay và các loại phương tiện
+bảo vệ khác theo quy định.
+
+4. Chứng nhận hợp quy và kiểm định
+kỹ thuật an toàn đối với pa lăng điện
+
+4.1. Chứng nhận hợp quy đối với pa lăng điện
+
+4.1.1. Việc chứng nhận hợp quy đối với pa lăng điện
+hoặc các phụ kiện của pa lăng điện sản xuất trong nước được thực hiện theo
+phương thức 5: thử nghiệm mẫu điển hình và đánh giá quá trình sản xuất; giám sát
+thông qua thử nghiệm mẫu lấy tại nơi sản xuất hoặc trên thị trường kết hợp với
+đánh giá quá trình sản xuất nếu chúng được sản xuất hàng loạt; đối với pa lăng
+điện sản xuất đơn chiếc, việc chứng nhận hợp quy được thực hiện theo phương thức
+8: thử nghiệm hoặc kiểm định toàn bộ sản phẩm hàng hóa (trong phụ lục II của Quy
+định về công bố hợp chuẩn, công bố hợp quy và phương thức đánh giá sự phù hợp với
+tiêu chuẩn, quy chuẩn kỹ thuật ban hành kèm theo Thông tư số 28/2012/TT-BKHCN ngày 12/12/2012 của Bộ trưởng Bộ
+Khoa học và Công nghệ).
+
+4.1.2. Việc chứng nhận hợp quy đối với pa lăng điện
+hoặc các phụ kiện của pa lăng điện nhập khẩu được thực hiện theo phương thức 7:
+thử nghiệm, đánh giá lô sản phẩm, hàng hóa lô hàng hóa nếu chúng được nhập khẩu
+hàng loạt; nếu nhập khẩu đơn chiếc thì việc chứng nhận hợp quy được thực hiện
+theo phương thức 8: thử nghiệm hoặc kiểm định toàn bộ sản phẩm hàng hóa (trong
+phụ lục II của Quy định về công bố hợp chuẩn, công bố hợp quy và phương thức
+đánh giá sự phù hợp với tiêu chuẩn, quy chuẩn kỹ thuật ban hành kèm theo Thông
+tư số 28/2012/TT-BKHCN ngày 12/12/2012 của
+Bộ trưởng Bộ Khoa học và Công nghệ).
+
+4.1.3. Việc chứng nhận hợp quy phải do tổ chức chứng
+nhận hợp quy được Cục An toàn lao động, Bộ Lao động - Thương binh và Xã hội chỉ
+định.
+
+4.2. Kiểm định kỹ thuật an toàn đối với pa lăng điện
+
+4.2.1. Pa lăng điện trước khi đưa vào sử dụng phải
+được kiểm định lần đầu, kiểm định định kỳ trong quá trình sử dụng, hoặc kiểm định
+bất thường theo quy trình kiểm định do Bộ Lao động - Thương binh và Xã hội ban
+hành.
+
+Việc kiểm định kỹ thuật an toàn pa lăng điện phải
+do tổ chức kiểm định kỹ thuật an toàn lao động đã được Cục An toàn lao động chỉ
+định.
+
+4.2.2. Chu kỳ kiểm định định kỳ đối với pa lăng điện:
+
+4.2.2.1. Chu kỳ kiểm định đối với pa lăng điện là
+03 năm một lần đối với pa lăng điện làm việc cố định có tần suất làm việc trung
+bình.
+
+4.2.2.2. Chu kỳ kiểm định đối với pa lăng điện là
+01 năm một lần đối với pa lăng điện làm việc với tần suất cao hoặc di động.
+
+4.2.2.3. Chu kỳ kiểm định trên có thể được rút ngắn
+nhưng phải nêu rõ lý do trong biên bản kiểm định.
+
+5. Thanh tra, kiểm tra và xử lý
+vi phạm
+
+5.1. Việc thanh tra và xử lý vi phạm các quy định của
+Quy chuẩn này do thanh tra nhà nước về lao động thực hiện.
+
+5.2. Việc kiểm tra chất lượng chế tạo, nhập khẩu,
+lưu thông và sử dụng pa lăng điện được thực hiện theo Luật Chất lượng sản phẩm, hàng hóa và Quy chuẩn
+kỹ thuật quốc gia về an toàn lao động đối với pa lăng điện.
+
+6. Trách nhiệm của các tổ chức,
+cá nhân
+
+6.1. Các tổ chức, cá nhân làm nhiệm vụ chế tạo, nhập
+khẩu, lưu thông và sử dụng pa lăng điện có trách nhiệm tuân thủ các quy định tại
+Quy chuẩn này.
+
+6.2. Quy chuẩn này là căn cứ để các cơ quan kiểm
+tra chất lượng pa lăng điện tiến hành việc kiểm tra và cũng là căn cứ để các Tổ
+chức đánh giá sự phù hợp tiến hành chứng nhận hợp quy.
+
+7. Tổ chức thực hiện
+
+7.1. Cục An toàn lao động, Bộ Lao động - Thương
+binh và Xã hội có trách nhiệm hướng dẫn và kiểm tra việc thực hiện Quy chuẩn
+này.
+
+7.2. Các cơ quan quản lý nhà nước về lao động địa
+phương có trách nhiệm hướng dẫn, thanh tra, kiểm tra việc thực hiện các quy định
+của Quy chuẩn này.
+
+7.3. Trong quá trình thực hiện, nếu có vướng mắc,
+các cơ quan, tổ chức, cá nhân có liên quan có trách nhiệm kịp thời phản ánh với
+Bộ Lao động - Thương binh và Xã hội để xem xét giải quyết./.--- THÔNG TIN THÊM ---
+Ten: Thông tư 37/2013/TT-BLĐTBXH Quy chuẩn kỹ thuật quốc gia an toàn lao động đối với Pa lăng điện do Bộ trưởng Bộ Lao động - Thương binh và Xã hội ban hành
+So hieu: 37/2013/TT-BLĐTBXH
+Loai van ban: Thông tư
+Linh vuc nganh: Lao động - Tiền lương
+Noi ban hanh: Bộ Lao động - Thương binh và Xã hội
+Nguoi ky: Bùi Hồng Lĩnh
+Ngay ban hanh: 30/12/2013
+Ngay hieu luc: 28/06/2014
+Ngay dang: 15/03/2014
+So cong bao: Từ số 321 đến số 322
+Tinh trang: Còn hiệu lực
+
+
+--- MỤC LỤC ---
+- THÔNG TƯ BAN HÀNH QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ AN TOÀN LAO ĐỘNG ĐỐI VỚI PA LĂNG ĐIỆN
+  - Điều 1. Ban hành kèm theo Thông tư này Quy chuẩn kỹ thuật quốc gia về an toàn lao động đối với Pa lăng điện.
+  - Điều 2. Quy chuẩn kỹ thuật quốc gia về an toàn lao động đối với Pa lăng điện có hiệu lực từ ngày 28 tháng 6 năm 2014.
+  - Điều 3. Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành./.
+- QCVN 13: 2013/BLĐTBXH QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ AN TOÀN LAO ĐỘNG ĐỐI VỚI PA LĂNG ĐIỆN
+  - 1. Quy định chung
+  - 2. Quy định về kỹ thuật
+  - 3. Quy định về quản lý
+  - 4. Chứng nhận hợp quy và kiểm định kỹ thuật an toàn đối với pa lăng điện
+  - 5. Thanh tra, kiểm tra và xử lý vi phạm
+  - 6. Trách nhiệm của các tổ chức, cá nhân
+  - 7. Tổ chức thực hiện
+
+--- VĂN BẢN LIÊN QUAN ---
+
+Van ban duoc dan chieu:
+  - Luật chất lượng sản phẩm, hàng hóa 2007 (ID: 59776)
+
+Van ban duoc can cu:
+  - Nghị định 106/2012/NĐ-CP quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Lao động - Thương... (ID: 154043)
+  - Nghị định 132/2008/NĐ-CP Hướng dẫn Luật Chất lượng sản phẩm, hàng hóa (ID: 83467)
+  - Nghị định 127/2007/NĐ-CP Hướng dẫn Luật Tiêu chuẩn và Quy chuẩn kỹ thuật (ID: 54148)
+
+Van ban lien quan cung noi dung:
+  - Thông tư 42/2013/TT-BLĐTBXH về Quy chuẩn kỹ thuật quốc gia an toàn lao động đối với thang máy thủy lực do Bộ trưởng Bộ Lao động - Thương binh và Xã hội ban hành (ID: 219170)
+  - Thông tư 40/2013/TT-BLĐTBXH về Quy chuẩn kỹ thuật quốc gia an toàn lao động đối với máy vận thăng do Bộ trưởng Bộ Lao động - Thương binh và Xã hội ban hành (ID: 219172)
+  - Thông tư 39/2013/TT-BLĐTBXH Quy chuẩn kỹ thuật quốc gia an toàn lao động đối với giày hoặc ủng cách điện do Bộ trưởng Bộ Lao động - Thương binh và Xã hội ban hành (ID: 219173)
+  - Thông tư 38/2013/TT-BLĐTBXH về Quy chuẩn kỹ thuật quốc gia an toàn lao động đối với ống cách điện có chứa bọt và sào cách điện dạng đặc dùng để làm việc khi có điện do Bộ trưởng Bộ Lao động - Thương binh và Xã hội ban hành (ID: 219175)
+  - Thông tư 36/2013/TT-BLĐTBXH về Quy chuẩn kỹ thuật quốc gia an toàn lao động đối với sàn thao tác treo do Bộ trưởng Bộ Lao động - Thương binh và Xã hội ban hành (ID: 219177)
+  - Quyết định 2746/QĐ-BNN-KHCN năm 2013 12 Tiêu chuẩn kỹ thuật áp dụng cho dự án thuộc Quy hoạch Thủy lợi Chống ngập úng khu vực Thành phố Hồ Chí Minh do Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn ban hành (ID: 214035)
+  - Thông tư 39/2013/TT-BGTVT Quy chuẩn kỹ thuật quốc gia về xe đạp điện do Bộ trưởng Bộ Giao thông vận tải ban hành (ID: 212229)
+  - Thông tư 18/2013/TT-BTTTT Quy chuẩn kỹ thuật quốc gia về phổ tần số và tương thích điện từ của máy phát hình số DVB-T2 do Bộ trưởng Bộ Thông tin và Truyền thông ban hành (ID: 210295)
+  - Thông tư 16/2013/TT-BKHCN Quy chuẩn kỹ thuật quốc gia về Mạng lưới quan trắc và cảnh báo phóng xạ môi trường quốc gia do Bộ trưởng Bộ Khoa học và Công nghệ ban hành (ID: 206046)

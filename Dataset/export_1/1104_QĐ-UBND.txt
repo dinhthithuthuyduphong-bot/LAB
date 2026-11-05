@@ -1,0 +1,761 @@
+ỦY BAN NHÂN DÂN
+
+TỈNH VĨNH LONG
+
+ -------
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+ Độc lập - Tự do - Hạnh phúc
+
+ ---------------
+
+Số:1104/QĐ-UBND
+
+Vĩnh
+ Long, ngày 14 tháng 5 năm 2021
+
+ 
+
+QUYẾT ĐỊNH
+
+BAN HÀNH “KẾ HOẠCH ĐÀO TẠO VÀ PHÁT TRIỂN
+NGUỒN NHÂN LỰC AN TOÀN THÔNG TIN TRÊN ĐỊA BÀN TỈNH VĨNH LONG GIAI ĐOẠN 2021 -
+2025”
+
+CHỦ TỊCH ỦY BAN NHÂN DÂN TỈNH
+
+Căn cứ Luật
+Tổ chức chính quyền địa phương, ngày 19/6/2015; Luật sửa đổi, bổ sung một số điều
+của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương, ngày
+22/11/2019;
+
+Căn cứ Luật
+Công nghệ thông tin, ngày 29/6/2006;
+
+Căn cứ Nghị
+định số 64/2007/NĐ-CP , ngày 10/4/2007 của Chính phủ về việc ứng dụng công nghệ
+thông tin trong hoạt động của cơ quan nhà nước;
+
+Căn cứ Nghị
+định số 101/2017/NĐ-CP , ngày 01/9/2017 của Chính phủ về đào tạo, bồi dưỡng cán
+bộ, công chức, viên chức;
+
+Căn cứ Nghị
+định số 163/2016/NĐ-CP , ngày 21/12/2016 của Chính phủ quy định chi tiết thi
+hành một số điều của Luật Ngân sách nhà nước;
+
+Căn cứ Quyết
+định số 21/QĐ-TTg , ngày 06/01/2021 của Thủ tướng Chính phủ phê duyệt Đề án “Đào
+tạo nguồn nhân lực an toàn thông tin giai đoạn 2021-2025”;
+
+Căn cứ Quyết
+định số 08/2019/QĐ-UBND , ngày 30/5/2019 của UBND tỉnh về việc ban hành quy chế
+quản lý đào tạo, bồi dưỡng cán bộ công chức, viên chức trên địa bàn tỉnh Vĩnh
+Long;
+
+Theo đề nghị
+của Giám đốc Sở Thông tin và Truyền thông tại Tờ trình số 31/TTr-STTTT, ngày
+26/3/2021.
+
+QUYẾT ĐỊNH:
+
+Điều 1. Ban hành kèm theo Quyết định này “Kế hoạch
+đào tạo và phát triển nguồn nhân lực an toàn thông tin trên địa bàn tỉnh Vĩnh
+Long giai đoạn 2021 - 2025”.
+
+Điều 2. Giao Giám đốc Sở Thông tin và Truyền thông
+tổ chức thực hiện theo đúng nội dung Kế hoạch này.
+
+Điều 3. Chánh Văn phòng UBND tỉnh, Giám đốc các Sở,
+ban, ngành tỉnh, Chủ tịch UBND các huyện, thị xã, thành phố và các tổ chức, cá
+nhân có liên quan chịu trách nhiệm thi hành Quyết định này.
+
+Quyết định có
+hiệu lực thi hành kể từ ngày ký./.
+
+ 
+
+ 
+
+Nơi nhận:
+
+- Như Điều 3;
+
+ - Bộ Thông tin và Truyền thông (b/c);
+
+ - Cục ATTT;
+
+ - PCT.UBND tỉnh phụ trách VHXH;
+
+ - PVP.UBND tỉnh phụ trách VHXH;
+
+ - Phòng VHXH;
+
+ - Lưu: VT, 3.16.02.
+
+KT. CHỦ TỊCH
+
+ PHÓ CHỦ TỊCH
+
+ Nguyễn Thị Quyên Thanh
+
+ 
+
+KẾ HOẠCH
+
+ĐÀO TẠO VÀ PHÁT TRIỂN NGUỒN NHÂN LỰC AN
+TOÀN THÔNG TIN TRÊN ĐỊA BÀN TỈNH VĨNH LONG GIAI ĐOẠN 2021 - 2025
+
+(Kèm theo Quyết định số 1104/QĐ-UBND, ngày 14/5/2021 của Chủ tịch Ủy ban
+nhân dân tỉnh Vĩnh Long)
+
+I. MỤC ĐÍCH, YÊU CẦU
+
+- Đào tạo và
+phát triển đội ngũ nhân lực an toàn thông tin (ATTT) nhằm góp phần bảo đảm
+ATTT, giải quyết kịp thời các vấn đề về ATTT trên địa bàn tỉnh; thực hiện thành
+công chính quyền điện tử tỉnh, dịch vụ đô thị thông minh Vĩnh Long bằng nhiều
+hình thức đào tạo, cập nhật, nâng cao kiến thức, kỹ năng.
+
+- Đào tạo,
+nâng cao kiến thức, kỹ năng về ATTT cho cán bộ, công chức, viên chức trong cơ
+quan nhà nước trên địa bàn tỉnh; hỗ trợ các cơ quan, tổ chức của Đảng, tổ chức
+chính trị - xã hội, doanh nghiệp nhà nước, tổ chức kinh tế nhà nước đào tạo, tập
+huấn về ATTT khi có đề nghị từ các cơ quan, tổ chức này.
+
+- Xây dựng và
+phát triển đội ngũ chuyên gia ATTT để bảo vệ cho các hệ thống thông tin của Đảng
+và Nhà nước của tỉnh.
+
+- Nâng cao
+trách nhiệm của các Sở, ban, ngành, tổ chức, đoàn thể, UBND các huyện, thị xã,
+thành phố và các đơn vị có liên quan trong việc quan tâm công tác đào tạo phát triển
+nguồn nhân lực ATTT đến giai đoạn 2021 - 2025.
+
+II. MỤC TIÊU
+
+1. Mục tiêu
+tổng quát
+
+a) Đào tạo,
+nâng cao kiến thức, kỹ năng về ATTT cho cán bộ, công chức, viên chức, người lao
+động trong cơ quan, tổ chức Nhà nước; hỗ trợ các cơ quan, tổ chức của Đảng, tổ
+chức chính trị - xã hội đào tạo, tập huấn về ATTT khi có đề nghị từ các cơ
+quan, tổ chức này.
+
+b) Xây dựng và
+phát triển đội ngũ chuyên gia ATTT, trong đó chú trọng đào tạo cho Đội Ứng cứu
+sự cố an toàn thông tin mạng của tỉnh (Đội Ứng cứu) nhằm tăng cường khả năng
+phòng thủ, chống các nguy cơ tấn công, xâm nhập hệ thống thông tin trọng yếu của
+tỉnh và kịp thời ngăn chặn, khắc phục các sự cố ATTT trên mạng máy tính.
+
+c) Đào tạo kiến
+thức, kỹ năng ATTT cho các tổ chức, cá nhân và đào tạo ATTT theo cơ chế xã hội
+hóa.
+
+2. Mục tiêu
+cụ thể
+
+a) Tổ chức đào
+tạo, tập huấn 300 lượt về kiến thức, kỹ năng, kỹ thuật ATTT cho công chức, viên
+chức, người lao động chuyên trách hoặc kiêm nhiệm về ATTT của các cơ quan, tổ
+chức của Đảng, Nhà nước, tổ chức chính trị - xã hội, các doanh nghiệp, tổ chức
+kinh tế của nhà nước và các thành viên Đội ứng cứu.
+
+b) Tổ chức đào
+tạo, tập huấn 200 lượt về quản lý, nghiệp vụ và kỹ năng ATTT cho đội ngũ lãnh đạo,
+quản lý của các cơ quan, tổ chức của Đảng, Nhà nước, tổ chức chính trị - xã hội,
+các doanh nghiệp và tổ chức kinh tế của nhà nước.
+
+c) Tổ chức đào
+tạo, tập huấn 300 lượt về kiến thức, kỹ năng ATTT của người dùng cho các công
+chức, viên chức và người lao động có sử dụng thiết bị công nghệ thông tin
+(CNTT) khi làm việc của các cơ quan, tổ chức của Đảng, Nhà nước, tổ chức chính
+trị - xã hội, các doanh nghiệp nhà nước, tổ chức kinh tế nhà nước.
+
+III. NHIỆM VỤ - GIẢI PHÁP THỰC HIỆN
+
+1. Nhiệm vụ
+1: Đào tạo ngắn hạn về ATTT theo hình thức tập
+trung, trực tuyến hoặc kết hợp giữa tập trung và trực tuyến về ATTT cho các cơ
+quan, tổ chức Nhà nước; hỗ trợ các cơ quan, tổ chức của Đảng, tổ chức chính trị
+- xã hội đào tạo, tập huấn về ATTT khi có đề nghị từ các cơ quan, tổ chức này,
+nội dung đào tạo bao gồm:
+
+a) Về quản lý,
+nghiệp vụ và kỹ năng ATTT cho đội ngũ lãnh đạo, quản lý.
+
+b) Cập nhật,
+nâng cao kỹ năng kỹ thuật ATTT cho đội ngũ nhân lực kỹ thuật làm về ATTT và
+CNTT theo chuẩn, khung chương trình, yêu cầu kỹ năng ATTT do Bộ Thông tin và
+Truyền thông ban hành, hướng dẫn.
+
+c) Về kiến thức,
+kỹ năng ATTT của người dùng cho các cán bộ, công chức, viên chức và người lao động
+có sử dụng thiết bị CNTT.
+
+d) Đào tạo về
+kiến thức, kỹ năng, kỹ thuật ATTT chuyên sâu cho các thành viên Đội ứng cứu để
+nâng cao năng lực đảm bảo cho các hệ thống thông tin của các cơ quan nhà nước
+trên địa bàn tỉnh.
+
+đ) Lựa chọn
+công chức, viên chức của các sở, ngành, địa phương, các cơ quan, tổ chức đang
+được giao nhiệm vụ quản lý, vận hành các hệ thống thông tin Chính phủ điện tử,
+hệ thống thông tin của các cơ quan Đảng và Nhà nước để tổ chức đào tạo, tập huấn.
+Chú trọng đào tạo cho đội ngũ này theo hình thức đào tạo chuyên sâu và thường
+xuyên đào tạo, cập nhật về kỹ năng, kỹ thuật ATTT và nghiệp vụ ATTT nâng cao;
+đào tạo theo hình thức thực tập thực tế, tại chỗ (on- the-job training), tổ chức
+đào tạo ngắn hạn cập nhật công nghệ, nâng cao kiến thức, kỹ năng ATTT.
+
+2. Nhiệm vụ
+2: Chuẩn hóa kỹ năng ATTT trong các cơ quan, tổ chức
+
+a) Hướng dẫn
+thực hiện quy định chuẩn kỹ năng về ATTT, tiêu chuẩn, tiêu chí, yêu cầu chuyên
+môn, nghiệp vụ ATTT cho công chức, viên chức và nhân viên kỹ thuật chuyên trách
+về ATTT, CNTT nhằm chuẩn hóa và nâng cao chất lượng nguồn nhân lực ATTT trong
+các cơ quan, tổ chức, doanh nghiệp; hướng dẫn, phối hợp tổ chức hoạt động kiểm
+tra, đánh giá năng lực ATTT đối với công chức, viên chức, nhân viên kỹ thuật,
+quản lý về ATTT, CNTT trong các cơ quan, tổ chức.
+
+b) Đưa nội
+dung đào tạo về ATTT vào các chương trình đào tạo, bồi dưỡng, xếp hoặc nâng ngạch
+bậc cho tất cả các vị trí việc làm và các chương trình đào tạo, bồi dưỡng cho
+cán bộ, công chức, viên chức theo định kỳ trong cơ quan nhà nước.
+
+3. Nhiệm vụ
+3: Đào tạo kiến thức, kỹ năng ATTT cho các tổ chức,
+cá nhân
+
+a) Các doanh
+nghiệp, tổ chức kinh tế nhà nước theo nhu cầu thực tiễn thường xuyên tổ chức
+các chương trình đào tạo: về kỹ năng, kỹ thuật ATTT cho nhân viên kỹ thuật
+ATTT, CNTT; về kiến thức quản lý, nghiệp vụ và kỹ năng ATTT cho đội ngũ lãnh đạo,
+quản lý; về kiến thức, kỹ năng ATTT của người dùng cho các công chức, viên chức,
+nhân viên có sử dụng thiết bị CNTT khi làm việc trong cơ quan, tổ chức.
+
+b) Phối hợp với
+Bộ Thông tin và Truyền thông triển khai hệ thống, chương trình, tài liệu để tổ
+chức đào tạo trực tuyến rộng rãi và kiểm tra kết quả đầu ra nhằm phổ biến kiến
+thức, kỹ năng ATTT cho đông đảo người dân trong cộng đồng.
+
+4. Nhiệm vụ
+4: Đào tạo ATTT theo cơ chế xã hội hóa
+
+Vận động các
+cơ sở đào tạo, doanh nghiệp, chuyên gia ATTT và các tổ chức, cá nhân có liên
+quan kết hợp tổ chức miễn phí hoặc cấp học bổng các khóa đào tạo về kiến thức,
+kỹ năng, kỹ thuật ATTT cho các cơ quan, tổ chức, doanh nghiệp (đặc biệt là
+doanh nghiệp vừa và nhỏ) và người dùng liên quan đến thiết bị CNTT trong cộng đồng.
+
+IV. TỔ CHỨC THỰC HIỆN
+
+1. Sở Thông
+tin và Truyền thông
+
+- Chủ trì, phối
+hợp Sở Kế hoạch và Đầu tư, Sở Tài chính, Sở Nội vụ và các đơn vị có liên quan
+triển khai thực hiện kế hoạch này đồng bộ, có hiệu quả.
+
+- Chủ trì, phối
+hợp với các đơn vị thực hiện Nhiệm vụ 1; Nhiệm vụ 2; nội dung b Nhiệm vụ 3 và
+Nhiệm vụ 4 của Kế hoạch.
+
+- Phối hợp với
+Các doanh nghiệp, tổ chức kinh tế của nhà nước thực hiện nội dung a Nhiệm vụ 3
+của Kế hoạch.
+
+- Hàng năm
+tham mưu cho Ủy ban nhân dân tỉnh xây dựng kế hoạch đào tạo nguồn nhân lực
+ATTT.
+
+- Theo dõi, đôn
+đốc, kiểm tra việc thực hiện kế hoạch và tổng hợp báo cáo kết quả thực hiện
+hàng năm về UBND tỉnh để theo dõi, chỉ đạo.
+
+2. Sở Kế hoạch
+và Đầu tư, Sở Tài chính
+
+- Phối hợp với
+Sở Thông tin và Truyền thông cân đối ngân sách tỉnh bố trí theo kế hoạch.
+
+- Phối hợp với
+các ngành kiểm tra, giám sát việc sử dụng kinh phí, đảm bảo sử dụng đúng mục
+đích và có hiệu quả.
+
+3. Sở Nội vụ
+
+- Hàng năm phối
+hợp với Sở Thông tin và Truyền thông tham mưu cho Ủy ban nhân dân tỉnh xây dựng
+kế hoạch đào tạo nguồn nhân lực ATTT.
+
+- Phối hợp với
+Sở Thông tin và Truyền thông thực hiện nội dung đ Nhiệm vụ 1; nội dung b Nhiệm
+vụ 2 của Kế hoạch.
+
+4. Các sở,
+ban, ngành, tổ chức, đoàn thể và UBND các huyện, thị xã, thành phố
+
+- Căn cứ chức
+năng, nhiệm vụ và trên cơ sở Kế hoạch phát triển nhân lực ATTT của tỉnh Vĩnh
+Long giai đoạn 2021 - 2025 đã phê duyệt, các sở, ban, ngành, đoàn thể và UBND
+các huyện, thị xã, thành phố có trách nhiệm xây dựng kế hoạch phát triển nhân lực
+ATTT theo lĩnh vực mình quản lý.
+
+- Phối hợp với
+Sở Thông tin và Truyền thông, thực hiện Nhiệm vụ 1; Nhiệm vụ 2; nội dung b Nhiệm
+vụ 3 và Nhiệm vụ 4 của Kế hoạch trong công tác đào tạo, phát triển, bồi dưỡng
+nguồn nhân lực ATTT của địa phương.
+
+5. Các
+doanh nghiệp nhà nước, tổ chức kinh tế nhà nước
+
+- Khuyến khích
+xây dựng kế hoạch quản lý và phát triển nhân lực ATTT của đơn vị mình; chủ động
+bố trí nguồn lực của doanh nghiệp, tổ chức trong việc đào tạo, bồi dưỡng đáp ứng
+nhu cầu sử dụng nhân lực giai đoạn 2021 - 2025.
+
+- Thực hiện nội
+dung a Nhiệm vụ 3 của Kế hoạch.
+
+V. KINH PHÍ THỰC HIỆN
+
+Kinh phí thực
+hiện kế hoạch này được bố trí từ nguồn ngân sách của tỉnh (Kèm Phụ lục).
+
+Giao Giám đốc
+Sở Thông tin và Truyền thông làm việc cụ thể với Giám đốc Sở Tài chính về nguồn
+kinh phí để được bố trí kinh phí thực hiện đúng quy định.
+
+Phát triển đội
+ngũ nhân lực ATTT là nội dung quan trọng, góp phần triển khai thành công chuyển
+đổi số, phát triển chính quyền điện tử hướng tới chính quyền số, nền kinh tế số
+- xã hội số. Ủy ban nhân dân tỉnh yêu cầu các cơ quan, đoàn thể, địa phương và
+các tổ chức, cá nhân có liên quan nghiêm túc triển khai thực hiện các nhiệm vụ
+được giao./.
+
+ 
+
+PHỤ LỤC
+
+BẢNG DỰ TRÙ KINH PHÍ THỰC HIỆN "KẾ
+HOẠCH ĐÀO TẠO VÀ PHÁT TRIỂN NGUỒN NHÂN LỰC AN TOÀN THÔNG TIN CHO CÁN BỘ, CÔNG
+CHỨC, VIÊN CHỨC TỈNH VĨNH LONG GIAI ĐOẠN 2021 - 2025
+
+(Ban hành kèm theo Quyết định số 1104/QĐ-UBND, ngày 14/5/2021 của Chủ tịch
+UBND tỉnh)
+
+TT
+
+Mục đào tạo
+
+Cơ quan chủ trì tổ chức
+
+Đối tượng đào đạo
+
+Nội dung đào tạo
+
+Nguồn vốn địa phương (triệu đồng)
+
+ 
+
+Tổng
+
+Ghi chú
+
+2021
+
+2022
+
+2023
+
+2024
+
+2025
+
+1
+
+Đào tạo
+ kỹ năng xử lý, phân tích, truy vết sự cố mạng máy tính, tấn công mạng
+
+Sở Thông
+ tin và Truyền thông
+
+1. Thành
+ viên đội ứng cứu máy tính tỉnh;
+
+2. Đội
+ ngũ vận hành trung tâm dữ liệu tỉnh
+
+Đào tạo kỹ
+ năng xử lý, phân tích, truy vết sự cố mạng máy tính, tấn công mạng;Kỹ năng
+ phân tích và xử lý sự cố
+
+Các ứng
+ dụng trong phản hồi sự cố an toàn thông tin
+
+Kỹ năng
+ quản lý rủi ro và tuân thủ IT
+
+Kỹ năng
+ phát hiện đe dọa mới trong hệ thống an toàn thông tin
+
+100
+
+100
+
+100
+
+100
+
+100
+
+500
+
+QĐ số
+ 394/QĐ-UBND , ngày 18/02/2021
+
+2
+
+Đào tạo
+ kỹ năng ứng cứu sự cố 
+
+Sở Thông
+ tin và Truyền thông
+
+1. Thành
+ viên đội ứng cứu máy tính tỉnh;
+
+2. Đội
+ ngũ vận hành trung tâm dữ liệu tỉnh
+
+Đào tạo
+ kỹ năng ứng cứu sự cố 
+
+70
+
+70
+
+70
+
+70
+
+70
+
+350
+
+QĐ số
+ 394/QĐ-UBND , ngày 18/02/2021
+
+3
+
+Đào tạo
+ về an toàn thông tin cho quản trị mạng sở, ban, ngành, huyện
+
+Sở Thông
+ tin và Truyền thông
+
+Cán bộ
+ làm công tác CNTT tại sở, ngành, huyện
+
+Đào tạo
+ về an toàn thông tin
+
+50
+
+50
+
+50
+
+50
+
+50
+
+250
+
+QĐ số
+ 394/QĐ-UBND , ngày 18/02/2021
+
+4
+
+Đào tạo
+ về an toàn thông tin cho cán bộ phụ trách CNTT khối Đảng, đoàn thể
+
+Sở Thông
+ tin và Truyền thông
+
+Cán bộ
+ phụ trách CNTT khối Đảng, đoàn thể
+
+Đào tạo
+ về an toàn thông tin
+
+40
+
+40
+
+40
+
+40
+
+40
+
+200
+
+QĐ số
+ 394/QĐ-UBND , ngày 18/02/2021
+
+5
+
+Đào tạo kỹ
+ năng an toàn thông tin cho cán bộ phụ trách CNTT xã phường thị trấn
+
+Sở Thông
+ tin và Truyền thông
+
+Cán bộ
+ phụ trách CNTT xã phường thị trấn
+
+Đào tạo
+ kỹ năng an toàn thông tin
+
+60
+
+60
+
+60
+
+60
+
+60
+
+300
+
+QĐ số
+ 394/QĐ-UBND , ngày 18/02/2021
+
+6
+
+Đào tạo nâng
+ cao năng lực phòng ngừa, chống vi phạm pháp luật và tội phạm trên mạng
+ Internet
+
+Sở Thông
+ tin và Truyền thông
+
+Đội ứng
+ cứu;
+
+CB ATTT
+ & vận hành Trung tâm dữ liệu tỉnh và công chức viên chức của các cơ quan,
+ đơn vị có liên quan
+
+Đào tạo nâng
+ cao năng lực phòng ngừa, chống vi phạm pháp luật và tội phạm
+
+30
+
+30
+
+30
+
+30
+
+30
+
+150
+
+Quyết định
+ số 170/QĐ-UBND , ngày 21/01/2020 của UBND tỉnh; QĐ số 394/QĐ-UBND , ngày
+ 18/02/2021
+
+7
+
+Kỹ năng
+ phân tích đánh giá an toàn thông tin
+
+Sở Thông
+ tin và Truyền thông
+
+Đội ứng
+ cứu;
+
+CB ATTT
+ & vận hành Trung tâm dữ liệu tỉnh
+
+Kỹ năng
+ kiểm thử an toàn, an ninh thông tin
+
+Kỹ năng
+ khai thác lỗ hổng phần mềm
+
+Kỹ năng
+ phân tích, xử lý mã độc và kiểm soát truy cập nâng cao
+
+ 
+
+60
+
+60
+
+60
+
+60
+
+240
+
+Nguồn kinh
+ phí thông tin và truyền thông năm 2021 đã cấp cho Sở Thông tin và Truyền
+ thông
+
+8
+
+Bảo đảm
+ an toàn thông tin cho các ứng dụng đô thị thông minh
+
+Sở Thông
+ tin và Truyền thông
+
+Đội ứng
+ cứu;
+
+CB ATTT
+ & vận hành Trung tâm dữ liệu tỉnh
+
+Quản lý
+ thiết bị IoT và sự hội tụ của Office IT
+
+Đảm bảo
+ an toàn thông tin dữ liệu lớn (Big data)
+
+Ứng dụng
+ công nghệ Blockchain trong đảm bảo an toàn thông tin
+
+ 
+
+ 
+
+60
+
+60
+
+60
+
+180
+
+Nguồn
+ kinh phí thông tin và truyền thông năm 2021 đã cấp cho Sở Thông tin và Truyền
+ thông
+
+9
+
+Kỹ năng thiết
+ kế Trung tâm dữ liệu và hệ thống đảm bảo an toàn thông tin
+
+Sở Thông
+ tin và Truyền thông
+
+Đội ứng
+ cứu;
+
+CB ATTT
+ & vận hành Trung tâm dữ liệu tỉnh
+
+Thiết kế,
+ quản trị TTDL và phòng máy chủ
+
+Kỹ năng
+ thiết kế và xây dựng hệ thống đảm bảo an toàn thông tin
+
+80
+
+ 
+
+ 
+
+ 
+
+ 
+
+80
+
+Nguồn
+ kinh phí thông tin và truyền thông năm 2021 đã cấp cho Sở Thông tin và Truyền
+ thông
+
+ 
+
+Tổng
+
+ 
+
+ 
+
+ 
+
+430
+
+410
+
+470
+
+470
+
+470
+
+2250--- THÔNG TIN THÊM ---
+Ten: Quyết định 1104/QĐ-UBND năm 2021 về "Kế hoạch đào tạo và phát triển nguồn nhân lực an toàn thông tin trên địa bàn tỉnh Vĩnh Long giai đoạn 2021-2025"
+So hieu: 1104/QĐ-UBND
+Loai van ban: Quyết định
+Linh vuc nganh: Lao động - Tiền lương, Công nghệ thông tin
+Noi ban hanh: Tỉnh Vĩnh Long
+Nguoi ky: Nguyễn Thị Quyên Thanh
+Ngay ban hanh: 14/05/2021
+Ngay hieu luc: 14/05/2021
+Ngay dang: Dữ liệu đang cập nhật
+So cong bao: Dữ liệu đang cập nhật
+Tinh trang: Còn hiệu lực
+
+
+--- MỤC LỤC ---
+- QUYẾT ĐỊNH BAN HÀNH “KẾ HOẠCH ĐÀO TẠO VÀ PHÁT TRIỂN NGUỒN NHÂN LỰC AN TOÀN THÔNG TIN TRÊN ĐỊA BÀN TỈNH VĨNH LONG GIAI ĐOẠN 2021 - 2025”
+  - Điều 1. Ban hành kèm theo Quyết định này “Kế hoạch đào tạo và phát triển nguồn nhân lực an toàn thông tin trên địa bàn tỉnh Vĩnh Long giai đoạn 2021 - 2025”.
+  - Điều 2. Giao Giám đốc Sở Thông tin và Truyền thông tổ chức thực hiện theo đúng nội dung Kế hoạch này.
+  - Điều 3. Chánh Văn phòng UBND tỉnh, Giám đốc các Sở, ban, ngành tỉnh, Chủ tịch UBND các huyện, thị xã, thành phố và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này.
+- KẾ HOẠCH ĐÀO TẠO VÀ PHÁT TRIỂN NGUỒN NHÂN LỰC AN TOÀN THÔNG TIN TRÊN ĐỊA BÀN TỈNH VĨNH LONG GIAI ĐOẠN 2021 - 2025
+  - I. MỤC ĐÍCH, YÊU CẦU
+  - II. MỤC TIÊU
+  - III. NHIỆM VỤ - GIẢI PHÁP THỰC HIỆN
+  - IV. TỔ CHỨC THỰC HIỆN
+  - V. KINH PHÍ THỰC HIỆN
+  - PHỤ LỤC BẢNG DỰ TRÙ KINH PHÍ THỰC HIỆN "KẾ HOẠCH ĐÀO TẠO VÀ PHÁT TRIỂN NGUỒN NHÂN LỰC AN TOÀN THÔNG TIN CHO CÁN BỘ, CÔNG CHỨC, VIÊN CHỨC TỈNH VĨNH LONG GIAI ĐOẠN 2021 - 2025
+
+--- VĂN BẢN LIÊN QUAN ---
+
+Van ban duoc dan chieu:
+  - Quyết định 394/QĐ-UBND năm 2021 về Kế hoạch ứng dụng công nghệ thông tin trong hoạt động của cơ quan nhà ... (ID: 479476)
+  - Quyết định 170/QĐ-UBND năm 2020 về Đề án Nâng cao chất lượng, hiệu quả quản lý, sử dụng Internet và mạng xã... (ID: 479596)
+
+Van ban duoc can cu:
+  - Quyết định 21/QĐ-TTg năm 2021 về phê duyệt Đề án "Đào tạo và phát triển nguồn nhân lực an toàn thông tin ... (ID: 461722)
+  - Luật Tổ chức chính phủ và Luật Tổ chức chính quyền địa phương sửa đổi 2019 (ID: 411945)
+  - Quyết định 08/2019/QĐ-UBND về Quy chế quản lý đào tạo, bồi dưỡng cán bộ, công chức, viên chức trên địa bàn ... (ID: 417241)
+  - Nghị định 101/2017/NĐ-CP về đào tạo, bồi dưỡng cán bộ, công chức, viên chức (ID: 319214)
+  - Nghị định 163/2016/NĐ-CP hướng dẫn Luật ngân sách nhà nước (ID: 335331)
+  - Luật tổ chức chính quyền địa phương 2015 (ID: 282380)
+  - Nghị định 64/2007/NĐ-CP về việc ứng dụng công nghệ thông tin trong hoạt động của cơ quan Nhà nước (ID: 18234)
+  - Luật Công nghệ thông tin 2006 (ID: 12987)
+
+Van ban lien quan cung noi dung:
+  - Kế hoạch 261/KH-UBND năm 2022 thực hiện Quyết định 1907/QĐ-TTg và 21/QĐ-TTg trên địa bàn tỉnh Sơn La giai đoạn 2022-2025 (ID: 539632)
+  - Kế hoạch 3724/KH-UBND năm 2021 về Đào tạo và phát triển nguồn nhân lực an toàn thông tin giai đoạn 2021-2025 trên địa bàn tỉnh Kon Tum (ID: 494947)
+  - Kế hoạch 2690/KH-UBND năm 2021 về Đào tạo và phát triển nguồn nhân lực an toàn thông tin giai đoạn 2021-2025 trên địa bàn tỉnh Cao Bằng (ID: 496189)
+  - Kế hoạch 140/KH-UBND năm 2021 về tuyên truyền, nâng cao nhận thức, phổ biến kiến thức và đào tạo nguồn nhân lực an toàn thông tin tỉnh Hưng Yên giai đoạn 2021-2025 (ID: 488748)
+  - Kế hoạch 1810/KH-UBND năm 2021 về Đào tạo và phát triển nguồn nhân lực an toàn thông tin trên địa bàn tỉnh Bình Thuận giai đoạn 2021-2025 (ID: 479775)
+  - Kế hoạch 1677/KH-UBND năm 2021 thực hiện Đề án “Phát triển nguồn nhân lực tỉnh Kon Tum đến năm 2030, tầm nhìn đến năm 2050” giai đoạn 2021-2025 (ID: 480732)
+  - Kế hoạch 110/KH-UBND năm 2021 về Đào tạo và phát triển nguồn nhân lực an toàn thông tin trên địa bàn tỉnh Đồng Tháp giai đoạn 2021-2025 (ID: 480263)
+  - Quyết định 1039/QĐ-UBND năm 2021 về Kế hoạch tuyên truyền, nâng cao nhận thức, phổ biến kiến thức và đào tạo nguồn nhân lực an toàn thông tin, giai đoạn 2021-2025 trên địa bàn tỉnh Thanh Hóa (ID: 470339)
+  - Kế hoạch 168/KH-UBND năm 2021 về đào tạo, bồi dưỡng an toàn thông tin cho cán bộ, công chức, viên chức tỉnh Bắc Kạn giai đoạn 2021-2025 (ID: 473598)
+  - Kế hoạch 95/KH-UBND năm 2021 thực hiện Đề án đào tạo và phát triển nguồn nhân lực an toàn thông tin tỉnh Thừa Thiên Huế giai đoạn 2021-2025 (ID: 471264)

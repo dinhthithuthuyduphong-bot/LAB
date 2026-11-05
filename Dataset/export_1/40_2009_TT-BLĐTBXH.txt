@@ -1,0 +1,462 @@
+BỘ
+ LAO ĐỘNG THƯƠNG BINH
+
+ VÀ XÃ HỘI 
+
+-------
+
+CỘNG
+ HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+ Độc lập – Tự do – Hạnh phúc
+
+ --------------
+
+Số:
+ 40/2009/TT-BLĐTBXH
+
+Hà
+ Nội, ngày 03 tháng 12 năm 2009
+
+ 
+
+THÔNG TƯ
+
+HƯỚNG DẪN CÁCH TÍNH SỐ LAO ĐỘNG SỬ DỤNG THƯỜNG XUYÊN THEO
+QUY ĐỊNH TẠI NGHỊ ĐỊNH SỐ 108/2006/NĐ-CP NGÀY 22 THÁNG 9 NĂM 2006 CỦA CHÍNH PHỦ
+VỀ VIỆC QUY ĐỊNH CHI TIẾT VÀ HƯỚNG DẪN THI HÀNH MỘT SỐ ĐIỀU CỦA LUẬT ĐẦU TƯ
+
+Căn cứ Nghị định số
+186/2007/NĐ-CP ngày 25 tháng 12 năm 2007 của Chính phủ quy định chức năng, nhiệm
+vụ, quyền hạn và cơ cấu tổ chức của Bộ Lao động – Thương binh và Xã hội;
+
+Căn cứ Nghị định số 108/2006/NĐ-CP ngày 22 tháng 9 năm 2006 của Chính phủ quy định
+chi tiết và hướng dẫn thi hành một số điều của Luật Đầu tư,
+
+Bộ Lao động – Thương binh và Xã hội hướng dẫn cách tính số lao động sử dụng thường
+xuyên như sau:
+
+Điều 1. Đối tượng
+điều chỉnh và phạm vi áp dụng 
+
+Đối tượng điều chỉnh và phạm vi áp
+dụng của Thông tư là những đối tượng và phạm vi áp dụng tại Nghị định số
+108/2006/NĐ-CP ngày 22 tháng 9 năm 2006 của Chính phủ về quy định chi tiết và
+hướng dẫn thi hành một số điều của Luật Đầu tư.
+
+Điều 2. Cách
+tính số lao động sử dụng thường xuyên 
+
+1. Lao động sử dụng thường xuyên của
+doanh nghiệp được xác định là lao động đang làm việc theo bảng chấm công của
+doanh nghiệp, bao gồm số lao động giao kết hợp đồng lao động từ đủ 3 tháng trở
+lên, kể cả số lao động đang nghỉ việc hưởng chế độ bảo hiểm xã hội theo quy định
+của pháp luật; cán bộ quản lý doanh nghiệp và cán bộ chuyên trách của các tổ chức
+Đảng và các tổ chức chính trị - xã hội.
+
+2. Số lao động sử dụng thường xuyên
+trong doanh nghiệp được tính là số lao động sử dụng thường xuyên bình quân năm,
+bình quân tháng.
+
+3. Số lao động sử dụng thường xuyên
+bình quân tháng được tính theo công thức sau:
+
+li
+
+=
+
+ΣXj
+
+n
+
+Trong đó: 
+
+li: là số lao động sử dụng thường
+xuyên bình quân của tháng i trong năm.
+
+i: là tháng trong năm;
+
+Xj: là số lao động đang làm việc của
+ngày thứ j trong tháng i, bao gồm số lao động giao kết hợp đồng lao động từ 3
+tháng trở lên và số lao động đang nghỉ việc hưởng chế độ bảo hiểm xã hội theo
+quy định của pháp luật; cán bộ quản lý và cán bộ của các tổ chức đoàn thể.
+
+j: là ngày trong tháng;
+
+Đối với ngày nghỉ mà doanh nghiệp
+không bố trí lao động làm việc thì lấy số lao động đang làm việc theo bảng chấm
+công của doanh nghiệp liền kề trước ngày nghỉ đó, nếu ngày trước đó cũng là
+ngày nghỉ thì lấy ngày tiếp theo không phải là ngày nghỉ.
+
+ΣXj: là tổng số lao động sử dụng
+thường xuyên các ngày của tháng i trong năm.
+
+n: là số ngày theo lịch của tháng i
+(không kể doanh nghiệp có làm đủ hay không đủ số ngày trong tháng).
+
+Số lao động sử dụng thường xuyên
+bình quân của tháng thứ i trong năm = Tổng của số lao động sử dụng thường xuyên
+các ngày trong tháng i / Số ngày theo ngày dương lịch của tháng i.
+
+Riêng đối với doanh nghiệp mới bắt
+đầu hoạt động thì số ngày trong tháng đầu được tính theo số ngày thực tế hoạt động
+trong tháng.
+
+4. Số lao động sử dụng thường xuyên
+bình quân năm được tính theo công thức sau:
+
+Lk
+
+=
+
+Σli(i=1,t)
+
+t
+
+Trong đó: 
+
+Lk: là số lao động sử dụng thường
+xuyên bình quân năm k;
+
+k: là năm;
+
+li: là số lao động sử dụng thường
+xuyên bình quân của tháng thứ i trong năm k;
+
+Σli(i=1,t): là tổng số lao động sử
+dụng thường xuyên bình quân các tháng trong năm k;
+
+t: là số tháng thực tế hoạt động của
+doanh nghiệp trong năm k.
+
+Riêng đối với các doanh nghiệp mới
+bắt đầu hoạt động thì số tháng trong năm được tính theo số tháng thực tế hoạt động
+trong năm.
+
+Số lao động sử dụng thường xuyên
+bình quân của năm k = (tổng của số lao động sử dụng thường xuyên bình quân các
+tháng trong năm k)/Số tháng trong năm k
+
+5. Đối với những doanh nghiệp có số
+lao động sử dụng thường xuyên bình quân năm là số thập phân thì việc làm tròn số
+được áp dụng theo nguyên tắc số học, nếu phần thập phân trên 0,5 thì làm tròn
+thành 1, dưới 0,5 thì không tính. Ví dụ: 508,75 làm tròn lên 509; 507,91 thì
+làm tròn lên 508; 507,31 thì làm tròn là 507. Đối với số lao động sử dụng thường
+xuyên bình quân tháng có số thập phân thì được giữ nguyên sau dấu phẩy hai số
+và không làm tròn số.
+
+Điều 3. Điều
+khoản thi hành
+
+1. Thông tư này có hiệu lực thi
+hành sau 45 ngày, kể từ ngày ký.
+
+2. Sở Lao động – Thương binh và Xã
+hội tỉnh, thành phố trực thuộc Trung ương có trách nhiệm hướng dẫn, đôn đốc, kiểm
+tra việc thực hiện.
+
+Trong quá trình thực hiện, nếu có
+vướng mắc gì đề nghị phản ánh về Bộ Lao động – Thương binh và Xã hội để nghiên
+cứu, hướng dẫn bổ sung kịp thời.
+
+ 
+
+ 
+
+Nơi nhận;
+
+ - Thủ tướng Chính phủ;
+
+ - Văn phòng Chủ tịch nước;
+
+ - Văn phòng Chính phủ;
+
+ - Văn phòng TW và các ban của Đảng;
+
+ - Viện Kiểm sát nhân dân tối cao;
+
+ - Tòa án nhân dân tối cao;
+
+ - Các Bộ, cơ quan ngang Bộ, cơ quan thuộc CP;
+
+ - UBND tỉnh, TP trực thuộc TW;
+
+ - Cơ quan TW các đoàn thể;
+
+ - Kiểm toán Nhà nước;
+
+ - Công báo;
+
+ - Website của Chính phủ;
+
+ - Cục Kiểm tra văn bản QPPL, Bộ Tư pháp;
+
+ - Các đơn vị thuộc Bộ LĐTBXH và Bộ Tài chính;
+
+ - Lưu: VT.
+
+KT.
+ BỘ TRƯỞNG
+
+ THỨ TRƯỞNG
+
+ Nguyễn Thanh Hòa
+
+ 
+
+CÁC VÍ DỤ
+
+(Phụ
+lục ban hành kèm theo Thông tư 40/2009/TT-BLĐTBXH ngày 3/12/2009 của Bộ Lao động
+– Thương binh và Xã hội về việc hướng dẫn cách tính số lao động sử dụng thường
+xuyên theo quy định tại Nghị định số 108/2006/NĐ-CP ngày 22/09/2006 của Chính
+phủ)
+
+1. Số lao động sử dụng thường xuyên
+bình quân tháng:
+
+a. Ví dụ 1: Tháng 5 năm 2009, có 31
+ngày và theo bảng chấm công của doanh nghiệp có số lao động đang làm việc từng
+ngày như sau:
+
+Ngày 29-4: 480 người 
+
+ 
+
+Ngày 30-4: Ngày nghỉ
+
+Ngày 16-5: 495 người (Ngày nghỉ)
+
+Ngày 1-5: Ngày nghỉ 
+
+Ngày 17-5: 495 người (Ngày nghỉ)
+
+Ngày 2-5: 480 người (Ngày nghỉ)
+
+Ngày 18-5: 498 người
+
+Ngày 3-5: 480 người (Ngày nghỉ)
+
+Ngày 19-5: 498 người
+
+Ngày 4-5: 490 người 
+
+Ngày 20-5: 496 người
+
+Ngày 5-5: 490 người 
+
+Ngày 21-5: 497 người
+
+Ngày 6-5: 495 người 
+
+Ngày 22-5: 495 người
+
+Ngày 7-5: 492 người 
+
+Ngày 23-5: 495 người (Ngày nghỉ)
+
+Ngày 8-5: 490 người 
+
+Ngày 24-5: 495 người (Ngày nghỉ)
+
+Ngày 9-5: 490 người (Ngày nghỉ)
+
+Ngày 25-5: 496 người
+
+Ngày 10-5: 490 người (Ngày nghỉ)
+
+Ngày 26-5: 496 người
+
+Ngày 11-5: 495 người 
+
+Ngày 27-5: 495 người
+
+Ngày 12-5: 496 người 
+
+Ngày 28-5: 497 người
+
+Ngày 13-5: 496 người 
+
+Ngày 29-5: 492 người
+
+Ngày 14-5: 492 người 
+
+Ngày 30-5: 492 người (Ngày nghỉ)
+
+Ngày 15-5: 495 người 
+
+Ngày 31-5: 492 người (Ngày nghỉ)
+
+Số lao động sử dụng thường xuyên
+bình quân của tháng 5 được tính như sau:
+
+l5
+ =
+
+480
+ + 480 + 480 + 490 + 490 + 495 + 492 + 490 + 490 + 490 + 495 + 496 + 496 + 492
+ + 495 + 495 + 495 + 498 + 498 + 496 + 497 + 495 + 495 + 495 + 496 + 496 + 495
+ + 497 + 492 + 492 + 492
+
+31
+
+= 491,74 (người)
+
+b. Ví dụ 2: Doanh nghiệp X bắt đầu
+hoạt động từ ngày 20/07/2009 và có số lao động đang làm việc từng ngày như sau:
+
+Ngày 20-7: 480 người 
+
+Ngày 26-7: 490 người
+
+Ngày 21-7: 490 người 
+
+Ngày 27-7: 498 người
+
+Ngày 22-7: 495 người 
+
+Ngày 28-7: 495 người
+
+Ngày 23-7: 492 người 
+
+Ngày 29-7: 497 người
+
+Ngày 24-7: 490 người 
+
+Ngày 30-7: 495 người
+
+Ngày 25-7: 490 người 
+
+Ngày 31-7: 492 người
+
+Số ngày hoạt động của doanh nghiệp
+X trong tháng 7 là 12 ngày.
+
+Số lao động sử dụng thường xuyên
+bình quân của tháng 7 được tính như sau:
+
+l7
+ =
+
+480
+ + 490 + 495 + 492 + 490 + 490 + 490 + 498 + 495 + 497 + 495 + 492
+
+=
+ 492 (người)
+
+12
+
+2. Số lao động sử dụng thường
+xuyên bình quân năm:
+
+a. Ví dụ 3: Số lao động sử dụng thường
+xuyên bình quân các tháng trong năm 2008 của doanh nghiệp A như sau:
+
+Tháng 1: 480 người 
+
+Tháng 5: 540 người 
+
+Tháng 9: 490 người 
+
+Tháng 2: 495 người 
+
+Tháng 6: 520 người 
+
+Tháng 10: 510 người 
+
+Tháng 3: 510 người 
+
+Tháng 7: 470 người 
+
+Tháng 11: 520 người 
+
+Tháng 4: 550 người 
+
+Tháng 8: 490 người 
+
+Tháng 12: 520 người 
+
+Số lao động sử dụng thường xuyên
+bình quân của doanh nghiệp A được tính như sau:
+
+L
+ =
+
+480
+ + 495 + 510 + 550 + 540 + 520 + 470 + 490 + 490 + 510 + 520 + 520
+
+=
+ 507,91 (người)
+
+12
+
+b. Ví dụ 4: Doanh nghiệp B bắt đầu hoạt
+động từ tháng 5 năm 2008 và có số lao động sử dụng thường xuyên bình quân các
+tháng như sau:
+
+Tháng 5: 470 người 
+
+Tháng 9: 520 người 
+
+Tháng 6: 480 người 
+
+Tháng 10: 520 người 
+
+Tháng 7: 510 người 
+
+Tháng 11: 530 người 
+
+Tháng 8: 500 người 
+
+Tháng 12: 540 người 
+
+Số tháng thực tế hoạt động của
+doanh nghiệp là 8
+
+Số lao động sử dụng thường xuyên
+bình quân năm được tính như sau:
+
+L
+ =
+
+470
+ + 480 + 510 + 500 + 520 + 520 + 530 + 540
+
+=
+ 508,75 (người)
+
+8--- THÔNG TIN THÊM ---
+Ten: Thông tư 40/2009/TT-BLĐTBXH hướng dẫn cách tính số lao động sử dụng thường xuyên theo Nghị định 108/2006/NĐ-CP hướng dẫn Luật Đầu tư do Bộ Lao động - Thương binh và Xã hội ban hành
+So hieu: 40/2009/TT-BLĐTBXH
+Loai van ban: Thông tư
+Linh vuc nganh: Lao động - Tiền lương
+Noi ban hanh: Bộ Lao động – Thương binh và Xã hội
+Nguoi ky: Nguyễn Thanh Hoà
+Ngay ban hanh: 03/12/2009
+Ngay hieu luc: 17/01/2010
+Ngay dang: 18/12/2009
+So cong bao: Từ số 587 đến số 588
+Tinh trang: Hết hiệu lực: 10/07/2019
+
+
+--- MỤC LỤC ---
+- THÔNG TƯ HƯỚNG DẪN CÁCH TÍNH SỐ LAO ĐỘNG SỬ DỤNG THƯỜNG XUYÊN THEO QUY ĐỊNH TẠI NGHỊ ĐỊNH SỐ 108/2006/NĐ-CP NGÀY 22 THÁNG 9 NĂM 2006 CỦA CHÍNH PHỦ VỀ VIỆC QUY ĐỊNH CHI TIẾT VÀ HƯỚNG DẪN THI HÀNH MỘT SỐ ĐIỀU CỦA LUẬT ĐẦU TƯ
+  - Điều 1. Đối tượng điều chỉnh và phạm vi áp dụng
+  - Điều 2. Cách tính số lao động sử dụng thường xuyên
+  - Điều 3. Điều khoản thi hành
+- CÁC VÍ DỤ
+
+--- VĂN BẢN LIÊN QUAN ---
+
+Van ban duoc huong dan:
+  - Nghị định 108/2006/NĐ-CP Hướng dẫn Luật Đầu tư (ID: 15963)
+
+Van ban duoc can cu:
+  - Nghị định 186/2007/NĐ-CP quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Lao động - Thương... (ID: 60724)
+
+Van ban thay the:
+  - Thông tư 09/2019/TT-BLĐTBXH bãi bỏ văn bản quy phạm pháp luật do Bộ trưởng Bộ Lao động - Thương binh và Xã ... (ID: 415691)
+  - Quyết định 746/QĐ-BLĐTBXH năm 2019 công bố kết quả hệ thống hóa văn bản quy phạm pháp luật thuộc lĩnh vực ... (ID: 419870)
+
+Van ban lien quan cung noi dung:
+  - Nghị định 118/2015/NĐ-CP hướng dẫn Luật đầu tư (ID: 281054)

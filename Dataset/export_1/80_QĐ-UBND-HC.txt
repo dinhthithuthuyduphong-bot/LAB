@@ -1,0 +1,854 @@
+ỦY BAN NHÂN DÂN
+
+ TỈNH ĐỒNG THÁP
+
+ -------
+
+CỘNG HÒA XÃ HỘI
+ CHỦ NGHĨA VIỆT NAM
+
+ Độc lập - Tự do - Hạnh phúc 
+
+ ---------------
+
+Số: 80/QĐ-UBND-HC
+
+Đồng Tháp, ngày
+ 22 tháng 01 năm 2020
+
+ 
+
+QUYẾT ĐỊNH
+
+BAN HÀNH QUY CHẾ QUẢN LÝ PHẦN MỀM QUẢN LÝ HỒ
+SƠ CÁN BỘ, CÔNG CHỨC, VIÊN CHỨC, NGƯỜI LÀM VIỆC TẠI HỘI, NGƯỜI HỢP ĐỒNG LAO ĐỘNG
+TỈNH ĐỒNG THÁP VÀ CÁC PHÂN HỆ
+
+ỦY BAN NHÂN DÂN TỈNH ĐỒNG THÁP
+
+Căn cứ Luật
+Tổ chức Chính quyền địa phương ngày 19 tháng 6 năm 2015;
+
+Căn cứ Luật
+Cán bộ, công chức ngày 13 tháng 11 năm 2008; 
+
+Căn cứ Luật
+Viên chức ngày 15 tháng 11 năm 2010;
+
+Căn cứ Nghị
+định số 64/2007/NĐ-CP ngày 10 tháng 4 năm 2007 của Chính phủ về ứng dụng công
+nghệ thông tin trong hoạt động của cơ quan nhà nước;
+
+Căn cứ
+Thông tư số 11/2012/TT -BNV ngày 17 tháng 12 năm 2012 của Bộ trưởng Bộ Nội vụ
+quy định về chế độ báo cáo thống kê và quản lý hồ sơ công chức;
+
+Căn cứ
+Thông tư số 06/2019/TT-BNV ngày 01 tháng 6 năm 2019 của Bộ trưởng Bộ Nội vụ sửa
+đổi, bổ sung một số điều của Thông tư số 11/2012/TT- BNV ngày 17 tháng 12 năm
+2012 của Bộ trưởng Bộ Nội vụ quy định về chế độ báo cáo thống kê và quản lý hồ
+sơ công chức;
+
+Căn cứ
+Thông tư số 07/2019/TT-BNV ngày 01 tháng 6 năm 2019 của Bộ trưởng Bộ Nội vụ quy
+định về chế độ báo cáo thống kê và quản lý hồ sơ viên chức;
+
+Xét đề nghị
+của Giám đốc Sở Nội vụ tại Tờ trình số 65/TTr-SNV ngày 10 tháng 01 năm 2020,
+
+QUYẾT ĐỊNH:
+
+Điều 1. Ban hành kèm theo Quyết định này Quy chế Quản
+lý phần mềm quản lý Hồ sơ cán bộ, công chức, viên chức, người làm việc tại Hội,
+người hợp đồng lao động tỉnh Đồng Tháp và các phân hệ.
+
+Điều 2. Quyết định này có hiệu lực kể từ ngày ký và
+thay thế Quyết định số 539/QĐ-UBND-HC ngày 16 tháng 6 năm 2014 của Ủy ban nhân
+dân Tỉnh ban hành Quy chế Quản lý phần mềm quản lý Hồ sơ cán bộ, công chức,
+viên chức tỉnh Đồng Tháp.
+
+Điều 3. Chánh Văn phòng Ủy ban nhân dân Tỉnh; Thủ
+trưởng các sở, ban, ngành, đơn vị sự nghiệp trực thuộc Ủy ban nhân dân Tỉnh, Chủ
+tịch Ủy ban nhân dân cấp huyện, Chủ tịch Ủy ban nhân dân cấp xã và các đơn vị
+có liên quan chịu trách nhiệm thi hành Quyết định này./.
+
+ 
+
+ Nơi nhận:
+
+- Như Điều 3;
+
+ - TT/TU, TT/HĐND Tỉnh
+
+ - CT và các PCT UBND Tỉnh;
+
+ - Ủy ban Mặt trận Tổ quốc Việt Nam Tỉnh;
+
+ - Các ban, cơ quan thuộc Tỉnh uỷ;
+
+ - Các Tổ chức chính trị - xã hội;
+
+ - Lưu: VT, NC/THVX. Thg.
+
+TM. ỦY BAN NHÂN
+ DÂN
+
+ CHỦ TỊCH
+
+Nguyễn Văn Dương
+
+ 
+
+QUY CHẾ
+
+QUẢN LÝ PHẦN MỀM QUẢN LÝ HỒ SƠ CÁN BỘ,
+CÔNG CHỨC, VIÊN CHỨC, NGƯỜI LÀM VIỆC TẠI HỘI, NGƯỜI HỢP ĐỒNG LAO ĐỘNG TỈNH
+ĐỒNG THÁP VÀ CÁC PHÂN HỆ
+
+(Kèm theo Quyết định số 80/QĐ-UBND-HC ngày 22 tháng 01 năm 2020 của Ủy ban
+nhân dân tỉnh)
+
+Chương I
+
+QUY ĐỊNH
+CHUNG
+
+Điều 1. Phạm vi điều chỉnh
+
+Quy chế này
+quy định nguyên tắc, nội dung, trách nhiệm, quyền hạn, mối quan hệ giữa các cơ
+quan, đơn vị, cá nhân trong việc quản lý, vận hành và khai thác sử dụng Phần mềm
+Quản lý cán bộ, công chức, viên chức, người làm việc tại Hội, người hợp đồng
+lao động tỉnh Đồng Tháp và các phân hệ (gọi tắt là phần mềm).
+
+Điều 2. Đối tượng áp dụng
+
+1. Đối với tổ
+chức
+
+a) Ủy ban nhân
+dân Tỉnh; Ủy ban nhân dân cấp huyện; Ủy ban nhân dân cấp xã;
+
+b) Các cơ quan
+chuyên môn thuộc, trực thuộc Ủy ban nhân dân Tỉnh;
+
+c) Văn phòng Hội
+đồng nhân dân Tỉnh;
+
+d) Các đơn vị
+sự nghiệp công lập trực thuộc Ủy ban nhân dân Tỉnh;
+
+đ) Các chi cục,
+cơ quan hành chính và đơn vị sự nghiệp công lập trực thuộc cơ quan chuyên môn
+và tương đương thuộc Ủy ban nhân dân Tỉnh;
+
+e) Các hội đặc
+thù được giao số người làm việc và cấp kinh phí hoạt động trên địa bàn tỉnh;
+
+g) Các cơ quan
+chuyên môn và đơn vị sự nghiệp công lập thuộc Ủy ban nhân dân cấp huyện;
+
+h) Các ban và
+cơ quan thuộc Tỉnh uỷ, Ủy ban Mặt trận Tổ quốc Việt Nam Tỉnh và tổ chức chính
+trị - xã hội cấp tỉnh phối hợp thực hiện quản lý các phân hệ phần mềm có liên
+quan.
+
+2. Đối với cá
+nhân
+
+a) Cán bộ công
+tác trong các cơ quan Nhà nước quy định tại Luật Cán bộ, công chức ngày 13
+tháng 11 năm 2008;
+
+b) Công chức
+quy định tại Nghị định số 06/2010/NĐ-CP ngày 25 tháng 01 năm 2010 của Chính phủ
+quy định những người là công chức;
+
+c) Viên chức
+đơn vị sự nghiệp quy định tại Luật Viên chức ngày 15 tháng 11 năm 2010;
+
+d) Người làm
+việc tại Hội quy định tại Nghị định số 45/2010/NĐ-CP ngày 21 tháng 4 năm 2010 của
+Chính phủ quy định về tổ chức, hoạt động và quản lý Hội, được giao số lượng người
+làm việc và cấp kinh phí hoạt động;
+
+đ) Người lao động
+hợp đồng theo quy định tại Nghị định số 68/2000/NĐ- CP ngày 17 tháng 11 năm
+2000 của Chính phủ về thực hiện chế độ hợp đồng lao động một số loại công việc
+trong cơ quan hành chính nhà nước, đơn vị sự nghiệp công lập và Nghị định số
+161/2018/NĐ-CP ngày 29 tháng 11 năm 2018 của Chính phủ về sửa đổi, bổ sung một
+số quy định về tuyển dụng công chức, viên chức, nâng ngạch công chức, thăng hạng
+viên chức và thực hiện chế độ hợp đồng một số loại công việc trong cơ quan hành
+chính nhà nước, đơn vị sự nghiệp công lập.
+
+Điều 3. Giải thích từ ngữ
+
+1. Phân hệ phần
+mềm là những phân hệ phần mềm riêng lẻ, mỗi phân hệ phần mềm có một chức năng
+riêng, có thể hoạt động độc lập, kết nối với nhau để tự động chia sẻ thông tin
+với các phân hệ khác.
+
+2. Hồ sơ cán bộ,
+công chức, viên chức, người làm việc tại Hội và người hợp đồng lao động sử dụng
+để nhập vào Phần mềm là các thông tin theo mẫu sơ yếu lý lịch mẫu 2C-BNV/2008
+ban hành kèm theo Quyết định số 02/2008/QĐ- BNV ngày 06 tháng 10 năm 2008 của Bộ
+trưởng Bộ Nội vụ; Sơ yếu lý lịch mẫu HS02-VC/BNV ban hành kèm theo Thông tư số
+07/2019/TT-BNV ngày 01 tháng 6 năm 2019 của Bộ trưởng Bộ Nội vụ quy định về chế
+độ báo cáo thống kê và quản lý hồ sơ viên chức.
+
+3. Tài khoản
+người dùng là tên và mật khẩu để đăng nhập vào phần mềm.
+
+4. Quản lý tài
+khoản người dùng là việc tạo mới, cấp phát, hạn chế, mở rộng hoặc hủy bỏ quyền
+đăng nhập vào phần mềm.
+
+5. Quản lý hồ
+sơ là hoạt động liên quan đến việc tạo lập, sửa đổi, bổ sung, bảo quản, sử dụng,
+lưu trữ hồ sơ cán bộ, công chức, viên chức, người làm việc tại Hội và người hợp
+đồng lao động phục vụ công tác sử dụng và quản lý cán bộ, công chức, viên chức,
+người làm việc tại Hội và người hợp đồng lao động trong các cơ quan, tổ chức,
+đơn vị của Nhà nước theo quy định của pháp luật trên phần mềm.
+
+6. Khai thác
+phần mềm là việc thực hiện các quy trình nghiệp vụ, các chức năng tra cứu, tìm
+kiếm thông tin về cán bộ, công chức, viên chức, người làm việc tại Hội, người hợp
+đồng lao động hoặc tổng hợp các tiêu chí thông tin, kết xuất các thông tin, lập
+các bảng biểu thống kê, báo cáo và in các kết quả xử lý được ra màn hình hoặc
+ra giấy.
+
+Điều 4. Phần mềm quản lý hồ sơ cán bộ, công chức, viên chức, người
+làm việc tại Hội, người hợp đồng lao động và các phân hệ
+
+1. Là phần mềm
+tin học phục vụ việc quản lý, khai thác thông tin từ hồ sơ cán bộ, công chức,
+viên chức, người làm việc tại Hội, người hợp đồng lao động.
+
+2. Phần mềm được
+thiết kế chạy trên nền web, gồm hệ quản trị cơ sở dữ liệu, chương trình ứng dụng
+trên máy chủ đặt tại Trung tâm tích hợp dữ liệu của Tỉnh và trình duyệt web
+trên máy trạm tại các cơ quan, đơn vị dùng để khai thác sử dụng phần mềm. Cơ sở
+dữ liệu về hồ sơ cán bộ, công chức, viên chức, người làm việc tại Hội, người hợp
+đồng lao động được quản lý tập trung tại Trung tâm Tích hợp dữ liệu Tỉnh.
+
+3. Địa chỉ
+truy cập Phần mềm tại http://qlcbcc.dongthap.gov.vn.
+
+Điều 5. Phân hệ phần mềm
+
+1. Phân hệ Quản
+lý công tác đào tạo, bồi dưỡng cán bộ, công chức, viên chức.
+
+2. Phân hệ Quản
+lý công tác thi đua, khen thưởng.
+
+3. Phân hệ Quản
+lý tiền lương.
+
+Chương II
+
+QUẢN LÝ, KHAI
+THÁC PHẦN MỀM VÀ CÁC PHÂN HỆ
+
+Điều 6. Quản lý tài khoản đăng nhập
+
+1. Lãnh đạo Ủy
+ban nhân dân Tỉnh được cấp tài khoản sử dụng phần mềm và có quyền theo dõi, quản
+lý việc sử dụng phần mềm của các cơ quan, đơn vị trong toàn Tỉnh.
+
+2. Thủ trưởng
+các cơ quan, đơn vị được cấp tài khoản sử dụng phần mềm và có quyền theo dõi,
+quản lý việc sử dụng phần mềm của cơ quan, đơn vị, địa phương do mình phụ
+trách.
+
+3. Các cơ
+quan, đơn vị theo phân cấp về công tác quản lý cán bộ, công chức, viên chức,
+người làm việc tại Hội, người hợp đồng lao động được cấp tài khoản người dùng
+để đăng nhập, khai thác sử dụng phần mềm. Nếu có nhu cầu phân cấp tài khoản người
+dùng cho các đơn vị trực thuộc phải thống nhất với Sở Nội vụ để được cấp bổ
+sung.
+
+4. Sở Nội vụ
+là cơ quan tham mưu Ủy ban nhân dân Tỉnh về công tác quản lý phần mềm, được quyền
+và có trách nhiệm sử dụng tài khoản quản trị để cấp, phân quyền tài khoản người
+dùng cho cán bộ, công chức, viên chức và cơ quan, đơn vị theo quy định tại Khoản
+1, 2, 3 Điều này (Chi tiết Phụ lục Bảng phân quyền tài khoản người dùng kèm
+theo); thực hiện chức năng nghiệp vụ về công tác quản lý hồ sơ cán bộ, công
+chức, viên chức, người làm việc tại Hội, người hợp đồng lao động trong toàn tỉnh.
+
+5. Cán bộ,
+công chức, viên chức, người làm việc tại Hội được cấp tài khoản quản lý, khai
+thác, sử dụng phần mềm có trách nhiệm bảo quản, bảo đảm bí mật, an toàn cho tài
+khoản.
+
+Điều 7. Mô hình tổ chức cập nhật, quản lý và khai thác hồ sơ trên
+phần mềm và các phân hệ
+
+1. Cấp cơ sở
+là cấp có trách nhiệm cập nhật, quản lý và khai thác hồ sơ cán bộ, công chức,
+viên chức, người làm việc tại Hội, người hợp đồng lao động và thông tin tại các
+phân hệ ở các đơn vị trực thuộc các sở, ban, ngành, Ủy ban nhân dân cấp huyện
+và Ủy ban nhân dân cấp xã.
+
+2. Cấp sở,
+ban, ngành, Ủy ban nhân dân cấp huyện là cấp có trách nhiệm cập nhật, quản lý
+và khai thác hồ sơ cán bộ, công chức, viên chức, người làm việc tại Hội, người
+hợp đồng lao động và thông tin tại các phân hệ của các sở, ban, ngành Tỉnh, Ủy
+ban nhân dân huyện, thị xã, thành phố và các đơn vị sự nghiệp thuộc Ủy ban nhân
+dân Tỉnh. Có trách nhiệm theo dõi, kiểm tra, quản lý và tổ chức triển khai phần
+mềm cho các đơn vị trực thuộc là cấp cơ sở (trừ các đơn vị sự nghiệp thuộc Ủy
+ban nhân dân Tỉnh).
+
+3. Sở Nội vụ
+có trách nhiệm quản lý, khai thác, tổ chức triển khai phần mềm và các phân hệ;
+tổng hợp, báo cáo số liệu về cán bộ, công chức, viên chức, người làm việc tại Hội,
+người hợp đồng lao động (ngoại trừ phân hệ quản lý lương) trên phần mềm
+trong toàn Tỉnh; theo dõi, quản lý hoạt động của phần mềm theo quy định của Quy
+chế này và các quy định khác của pháp luật.
+
+4. Sở Tài chính
+có trách nhiệm quản lý, khai thác, tổ chức triển khai phân hệ phần mềm quản lý
+tiền lương; tổng hợp, báo cáo số liệu về tiền lương cán bộ, công chức, viên chức,
+người làm việc tại Hội, người hợp đồng lao động trên phân hệ phần mềm quản lý
+tiền lương trong toàn Tỉnh.
+
+Điều 8. Cập nhật, quản lý và khai thác hồ sơ trên phần mềm
+
+1. Cơ quan,
+đơn vị theo phân cấp về công tác quản lý cán bộ, công chức, viên chức, người
+làm việc tại Hội, người hợp đồng lao động có trách nhiệm cập nhật kịp thời,
+chính xác và đầy đủ thông tin cán bộ, công chức, viên chức, người làm việc tại
+Hội, người hợp đồng lao động hiện có mặt được giao vào phần mềm.
+
+2. Hồ sơ trong
+phần mềm được quản lý, sử dụng và bảo mật theo chế độ tài liệu mật do Nhà nước
+quy định, chỉ những người được cơ quan, đơn vị hoặc người có thẩm quyền đồng ý
+mới được nghiên cứu, sử dụng và khai thác. Việc phân công cán bộ, công chức,
+viên chức thực hiện quản lý và khai thác phần mềm phải bằng văn bản và gửi về Sở
+Nội vụ theo dõi chậm nhất 03 ngày làm việc kể từ ngày ban hành văn bản phân
+công.
+
+3. Thông tin hồ
+sơ trong phần mềm phải thống nhất với hồ sơ giấy.
+
+4. Lãnh đạo
+các sở, ban, ngành Tỉnh; Lãnh đạo các hội đặc thù cấp tỉnh; Thủ trưởng đơn vị
+sự nghiệp công lập trực thuộc Ủy ban nhân dân Tỉnh; Chủ tịch Ủy ban nhân dân cấp
+huyện có trách nhiệm tổ chức, nhắc nhở việc cập nhật dữ liệu, đảm bảo việc thực
+hiện thường xuyên, liên tục, đúng quy định.
+
+5. Việc cập nhật,
+đăng ký thông tin chưa chính xác vào phần mềm và các phân hệ phần mềm sẽ bị xử
+lý tùy theo mức độ vi phạm theo đúng quy định.
+
+6. Đề nghị Ủy
+ban Mặt trận Tổ quốc Việt Nam Tỉnh và tổ chức chính trị - xã hội cấp tỉnh phối
+hợp cập nhật dữ liệu cán bộ, công chức có liên quan trực tiếp đến việc khai
+thác sử dụng Phân hệ Quản lý công tác đào tạo, bồi dưỡng cán bộ, công chức,
+viên chức, Phân hệ Quản lý công tác thi đua, khen thưởng và Phân hệ Quản lý tiền
+lương.
+
+7. Đề nghị các
+ban và cơ quan thuộc Tỉnh uỷ phối hợp cập nhật dữ liệu cán bộ, công chức, viên
+chức có liên quan trực tiếp đến việc khai thác sử dụng Phân hệ Quản lý công tác
+đào tạo, bồi dưỡng cán bộ, công chức, viên chức và Phân hệ Quản lý công tác thi
+đua, khen thưởng.
+
+Điều 9. Nội dung quản lý, sử dụng phần mềm và các phân hệ
+
+1. Cập nhật và
+hiệu chỉnh hồ sơ cán bộ, công chức, viên chức, người làm việc tại Hội, người hợp
+đồng lao động.
+
+2. Tìm kiếm
+thông tin theo các tiêu chí tùy chọn.
+
+3. Báo cáo, thống
+kê và kết xuất thông tin theo các tiêu chí tùy chọn.
+
+4. Quản lý tổ
+chức và biên chế của các cơ quan, đơn vị.
+
+5. Quản lý quá
+trình công tác.
+
+6. Quản lý quá
+trình lương, báo cáo tiền lương.
+
+7. Quản lý đào
+tạo và bồi dưỡng.
+
+8. Quản lý
+khen thưởng và kỷ luật.
+
+9. Quản lý các
+bảng danh mục.
+
+10. Quản lý sự
+biến động như điều động, luân chuyển, thuyên chuyển, về hưu, thôi việc...
+
+11. Quản trị hệ
+thống gồm: Quản trị người dùng (tài khoản đăng nhập); quản trị đơn vị;
+truy vấn các hành động thực hiện việc cập nhật trên cơ sở dữ liệu; sao lưu và
+phục hồi dữ liệu.
+
+Điều 10. Quy trình cập nhật thông tin
+
+1. Trong thời
+gian 30 ngày, kể từ ngày có quyết định tuyển dụng hoặc quyết định điều động, tiếp
+nhận từ các cơ quan, đơn vị khác không sử dụng chung phần mềm của Tỉnh, cơ
+quan, đơn vị có thẩm quyền quản lý có trách nhiệm cập nhật đầy đủ thông tin cán
+bộ, công chức, viên chức, người làm việc tại Hội, người hợp đồng lao động vào
+phần mềm.
+
+2. Đối với cán
+bộ, công chức, viên chức, người làm việc tại Hội, người hợp đồng lao động có
+thay đổi, bổ sung, điều chỉnh thông tin, cơ quan, đơn vị có thẩm quyền quản lý
+có trách nhiệm cập nhật thông tin vào phần mềm, chậm nhất là 15 ngày, kể từ
+ngày văn bản có hiệu lực thi hành.
+
+Điều 11. Điều chuyển và tiếp nhận hồ sơ trên phần mềm
+
+1. Cán bộ,
+công chức, viên chức, người làm việc tại Hội khi được điều động, chuyển công
+tác đến bộ phận mới trong cùng cơ quan, đơn vị trực tiếp sử dụng thì cơ quan,
+đơn vị có thẩm quyền điều chuyển hồ sơ trên phần mềm đến bộ phận mới trong thời
+gian là 15 ngày, kể từ ngày văn bản có hiệu lực thi hành.
+
+2. Cán bộ,
+công chức, viên chức, người làm việc tại Hội khi được điều động, luân chuyển,
+chuyển công tác đến cơ quan, đơn vị mới thì cơ quan, đơn vị có thẩm quyền quản
+lý điều chuyển hồ sơ trên phần mềm đến cơ quan, đơn vị mới, trong thời gian là
+15 ngày, kể từ ngày văn bản có hiệu lực thi hành.
+
+3. Trường hợp
+chuyển sang khối Đảng, ngoài tỉnh và nghỉ hưu, thôi việc, từ trần thì cơ quan,
+đơn vị trực tiếp sử dụng thực hiện điều chỉnh tình trạng hồ sơ tương ứng trong
+phần mềm trong thời hạn là 15 ngày, kể từ ngày văn bản có hiệu lực.
+
+Điều 12. Lưu trữ hồ sơ trên phần mềm
+
+1. Hồ sơ cán bộ,
+công chức, viên chức, người làm việc tại Hội, người hợp đồng lao động phải được
+lưu trữ lâu dài trong phần mềm để phục vụ việc nghiên cứu, quản lý, khai thác sử
+dụng và thực hiện chế độ, chính sách đào tạo, bồi dưỡng theo quy định.
+
+2. Việc lưu trữ
+hồ sơ cán bộ, công chức, viên chức, người làm việc tại Hội, người hợp đồng lao
+động phải tuân thủ nguyên tắc an toàn, an ninh thông tin theo quy định hiện
+hành.
+
+3. Hồ sơ cán bộ,
+công chức, viên chức, người làm việc tại Hội, người hợp đồng lao động đã nghỉ
+hưu, thôi việc, từ trần vẫn được lưu trữ trong phần mềm để cơ quan, đơn vị
+theo dõi.
+
+Điều 13. Phân hệ Quản lý công tác đào tạo, bồi dưỡng cán bộ, công
+chức, viên chức, người làm việc tại Hội
+
+1. Đăng ký các
+khóa học trên phân hệ phần mềm quản lý công tác đào tạo, bồi dưỡng cán bộ, công
+chức, viên chức, người làm việc tại Hội, cụ thể:
+
+a) Nội dung
+đào tạo, bồi dưỡng: Chuyên môn, bồi dưỡng quản lý nhà nước theo ngạch, chức
+danh nghề nghiệp, quản lý nhà nước theo tiêu chuẩn chức danh lãnh đạo, cập nhật
+kiến thức, kỹ năng chung và các nội dung bồi dưỡng khác do cơ quan có thẩm quyền
+chiêu sinh theo quy định;
+
+b) Quy trình,
+hình thức đăng ký: Sau khi nhận được thông báo chiêu sinh của cơ quan, đơn vị
+có thẩm quyền tổ chức khóa đào tạo bồi dưỡng, các cơ quan, đơn vị rà soát,
+thông báo cho cán bộ, công chức, viên chức, người làm việc tại Hội và đăng ký
+thông qua phân hệ phần mềm quản lý đào tạo, bồi dưỡng theo thời gian quy định.
+Việc đăng ký qua phân hệ phần mềm đào tạo có giá trị pháp lý như văn bản có chữ
+ký và đóng dấu.
+
+2. Theo dõi quá
+trình học tập của cán bộ, công chức, viên chức.
+
+3. Tổng hợp số
+giờ học tập và cập nhật trình độ cán bộ, công chức, viên chức, người làm việc tại
+Hội sau khóa đào tạo, bồi dưỡng.
+
+Điều 14. Quản lý công tác thi đua khen thưởng
+
+1. Quản lý kết
+quả khen thưởng cấp tỉnh, cấp nhà nước thành tích kinh tế xã hội.
+
+2. Quản lý kết
+quả khen thưởng thành tích kháng chiến chống Pháp, chống Mỹ.
+
+3. Quản lý kết
+quả khen thưởng danh hiệu vinh dự nhà nước “Bà mẹ Việt Nam anh hùng”.
+
+4. Tra cứu kết
+quả khen thưởng.
+
+5. Thống kê,
+báo cáo số liệu khen thưởng.
+
+Điều 15. Phân hệ Quản lý tiền lương
+
+1. Các sở,
+ban, ngành, tổ chức chính trị - xã hội cấp tỉnh có trách nhiệm định kỳ hàng
+tháng cập nhật tiền lương cùng với thời gian chi trả cho cán bộ, công chức từ ngày
+01 đến ngày 10 hàng tháng.
+
+2. Ủy ban nhân
+dân huyện, thị xã, thành phố có trách nhiệm quản lý các ngành, đơn vị trực thuộc,
+định kỳ cập nhật quá trình cải cách tiền lương cùng với thời gian chi trả. Thời
+gian cập nhật chậm nhất ngày 20 hàng tháng.
+
+3. Sở Tài
+chính có trách nhiệm thực hiện việc cập nhật biến động tiền lương của sở, ban,
+ngành, tổ chức chính trị - xã hội cấp tỉnh và Ủy ban nhân dân huyện, thị xã,
+thành phố vào ngày 25 hàng tháng.
+
+4. Dữ liệu về
+tiền lương trên phân hệ phần mềm là cơ sở để xây dựng dự toán kinh phí năm sau
+cho các sở, ban, ngành, Ủy ban nhân dân cấp huyện và Ủy ban Mặt trận Tổ quốc Việt
+Nam Tỉnh và tổ chức chính trị - xã hội cấp tỉnh. Khi thực hiện cải cách tiền
+lương hoặc lập dự toán năm sau, Sở Tài chính sử dụng dữ liệu tiền lương tháng
+trước liền kề làm cơ sở thẩm định cải cách tiền lương và xây dựng dự toán năm
+sau cho các sở, ban, ngành, Ủy ban nhân dân cấp huyện, Ủy ban Mặt trận Tổ quốc
+Việt Nam Tỉnh và tổ chức chính trị - xã hội cấp tỉnh.
+
+Chương III
+
+TRÁCH NHIỆM,
+QUYỀN HẠN CỦA CÁC CƠ QUAN, ĐƠN VỊ TRONG VIỆC KHAI THÁC, QUẢN LÝ PHẦN MỀM VÀ CÁC
+PHÂN HỆ
+
+Điều 16. Sở Nội vụ
+
+1. Tham mưu
+cho Ủy ban nhân dân Tỉnh ban hành các văn bản quy định về quản lý phần mềm quản
+lý hồ sơ cán bộ, công chức, viên chức, người làm việc tại Hội, người hợp đồng
+lao động. Đề xuất việc nâng cấp phần mềm bảo đảm yêu cầu về khai thác, sử dụng
+và quản lý.
+
+2. Hướng dẫn
+các sở, ban, ngành, các đơn vị sự nghiệp trực thuộc Tỉnh và Ủy ban nhân dân huyện,
+thị xã, thành phố khai thác, sử dụng phần mềm vào công tác quản lý hồ sơ cán bộ,
+công chức, viên chức (tuyển dụng, nâng ngạch, nâng lương, đào tạo…).
+
+3. Được phép sử
+dụng tài khoản quản trị để quản lý các tài khoản người dùng các cơ quan, đơn vị.
+
+4. Kiểm tra việc
+sử dụng, khai thác và quản lý phần mềm các cơ quan, đơn vị; tổng hợp, báo cáo kết
+quả với Bộ Nội vụ và Ủy ban nhân dân Tỉnh theo quy định.
+
+5. Xây dựng và
+thực hiện kế hoạch bồi dưỡng nghiệp vụ cho những người làm công tác quản lý hồ
+sơ cán bộ, công chức, viên chức.
+
+6. Xây dựng dự
+toán kinh phí hàng năm để phục vụ việc đầu tư xây dựng, cài đặt, hướng dẫn sử
+dụng, bảo trì, sao lưu dữ liệu thường xuyên, nâng cấp, công tác quản lý, khai
+thác, cập nhật dữ liệu vào phần mềm bảo đảm việc quản lý, khai thác phần mềm có
+hiệu quả.
+
+7. Chủ trì, phối
+hợp với Sở Thông tin và Truyền thông thông báo bằng văn bản và trên Trang Thông
+tin điện tử Sở Nội vụ cho các cơ quan, đơn vị về việc xảy ra sự cố hoặc nguy cơ
+xảy ra sự cố có ảnh hưởng xấu đến việc quản lý và khai thác sử dụng phần mềm (khi
+phần mềm ngừng hoạt động trong 2 ngày làm việc liên tiếp).
+
+8. Chủ trì phối
+hợp với các ban và cơ quan thuộc Tỉnh uỷ và Ủy ban Mặt trận Tổ quốc Việt Nam Tỉnh
+và tổ chức chính trị - xã hội cấp tỉnh để quản lý, khai thác, sử dụng các phân
+hệ phần mềm.
+
+Điều 17. Sở Thông tin và Truyền thông
+
+1. Ban hành
+quy định về các điều kiện hạ tầng kỹ thuật để phục vụ cho việc khai thác, quản
+lý phần mềm của các cơ quan, đơn vị liên quan; quy định các nội dung liên quan
+đến việc bảo mật và an toàn, an ninh thông tin cho việc vận hành phần mềm.
+
+2. Việc ứng dụng
+hiệu quả phần mềm là một trong những tiêu chí trong đánh giá xếp hạng ứng dụng
+công nghệ thông tin tại các cơ quan, đơn vị hàng năm.
+
+3. Thực hiện
+xây dựng, phát triển phần mềm; phối hợp với Sở Nội vụ tổng hợp ý kiến từ người
+dùng, đề nghị điều chỉnh, nâng cấp phần mềm để đáp ứng tốt hơn trong công tác
+quản lý hồ sơ cán bộ, công chức, viên chức, người làm việc tại Hội, người hợp đồng
+lao động.
+
+4. Nghiên cứu
+nâng cấp tính năng phần mềm; phối hợp với Sở Nội vụ xây dựng dự toán kinh phí
+hàng năm, bảo đảm việc duy trì hoạt động, nâng cấp, phát triển phần mềm.
+
+5. Lập kế hoạch
+và thực hiện định kỳ sao lưu dữ liệu; sửa chữa, phục hồi hệ thống và đề xuất
+phương án khắc phục sự cố liên quan đến việc vận hành phần mềm.
+
+6. Bảo đảm phần
+mềm hoạt động xuyên suốt trên môi trường mạng, phục vụ việc quản lý, khai thác
+các thông tin của cán bộ, công chức, viên chức, người làm việc tại Hội, người hợp
+đồng lao động của các cơ quan, đơn vị.
+
+Điều 18. Sở Tài chính
+
+1. Cân đối, bố
+trí kinh phí để vận hành phần mềm hàng năm; kinh phí tập huấn hướng dẫn sử dụng
+phần mềm và kinh phí nâng cấp định kỳ trong quá trình vận hành.
+
+2. Quản lý, hướng
+dẫn, sử dụng, khai thác phân hệ phần mềm quản lý tiền lương.
+
+Điều 19. Các sở, ban, ngành Tỉnh, Ủy ban nhân dân huyện, thị xã, thành
+phố
+
+1. Thực hiện
+quản lý, khai thác hồ sơ cán bộ, công chức, viên chức, người làm việc tại Hội,
+người hợp đồng lao động của cơ quan, đơn vị theo đúng quy định tại Điều 6, 7,
+8, 9, 10, 11, 12, 13, 14, 15 Quy chế này. Trường hợp ủy quyền cho đơn vị cấp dưới
+quản lý, đơn vị được ủy quyền có trách nhiệm cập nhật thông tin vào phần mềm;
+cơ quan ủy quyền có trách nhiệm đôn đốc kiểm tra việc nhập thông tin đối với
+đơn vị ủy quyền.
+
+2. Được cấp tài
+khoản người dùng để thực hiện việc cập nhật, quản lý và khai thác hồ sơ cán bộ,
+công chức, viên chức trên phần mềm thuộc cơ quan, đơn vị. Quyết định phân công
+công chức, viên chức trực tiếp được phép sử dụng tài khoản người dùng để quản
+lý khai thác phần mềm.
+
+3. Kiến nghị
+và đề xuất với cơ quan có thẩm quyền sửa đổi, bổ sung những quy định liên quan
+đến chế độ cập nhật, quản lý và khai thác phần mềm.
+
+4. Xây dựng dự
+toán kinh phí hàng năm để bảo đảm cho việc quản lý và khai thác phần mềm.
+
+Điều 20. Trách nhiệm của người được phân công trực tiếp làm công tác
+khai thác, quản lý phần mềm
+
+1. Được sử dụng
+tài khoản người dùng của cơ quan, đơn vị để thực hiện việc cập nhật, quản lý
+và khai thác phần mềm theo phân cấp quản lý; thay đổi mật khẩu được cấp và tự bảo
+mật tài khoản người dùng của đơn vị.
+
+2. Chịu trách
+nhiệm về tính kịp thời, chính xác về thông tin hồ sơ cán bộ, công chức, viên chức
+trên phần mềm; sử dụng có hiệu quả phần mềm để cung cấp kịp thời, nhanh chóng,
+chính xác phục vụ yêu cầu quản lý và tác nghiệp chuyên môn.
+
+3. Áp dụng các
+biện pháp bảo đảm an toàn và bảo mật cho phần mềm; đề xuất biện pháp bảo đảm sử
+dụng và khai thác phần mềm có hiệu quả.
+
+4. Nghiên cứu,
+phát hiện và báo cáo với cấp có thẩm quyền xem xét, xử lý các vấn đề phát sinh
+trong công tác quản lý phần mềm.
+
+5. Định kỳ báo
+cáo với người đứng đầu cơ quan, đơn vị về việc quản lý và khai thác phần mềm.
+
+6. Trường hợp
+mất mật khẩu phải báo cáo người đứng đầu cơ quan, đơn vị và báo cáo bằng văn bản
+về Sở Nội vụ để được cấp lại mật khẩu mới.
+
+7. Thường
+xuyên học tập, trao đổi kinh nghiệm, bồi dưỡng để nâng cao trình độ chuyên môn,
+nghiệp vụ.
+
+Chương IV
+
+ĐIỀU KHOẢN
+THI HÀNH
+
+Điều 21. Tổ chức thực hiện
+
+1. Sở Nội vụ
+có trách nhiệm hướng dẫn, kiểm tra, đôn đốc các sở, ban, ngành Tỉnh và Ủy ban nhân
+dân huyện, thị xã, thành phố triển khai thực hiện Quy chế này; tổng hợp, báo
+cáo kết quả thực hiện về Bộ Nội vụ và Ủy ban nhân dân Tỉnh theo quy định.
+
+2. Đề nghị Trường
+Chính trị phối hợp quản lý phân hệ quản lý công tác đào tạo, bồi dưỡng.
+
+3. Đề nghị các
+ban và cơ quan thuộc Tỉnh uỷ và Ủy ban Mặt trận Tổ quốc Việt Nam Tỉnh và tổ chức
+chính trị - xã hội cấp tỉnh phối hợp quản lý, khai thác, sử dụng các phân hệ phần
+mềm có liên quan. Việc sử dụng, quản lý hồ sơ cán bộ, công chức, viên chức của
+cơ quan, đơn vị được thực hiện theo quy định tại Điều 6, 7, 8, 9, 10, 11, 12,
+13, 14, 15 Quy chế này.
+
+4. Cơ quan,
+đơn vị và cá nhân vi phạm các điều khoản trong Quy chế này, tùy theo tính chất,
+mức độ sẽ bị xử lý theo quy định.
+
+5. Việc thực
+hiện Quy chế này là một trong các nội dung để xem xét, trình cấp có thẩm quyền
+khen thưởng hàng năm.
+
+6. Trong quá
+trình thực hiện, nếu có vấn đề gì vướng mắc, phát sinh các sở, ban, ngành tỉnh,
+Ủy ban nhân dân huyện, thị xã, thành phố và các tổ chức, cá nhân có liên quan kịp
+thời phản ánh Ủy ban nhân dân Tỉnh (thông qua Sở Nội vụ) để xem xét, sửa
+đổi, bổ sung cho phù hợp./.
+
+ 
+
+PHỤ LỤC
+
+BẢNG PHÂN QUYỀN TÀI KHOẢN NGƯỜI DÙNG
+
+(Kèm theo Quyết định số 80/QĐ-UBND-HC ngày 22 tháng 01 năm 2020 của Ủy ban
+nhân dân tỉnh)
+
+Stt
+
+Tài khoản
+
+Phân quyền
+
+Phạm vi
+
+Ghi chú
+
+1
+
+Lãnh đạo Ủy ban nhân dân Tỉnh
+
+Quản lý, xem được hồ sơ, tra
+ cứu dữ liệu và xem số liệu của tất cả mẫu báo cáo, thống kê
+
+Toàn tỉnh
+
+Chủ tịch và các Phó Chủ tịch Ủy
+ ban nhân dân Tỉnh
+
+2
+
+Thủ trưởng các sở, ban, ngành
+ Tỉnh, Chủ tịch Ủy ban nhân dân huyện, thị xã, thành phố và Thủ trưởng các đơn
+ vị sự nghiệp thuộc Ủy ban nhân dân Tỉnh
+
+Quản lý, xem được hồ sơ, tra
+ cứu dữ liệu và xem số liệu của các mẫu báo cáo, thống kê
+
+Trong nội bộ cơ quan, đơn vị,
+ địa phương
+
+Mỗi lãnh đạo 01 tài khoản
+
+3
+
+Các sở, ban, ngành Tỉnh, các
+ đơn vị sự nghiệp thuộc Ủy ban nhân dân Tỉnh, Ủy ban nhân dân huyện, thị xã,
+ thành phố, các cơ quan thuộc Tỉnh uỷ, Ủy ban mặt trận tổ quốc Việt Nam Tỉnh
+ và tổ chức chính trị - xã hội cấp tỉnh
+
+Quản trị đơn vị, cấp tài khoản
+ người dùng bình thường
+
+Trong nội bộ cơ quan, đơn vị,
+ địa phương
+
+Mỗi cơ quan, đơn vị, địa
+ phương 01 tài khoản
+
+4
+
+Cán bộ, công chức, viên chức
+ khác
+
+Tải khoản người dùng bình
+ thường; xem thông tin hồ sơ
+
+Trong hồ sơ cá nhân
+
+Mỗi cán bộ, công chức, viên
+ chức được cấp 01 tài khoản để xem hồ sơ cá nhân của mình (nếu có nhu cầu)
+
+5
+
+Sở Nội vụ
+
+Quản trị hệ thống
+
+Toàn tỉnh
+
+01 tài khoản với quyền cao nhất--- THÔNG TIN THÊM ---
+Ten: Quyết định 80/QĐ-UBND-HC năm 2020 về Quy chế Quản lý phần mềm quản lý Hồ sơ cán bộ, công chức, viên chức, người làm việc tại Hội, người hợp đồng lao động tỉnh Đồng Tháp và các phân hệ
+So hieu: 80/QĐ-UBND-HC
+Loai van ban: Quyết định
+Linh vuc nganh: Lao động - Tiền lương, Công nghệ thông tin, Bộ máy hành chính
+Noi ban hanh: Tỉnh Đồng Tháp
+Nguoi ky: Nguyễn Văn Dương
+Ngay ban hanh: 22/01/2020
+Ngay hieu luc: 22/01/2020
+Ngay dang: Dữ liệu đang cập nhật
+So cong bao: Dữ liệu đang cập nhật
+Tinh trang: Còn hiệu lực
+
+
+--- MỤC LỤC ---
+- QUYẾT ĐỊNH BAN HÀNH QUY CHẾ QUẢN LÝ PHẦN MỀM QUẢN LÝ HỒ SƠ CÁN BỘ, CÔNG CHỨC, VIÊN CHỨC, NGƯỜI LÀM VIỆC TẠI HỘI, NGƯỜI HỢP ĐỒNG LAO ĐỘNG TỈNH ĐỒNG THÁP VÀ CÁC PHÂN HỆ
+  - Điều 1. Ban hành kèm theo Quyết định này Quy chế Quản lý phần mềm quản lý Hồ sơ cán bộ, công chức, viên chức, người làm việc tại Hội, người hợp đồng lao động tỉnh Đồng Tháp và các phân hệ.
+  - Điều 2. Quyết định này có hiệu lực kể từ ngày ký và thay thế Quyết định số 539/QĐ-UBND-HC ngày 16 tháng 6 năm 2014 của Ủy ban nhân dân Tỉnh ban hành Quy chế Quản lý phần mềm quản lý Hồ sơ cán bộ, công chức, viên chức tỉnh Đồng Tháp.
+  - Điều 3. Chánh Văn phòng Ủy ban nhân dân Tỉnh; Thủ trưởng các sở, ban, ngành, đơn vị sự nghiệp trực thuộc Ủy ban nhân dân Tỉnh, Chủ tịch Ủy ban nhân dân cấp huyện, Chủ tịch Ủy ban nhân dân cấp xã và các đơn vị có liên quan chịu trách nhiệm thi hành Quyết định này./.
+- QUY CHẾ QUẢN LÝ PHẦN MỀM QUẢN LÝ HỒ SƠ CÁN BỘ, CÔNG CHỨC, VIÊN CHỨC, NGƯỜI LÀM VIỆC TẠI HỘI, NGƯỜI HỢP ĐỒNG LAO ĐỘNG TỈNH ĐỒNG THÁP VÀ CÁC PHÂN HỆ
+  - Chương I QUY ĐỊNH CHUNG
+    - Điều 1. Phạm vi điều chỉnh
+    - Điều 2. Đối tượng áp dụng
+    - Điều 3. Giải thích từ ngữ
+    - Điều 4. Phần mềm quản lý hồ sơ cán bộ, công chức, viên chức, người làm việc tại Hội, người hợp đồng lao động và các phân hệ
+    - Điều 5. Phân hệ phần mềm
+  - Chương II QUẢN LÝ, KHAI THÁC PHẦN MỀM VÀ CÁC PHÂN HỆ
+    - Điều 6. Quản lý tài khoản đăng nhập
+    - Điều 7. Mô hình tổ chức cập nhật, quản lý và khai thác hồ sơ trên phần mềm và các phân hệ
+    - Điều 8. Cập nhật, quản lý và khai thác hồ sơ trên phần mềm
+    - Điều 9. Nội dung quản lý, sử dụng phần mềm và các phân hệ
+    - Điều 10. Quy trình cập nhật thông tin
+    - Điều 11. Điều chuyển và tiếp nhận hồ sơ trên phần mềm
+    - Điều 12. Lưu trữ hồ sơ trên phần mềm
+    - Điều 13. Phân hệ Quản lý công tác đào tạo, bồi dưỡng cán bộ, công chức, viên chức, người làm việc tại Hội
+    - Điều 14. Quản lý công tác thi đua khen thưởng
+    - Điều 15. Phân hệ Quản lý tiền lương
+  - Chương III TRÁCH NHIỆM, QUYỀN HẠN CỦA CÁC CƠ QUAN, ĐƠN VỊ TRONG VIỆC KHAI THÁC, QUẢN LÝ PHẦN MỀM VÀ CÁC PHÂN HỆ
+    - Điều 16. Sở Nội vụ
+    - Điều 17. Sở Thông tin và Truyền thông
+    - Điều 18. Sở Tài chính
+    - Điều 19. Các sở, ban, ngành Tỉnh, Ủy ban nhân dân huyện, thị xã, thành phố
+    - Điều 20. Trách nhiệm của người được phân công trực tiếp làm công tác khai thác, quản lý phần mềm
+  - Chương IV ĐIỀU KHOẢN THI HÀNH
+    - Điều 21. Tổ chức thực hiện
+  - PHỤ LỤC BẢNG PHÂN QUYỀN TÀI KHOẢN NGƯỜI DÙNG
+
+--- VĂN BẢN LIÊN QUAN ---
+
+Van ban bi thay the:
+  - Quyết định 539/QĐ-UBND-HC năm 2014 về Quy chế Quản lý phần mềm quản lý hồ sơ cán bộ, công, viên chức tỉnh ... (ID: 238120)
+
+Van ban duoc dan chieu:
+  - Nghị định 161/2018/NĐ-CP sửa đổi quy định về tuyển dụng công chức, viên chức, nâng ngạch công chức, thăng ... (ID: 336803)
+  - Nghị định 45/2010/NĐ-CP quy định về tổ chức, hoạt động và quản lý hội (ID: 104561)
+  - Nghị định 06/2010/NĐ-CP quy định những người là công chức (ID: 100704)
+  - Quyết định 02/2008/QĐ-BNV về mẫu biểu quản lý hồ sơ cán bộ, công chức do Bộ trưởng Bộ Nội vụ ban hành (ID: 81897)
+  - Nghị định 68/2000/NĐ-CP về thực hiện chế độ hợp đồng một số loại công việc trong cơ quan hành chính nhà ... (ID: 47047)
+
+Van ban duoc can cu:
+  - Thông tư 06/2019/TT-BNV sửa đổi Thông tư 11/2012/TT-BNV quy định về chế độ báo cáo thống kê và quản lý hồ ... (ID: 416195)
+  - Thông tư 07/2019/TT-BNV quy định về chế độ báo cáo thống kê và quản lý hồ sơ viên chức do Bộ trưởng Bộ Nội ... (ID: 416160)
+  - Luật tổ chức chính quyền địa phương 2015 (ID: 282380)
+  - Thông tư 11/2012/TT-BNV quy định về chế độ báo cáo thống kê và quản lý hồ sơ công chức do Bộ trưởng Bộ Nội ... (ID: 154130)
+  - Luật viên chức 2010 (ID: 115271)
+  - Luật cán bộ, công chức 2008 (ID: 82202)
+  - Nghị định 64/2007/NĐ-CP về việc ứng dụng công nghệ thông tin trong hoạt động của cơ quan Nhà nước (ID: 18234)
+
+Van ban lien quan cung noi dung:
+  - Quyết định 570/QĐ-UBND năm 2022 về Quy chế quản lý, vận hành, khai thác, sử dụng phần mềm quản lý hồ sơ cán bộ, công chức, viên chức và người lao động tỉnh Lạng Sơn (ID: 509500)
+  - Quyết định 03/2022/QĐ-UBND sửa đổi Quy chế Quản lý hồ sơ cán bộ, công chức tỉnh Bình Định kèm theo Quyết định 48/2018/QĐ-UBND (ID: 501371)
+  - Quyết định 3309/QĐ-UBND năm 2021 về Quy chế quản lý, khai thác và sử dụng phần mềm quản lý hồ sơ cán bộ, công chức, viên chức tỉnh Phú Thọ (ID: 504467)
+  - Quyết định 14/2021/QĐ-UBND sửa đổi, bổ sung Khoản 2, Khoản 3, Khoản 4 Điều 5 Quy chế ban hành kèm theo Quyết định 19/2019/QĐ-UBND ban hành quy chế quản lý hồ sơ cán bộ, công chức, viên chức trong các cơ quan hành chính nhà nước, đơn vị sự nghiệp công lập và các tổ chức hội đặc thù trên địa bàn tỉnh Điện Biên (ID: 480693)
+  - Quyết định 29/2020/QĐ-UBND về Quy chế quản lý, vận hành và khai thác phần mềm quản lý hồ sơ cán bộ, công chức, viên chức tỉnh Quảng Ngãi (ID: 459186)
+  - Quyết định 830/QĐ-UBND năm 2020 về Quy chế quản lý, vận hành và sử dụng Phần mềm quản lý dự án đầu tư của doanh nghiệp, hợp tác xã và các tổ chức, cá nhân khác trên địa bàn tỉnh Hà Tĩnh (ID: 442142)
+  - Quyết định 30/2019/QĐ-UBND về Quy chế quản lý, khai thác và sử dụng phần mềm quản lý hồ sơ cán bộ, công chức, viên chức tỉnh Đắk Lắk (ID: 432642)
+  - Quyết định 890/QĐ-UBND năm 2018 về Quy chế quản lý, khai thác và sử dụng phần mềm quản lý hồ sơ cán bộ, công chức, viên chức trong cơ quan nhà nước trên địa bàn tỉnh Đắk Nông (ID: 397732)
+  - Quyết định 113/QĐ-UBND năm 2017 Quy chế quản lý và sử dụng phần mềm quản lý hồ sơ cán bộ, công chức, viên chức tỉnh Sơn La (ID: 342833)

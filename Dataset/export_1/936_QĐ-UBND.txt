@@ -1,0 +1,1321 @@
+ỦY BAN NHÂN DÂN
+
+ TỈNH QUẢNG BÌNH
+
+ -------
+
+CỘNG
+ HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+ Độc lập - Tự do - Hạnh phúc 
+
+ ---------------
+
+Số: 936/QĐ-UBND
+
+Quảng Bình, ngày 12 tháng 4 năm 2022
+
+ 
+
+QUYẾT ĐỊNH
+
+PHÊ DUYỆT QUY TRÌNH THỰC HIỆN DỊCH VỤ CÔNG TRỰC TUYẾN MỨC ĐỘ 4 MỚI, SỬA
+ĐỔI ĐỐI VỚI THỦ TỤC HÀNH CHÍNH TRONG LĨNH VỰC VIỆC LÀM THUỘC THẨM QUYỀN GIẢI
+QUYẾT CỦA ỦY BAN NHÂN DÂN TỈNH VÀ SỞ LAO ĐỘNG - THƯƠNG BINH VÀ XÃ HỘI QUẢNG
+BÌNH
+
+CHỦ TỊCH ỦY BAN NHÂN DÂN TỈNH QUẢNG BÌNH
+
+Căn cứ Luật Tổ chức Chính quyền địa
+phương ngày 19/6/2015; Luật sửa đổi, bổ sung một số điều của Luật Tổ chức chính
+quyền địa phương ngày 22/11/2019;
+
+Căn cứ Nghị định số 61/2018/NĐ-CP ngày 23/4/2018 của Chính phủ về thực hiện cơ chế một cửa, một cửa
+liên thông trong giải quyết thủ tục hành chính;
+
+Căn cứ Nghị định số 45/2020/NĐ-CP 
+ngày 08/4/2020 của Chính phủ về thực hiện thủ tục hành chính trên môi trường điện
+tử;
+
+Căn cứ Thông tư số 01/2018/TT-VPCP 
+ngày 23/11/2018 của Văn phòng Chính phủ hướng dẫn thi hành một số quy định của
+Nghị định số 61/2018/NĐ-CP ngày 23/4/2018 của Chính phủ về thực hiện cơ chế một
+cửa, một cửa liên thông trong giải quyết thủ tục hành chính;
+
+Căn cứ Quyết định số
+21/2019/QĐ-UBND ngày 10/7/2019 của UBND tỉnh ban hành Quy chế xây dựng và quản
+lý, vận hành, khai thác, sử dụng Cổng dịch vụ công và Hệ thống thông tin một cửa
+điện tử tỉnh Quảng Bình,
+
+Theo đề nghị của Giám đốc Sở Lao động - Thương binh và Xã hội tại
+Tờ trình số 98/TTr-SLĐTXH ngày 11/02/2022 và đề nghị của Chánh Văn phòng UBND tỉnh.
+
+QUYẾT ĐỊNH:
+
+Điều 1. Phê duyệt kèm theo Quyết định này 01 (một) quy
+trình thực hiện dịch vụ công trực tuyến mức độ 4 mới, 02 (hai) quy trình thực
+hiện dịch vụ công trực tuyến mức độ 4 được sửa đổi đối với thủ tục hành chính
+trong lĩnh vực Việc làm thuộc thẩm quyền giải quyết của Ủy ban nhân dân tỉnh và
+Sở Lao động - Thương binh và Xã hội tỉnh Quảng Bình.
+
+Điều 2. Trên cơ sở các dịch vụ
+công trực tuyến đã được phê duyệt, trong thời hạn 03 tháng kể từ ngày Quyết định
+này có hiệu lực thi hành, Sở Lao động - Thương binh và Xã hội, Sở Thông tin và
+Truyền thông theo chức năng, nhiệm vụ được giao có trách nhiệm phối hợp tổ chức
+xây dựng, chạy thử nghiệm, hoàn thiện các dịch vụ công trực tuyến trên Cổng dịch
+vụ công của tỉnh và tích hợp lên Cổng dịch vụ công Quốc gia; đảm bảo đáp ứng
+các yêu cầu theo quy định tại Nghị định 61/2018/NĐ-CP , Nghị định số
+45/2020/NĐ-CP , Quyết định số 21/2019/QĐ-UBND và các văn bản quy phạm pháp luật
+có liên quan, trong đó:
+
+1. Căn cứ vào mức độ đảm bảo an toàn
+của các giải pháp xác thực danh tính điện tử tổ chức, cá nhân trên Chức năng
+đăng ký, đăng nhập tài khoản của Cổng Dịch vụ công quốc
+gia được tích hợp, kết nối với Cổng dịch
+vụ công của tỉnh để lựa chọn, xác định phương thức xác thực điện tử bằng tài
+khoản đăng ký, đăng nhập hoặc thực hiện ký số hoặc bằng giải pháp xác thực khác
+đối với biểu mẫu điện tử (e-form), hồ sơ bản điện tử (file) theo quy định tại
+Điều 8 Nghị định số 45/2020/NĐ-CP ; đồng thời, đăng tải, hướng dẫn cụ thể cho tổ
+chức, cá nhân ngay trên dịch vụ công trực tuyến được cung cấp.
+
+2. Xây dựng mẫu kết quả thủ tục hành
+chính (TTHC) bản điện tử để đồng thời trả kết quả bản điện tử cho tổ chức, cá
+nhân tại Kho quản lý dữ liệu điện tử của tổ chức, cá nhân theo quy định tại Điều
+14 và Điều 16 Nghị định 45/2020/NĐ-CP .
+
+3. Đăng tải số điện thoại và hộp thư
+điện tử của đơn vị đầu mối thuộc Sở Lao động - Thương binh và Xã hội kèm theo từng
+dịch vụ công trực tuyến được cung cấp để tổ chức, cá nhân liên hệ khi cần được
+hướng dẫn, hỗ trợ.
+
+Điều 3. Sở Lao động - Thương binh và Xã hội, Văn phòng
+UBND tỉnh có trách nhiệm:
+
+1. Áp dụng các quy trình thực hiện dịch
+vụ công trực tuyến được phê duyệt tại Quyết định này thay cho các quy trình nội
+bộ trong giải quyết TTHC đã được cơ quan có thẩm quyền ban hành theo hướng dẫn
+tại Công văn số 1388/UBND-KSTT ngày 20/8/2018 của UBND tỉnh về việc xây dựng
+quy trình tin học hóa giải quyết TTHC.
+
+2. Lập Danh sách đăng ký tài khoản
+cho cán bộ, công chức, viên chức được phân công thực hiện các bước xử lý công
+việc quy định tại các quy trình thực hiện dịch vụ công trực tuyến ban hành kèm
+theo Quyết định này, gửi Sở Thông tin và Truyền thông để thiết
+lập cấu hình điện tử; đồng thời tổ chức thực hiện việc cập nhật thông tin, dữ
+liệu về tình hình tiếp nhận, giải quyết hồ sơ, trả kết quả TTHC lên Hệ thông
+thông tin một cửa điện tử của tỉnh theo quy định.
+
+3. Tổ chức thực hiện việc số hóa kết
+quả giải quyết TTHC đang được quản lý, lưu giữ bằng văn bản giấy sang dữ liệu
+điện tử để tích hợp, chia sẻ, khai
+thác theo quy định tại Điều 25 Nghị định số 45/2020/NĐ-CP .
+
+Điều 4. Quyết định này có hiệu lực thi hành kể từ ngày
+ký.
+
+Điều 5. Chánh Văn phòng UBND tỉnh, Giám đốc Sở Lao động
+- Thương binh và Xã hội, Giám đốc Sở Thông tin và Truyền thông, Giám đốc Trung tâm
+Hành chính công tỉnh và các tổ chức, cá nhân liên quan chịu trách nhiệm thi
+hành Quyết định này./.
+
+ 
+
+ Nơi nhận:
+
+- Như Điều 5;
+
+ - Cục KSTTHC - VPCP;
+
+ - CT, các PCT UBND tỉnh;
+
+ - Các sở, ban, ngành thuộc UBND tỉnh; (để biết)
+
+ - UBND các huyện, thị xã, thành phố; (để biết)
+
+- VPUBND tỉnh: LĐVP, Phòng
+ NC-VX; Bộ phận 1 cửa tại TTHCC;
+
+ - Lưu: VT, TDNV, KSTTHC.
+
+KT. CHỦ TỊCH
+
+ PHÓ CHỦ TỊCH
+
+ Hồ An Phong
+
+ 
+
+PHỤ LỤC
+
+QUY TRÌNH THỰC HIỆN DỊCH VỤ CÔNG TRỰC TUYẾN
+MỨC ĐỘ 4 MỚI, SỬA ĐỔI ĐỐI VỚI THỦ TỤC HÀNH CHÍNH TRONG LĨNH VỰC VIỆC LÀM THUỘC
+THẨM QUYỀN GIẢI QUYẾT CỦA UBND TỈNH VÀ SỞ LAO ĐỘNG - THƯƠNG BINH VÀ XÃ HỘI QUẢNG
+BÌNH
+
+(Kèm theo Quyết định số 936/QĐ-UBND ngày 12 tháng 4 năm 2022 của Chủ tịch
+UBND tỉnh Quảng Bình)
+
+Phần I
+
+DANH MỤC DỊCH VỤ CÔNG TRỰC TUYẾN MỨC ĐỘ 4
+
+1. Quy trình
+thực hiện dịch vụ công trực tuyến mức độ 4 mới
+
+STT
+
+Tên dịch vụ công
+
+Mức độ dịch vụ công
+
+Trang
+
+1
+
+Thủ tục đề nghị
+ tuyển người lao động Việt Nam vào các vị trí công việc dự kiến tuyển người
+ lao động nước ngoài của nhà thầu quy mô tuyển dưới 100 lao động
+
+4
+
+2
+
+2. Quy trình
+thực hiện dịch vụ công trực tuyến mức độ 4 sửa đổi
+
+STT
+
+Tên dịch vụ công
+
+Áp dụng thay thế
+
+Trang
+
+1
+
+Thủ tục đề nghị
+ tuyển người lao động Việt Nam vào các vị trí công việc dự kiến tuyển người
+ lao động nước ngoài của nhà thầu quy mô tuyển từ 100 đến dưới 500 lao động
+
+Quy trình số 01-LĐTL.SLĐTB&XH 
+
+Quyết định số 1376/QĐ-UBND ngày 05/5/2021
+
+6
+
+2
+
+Thủ tục đề nghị
+ tuyển người lao động Việt Nam vào các vị trí công việc dự kiến tuyển người lao
+ động nước ngoài của nhà thầu quy mô tuyển từ 500 lao động trở lên
+
+Quy trình số 02-LĐTL.SLĐTB&XH 
+
+Quyết định số 1376/QĐ-UBND ngày 05/5/2021
+
+10
+
+ 
+
+Phần II
+
+I. QUY TRÌNH THỰC HIỆN DỊCH VỤ CÔNG TRỰC TUYẾN MỨC
+ĐỘ 4 MỚI 
+
+Quy trình số: 01.LĐVLDN-SLĐTB&XH 
+
+QUY TRÌNH THỰC HIỆN DỊCH VỤ CÔNG TRỰC
+TUYẾN MỨC ĐỘ 4 ĐỐI VỚI THỦ TỤC ĐỀ NGHỊ TUYỂN NGƯỜI LAO ĐỘNG VIỆT NAM VÀO CÁC VỊ
+TRÍ CÔNG VIỆC DỰ KIẾN TUYỂN NGƯỜI LAO ĐỘNG NƯỚC NGOÀI CỦA NHÀ THẦU QUY MÔ TUYỂN
+TRÊN 100 LAO ĐỘNG
+
+Áp dụng tại cơ quan: Ủy ban nhân dân tỉnh, Văn phòng Ủy ban nhân dân tỉnh,
+Sở Lao động - Thương binh và Xã hội
+
+Quy trình
+
+Đối tượng thực hiện
+
+Nội dung công việc
+
+Thời gian thực hiện
+
+Nộp hồ sơ
+
+Người nộp hồ sơ
+
+I. Nộp hồ sơ
+ trực tuyến:
+
+1. Truy nhập Cổng
+ dịch vụ công trực tuyến (DVCTT) trên mạng internet tại địa chỉ: https://dichvucong.quangbinh.gov.vn.
+
+2. Đăng ký/
+ Đăng nhập vào Hệ thống.
+
+3. Chọn cơ quan
+ thực hiện là Sở Lao động - Thương binh và Xã hội (LĐ-TB&XH), tại danh
+ sách dịch vụ công lựa chọn dịch vụ “Thủ tục đề nghị tuyển người lao động
+ Việt Nam vào các vị trí công việc dự kiến tuyển người lao động nước ngoài của
+ nhà thầu quy mô tuyển từ 100 đến 500 lao động”.
+
+4. Cập nhật, số
+ hóa đầy đủ các thành phần hồ sơ, bao gồm:
+
+Văn bản Đề nghị
+ tuyển người lao động Việt Nam vào các vị trí công việc dự kiến tuyển người
+ lao động nước ngoài theo Mẫu số 04/PLI Phụ lục I ban hành kèm theo Nghị định
+ số 152/2020/NĐ-CP hoặc điều chỉnh, bổ sung nhu cầu sử dụng người lao động nước
+ ngoài theo Mẫu số 05/PLI Phụ lục I ban hành kèm theo Nghị định số
+ 152/2020/NĐ-CP .
+
+5. Hồ sơ điện tử
+ gửi dưới hình thức khai báo thông tin trên biểu mẫu điện tử (e-form) được
+ cung cấp sẵn hoặc đăng tải các giấy tờ, tài liệu điện tử hợp lệ hoặc dẫn nguồn
+ tài liệu từ Kho quản lý dữ liệu điện tử của tổ chức, cá nhân.
+
+Đối với thành
+ phần hồ sơ có yêu cầu nộp bản điện tử có chữ ký số xác thực: Sở LĐ-TB&XH
+ có nội dung hướng dẫn để công khai ngay trên dịch vụ công trực tuyến được
+ cung cấp, trường hợp bản điện tử chưa có ký số thì hướng dẫn việc đối chiếu
+ hoặc nộp trực tiếp hồ sơ gốc khi đến nhận kết quả hoặc gửi qua dịch vụ bưu
+ chính công ích.
+
+6. Đăng ký hình
+ thức nhận kết quả thủ tục hành chính (TTHC): Trực tiếp/ hoặc qua dịch vụ bưu
+ chính công ích/ hoặc trực tuyến.
+
+7. Đăng ký hình
+ thức nhận thông báo về tình hình giải quyết hồ sơ: Thư điện tử (email) /hoặc
+ tin nhắn qua mạng xã hội (Zalo) /hoặc tin nhắn SMS trên điện thoại di động.
+
+8. Người nộp hồ
+ sơ được cấp mã để tra cứu tình trạng giải quyết hồ sơ trực tuyến.
+
+9. Trong quá
+ trình thực hiện dịch vụ công, tổ chức, cá nhân có thể liên hệ qua số điện thoại
+ và hộp thư điện tử của Sở LĐ-TB&XH được đăng tải kèm theo quy trình thực
+ hiện dịch vụ công trực tuyến này để được hướng dẫn, hỗ trợ.
+
+II. Nộp hồ
+ sơ trực tiếp:
+
+Nộp hồ sơ trực
+ tiếp tại Bộ phận một cửa của Sở LĐ-TB&XH tại Trung tâm Hành chính công
+ (TTHCC) tỉnh Quảng Bình (Số 09 đường Quang Trung, TP. Đồng Hới, Quảng
+ Bình) hoặc qua dịch vụ bưu chính công ích theo thành phần hồ sơ và hướng
+ dẫn nêu trên.
+
+ 
+
+Bước 1
+
+Cán bộ Bộ phận một cửa của Sở LĐ -TB&XH tại TTHCC tỉnh
+
+1. Kiểm tra,
+ hoàn thiện thông tin của người nộp hồ sơ. Xác nhận hình thức nộp hồ sơ: Trực
+ tiếp/hoặc trực tuyến/hoặc qua dịch vụ bưu chính.
+
+2. Kiểm tra
+ thành phần hồ sơ điện tử:
+
+- Trường hợp hồ
+ sơ đầy đủ, hợp lệ: Tiếp nhận, cập nhật lưu trữ hồ sơ điện tử; chuyển đến Lãnh
+ đạo Phòng Lao động - Việc làm - Dạy nghề (LĐ-VL-DN) để phân công xử lý; gửi
+ Phiếu tiếp nhận hồ sơ và hẹn trả kết quả cho người nộp hồ sơ.
+
+- Trường hợp hồ
+ sơ chưa đầy đủ, không hợp lệ: Gửi thông báo cho người nộp, hướng dẫn bổ sung,
+ hoàn thiện hồ sơ theo yêu cầu.
+
+02 giờ làm việc
+
+Bước 2
+
+Lãnh đạo Phòng LĐ-VL-DN
+
+Lãnh đạo Phòng
+ LĐ-VL-DN xác nhận hồ sơ chuyển đến, phân công chuyên viên xử lý hồ sơ.
+
+04 giờ làm việc
+
+Bước 3
+
+Chuyên viên Phòng LĐ-VL-DN
+
+Chuyên viên Phòng
+ LĐ-VL-DN xác nhận hồ sơ chuyển đến; kiểm tra, thẩm định hồ sơ và dự thảo kết
+ quả giải quyết chuyển cho Lãnh đạo Phòng.
+
+Trường hợp cần
+ bổ sung, hoàn thiện hồ sơ, chuyển ngược về Bộ phận một cửa (kèm văn bản hướng
+ dẫn, nêu rõ lý do, nội dung bổ sung...).
+
+01 ngày làm việc
+
+Bước 4
+
+Lãnh đạo Phòng LĐ-VL-DN
+
+Lãnh đạo Phòng
+ LĐ-VL-DN thẩm tra, trình Lãnh đạo Sở ký duyệt
+
+Trường hợp cần
+ điều chỉnh, sửa đổi, bổ sung dự thảo kết quả giải quyết, chuyển ngược về
+ chuyên viên xử lý.
+
+04 giờ làm việc
+
+Bước 5
+
+Lãnh đạo Sở LĐ-TB&XH
+
+Lãnh đạo Sở
+ LĐ-TB&XH ký phê duyệt kết quả TTHC, chuyển chuyên viên xử lý để hoàn thiện
+ hồ sơ đồng thời tích chọn duyệt hồ sơ trên phần mềm điện tử.
+
+Trường hợp cần
+ điều chỉnh, sửa đổi, bổ sung dự thảo kết quả giải quyết, chuyển ngược về
+ chuyên viên xử lý.
+
+04 giờ làm việc
+
+Bước 6
+
+Chuyên viên Phòng LĐ-VL-DN
+
+Chuyên viên
+ phòng LĐ-VL-DN phối hợp với văn thư vô số và gửi Các cơ quan, tổ chức của địa
+ phương giới thiệu, cung ứng người lao động Việt Nam cho nhà thầu hoặc phối hợp
+ với các cơ quan, tổ chức ở địa phương khác để giới thiệu, cung ứng người lao
+ động Việt Nam cho nhà thầu.
+
+Trường hợp đến
+ hết thời gian tuyển người lao động nếu không tuyển được người lao động Việt
+ Nam vào các vị trí công việc theo yêu cầu thì Chuyên viên Phòng LĐVLDN tham mưu
+ Lãnh đạo Sở Tờ trình kèm công văn chấp thuận trình UBND tỉnh.
+
+3,5 ngày làm việc
+
+Bước 7
+
+Lãnh đạo Phòng LĐ-VL-DN
+
+Lãnh đạo Phòng
+ LĐ-VL-DN thẩm tra, xem xét, điều chỉnh trình Lãnh đạo Sở ký duyệt 
+
+Trường hợp cần
+ điều chỉnh, sửa đổi, bổ sung dự thảo kết quả giải quyết, chuyển ngược về
+ chuyên viên xử lý.
+
+04 giờ làm việc
+
+Bước 8
+
+Lãnh đạo Sở LĐ-TB&XH
+
+Lãnh đạo Sở
+ LĐ-TB&XH ký phê duyệt kết quả TTHC, chuyển chuyên viên xử lý để hoàn thiện
+ hồ sơ đồng thời tích chọn duyệt hồ sơ trên phần mềm điện tử.
+
+Trường hợp cần
+ điều chỉnh, sửa đổi, bổ sung dự thảo kết quả giải quyết, chuyển ngược về
+ chuyên viên xử lý.
+
+04 giờ làm việc
+
+Bước 9
+
+Chuyên viên Phòng LĐ-VL-DN
+
+Chuyên viên
+ Phòng LĐ-VL-DN hoàn thiện và trả kết quả về Bộ phận một cửa của Sở
+ LĐ-TB&XH tại TTHCC tỉnh.
+
+02 giờ làm việc
+
+Bước 10
+
+Cán bộ Bộ phận một cửa của Sở LĐ-TB&XH tại TTHCC tỉnh
+
+Cán bộ Bộ phận
+ một cửa của Sở LĐ-TB&XH tại TTHCC tỉnh chuyển hồ sơ, kết quả liên thông
+ cho Văn phòng UBND tỉnh.
+
+02 giờ làm việc
+
+Bước 11
+
+Cán bộ Bộ phận một cửa Văn phòng UBND tỉnh tại TTHCC tỉnh
+
+Cán bộ Bộ phận
+ một cửa của Văn phòng UBND tỉnh tại TTHCC tỉnh chuyển hồ sơ, kết quả liên
+ thông cho chuyên viên Văn phòng UBND tỉnh.
+
+02 giờ làm việc
+
+Bước 12
+
+Chuyên viên Văn phòng UBND tỉnh
+
+Chuyên viên phụ
+ trách lĩnh vực của Văn phòng UBND tỉnh kiểm tra, xử lý hồ sơ, trình Lãnh đạo
+ Văn phòng UBND tỉnh và Lãnh đạo UBND tỉnh phê duyệt.
+
+Trường hợp cần
+ điều chỉnh, sửa đổi, bổ sung dự thảo kết quả giải quyết, chuyển ngược về Bộ
+ phận một cửa của Văn phòng UBND tỉnh để chuyển cho Bộ phận một cửa của Sở LĐ-
+ TB&XH chuyển Chuyên viên Phòng LĐ-VL-DN (chuyên viên xử lý).
+
+2,5 ngày làm việc
+
+Bước 13
+
+Cán bộ Bộ phận một cửa Văn phòng UBND tỉnh tại TTHCC tỉnh
+
+Cán bộ Bộ phận
+ một cửa của Văn phòng UBND tỉnh tại TTHCC tỉnh chuyển hồ sơ, kết quả liên
+ thông cho Bộ phận một cửa của Sở LĐ-TB&XH tại TTHCC tỉnh.
+
+02 giờ làm việc
+
+Bước 14
+
+Cán Bộ phận một cửa của Sở LĐ - TB&XH tại TTHCC tỉnh
+
+Cán bộ Bộ phận
+ một cửa của Sở LĐ-TB&XH tại TTHCC tỉnh:
+
+- Xác nhận trên
+ phần mềm một cửa và kết quả TTHC đã có tại Bộ phận một cửa; thông báo cho tổ
+ chức, cá nhân theo hình thức đăng ký.
+
+- Chuyển hồ sơ,
+ kết quả liên thông cho Phòng LĐ-VL-DN, Sở LĐ-TB&XH để lưu hồ sơ, theo
+ dõi.
+
+02 giờ làm việc
+
+Nhận kết quả
+
+Người nộp hồ sơ
+
+- Xuất trình đối
+ chiếu hoặc nộp bản giấy các hồ sơ, văn bản điện tử có yêu cầu xác thực bằng
+ chữ ký số nhưng chưa được ký số khi đến nhận kết quả hoặc gửi qua dịch vụ bưu
+ chính công ích.
+
+- Nhận kết quả
+ TTHC theo hình thức đã đăng ký: Trực tiếp/hoặc qua dịch vụ bưu chính công
+ ích. Đồng thời nhận kết quả TTHC bản điện tử tại Kho quản lý dữ liệu điện tử
+ của tổ chức, cá nhân trên Cổng dịch vụ công.
+
+Không tính vào thời gian giải quyết
+
+Tổng thời gian giải quyết TTHC
+
+15 ngày (11 ngày làm việc)
+
+ 
+
+II. QUY TRÌNH THỰC HIỆN DỊCH VỤ CÔNG TRỰC TUYẾN MỨC
+ĐỘ 4 SỬA ĐỔI 
+
+Quy trình số: 02.LĐVLDN-SLĐTB&XH
+
+QUY TRÌNH THỰC HIỆN DỊCH VỤ CÔNG TRỰC
+TUYẾN MỨC ĐỘ 4 ĐỐI VỚI THỦ TỤC ĐỀ NGHỊ TUYỂN NGƯỜI LAO ĐỘNG VIỆT NAM VÀO CÁC VỊ
+TRÍ CÔNG VIỆC DỰ KIẾN TUYỂN NGƯỜI LAO ĐỘNG NƯỚC NGOÀI CỦA NHÀ THẦU QUY MÔ TUYỂN
+TỪ 100 ĐẾN DƯỚI 500 LAO ĐỘNG
+
+Áp dụng tại cơ quan: Ủy ban nhân dân tỉnh, Văn phòng Ủy ban nhân dân tỉnh,
+Sở Lao động - Thương binh và Xã hội
+
+Quy trình
+
+Đối tượng thực hiện
+
+Nội dung công việc
+
+Thời gian thực hiện
+
+Nộp hồ sơ
+
+Người nộp hồ sơ
+
+I. Nộp hồ sơ
+ trực tuyến:
+
+1. Truy nhập Cổng
+ dịch vụ công trực tuyến (DVCTT) trên mạng internet tại địa chỉ: https://dichvucong.quangbinh.gov.vn.
+
+2. Đăng ký/
+ Đăng nhập vào Hệ thống.
+
+3. Chọn cơ quan
+ thực hiện là Sở Lao động - Thương binh và Xã hội (LĐ-TB&XH), tại danh
+ sách dịch vụ công lựa chọn dịch vụ “Thủ tục đề nghị tuyển người lao động
+ Việt Nam vào các vị trí công việc dự kiến tuyển người lao động nước ngoài của
+ nhà thầu quy mô tuyển từ 100 đến dưới 500 lao động”.
+
+4. Cập nhật, số
+ hóa đầy đủ các thành phần hồ sơ, bao gồm:
+
+Văn bản Đề nghị
+ tuyển người lao động Việt Nam vào các vị trí công việc dự kiến tuyển người
+ lao động nước ngoài theo Mẫu số 04/PLI Phụ lục I ban hành kèm theo Nghị định
+ số 152/2020/NĐ-CP hoặc điều chỉnh, bổ sung nhu cầu sử dụng người lao động nước
+ ngoài theo Mẫu số 05/PLI Phụ lục I ban hành kèm theo Nghị định số
+ 152/2020/NĐ-CP .
+
+5. Hồ sơ điện tử
+ gửi dưới hình thức khai báo thông tin trên biểu mẫu điện tử (e-form) được
+ cung cấp sẵn hoặc đăng tải các giấy tờ, tài liệu điện tử hợp lệ hoặc dẫn nguồn
+ tài liệu từ Kho quản lý dữ liệu điện tử của tổ chức, cá nhân.
+
+Đối với thành
+ phần hồ sơ có yêu cầu nộp bản điện tử có chữ ký số xác thực: Sở LĐ-TB&XH
+ có nội dung hướng dẫn để công khai ngay trên dịch vụ công trực tuyến được
+ cung cấp, trường hợp bản điện tử chưa có ký số thì hướng dẫn việc đối chiếu
+ hoặc nộp trực tiếp hồ sơ gốc khi đến nhận kết quả hoặc gửi qua dịch vụ bưu
+ chính công ích.
+
+6. Đăng ký hình
+ thức nhận kết quả thủ tục hành chính (TTHC): Trực tiếp/ hoặc qua dịch vụ bưu
+ chính công ích/ hoặc trực tuyến.
+
+7. Đăng ký hình
+ thức nhận thông báo về tình hình giải quyết hồ sơ: Thư điện tử (email) /hoặc
+ tin nhắn qua mạng xã hội (Zalo) /hoặc tin nhắn SMS trên điện thoại di động.
+
+8. Người nộp hồ
+ sơ được cấp mã để tra cứu tình trạng giải quyết hồ sơ trực tuyến.
+
+9. Trong quá
+ trình thực hiện dịch vụ công, tổ chức, cá nhân có thể liên hệ qua số điện thoại
+ và hộp thư điện tử của Sở LĐ-TB&XH được đăng tải kèm theo quy trình thực
+ hiện dịch vụ công trực tuyến này để được hướng dẫn, hỗ trợ.
+
+II. Nộp hồ
+ sơ trực tiếp:
+
+Nộp hồ sơ trực
+ tiếp tại Bộ phận một cửa của Sở LĐ-TB&XH tại Trung tâm Hành chính công
+ (TTHCC) tỉnh Quảng Bình (Số 09 đường Quang Trung, TP. Đồng Hới, Quảng
+ Bình) hoặc qua dịch vụ bưu chính công ích theo thành phần hồ sơ và hướng
+ dẫn nêu trên.
+
+ 
+
+Bước 1
+
+Cán bộ Bộ phận một cửa của Sở LĐ-TB&XH tại TTHCC tỉnh
+
+1. Kiểm tra,
+ hoàn thiện thông tin của người nộp hồ sơ. Xác nhận hình thức nộp hồ sơ: Trực
+ tiếp/hoặc trực tuyến/hoặc qua dịch vụ bưu chính.
+
+2. Kiểm tra
+ thành phần hồ sơ điện tử:
+
+- Trường hợp hồ
+ sơ đầy đủ, hợp lệ: Tiếp nhận, cập nhật lưu trữ hồ sơ điện tử; chuyển đến Lãnh
+ đạo Phòng Lao động - Việc làm - Dạy nghề (LĐ-VL-DN) để phân công xử lý; gửi
+ Phiếu tiếp nhận hồ sơ và hẹn trả kết quả cho người nộp hồ sơ.
+
+- Trường hợp hồ
+ sơ chưa đầy đủ, không hợp lệ: Gửi thông báo cho người nộp, hướng dẫn bổ sung,
+ hoàn thiện hồ sơ theo yêu cầu.
+
+04 giờ làm việc
+
+Bước 2
+
+Lãnh đạo Phòng LĐ-VL-DN
+
+Lãnh đạo Phòng
+ LĐ-VL-DN xác nhận hồ sơ chuyển đến, phân công chuyên viên xử lý hồ sơ.
+
+04 giờ làm việc
+
+Bước 3
+
+Chuyên viên Phòng LĐ-VL-DN
+
+Chuyên viên
+ Phòng LĐ-VL-DN xác nhận hồ sơ chuyển đến; kiểm tra, thẩm định hồ sơ và dự thảo
+ kết quả giải quyết chuyển cho Lãnh đạo Phòng.
+
+Trường hợp cần
+ bổ sung, hoàn thiện hồ sơ, chuyển ngược về Bộ phận một cửa (kèm văn bản hướng
+ dẫn, nêu rõ lý do, nội dung bổ sung...).
+
+02 ngày làm việc
+
+Bước 4
+
+Lãnh đạo Phòng LĐ-VL-DN
+
+Lãnh đạo Phòng
+ LĐ-VL-DN thẩm tra, trình Lãnh đạo Sở ký duyệt
+
+Trường hợp cần
+ điều chỉnh, sửa đổi, bổ sung dự thảo kết quả giải quyết, chuyển ngược về
+ chuyên viên xử lý.
+
+04 giờ làm việc
+
+Bước 5
+
+Lãnh đạo Sở LĐ-TB&XH
+
+Lãnh đạo Sở
+ LĐ-TB&XH ký phê duyệt kết quả TTHC, chuyển chuyên viên xử lý để hoàn thiện
+ hồ sơ đồng thời tích chọn duyệt hồ sơ trên phần mềm điện tử.
+
+Trường hợp cần
+ điều chỉnh, sửa đổi, bổ sung dự thảo kết quả giải quyết, chuyển ngược về
+ chuyên viên xử lý.
+
+04 giờ làm việc
+
+Bước 6
+
+Chuyên viên Phòng LĐ-VL-DN
+
+Chuyên viên phòng
+ LĐ-VL-DN phối hợp với văn thư vô số và gửi Các cơ quan, tổ chức của địa
+ phương giới thiệu, cung ứng người lao động Việt Nam cho nhà thầu hoặc phối hợp
+ với các cơ quan, tổ chức ở địa phương khác để giới thiệu, cung ứng người lao
+ động Việt Nam cho nhà thầu.
+
+Trường hợp đến
+ hết thời gian tuyển người lao động nếu không tuyển được người lao động Việt
+ Nam vào các vị trí công việc theo yêu cầu thì Chuyên viên Phòng LĐVLDN tham
+ mưu Lãnh đạo Sở Tờ trình kèm công văn chấp thuận trình UBND tỉnh.
+
+10 ngày làm việc
+
+Bước 7
+
+Lãnh đạo Phòng LĐ-VL-DN
+
+Lãnh đạo Phòng
+ LĐ-VL-DN thẩm tra, xem xét, điều chỉnh trình Lãnh đạo Sở ký duyệt Trường hợp
+ cần điều chỉnh, sửa đổi, bổ sung dự thảo kết quả giải quyết, chuyển ngược về
+ chuyên viên xử lý.
+
+04 giờ làm việc
+
+Bước 8
+
+Lãnh đạo Sở LĐ-TB&XH
+
+Lãnh đạo Sở
+ LĐ-TB&XH ký phê duyệt kết quả TTHC, chuyển chuyên viên xử lý để hoàn thiện
+ hồ sơ đồng thời tích chọn duyệt hồ sơ trên phần mềm điện tử.
+
+Trường hợp cần
+ điều chỉnh, sửa đổi, bổ sung dự thảo kết quả giải quyết, chuyển ngược về
+ chuyên viên xử lý.
+
+04 giờ làm việc
+
+Bước 9
+
+Chuyên viên Phòng LĐ-VL-DN
+
+Chuyên viên
+ Phòng LĐ-VL-DN hoàn thiện và trả kết quả về Bộ phận một cửa của Sở
+ LĐ-TB&XH tại TTHCC tỉnh.
+
+04 giờ làm việc
+
+Bước 10
+
+Cán bộ Bộ phận một cửa của Sở LĐ-TB&XH tại TTHCC tỉnh
+
+Cán bộ Bộ phận
+ một cửa của Sở LĐ-TB&XH tại TTHCC tỉnh chuyển hồ sơ, kết quả liên thông
+ cho Văn phòng UBND tỉnh.
+
+02 giờ làm việc
+
+Bước 11
+
+Cán bộ Bộ phận một cửa Văn phòng UBND tỉnh tại TTHCC tỉnh
+
+Cán bộ Bộ phận
+ một cửa của Văn phòng UBND tỉnh tại TTHCC tỉnh chuyển hồ sơ, kết quả liên
+ thông cho chuyên viên Văn phòng UBND tỉnh.
+
+02 giờ làm việc
+
+Bước 12
+
+Chuyên viên Văn phòng UBND tỉnh
+
+Chuyên viên phụ
+ trách lĩnh vực của Văn phòng UBND tỉnh kiểm tra, xử lý hồ sơ, trình Lãnh đạo
+ Văn phòng UBND tỉnh và Lãnh đạo UBND tỉnh phê duyệt.
+
+Trường hợp cần
+ điều chỉnh, sửa đổi, bổ sung dự thảo kết quả giải quyết, chuyển ngược về Bộ
+ phận một cửa của Văn phòng UBND tỉnh để chuyển cho Bộ phận một cửa của Sở LĐ-
+ TB&XH chuyển Chuyên viên Phòng LĐ-VL-DN (chuyên viên xử lý).
+
+5,5 ngày làm việc
+
+Bước 13
+
+Cán bộ Bộ phận một cửa Văn phòng UBND tỉnh tại TTHCC tỉnh
+
+Cán bộ Bộ phận
+ một cửa của Văn phòng UBND tỉnh tại TTHCC tỉnh chuyển hồ sơ, kết quả liên
+ thông cho Bộ phận một cửa của Sở LĐ-TB&XH tại TTHCC tỉnh.
+
+02 giờ làm việc
+
+Bước 14
+
+Cán Bộ phận một cửa của Sở LĐ - TB&XH tại TTHCC tỉnh
+
+Cán bộ Bộ phận
+ một cửa của Sở LĐ-TB&XH tại TTHCC tỉnh:
+
+- Xác nhận trên
+ phần mềm một cửa và kết quả TTHC đã có tại Bộ phận một cửa; thông báo cho tổ
+ chức, cá nhân theo hình thức đăng ký.
+
+- Chuyển hồ sơ,
+ kết quả liên thông cho Phòng LĐ-VL-DN, Sở LĐ-TB&XH để lưu hồ sơ, theo
+ dõi.
+
+02 giờ làm việc
+
+Nhận kết quả
+
+Người nộp hồ sơ
+
+- Xuất trình đối
+ chiếu hoặc nộp bản giấy các hồ sơ, văn bản điện tử có yêu cầu xác thực bằng chữ
+ ký số nhưng chưa được ký số khi đến nhận kết quả hoặc gửi qua dịch vụ bưu
+ chính công ích.
+
+- Nhận kết quả
+ TTHC theo hình thức đã đăng ký: Trực tiếp/hoặc qua dịch vụ bưu chính công ích.
+ Đồng thời nhận kết quả TTHC bản điện tử tại Kho quản lý dữ liệu điện tử của tổ
+ chức, cá nhân trên Cổng dịch vụ công.
+
+Không tính vào thời gian giải quyết
+
+Tổng thời gian giải quyết TTHC
+
+30 ngày (22 ngày làm việc)
+
+ 
+
+Quy trình số: 03.LĐVLDN-SLĐTB&XH
+
+QUY TRÌNH THỰC HIỆN DỊCH VỤ CÔNG TRỰC
+TUYẾN MỨC ĐỘ 4 ĐỐI VỚI THỦ TỤC ĐỀ NGHỊ TUYỂN NGƯỜI LAO ĐỘNG VIỆT NAM VÀO CÁC VỊ
+TRÍ CÔNG VIỆC DỰ KIẾN TUYỂN NGƯỜI LAO ĐỘNG NƯỚC NGOÀI CỦA NHÀ THẦU QUY MÔ TUYỂN
+TRÊN 500 LAO ĐỘNG
+
+Áp dụng tại cơ quan: Ủy ban nhân dân tỉnh, Văn phòng Ủy ban nhân dân tỉnh,
+Sở Lao động - Thương binh và Xã hội
+
+Quy trình
+
+Đối tượng thực hiện
+
+Nội dung công việc
+
+Thời gian thực hiện
+
+Nộp hồ sơ
+
+Người nộp hồ sơ
+
+I. Nộp hồ sơ
+ trực tuyến:
+
+1. Truy nhập Cổng
+ dịch vụ công trực tuyến (DVCTT) trên mạng internet tại địa chỉ: https://dichvucong.quangbinh.gov.vn.
+
+2. Đăng ký/
+ Đăng nhập vào Hệ thống.
+
+3. Chọn cơ quan
+ thực hiện là Sở Lao động - Thương binh và Xã hội (LĐ-TB&XH), tại danh
+ sách dịch vụ công lựa chọn dịch vụ “Thủ tục đề nghị tuyển người lao động
+ Việt Nam vào các vị trí công việc dự kiến tuyển người lao động nước ngoài của
+ nhà thầu quy mô tuyển trên 500 lao động”.
+
+4. Cập nhật, số
+ hóa đầy đủ các thành phần hồ sơ, bao gồm:
+
+Văn bản Đề nghị
+ tuyển người lao động Việt Nam vào các vị trí công việc dự kiến tuyển người
+ lao động nước ngoài theo Mẫu số 04/PLI Phụ lục I ban hành kèm theo Nghị định
+ số 152/2020/NĐ-CP hoặc điều chỉnh, bổ sung nhu cầu sử dụng người lao động nước
+ ngoài theo Mẫu số 05/PLI Phụ lục I ban hành kèm theo Nghị định số
+ 152/2020/NĐ-CP .
+
+5. Hồ sơ điện tử
+ gửi dưới hình thức khai báo thông tin trên biểu mẫu điện tử (e-form) được
+ cung cấp sẵn hoặc đăng tải các giấy tờ, tài liệu điện tử hợp lệ hoặc dẫn nguồn
+ tài liệu từ Kho quản lý dữ liệu điện tử của tổ chức, cá nhân.
+
+Đối với thành
+ phần hồ sơ có yêu cầu nộp bản điện tử có chữ ký số xác thực: Sở LĐ-TB&XH
+ có nội dung hướng dẫn để công khai ngay trên dịch vụ công trực tuyến được
+ cung cấp, trường hợp bản điện tử chưa có ký số thì hướng dẫn việc đối chiếu
+ hoặc nộp trực tiếp hồ sơ gốc khi đến nhận kết quả hoặc gửi qua dịch vụ bưu
+ chính công ích.
+
+6. Đăng ký hình
+ thức nhận kết quả thủ tục hành chính (TTHC): Trực tiếp/ hoặc qua dịch vụ bưu
+ chính công ích/ hoặc trực tuyến.
+
+7. Đăng ký hình
+ thức nhận thông báo về tình hình giải quyết hồ sơ: Thư điện tử (email) /hoặc
+ tin nhắn qua mạng xã hội (Zalo) /hoặc tin nhắn SMS trên điện thoại di động.
+
+8. Người nộp hồ
+ sơ được cấp mã để tra cứu tình trạng giải quyết hồ sơ trực tuyến.
+
+9. Trong quá
+ trình thực hiện dịch vụ công, tổ chức, cá nhân có thể liên hệ qua số điện thoại
+ và hộp thư điện tử của Sở LĐ-TB&XH được đăng tải kèm theo quy trình thực
+ hiện dịch vụ công trực tuyến này để được hướng dẫn, hỗ trợ.
+
+II. Nộp hồ
+ sơ trực tiếp:
+
+Nộp hồ sơ trực
+ tiếp tại Bộ phận một cửa của Sở LĐ-TB&XH tại Trung tâm Hành chính công
+ (TTHCC) tỉnh Quảng Bình (Số 09 đường Quang Trung, TP. Đồng Hới, Quảng
+ Bình) hoặc qua dịch vụ bưu chính công ích theo thành phần hồ sơ và hướng
+ dẫn nêu trên.
+
+ 
+
+Bước 1
+
+Cán bộ Bộ phận một cửa của Sở LĐ-TB&XH tại TTHCC tỉnh
+
+1. Kiểm tra,
+ hoàn thiện thông tin của người nộp hồ sơ. Xác nhận hình thức nộp hồ sơ: Trực
+ tiếp/hoặc trực tuyến/hoặc qua dịch vụ bưu chính.
+
+2. Kiểm tra
+ thành phần hồ sơ điện tử:
+
+- Trường hợp hồ
+ sơ đầy đủ, hợp lệ: Tiếp nhận, cập nhật lưu trữ hồ sơ điện tử; chuyển đến Lãnh
+ đạo Phòng Lao động - Việc làm - Dạy nghề (LĐ-VL-DN) để phân công xử lý; gửi
+ Phiếu tiếp nhận hồ sơ và hẹn trả kết quả cho người nộp hồ sơ.
+
+- Trường hợp hồ
+ sơ chưa đầy đủ, không hợp lệ: Gửi thông báo cho người nộp, hướng dẫn bổ sung,
+ hoàn thiện hồ sơ theo yêu cầu.
+
+02 giờ làm việc
+
+Bước 2
+
+Lãnh đạo Phòng LĐ-VL-DN
+
+Lãnh đạo Phòng
+ LĐ-VL-DN xác nhận hồ sơ chuyển đến, phân công chuyên viên xử lý hồ sơ.
+
+04 giờ làm việc
+
+Bước 3
+
+Chuyên viên Phòng LĐ-VL-DN
+
+Chuyên viên Phòng
+ LĐ-VL-DN xác nhận hồ sơ chuyển đến; kiểm tra, thẩm định hồ sơ và dự thảo kết
+ quả giải quyết chuyển cho Lãnh đạo Phòng.
+
+Trường hợp cần
+ bổ sung, hoàn thiện hồ sơ, chuyển ngược về Bộ phận một cửa (kèm văn bản hướng
+ dẫn, nêu rõ lý do, nội dung bổ sung...).
+
+2,5 ngày làm việc
+
+Bước 4
+
+Lãnh đạo Phòng LĐ-VL-DN
+
+Lãnh đạo Phòng
+ LĐ-VL-DN thẩm tra, trình Lãnh đạo Sở ký duyệt
+
+Trường hợp cần
+ điều chỉnh, sửa đổi, bổ sung dự thảo kết quả giải quyết, chuyển ngược về
+ chuyên viên xử lý.
+
+04 giờ làm việc
+
+Bước 5
+
+Lãnh đạo Sở LĐ-TB&XH
+
+Lãnh đạo Sở
+ LĐ-TB&XH ký phê duyệt kết quả TTHC, chuyển chuyên viên xử lý để hoàn thiện
+ hồ sơ đồng thời tích chọn duyệt hồ sơ trên phần mềm điện tử.
+
+Trường hợp cần
+ điều chỉnh, sửa đổi, bổ sung dự thảo kết quả giải quyết, chuyển ngược về
+ chuyên viên xử lý.
+
+04 giờ làm việc
+
+Bước 6
+
+Chuyên viên Phòng LĐ-VL-DN
+
+Chuyên viên
+ phòng LĐ-VL-DN phối hợp với văn thư vô số và gửi Các cơ quan, tổ chức của địa
+ phương giới thiệu, cung ứng người lao động Việt Nam cho nhà thầu hoặc phối hợp
+ với các cơ quan, tổ chức ở địa phương khác để giới thiệu, cung ứng người lao
+ động Việt Nam cho nhà thầu.
+
+Trường hợp đến
+ hết thời gian tuyển người lao động nếu không tuyển được người lao động Việt
+ Nam vào các vị trí công việc theo yêu cầu thì Chuyên viên Phòng LĐVLDN tham mưu
+ Lãnh đạo Sở Tờ trình kèm công văn chấp thuận trình UBND tỉnh.
+
+Chuyên viên
+ Phòng LĐ-VL-DN hoàn thiện và trả kết quả về Bộ phận một cửa của Sở
+ LĐ-TB&XH tại TTHCC tỉnh.
+
+27 ngày làm việc
+
+Bước 7
+
+Lãnh đạo Phòng LĐ-VL-DN
+
+Lãnh đạo Phòng
+ LĐ-VL-DN thẩm tra, xem xét, điều chỉnh trình Lãnh đạo Sở ký duyệt
+
+Trường hợp cần
+ điều chỉnh, sửa đổi, bổ sung dự thảo kết quả giải quyết, chuyển ngược về
+ chuyên viên xử lý.
+
+04 giờ làm việc
+
+Bước 8
+
+Lãnh đạo Sở LĐ-TB&XH
+
+Lãnh đạo Sở
+ LĐ-TB&XH ký phê duyệt kết quả TTHC, chuyển chuyên viên xử lý để hoàn thiện
+ hồ sơ đồng thời tích chọn duyệt hồ sơ trên phần mềm điện tử.
+
+Trường hợp cần
+ điều chỉnh, sửa đổi, bổ sung dự thảo kết quả giải quyết, chuyển ngược về
+
+chuyên viên xử
+ lý.
+
+04 giờ làm việc
+
+Bước 9
+
+Chuyên viên Phòng LĐ-VL-DN
+
+Chuyên viên
+ Phòng LĐ-VL-DN hoàn thiện và trả kết quả về Bộ phận một cửa của Sở
+ LĐ-TB&XH tại TTHCC tỉnh.
+
+04 giờ làm việc
+
+Bước 10
+
+Cán bộ Bộ phận một cửa của Sở LĐ-TB&XH tại TTHCC tỉnh
+
+Cán bộ Bộ phận
+ một cửa của Sở LĐ-TB&XH tại TTHCC tỉnh chuyển hồ sơ, kết quả liên thông
+ cho Văn phòng UBND tỉnh.
+
+04 giờ làm việc
+
+Bước 11
+
+Cán bộ Bộ phận một cửa Văn phòng UBND tỉnh tại TTHCC tỉnh
+
+Cán bộ Bộ phận
+ một cửa của Văn phòng UBND tỉnh tại TTHCC tỉnh chuyển hồ sơ, kết quả liên
+ thông cho chuyên viên Văn phòng UBND tỉnh.
+
+04 giờ làm việc
+
+Bước 12
+
+Chuyên viên Văn phòng UBND tỉnh
+
+Chuyên viên phụ
+ trách lĩnh vực của Văn phòng UBND tỉnh kiểm tra, xử lý hồ sơ, trình Lãnh đạo
+ Văn phòng UBND tỉnh và Lãnh đạo UBND tỉnh phê duyệt.
+
+Trường hợp cần
+ điều chỉnh, sửa đổi, bổ sung dự thảo kết quả giải quyết, chuyển ngược về Bộ
+ phận một cửa của Văn phòng UBND tỉnh để chuyển cho Bộ phận một cửa của Sở LĐ-
+ TB&XH chuyển Chuyên viên Phòng LĐ-VL-DN (chuyên viên xử lý).
+
+8,5 ngày làm việc
+
+Bước 13
+
+Cán bộ Bộ phận một cửa Văn phòng UBND tỉnh tại TTHCC tỉnh
+
+Cán bộ Bộ phận
+ một cửa của Văn phòng UBND tỉnh tại TTHCC tỉnh chuyển hồ sơ, kết quả liên
+ thông cho Bộ phận một cửa của Sở LĐ-TB&XH tại TTHCC tỉnh.
+
+04 giờ làm việc
+
+Bước 14
+
+Cán Bộ phận một cửa của Sở LĐ - TB&XH tại TTHCC tỉnh
+
+Cán bộ Bộ phận
+ một cửa của Sở LĐ-TB&XH tại TTHCC tỉnh:
+
+- Xác nhận trên
+ phần mềm một cửa và kết quả TTHC đã có tại Bộ phận một cửa; thông báo cho tổ
+ chức, cá nhân theo hình thức đăng ký.
+
+- Chuyển hồ sơ,
+ kết quả liên thông cho Phòng LĐ-VL-DN, Sở LĐ-TB&XH để lưu hồ sơ, theo
+ dõi.
+
+02 giờ làm việc
+
+Nhận kết quả
+
+Người nộp hồ sơ
+
+- Xuất trình đối
+ chiếu hoặc nộp bản giấy các hồ sơ, văn bản điện tử có yêu cầu xác thực bằng
+ chữ ký số nhưng chưa được ký số khi đến nhận kết quả hoặc gửi qua dịch vụ bưu
+ chính công ích.
+
+- Nhận kết quả
+ TTHC theo hình thức đã đăng ký: Trực tiếp/hoặc qua dịch vụ bưu chính công
+ ích. Đồng thời nhận kết quả TTHC bản điện tử tại Kho quản lý dữ liệu điện tử
+ của tổ chức, cá nhân trên Cổng dịch vụ công.
+
+Không tính vào thời gian giải quyết
+
+Tổng thời gian giải quyết TTHC
+
+60 ngày (43 ngày làm việc)
+
+ 
+
+Mẫu số 04/PLI
+
+TÊN
+ NHÀ THẦU
+
+ -------
+
+CỘNG
+ HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+ Độc lập - Tự do - Hạnh phúc 
+
+ ---------------
+
+Số:
+ ……………. 
+
+V/v đề nghị tuyển người lao động Việt Nam vào
+ các vị trí công việc dự kiến tuyển người lao động nước ngoài
+
+ ..………,
+ ngày …. tháng …. năm …….
+
+ 
+
+Kính gửi: Chủ tịch Ủy ban nhân dân tỉnh/thành phố...
+
+Thông tin về nhà
+thầu gồm: tên nhà thầu, địa chỉ đăng ký tại nước hoặc vùng lãnh thổ nơi nhà thầu
+mang quốc tịch, số điện thoại, fax, email, website, giấy phép thầu, địa chỉ chi
+nhánh, văn phòng đại diện hoặc văn phòng điều hành tại Việt Nam, giấy phép thầu,
+thời gian thực hiện gói thầu.
+
+Để thực hiện gói
+thầu ……………………….., nhà thầu đề nghị tuyển người lao động Việt Nam vào các vị trí
+công việc dự kiến tuyển người lao động nước ngoài như sau:
+
+(Nêu cụ thể từng
+vị trí công việc (nhà quản lý/giám đốc điều hành/chuyên gia/lao động kỹ thuật),
+chức danh công việc, số lượng (người), trình độ chuyên môn, kinh nghiệm, mức
+lương, địa điểm, thời hạn làm việc từ (ngày/tháng/năm) đến (ngày/tháng/năm).
+
+Đề nghị Chủ tịch Ủy
+ban nhân dân tỉnh/thành phố……………………………. chỉ đạo các cơ quan, tổ chức có liên
+quan giới thiệu, cung ứng người lao động Việt Nam cho theo các vị trí công việc
+nêu trên. Trân trọng cảm ơn!
+
+ 
+
+ Nơi nhận:
+
+- Như trên;
+
+ - Lưu: ………..
+
+ĐẠI
+ DIỆN NHÀ THẦU
+
+(Ký và ghi rõ họ tên, đóng dấu)
+
+ 
+
+Mẫu số 05/PLI
+
+TÊN
+ NHÀ THẦU
+
+ -------
+
+CỘNG
+ HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+ Độc lập - Tự do - Hạnh phúc 
+
+ ---------------
+
+Số:
+ …………….
+
+V/v điều chỉnh, bổ sung nhu cầu sử dụng người
+ lao động nước ngoài
+
+..………,
+ ngày …. tháng …. năm …….
+
+ 
+
+Kính gửi: Chủ tịch Ủy ban nhân dân tỉnh/thành phố...
+
+Căn cứ văn bản đề
+nghị số …………………….. (ngày/tháng/năm), văn bản số ……………….. (ngày/tháng/năm) của
+Chủ tịch Ủy ban nhân dân tỉnh/thành phố về việc được tuyển người lao động nước
+ngoài vào các vị trí không tuyển được người lao động Việt Nam (nếu có) và nhu cầu
+thực tế của nhà thầu.
+
+(Thông tin về nhà
+thầu gồm: địa chỉ đăng ký tại nước hoặc vùng lãnh thổ nơi nhà thầu mang quốc tịch,
+số điện thoại, fax, email, website, giấy phép thầu, địa chỉ chi nhánh, văn
+phòng đại diện hoặc văn phòng điều hành tại Việt Nam, giấy phép thầu, thời gian
+thực hiện gói thầu).
+
+(Tên nhà thầu) đề
+nghị điều chỉnh, bổ sung nhu cầu sử dụng người lao động nước ngoài như sau:
+
+1. Vị trí công việc
+(nhà quản lý/giám đốc điều hành/chuyên gia/lao động kỹ thuật), số lượng (người),
+chức danh công việc, thời hạn làm việc từ (ngày/tháng/năm) đến
+(ngày/tháng/năm), địa điểm làm việc đã được chấp thuận:.
+
+2. Vị trí công việc
+(nhà quản lý/giám đốc điều hành/chuyên gia/lao động kỹ thuật), số lượng (người),
+chức danh công việc, thời hạn làm việc từ (ngày/tháng/năm) đến (ngày/tháng/năm),
+địa điểm làm việc đã sử dụng (nếu có); lý do vị trí công việc đã được chấp thuận
+nhưng không sử dụng (nếu có):
+
+………………………………………………………………………………….
+
+3. Vị trí công việc
+(nhà quản lý/giám đốc điều hành/chuyên gia/lao động kỹ thuật), số lượng (người),
+chức danh công việc, thời hạn làm việc từ (ngày/tháng/năm) đến
+(ngày/tháng/năm), địa điểm làm việc, lý do sử dụng người lao động nước ngoài
+(có nhu cầu thay đổi, nêu rõ tình hình sử dụng lao động nước ngoài hiện nay (nếu
+có), mô tả vị trí công việc và yêu cầu về trình độ và kinh nghiệm của người nước
+ngoài…..).
+
+Đề nghị Chủ tịch Ủy
+ban nhân dân tỉnh/thành phố ………………………chỉ đạo các cơ quan, tổ chức có liên quan
+giới thiệu, cung ứng người lao động Việt Nam cho ……………. theo các vị trí công việc
+nêu trên.
+
+Trân trọng cảm
+ơn!
+
+ 
+
+ Nơi nhận:
+
+- Như trên;
+
+ - Lưu: ....
+
+XÁC
+ NHẬN CỦA CHỦ ĐẦU TƯ 
+
+ ĐẠI DIỆN NHÀ THẦU
+
+(Ký và ghi rõ họ tên, đóng dấu)--- THÔNG TIN THÊM ---
+Ten: Quyết định 936/QĐ-UBND năm 2022 phê duyệt quy trình thực hiện dịch vụ công trực tuyến mức độ 4 mới, sửa đổi đối với thủ tục hành chính trong lĩnh vực Việc làm thuộc thẩm quyền giải quyết của Ủy ban nhân dân tỉnh và Sở Lao động - Thương binh và Xã hội tỉnh Quảng Bình
+So hieu: 936/QĐ-UBND
+Loai van ban: Quyết định
+Linh vuc nganh: Lao động - Tiền lương, Bộ máy hành chính
+Noi ban hanh: Tỉnh Quảng Bình
+Nguoi ky: Hồ An Phong
+Ngay ban hanh: 12/04/2022
+Ngay hieu luc: 12/04/2022
+Ngay dang: Dữ liệu đang cập nhật
+So cong bao: Dữ liệu đang cập nhật
+Tinh trang: Còn hiệu lực
+
+
+--- MỤC LỤC ---
+- QUYẾT ĐỊNH PHÊ DUYỆT QUY TRÌNH THỰC HIỆN DỊCH VỤ CÔNG TRỰC TUYẾN MỨC ĐỘ 4 MỚI, SỬA ĐỔI ĐỐI VỚI THỦ TỤC HÀNH CHÍNH TRONG LĨNH VỰC VIỆC LÀM THUỘC THẨM QUYỀN GIẢI QUYẾT CỦA ỦY BAN NHÂN DÂN TỈNH VÀ SỞ LAO ĐỘNG - THƯƠNG BINH VÀ XÃ HỘI QUẢNG BÌNH
+  - Điều 1. Phê duyệt kèm theo Quyết định này 01 (một) quy trình thực hiện dịch vụ công trực tuyến mức độ 4 mới, 02 (hai) quy trình thực hiện dịch vụ công trực tuyến mức độ 4 được sửa đổi đối với thủ tục hành chính trong lĩnh vực Việc làm thuộc thẩm quyền giải quyết của Ủy ban nhân dân tỉnh và Sở Lao động - Thương binh và Xã hội tỉnh Quảng Bình.
+  - Điều 2. Trên cơ sở các dịch vụ công trực tuyến đã được phê duyệt, trong thời hạn 03 tháng kể từ ngày Quyết định này có hiệu lực thi hành, Sở Lao động - Thương binh và Xã hội, Sở Thông tin và Truyền thông theo chức năng, nhiệm vụ được giao có trách nhiệm phối hợp tổ chức xây dựng, chạy thử nghiệm, hoàn thiện các dịch vụ công trực tuyến trên Cổng dịch vụ công của tỉnh và tích hợp lên Cổng dịch vụ công Quốc gia; đảm bảo đáp ứng các yêu cầu theo quy định tại Nghị định 61/2018/NĐ-CP, Nghị định số 45/2020/NĐ-CP, Quyết định số 21/2019/QĐ-UBND và các văn bản quy phạm pháp luật có liên quan, trong đó:
+  - Điều 3. Sở Lao động - Thương binh và Xã hội, Văn phòng UBND tỉnh có trách nhiệm:
+  - Điều 4. Quyết định này có hiệu lực thi hành kể từ ngày ký.
+  - Điều 5. Chánh Văn phòng UBND tỉnh, Giám đốc Sở Lao động - Thương binh và Xã hội, Giám đốc Sở Thông tin và Truyền thông, Giám đốc Trung tâm Hành chính công tỉnh và các tổ chức, cá nhân liên quan chịu trách nhiệm thi hành Quyết định này./.
+  - PHỤ LỤC QUY TRÌNH THỰC HIỆN DỊCH VỤ CÔNG TRỰC TUYẾN MỨC ĐỘ 4 MỚI, SỬA ĐỔI ĐỐI VỚI THỦ TỤC HÀNH CHÍNH TRONG LĨNH VỰC VIỆC LÀM THUỘC THẨM QUYỀN GIẢI QUYẾT CỦA UBND TỈNH VÀ SỞ LAO ĐỘNG - THƯƠNG BINH VÀ XÃ HỘI QUẢNG BÌNH
+  - Phần I DANH MỤC DỊCH VỤ CÔNG TRỰC TUYẾN MỨC ĐỘ 4
+  - Phần II
+    - I. QUY TRÌNH THỰC HIỆN DỊCH VỤ CÔNG TRỰC TUYẾN MỨC ĐỘ 4 MỚI
+    - Quy trình số: 01.LĐVLDN-SLĐTB&XH QUY TRÌNH THỰC HIỆN DỊCH VỤ CÔNG TRỰC TUYẾN MỨC ĐỘ 4 ĐỐI VỚI THỦ TỤC ĐỀ NGHỊ TUYỂN NGƯỜI LAO ĐỘNG VIỆT NAM VÀO CÁC VỊ TRÍ CÔNG VIỆC DỰ KIẾN TUYỂN NGƯỜI LAO ĐỘNG NƯỚC NGOÀI CỦA NHÀ THẦU QUY MÔ TUYỂN TRÊN 100 LAO ĐỘNG
+    - II. QUY TRÌNH THỰC HIỆN DỊCH VỤ CÔNG TRỰC TUYẾN MỨC ĐỘ 4 SỬA ĐỔI
+    - Quy trình số: 02.LĐVLDN-SLĐTB&XH QUY TRÌNH THỰC HIỆN DỊCH VỤ CÔNG TRỰC TUYẾN MỨC ĐỘ 4 ĐỐI VỚI THỦ TỤC ĐỀ NGHỊ TUYỂN NGƯỜI LAO ĐỘNG VIỆT NAM VÀO CÁC VỊ TRÍ CÔNG VIỆC DỰ KIẾN TUYỂN NGƯỜI LAO ĐỘNG NƯỚC NGOÀI CỦA NHÀ THẦU QUY MÔ TUYỂN TỪ 100 ĐẾN DƯỚI 500 LAO ĐỘNG
+    - Quy trình số: 03.LĐVLDN-SLĐTB&XH QUY TRÌNH THỰC HIỆN DỊCH VỤ CÔNG TRỰC TUYẾN MỨC ĐỘ 4 ĐỐI VỚI THỦ TỤC ĐỀ NGHỊ TUYỂN NGƯỜI LAO ĐỘNG VIỆT NAM VÀO CÁC VỊ TRÍ CÔNG VIỆC DỰ KIẾN TUYỂN NGƯỜI LAO ĐỘNG NƯỚC NGOÀI CỦA NHÀ THẦU QUY MÔ TUYỂN TRÊN 500 LAO ĐỘNG
+  - Mẫu số 04/PLI V/v đề nghị tuyển người lao động Việt Nam vào   các vị trí công việc dự kiến tuyển người lao động nước ngoài
+  - Mẫu số 05/PLI V/v điều chỉnh, bổ sung nhu cầu sử dụng người   lao động nước ngoài
+
+--- VĂN BẢN LIÊN QUAN ---
+
+Van ban duoc dan chieu:
+  - Nghị định 152/2020/NĐ-CP về người lao động nước ngoài làm việc tại Việt Nam và tuyển dụng, quản lý người ... (ID: 280261)
+
+Van ban duoc can cu:
+  - Nghị định 45/2020/NĐ-CP về thực hiện thủ tục hành chính trên môi trường điện tử (ID: 426372)
+  - Luật Tổ chức chính phủ và Luật Tổ chức chính quyền địa phương sửa đổi 2019 (ID: 411945)
+  - Quyết định 21/2019/QĐ-UBND về Quy chế xây dựng và quản lý, vận hành, khai thác, sử dụng Cổng dịch vụ công ... (ID: 419484)
+  - Thông tư 01/2018/TT-VPCP hướng dẫn Nghị định 61/2018/NĐ-CP về thực hiện cơ chế một cửa, một cửa liên thông ... (ID: 400735)
+  - Nghị định 61/2018/NĐ-CP về thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính (ID: 357427)
+  - Luật tổ chức chính quyền địa phương 2015 (ID: 282380)
+
+Van ban lien quan cung noi dung:
+  - Quyết định 1830/QĐ-UBND năm 2023 phê duyệt quy trình thực hiện dịch vụ công trực tuyến mới, sửa đổi trong lĩnh vực Việc làm và Quản lý lao động ngoài nước thuộc thẩm quyền giải quyết của Ủy ban nhân dân tỉnh, Sở Lao động - Thương binh và Xã hội tỉnh Quảng Bình (ID: 572596)
+  - Quyết định 1217/QĐ-UBND năm 2023 phê duyệt quy trình thực hiện dịch vụ công trực tuyến trong lĩnh vực Việc làm thuộc thẩm quyền giải quyết của Ban Quản lý Khu kinh tế tỉnh Quảng Bình (ID: 567302)
+  - Quyết định 716/QĐ-UBND năm 2023 phê duyệt quy trình thực hiện dịch vụ công trực tuyến mới, sửa đổi trong lĩnh vực Lao động thuộc thẩm quyền giải quyết của Sở Lao động - Thương binh và Xã hội tỉnh Quảng Bình (ID: 563520)
+  - Quyết định 4264/QĐ-UBND năm 2022 phê duyệt quy trình nội bộ về giải quyết thủ tục hành chính thuộc phạm vi chức năng quản lý của Sở Lao động - Thương binh và Xã hội Thành phố Hồ Chí Minh (ID: 545562)
+  - Quyết định 2663/QĐ-UBND năm 2022 phê duyệt quy trình nội bộ giải quyết thủ tục hành chính liên thông trong lĩnh vực Việc làm thuộc phạm vi chức năng quản lý của Sở Lao động - Thương binh và Xã hội tỉnh Bình Định (ID: 527533)
+  - Quyết định 2117/QĐ-UBND năm 2022 phê duyệt Quy trình nội bộ liên thông trong giải quyết các thủ tục hành chính mới ban hành lĩnh vực việc làm thuộc thẩm quyền giải quyết của Ủy ban nhân dân cấp huyện; Bảo hiểm xã hội cấp huyện; Bảo hiểm xã hội tỉnh; Sở Lao động - Thương binh và Xã hội và Ủy ban nhân dân tỉnh Bà Rịa - Vũng Tàu (ID: 527265)
+  - Quyết định 1618/QĐ-UBND năm 2022 phê duyệt quy trình nội bộ giải quyết thủ tục hành chính liên thông trong lĩnh vực việc làm thuộc phạm vi chức năng quản lý của Sở Lao động - Thương binh và Xã hội tỉnh Bình Định (ID: 523114)
+  - Quyết định 528/QĐ-UBND năm 2022 phê duyệt Quy trình nội bộ giải quyết thủ tục hành chính lĩnh vực việc làm thuộc thẩm quyền giải quyết của Ủy ban nhân dân tỉnh Khánh Hòa (ID: 508371)
+  - Quyết định 5060/QĐ-UBND năm 2021 phê duyệt quy trình nội bộ giải quyết thủ tục hành chính liên thông trong lĩnh vực Việc làm, Tổ chức cán bộ thuộc phạm vi chức năng quản lý của Sở Lao động - Thương binh và Xã hội tỉnh Bình Định (ID: 502973)
+  - Quyết định 4953/QĐ-UBND năm 2021 phê duyệt quy trình nội bộ giải quyết thủ tục hành chính liên thông trong lĩnh vực Việc làm, Lao động - tiền lương thuộc phạm vi chức năng quản lý của Sở Lao động - Thương binh và Xã hội tỉnh Bình Định (ID: 502969)

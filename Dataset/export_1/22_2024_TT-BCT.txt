@@ -1,0 +1,1291 @@
+BỘ CÔNG THƯƠNG 
+
+ -------
+
+CỘNG HÒA XÃ HỘI
+ CHỦ NGHĨA VIỆT NAM
+
+ Độc lập - Tự do - Hạnh phúc 
+
+ ---------------
+
+Số: 22/2024/TT-BCT
+
+Hà Nội, ngày 07
+ tháng 11 năm 2024 
+
+ 
+
+THÔNG TƯ
+
+BAN
+HÀNH QUY TRÌNH KIỂM ĐỊNH KỸ THUẬT AN TOÀN LAO ĐỘNG CHAI LPG COMPOSITE
+
+Căn cứ Luật An
+toàn, vệ sinh lao động ngày 25 tháng 6 năm 2015;
+
+Căn cứ Nghị định số 44/2016/NĐ-CP ngày 15 tháng 5 năm 2016 của
+Chính phủ quy định chi tiết một số điều của Luật
+An toàn, vệ sinh lao động về hoạt động kiểm định kỹ thuật an toàn lao động,
+huấn luyện an toàn, vệ sinh lao động và quan trắc môi trường lao động;
+
+Căn cứ Nghị định số 96/2022/NĐ-CP
+ngày 29 tháng 11 năm 2022 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn
+và cơ cấu tổ chức của Bộ Công Thương và Nghị định số 105/2024/NĐ-CP ngày 01 tháng 8 năm 2024 của
+Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 96/2022/NĐ-CP ngày 29 tháng 11 năm 2022 của
+Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Công
+Thương và Nghị định số 26/2018/NĐ-CP ngày 28
+tháng 02 năm 2018 của Chính phủ về Điều lệ tổ chức và hoạt động của Tập đoàn Điện
+lực Việt Nam;
+
+Theo đề nghị của Cục trưởng Cục Kỹ thuật an toàn
+và Môi trường công nghiệp,
+
+Bộ trưởng Bộ Công Thương ban hành Thông tư ban
+hành quy trình kiểm định kỹ thuật an toàn lao động chai LPG composite.
+
+Điều 1. Ban hành kèm theo Thông tư này quy trình kiểm định kỹ thuật
+an toàn lao động chai LPG composite, ký hiệu QTKĐ: 19-2024/BCT.
+
+Điều 2. Hiệu lực thi hành
+
+1. Thông tư này có hiệu lực thi hành kể từ ngày 15
+tháng 01 năm 2025.
+
+2. Chai LPG composite đã được kiểm định trước ngày
+Thông tư này có hiệu lực tiếp tục có hiệu lực đến hết thời hạn ghi trên Giấy chứng
+nhận kết quả kiểm định.
+
+Điều 3. Tổ chức thực hiện
+
+1. Cục Kỹ thuật an toàn và Môi trường công nghiệp
+có trách nhiệm hướng dẫn, tổ chức thực hiện Thông tư này.
+
+2. Trong quá trình thực hiện, nếu có vấn đề phát
+sinh hoặc vướng mắc, các tổ chức, cá nhân phản ánh về Bộ Công Thương để kịp thời
+xem xét, giải quyết./.
+
+ 
+
+ Nơi nhận:
+
+- Văn phòng Tổng bí thư;
+
+ - Văn phòng Quốc hội;
+
+ - Các Ủy ban Quốc hội;
+
+ - Văn phòng Chủ tịch nước;
+
+ - Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam;
+
+ - Thủ tướng và các Phó Thủ tướng Chính phủ;
+
+ - Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ;
+
+ - Viện KSNDTC; Tòa án NDTC;
+
+ - HĐND, UBND các tỉnh, thành phố trực thuộc TW;
+
+ - Sở Công Thương các tỉnh, thành phố trực thuộc TW;
+
+ - Cục Kiểm tra văn bản QPPL (Bộ Tư pháp);
+
+ - Lãnh đạo Bộ Công Thương;
+
+ - Các đơn vị thuộc Bộ Công Thương;
+
+ - Công báo; Cơ sở dữ liệu quốc gia về VBQPPL;
+
+ - Cổng thông tin điện tử: Chính phủ, Bộ Công Thương;
+
+ - Lưu: VT, ATMT. 
+
+KT. BỘ TRƯỞNG
+
+ THỨ TRƯỞNG
+
+ Trương Thanh Hoài
+
+ 
+
+QUY TRÌNH
+
+KIỂM
+ĐỊNH KỸ THUẬT AN TOÀN LAO ĐỘNG , CHAI LPG COMPOSITE, KÝ HIỆU QTKĐ:19-2024/BCT
+
+(Ban hành kèm theo Thông tư số 22/2024/TT-BCT ngày 07 tháng 11 năm 2024 của
+Bộ trưởng Bộ Công Thương)
+
+Điều 1. Phạm vi điều chỉnh
+
+1. Quy trình kiểm định kỹ thuật an toàn lao động
+chai LPG composite áp dụng để kiểm định kỹ thuật an toàn lần đầu, định kỳ, bất
+thường đối với chai LPG composite (sau đây viết tắt là Quy trình) thuộc thẩm
+quyền quản lý của Bộ Công Thương theo quy định tại Phụ lục Ib Nghị định số 44/2016/NĐ-CP ngày 15 tháng 5 năm 2016 của
+Chính phủ quy định chi tiết một số điều của Luật
+An toàn, vệ sinh lao động về hoạt động kiểm định kỹ thuật an toàn lao động,
+huấn luyện an toàn, vệ sinh lao động và quan trắc môi trường lao động.
+
+2. Quy trình này không áp dụng đối với chai chứa
+LPG mini sử dụng cho bếp gas xách tay, chai thép hàn nạp lại được dùng cho LPG.
+
+Điều 2. Đối tượng áp dụng
+
+1. Các doanh nghiệp, cơ quan, tổ chức, cá nhân sở hữu,
+sử dụng chai LPG composite (sau đây viết chung là cơ sở).
+
+2. Các tổ chức hoạt động kiểm định kỹ thuật an toàn
+lao động (sau đây viết tắt là tổ chức kiểm định) và kiểm định viên được cấp chứng
+chỉ kiểm định nhóm D (chai LPG).
+
+Điều 3. Quy chuẩn, tiêu chuẩn
+áp dụng:
+
+1. Các quy chuẩn, tiêu chuẩn áp dụng:
+
+a) QCVN 16:2022/BCT,
+Quy chuẩn kỹ thuật Quốc gia về an toàn chai LPG composite.
+
+b) TCVN 7389:2013,
+Chai chứa khí - Lắp van vào chai chứa khí.
+
+2. Trường hợp các quy chuẩn kỹ thuật quốc gia và
+tiêu chuẩn quốc gia viện dẫn tại quy trình kiểm định này có bổ sung, sửa đổi hoặc
+thay thế thì áp dụng theo quy định tại văn bản mới nhất.
+
+Điều 4. Hình thức kiểm định và
+thời hạn kiểm định
+
+1. Kiểm định lần đầu: Trước khi đưa vào sử dụng.
+
+2. Kiểm định định kỳ
+
+a) Khi hết thời hạn của lần kiểm định trước.
+
+b) Đối với những chai LPG composite sử dụng dưới 17
+năm (tính từ thời gian kiểm định lần đầu), chu kỳ kiểm định theo quy định của
+nhà sản xuất, nhưng không quá 05 năm kể từ lần kiểm định gần nhất.
+
+c) Đối với chai LPG composite đã sử dụng từ 17 năm
+đến dưới 20 năm (tính từ thời gian kiểm định lần đầu), thời hạn kiểm định lần
+tiếp theo không quá năm sử dụng thứ 22.
+
+d) Đối với chai LPG composite đã sử dụng từ 20 năm,
+thời hạn kiểm định định kỳ không quá 02 năm.
+
+3. Kiểm định bất thường: Khi cơ sở thấy cần thiết
+hoặc cơ quan có thẩm quyền yêu cầu.
+
+Điều 5. Tổ chức thực hiện
+
+1. Đối với cơ sở:
+
+a) Thực hiện kiểm định đúng thời hạn quy định.
+
+b) Cung cấp các hồ sơ, tài liệu kỹ thuật có liên
+quan đến chai LPG composite được kiểm định cho tổ chức kiểm định.
+
+c) Cử người chứng kiến, phối hợp khi tiến hành kiểm
+định.
+
+2. Đối với tổ chức kiểm định
+
+a) Căn cứ vào quy trình này và quy chuẩn kỹ thuật
+quốc gia về an toàn chai LPG composite, các tổ chức kiểm định kỹ thuật an toàn
+lao động xây dựng quy trình kiểm định kỹ thuật an toàn lao động chi tiết chai
+LPG composite nhưng không được trái với quy định của quy trình này và quy chuẩn
+kỹ thuật quốc gia về an toàn chai LPG composite.
+
+b) Chỉ được kiểm định chai LPG composite tại trạm
+kiểm định của tổ chức kiểm định đã được Bộ Công Thương cấp Giấy chứng nhận đủ
+điều kiện kiểm định kỹ thuật an toàn lao động đối với nhóm D (chai LPG).
+
+c) Tiến hành kiểm định phải tuân thủ các tiêu chuẩn,
+quy chuẩn về kỹ thuật an toàn có liên quan.
+
+d) Tiến hành kiểm định phù hợp theo các bước quy định
+của quy trình này để đảm bảo có kết luận chính xác về tình trạng chai LPG
+composite.
+
+đ) Lập biên bản kiểm định và cấp Giấy chứng nhận kết
+quả kiểm định theo quy định.
+
+Điều 6. Thiết bị, dụng cụ phục
+vụ kiểm định
+
+Các thiết bị, dụng cụ phục vụ kiểm định phải được
+kiểm định hoặc hiệu chuẩn theo quy định, bao gồm:
+
+- Thiết bị tháo/lắp van chai.
+
+- Thiết bị thử thủy lực.
+
+- Thiết bị thử kín.
+
+- Thiết bị xử lý gas dư.
+
+- Thiết bị hút chân không.
+
+- Thiết bị kiểm tra van.
+
+- Thiết bị để kiểm tra bên trong chai: Thiết bị nội
+soi.
+
+- Đồng hồ đo áp suất, thời gian.
+
+- Cân khối lượng.
+
+- Thiết bị in số.
+
+- Dụng cụ đo đạc cơ khí: Thước cặp, thước dây.
+
+Điều 7. Điều kiện kiểm định
+
+Khi tiến hành kiểm định phải đảm bảo các điều kiện
+sau đây:
+
+1. Hồ sơ, tài liệu của chai LPG composite phải đầy
+đủ.
+
+2. Các yếu tố môi trường, thời tiết không làm ảnh
+hưởng tới kết quả kiểm định.
+
+3. Các điều kiện về an toàn phải đáp ứng để kiểm định
+chai LPG composite.
+
+Điều 8. Tiến hành kiểm định
+
+1. Công tác chuẩn bị trước khi tiến hành kiểm định
+
+Khi tiến hành kiểm định phải thực hiện các công việc
+chuẩn bị sau:
+
+a) Thống nhất kế hoạch kiểm định, công việc chuẩn bị
+và phối hợp giữa tổ chức kiểm định với cơ sở, bao gồm cả những nội dung sau:
+
+- Chuẩn bị hồ sơ, tài liệu của chai.
+
+- Xác định các chai cần kiểm định
+
++ Kiểm định lần đầu: Chọn lựa mẫu ngẫu nhiên 5%
+trong lô chai kiểm định. Nếu trong số chai kiểm định phát hiện một chai không đạt
+yêu cầu thì phải tiến hành kiểm định 100% số chai trong lô.
+
++ Kiểm định định kỳ, kiểm định bất thường: 100% số
+chai.
+
+b) Lập biên bản giao nhận (bao gồm danh sách giao
+nhận chai theo mẫu tại Phụ lục 04), chuẩn bị điều
+kiện về nhân lực, phương tiện để vận chuyển tập kết về nơi tiến hành kiểm định.
+
+c) Kiểm tra và xử lý sơ bộ:
+
+- Kiểm tra thông số kỹ thuật ghi trên tay xách hay
+cổ chai, đối chiếu số liệu kỹ thuật trong danh sách những chai cần kiểm định.
+Loại bỏ các chai không thuộc danh sách kiểm định và những chai mất hoặc mờ các
+thông số hoặc các chai đã hết thời hạn sử dụng (trường hợp nhà chế tạo quy định
+thời hạn sử dụng).
+
+- Kiểm tra bằng mắt tình hạng bên ngoài của từng
+chai để loại bỏ các chai có hiện tượng bất thường tại các bộ phận chịu áp lực
+như: Xước theo rãnh sâu, móp, bong, rộp, vét cháy, v.v... theo quy định tại Phụ lục A QCVN 16:2022/BCT.
+
+- Tiến hành xử lý khí dư trong chai bằng cách xả,
+hút khí bằng thiết bị chuyên dụng, áp suất trong chai không lớn hơn - 0,2 bar.
+Sau đó khí có thể được thu hồi sử dụng hoặc có các biện pháp xử lý an toàn,
+không được xả trực tiếp ra môi trường.
+
+- Tháo van đầu chai bằng dụng cụ và thiết bị chuyên
+dụng.
+
+Lưu ý: Phải sử dụng dụng cụ giữ miếng đệm cổ chai
+(boss) nhằm tránh xoay gây hỏng khi tháo van đầu chai.
+
+- Làm sạch bề mặt bên ngoài chai.
+
+2. Kiểm tra hồ sơ, lý lịch lô chai
+
+Căn cứ vào các hình thức kiểm định để kiểm tra, xem
+xét các hồ sơ sau:
+
+a) Trường hợp kiểm định lần đầu:
+
+- Kiểm tra hồ sơ chai theo quy định tại Mục 11.3.1 QCVN 16:2022/BCT.
+
++ Giấy chứng nhận của nhà sản xuất.
+
++ Hồ sơ vật liệu.
+
++ Các biên bản kiểm tra thử nghiệm kèm theo.
+
++ Giấy chứng nhận hợp quy do tổ chức chứng nhận được
+chỉ định cấp (không yêu cầu đối với các chai được chế tạo trước ngày có hiệu lực
+của QCVN 16:2022/BCT).
+
++ Tính toán sức bền các bộ phận chịu áp lực.
+
++ Bản vẽ cấu tạo ghi đầy đủ kích thước chính.
+
++ Tên và địa chỉ khách hàng sở hữu lô chai.
+
+b) Trường hợp kiểm định định kỳ
+
+Kiểm tra lý lịch lô chai, biên bản kiểm định và Giấy
+chứng nhận kết quả kiểm định lần trước hoặc thông tin, tài liệu về chai.
+
+c) Trường hợp kiểm định bất thường
+
+- Kiểm tra lý lịch lô chai, biên bản kiểm định và
+Giấy chứng nhận kết quả kiểm định lần trước hoặc thông tin, tài liệu về chai.
+
+- Kiểm tra lý do kiểm định bất thường.
+
+3. Kiểm tra bên ngoài, bên trong
+
+Kiểm tra bên ngoài, bên trong theo trình tự các bước
+sau:
+
+- Kiểm tra tình trạng bề mặt lớp vỏ composite của
+chai, cổ ren, vỏ nhựa.
+
+- Kiểm tra bên trong chai bằng thiết bị soi chuyên
+dụng để đánh giá tình trạng bề mặt bên trong chai.
+
+- Loại bỏ các chai không đạt yêu cầu khi thấy các vết
+cắt, lỗ thủng, trầy xước, chỗ phình, vết nứt, tách lớp, vết cháy, vết hư hỏng
+do hóa chất.
+
+Tiêu chí chấp thuận hay loại bỏ chai tại Phụ lục A của QCVN 16: 2022/BCT.
+
+4. Kiểm tra van đầu chai:
+
+- Kiểm tra khả năng mở bộ phận an toàn của van đầu
+chai tại áp suất được ghi trên van.
+
+- Kiểm tra độ kín của van đầu chai bằng không khí
+nén hoặc khí trơ tại áp suất thử theo quy định của nhà chế tạo nhưng không nhỏ
+hơn áp suất hơi bão hòa của propan ở điều kiện nhiệt độ cao nhất được phép làm
+việc của chai mà nhà sản xuất chai quy định.
+
+- Loại bỏ van bị kẹt, hỏng bộ phận an toàn, có dấu
+hiệu bị nứt, ren bị hỏng hoặc các van không đạt khi thử kín.
+
+5. Thử thủy lực
+
+a) Có thể thực hiện việc thử bền với từng chai hoặc
+một nhóm chai tùy theo thiết kế của hệ thống thử thủy lực.
+
+b) Môi chất thử: Nước.
+
+c) Áp suất thử bằng áp suất thử ghi nhãn trên chai,
+nhưng không nhỏ hơn 30 bar.
+
+d) Thời gian duy trì tại áp suất thử: Tối thiểu là
+30 s. 
+
+đ) Trình tự tiến hành thử thủy lực
+
+- Nạp đầy nước vào chai.
+
+- Nâng dần áp suất đến áp suất thử tại điểm c khoản
+5 Điều 8. Duy trì ở áp suất thử trong thời gian tối thiểu quy định tại điểm d
+khoản 5 Điều 8 và tiến hành kiểm tra tình trạng kỹ thuật trên toàn bộ bề mặt
+chai để xác định các vị trí bị biến dạng, vết nứt, rò rỉ. Sau đó giảm từ từ áp
+suất xuống và xả hết nước ra khỏi chai. 
+
+Đánh giá kết quả: Chai thử thủy lực đạt yêu cầu khi
+áp suất không giảm khi duy trì ở áp suất thử, không có sự rò rỉ hoặc biến dạng
+nào trên thân chai.
+
++ Loại bỏ những chai có hiện tượng rò rỉ, biến dạng
+khi áp suất trong chai được giữ ở áp suất thử. 
+
++ Tháo và làm sạch môi chất thử và làm khô bên
+trong chai. 
+
++ Lắp van đã qua kiểm tra vào những chai có kết quả
+kiểm tra đạt yêu cầu. Momen xoắn lắp van phù hợp với quy định tại Phụ lục A TCVN
+7389:2013.
+
+Phải sử dụng dụng cụ giữ miếng đệm cổ chai (boss)
+nhằm tránh xoay gây hỏng khi vặn van đầu chai.
+
+6. Thử kín
+
+a) Có thể thực hiện việc thử kín với từng chai hoặc
+một nhóm chai tùy theo thiết kế của hệ thống thử kín.
+
+b) Môi chất thử: Khí nén hoặc khí trơ.
+
+c) Áp suất thử: Bằng áp suất thử ghi trên chai hoặc
+theo yêu cầu của nhà chế tạo và không thấp hơn quy định tại điểm d, Mục 11.3.3 QCVN 16:2022/BCT.
+
+d) Thời gian duy trì áp suất thử: Đảm bảo đủ thời
+gian kiểm tra, tối thiểu là 7 s.
+
+đ) Trình tự tiến hành thử kín:
+
+- Nạp khí nén hoặc khí trơ vào chai đến áp suất thử
+quy định tại điểm c khoản 6 Điều 8 và giữ ở áp suất thử với thời gian tối thiểu
+quy định tại điểm d khoản 6 Điều 8.
+
+- Kiểm tra độ kín của các đầu nối, mối ghép van của
+chai bằng cách nhúng toàn bộ chai vào trong bể chứa nước. Các chai có rò rỉ phải
+đưa ra xử lý và thử lại.
+
+Đánh giá kết quả: Chai thử kín đạt yêu cầu khi đảm
+bảo độ kín, không có hiện tượng rò rỉ ở bất cứ điểm nào trên toàn bộ bề mặt
+chai, van chai và mối ghép giữa van với cổ chai.
+
+Lưu ý: Thời gian duy trì tại áp suất thử không kể
+thời gian cho khí có sẵn trong lớp bọc vỏ ngoài thoát ra (nếu có). Ánh sáng tại
+khu vực kiểm tra phải đủ sáng cho mắt thường quan sát. Bể nước dùng để dìm chai
+phải được vệ sinh và thay thế thường xuyên đảm bảo độ trong cần thiết để quan
+sát được những bọt khí nổi lên. Khi dìm chai xong phải để mặt nước tĩnh lặng mới
+thực hiện quá trình kiểm tra.
+
+7. Xả khí và hút chân không
+
+- Chai thử đạt yêu cầu, tiến hành xả hết khí, làm
+khô bên ngoài chai; hút chân không.
+
+- Áp suất trong chai sau khi hút chân không đạt đến
+giá trị không lớn hơn - 0,2 bar.
+
+8. Kiểm tra khối lượng chai
+
+Trường hợp khối lượng cân thực tế sai khác từ 0,2
+kg trở lên so với khối lượng đã được in/đóng số trên chai thì phải in/ dán khối
+lượng chai theo khoản 9 Điều này.
+
+9. Xử lý kết quả kiểm định
+
+a) Đánh giá kết quả kiểm định.
+
+Các chai đạt yêu cầu không có các biểu hiện làm giảm
+khả năng làm việc và trong quá trình thử không phát sinh các hiện tượng bất thường.
+
+b) Ký hiệu kiểm định in/dán trên thân chai đáp ứng
+quy định tại Mục 9.3 QCVN 16.2022/BCT.
+
+- Các chai đạt yêu cầu kiểm định được in/dán ký hiệu
+kiểm định.
+
+Trường hợp kiểm định lần đầu cho loạt chai, nếu loạt
+chai đạt yêu cầu kiểm định, phải dán ký hiệu kiểm định cho 100% số chai của loạt.
+
+- Ký hiệu kiểm định gồm cơ quan kiểm định, thời
+gian kiểm định và thời gian tái kiểm định : [1] - [2] - [3] - [4] trên cùng một
+hàng, trường hợp chiều dài đóng bị hạn chế thì có thể tách [1] riêng một hàng.
+
+[1]: Lô gô hoặc ký hiệu đơn vị kiểm định.
+
+[2] : Tháng, năm kiểm định (hai số cuối).
+
+[3] : Năm kiểm định tiếp theo (hai số cuối).
+
+[4] : Khối lượng chai (nếu khối lượng thay đổi từ
+0,2 kg trở lên).
+
+Chiều cao chữ, số tối thiểu 4 mm. Thời hạn tái kiểm
+định theo quy định tại khoản 2 Điều 4 của Quy trình này.
+
+c) Lập biên bản kiểm định, danh sách chai và lô
+chai với đầy đủ nội dung theo mẫu quy định tại Phụ lục
+02, Phụ lục 03 của Quy trình này.
+
+d) Cấp Giấy chứng nhận kết quả kiểm định, biên bản
+kiểm định cho cơ sở.
+
+Lưu ý: Các bước kiểm tra tiếp theo chỉ được tiến
+hành khi kết quả kiểm tra ở bước trước đó đã đạt yêu cầu.
+
+Hồ sơ kết quả kiểm định phải được lưu giữ tại tổ chức
+kiểm định và tổ chức, cá nhân sở hữu/quản lý chai. Các báo cáo kiểm tra và các
+số liệu thử nghiệm cho các chai trong thời gian ít nhất là tới ngày kiểm định lại
+cộng với 02 năm.
+
+Các chai không đạt yêu cầu khi kiểm định phải loại
+bỏ theo quy định tại Mục 12 QCVN 16:2022/BCT.
+Hồ sơ lưu trữ các chai đã loại bỏ phải được lưu tại tổ chức kiểm định và tổ chức,
+cá nhân sở hữu/quản lý chai LPG composite bao gồm các thông tin tối thiểu sau:
+Loại chai, chủ sở hữu, số sêri chai, năm sản xuất, nhà sản xuất, lý do loại bỏ
+chai.
+
+ 
+
+PHỤ LỤC 01
+
+BẢN GHI CHÉP TẠI HIỆN TRƯỜNG
+
+(Cơ quan quản lý cấp
+ trên) 
+
+(Tên tổ chức KĐ)
+
+ -------
+
+CỘNG HÒA XÃ HỘI
+ CHỦ NGHĨA VIỆT NAM
+
+ Độc lập - Tự do - Hạnh phúc 
+
+ ---------------
+
+ 
+
+….,
+ ngày….tháng….năm 20... 
+
+ 
+
+BẢN GHI CHÉP TẠI
+HIỆN TRƯỜNG 
+
+KIỂM ĐỊNH KỸ THUẬT AN TOÀN LAO ĐỘNG CHAI LPG COMPOSITE
+
+(Ghi đầy đủ thông
+số kiểm tra, thử nghiệm theo đúng quy trình kiểm định)
+
+ 
+
+Số:
+
+……………………………
+
+ 
+
+Hình thức kiểm định: Lần đầu □ ; Định kỳ □ ; Bất
+thường □
+
+Đơn vị sở hữu/ sử dụng:
+……………………………………………………………………………
+
+Số chế tạo lô chai:
+……………………………………………………………………………………
+
+Tháng năm sản xuất: …………………………………………………………………………………
+
+Loại chai: Ghi theo dung tích chai (Lít) 
+
+Áp suất thử thủy lực :…………….. bar
+
+ 
+
+Áp suất thử kín :…………………... bar
+
+Người khám xét bên trong, bên ngoài
+
+Chữ ký 
+
+Người thử kín 
+
+Chữ ký
+
+Người thử thủy lực 
+
+Chữ ký 
+
+Người cân khối lượng
+
+Chữ ký
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Stt
+
+Mã hiệu
+
+Số chế tạo
+
+Tháng năm chế tạo
+
+Nhà chế tạo
+
+Thời gian kiểm định
+ lần trước
+
+Khối lượng bì chai
+ (kg)
+
+Kết quả kiểm định
+
+Trên chai
+
+Thực tế
+
+Đạt
+
+Không đạt (ghi rõ
+ lý do)
+
+1
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+…
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+KIỂM ĐỊNH VIÊN
+
+(Ký, ghi rõ họ và tên)
+
+ 
+
+PHỤ LỤC 02
+
+MẪU BIÊN BẢN KIỂM ĐỊNH KỸ THUẬT AN TOÀN LAO ĐỘNG CHAI
+LPG COMPOSITE
+
+(Cơ quan quản lý cấp
+ trên) 
+
+(Tên tổ chức KĐ)
+
+ -------
+
+CỘNG HÒA XÃ HỘI
+ CHỦ NGHĨA VIỆT NAM
+
+ Độc lập - Tự do - Hạnh phúc 
+
+ ---------------
+
+ 
+
+….,
+ ngày….tháng….năm 20... 
+
+ 
+
+BIÊN BẢN KIỂM ĐỊNH
+KỸ THUẬT AN TOÀN LAO ĐỘNG CHAI LPG COMPOSITE
+
+ 
+
+Số:
+
+……………………………
+
+ 
+
+Chúng tôi gồm:
+
+1. ……………………………………………….. Số hiệu kiểm định
+viên:………………………
+
+2. ……………………………………………….. Số hiệu kiểm định
+viên:………………………
+
+Thuộc: ………………………………………………………………………………………………
+
+Số Giấy chứng nhận đủ điều kiện của tổ chức kiểm định:
+……………………………………
+
+Đã tiến hành kiểm định:
+……………………………………………………………………………
+
+Đơn vị sở hữu/ sử dụng:
+……………………………………………………………………………
+
+Địa chỉ (trụ sở chính): ………………………………………………………………………………
+
+Địa điểm kiểm định: …………………………………………………………………………………
+
+Quy trình kiểm định áp dụng:
+………………………………………………………………………
+
+Chứng kiến kiểm định và thông qua biên bản:
+
+1. ……………………………………………………………………… Chức vụ:……………………
+
+2. ……………………………………………………………………… Chức vụ:……………………
+
+I. THÔNG SỐ CƠ BẢN
+CỦA CHAI
+
+Tên và địa chỉ nhà chế tạo:…………………………………………………………………………
+
+Tháng, năm chế tạo:
+………………………………………………………………………………..
+
+Số chế tạo lô chai:
+…………………………………………………………………………………..
+
+Số lượng và danh sách chai mẫu kiểm định: …………………………………………………….
+
+Tên thương hiệu trên chai:
+…………………………………………………………………………
+
+Áp suất thiết kế :……………………… bar Áp suất
+làm việc:……………………………… bar
+
+Dung tích :………………………………. lít Khối lượng
+bì chai:…………………………….. kg
+
+Công dụng: ……………………………………………………………………………………………
+
+Thời gian thực hiện kiểm định lần trước:
+………………………………………………………….
+
+II. HÌNH THỨC KIỂM
+ĐỊNH
+
+Lần đầu □ ;
+ Định kỳ □ ;
+ Bất thường
+□
+
+III. NỘI DUNG KIỂM
+ĐỊNH
+
+1. Kiểm tra hồ sơ, lý lịch :
+
+Hạng mục kiểm
+ tra
+
+Đạt
+
+Không đạt
+
+Hạng mục kiểm
+ tra
+
+Đạt
+
+Không đạt
+
+Danh sách lô chai
+
+ 
+
+ 
+
+Giấy chứng nhận của nhà sản xuất kèm theo Danh
+ sách lô chai
+
+ 
+
+ 
+
+Biên bản kiểm định và Giấy chứng nhận kết quả kiểm
+ định lần trước
+
+ 
+
+ 
+
+Tính toán sức bền các bộ phận chịu áp lực
+
+ 
+
+ 
+
+Các biên bản kiểm tra thử nghiệm
+
+ 
+
+ 
+
+Bản vẽ cấu tạo ghi đầy đủ kích thước chính
+
+ 
+
+ 
+
+Hồ sơ vật liệu
+
+ 
+
+ 
+
+Giấy chứng nhận hợp quy
+
+ 
+
+ 
+
+Các hồ sơ khác
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+- Nhận xét: …………………………………………………………………………………………
+
+- Đánh giá kết quả:
+ Đạt □
+ Không
+đạt □
+
+2. Kiểm tra kỹ thuật bên ngoài, bên trong :
+
+Hạng mục kiểm tra
+
+Đạt
+
+Không
+
+Hạng mục kiểm tra
+
+Đạt
+
+Không
+
+Thông số kỹ thuật ghi trên tay xách hoặc cổ chai
+
+ 
+
+ 
+
+Tình trạng bề mặt bên ngoài
+
+ 
+
+ 
+
+Van chai
+
+ 
+
+ 
+
+Tình trạng bề mặt bên trong
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+- Nhận xét: …………………………………………………………………………………………
+
+- Đánh giá kết quả:
+ Đạt □
+ Không
+đạt □
+
+3. Thử nghiệm:
+
+Nội dung
+
+Môi chất thử
+
+Áp suất thử (bar)
+
+Thời gian duy trì
+ (phút)
+
+Thử thủy lực
+
+ 
+
+ 
+
+ 
+
+Thử kín
+
+ 
+
+ 
+
+ 
+
+- Nhận xét: ………………………………………………………………………………………… 
+
+- Đánh giá kết quả:
+ Đạt
+□
+ Không
+đạt □
+
+IV. KẾT LUẬN VÀ
+KIẾN NGHỊ
+
+1. Lô (Số lượng chai) được kiểm định có kết
+quả: Đạt □
+ Không
+đạt □
+
+2. Đã được đóng/ in ký hiệu kiểm định tại vị trí:
+…………………………………………………
+
+3. Áp suất làm việc:……………………… bar
+
+4. Các kiến nghị:
+
+………………………………………………………………………
+
+5 .Thời gian thực hiện kiến nghị:
+
+………………………………………………………………………
+
+V. THỜI HẠN KIỂM
+ĐỊNH
+
+Kiểm định định kỳ ngày….. tháng…………..năm……………………… :
+
+Biên bản đã được lập ngày…. tháng……… năm ………………………
+
+Tại: (Ghi rõ nơi tiến hành kiểm định) ………………………………………………
+
+Chúng tôi, những kiểm định viên, kỹ thuật viên thực
+hiện kiểm định hoàn toàn chịu trách nhiệm về tính chính xác các nhận xét và
+đánh giá kết quả kiểm định ghi trong biên bản này./.
+
+1- Trường hợp kiểm định tại trạm của tổ chức kiểm
+định (hoặc trạm kiểm định của cơ sở):
+
+ 
+
+TRẠM TRƯỞNG
+
+(Ký, ghi rõ họ và tên)
+
+KIỂM ĐỊNH VIÊN 
+
+(Ký, ghi rõ họ và tên)
+
+KỸ THUẬT VIÊN
+
+(Ký, ghi rõ họ và tên)
+
+ 
+
+2- Trường hợp tổ chức kiểm định tiến hành kiểm định
+tại cơ sở :
+
+CHỦ CƠ SỞ 
+
+(Ký, đóng dấu)
+
+NGƯỜI CHỨNG KIẾN
+ 
+
+(Ký, ghi rõ họ và tên)
+
+KIỂM ĐỊNH VIÊN
+
+(Ký, ghi rõ họ và tên)
+
+ 
+
+PHỤ
+LỤC 03
+
+DANH SÁCH CHAI ĐƯỢC KIỂM ĐỊNH
+
+(Đính kèm theo
+Biên bản kiểm định số……ngày.... tháng.... năm…….)
+
+Lô chai: …………………………………………………………………………………………… 
+
+Số lượng chai: …………………………………………………………………………………… 
+
+Số chế tạo: ………………………………………………………………………………………..
+
+Đơn vị sở hữu/quản lý:
+………………………………………………………………………….
+
+Địa chỉ ……………………………………………………………………………………………..
+
+TT
+
+Số chế tạo
+
+Tháng năm chế tạo
+
+Nhà chế tạo
+
+Khối lượng bì chai
+ (kg)
+
+Thời gian kiểm định
+ lần trước
+
+Kết quả
+
+Đạt
+
+Không đạt (Nêu rõ
+ lý do)
+
+1
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+...
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+PHỤ
+LỤC 04
+
+DANH SÁCH GIAO NHẬN CHAI
+
+Lô chai: ……………………………………………………………………………………………….
+
+Số lượng chai: ……………………………………………………………………………………….
+
+Đơn vị sở hữu/quản lý:
+………………………………………………………………………………
+
+Địa chỉ …………………………………………………………………………………………………
+
+TT
+
+Số chế tạo
+
+Tháng năm chế tạo
+
+Nhà chế tạo
+
+Khối lượng bì chai
+ (kg)
+
+Thời gian kiểm định
+ lần trước 
+
+1
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+…
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+BÊN GIAO
+
+BÊN NHẬN--- THÔNG TIN THÊM ---
+Ten: Thông tư 22/2024/TT-BCT về Quy trình kiểm định kỹ thuật an toàn lao động chai LPG composite do Bộ trưởng Bộ Công thương ban hành
+So hieu: 22/2024/TT-BCT
+Loai van ban: Thông tư
+Linh vuc nganh: Lao động - Tiền lương
+Noi ban hanh: Bộ Công thương
+Nguoi ky: Trương Thanh Hoài
+Ngay ban hanh: 07/11/2024
+Ngay hieu luc: 15/01/2025
+Ngay dang: 27/11/2024
+So cong bao: Từ số 1273 đến số 1274
+Tinh trang: Còn hiệu lực
+
+
+--- MỤC LỤC ---
+- THÔNG TƯ BAN HÀNH QUY TRÌNH KIỂM ĐỊNH KỸ THUẬT AN TOÀN LAO ĐỘNG CHAI LPG COMPOSITE
+  - Điều 1. Ban hành kèm theo Thông tư này quy trình kiểm định kỹ thuật an toàn lao động chai LPG composite, ký hiệu QTKĐ: 19-2024/BCT.
+  - Điều 2. Hiệu lực thi hành
+  - Điều 3. Tổ chức thực hiện
+- QUY TRÌNH KIỂM ĐỊNH KỸ THUẬT AN TOÀN LAO ĐỘNG , CHAI LPG COMPOSITE, KÝ HIỆU QTKĐ:19-2024/BCT
+  - Điều 1. Phạm vi điều chỉnh
+  - Điều 2. Đối tượng áp dụng
+  - Điều 3. Quy chuẩn, tiêu chuẩn áp dụng:
+  - Điều 4. Hình thức kiểm định và thời hạn kiểm định
+  - Điều 5. Tổ chức thực hiện
+  - Điều 6. Thiết bị, dụng cụ phục vụ kiểm định
+  - Điều 7. Điều kiện kiểm định
+  - Điều 8. Tiến hành kiểm định
+  - PHỤ LỤC 01 BẢN GHI CHÉP TẠI HIỆN TRƯỜNG
+  - PHỤ LỤC 02 MẪU BIÊN BẢN KIỂM ĐỊNH KỸ THUẬT AN TOÀN LAO ĐỘNG CHAI LPG COMPOSITE
+  - PHỤ LỤC 03 DANH SÁCH CHAI ĐƯỢC KIỂM ĐỊNH
+  - PHỤ LỤC 04 DANH SÁCH GIAO NHẬN CHAI
+
+--- VĂN BẢN LIÊN QUAN ---
+
+Van ban duoc huong dan:
+  - Nghị định 44/2016/NĐ-CP hướng dẫn Luật an toàn, vệ sinh lao động về hoạt động kiểm định kỹ thuật an toàn ... (ID: 299837)
+
+Van ban duoc can cu:
+  - Nghị định 105/2024/NĐ-CP sửa đổi Nghị định 96/2022/NĐ-CP quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu ... (ID: 619678)
+  - Nghị định 96/2022/NĐ-CP quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Công Thương (ID: 541663)
+  - Nghị định 26/2018/NĐ-CP về Điều lệ tổ chức và hoạt động của Tập đoàn Điện lực Việt Nam (ID: 375670)
+  - Luật an toàn, vệ sinh lao động 2015 (ID: 281961)
+
+Van ban lien quan cung noi dung:
+  - Thông tư 104/2022/TT-BQP sửa đổi Thông tư 08/2017/TT-BQP quy định hoạt động kiểm định kỹ thuật an toàn máy, thiết bị, vật tư có yêu cầu nghiêm ngặt về an toàn lao động trong Bộ Quốc phòng, đã được sửa đổi tại Thông tư 137/2021/TT-BQP (ID: 548502)
+  - Thông tư 27/2022/TT-BCT Quy chuẩn kỹ thuật quốc gia về an toàn chai LPG composite do Bộ trưởng Bộ Công thương ban hành (ID: 538079)
+  - Thông tư 17/2021/TT-BLĐTBXH quy định về quy trình kiểm định kỹ thuật an toàn chai chứa khí công nghiệp thuộc thẩm quyền quản lý của Bộ Lao động - Thương binh và Xã hội (ID: 496015)

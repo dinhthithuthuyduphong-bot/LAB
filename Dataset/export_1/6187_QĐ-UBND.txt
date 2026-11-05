@@ -1,0 +1,719 @@
+ỦY BAN NHÂN DÂN
+
+ THÀNH PHỐ HÀ NỘI
+
+ -------
+
+CỘNG HÒA XÃ HỘI
+ CHỦ NGHĨA VIỆT NAM
+
+ Độc lập - Tự do - Hạnh phúc
+
+ ---------------
+
+Số: 6187/QĐ-UBND
+
+Hà Nội, ngày 29
+ tháng 11 năm 2024
+
+ 
+
+QUYẾT ĐỊNH
+
+BAN
+HÀNH QUY CHẾ CẬP NHẬT, SỬ DỤNG, KHAI THÁC DỮ LIỆU, THÔNG TIN PHẦN MỀM QUẢN LÝ
+CƠ SỞ DỮ LIỆU VỀ CÁN BỘ, CÔNG CHỨC, VIÊN CHỨC THUỘC THÀNH PHỐ HÀ NỘI
+
+CHỦ TỊCH ỦY BAN NHÂN DÂN THÀNH PHỐ HÀ NỘI
+
+Căn cứ Luật Tổ chức chính quyền địa phương ngày
+19/6/2015; Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật
+Tổ chức chính quyền địa phương ngày 22/11/2019;
+
+Căn cứ Luật cán bộ, công chức ngày 13/11/2008;
+Luật viên chức ngày 15/11/2010; Luật sửa đổi, bổ sung một số điều của Luật Cán
+bộ, công chức và Luật Viên chức ngày 25/11/2019;
+
+Căn cứ Nghị định số 64/2007/NĐ-CP ngày 10/4/2007
+của Chính phủ về việc ứng dụng công nghệ thông tin trong hoạt động của cơ quan
+nhà nước;
+
+Căn cứ Nghị định số 47/2020/NĐ-CP ngày 10/4/2020
+của Chính phủ về việc quản lý, kết nối và chia sẻ dữ liệu số của cơ quan nhà nước;
+
+Căn cứ Thông tư số 11/2012/TT-BNV ngày
+17/12/2012 của Bộ trưởng Bộ Nội vụ quy định về báo cáo thống kê quản lý hồ sơ
+công chức; Thông tư số 06/2019/TT- BNV ngày 01/6/2019 của Bộ trưởng Bộ Nội vụ sửa
+đổi, bổ sung một số điều của Thông tư 11/2012/TT-BNV ngày 17/12/2012 ;
+
+Căn cứ Thông tư số 07/2019/TT-BNV ngày 01/9/2019
+của Bộ trưởng Bộ Nội vụ quy định về báo cáo thống kê quản lý hồ sơ viên chức;
+
+Căn cứ Thông tư số 02/2023/TT-BNV ngày 23/3/2023
+của Bộ trưởng Bộ Nội vụ quy định chế độ báo cáo thống kê ngành Nội vụ ;
+
+Căn cứ Thông tư số 06/2023/TT-BNV ngày 04/5/2023
+của Bộ trưởng Bộ Nội vụ ban hành Quy chế cập nhật, sử dụng, khai thác dữ liệu,
+thông tin của cơ sở dữ liệu quốc gia về cán bộ, công chức, viên chức trong các
+cơ quan nhà nước;
+
+Theo đề nghịcủa Giám đốc Sở Nội vụ tại Tờ trình
+số 3843/TTr-SNV ngày 18/11/2024 về việc ban hành Quy chế cập nhật, sử dụng,
+khai thác dữ liệu, thông tin Phần mềm Quản lý Cơ sở dữ liệu về cán bộ, công chức,
+viên chức thuộc thành phố Hà Nội.
+
+QUYẾT ĐỊNH:
+
+Điều 1. Ban hành kèm theo
+Quyết định này Quy chế cập nhật, sử dụng, khai thác dữ liệu, thông tin Phần mềm
+Quản lý Cơ sở dữ liệu về cán bộ, công chức, viên chức thuộc thành phố Hà Nội; Cập
+nhật, đồng bộ cơ sở dữ liệu quốc gia về cán bộ, công chức, viên chức.
+
+Điều 2. Giao Giám đốc Sở Nội
+vụ chủ trì, triển khai, hướng dẫn, kiểm tra, đôn đốc các cơ quan, đơn vị thực
+hiện Quy chế này.
+
+Điều 3. Quyết định này có
+hiệu lực thi hành kể từ ngày ký.
+
+Chánh Văn phòng UBND Thành phố, Giám đốc Sở Nội vụ,
+Thủ trưởng các sở, ban, ngành và tương đương; Chủ tịch UBND các quận, huyện, thị
+xã và các cơ quan, tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết
+định này./.
+
+ 
+
+ Nơi nhận:
+
+- Như Điều 3;
+
+ - Chủ tịch UBND Thành phố;
+
+ - PCT TT UBND TP Lê Hồng Sơn;
+
+ - VPUBTP: CVP, các PCVP, các phòng: NC, TH;
+
+ - Sở Nội vụ (02 bản);
+
+ - Lưu: VT.
+
+KT. CHỦ TỊCH
+
+ PHÓ CHỦ TỊCH
+
+ Lê Hồng Sơn
+
+ 
+
+QUY CHẾ
+
+CẬP
+NHẬT, SỬ DỤNG, KHAI THÁC DỮ LIỆU, THÔNG TIN PHẦN MỀM QUẢN LÝ CƠ SỞ DỮ LIỆU VỀ
+CÁN BỘ, CÔNG CHỨC, VIÊN CHỨC THUỘC THÀNH PHỐ HÀ NỘI
+
+(Kèm theo Quyết định số 6187/QĐ-UBND ngày 29 tháng 11 năm 2024 của Chủ tịch
+Ủy ban nhân dân Thành phố Hà Nội)
+
+Chương I
+
+QUY ĐỊNH CHUNG
+
+Điều 1. Phạm vi điều chỉnh
+
+Quy chế này quy định về nguyên tắc, cách thức cập
+nhật, sử dụng, khai thác dữ liệu, thông tin Phần mềm Quản lý Cơ sở dữ liệu về
+cán bộ, công chức, viên chức thuộc thành phố Hà Nội và cập nhật, đồng bộ cơ sở
+dữ liệu của cơ quan, đơn vị thuộc thành phố Hà Nội với cơ sở dữ liệu Quốc gia về
+cán bộ, công chức, viên chức do Bộ Nội vụ quản lý.
+
+Điều 2. Đối tượng áp dụng
+
+Quy chế này áp dụng đối với cán bộ, công chức, viên
+chức; cán bộ, công chức cấp xã (gọi tắt là CBCCVC) thuộc các cơ quan, đơn vị của
+thành phố Hà Nội, bao gồm: các sở, ban, ngành và tương đương; các đơn vị sự
+nghiệp công lập thuộc UBND thành phố; các đơn vị trực thuộc các sở, ban, ngành;
+các Hội được Đảng, Nhà nước giao nhiệm vụ; Ủy ban nhân dân các quận, huyện, thị
+xã (sau đây viết tắt là UBND cấp huyện); các phòng, ban chuyên môn, đơn vị sự
+nghiệp trực thuộc Ủy ban nhân dân cấp huyện; xã, phường, thị trấn.
+
+Điều 3. Giải thích từ ngữ
+
+1. Cơ sở dữ liệu của Thành phố về cán bộ, công
+chức, viên chức trong các cơ quan nhà nước (sau đây viết tắt là Cơ sở dữ liệu)
+là hệ thống thông tin được thu thập, tích hợp, chia sẻ dữ liệu cán bộ, công chức,
+viên chức; tổ chức bộ máy; biên chế; vị trí việc làm để tổng hợp, phân tích dữ
+liệu nhằm phục vụ công tác chỉ đạo, điều hành của các cơ quan, đơn vị.
+
+Cơ sở dữ liệu của Thành phố được hình thành từ nguồn
+dữ liệu về cán bộ, công chức, viên chức, trong các cơ quan nhà nước nêu tại Điều
+2 Quy chế này.
+
+2. Hệ thống thông tin quản lý Cơ sở dữ liệu về
+cán bộ, công chức, viên chức của thành phố (sau đây viết tắt là Cơ sở dữ liệu
+của thành phố) do thành phố xây dựng, quản lý, vận hành, lưu trữ các trường
+thông tin về cán bộ, công chức, viên chức và tổ chức bộ máy, biên chế theo các
+quy định hiện hành.
+
+3. Quản lý cơ sở dữ liệu là việc quản trị, vận
+hành, xác thực dữ liệu điện tử; xây dựng, cập nhật, sửa đổi nội dung, thay đổi
+trạng thái, khai thác cơ sở dữ liệu của cán bộ, công chức, viên chức.
+
+4. Cơ quan quản lý Cơ sở dữ liệu của thành phố
+(sau đây viết tắt là Cơ quan quản lý Cơ sở dữ liệu) là cơ quan có thẩm quyền quản
+lý cán bộ, công chức, viên chức hoặc theo phân cấp quản lý có trách nhiệm thực
+hiện xây dựng cơ sở dữ liệu, quản lý tài khoản người dùng, xác nhận, phê duyệt
+sửa đổi nội dung, thay đổi trạng thái, khai thác Cơ sở dữ liệu trong các cơ
+quan thuộc phạm vi quản lý.
+
+5. Phần mềm Quản lý Cơ sở dữ liệu về cán bộ, công
+chức, viên chức thuộc thành phố Hà Nội (sau đây viết tắt là Phần mềm
+QLCBCCVC) là phần mềm được Ủy ban nhân dân thành phố Hà Nội phê duyệt chủ
+trương và giao cho Sở Nội vụ là cơ quan quản lý Cơ sở dữ liệu.
+
+6. Tài khoản cơ quan là thông tin bao gồm
+tên đăng nhập và mật khẩu để các cơ quan, đơn vị đăng nhập vào Phần mềm
+QLCBCCVC, được giao cho người đứng đầu các cơ quan, đơn vị để quản lý, khai
+thác dữ liệu phục vụ công tác chỉ đạo, điều hành của cơ quan, đơn vị.
+
+7. Tài khoản cá nhân của cán bộ, công chức, viên
+chức (sau đây viết tắt là tài khoản cá nhân) là tên người dùng và mật khẩu
+để cán bộ, công chức, viên chức, đăng nhập vào Phần mềm QLCBCCVC để cập nhật, bổ
+sung, điều chỉnh thông tin cá nhân và sử dụng các chức năng của Phần mềm.
+
+8. Quản lý tài khoản là việc tạo lập tài khoản;
+cấp, hạn chế, mở rộng hoặc hủy quyền truy cập của tài khoản vào Phần mềm; thay
+đổi tên đăng nhập, cấp lại mật khẩu cho tài khoản.
+
+9. Quản lý cơ cấu, tổ chức bộ máy là việc tạo
+lập, thay đổi thông tin, sáp nhập, hợp nhất, xóa bỏ cấu trúc cây thư mục về tổ
+chức bộ máy của các cơ quan, đơn vị.
+
+10. Nhập liệu là việc cán bộ, công chức,
+viên chức thực hiện công tác nhập thông tin của cá nhân vào Phần mềm.
+
+11. Khai thác cơ sở dữ liệu là việc thực hiện
+các chức năng tra cứu, tìm kiếm, xem thông tin hoặc tổng hợp các chỉ tiêu thống
+kê, báo cáo, xuất, in các kết quả trên Phần mềm.
+
+12. API kết nối là các thư viện, dịch vụ chứa
+đựng một số trường thông tin cụ thể được sử dụng để kết nối, chia sẻ thông tin
+từ Cơ sở dữ liệu của Thành phố với Cơ sở dữ liệu quốc gia và ngược lại.
+
+Điều 4. Nguyên tắc thực hiện
+
+1. Công tác xây dựng và quản lý Cơ sở dữ liệu của
+Thành phố là trách nhiệm của các tổ chức, cá nhân được nêu tại Điều 2 Quy chế
+này; được thực hiện thống nhất, đồng bộ, khoa học, phản ánh đầy đủ, chính xác
+và kịp thời thông tin của từng cán bộ, công chức, viên chức kể từ khi được tuyển
+dụng, ký hợp đồng lao động cho đến khi không còn làm việc tại các cơ quan nhà
+nước; bảo đảm sự thống nhất trong chỉ đạo, điều hành; tập trung tối đa nguồn lực,
+rút ngắn thời gian trong việc thu thập, chỉnh sửa, cập nhật thông tin cán bộ,
+công chức, viên chức trong các cơ quan nhà nước.
+
+2. Cơ sở dữ liệu của Thành phố được lưu trữ, bảo mật,
+bảo đảm an ninh, an toàn thông tin theo quy định của pháp luật. Việc xây dựng,
+quản lý, sử dụng, khai thác tuân thủ các quy định của Đảng, pháp luật có liên
+quan; quy định về quản lý, kết nối và chia sẻ dữ liệu số của cơ quan nhà nước;
+các quy định về bảo vệ đời sống riêng tư, bí mật cá nhân, bí mật gia đình và
+các quy định pháp luật khác có liên quan.
+
+3. Dữ liệu của cán bộ, công chức, viên chức phải bảo
+đảm tính cập nhật, chính xác theo quy định của pháp luật. Dữ liệu của cán bộ,
+công chức, viên chức được quản lý theo độ hạn chế tiếp cận, mã hóa một số trường
+thông tin để bảo đảm bảo mật, an toàn thông tin trong công tác cán bộ. Việc xác
+định độ hạn chế tiếp cận của dữ liệu thực hiện theo quy định của Đảng, pháp luật
+về cán bộ, công chức, viên chức.
+
+Điều 5. Các hành vi không được
+làm
+
+Thực hiện theo quy định tại Điều 8 Nghị định số
+47/2020/NĐ-CP ngày 09 tháng 4 năm 2020 của Chính phủ về quản lý, kết nối và
+chia sẻ dữ liệu số của cơ quan nhà nước, các hành vi khác theo quy định của
+pháp luật có liên quan.
+
+Chương II
+
+QUẢN LÝ CƠ SỞ DỮ LIỆU, CẬP
+NHẬT, KHAI THÁC DỮ LIỆU, THÔNG TIN TRONG CƠ SỞ DỮ LIỆU CỦA THÀNH PHỐ
+
+Điều 6. Tạo lập, cập nhật dữ liệu
+
+1. Chuẩn hóa thông tin đầu vào, quản lý thông tin
+cơ sở dữ liệu của Thành phố
+
+Đối với cán bộ, công chức, viên chức: Thống nhất sử
+dụng mẫu sơ yếu lý lịch tại Phụ lục kèm theo Thông tư số 06/2023/TT-BNV ngày 04
+tháng 5 năm 2023 của Bộ Nội vụ để chuẩn hóa thông tin đầu vào, quản lý thông
+tin, dữ liệu của Cơ sở dữ liệu Thành phố.
+
+2. Cơ quan quản lý Cơ sở dữ liệu có trách nhiệm tạo
+lập tài khoản quản trị cho các cơ quan, đơn vị. Các cơ quan, đơn vị có trách
+nhiệm quản lý, bảo mật tài khoản cơ quan; tạo lập tài khoản cá nhân cho cán bộ,
+công chức, viên chức để cán bộ, công chức, viên chức nhập liệu vào Cơ sở dữ liệu
+của Thành phố.
+
+Cá nhân cán bộ, công chức, viên chức có trách nhiệm
+truy cập vào tài khoản cá nhân đã được cấp, thay đổi mật khẩu mặc định để nhập
+thông tin của mình vào Cơ sở dữ liệu của Thành phố; thông tin phải đầy đủ, thống
+nhất định dạng kỹ thuật, phản ánh đầy đủ, chính xác theo sơ yếu lý lịch đã được
+cấp có thẩm quyền quản lý xác nhận. Cá nhân phải chịu trách nhiệm về tính chính
+xác, đầy đủ về thông tin cá nhân của mình.
+
+3. Đối với việc cập nhật thông tin, dữ liệu của cán
+bộ, công chức, viên chức do có thay đổi, hiệu chỉnh thì cá nhân có trách nhiệm
+kịp thời cập nhật thông tin, dữ liệu vào Cơ sở dữ liệu của Thành phố (tối đa
+không quá 05 ngày làm việc kể từ ngày có thông tin thay đổi) kèm theo bản số
+hóa của tài liệu đã được cấp có thẩm quyền xác nhận.
+
+4. Người đứng đầu các cơ quan, đơn vị có trách nhiệm
+tổ chức thực hiện việc cập nhật dữ liệu cán bộ, công chức, viên chức thuộc thẩm
+quyền quản lý vào Cơ sở dữ liệu của Thành phố và đồng bộ về Cơ sở dữ liệu quốc
+gia thông qua việc kết nối, chia sẻ dữ liệu quy định tại Điều 13 Quy chế này;
+phê duyệt hoặc ủy quyền phê duyệt dữ liệu được cập nhật theo quy định tại Điều
+7 Quy chế này.
+
+Điều 7. Phê duyệt dữ liệu
+
+Trong vòng 05 ngày cuối mỗi tháng, người có thẩm
+quyền hoặc được ủy quyền của các cơ quan, đơn vị có trách nhiệm phê duyệt những
+dữ liệu mới, dữ liệu được cập nhật, điều chỉnh, bổ sung của cán bộ, công chức,
+viên chức thuộc thẩm quyền quản lý của đơn vị mình vào Cơ sở dữ liệu của Thành
+phố.
+
+Điều 8. Khai thác cơ sở dữ liệu
+
+1. Sở Nội vụ sử dụng dữ liệu từ Cơ sở dữ liệu của
+Thành phố để tổng hợp, phân tích đội ngũ cán bộ, công chức, viên chức; tổ chức
+bộ máy; biên chế và các nội dung khác thuộc lĩnh vực quản lý nhà nước của ngành
+Nội vụ, phục vụ sự lãnh đạo, chỉ đạo, điều hành của Lãnh đạo Thành phố; kết nối,
+chia sẻ dữ liệu từ Cơ sở dữ liệu của Thành phố về Cơ sở dữ liệu quốc gia do Bộ
+Nội vụ quản lý.
+
+2. Các cơ quan, đơn vị được khai thác, sử dụng dữ
+liệu tổng hợp, phân tích chung, dữ liệu về cán bộ, công chức, viên chức của cơ
+quan, đơn vị mình trong Cơ sở dữ liệu của Thành phố; các dữ liệu này được chia
+sẻ mặc định từ Cơ sở dữ liệu của Thành phố để phục vụ công tác chỉ đạo, điều
+hành theo chức năng, nhiệm vụ.
+
+3. Cán bộ, công chức, viên chức được khai thác dữ
+liệu của mình; được truy cập, nghiên cứu, sử dụng và khai thác dữ liệu trên Cơ
+sở dữ liệu Thành phố khi cơ quan có thẩm quyền quản lý cán bộ, công chức, viên
+chức đồng ý bằng văn bản theo quy định của pháp luật.
+
+4. Dữ liệu cán bộ, công chức, viên chức của Cơ sở dữ
+liệu của Thành phố khi được xuất theo định dạng văn bản điện tử, được ký số bởi
+người có thẩm quyền hoặc ký số của cơ quan nhà nước theo quy định của pháp luật
+thì văn bản điện tử đó có giá trị pháp lý như bản gốc văn bản giấy.
+
+Điều 9. Thẩm quyền quản lý tài
+khoản cơ quan, tài khoản cá nhân
+
+1. Thẩm quyền của Sở Nội vụ
+
+a) Tạo lập tài khoản cơ quan của các sở, ban, ngành
+và tương đương; các đơn vị sự nghiệp thuộc UBND thành phố; các Hội được Đảng,
+Nhà nước giao nhiệm vụ; Ủy ban nhân dân cấp huyện.
+
+b) Quản lý tài khoản của các cơ quan, đơn vị.
+
+c) Quản lý danh mục cơ cấu, tổ chức bộ máy của các
+cơ quan, đơn vị thuộc Thành phố.
+
+2. Thẩm quyền của các sở, ban, ngành và tương
+đương; các đơn vị sự nghiệp thuộc UBND thành phố; các Hội được Đảng, Nhà nước
+giao nhiệm vụ; Ủy ban nhân dân cấp huyện.
+
+Tạo lập tài khoản của cơ quan và các đơn vị trực
+thuộc; tạo lập hoặc ủy quyền tạo lập tài khoản cá nhân cho cán bộ, công chức,
+viên chức thuộc phạm vi quản lý.
+
+Điều 10. Cách thức khai thác,
+sử dụng dữ liệu
+
+1. Địa chỉ truy cập Phần mềm Quản lý Cơ sở dữ liệu
+về cán bộ, công chức, viên chức của thành phố: https://cbccvc.hanoi.gov.vn/
+
+2. Các cơ quan, đơn vị khai thác, sử dụng dữ liệu của
+cơ quan, đơn vị mình trong
+
+Cơ sở dữ liệu của Thành phố bằng việc sử dụng tài
+khoản cơ quan do Sở Nội vụ cung cấp để đăng nhập vào Phần mềm thông qua địa chỉ
+tại Khoản 1 Điều này.
+
+3. Cán bộ, công chức, viên chức khai thác, sử dụng
+dữ liệu cá nhân bằng việc sử dụng tài khoản cá nhân được cấp để đăng nhập vào
+Phần mềm thông qua địa chỉ tại Khoản 1 Điều này.
+
+Điều 11. Lưu trữ cơ sở dữ liệu
+
+1. Dữ liệu cán bộ, công chức, viên chức được lưu trữ
+trong Cơ sở dữ liệu của Thành phố và được sao lưu định kỳ hàng tháng, tối thiểu
+ba tháng trên phương tiện lưu trữ chuyên dụng để dự phòng rủi ro.
+
+2. Việc lưu trữ, sao lưu phải tuân thủ các quy định
+của Đảng, pháp luật về lưu trữ, bảo vệ bí mật nhà nước, cơ yếu, bảo vệ bí mật
+thông tin cá nhân, an toàn, an ninh thông tin.
+
+Điều 12. Chuyển giao, tiếp nhận
+dữ liệu
+
+1. Trường hợp cán bộ, công chức, viên chức được điều
+động, bổ nhiệm, luân chuyển, chuyển đổi vị trí công tác đến cơ quan, đơn vị
+khác theo quy định tại Điều 02 quy chế này (gọi chung là thay đổi công tác
+trong thành phố) thì đồng thời với việc chuyển giao hồ sơ theo quy định, cơ
+quan, đơn vị và cá nhân có liên quan thực hiện như sau:
+
+a) Cơ quan, đơn vị đang quản lý cán bộ, công chức,
+viên chức có trách nhiệm báo cáo về cơ quan có thẩm quyền quản lý cán bộ, công
+chức, viên chức cùng cấp để thực hiện việc chuyển hồ sơ, tài khoản của cán bộ,
+công chức, viên chức từ cơ quan, đơn vị cũ sang cơ quan, đơn vị mới đồng thời
+cơ quan, đơn vị mới có trách nhiệm tiếp nhận hồ sơ, tài khoản của cán bộ, công
+chức, viên chức chuyển đến.
+
+b) Cán bộ, công chức, viên chức có trách nhiệm truy
+cập vào tài khoản cá nhân của mình để kiểm tra thông tin, dữ liệu, thực hiện cập
+nhật thông tin, dữ liệu theo quy định tại Điều 6 Quy chế này và theo quy định của
+cơ quan quản lý.
+
+2. Trường hợp cán bộ, công chức, viên chức được tiếp
+nhận, điều động, luân chuyển, chuyển đổi vị trí công tác ngoài Thành phố.
+
+2.1 Trường hợp cán bộ, công chức, viên chức được điều
+động, luân chuyển, chuyển đổi vị trí công tác đến cơ quan, đơn vị khác không
+thuộc quy định tại Điều 02 quy chế này (gọi chung là thay đổi công tác ra ngoài
+Thành phố) thì đồng thời với việc chuyển giao hồ sơ theo quy định, cơ quan, đơn
+vị và cá nhân có liên quan thực hiện như sau:
+
+a) Cơ quan, đơn vị đang quản lý cán bộ, công chức,
+viên chức có trách nhiệm thực hiện thay đổi trạng thái hồ sơ, hủy quyền truy cập
+vào cơ sở dữ liệu của cơ quan, đơn vị mình đối với tài khoản của cán bộ, công
+chức, viên chức đó.
+
+b) Trong trường hợp cá nhân chuyển sang cơ quan,
+đơn vị thuộc cơ sở dữ liệu Quốc gia về cán bộ, công chức, viên chức do Bộ Nội vụ
+quản lý thì cơ quan, đơn vị đang quản lý cán bộ, công chức, viên chức có trách
+nhiệm báo cáo về Sở Nội vụ để thực hiện việc chuyển dữ liệu theo quy định.
+
+2.2 Trường hợp cán bộ, công chức, viên chức được tiếp
+nhận, điều động, luân chuyển công tác từ các cơ quan, đơn vị khác không thuộc
+quy định tại Điều 02 quy chế này (gọi chung là chuyển công tác đến Thành phố)
+thì đồng thời với việc chuyển giao hồ sơ theo quy định, cơ quan, đơn vị và cá
+nhân có liên quan thực hiện như sau:
+
+a) Trường hợp cán bộ, công chức, viên chức được tiếp
+nhận chưa có hồ sơ trên Cơ sở dữ liệu quốc gia: Trong thời hạn 10 ngày làm việc
+kể từ ngày chuyển giao hồ sơ, cơ quan, đơn vị tiếp nhận cán bộ, công chức, viên
+chức thực hiện việc tạo lập tài khoản cá nhân cho cán bộ, công chức, viên chức
+được tiếp nhận.
+
+b) Trường hợp cán bộ, công chức, viên chức được tiếp
+nhận đã có hồ sơ trên Cơ sở dữ liệu quốc gia: Cơ quan, đơn vị tiếp nhận phối hợp
+với Sở Nội vụ để thực hiện nghiệp vụ tiếp nhận hồ sơ của cán bộ, công chức,
+viên chức từ Cơ sở dữ liệu quốc gia về Cơ sở dữ liệu của thành phố (Cơ sở dữ liệu
+của cơ quan, đơn vị) để phục vụ hoạt động quản lý theo thẩm quyền.
+
+c) Cán bộ, công chức, viên chức có trách nhiệm truy
+cập vào tài khoản cá nhân của mình trên Cơ sở dữ liệu của cơ quan, đơn vị tiếp
+nhận để kiểm tra thông tin, dữ liệu, thực hiện cập nhật thông tin, dữ liệu theo
+quy định tại Điều 6 Quy chế này và theo quy định của cơ quan quản lý.
+
+3. Trường hợp cán bộ, công chức, viên chức thay đổi
+công tác theo quy định tại mục 2.1 khoản 2 Điều này; chuyển công tác ra khỏi cơ
+quan, đơn vị của Nhà nước; nghỉ hưu; thôi việc; qua đời thì dữ liệu cán bộ,
+công chức, viên chức đó vẫn phải được lưu trữ tại thư mục riêng trong Cơ sở dữ
+liệu của thành phố.
+
+Chương III
+
+CẬP NHẬT, ĐỒNG BỘ VỀ CƠ
+SỞ DỮ LIỆU QUỐC GIA
+
+Điều 13. Kết nối, chia sẻ dữ
+liệu
+
+1. Trên cơ sở các thiết lập; các dịch vụ chia sẻ dữ
+liệu thuộc phạm vi Cơ sở dữ liệu quốc gia; các văn bản liên quan đến quy định kỹ
+thuật về cấu trúc, định dạng dữ liệu, gói tin, kết nối, chia sẻ dữ liệu với Cơ
+sở dữ liệu quốc gia do Bộ Nội vụ ban hành, Sở Nội vụ phối hợp với đơn vị cung cấp
+phần mềm, Sở Thông tin và Truyền thông và các cơ quan, đơn vị có liên quan tổ
+chức xây dựng, nâng cấp cơ sở dữ liệu; cập nhật, kết nối, chia sẻ dữ liệu từ Cơ
+sở dữ liệu của Thành phố về Cơ sở dữ liệu quốc gia.
+
+2. Việc kết nối, chia sẻ dữ liệu giữa Cơ sở dữ liệu
+của Thành phố với Cơ sở dữ liệu quốc gia về cán bộ, công chức, viên chức thông
+qua Nền tảng tích hợp, chia sẻ dữ liệu của thành phố bảo đảm tuân thủ quy định
+tại Nghị định số 47/2020/NĐ-CP ngày 09 tháng 4 năm 2020 của Chính phủ về quản
+lý, kết nối và chia sẻ dữ liệu số của cơ quan nhà nước; các văn bản liên quan
+khác theo quy định.
+
+3. Sở Nội vụ chủ trì phối hợp Sở Thông tin và Truyền
+thông, đơn vị cung cấp phần mềm, các cơ quan, đơn vị có liên quan sử dụng cặp
+khóa kết nối do Bộ Nội vụ cung cấp để kết nối, chia sẻ dữ liệu giữa Cơ sở dữ liệu
+quốc gia về cán bộ, công chức, viên chức với các hệ thống thông tin khác theo
+quy định.
+
+Điều 14. Cập nhật, đồng bộ dữ
+liệu
+
+1. Trong vòng 05 ngày cuối mỗi tháng, người có thẩm
+quyền hoặc ủy quyền của
+
+các cơ quan, đơn vị có trách nhiệm đồng bộ những
+thông tin, dữ liệu phát sinh mới, điều chỉnh, cập nhật, bổ sung trong tháng của
+cán bộ, công chức, viên chức thuộc phạm vi quản lý thông qua các API kết nối
+tương ứng về cơ sở dữ liệu quốc gia.
+
+2. Sở Nội vụ có trách nhiệm phê duyệt dữ liệu của
+các cơ quan, đơn vị đã gửi đồng bộ về Cơ sở dữ liệu quốc gia theo quy định.
+
+Điều 15. Thẩm quyền thực hiện
+cập nhật, đồng bộ dữ liệu
+
+1. Các sở, ban, ngành và tương đương; các đơn vị sự
+nghiệp thuộc UBND thành phố; các Hội được Đảng, Nhà nước giao nhiệm vụ; Ủy ban
+nhân dân cấp huyện sử dụng tài khoản cơ quan để thực hiện đồng bộ dữ liệu của
+cán bộ, công chức, viên chức thuộc phạm vi quản lý về Cơ sở dữ liệu quốc gia.
+
+2. Đối với các tổ chức, phòng, ban chuyên môn không
+có tài khoản cơ quan thì việc đồng bộ dữ liệu của cán bộ, công chức, viên chức
+thuộc đơn vị mình về Cơ sở dữ liệu quốc gia do cơ quan cấp trên trực tiếp thực
+hiện.
+
+Chương IV
+
+TỔ CHỨC THỰC HIỆN
+
+Điều 16. Trách nhiệm của cán bộ,
+công chức, viên chức
+
+1. Chấp hành quy định tại Quy chế này và các quy định
+của Đảng, pháp luật, quy chế của cơ quan, đơn vị trong việc quản lý, khai thác,
+sử dụng Cơ sở dữ liệu của thành phố, cập nhật, đồng bộ về Cơ sở dữ liệu Quốc
+gia.
+
+2. Chịu trách nhiệm kiểm tra, điều chỉnh, cập nhật
+đúng, đủ, chính xác, kịp thời và bảo đảm tính xác thực của các dữ liệu, tài liệu
+cung cấp kèm theo dữ liệu cá nhân của mình trước pháp luật và trước cơ quan nhà
+nước có thẩm quyền. Cập nhật dữ liệu, thông báo kịp thời cho cơ quan quản lý cơ
+sở dữ liệu khi có sự thay đổi hoặc có sai sót đối với dữ liệu mình cung cấp.
+
+Điều 17. Trách nhiệm của cán bộ,
+công chức, viên chức được giao thực hiện công tác quản lý Cơ sở dữ liệu của cơ
+quan, đơn vị và Cơ sở dữ liệu của Thành phố
+
+1. Chấp hành quy định tại Điều 5 Quy chế này.
+
+2. Thông qua nghiệp vụ kỹ thuật, tổ chức việc bảo
+quản, lưu trữ cơ sở dữ liệu của cơ quan, đơn vị; kết nối, chia sẻ dữ liệu giữa
+Cơ sở dữ liệu của cơ quan, đơn vị mình và Cơ sở dữ liệu quốc gia theo quy định
+pháp luật.
+
+3. Cung cấp dữ liệu cán bộ, công chức, viên chức
+chính xác, kịp thời theo yêu cầu của cấp có thẩm quyền.
+
+4. Nghiên cứu, phát hiện các vấn đề chưa rõ hoặc
+mâu thuẫn trong cơ sở dữ liệu cán bộ, công chức, viên chức và những vấn đề nảy
+sinh trong quá trình quản lý, báo cáo cấp có thẩm quyền quản lý cơ sở dữ liệu
+xem xét, xử lý.
+
+5. Đôn đốc việc cập nhật hoàn thiện, đầy đủ các trường
+thông tin trong dữ liệu cán bộ, công chức, viên chức thuộc thẩm quyền quản lý của
+cơ quan, đơn vị mình.
+
+6. Học tập, bồi dưỡng nâng cao trình độ chuyên môn,
+nghiệp vụ phục vụ công tác quản lý cơ sở dữ liệu cán bộ, công chức, viên chức
+theo yêu cầu công việc.
+
+7. Chịu trách nhiệm bảo đảm bí mật, an toàn thông
+tin của Cơ sở dữ liệu của cơ quan, đơn vị. Không tiết lộ, cung cấp thông tin tài
+khoản cơ quan và tài khoản cá nhân nếu không được sự đồng ý bằng văn bản của cơ
+quan có thẩm quyền. Chịu trách nhiệm trước pháp luật và cơ quan, cấp có thẩm
+quyền về việc vi phạm các quy định về bảo đảm bí mật, an toàn thông tin.
+
+8. Trường hợp vi phạm các quy định tại Quy chế này
+thì tùy theo tính chất và mức độ vi phạm sẽ bị xem xét, xử lý theo quy định của
+pháp luật.
+
+Điều 18. Trách nhiệm của cơ
+quan, đơn vị sử dụng cán bộ, công chức, viên chức
+
+1. Quản lý tài khoản được phân cấp; cấp, hạn chế, mở
+rộng hoặc hủy quyền truy cập vào cơ sở dữ liệu theo phân cấp quản lý.
+
+2. Tổ chức thực hiện quản lý dữ liệu cán bộ, công
+chức, viên chức theo quy định tại Quy chế này và quy định của cấp có thẩm quyền.
+Chấp hành sự chỉ đạo, kiểm tra và hướng dẫn nghiệp vụ về công tác quản lý dữ liệu
+cán bộ, công chức, viên chức của cơ quan cấp trên.
+
+3. Đôn đốc, kiểm tra việc thực hiện các quy định về
+quản lý dữ liệu cán bộ, công chức, viên chức. Tham mưu xem xét, xử lý vi phạm
+cơ quan, đơn vị, cá nhân không cập nhật dữ liệu, có sai phạm trong cập nhật dữ
+liệu và bảo quản cơ sở dữ liệu theo phân cấp quản lý.
+
+4. Thực hiện nhiệm vụ quy định tại Điều 7 và Điều
+12 Quy chế này theo phân cấp quản lý.
+
+Điều 19. Trách nhiệm của Sở Nội
+vụ
+
+1. Chủ trì, phối hợp với các cơ quan, đơn vị có
+liên quan nâng cấp cơ sở dữ liệu; cập nhật, kết nối, chia sẻ, khai thác dữ liệu
+trong Cơ sở dữ liệu của Thành phố, Cơ sở dữ liệu quốc gia theo quy định tại Nghị
+định số 47/2020/NĐ-CP ngày 09 tháng 4 năm 2020 của Chính phủ về quản lý, kết nối
+và chia sẻ dữ liệu số của cơ quan nhà nước phục vụ hoạt động quản lý nhà nước
+theo chức năng, thẩm quyền.
+
+2. Sử dụng mã định danh điện tử của các cơ quan, tổ
+chức thuộc phạm vi quản lý theo quy định tại Quyết định số 20/2020/QĐ-TTg ngày
+22 tháng 7 năm 2020 của Thủ tướng Chính phủ về mã định danh điện tử của các cơ
+quan, tổ chức phục vụ kết nối, chia sẻ dữ liệu với các bộ, ngành.
+
+3. Chỉ đạo tổ chức cập nhật, chuẩn hóa thông tin, dữ
+liệu trong Cơ sở dữ liệu của Thành phố phục vụ việc cập nhật, kết nối, chia sẻ
+với Cơ sở dữ liệu quốc gia.
+
+4. Quản lý hoặc phân cấp quản lý tài khoản cơ quan,
+tài khoản cá nhân; cấp, hạn chế, mở rộng hoặc hủy quyền truy cập vào Cơ sở dữ
+liệu của Thành phố trong phạm vi quản lý trên cơ sở đề nghị bằng văn bản của cơ
+quan quản lý có thẩm quyền.
+
+5. Tổ chức tập huấn, bồi dưỡng kỹ năng, nghiệp vụ
+cho công chức, viên chức làm công tác quản lý, vận hành Phần mềm QLCBCCVC.
+
+6. Hướng dẫn, đôn đốc, thanh tra, kiểm tra, giám
+sát việc thực hiện các quy định của pháp luật về quản lý Cơ sở dữ liệu của
+Thành phố; xem xét, xử lý vi phạm của cơ quan, đơn vị và cá nhân không thực hiện
+theo quy định tại Quy chế này.
+
+7. Đảm bảo tuân thủ chặt chẽ các quy định về an
+toàn, an ninh và bảo mật thông tin, dữ liệu cán bộ, công chức, viên chức và đáp
+ứng yêu cầu đổi mới, tăng cường quản lý cán bộ, công chức, viên chức; Chủ trì
+phối hợp với các cơ quan, đơn vị có liên quan thực hiện quy trình mã hóa dữ liệu
+để đảm bảo an toàn thông tin cho hệ thống.
+
+8. Chủ trì phối hợp với Sở Thông tin và Truyền
+thông định kỳ kiểm tra lưu trữ, sao lưu dữ liệu của Phần mềm; đồng thời lưu trữ
+trên thiết bị chuyên dụng để dự phòng rủi ro.
+
+Điều 20. Trách nhiệm của Sở
+Thông tin và Truyền thông
+
+1. Đảm bảo hạ tầng Trung tâm dữ liệu Thành phố đáp ứng
+tiêu chuẩn theo quy định phục vụ việc cài đặt, vận hành phần mềm quản lý cơ sở
+dữ liệu về cán bộ, công chức, viên chức thành phố Hà Nội.
+
+2. Hướng dẫn bảo đảm an toàn thông tin cho các cơ
+quan, đơn vị của Thành phố.
+
+3. Phối hợp với Sở Nội vụ định kỳ sao lưu, lưu trữ
+Cơ sở dữ liệu Phần mềm Quản lý cán bộ, công chức, viên chức.
+
+4. Phối hợp với Sở Nội vụ trong việc kết nối phần mềm
+Quản lý Cơ sở dữ liệu cề cán bộ, công chức, viên chức thành phố Hà Nội với Nền
+tảng tích hợp, chia sẻ dữ liệu Thành phố (LGSP) phục vụ liên thông, chia sẻ dữ
+liệu với cơ sở dữ liệu quốc gia về cán bộ, công chức, viên chức và với các hệ
+thống thông tin/CSDL khác của Thành phố và các bộ, ngành liên quan theo quy định.
+
+Điều 21. Trách nhiệm của các sở,
+ban, ngành và tương đương; Ủy ban nhân dân các quận, huyện, thị xã
+
+1. Thực hiện, chỉ đạo các tổ chức, cá nhân thuộc phạm
+vi quản lý thực hiện đúng các nội dung theo Quy chế này.
+
+2. Chỉ đạo cán bộ, công chức, viên chức thuộc phạm
+vi quản lý thường xuyên cập nhật, bổ sung thông tin, dữ liệu cá nhân; cập nhật,
+điều chỉnh cơ cấu tổ chức bộ máy (trong trường hợp chia tách, sáp nhập, hợp nhất,
+giải thể,...) trong Cơ sở dữ liệu của thành phố phục vụ việc cập nhật, đồng bộ
+với Cơ sở dữ liệu quốc gia.
+
+3. Đưa nội dung thực hiện cập nhật thông tin cá
+nhân của cán bộ, công chức, viên chức của Thành phố để đồng bộ về Cơ sở dữ liệu
+quốc gia vào một trong các tiêu chí để đánh giá, phân loại, xét thi đua khen
+thưởng cuối năm của các cơ quan, đơn vị và trách nhiệm của người đứng đầu.
+
+4. Đảm bảo tuân thủ chặt chẽ các quy định về an
+toàn, an ninh và bảo mật thông tin, dữ liệu cán bộ, công chức, viên chức thuộc
+phạm vi quản lý.
+
+5. Hướng dẫn, đôn đốc, thanh tra, kiểm tra, giám
+sát việc thực hiện các quy định của pháp luật về quản lý Cơ sở dữ liệu; xem
+xét, xử lý vi phạm của cơ quan, đơn vị và cá nhân không thực hiện theo quy định
+tại Quy chế này.
+
+6. Định kỳ vào ngày 25 cuối tháng mỗi quý; trước
+ngày 31 tháng 12 hàng năm, các cơ quan, đơn vị có trách nhiệm rà soát, đôn đốc
+cập nhật dữ liệu đảm bảo các tiêu chí Đúng - Đủ - Sạch - Sống, ký số báo cáo
+trên hệ thống phần mềm quản lý cán bộ, công chức, viên chức gửi UBND Thành phố
+(qua Sở Nội vụ) để tổng hợp báo cáo theo quy định./.--- THÔNG TIN THÊM ---
+Ten: Quyết định 6187/QĐ-UBND năm 2024 về Quy chế cập nhật, sử dụng, khai thác dữ liệu, thông tin Phần mềm Quản lý Cơ sở dữ liệu về cán bộ, công chức, viên chức thuộc Thành phố Hà Nội
+So hieu: 6187/QĐ-UBND
+Loai van ban: Quyết định
+Linh vuc nganh: Lao động - Tiền lương, Công nghệ thông tin, Bộ máy hành chính
+Noi ban hanh: Thành phố Hà Nội
+Nguoi ky: Lê Hồng Sơn
+Ngay ban hanh: 29/11/2024
+Ngay hieu luc: 29/11/2024
+Ngay dang: Dữ liệu đang cập nhật
+So cong bao: Dữ liệu đang cập nhật
+Tinh trang: Còn hiệu lực
+
+
+--- MỤC LỤC ---
+- QUYẾT ĐỊNH BAN HÀNH QUY CHẾ CẬP NHẬT, SỬ DỤNG, KHAI THÁC DỮ LIỆU, THÔNG TIN PHẦN MỀM QUẢN LÝ CƠ SỞ DỮ LIỆU VỀ CÁN BỘ, CÔNG CHỨC, VIÊN CHỨC THUỘC THÀNH PHỐ HÀ NỘI
+  - Điều 1. Ban hành kèm theo Quyết định này Quy chế cập nhật, sử dụng, khai thác dữ liệu, thông tin Phần mềm Quản lý Cơ sở dữ liệu về cán bộ, công chức, viên chức thuộc thành phố Hà Nội; Cập nhật, đồng bộ cơ sở dữ liệu quốc gia về cán bộ, công chức, viên chức.
+  - Điều 2. Giao Giám đốc Sở Nội vụ chủ trì, triển khai, hướng dẫn, kiểm tra, đôn đốc các cơ quan, đơn vị thực hiện Quy chế này.
+  - Điều 3. Quyết định này có hiệu lực thi hành kể từ ngày ký.
+- QUY CHẾ CẬP NHẬT, SỬ DỤNG, KHAI THÁC DỮ LIỆU, THÔNG TIN PHẦN MỀM QUẢN LÝ CƠ SỞ DỮ LIỆU VỀ CÁN BỘ, CÔNG CHỨC, VIÊN CHỨC THUỘC THÀNH PHỐ HÀ NỘI
+  - Chương I QUY ĐỊNH CHUNG
+    - Điều 1. Phạm vi điều chỉnh
+    - Điều 2. Đối tượng áp dụng
+    - Điều 3. Giải thích từ ngữ
+    - Điều 4. Nguyên tắc thực hiện
+    - Điều 5. Các hành vi không được làm
+  - Chương II QUẢN LÝ CƠ SỞ DỮ LIỆU, CẬP NHẬT, KHAI THÁC DỮ LIỆU, THÔNG TIN TRONG CƠ SỞ DỮ LIỆU CỦA THÀNH PHỐ
+    - Điều 6. Tạo lập, cập nhật dữ liệu
+    - Điều 7. Phê duyệt dữ liệu
+    - Điều 8. Khai thác cơ sở dữ liệu
+    - Điều 9. Thẩm quyền quản lý tài khoản cơ quan, tài khoản cá nhân
+    - Điều 10. Cách thức khai thác, sử dụng dữ liệu
+    - Điều 11. Lưu trữ cơ sở dữ liệu
+    - Điều 12. Chuyển giao, tiếp nhận dữ liệu
+  - Chương III CẬP NHẬT, ĐỒNG BỘ VỀ CƠ SỞ DỮ LIỆU QUỐC GIA
+    - Điều 13. Kết nối, chia sẻ dữ liệu
+    - Điều 14. Cập nhật, đồng bộ dữ liệu
+    - Điều 15. Thẩm quyền thực hiện cập nhật, đồng bộ dữ liệu
+  - Chương IV TỔ CHỨC THỰC HIỆN
+    - Điều 16. Trách nhiệm của cán bộ, công chức, viên chức
+    - Điều 17. Trách nhiệm của cán bộ, công chức, viên chức được giao thực hiện công tác quản lý Cơ sở dữ liệu của cơ quan, đơn vị và Cơ sở dữ liệu của Thành phố
+    - Điều 18. Trách nhiệm của cơ quan, đơn vị sử dụng cán bộ, công chức, viên chức
+    - Điều 19. Trách nhiệm của Sở Nội vụ
+    - Điều 20. Trách nhiệm của Sở Thông tin và Truyền thông
+    - Điều 21. Trách nhiệm của các sở, ban, ngành và tương đương; Ủy ban nhân dân các quận, huyện, thị xã
+
+--- VĂN BẢN LIÊN QUAN ---
+
+Van ban duoc dan chieu:
+  - Quyết định 20/2020/QĐ-TTg về mã định danh điện tử của các cơ quan, tổ chức phục vụ kết nối, chia sẻ dữ liệu... (ID: 447895)
+
+Van ban duoc can cu:
+  - Thông tư 06/2023/TT-BNV Quy chế cập nhật, sử dụng, khai thác dữ liệu, thông tin của Cơ sở dữ liệu quốc gia ... (ID: 565266)
+  - Thông tư 2/2023/TT-BNV quy định chế độ báo cáo thống kê ngành Nội vụ do Bộ trưởng Bộ Nội vụ ban hành (ID: 560346)
+  - Nghị định 47/2020/NĐ-CP về quản lý, kết nối và chia sẻ dữ liệu số của cơ quan nhà nước (ID: 439384)
+  - Luật Cán bộ, công chức và Luật Viên chức sửa đổi 2019 (ID: 405729)
+  - Luật Tổ chức chính phủ và Luật Tổ chức chính quyền địa phương sửa đổi 2019 (ID: 411945)
+  - Thông tư 06/2019/TT-BNV sửa đổi Thông tư 11/2012/TT-BNV quy định về chế độ báo cáo thống kê và quản lý hồ ... (ID: 416195)
+  - Thông tư 07/2019/TT-BNV quy định về chế độ báo cáo thống kê và quản lý hồ sơ viên chức do Bộ trưởng Bộ Nội ... (ID: 416160)
+  - Luật tổ chức chính quyền địa phương 2015 (ID: 282380)
+  - Thông tư 11/2012/TT-BNV quy định về chế độ báo cáo thống kê và quản lý hồ sơ công chức do Bộ trưởng Bộ Nội ... (ID: 154130)
+  - Luật viên chức 2010 (ID: 115271)
+  - Luật cán bộ, công chức 2008 (ID: 82202)
+  - Nghị định 64/2007/NĐ-CP về việc ứng dụng công nghệ thông tin trong hoạt động của cơ quan Nhà nước (ID: 18234)
+
+Van ban lien quan cung noi dung:
+  - Quyết định 74/2024/QĐ-UBND về Quy chế quản lý, sử dụng, khai thác Cơ sở dữ liệu cán bộ, công chức, viên chức, người lao động trên địa bàn tỉnh Cà Mau (ID: 640402)
+  - Quyết định 45/2024/QĐ-UBND về Quy chế quản lý, sử dụng, khai thác dữ liệu, thông tin về cán bộ, công chức, viên chức, người lao động trong các cơ quan nhà nước tỉnh Thái Bình (ID: 634913)
+  - Quyết định 36/2024/QĐ-UBND sửa đổi Quy định về quản lý tổ chức bộ máy, quản lý viên chức và lao động hợp đồng trong đơn vị sự nghiệp công lập thuộc thành phố Hải Phòng kèm theo Quyết định 62/2022/QĐ-UBND (ID: 634318)
+  - Quyết định 06/2024/QĐ-UBND về Quy chế quản lý, cập nhật, sử dụng, khai thác, phê duyệt dữ liệu, thông tin của Phần mềm quản lý Cơ sở dữ liệu cán bộ, công chức, viên chức, người lao động tỉnh Lào Cai (ID: 599109)
+  - Quyết định 1716/QĐ-UBND năm 2023 về Quy chế cập nhật, sử dụng, khai thác dữ liệu, thông tin Phần mềm Quản lý cán bộ, công chức, viên chức tỉnh Vĩnh Long; cập nhật, đồng bộ Cơ sở dữ liệu quốc gia về cán bộ, công chức, viên chức (ID: 573291)
+  - Quyết định 570/QĐ-UBND năm 2022 về Quy chế quản lý, vận hành, khai thác, sử dụng phần mềm quản lý hồ sơ cán bộ, công chức, viên chức và người lao động tỉnh Lạng Sơn (ID: 509500)

@@ -1,0 +1,457 @@
+ỦY BAN NHÂN DÂN
+
+TỈNH ĐỒNG THÁP
+
+ --------
+
+CỘNG HOÀ XÃ HỘI
+ CHỦ NGHĨA VIỆT NAM
+
+ Độc lập - Tự do - Hạnh phúc
+
+ --------------------
+
+Số: 137/QĐ-UBND-HC
+
+Đồng
+ Tháp, ngày 18 tháng 02 năm 2014
+
+ 
+
+QUYẾT ĐỊNH
+
+BAN HÀNH QUY CHẾ QUẢN LÝ PHẦN MỀM THI TRẮC NGHIỆM VÀ NỘI
+DUNG ÔN THI, NGÂN HÀNG CÂU HỎI, ĐỀ THI TUYỂN, THI NÂNG NGẠCH CÔNG CHỨC TỈNH ĐỒNG
+THÁP
+
+ỦY BAN NHÂN DÂN TỈNH ĐỒNG THÁP
+
+Căn cứ Luật Tổ chức Hội đồng nhân dân và Ủy ban
+nhân dân ngày 26 tháng 11 năm 2003;
+
+Căn cứ Luật Công nghệ thông tin ngày 29 tháng 6
+năm 2006; Luật Cán bộ, công chức ngày 13 tháng 11 năm 2008;
+
+Căn cứ Pháp lệnh Bảo vệ bí mật nhà nước ngày 28
+tháng 12 năm 2000; Căn cứ Nghị định số 64/2007/NĐ-CP ngày 10 tháng 4 năm 2007 của
+Chính phủ về ứng dụng công nghệ thông tin trong hoạt động của cơ quan nhà nước;
+Quyết định số 1557/QĐ-TTg ngày 18 tháng 10 năm 2012 của Thủ tướng Chính phủ phê
+duyệt Đề án đẩy mạnh cải cách chế độ công vụ, công chức; 
+
+Xét đề nghị của Giám đốc Sở Nội vụ,
+
+QUYẾT ĐỊNH:
+
+Điều 1.
+Ban hành kèm theo Quyết định này Quy chế quản lý phần mềm thi trắc nghiệm
+và nội dung ôn thi, ngân hàng câu hỏi, đề thi tuyển, thi nâng ngạch công chức tỉnh Đồng Tháp.
+
+Điều
+2. Quyết định này có hiệu lực
+thi hành kể từ ngày ký.
+
+Điều 3.
+Chánh Văn phòng Ủy ban nhân dân Tỉnh, Giám đốc Sở
+Nội vụ,
+Thủ trưởng các sở, ban, ngành Tỉnh, Chủ tịch Ủy ban nhân dân các huyện, thị
+xã,
+thành phố chịu trách nhiệm thi hành Quyết định này./.
+
+ 
+
+ 
+
+Nơi nhận: 
+
+- Như Điều 3;
+
+ - Bộ Nội vụ;
+
+ - Thường trực Tỉnh ủy;
+
+ - Thường trực HĐND Tỉnh;
+
+ - Chủ tịch và các PCT UBND Tỉnh;
+
+ - Lưu: VT, NC/NC (Đức).
+
+TM. ỦY BAN NHÂN
+ DÂN
+
+ KT. CHỦ TỊCH 
+
+ PHÓ CHỦ TỊCH
+
+ Trần Thị Thái
+
+ 
+
+QUY CHẾ
+
+QUẢN LÝ PHẦN MỀM THI TRẮC NGHIỆM VÀ NỘI DUNG ÔN THI, NGÂN
+HÀNG CÂU HỎI, ĐỀ THI TUYỂN, THI NÂNG NGẠCH CÔNG CHỨC TỈNH ĐỒNG THÁP
+
+(Ban hành kèm theo Quyết định số 137/QĐ-UBND-HC ngày 18/02/2014 của Ủy ban
+nhân dân tỉnh Đồng Tháp)
+
+Chương I
+
+QUY ĐỊNH CHUNG
+
+Điều
+1. Phạm vi điều
+chỉnh
+
+Quy chế này quy định nguyên tắc, nội dung, trách
+nhiệm, quyền hạn, mối quan hệ giữa các cơ quan, đơn vị, cá nhân trong việc quản
+lý, vận hành, khai thác sử dụng phần mềm thi trắc nghiệm, quản lý ngân hàng câu
+hỏi, đề thi và đáp án của các môn thi tuyển, thi nâng ngạch công chức đối với
+ngạch cán sự, chuyên viên và tương đương.
+
+Điều
+2. Đối tượng áp dụng
+
+1. Quy chế này áp dụng đối với các cơ quan hành
+chính nhà nước trên địa bàn tỉnh Đồng Tháp.
+
+2. Cán bộ, công chức theo quy định của pháp luật.
+
+3. Những người tham gia, quản lý và thực hiện nhiệm
+vụ quản trị hệ thống cơ sở dữ liệu, người trực tiếp quản lý ngân hàng câu hỏi,
+đề thi và người lựa chọn quyết định các bộ đề thi trong các kỳ thi tuyển, nâng
+ngạch công chức thuộc thẩm quyền quyết định của Ủy ban nhân dân Tỉnh.
+
+4. Những người tham gia kỳ thi tuyển, nâng ngạch
+công chức trong cơ quan hành chính nhà nước trên địa bàn tỉnh Đồng Tháp.
+
+Điều
+3. Các thuật ngữ và khái niệm
+
+1. Phần mềm trắc nghiệm: Là phần mềm tin học hoá một
+bộ công cụ máy vi tính được thiết lập có tính hệ thống để phục vụ việc thi tuyển,
+thi nâng ngạch công chức (gọi tắt phần mềm) đối với các môn thi trắc nghiệm, có
+chức năng quản lý ngân hàng câu hỏi, đề thi và đáp án của các môn thi tuyển,
+thi nâng ngạch công chức (gọi tắt ngân hàng câu hỏi, đề thi).
+
+2. Mạng LAN (Local Area Network): Là một hệ thống mạng
+cục bộ được liên kết với nhau giữa các máy vi tính và các thiết bị ngoại vi
+trong phạm vi phòng thi.
+
+3. Cơ sở dữ liệu (Database): Là kho dữ liệu được
+lưu trữ trên máy vi tính theo các qui trình nghiệp vụ đã được thiết kế từ trước.
+
+4. Tài khoản người dùng: Là tên và mật khẩu để đăng
+nhập vào phần mềm quản lý ngân hàng câu hỏi, đề thi, mỗi người được cấp một tên
+riêng không trùng lắp (user name) và mật khẩu (password) để có quyền truy cập
+vào hệ thống và sử dụng.
+
+5. Quản lý tài khoản người dùng: Là việc tạo mới, cấp
+phát, hạn chế, mở rộng hoặc hủy bỏ quyền đăng nhập vào phần mềm quản lý ngân
+hàng câu hỏi, đề thi.
+
+6. Khai thác phần mềm: Là việc thực hiện các quy
+trình nghiệp vụ, các chức năng tra cứu, tìm kiếm thông tin của người dự thi hoặc
+tổng hợp các thông tin, kết xuất các thông tin (đề thi và đáp án của các môn
+thi), lập các bảng biểu thống kê, báo cáo và in các kết quả xử lý được ra màn
+hình hoặc ra giấy.
+
+Điều
+4.
+Nguyên tắc quản
+lý
+phần mềm và ngân hàng câu hỏi, đề thi
+
+1. Đảm bảo thống nhất quản lý, tổ chức vận hành phần
+mềm, sử dụng ngân hàng câu hỏi, đề thi.
+
+2. Sở Nội vụ làm đầu mối và có trách nhiệm giúp Ủy
+ban nhân dân Tỉnh quản lý, sử dụng phần mềm, ngân hàng câu hỏi, đề thi và được
+cấp tài khoản đăng nhập, khai thác sử dụng phần mềm quản lý theo quy định Quy
+chế này.
+
+3. Tôn trọng ý kiến của các tổ chức, cá nhân đóng
+góp xây dựng phần mềm, ngân hàng câu hỏi, đề thi, đồng thời kết hợp với nghiên
+cứu trong quá trình thực hiện để phát triển hoàn thiện và sử dụng có hiệu quả.
+
+4. Thường xuyên kiểm tra cơ sở dữ liệu, cập nhật nội
+dung không phù hợp kịp thời điều chỉnh, bổ sung vào ngân hàng câu hỏi, đề thi đảm
+bảo chặt chẽ, đúng quy định pháp luật.
+
+5. Được quản lý, sử dụng và bảo quản theo chế độ
+tài liệu mật theo quy định.
+
+6. Việc bảo quản, sao lưu dữ liệu được thực hiện
+trên máy chủ do Sở Nội vụ quản lý và có trách nhiệm áp dụng các biện pháp đảm bảo
+an ninh, bảo mật theo quy định.
+
+7. Dữ liệu trong phần mềm quản lý phải thống nhất với
+dữ liệu lưu trữ hồ sơ giấy.
+
+Điều
+5. Các
+hành vi bị nghiêm cấm
+
+1. Truy nhập trái phép hoặc cố ý nâng quyền truy cập
+vào phần mềm quản lý ngân hàng câu hỏi, đề thi.
+
+2. Sử dụng hoặc cung cấp thông tin có liên quan
+ngân hàng câu hỏi, đề thi, đáp án vào mục đích vụ lợi cá nhân.
+
+3. Cung cấp hoặc cố ý để lộ tài khoản đăng nhập vào
+phần mềm quản lý cho cá nhân, tổ chức không được giao quyền và trách nhiệm quản
+lý, sử dụng.
+
+4. Tự ý sao lưu dữ liệu trên máy chủ.
+
+Chương II
+
+QUẢN LÝ, SỬ DỤNG PHẦN MỀM
+TRẮC NGHIỆM, NGÂN HÀNG CÂU HỎI, ĐỀ THI
+
+Điều
+6.
+Quản lý tài khoản
+đăng nhập, khai thác
+phần
+mềm
+
+1. Sở Nội vụ là cơ quan tham mưu cho Ủy ban nhân
+dân Tỉnh quản lý phần mềm, ngân hàng câu hỏi, đề thi và được Ủy ban nhân dân Tỉnh
+ủy quyền sử dụng tài khoản quản trị để cấp, phân quyền tài khoản người dùng
+theo quy định Quy chế này.
+
+2. Cá nhân được giao nhiệm vụ quản lý, khai thác, sử
+dụng phần mềm có trách nhiệm bảo đảm bí mật, an toàn tài khoản người dùng và của
+cơ quan.
+
+Được sử dụng tài khoản người dùng của cơ quan để thực
+hiện việc cập nhật, quản lý, khai thác phần mềm; thay đổi mật khẩu được cấp và
+tự bảo mật tài khoản người dùng của đơn vị.
+
+3. Khi thực hiện kết thúc công việc, người dùng sẽ
+bị huỷ tài khoản.
+
+4. Trường hợp người dùng mất mật khẩu trong thời
+gian được phép khai thác phần mềm, phải báo cáo Giám đốc Sở Nội vụ để xin ý kiến
+Ủy ban nhân dân Tỉnh quyết định.
+
+Điều
+7. Quản lý và sử dụng phần
+mềm
+
+1. Trách nhiệm của Sở Nội vụ
+
+a) Quản lý, lưu trữ phần mềm đã được cài đặt trên
+máy chủ riêng biệt, sao lưu dữ liệu lưu trữ đảm bảo an toàn, bí mật.
+
+b) Kiểm tra cơ sở dữ liệu, cài đặt hệ thống duyệt
+Virus tin học cho máy chủ và duyệt Virus theo định kỳ hàng tháng.
+
+c) Tổ chức vận hành phần mềm thi trực tuyến trên
+các máy vi tính nối mạng LAN đối với môn thi trắc nghiệm hoặc truy xuất bộ đề
+thi của các môn thi trên giấy.
+
+d) Nghiên cứu đề xuất nâng cấp hoặc sửa chữa phần mềm
+nhằm đáp ứng yêu cầu công việc đạt hiệu quả cao nhất.
+
+đ) Được phép sử dụng tài khoản quản trị để cấp và
+quản lý các tài khoản người dùng.
+
+2. Các cơ quan khác có nhu cầu sử dụng phần mềm phải
+được Ủy ban nhân dân Tỉnh chấp thuận bằng văn bản (thông qua Sở Nội vụ tham
+mưu).
+
+3. Trung tâm Tin học Tỉnh có trách nhiệm hỗ trợ Sở
+Nội vụ về chuyên môn trong quá trình quản lý và sử dụng phần mềm.
+
+Điều
+8. Quản lý và sử dụng ngân hàng câu hỏi, đề
+thi
+
+1. Trách nhiệm của Sở Nội vụ
+
+a) Quản lý, lưu trữ ngân hàng câu hỏi, đề thi trên hồ
+sơ giấy và cài đặt trên phần mềm máy chủ, sao lưu dữ liệu sang đĩa CD an toàn,
+bí mật.
+
+b) Sử dụng cho các kỳ thi tuyển, thi nâng ngạch
+công chức hoặc có thể sử dụng cho các kỳ thi khác phù hợp và phải được sự thống
+nhất của Ủy ban nhân dân Tỉnh.
+
+2. Trách nhiệm của thủ trưởng các sở, ban, ngành Tỉnh
+
+a) Thường xuyên rà soát để loại bỏ, thay thế các nội
+dung ôn thi, câu hỏi không còn phù hợp và trình Ủy ban nhân dân Tỉnh quyết định.
+
+b) Chậm nhất sau 30 ngày làm việc, kể từ khi phát
+hiện nội dung không còn phù hợp hoặc có văn bản quy định mới, phải thực hiện điều
+chỉnh, bổ sung nội dung ôn thi, câu hỏi để tiếp tục công bố ngân hàng câu hỏi.
+
+c) Tiếp tục biên soạn bổ sung ngân hàng câu hỏi, đề
+thi đảm bảo số lượng.
+
+d) Bảo quản, lưu trữ đáp án theo chế độ tuyệt mật
+theo quy định Nhà nước.
+
+Điều 9. Trách nhiệm, quyền hạn
+của các cơ quan, cá nhân trong việc sử dụng, khai thác phần mềm, ngân hàng câu
+hỏi
+
+1. Sở Nội vụ
+
+a) Chịu trách nhiệm trước Ủy ban nhân dân Tỉnh
+trong việc quản lý, khai thác và sử dụng phần mềm, ngân hàng câu hỏi.
+
+b) Áp dụng các biện pháp đảm bảo bí mật theo quy định,
+xây dựng kế hoạch kiểm tra, bảo trì phần mềm.
+
+c) Hỗ trợ các cơ quan, tổ chức khác sử dụng phần mềm,
+sau khi có ý kiến của Ủy ban nhân dân Tỉnh cho phép sử dụng.
+
+d) Quyết định phân công, phân quyền công chức trực
+tiếp được phép sử dụng tài khoản người dùng để quản lý khai thác phần mềm, ngân
+hàng câu hỏi, đề thi theo quy định Quy chế này.
+
+đ) Cập nhật lại (đăng nhập) hoặc xoá bỏ dữ liệu và
+chịu trách nhiệm toàn bộ nội dung đã lưu trữ trên phần mềm quản lý.
+
+2. Sở Thông tin và Truyền thông
+
+a) Phối hợp với Sở Nội vụ tổng hợp ý kiến của tổ chức,
+cá nhân đóng góp và có đề xuất giải pháp để xem xét sửa đổi, nâng cấp phần mềm,
+cải tiến ngày càng hoàn thiện và thân thiện với người sử dụng.
+
+b) Hỗ trợ biện pháp phòng ngừa việc xảy ra sự cố hoặc
+nguy cơ xảy ra sự cố có ảnh hưởng xấu đến việc quản lý và khai thác sử dụng phần
+mềm.
+
+3. Trách nhiệm của công chức được phân công trực tiếp
+sử dụng tài khoản người dùng trong công tác quản lý khai thác phần mềm, ngân
+hàng câu hỏi, đề thi.
+
+a) Tuân thủ các quy định về truy nhập, sử dụng. Chịu
+trách nhiệm về tính kịp thời, chính xác về các thông tin, sử dụng phần mềm có
+hiệu quả phục vụ yêu cầu quản lý và tác nghiệp chuyên môn.
+
+b) Bảo vệ mật khẩu sử dụng của mình; đổi mật khẩu
+thường xuyên, không được cung cấp mật khẩu hoặc để lộ mật khẩu cho người khác
+biết.
+
+c) Định kỳ báo cáo với người đứng đầu cơ quan về
+tình hình bảo quản lưu trữ.
+
+Chương III
+
+ĐIỀU
+KHOẢN THI HÀNH 
+
+Điều
+10. Tổ chức thực
+hiện
+
+1. Trách nhiệm của Sở Nội vụ
+
+- Triển khai các sở, ban, ngành Tỉnh, Ủy ban nhân
+dân huyện, thị xã, thành phố thuộc Tỉnh thực hiện Quy chế này.
+
+- Nghiên cứu, phát hiện và báo cáo Ủy ban nhân dân
+Tỉnh xem xét, xử lý các vấn đề phát sinh trong quá trình sử dụng, khai thác phần
+mềm, ngân hàng câu hỏi, đề thi.
+
+- Tổng hợp số lượng đăng ký biên soạn của các sở,
+ban, ngành và thực hiện việc đăng nhập câu hỏi, đề thi, đáp án vào phần mềm và
+máy chủ bằng các biện pháp an toàn, bảo mật, đảm bảo tính chính xác.
+
+- Lập kế hoạch kinh phí biên soạn ngân hàng câu hỏi
+bổ sung hàng năm, trình Uỷ ban nhân dân Tỉnh quyết định.
+
+2. Trách nhiệm Sở Thông tin và Truyền thông
+
+Giám sát việc sử dụng, khai thác phần mềm và tư vấn
+về các biện pháp an toàn, bảo mật cho phần mềm và máy chủ.
+
+3. Trách nhiệm của Thủ trưởng các sở, ban, ngành Tỉnh
+
+- Tuyệt đối bảo mật các đáp án và câu hỏi, những nội
+dung có liên quan đến thi tuyển, nâng ngạch công chức, khi chưa được Ủy ban
+nhân Tỉnh công bố.
+
+- Đề xuất các biện pháp bảo đảm sử dụng và khai
+thác phần mềm, xây dựng ngân hàng câu hỏi đạt hiệu quả cao.
+
+- Tiếp tục biên soạn bổ sung ngân hàng câu hỏi, đề
+thi đảm bảo số lượng và chất lượng.
+
+- Từ năm 2014 trở về sau, từng cơ quan lập kế hoạch
+và đăng ký số lượng biên soạn bổ sung ngân hàng câu hỏi gửi Sở Nội vụ trước
+ngày 20 tháng 02 hàng năm, để tổng hợp trình Ủy ban nhân dân Tỉnh quyết định.
+
+Điều
+11. Xử lý vi phạm
+
+Cơ quan, đơn vị và cá nhân vi phạm các điều khoản
+trong Quy chế này, tùy theo tính chất, mức độ sẽ bị xử lý theo quy định của pháp
+luật.
+
+Điều
+12. Giá trị pháp
+lý ngân
+hàng câu hỏi, đề thi
+
+Các câu hỏi, đề thi, đáp án trong ngân hàng được
+lưu trữ trên phần mềm có giá trị pháp lý như văn bản giấy lưu trữ bên ngoài tại
+Sở Nội vụ.
+
+Trong quá trình thực hiện, nếu có khó khăn, vướng mắc,
+phát sinh các cơ quan, tổ chức, cá nhân kịp thời phản ánh về Sở Nội vụ để tổng
+hợp, báo cáo Ủy ban nhân dân Tỉnh xem xét, sửa đổi, bổ sung cho phù hợp./.--- THÔNG TIN THÊM ---
+Ten: Quyết định 137/QĐ-UBND-HC năm 2014 về Quy chế quản lý phần mềm thi trắc nghiệm và nội dung ôn thi, ngân hàng câu hỏi, đề thi tuyển, thi nâng ngạch công chức tỉnh Đồng Tháp
+So hieu: 137/QĐ-UBND-HC
+Loai van ban: Quyết định
+Linh vuc nganh: Lao động - Tiền lương, Công nghệ thông tin, Bộ máy hành chính
+Noi ban hanh: Tỉnh Đồng Tháp
+Nguoi ky: Trần Thị Thái
+Ngay ban hanh: 18/02/2014
+Ngay hieu luc: 18/02/2014
+Ngay dang: Dữ liệu đang cập nhật
+So cong bao: Dữ liệu đang cập nhật
+Tinh trang: Còn hiệu lực
+
+
+--- MỤC LỤC ---
+- QUYẾT ĐỊNH BAN HÀNH QUY CHẾ QUẢN LÝ PHẦN MỀM THI TRẮC NGHIỆM VÀ NỘI DUNG ÔN THI, NGÂN HÀNG CÂU HỎI, ĐỀ THI TUYỂN, THI NÂNG NGẠCH CÔNG CHỨC TỈNH ĐỒNG THÁP
+  - Điều 1. Ban hành kèm theo Quyết định này Quy chế quản lý phần mềm thi trắc nghiệm và nội dung ôn thi, ngân hàng câu hỏi, đề thi tuyển, thi nâng ngạch công chức tỉnh Đồng Tháp.
+  - Điều 2. Quyết định này có hiệu lực thi hành kể từ ngày ký.
+  - Điều 3. Chánh Văn phòng Ủy ban nhân dân Tỉnh, Giám đốc Sở Nội vụ, Thủ trưởng các sở, ban, ngành Tỉnh, Chủ tịch Ủy ban nhân dân các huyện, thị xã, thành phố chịu trách nhiệm thi hành Quyết định này./.
+- QUY CHẾ QUẢN LÝ PHẦN MỀM THI TRẮC NGHIỆM VÀ NỘI DUNG ÔN THI, NGÂN HÀNG CÂU HỎI, ĐỀ THI TUYỂN, THI NÂNG NGẠCH CÔNG CHỨC TỈNH ĐỒNG THÁP
+  - Chương I QUY ĐỊNH CHUNG
+    - Điều 1. Phạm vi điều chỉnh
+    - Điều 2. Đối tượng áp dụng
+    - Điều 3. Các thuật ngữ và khái niệm
+    - Điều 4. Nguyên tắc quản lý phần mềm và ngân hàng câu hỏi, đề thi
+    - Điều 5. Các hành vi bị nghiêm cấm
+  - Chương II QUẢN LÝ, SỬ DỤNG PHẦN MỀM TRẮC NGHIỆM, NGÂN HÀNG CÂU HỎI, ĐỀ THI
+    - Điều 6. Quản lý tài khoản đăng nhập, khai thác phần mềm
+    - Điều 7. Quản lý và sử dụng phần mềm
+    - Điều 8. Quản lý và sử dụng ngân hàng câu hỏi, đề thi
+    - Điều 9. Trách nhiệm, quyền hạn của các cơ quan, cá nhân trong việc sử dụng, khai thác phần mềm, ngân hàng câu hỏi
+  - Chương III ĐIỀU KHOẢN THI HÀNH
+    - Điều 10. Tổ chức thực hiện
+    - Điều 11. Xử lý vi phạm
+    - Điều 12. Giá trị pháp lý ngân hàng câu hỏi, đề thi
+
+--- VĂN BẢN LIÊN QUAN ---
+
+Van ban duoc can cu:
+  - Quyết định 1557/QĐ-TTg năm 2012 phê duyệt Đề án “Đẩy mạnh cải cách chế độ công vụ, công chức” do Thủ tướng ... (ID: 149791)
+  - Luật cán bộ, công chức 2008 (ID: 82202)
+  - Nghị định 64/2007/NĐ-CP về việc ứng dụng công nghệ thông tin trong hoạt động của cơ quan Nhà nước (ID: 18234)
+  - Luật Công nghệ thông tin 2006 (ID: 12987)
+  - Luật Tổ chức Hội đồng nhân dân và Ủy ban Nhân dân 2003 (ID: 51688)
+  - Pháp lệnh Bảo vệ bí mật Nhà nước năm 2000 (ID: 47368)
+
+Van ban lien quan cung noi dung:
+  - Nghị quyết 23/2022/NQ-HĐND sửa đổi Nghị quyết 24/2020/NQ-HĐND sửa đổi chế độ chi tiêu hành chính sự nghiệp trên địa bàn tỉnh Hậu Giang và Nghị quyết 34/2021/NQ-HĐND về quy định nội dung, mức chi xây dựng ngân hàng câu hỏi trắc nghiệm, tổ chức các kỳ thi phổ thông, chuẩn bị tham dự các kỳ thi Olympic quốc tế, khu vực và tổ chức các kỳ thi, cuộc thi, hội thi trong lĩnh vực giáo dục - đào tạo trên địa bàn tỉnh Hậu Giang (ID: 571810)
+  - Quyết định 3473/QĐ-UBND năm 2015 ban hành Quy chế quản lý, khai thác và sử dụng phần mềm quản lý thông tin cán bộ, công chức, viên chức trong cơ quan nhà nước trên địa bàn thành phố Cần Thơ (ID: 296257)
+  - Kế hoạch 4871/KH-UBND tổ chức thi nâng ngạch công chức tỉnh Lâm Đồng năm 2014 theo nguyên tắc cạnh tranh (ID: 250111)
+  - Kế hoạch 6258/KH-UBND triển khai thi nâng ngạch, thi tuyển công chức năm 2013 qua phần mềm máy tính do tỉnh Đồng Nai ban hành (ID: 229837)

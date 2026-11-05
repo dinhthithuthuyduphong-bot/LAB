@@ -1,0 +1,6005 @@
+BỘ GIAO THÔNG VẬN
+ TẢI
+
+CỤC HÀNG KHÔNG VIỆT NAM
+
+ -------
+
+CỘNG HÒA XÃ HỘI CHỦ
+ NGHĨA VIỆT NAM
+
+ Độc lập - Tự do - Hạnh phúc 
+
+ ---------------
+
+Số: 901/QĐ-CHK
+
+Hà Nội, ngày 19 tháng 4
+ năm 2024
+
+ 
+
+QUYẾT
+ĐỊNH
+
+VỀ VIỆC BAN HÀNH SỔ TAY HƯỚNG DẪN ĐÀO TẠO CHO
+CHUYÊN VIÊN KỸ THUẬT VÀ GIÁM SÁT VIÊN AN TOÀN KHAI THÁC CẢNG HÀNG KHÔNG, SÂN
+BAY (TECHNICAL STAFF/INSPECTORS) 
+
+(TU CHỈNH LẦN 3)
+
+CỤC
+TRƯỞNG CỤC HÀNG KHÔNG VIỆT NAM
+
+Căn cứ Luật Hàng không dân dụng Việt Nam số 66/2006/QH11
+ngày 29/6/2006; Luật sửa đổi, bổ sung một số điều
+của Luật Hàng không dân dụng Việt Nam số 61/2014/QH13 ngày 21/11/2014;
+
+Căn cứ Nghị định số 66/2015/NĐ-CP ngày 12/8/2015 của Chính phủ quy định
+về Nhà chức trách hàng không;
+
+Căn cứ Nghị định số 05/2021/NĐ-CP ngày 25/01/2021 của Chính phủ quy định
+về quản lý, khai thác cảng hàng không, sân bay;
+
+Căn cứ Thông tư số 29/2021/TT-BGTVT ngày 30/11/2021 của Bộ trưởng
+Bộ Giao thông vận tải quy định chi tiết về quản lý, khai thác cảng hàng không,
+sân bay;
+
+Căn cứ Quyết định số 651/QĐ-BGTVT ngày 29/5/2023 của Bộ trưởng Bộ
+Giao thông vận tải quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức
+của Cục Hàng không Việt Nam; Quyết định số 371/QĐ-BGTVT
+ngày 02/4/2024 của Bộ trưởng Bộ Giao thông vận tải sửa đổi Điều
+3 Quyết định số 651/QĐ- BGTVT ngày 29/5/2023 của Bộ trưởng Bộ Giao thông
+vận tải quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Cục Hàng
+không Việt Nam;
+
+Căn cứ Quyết định số
+1506/QĐ-CHK ngày 11/7/2022 của Cục trưởng Cục Hàng không Việt Nam về việc ban
+hành chính sách và quy trình chung về đảm bảo nguồn nhân lực hệ thống giám sát
+an toàn hàng không;
+
+Xét đề nghị của
+Trưởng phòng Quản lý cảng hàng không, sân bay,
+
+QUYẾT
+ĐỊNH:
+
+Điều 1. Ban
+hành kèm theo Quyết định này Sổ tay hướng dẫn đào tạo cho chuyên viên kỹ thuật
+và giám sát viên an toàn khai thác cảng hàng không, sân bay
+
+(Aerodrome Technical
+Staff/Inspector Training Manual) (được tu chỉnh lần 3 để cập nhật theo hướng
+dẫn đào tạo cho giám sát viên an toàn khai thác cảng hàng không, sân bay của Tổ
+chức hàng không dân dụng quốc tế - ICAO). Sổ tay hướng dẫn được đăng tải
+trên Trang thông tin điện tử của Cục Hàng không Việt Nam tại mục “Văn bản”.
+
+Điều 2. Quyết
+định này có hiệu lực kể từ ngày ký và thay thế Quyết định số 2339/QĐ-CHK ngày
+27/10/2023 của Cục trưởng Cục Hàng không Việt Nam về việc ban hành Sổ tay hướng
+dẫn đào tạo giám sát viên an toàn khai thác cảng hàng không, sân bay.
+
+Điều 3. Các
+ông/bà: Chánh Thanh tra Cục Hàng không Việt Nam; Trưởng phòng Quản lý cảng hàng
+không, sân bay; Thủ trưởng các cơ quan, đơn vị và cá nhân liên quan chịu trách
+nhiệm thi hành Quyết định này./.
+
+ 
+
+ Nơi nhận:
+
+-
+ Như Điều 3;
+
+ - Các Phó Cục trưởng (để biết);
+
+ - P.TCCB, TTHK;
+
+ - Lưu: VT, QLC (Phg 10b).
+
+CỤC TRƯỞNG
+
+ Đinh Việt Thắng
+
+ 
+
+AERODROME TECHNICAL STAFF/INSPECTOR TRAINING
+MANUAL
+
+(Attachment
+of Decision number 901/QD-CHK dated 19/4/2024 by Director General)
+
+ 
+
+AMENDMENTS
+
+No.
+
+Date
+ applicable
+
+Subject
+
+Entered
+ by
+
+Version
+ 1
+
+April
+ 10th, 2020
+
+-
+
+CAAV
+
+Version
+ 2
+
+March
+ 14th, 2022
+
+Update
+ legal document
+
+CAAV
+
+Version
+ 3
+
+October
+ 27th, 2023
+
+Adjust
+ the duration and training method for Technical Staff/Aerodrome Safety
+ Inspector according to ICAO APAC Guidance
+
+CAAV
+
+Version
+ 4
+
+April
+ 19th, 2024
+
+Add
+ deadlines and priorities for specialized training courses
+
+CAAV
+
+ 
+
+TABLE
+OF CONTENT
+
+AUTHORISATION
+
+CONDITIONS OF USE
+
+DISTRIBUTION LIST
+
+ABBREVIATIONS
+
+CHAPTER 1.
+INTRODUCTION
+
+I. Objectives of the
+document
+
+II. Reference
+documents
+
+III. Safety oversight
+obligation
+
+IV. Critical elements
+of a safety oversight system
+
+CHAPTER 2. TRAINING
+PROGRAMME
+
+I. Training policies
+
+1. Qualification
+policies
+
+2. Training policy
+
+II. Roles &
+responsibilities
+
+1. Director General
+
+2. Human resource
+director
+
+3. AMD director
+
+4. Technical
+personnel
+
+CHAPTER 3. CAPACITY
+BUILDING PROGRAMME
+
+I. Training need analysis
+
+II. Methodology
+
+III. Training
+roadmaps
+
+1. Induction
+(Initial) Training
+
+2. Core (Regulatory)
+Training
+
+3. On-the-Job
+Training
+
+4. Recurrent /
+Refresher / Continuation and Specialised Training
+
+5. Recurrent /
+Refresher / Continuation training
+
+6. Specialised
+Training
+
+7. Qualification
+Certificates
+
+8. Failing to Meet
+Qualification Standards
+
+IV. Development of
+training plan
+
+CHAPTER 4. FORMAL
+TRAINING GUIDELINES
+
+I. General policies
+
+II. Types of training
+
+III. Formal in -house
+initial training
+
+IV. Structured
+initial on-the-job training
+
+CHAPTER 5. ON-THE-JOB
+TRAINING & QUALIFICATION
+
+I. General policies
+
+II. OJT configuration
+
+1. Task structure and
+assignment
+
+2. Restrictions
+
+3. Training structure
+
+III. Definitions
+
+IV. Roles and
+responsibilities
+
+1. HR director
+
+2. AMD director
+
+3. OJT instructor
+
+4. Trainee
+
+V. OJT Method - Level
+I
+
+VI. OJT Methods -
+Level II
+
+CHAPTER 6.
+TECHNICALLY QUALIFIED INSPECTORS
+
+I. Technical
+inspectors
+
+II. ADI positions
+
+1. Movement Area
+Inspector
+
+1.1. Function
+
+1.2. Primary task
+
+1.3. Minimum
+Qualification Requirement
+
+2. Visual Aids and
+Electrical System Inspector
+
+2.1. Function
+
+2.2. Primary task
+
+2.3. Minimum
+Qualification Requirement
+
+3.
+Operating Procedure and Safety Measure Inspector
+
+3.1. Function
+
+3.2. Primary task
+
+3.3. Minimum
+Qualification Requirement
+
+4. Rescue and Fire
+Fighting Inspector
+
+4.1. Function
+
+4.2. Primary task
+
+4.3. Minimum Qualification
+Requirement
+
+APPENDIX 1. SUMMARY
+OF ADI EXPERIENCE
+
+APPENDIX 2. ADI
+TRAINING PROGRAME
+
+PHASE 1- INITIAL/BASIC
+TRAINING
+
+PHASE 2- CORE
+(REGULATORY) TRAINING
+
+PHASE 3- ON THE JOB
+TRAINING
+
+PHASE 4- RECURRENT/REFRESHER/CONTINUATION
+TRAINING
+
+PHASE 5- SPECIALISED
+TRAINING
+
+APPENDIX 3. TRAINING
+ROAD MAP FOR AERODROME INSPECTOR
+
+APPENDIX 4. TRAINING
+NEEDS ANALYSIS
+
+APPENDIX 5:
+METHODOLOGY IN DETERMINING THE NUMBER OF AERODROME SAFETY INSPECTORS
+
+ 
+
+AUTHORISATION
+
+This manual is an
+internal document setting out policies and procedures for Aerodrome Technical
+Staff/Inspector Training, produced by the Airport Management Department to
+provide the information and guidelines needed for staff’s training and
+development to perform their tasks and responsibilities in Civil Aviation
+Authority of Vietnam.
+
+For the purpose of
+effective management of training, I require all relevant staff to use this
+document in the performance of their duties. This manual is a living document
+and I encourage you to continually contribute to its improvement and to your
+work practices covered by the procedures contained in this document.
+
+This document is
+issued under the authority of the Director General of the Civil Aviation
+Authority of Vietnam.
+
+ 
+
+Dinh Viet Thang
+
+Director General
+
+Civil Aviation Authority
+of Vietnam.
+
+ 
+
+Initial Issue Date: April 19th, 2024
+
+ 
+
+CONDITIONS OF USE
+
+The assigned manual
+holder is responsible for the care and upkeep of the manual, and for its
+revision, in accordance with any instructions or revision material provided by
+the Civil Aviation Authority of Vietnam.
+
+Assigned manual
+holders are to ensure that they familiarize themselves with the content of the
+manual, including any revisions received.
+
+Manual holders with
+staff management or supervisory responsibilities shall ensure that their
+subordinate staffs are fully aware of changes to work practices or duties which
+may occur as a result of revisions to the manual.
+
+The manual holder is encouraged
+to identify, recommend and submit any requests to amend any part of this
+manual.
+
+Manual holders and
+users are not permitted to make any alterations, erasures or use marks of
+emphasis in this manual.
+
+This manual must be
+returned to the Civil Aviation Authority of Vietnam on cessation of employment
+(or in the case of a contractor, upon cessation of the service contract), or
+when otherwise recalled by the Director General (DG).
+
+ 
+
+DISTRIBUTION LIST
+
+DOCUMENT
+ NUMBER
+
+NAME
+ and TITLE of HOLDER
+
+00
+
+Master
+ Copy
+
+01
+
+DG
+ / Director General
+
+02
+
+Human
+ Resource Department
+
+03
+
+Flight
+ Safety Standard Department
+
+04
+
+Airport
+ Management Department
+
+05
+
+Air
+ Navigation Department
+
+06
+
+Science,
+ Technology and Environment Department
+
+07
+
+Finance
+ Department
+
+08
+
+International
+ Cooperation Department
+
+09
+
+Southern
+ Airport Authority
+
+10
+
+Northern
+ Airport Authority
+
+11
+
+Middle
+ Airport Authority
+
+12
+
+Airports
+ Corporation of Vietnam
+
+ 
+
+ABBREVIATIONS
+
+Some common
+abbreviations/acronyms used in this document are as follows:
+
+ADI
+
+Aerodrome Inspector
+
+AGA
+
+Aerodrome and
+ Ground Aids
+
+AMD
+
+Airport Management
+ Department
+
+ANS
+
+Air Navigation
+ Services
+
+CAAV
+
+Civil Aviation
+ Authority of Vietnam
+
+CE
+
+Critical Element
+
+CMA
+
+Continuous
+ Monitoring Approach
+
+DG
+
+Director General
+
+EI
+
+Effective
+ Implementation
+
+ICAO
+
+International Civil
+ Aviation Organization
+
+LEI
+
+Lack of Effective
+ Implementation OPS Operations
+
+MARI
+
+Minimum Annual
+ Required Inspection
+
+PEL
+
+Personnel Licensing
+
+SMS
+
+Safety management
+ system
+
+SOA
+
+Safety Oversight
+ Audit Section
+
+SSP
+
+State Safety
+ Programme
+
+USOAP
+
+ICAO Universal
+ Safety Oversight Audit Programme
+
+ 
+
+CHAPTER 1. INTRODUCTION
+
+I.
+Objectives of the document
+
+The Vietnamese civil
+aviation legislation system provides the framework of one of the most important
+mode of transportation for Vietnam both domestically and internationally. A
+primary objectives of the Civil Aviation Law 2006 (amended in 2014) includes
+enhancing safety, security, efficiency and service quality in the civil
+aviation system in a sustainable manner, facilitating access to the air
+transport network and contributing to the safe, smooth flow of passengers,
+aircraft and cargo within the civil aviation system so that it can contribute
+to the economic and social development of Vietnam. An effective safety
+oversight system is crucial in achieving these objectives.
+
+ICAO Doc 9760 states that
+the States must be staffed with qualified and experienced personnel capable of
+successfully undertaking the wide variety of required tasks. ICAO Doc 8335 also
+states that the satisfactory execution of the various functions of the CAAV
+depends to a large extent on the qualifications, experience, competence and
+dedication of individual inspectors. In addition, it is also important for CAAV
+to have inspectors with a mix of disciplines to adequately oversee their
+aviation industry
+
+ICAO safety oversight
+audits and other ICAO missions have shown that many Contracting States have not
+established effective safety oversight systems and that qualification of
+technical personnel are often deficient, thereby creating an opportunity for
+lack of safety oversights over approval holders. The establishment and
+management of an effective safety oversight system require a high-level of
+commitment, without which a State cannot fully satisfy its aviation system
+safety-related responsibilities.
+
+This was further
+underscored by ICAO’s recent comprehensive system approach audit result showing
+the area of Critical Element 4 (CE-4) “qualified personnel” having the highest
+lack of effective implementation. Thus, the objective of this document is to
+provide the Civil Aviation Authority of Vietnam with the guidance to improve
+its CE-4 effective implementation scoring by increasing the number of qualified
+inspectors and ensuring all technical staff are properly trained so that the
+Vietnamese safety oversight activities will be effectively discharged.
+
+In order to provide
+comprehensive and meaningful guidance on the development and management of the
+AMD’s capacity building, a training programme which includes typical training
+road maps for various functional areas is presented in Chapter 4. The
+implementation of this programme will ensure that AMD is capable of meeting its
+safety oversight responsibilities.
+
+Furthermore, this
+document provides an overview of a typical training framework which is used to
+identify appropriate types of training and respective training providers that
+will help equip technical personnel with the knowledge and the skill to
+discharge his/her safety oversight activities. Figure 1 shows a typical
+capacity building flowchart that AMD uses to build internal capacity.
+
+ 
+
+Figure
+1. Typical Capacity Building Flowchart
+
+II.
+Reference documents
+
+The documents listed
+below are referred to in this manual and have been used as guidance for the
+development of this training programme manual.
+
+Related Documents:
+
+• ICAO Doc.8335,
+Manual of Procedures for Operations Inspection, Certification and Continued
+Surveillance
+
+• ICAO Doc.9379,
+Manual of Procedures for Establishment and Management of a State’s Personnel
+Licensing System
+
+• ICAO Doc.9734A,
+Safety Oversight Manual
+
+• ICAO Doc.9734B,
+Regional Safety Oversight Manual
+
+III.
+Safety oversight obligation
+
+When permitting or
+undertaking aviation activities, the Contracting State incurs certain
+obligations under Chicago Convention and its Annexes.
+
+To ensure that the
+State’s system is appropriate to the level and scope of their aviation
+activity, ICAO Document 9734, Part A, mentions that each of these obligations
+will require consideration of the critical elements of a safety oversight
+system. This should include.
+
+State policy to
+systematically manage the safety-critical pressures, dependencies and conflicts
+affecting the community from internal as well as external sources. Part of that
+management process call for States to consider the adoption of national requirements
+that exceed ICAO SARPs in some areas for some circumstances.
+
+While public interest
+needs to be considered, States need to ensure that a proper system of checks
+and balances is maintained. The State should retain effective control of
+important inspection functions. Such functions cannot be delegated, otherwise,
+the aviation industry will end up regulating themselves and the State’s
+oversight system is not effective.
+
+IV.
+Critical elements of a safety oversight system
+
+All ICAO Contracting
+States, in their effort to establish and implement an effective safety
+oversight system, need to consider the critical elements (CE) for safety
+oversight.
+
+ICAO Document 9734,
+Part A, mentions that CEs are essentially the safety defence tools of a safety
+oversight system and are required for the effective implementation safety
+oversight critical elements of a safety oversight system encompass the whole
+spectrum of civil aviation activities, including airworthiness of aircraft,
+accident/incident investigation, and transport of dangerous goods by air. The
+effective implementation of the CE is an indication of a state’s capability for
+safety oversight.
+
+ICAO has identified
+and defined the following critical elements of a State’s
+
+Safety oversight
+system:
+
+CE-1. Primary
+aviation legislation. The provision of a comprehensive and effective aviation
+law consistent with the environment and complexity of the State’s aviation
+activity and compliant with the requirements contained in the Convention on
+International Civil Aviation
+
+CE-2. Specific
+operating regulations. The provision of adequate regulations to address, at a minimum,
+national requirements emanating from the primary aviation legislation and
+providing for standardization operational procedures, equipment and
+infrastructures (including safety management and training systems), in
+conformance with the Standards and Recommended Practices (SARPs) contained in
+the Annexes to the Convention of International Civil Aviation.
+
+CE-3. State civil
+aviation system and safety oversight functions. The establishment of
+a Civil Aviation Authority (CAAV) and/or other relevant authorities or
+government agencies, headed by a Director General, supported by the appropriate
+and adequate technical and non-technical staff and provided with adequate
+financial resources. The State authority must have stated regulatory functions,
+objectives and safety policies.
+
+CE-4. Technical
+personnel qualification and training. The establishment of minimum knowledge and
+experience requirements for the technical personnel performing safety oversight
+functions and the provision of appropriate training to maintain and enhance
+their competence at the desired level. The training should include initial and
+recurrent (periodic) training.
+
+CE-5. Technical
+guidance, tools and the provision of safety-critical information. The provision of
+technical guidance (including processes and procedures), tools (including
+facilities and equipment) and safety oversight functions in accordance with
+established requirements and in a standardized manner. In addition, this
+includes the provision of technical guidance by the oversight authority to the
+aviation industry on the implementation of applicable regulations and
+instructions.
+
+CE-6. Licensing,
+certification, authorization and approval obligations. The implementation of
+processes and procedures to ensure that personnel and organisations performing
+an aviation activity meet the established requirements before they are allowed
+to exercise the privileges of a license, certificate, authorization and/or
+approval to conduct the relevant aviation activity.
+
+CE-7. Surveillance
+obligations. The
+implementation of processes, such as inspections and audits, to proactively
+ensure that aviation license, certificate, authorization and/or approval
+holders continue to meet the established requirements and function at the level
+of competency and safety required by the State to undertake an aviation-
+related activity for which they have been licensed, certified, authorized and/or
+approved to perform. This includes the surveillance of designated personnel who
+perform safety oversight functions on behalf of CAAV.
+
+CE-8. Resolution of
+safety concerns. The
+implementation of processes and procedures to resolve identified deficiencies
+impacting aviation safety, which may have been residing in the aviation system
+and have been detected by the regulatory authority or other appropriate bodies.
+
+ 
+
+CHAPTER 2. TRAINING PROGRAMME
+
+The key elements of
+AMD’s training programme are as follows:
+
+• Training policy
+statement;
+
+• Training
+Objectives; and
+
+• Competency-based
+training.
+
+Once the above
+foundations are established, the respective training road maps and individual
+training plan are then established using guidance shown in Figure 2 below.
+
+Figure
+2. Training Programme Overview
+
+Depending on the
+available capability, the actual trainings may be carried out under the direct
+control of CAAV or conducted by other training service providers.
+
+Training road maps
+are reviewed periodically to establish a customised training road maps where it
+serves its purposes and needs.
+
+In reviewing the
+effectiveness of trainings conducted in-house or by a service provider, AMD
+Director are required make a determination as to whether the training methods,
+syllabus, training standards, related facilities and record keeping are
+adequate for its technical personnel.
+
+I.
+Training policies
+
+In addition to the
+Director’s Training Policy Statement, this chapter provides an expansion of the
+policy and includes procedures that are used by AMD to employ, initially qualify,
+maintain and upgrade the technical personnel used in its safety oversight
+programmes.
+
+1. Qualification
+policies
+
+2. Training policy
+
+A. AMD in fulfilling
+its obligation is committed to provide for the development of a highly skilled
+and qualified work force for its aviation oversight programmes.
+
+B. Employees will be
+fully trained in the essential job tasks, knowledge, and skills that are
+required to accomplish the:
+
+(1) AMD safety
+oversight; 
+
+(2) Meet ICAO
+obligations;
+
+(3) Ensure the
+conformance of the aviation community; and safeguard the travelling public.
+
+C. The qualification
+programme outlined in this manual will prepare technical personnel to apply the
+standards appropriate to the position assignments during their employment with
+CAAV.
+
+D. This manual
+outlines the qualification events and training for ADI and provides for both
+baseline and specialisation of qualifications.
+
+II.
+Roles & responsibilities
+
+1. Director General
+
+With respect to
+qualification of the support personnel, the Director General has the overall
+responsibility for the provision of qualified technical personnel to implement
+CAAV aviation oversight programme. His responsibilities include:
+
+• Provision of adequate
+qualified staff to ensure the fulfilment of Vietnam requirements and
+international obligations.
+
+• Ensure that the
+budget submitted by AMD will fully support the requirements for the
+qualification of the technical personnel.
+
+• Ensure that
+adequate resources are provided to the AMD to fully implement the qualification
+programme for its technical personnel.
+
+• Approve and fund
+training activities necessary to this qualification programme.
+
+Negotiate and oversee
+national agreements and contracts with government and commercial training
+vendors.
+
+2. Human resource
+director
+
+With respect to
+qualification of support personnel, the Human Resource Director is responsible
+for on-going quality assurance of CAAV’s functions, including the provision and
+quality of training.
+
+This will include:
+
+• Ensuring that the
+support personnel qualification programme is effectively and efficiently
+managed and complies with all policy requirements.
+
+• Provisions for
+evaluation of any locally arranged and conducted training.
+
+• Review the training
+programme to ensure it is meeting national objectives, ICAO requirements, and
+international obligations.
+
+• Provisions for
+periodic review of training courses to ensure that the content remains current with
+respect to job tasks, knowledge, skills and inspector performance requirements.
+
+• Annual review of
+the training plan for each inspector, determines completion and future training
+needs.
+
+• Hire highly
+qualified individuals to serve as technical personnel in the aviation oversight
+programmes.
+
+• Ensure the
+development of a highly skilled and qualified workforce.
+
+• Ensure that an on-going
+OJT programme is being administered in each Department.
+
+• Hold supervisors
+and managers accountable for ensuring that employee work assignments and
+schedules allow for sufficient time for employees to fully participate in and
+complete training requirements.
+
+3. AMD director
+
+With respect to
+qualification of technical personnel, managers play a key role in assessing
+gaps between oversight obligations/responsibilities and actual workforce
+skills, identifying developmental needs, prioritizing training needs,
+certifying the accomplishment of learning objectives and fostering on-the-job
+development. This will include:
+
+• Ensure that
+employee work assignments and schedules allow sufficient time for employees to
+fully participate in and complete training requirements.
+
+• Notify the DG
+regarding changes in training requirements, specify new training needs not
+previously identified, and relinquish training resources that no longer apply.
+
+• Foster a work
+environment conducive to the success of the training programme. Communicate
+regularly with employees regarding the status of training. Arrange for formal
+training courses that are required for each inspector. Schedule On- the-
+Job-training events.
+
+4. Technical
+personnel
+
+With respect to
+qualification of technical personnel, the individual employee must take a pro-
+active role in ensuring that they are qualified for the job tasks that they are
+to perform. This will include:
+
+• Collaborate with
+management to identify personal training needs.
+
+• Communicate with
+the immediate supervisor and peers to plan training activities.
+
+• Actively
+participate in training activities.
+
+• Review personal
+training records and documentation to ensure that it is up to date.
+
+• Provide feedback
+and evaluation regarding the effectiveness of the training programme.
+
+ 
+
+CHAPTER 3. CAPACITY BUILDING PROGRAMME
+
+I.
+Training need analysis
+
+Prior to providing
+trainings and education to each of ADI, consideration is given to the person’s
+job description which lays out his/her major duties, responsibilities,
+organisational relationships, scope of work and amount of supervision when
+performing job tasks. Once the respective job descriptions and Minimum
+Qualification Requirements (MQR) are considered against the technical
+personnel’s qualification, AMD will then carry out a Training Need Analysis
+(TNA) to establish the training requirements and define the Training Plan for
+each of these roles and responsibilities.
+
+In addition, it must
+be also considered that some of these technical personnel have joined the
+organisation at various qualification entry points (i.e. licence holder against
+a non-license holder, graduate against a non-graduate, etc.) and with different
+levels of experience (i.e. new to the aviation industry against those with many
+years of aviation experience).
+
+II.
+Methodology
+
+Considering the
+varied entry points of technical personnel, it is important that technical
+personnel are progressively and effectively transited with basic foundation
+completed before moving on to next level of training. As such, AMD has adopted
+a training structure for its typical training road map which consists of three
+phases of training beginning with “Induction (Initial) Training”, follows by
+“Core (Regulatory) Training” and ends with “On- the-Job Training (OJT)”. Due to
+the uniqueness of each functional area, the training requirements under each of
+these three phases have to be well guided by the individual technical
+personnel’s job description.
+
+Once the relevant
+training requirements are put together in this manner, this forms the final
+training road map for ADI. Training requirements for ADI together with typical
+training road maps is established and is attached as Appendix 4 of this Manual.
+
+With the training
+road maps, the AMD will then accomplish the TNA mechanism and develop its
+training plan aiming to fulfil all the training requirements spelled out in the
+training roadmap.
+
+The individual
+training plans and the associated budgetary allocations requires the approval
+of the DG.
+
+As the training road
+map typically last over a period of 2 years, the three phases in the training
+road map serve as training milestones which the respective technical personnel
+or AMD Director could easily monitor the progress of the individual technical
+personnel.
+
+AMD Director are
+required to manage both the training road maps and training plans efficiently
+and to also ensure these are effectively implemented. This is important as
+these training road maps and training plans would fundamentally determine the quality
+and capabilities of these technical personnel working for AMD.
+
+Due to constant
+changes in the aviation environment and complexity, AMD will carry out an
+annual review of the road map and the training plan to keep it updated and
+relevant.
+
+III.
+Training roadmaps
+
+CAAV uses a typical
+Training Road Map (TRM) consisting of 3 categories of training as detailed
+below:
+
+1. Induction
+(Initial) Training
+
+To equip new
+technical personnel with the basic skills and knowledge relevant to their job
+responsibilities and should begin at the start of employment and preferably be
+completed within the first six months.
+
+2. Core (Regulatory)
+Training
+
+Provides new
+technical personnel with knowledge and skills in specific technical areas to
+carry out their duties effectively. The duration for this category varies
+between one to 1.5 years depending on the availability of the required
+regulatory trainings.
+
+3. On-the-Job
+Training
+
+Hands-on training
+under the supervision of a senior technical personnel should be well planned
+and structured. Although this category usually concluded within the first two
+years of employment, however, if the new technical personnel is assessed to be
+incompetent in his/her new duties, he/she will have to undergo additional
+trainings till he/she reaches an acceptable level of competency.
+
+4. Recurrent /
+Refresher / Continuation and Specialised Training
+
+Although the TRMs do
+not include recurrent (or refresher) and specialised (or advance) training,
+after the technical personnel have been qualified, they will continue to
+receive training throughout their employment. AMD requires technical personnel
+to develop their competencies continuingly on areas that are related to their
+respective responsibilities. For technical personnel who are subsequently
+required to implement additional tasks or more in-depth tasks, specialty
+trainings or advance trainings are required to be completed before carrying out
+further assignments.
+
+5. Recurrent /
+Refresher / Continuation training
+
+Technical personnel
+represent the authority and, as such, require the continuous development of
+their competencies related to their respective responsibilities. This will be
+accomplished through periodic training.
+
+Recurrent/refresher/continuation
+training is required for all inspectors in every two years after obtaining the
+basic/initial inspector course.
+
+6. Specialised
+Training
+
+This phase would
+consist of advanced or specialized courses to ensure that ADI remain current
+with changes in technology and investigative methods.
+
+Specialised training
+courses are conducted with two priority levels:
+
++ Level 1 (First
+priority) courses which conducted within 01 years after completion of OJT.
+
++ Level 2 (Second
+priority) courses which conducted within 03 years after completion of 1st
+priority courses.
+
+7. Qualification
+Certificates
+
+A formal completion
+certificate will be issued to any inspector that:
+
+ (1) Attends at least
+85% of the hours allotted to each training course; and a copy of that
+certificate will be included in the CAAV’s qualification file for the employee;
+and
+
+ (2) Completes the
+exercises, tests and evaluations included in the course in a satisfactory
+manner.
+
+8. Failing to Meet
+Qualification Standards
+
+ (1) Technical
+personnel failing to satisfactorily meet qualification standards will be
+considered for the necessary training. This will be coordinated between the AMD
+and Human Resources Department and requires the DG’s approval; and
+
+ (2) The Technical
+personnel employment with AMD will be subjected to a review if the candidate
+fails to meet the qualification standard after the remedial training or the
+second attempt.
+
+IV.
+Development of training plan
+
+With the TRMs
+developed for each key job functions, the AMD will then use the relevant TRM to
+develop personnel training plan by detailing the course names, course dates,
+training organisations, etc., for the entire training year(s).
+
+However, the new
+technical personnel’s training plan may be subjected to unforeseen changes i.e.
+course cancellation/postponement, therefore, it has to be regularly updated and
+tracked to ensure that the plan is successfully carried out in a timely manner.
+Depending on the availability of the required courses, AMD Director must
+prioritise the trainings according to the level of importance to each key job
+function.
+
+In addition, the
+selection of courses should not be based on whatever courses are available but
+rather based on courses that meet the specific training needs of the technical
+personnel. For example, a similar topic offered by various training
+organisations could come with different / varied syllabus i.e. basic or
+advance, or course name/title, as such, technical personnel should find out
+more about the course before registration.
+
+In most instances,
+the training plan for new technical personnel normally stretch over a period of
+2 years. After the technical personnel has fully completed his/her required
+trainings, his/her subsequent training plan could be just a yearly plan
+covering new trainings due to new work scope or recurrent trainings, as
+required.
+
+AMD is required to
+develop and maintain a training management system where the training of each
+technical personnel can be traced and training related records can be kept on
+completion of each training. This system will be made available to both internal
+and external auditors, as and when necessary, during audit.
+
+ 
+
+CHAPTER 4. FORMAL TRAINING GUIDELINES
+
+This chapter provides
+further guidance in the implementation of Training Road Maps and the Recurrent /
+Refresher / Continuation and Specialised Training.
+
+I.
+General policies
+
+A. It is the policy
+of the CAAV that all inspectors should be qualified by training or experience
+to conduct the inspections, evaluations and investigations assigned to this
+office.
+
+B. The inspectors of
+the CAAV or its designees will be technically qualified on a parallel basis to
+the persons in the aviation industry that they are assigned to regulate.
+
+C. No inspector will
+be obligated to conduct an inspection, evaluation or approval unless that
+person believes they are technically or otherwise qualified to undertake.
+
+D. No person will be
+assigned to conduct a task unsupervised unless management believes that person
+to be qualified by experience, training or applying positive transfer of
+knowledge or experience.
+
+E. All formal
+training applicable to the qualifications of an inspector, whether previous to
+or after employment shall be recorded in the Qualification database.
+
+II.
+Types of training
+
+In conjunction with
+the TRM, Inspectors will be given a variety of training that will include:
+
+• Induction (Initial)
+Training including formal In-house;
+
+• Core (Regulatory)
+training;
+
+• Structured
+“on-the-job-training” (OJT);
+
+III.
+Formal in-house initial training
+
+This formal training
+is a requirement for all full-time CAAV Personnel.
+
+A. CAAV will conduct in-house
+training courses through senior CAAV employees and contracted sources.
+
+B. These courses will
+consist of a formal review of the Civil Aviation Law 2006, amended in 2014,
+Civil Aviation Rules and CAAV technical guidance materials.
+
+C. A formal
+completion certificate will be issued to participants after satisfactory
+completion.
+
+IV.
+Structured initial on-the-job training
+
+All technical
+inspectors will be included in a formal OJT programme that is tracked and
+signed off by specific job task.
+
+(1) The specifics of
+that OJT programme are included in the Chapter 5.
+
+(2) Where possible,
+OJT for specific tasks will occur following the formal training that is
+relevant to the particular job task.
+
+(3) The
+implementation of the OJT programme and the sign-off for an individual task is
+considered a “baseline” requirement before the unsupervised performance of that
+task by a senior inspector.
+
+As an inspector has
+completed OJT on a specific task and is signed-off by the senior inspector, he/she
+is considered to be qualified to perform the task.
+
+ 
+
+CHAPTER 5. ON-THE-JOB TRAINING &
+QUALIFICATION
+
+This chapter
+describes the OJT programme methodology that will be applied by the CAAV for
+the continuing qualification of its inspectors.
+
+I.
+General policies
+
+A. The baseline OJT programmes
+contained in the respective AMD Training Manual appendices shall be the focus
+of future new-hire inspector qualification.
+
+B. Revisions to the
+baseline programmes will be permitted with the approval of the AMD Director.
+
+C. All OJT training
+will be carried out by senior inspectors with around five (5) years of
+experience in auditing in the technical area;
+
+D. All OJT training
+will be recorded in the CAAV Training database by the inspectors and their
+instructors.
+
+E. All OJT completion
+shall be recorded in the Qualification Record database.
+
+F. Baseline OJT
+programmes shall be established for all other technical specialties.
+
+II.
+OJT configuration
+
+1. Task structure and
+assignment
+
+A. The OJT process
+will introduce tasks that are categorized first by:
+
+1) Job specialty
+(e.g., Movement Area Inspector, RFF Inspector);
+
+2) Duty (e.g. Administration,
+Inspection, Safety Issue Resolution, Investigation, Surveillance, Evaluation,
+etc.);
+
+3) Function (e.g.,
+Inspect Aircraft on the Ramp, Inspect Flight Deck In- Flight, etc.).
+
+B. If any of the
+tasks listed, in any category, are not performed in a trainee’s specific
+environment, they should not be included in the individual’s training plan.
+
+2. Restrictions
+
+A. Assigning a new
+employee an inspector’s credential does not require completing all tasks in OJT.
+The required tasks will depend on the employee’s work assignment.
+
+B. Completing OJT is
+not tied to promotions. There may be some tasks that an employee never has to
+complete because his/her work assignments do not include those tasks.
+
+3. Training structure
+
+A. The Training Structure
+of CAAV OJT Programme follows a logical progression of adult learning by using
+2 Levels.
+
+1) Level I -
+Knowledge and Understanding
+
+2) Level II -
+Performance
+
+B. Any task assigned
+to a trainee will be trained to all levels unless otherwise deemed unnecessary.
+Both formal training and OJT are integral parts of a well- developed training
+programme and should be scheduled to complement each other.
+
+III.
+Definitions
+
+The following are
+definitions of terms related to the CAAV OJT Programme:
+
+OJT: OJT is a planned,
+structured training event conducted at a work site by an On-the- Job-Training
+(OJT) authorized OJT instructor. This type of training provides direct
+experience in the work environment in which the employee is performing or will
+be performing on the job.
+
+Task: A unit of work that
+contains logical and necessary steps in the performance of a Task in a job
+duty, typically with a defined beginning and ending. The task must produce a
+meaningful result.
+
+Level I Training: Level I training
+usually involves observation of the performance of specific job tasks to
+achieve a level of understanding. This training typically involves the trainee
+observing and/or assisting the OJT instructor in the performance of those
+specific job tasks for which the trainee will be held accountable.
+
+Level II Training: Level II training
+involves the application of knowledge and skills to the performance of specific
+job tasks. Typically, the trainee performs the job task under the observation
+of a qualified OJT instructor. The instructor assesses the performance of the
+task and indicates on the trainee’s OJT record when Level II performance is
+achieved.
+
+Inspections: One of the most
+significant duties of CAAV is to conduct inspections in all areas of air
+transportation. The primary objective of inspection activities is to provide
+the CAAV with accurate, real-time, comprehensive information for the evaluation
+of the safety status of the air transportation system.
+
+Investigations: The means in which
+CAAV determines causal factors of potential or actual problem areas and are the
+vehicle to effect appropriate corrective action. These work activities are
+generated on an “as required” or “as discovered” basis.
+
+Certification: The certification
+work activities validate the competency of an aerodrome operator and their
+compliance with appropriate statutory and regulatory requirements prior to
+active performance in the aviation industry.
+
+Administration: Those functions
+performed by trainees that do not fit in Inspections, Evaluations,
+Investigations, Certification or Resolution. For example: aviation education
+and promoting aviation safety to all segments of the aviation community.
+
+OJT Record: An electronic tool
+that is used to record the trainee’s OJT plan, progress, and completion.
+
+OJT Instructor: A trained employee
+and a senior inspector with around five (5) years of experience in auditing in
+the technical area and designated to provide OJT instruction to trainees on
+specific tasks at Levels I, II, and III, in accordance with established
+procedures. OJT instructors must have been signed off as competent for the task.
+
+Trainee: Any CAAV employee
+receiving on-the-job training. The word “employee” may be used synonymously
+with “trainee” depending upon the context because all employees may receive OJT
+regardless of any “new hire” or “trainee” status.
+
+IV.
+Roles and responsibilities
+
+This section
+describes the roles and responsibilities of those involved in the CAAV OJT
+programme.
+
+1. HR director
+
+The HR Director is
+responsible for:
+
+• Implementing the
+provisions of the OJT Programme training requirements for all trainees for whom
+direct supervisory oversight is provided.
+
+• Meeting their
+obligations as outlined in this chapter.
+
+• Ensuring that
+trainees begin their OJT Programme as soon as possible after their date of
+employment.
+
+• Forecasting and
+informing the Director General OJT needs on a periodic basis so that management
+may determine the necessary resources for the programme.
+
+• Update the
+standardized, baseline tasks for each position in which each trainee will be
+held accountable and for which tasks will require OJT depending on his/her work
+assignments.
+
+• Authorizing OJT
+levels of credit granted to an employee.
+
+• Assuming the role
+of mediator and decision-maker when there are OJT problems and/or disagreements
+involving OJT instructors and inspector trainees.
+
+2. AMD director
+
+AMD Director shall be
+responsible for:
+
+• Meeting with each
+employee to develop an OJT Plan.
+
+• Deciding when OJT
+is conducted, including start and end time, as well as the amount of time
+required for completing OJT training on specific tasks.
+
+• Reviewing with each
+OJT instructor, on a regular basis, the progress of assigned trainees and
+initiating any corrective action necessary to improve performance and/or
+training deficiencies.
+
+• Attending the
+review meeting and if satisfied with trainee’s performance, signing off that
+the trainee has successfully completed the tasks discussed.
+
+• Recommending to the
+Director General those experienced employees who may be qualified to serve as
+OJT instructors and providing feedback on OJT instructor performance
+evaluations, including recommending removal of authorization as an OJT
+instructor.
+
+• Evaluating OJT
+instructor performance annually based on feedback from trainees and trainees
+“performance”.
+
+• Acting upon
+feedback from trainees concerning the OJT Programme. Either resolve the
+situation at their level or ensure that the information is forwarded to whoever
+can act on the feedback.
+
+3. OJT instructor
+
+The OJT instructor
+shall be responsible for:
+
+• Completing their
+OJT training with satisfactory performance.
+
+• Obtaining
+authorisation from the Director.
+
+• Ensuring that OJT
+instruction is consistent with applicable national regulations and practices.
+
+• Following CAAV
+standardized procedures and methodology.
+
+• Exhibiting
+objective, constructive, empathetic, and other behaviours conducive to
+supporting all OJT trainees.
+
+• Conducting OJT
+according to the trainee’s individual training plan as developed by the trainee
+and his/her director.
+
+• Assessing the
+trainee level of knowledge and skill on specific tasks.
+
+• Providing
+structured, well-planned, and documented OJT training with stated objectives
+and expected levels of performance.
+
+• Communicating with
+Technical Managers about trainee’s progress.
+
+• Informing
+appropriate Technical Managers of the trainee’s progress via e-mail or other
+written means, indicating date of completion of OJT in specific tasks and
+appropriate levels.
+
+• Ensuring that the
+trainee has accomplished all elements of OJT instruction associated with a
+particular task in an acceptable manner before notifying the appropriate
+Technical Manager that the trainee is able to perform the task as required.
+
+• Notifying the
+appropriate Technical Manager when tasks have been completed.
+
+• Recording time
+spent on OJT in file and file forms.
+
+4. Trainee
+
+The trainee shall be
+responsible for:
+
+• Participating with
+the Technical Manager to identify developmental needs and to plan training
+activities.
+
+• Requesting OJT
+credit from their Technical Manager for prior training and/or experience.
+
+• Fulfilling their
+OJT requirements as established.
+
+• Participating in
+the feedback process to help ensure continual improvement, including feedback
+on the performance of the instructor.
+
+• Participating, in a
+constructive manner, in its own training progress reviews under this chapter
+and checking the accuracy of completed tasks during the review meetings.
+
+• Recording tasks and
+activities spent on OJT in file.
+
+V.
+OJT Method - Level I
+
+Level I train usually
+includes a demonstration, by the instructor or designee, of the specific job
+task steps and procedures with the trainee observations and/or assistance to achieve
+a level of understanding.
+
+Level I performance
+objectives
+
+Following this
+training, the trainee will be able to:
+
+• Describe the
+sequences of steps to accomplish the task;
+
+• Describe how
+appropriate materials are used to accomplish the task;
+
+• Describe
+interactions among other CAAV personnel required to accomplish the task;
+
+• Describe
+coordination with operator required to accomplish the task.
+
+Conducting Level I
+OJT
+
+A. Begin by:
+
+ (1) Gathering any
+materials need to perform the task;
+
+ (2) Reviewing the performance
+objects for the task and the purpose for Level I training;
+
+B. The accomplishment
+of Level I should include a demonstration of the task itself. Do the following
+as you conduct this training:
+
+ (1) Explain what you
+will be doing by briefly reviewing the task steps;
+
+ (2) Solicit any
+questions about the task before you begin;
+
+ (3) Based upon the
+task and the comfort level of the trainee, determine whether or not it is
+appropriate for the trainee to assist in the task or simply observe you doing
+the task;
+
+ (4) You may also
+simply ask the trainee their preference - assist or observe;
+
+ (5) Be sure that the
+environment is conducive to learning. For example, if you are performing the
+task in the field, can the trainee (s) sufficiently see and hear you?
+
+ (6) Ask the trainee
+for the next step(s) as you demonstrate the task; and
+
+ (7) Ask questions
+about how the step is performed.
+
+C. For tasks that are
+largely document-based, actual demonstration may not be applicable. Therefore,
+Level I may be based on the review and discussion of sample or completed
+documentation. For example, Level I for reviewing a manual could include the
+trainee reviewing a manual for which a qualified technical person has already
+completed a review. Then comparing the trainee’s review to the qualified
+person’s review.
+
+Validating Level I
+Completion
+
+To validate Level I OJT,
+trainee must have an acceptable response to the following measurements.
+
+Objective
+
+N/A
+
+Unacceptable
+
+Acceptable
+
+Trainee can
+ describe the sequence of steps to accomplish the task (as applicable)
+
+ 
+
+Cannot describe the
+ Sequence of Steps
+
+Describes some step
+ sequence
+
+Describes most step
+ sequence
+
+Describes all step
+ sequences accurately
+
+Trainee can
+ describe how appropriate materials are used to accomplish the task
+
+ 
+
+Cannot describe use
+ of materials
+
+Describes some use
+ of materials
+
+Describes most use
+ of materials
+
+Describes all material
+ use accurately
+
+Trainee can
+ describe interactions among other AUTHORITY personnel required to accomplish
+ the task
+
+ 
+
+Cannot describe the
+ Interactions
+
+Describes some
+ interactions
+
+Describes most
+ interactions accurately
+
+Describes all possible
+ interactions accurately
+
+Trainee can
+ describe coordination with operator required to accomplish task
+
+ 
+
+Cannot Describe
+ Operator Coordination
+
+Describes some
+ operator coordination
+
+Describes Most
+ operator coordination
+
+Describes all
+ operator coordination accurately
+
+VI.
+OJT Methods - Level II
+
+Level II training
+includes the trainee performing the task independently and accurately under the
+observation of the OJT instructor.
+
+Level II performance
+objectives
+
+Following this
+training, the trainee will be able to:
+
+• Demonstrate
+sufficient knowledge to complete the task proficiently;
+
+• Complete all steps
+necessary to accurately complete the task;
+
+• Complete steps in
+the proper order (as applicable);
+
+• Perform the task
+without assistance;
+
+• Perform the task in
+a timely manner without undue hesitation.
+
+Conducting Level II
+OJT
+
+A. Start in on by:
+
+ (1) Reviewing what
+was covered in Level I training;
+
+ (2) Reviewing the
+performance objectives for the task and the purpose for Level II training;
+
+ (3) Ask the
+trainee(s) if he/she has all of the materials necessary to perform the task;
+
+ (4) Explain
+expectations - that the trainee will complete the task accurately and without
+assistance.
+
+B. Use the following
+observation guidelines as the trainee performs the task:
+
+ (1) Check the steps
+as you observe using your checklist;
+
+ (2) Assist only if
+it required as a part of the task to have a second person. Do not offer
+assistance;
+
+ (3) Circle omitted
+or incorrect steps to address with the trainee once the task is complete;
+
+ (4) STOP for unsafe or
+illegal actions; discuss them with the trainee immediately before completing
+the task.
+
+C. Some task may
+infrequently, or even never, present an opportunity for an instructor to
+observe a trainee perform (for example, safety measure inspections or accident
+investigations).
+
+Validating Level II
+completion
+
+To validate Level II
+OJT, the instructor must be able to answer “Yes” to all of the following:
+
+Objective
+
+N/A
+
+Yes
+
+No
+
+Did the trainee
+ demonstrate sufficient knowledge to complete the task proficiently?
+
+ 
+
+ 
+
+ 
+
+Did the trainee complete
+ all steps necessary to accurately complete the task?
+
+ 
+
+ 
+
+ 
+
+Were the steps
+ completed in the proper order (if applicable)?
+
+ 
+
+ 
+
+ 
+
+Did the trainee
+ perform the task without assistance?
+
+ 
+
+ 
+
+ 
+
+Did the trainee
+ perform the task in a timely manner without undue hesitation?
+
+ 
+
+ 
+
+ 
+
+Did the trainee
+ properly record the completion of the task in the database?
+
+ 
+
+ 
+
+ 
+
+ 
+
+CHAPTER 6. TECHNICALLY QUALIFIED INSPECTORS
+
+The organisation of
+AMD’s safety oversight responsibilities relies heavily on the employment and
+qualification of aerodrome inspectors (ADI).
+
+These ADI conduct the
+necessary evaluations and inspections of aerodrome operators, individuals, and
+organisations to ensure conformance with international safety standards and
+relevant safety practises.
+
+This chapter outlines
+the basis concept that are applied for the utilisation of these ADI
+
+I.
+Technical inspectors
+
+Qualified technical
+inspectors
+
+A. The AMD is staffed
+with qualified technical personnel to carry out the aviation safety oversight
+functions
+
+ (1) These personnel
+are employed based on specified minimum knowledge and experience qualification
+prerequisites necessary to function as entry- level technical personnel.
+
+ (2) They receive
+specified baseline and OJT training after employment to qualify them to
+function as aerodrome inspectors (ADI)
+
+ (3) They also
+receive recurrent and specialised trainings that are pertinent to their job
+assignment
+
+B. The qualified ADI
+is the key link to ensure that the State’s international safety oversight
+obligations are met. The technical decisions of these qualified ADI will, when
+properly recorded in a permanent medium, form the basis for the credibility of
+Vietnam’s aviation safety oversight programme.
+
+II.
+ADI positions
+
+These technical ADI
+positions include:
+
+- Movement Area
+Inspector (ADI-1)
+
+- Visual Aids and
+Electrical Systems Inspector (ADI-2)
+
+- Operating
+Procedures and Safety Measures Inspector (ADI-3)
+
+- Rescue and Fire
+Fighting Inspector (ADI-4)
+
+1.
+Movement Area Inspector
+
+1.1. Function:
+
+The Movement Areas
+Inspector (ADI-1) is employed to perform aerodrome safety oversight tasks on
+behalf of AMD to determine the operator’s conformance with the regulations and
+relevant safety practices.
+
+1.2. Primary task:
+
+A. The primary safety
+oversight tasks performed by ADI-1 will include:
+
+ (1) Technical
+administration of the performance and completion of movement area
+operation-related safety oversight tasks;
+
+ (2) Technical evaluation
+and inspection of the operators and other supporting organisations;
+
+ (3) Technical
+evaluation, inspection and observation of the personnel employed by operator;
+
+ (4) Recommendations
+for approval or acceptance of operator’s documentation and authorisation;
+
+ (5) Initial and on-going
+certification of operator;
+
+ (6) MARI inspections
+are planned and assigned to specific inspectors;
+
+(7) MARI inspections
+are accomplished in the assigned annual quarter, as planned. 
+
+B. The completion of
+these task will specifically address the acceptability and usability of
+programmes and practices of the operators and supporting organisation with
+respect to:
+
+ (1) Aerodrome
+dimension and related information;
+
+ (2) Physical
+characteristics;
+
+ (3) Pavement
+strength evaluation;
+
+ (4) Maintenance of
+movement area.
+
+1.3. Minimum
+Qualification Requirement
+
+To function as an
+ADI-1, the individual is required to have completed the minimum qualifications
+requirements for original employment as a technical inspector, preferably with
+construction engineering University degree.
+
+During the period of
+qualification for inspector assignment, ADI-1 will receive on-going formal, and
+OJT as specified in the training manual, including the specialised training for
+Airfield Pavement design and evaluation.
+
+Within 01-year-old
+employment, the AD1-1 must complete the baseline formal training requirements.
+
+Failure to archive
+the training objectives as stated above may result in termination of
+employment.
+
+2.
+Visual Aids and Electrical System Inspector
+
+2.1. Function:
+
+The Visual aids and
+Electrical System Inspector (ADI-2) is employed to perform aerodrome safety
+oversight tasks on behalf of AMD to determine the operator’s conformance with
+the regulations and relevant safety practices.
+
+2.2. Primary task:
+
+A. The primary safety
+oversight tasks performed by ADI-2 will include:
+
+ (1) Technical
+administration of the performance and completion of Visual aids and
+
+Electrical system
+operation-related safety oversight tasks;
+
+ (2) Technical evaluation
+and inspection of the operators and other supporting organisations;
+
+ (3) Technical
+evaluation, inspection and observation of the personnel employed by operator;
+
+ (4) Recommendations
+for approval or acceptance of operator’s documentation and authorisation;
+
+ (5) Initial and
+on-going certification of operator;
+
+ (6) MARI inspections
+are planned and assigned to specific inspectors;
+
+ (7) MARI inspections
+are accomplished in the assigned annual quarter, as planned.
+
+B. The completion of
+these task will specifically address the acceptability and usability of
+programmes and practices of the operators and supporting organisation with
+respect to:
+
+ (1) Visual aids
+including markings, signs, light, VDGS, SMGCS;
+
+ (2) Electrical
+systems, power supplies;
+
+ (3) Routine and
+emergency maintenance;
+
+ (4) Low visibility
+Operation;
+
+ (5) Obstacle
+control, protection sides for radar and navigation aids.
+
+2.3. Minimum
+Qualification Requirement
+
+To function as an
+ADI-2, the individual is required to have completed the minimum qualifications
+requirements for original employment as a technical inspector, preferably with
+electrical/electronic engineering, air navigation University degree.
+
+During the period of
+qualification for inspector assignment, ADI-2 will receive on-going formal and
+OJT as specified in the training manual, including the specialised training for
+Airfield Lighting operation and maintenance.
+
+Within 01 year of
+employment, the AD1-2 must complete the baseline formal training requirements.
+
+Failure to archive
+the training objectives as stated above may result in termination of employment.
+
+3.
+Operating Procedure and Safety Measure Inspector
+
+3.1. Function:
+
+The Operating
+procedure and safety measure Inspector (ADI - 3) is employed to perform
+aerodrome safety oversight tasks on behalf of AMD to determine the operator’s
+conformance with the regulations and relevant safety practices.
+
+3.2. Primary task:
+
+A. The primary safety
+oversight tasks performed by ADI-3 will include:
+
+ (1) Technical administration
+of the performance and completion of Operating Procedure and Safety Measure
+-related safety oversight tasks;
+
+ (2) Technical evaluation
+and inspection of the operators and other supporting organisations;
+
+ (3) Technical
+evaluation, inspection and observation of the personnel employed by operator;
+
+ (4) Recommendations
+for approval or acceptance of operator’s documentation and authorisation;
+
+ (5) Initial and
+on-going certification of operator;
+
+ (6) MARI inspections
+are planned and assigned to specific inspectors;
+
+(7) MARI inspections
+are accomplished in the assigned annual quarter, as planned. B. The completion
+of these task will specifically address the acceptability and usability of
+programmes and practices of the operators and supporting organisation with
+respect to:
+
+ (1) Aerodrome
+reporting;
+
+ (2) Movement area
+safety measure; 
+
+ (3) Wildlife hazard
+management; 
+
+ (4) Removal of
+disabled aircraft;
+
+ (5) Handling of
+hazardous materials;
+
+ (6) Safety
+Management System (SMS).
+
+3.3. Minimum
+Qualification Requirement
+
+To function as an
+ADI-3, the individual is required to have completed the minimum qualifications
+requirements for original employment as a technical inspector.
+
+During the period of
+qualification for inspector assignment, ADI-3 will receive on-going formal and
+OJT as specified in the training manual, including the specialised training for
+Wildlife Management...
+
+Within 01 year of
+employment, the ADI-3 must complete the baseline formal training requirements.
+
+Failure to archive
+the training objectives as stated above may result in termination of
+employment.
+
+4. Rescue and Fire
+Fighting Inspector
+
+4.1. Function:
+
+The Rescue and Fire
+Fighting Inspector (ADI - 4) is employed to perform aerodrome safety oversight
+tasks on behalf of AMD to determine the operator’s conformance with the
+regulations and relevant safety practices.
+
+4.2. Primary task:
+
+A. The primary safety
+oversight tasks performed by ADI-4 will include:
+
+ (1) Technical
+administration of the performance and completion of Rescue and Fire Fighting
+-related safety oversight tasks;
+
+ (2) Technical evaluation
+and inspection of the operators and other supporting organisations;
+
+ (3) Technical
+evaluation, inspection and observation of the personnel employed by operator;
+
+ (4) Recommendations
+for approval or acceptance of operator’s documentation and authorisation;
+
+ (5) Initial and
+on-going certification of operator;
+
+ (6) MARI inspections
+are planned and assigned to specific inspectors;
+
+ (7) MARI inspections
+are accomplished in the assigned annual quarter, as planned. 
+
+B. The completion of
+these task will specifically address the acceptability and usability of programmes
+and practices of the operators and supporting organisation with respect to:
+
+ (1) Particulars of
+the facilities, equipment;
+
+ (2) Procedures;
+
+ (3) Personnel to
+meet the RFF requirement;
+
+ (4) Aerodrome
+emergency plan (AEP).
+
+4.3. Minimum
+Qualification Requirement
+
+To function as an
+ADI-4, the individual is required to have completed the minimum qualifications
+requirements for original employment as a technical inspector.
+
+During the period of
+qualification for inspector assignment, ADI-4 will receive on-going formal and
+OJT as specified in the training manual, including the specialised training for
+RFF.
+
+Within 01 year of
+employment, the AD1-4 must complete the baseline formal training requirements.
+
+Failure to archive
+the training objectives as stated above may result in termination of
+employment.
+
+ 
+
+APPENDIX 1. SUMMARY OF ADI EXPERIENCE
+
+PERSONAL DETAILS
+
+Name:                                           Designation:
+
+Employment
+No.                           Date Employment Commencement:
+
+QUALIFICATION /EXPERIENCE
+
+Minimum
+Qualification Requirement for recruitment as an Aerodrome Inspector are as
+follows:
+
+• Hold a
+current University degree.
+
+• English
+capability with minimum TOEIC 450 or equivalent.
+
+• Minimum
+of 05 years work experience in aerodrome management and operation for those
+with Engineering University decrees or 07 years work experience in aerodrome
+management and operation for those with other University degrees.
+
+• Sound
+knowledge of Annex 14, Volume I and all relevant ICAO manuals.
+
+• Sound
+knowledge of the aerodrome related regulations (Civil Aviation Law and Regulations)
+and associated guidance materials.
+
+(1a)
+ Qualification
+
+Training
+
+University/Institution
+
+Achievement
+
+Verified by HR
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(1b)
+ Industry/Regulatory Experience
+
+AD Operator / State
+
+Position Held
+
+No. of Years
+
+Verified by HR
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+APPENDIX 2. ADI TRAINING PROGRAME
+
+PHASE 1- INITIAL/BASIC
+TRAINING
+
+INTRODUCTION
+TO CAAV & SAFETY REGULATION
+
+ 
+
+Course
+
+Activity
+
+Duration
+
+Trainer
+
+Courses conducted
+ in Vietnam
+
+7101-CAAV
+
+Vietnam
+ Civil Aviation system and legislative framework.
+
+05-07
+ days
+
+CAAV
+ Senior executive/ Instructor or any other specialised institute
+
+7102-CAAV
+
+Overview
+ of CAAV: Functions and Duties.
+
+7103-CAAV
+
+Overview
+ of Regional Airport Authority: Functions and Duties.
+
+7104-CAAV
+
+Vietnam
+ Civil Aviation Law: Airport Provision
+
+7105-CAAV
+
+Government
+ Decrees, Ministry Circulars pertaining airport Operation and Management
+
+7106-CAAV
+
+CAAV
+ Advisory Circulars
+
+7107-CAAV
+
+Overview
+ ICAO Annex 1-19
+
+7108-CAAV
+
+ICAO
+ Universal Safety Oversight Audit Programme (USOAP)
+
+7109-CAAV
+
+ICAO
+ Continuous Monitoring Approach (CMA) Protocol Questions (PQs)
+
+7110-CAAV
+
+State
+ Safety Programme of Vietnam
+
+7111-CAAV
+
+ADI
+ Duties and Code of Conduct
+
+7112-CAAV
+
+ADI
+ Authorisation/Credential
+
+7113-CAAV
+
+ADI
+ Training requirements
+
+PHASE 2- CORE
+(REGULATORY) TRAINING
+
+BASIC
+SAFETY OVERSIGHT COURSE
+
+To
+be completed within the first 18 months of employment.
+
+ 
+
+Course
+
+Activity
+
+Duration
+
+Trainer
+
+Classroom/ Virtual
+
+Online
+
+Courses conducted
+ either in Vietnam or abroad
+
+7214-CAAV
+
+ICAO
+ Annex 14 and its application
+
+03-05
+ days
+
+03-05
+ days
+
+CAAV
+ Senior executive/ Instructor or any other specialised institute
+
+7215-CAAV
+
+Aviation
+ Audit Technique
+
+03-05
+ days
+
+03-05
+ days
+
+7216-CAAV
+
+Aerodrome
+ Certification: 
+
+- ICAO Doc 9774,
+ Doc 9981 
+
+- CAAV Aerodrome Certification
+ Manual
+
+03-05
+ days
+
+03-05
+ days
+
+7217-CAAV
+
+Aerodrome
+ Inspection: - CAAV Aerodrome Inspector Manual
+
+03-05
+ days
+
+03-05
+ days
+
+7218-CAAV
+
+Aerodrome
+ Safety Management System incorporating PANS - Aerodrome
+
+02-05
+ days
+
+02-05
+ days
+
+7219-CAAV
+
+Human
+ Factor Principle
+
+02-05
+ days
+
+02-05
+ days
+
+PHASE 3- ON THE JOB
+TRAINING
+
+LEVEL
+1- OBSERVE AND PARTICIPATE
+
+ 
+
+Course
+
+Activity
+
+Duration
+
+Trainer
+
+Courses conducted
+ in Vietnam
+
+7320-CAAV
+
+Observe and
+ Participate in Aerodrome Certification/Re- certification process
+
+As
+ per surveillance inspection plan
+
+CAA
+ Aerodrome Inspector
+
+7321-CAAV
+
+Observe and
+ Participate in Aerodrome safety inspection/surveillance process
+
+7322-CAAV
+
+Observe and
+ participate in Aeronautical Study
+
+LEVEL
+2- CONDUCT ACTIVITIES UNDER SUPERVISION
+
+ 
+
+Course
+
+Activity
+
+Duration
+
+Trainer
+
+Courses
+ conducted in Vietnam
+
+7323-CAAV
+
+Conduct Aerodrome Certification/Re-certification
+ process
+
+As
+ per surveillance inspection plan
+
+CAA
+ Aerodrome Inspector
+
+7324-CAAV
+
+Conduct Aerodrome
+ safety inspection/surveillance process
+
+7325-CAAV
+
+Conduct
+ Aeronautical Study
+
+PHASE 4- RECURRENT/REFRESHER/CONTINUATION
+TRAINING
+
+To be conducted every
+2 years’ intervals for those inspectors having completed the initial/core
+training course.
+
+ 
+
+Course
+
+Activity
+
+Duration
+
+Trainer
+
+Courses
+ conducted in Vietnam
+
+7426-CAAV
+
+Refresher ADI
+ Safety Oversight Course
+
+By
+ Instructor/Training institute
+
+CAAV
+ Senior executive/ Instructor or any other specialised institute
+
+7427-CAAV
+
+Refresher on
+ Auditing techniques and CAAV auditing procedures
+
+7428-CAAV
+
+Refresher on Safety
+ management system and quality management system training
+
+7429-CAAV
+
+Refresher on Human
+ factors principles
+
+PHASE 5- SPECIALISED
+TRAINING
+
+ADI position
+
+Course
+
+Activity
+
+Duration
+
+Trainer
+
+Level
+ of priority
+
+Classroom/ Virtual
+
+Online
+
+ADI-1
+
+7530-CAAV
+
+Airfield Pavement Design
+ and Evaluation
+
+03-05
+ days
+
+Offered
+ by Training institute
+
+CAAV
+ Senior executive/ Instructor or any other specialised institute
+
+1
+
+ADI-1
+
+7531-CAAV
+
+Global Reporting Format
+ (Runway)
+
+02
+ days
+
+1
+
+ADI-2
+
+7532-CAAV
+
+Airfield Lighting Operation
+ and Maintenance/Runways and Taxiways Visual Aids & Apron Visual Aids
+
+03-05
+ days
+
+1
+
+ADI-4
+
+7533-CAAV
+
+Rescue and Firefighting
+
+On
+ request
+
+1
+
+ADI-3
+
+7534-CAAV
+
+Wildlife Hazard Management
+
+02-05
+ days
+
+1
+
+ADI
+
+7535-CAAV
+
+Runway Safety
+
+02-05
+ days
+
+2
+
+7536-CAAV
+
+Operational Hazard Identification
+ and Risk Management/ Aeronautical Studies and Risk Analysis
+
+03-05
+ days
+
+2
+
+7537-CAAV
+
+Accident/Incident Investigation
+
+02-05
+ days
+
+2
+
+7538-CAAV
+
+Aerodrome Obstacles
+ Evaluation
+
+02-05
+ days
+
+2
+
+7539-CAAV
+
+Airside Safety Training
+
+02-05
+ days
+
+2
+
+7540-CAAV
+
+Apron Safety and Operations
+ Management
+
+02-05
+ days
+
+2
+
+7541-CAAV
+
+Foreign Object
+ Debris (FOD) Prevention
+
+02-05
+ days
+
+2
+
+7542-CAAV
+
+Managing Operations
+ During Construction
+
+02-05
+ days
+
+2
+
+7543-CAAV
+
+Emergency
+ Preparedness and Contingency Planning
+
+02-05
+ days
+
+2
+
+7544-CAAV
+
+Enforcement Policy
+ & Procedure
+
+01-02
+ days
+
+2
+
+7545-CAAV
+
+Airport Master Planning
+
+02-05
+ days
+
+2
+
+APPENDIX 3. TRAINING ROAD MAP FOR
+AERODROME INSPECTOR
+
+ 
+
+APPENDIX 4. TRAINING NEEDS ANALYSIS
+
+Name:                              Position:
+Aerodrome Inspector                         Date Compiled:
+
+ 
+
+ 
+
+Type
+ of Training Recommended
+
+Minimum
+ Qualifications Requirements (MQR) for the Position
+
+MQR
+ Already Possessed?
+
+Introduction
+ / initial
+
+Core Training
+
+On
+ Job
+Training
+
+Re-currency Training
+
+Specialized
+ / Advance / Professional Development Training
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Employee:................................................
+      Date: ........................................................
+
+AMD Director:
+..........................................      Date:
+........................................................
+
+HRDirector:
+..............................................      Date:
+........................................................
+
+ 
+
+APPENDIX 5: METHODOLOGY IN DETERMINING THE
+NUMBER OF AERODROME SAFETY INSPECTORS
+
+AMD has developed and
+established the methodology in determining aerodrome safety inspector needs to
+carry out all safety oversight related task, including review and revision of
+regulations, training of technical staff, development of guidance material,
+issuance of approvals, conducting of surveillance and resolution of identified
+safety concerns. Basically, the number of inspectors required are derived from
+the following formula: [TOTAL MAN-DAYS REQUIRED FOR ALL RESPONSIBILITIES]
+divided by [TOTAL WORKING DAYS PER YEAR].
+
+The details in
+determining aerodrome safety inspector needs are as follow:
+
+STT
+
+Activity
+
+Frequency (times/year)
+
+Required
+ man- hour/mission
+
+Required
+ man- hour/year
+
+ADI- 1
+
+ADI- 2
+
+ADI- 3
+
+ADI- 4
+
+Aerodrome Inspector
+
+A
+
+MAIN DUTIES OF AGA
+ CASI
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+I
+
+Carry out all
+ functions relating to the certification of aerodrome
+
+ 
+
+ 
+
+372
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Thực hiện các chức
+ năng liên quan đến giấy chứng nhận khai thác cảng hàng không, sân bay
+
+1
+
+Evaluate
+ certification document from applicant
+
+1
+
+4
+
+4
+
+1
+
+1
+
+1
+
+1
+
+All
+ ADIs
+
+Đánh giá hồ sơ, tài
+ liệu từ người đề nghị
+
+2
+
+Technical
+ inspections of the infrastructure of the aerodrome and its equipment
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Kiểm tra kỹ thuật
+ cơ sở hạ tầng của sân bay và các thiết bị
+
+2.1
+
+Obstacle
+ restrictions
+
+1
+
+16
+
+16
+
+0
+
+16
+
+0
+
+0
+
+ADI-2
+
+2.2
+
+Physical
+ characteristics (runways; taxiways; service roads; holding bays,
+ runway-holding positions and intermediate holding positions…); Electrical
+ system; Visual aids (markings; signs; lights; markers; indicators…)
+
+1
+
+72
+
+72
+
+36
+
+36
+
+0
+
+0
+
+ADI-1;
+ ADI-2
+
+2.3
+
+RFF services (Level
+ of protection; RFF personnel; Response; Rescue equipment…)
+
+1
+
+16
+
+16
+
+0
+
+0
+
+0
+
+16
+
+ADI-4
+
+2.4
+
+Wildlife Hazard
+ Management (Equipment; Fences; Procedure for discouraging the presence of
+ wildlife; Procedure for record and analyse the incidents, collect the
+ wildlife’s remains, monitor the corrective actions to be taken subsequently,
+ report to the State incidents involving wildlife...)
+
+1
+
+16
+
+16
+
+0
+
+0
+
+16
+
+0
+
+ADI-3
+
+3
+
+Approval the
+ Aerodrome Manual (all the procedures related to aerodrome certification that
+ will be assessed by the on-site verification team are provided in the
+ aerodrome manual)
+
+1
+
+80
+
+80
+
+20
+
+20
+
+20
+
+20
+
+All
+ ADIs
+
+Xác minh dữ liệu và
+ phê duyệt Tài liệu khai thác sân bay
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+4
+
+On-site
+ verification of Aerodrome Operator's procedures and SMS
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Xác minh các quy
+ trình và hệ thống quản lý an toàn của người khai thác CHKSB
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+4.1
+
+On-site
+ verification of the operator's procedures
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+4.1.1
+
+Aerodrome data and
+ reporting;
+
+1
+
+4
+
+4
+
+1
+
+1
+
+1
+
+1
+
+All
+ ADIs
+
+4.1.2
+
+Access to the
+ movement area;
+
+1
+
+4
+
+4
+
+4
+
+0
+
+0
+
+0
+
+ADI-1
+
+4.1.3
+
+Aerodrome emergency
+ plan;
+
+1
+
+8
+
+8
+
+0
+
+0
+
+0
+
+8
+
+ADI-4
+
+4.1.4
+
+Rescue and
+ firefighting (RFF);
+
+1
+
+8
+
+8
+
+0
+
+0
+
+0
+
+8
+
+ADI-4
+
+4.1.5
+
+Inspection of the
+ movement area;
+
+1
+
+4
+
+4
+
+4
+
+0
+
+0
+
+0
+
+ADI-1
+
+4.1.6
+
+Maintenance of the
+ movement area;
+
+1
+
+4
+
+4
+
+4
+
+0
+
+0
+
+0
+
+ADI-1
+
+4.1.7
+
+Snow and ice
+ control, and other hazardous meteorological conditions;
+
+1
+
+4
+
+4
+
+4
+
+0
+
+0
+
+0
+
+ADI-1
+
+4.1.8
+
+Visual aids and
+ aerodrome electrical systems;
+
+1
+
+8
+
+8
+
+0
+
+8
+
+0
+
+0
+
+ADI-2
+
+4.1.9
+
+Safety during
+ aerodrome works;
+
+1
+
+2
+
+2
+
+0
+
+0
+
+2
+
+0
+
+ADI-3
+
+4.1.10
+
+Apron management;
+
+1
+
+4
+
+4
+
+0
+
+0
+
+4
+
+0
+
+ADI-3
+
+4.1.11
+
+Apron safety;
+
+1
+
+4
+
+4
+
+0
+
+0
+
+4
+
+0
+
+ADI-3
+
+4.1.12
+
+Vehicles on the
+ movement area;
+
+1
+
+4
+
+4
+
+0
+
+0
+
+4
+
+0
+
+ADI-3
+
+4.1.13
+
+Wildlife hazard
+ management;
+
+1
+
+8
+
+8
+
+0
+
+0
+
+8
+
+0
+
+ADI-3
+
+4.1.14
+
+Obstacles;
+
+1
+
+4
+
+4
+
+0
+
+4
+
+0
+
+0
+
+ADI-2
+
+4.1.15
+
+Removal of a
+ disabled aircraft;
+
+1
+
+4
+
+4
+
+0
+
+0
+
+4
+
+0
+
+ADI-3
+
+4.1.16
+
+Handling of
+ dangerous goods
+
+1
+
+4
+
+4
+
+0
+
+0
+
+4
+
+0
+
+ADI-3
+
+4.1.17
+
+Low visibility
+ operations;
+
+1
+
+4
+
+4
+
+0
+
+0
+
+4
+
+0
+
+ADI-3
+
+4.1.18
+
+Protection of sites
+ for radar and navigation aids
+
+1
+
+2
+
+2
+
+0
+
+2
+
+0
+
+0
+
+ADI-2
+
+4.1.19
+
+Reporting of Runway
+ surface conditions
+
+1
+
+4
+
+4
+
+4
+
+0
+
+0
+
+0
+
+ADI-1
+
+4.1.20
+
+Competence of
+ Aerodrome Personnel
+
+1
+
+8
+
+8
+
+0
+
+0
+
+8
+
+0
+
+ADI-3
+
+4.2
+
+On-site
+ verification of the SMS
+
+1
+
+16
+
+16
+
+0
+
+0
+
+16
+
+0
+
+ADI-3
+
+5
+
+Analysis of the
+ findings; approval non-compliance list; follow-up and monitoring of the
+ related corrective action plans
+
+1
+
+24
+
+24
+
+6
+
+6
+
+6
+
+6
+
+All
+ ADIs
+
+Phân tích các phát
+ hiện; phê duyệt danh mục không đáp ứng; kiểm tra, theo dõi kế hoạch hành động
+ khắc phục
+
+6
+
+Issuance of the
+ certificate
+
+1
+
+8
+
+8
+
+2
+
+2
+
+2
+
+2
+
+All
+ ADIs
+
+Phát hành Giấy
+ chứng nhận khai thác CHKSB
+
+7
+
+Promulgation of the
+ status of certification in the AIP
+
+1
+
+24
+
+24
+
+6
+
+6
+
+6
+
+6
+
+All
+ ADIs
+
+Ban hành Giấy chứng
+ nhận trên AIP
+
+II
+
+Carry out
+ comprehensive safety audit
+
+ 
+
+ 
+
+1500
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Thực hiện giám sát
+ an toàn sân bay toàn diện
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1
+
+Plan comprehensive
+ aerodrome safety oversight (Periodically at least every 2 years as regulation
+ on Clause 12 Article 8 Decree 05/2021/ND- CP
+ dated 25/01/2021)
+
+0.5
+
+8
+
+4
+
+1
+
+1
+
+1
+
+1
+
+All
+ ADIs
+
+Lập kế hoạch cho
+ các hành động giám sát an toàn sân bay toàn diện (Tối thiểu 02 năm/lần theo
+ quy định tại khoản 12 Điều 8 Nghị định 05/2021/NĐ-CP ngày 25/01/2021)
+
+2
+
+On-site
+ verifications
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Xác minh tại chỗ
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2.1
+
+On-site
+ verification of the operator's procedures
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2.1.1
+
+Aerodrome data and
+ reporting;
+
+11
+
+4
+
+44
+
+11
+
+11
+
+11
+
+11
+
+All
+ ADIs
+
+2.1.2
+
+Access to the
+ movement area;
+
+11
+
+4
+
+44
+
+44
+
+0
+
+0
+
+0
+
+ADI-1
+
+2.1.3
+
+Aerodrome emergency
+ plan;
+
+11
+
+8
+
+88
+
+0
+
+0
+
+0
+
+88
+
+ADI-4
+
+2.1.4
+
+Rescue and
+ firefighting (RFF);
+
+11
+
+8
+
+88
+
+0
+
+0
+
+0
+
+88
+
+ADI-4
+
+2.1.5
+
+Inspection of the
+ movement area;
+
+11
+
+4
+
+44
+
+44
+
+0
+
+0
+
+0
+
+ADI-1
+
+2.1.6
+
+Maintenance of the
+ movement area;
+
+11
+
+4
+
+44
+
+44
+
+0
+
+0
+
+0
+
+ADI-1
+
+2.1.7
+
+Snow and ice
+ control, and other hazardous meteorological conditions;
+
+11
+
+4
+
+44
+
+44
+
+0
+
+0
+
+0
+
+ADI-1
+
+2.1.8
+
+Visual aids and
+ aerodrome electrical systems;
+
+11
+
+8
+
+88
+
+0
+
+88
+
+0
+
+0
+
+ADI-2
+
+2.1.9
+
+Safety during
+ aerodrome works;
+
+11
+
+2
+
+22
+
+0
+
+0
+
+22
+
+0
+
+ADI-3
+
+2.1.10
+
+Apron management;
+
+11
+
+4
+
+44
+
+0
+
+0
+
+44
+
+0
+
+ADI-3
+
+2.1.11
+
+Apron safety;
+
+11
+
+4
+
+44
+
+0
+
+0
+
+44
+
+0
+
+ADI-3
+
+2.1.12
+
+Vehicles on the
+ movement area;
+
+11
+
+4
+
+44
+
+0
+
+0
+
+44
+
+0
+
+ADI-3
+
+2.1.13
+
+Wildlife hazard
+ management;
+
+11
+
+8
+
+88
+
+0
+
+0
+
+88
+
+0
+
+ADI-3
+
+2.1.14
+
+Obstacles;
+
+11
+
+4
+
+44
+
+0
+
+44
+
+0
+
+0
+
+ADI-2
+
+2.1.15
+
+Removal of a
+ disabled aircraft;
+
+11
+
+4
+
+44
+
+0
+
+0
+
+44
+
+0
+
+ADI-3
+
+2.1.16
+
+Handling of
+ dangerous goods
+
+11
+
+4
+
+44
+
+0
+
+0
+
+44
+
+0
+
+ADI-3
+
+2.1.17
+
+Low visibility
+ operations;
+
+11
+
+4
+
+44
+
+0
+
+0
+
+44
+
+0
+
+ADI-3
+
+2.1.18
+
+Protection of sites
+ for radar and navigation aids
+
+11
+
+2
+
+22
+
+0
+
+22
+
+0
+
+0
+
+ADI-2
+
+2.1.19
+
+Reporting of Runway
+ surface conditions
+
+11
+
+4
+
+44
+
+44
+
+0
+
+0
+
+0
+
+ADI-1
+
+2.1.20
+
+Competence of
+ Aerodrome Personnel
+
+11
+
+8
+
+88
+
+0
+
+0
+
+88
+
+0
+
+ADI-3
+
+2.2
+
+On-site
+ verification of the SMS
+
+11
+
+16
+
+176
+
+0
+
+0
+
+176
+
+0
+
+ADI-3
+
+3
+
+Prepare Audit/Inspection
+ report
+
+11
+
+8
+
+88
+
+22
+
+22
+
+22
+
+22
+
+All
+ ADIs
+
+Báo cáo kế hoạch
+ thanh tra, kiểm tra
+
+4
+
+Follow-up on
+ corrective action plan, resolution of safety issues and report enforcement to
+ the aviation inspectorate
+
+11
+
+8
+
+88
+
+22
+
+22
+
+22
+
+22
+
+All
+ ADIs
+
+Theo dõi kế hoạch
+ hành động khắc phục, giải quyết các vấn đề an toàn và chuyển thi hành xử phạt
+ cho thanh tra hàng không
+
+5
+
+Maintain and manage
+ aerodrome records
+
+11
+
+8
+
+88
+
+22
+
+22
+
+22
+
+22
+
+All
+ ADIs
+
+Duy trì và quản lý
+ các biên bản làm việc
+
+III
+
+ 
+
+Carry out aerodrome
+ safety oversight
+
+ 
+
+ 
+
+1236
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Thực hiện kế hoạch
+ giám sát an toàn sân bay
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1
+
+Develop
+ surveillance prgramme (Depend on compliance and the size of the airport)
+
+0.5
+
+8
+
+4
+
+1
+
+1
+
+1
+
+1
+
+All
+ ADIs
+
+Xây dựng chương
+ trình giám sát (Tùy thuộc vào sự tuân thủ và quy mô của sân bay)
+
+2
+
+Continued aerodrome
+ surveillance
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Giám sát sân bay
+ liên tục
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2.1
+
+Technical
+ inspections
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2.1.1
+
+Obstacle
+ restrictions
+
+11
+
+8
+
+88
+
+0
+
+88
+
+0
+
+0
+
+ADI-2
+
+2.1.2
+
+Physical
+ characteristics (runways; taxiways; service roads; holding bays,
+ runway-holding positions and intermediate holding positions…); Electrical
+ system; Visual aids (markings; signs; lights; markers; indicators…)
+
+11
+
+36
+
+396
+
+198
+
+198
+
+0
+
+0
+
+ADI-1;
+ ADI-2
+
+2.1.3
+
+RFF services (Level
+ of protection; RFF personnel; Response; Rescue equipment…)
+
+11
+
+8
+
+88
+
+0
+
+0
+
+0
+
+88
+
+ADI-4
+
+2.1.4
+
+Wildlife Hazard
+ Management (Equipment; Fences; Procedure for discouraging the presence of
+ wildlife; Procedure for record and analyse the incidents, collect the
+ wildlife’s remains, monitor the corrective actions to be taken subsequently,
+ report to the State incidents involving wildlife...)
+
+11
+
+8
+
+88
+
+0
+
+0
+
+88
+
+0
+
+ADI-3
+
+2.2
+
+Inspection of
+ selected items
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2.2.1
+
+Aerodrome emergency
+ plan;
+
+11
+
+4
+
+44
+
+0
+
+0
+
+0
+
+44
+
+ADI-4
+
+2.2.2
+
+SMS (Safety
+ Management Manual; Status of Implementation; Compliance of SMS; Safety data
+ reporting and recording system; Training, seminar, workshop...)
+
+11
+
+8
+
+88
+
+0
+
+0
+
+88
+
+0
+
+ADI-3
+
+2.2.3
+
+Other…
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3
+
+Prepare Audit/Inspection
+ report
+
+11
+
+8
+
+88
+
+22
+
+22
+
+22
+
+22
+
+All
+ ADIs
+
+Báo cáo kế hoạch
+ thanh tra, kiểm tra
+
+4
+
+Follow-up on
+ corrective action plan, resolution of safety issues and report enforcement to
+ the aviation inspectorate
+
+11
+
+8
+
+88
+
+22
+
+22
+
+22
+
+22
+
+All
+ ADIs
+
+Theo dõi kế hoạch
+ hành động khắc phục, giải quyết các vấn đề an toàn và chuyển thi hành xử phạt
+ cho thanh tra hàng không
+
+5
+
+Maintain and manage
+ aerodrome records
+
+11
+
+8
+
+88
+
+22
+
+22
+
+22
+
+22
+
+All
+ ADIs
+
+Duy trì và quản lý
+ các biên bản làm việc
+
+6
+
+Unannounced
+ inspections
+
+11
+
+16
+
+176
+
+44
+
+44
+
+44
+
+44
+
+All
+ ADIs
+
+Kiểm tra không
+ thông báo trước
+
+IV
+
+ 
+
+Management of
+ change to procedures, equipment, infrastructures and special operations
+
+ 
+
+ 
+
+1320
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Quản lý sự thay đổi
+ các quy trình, trang thiết bị, cơ sở hạ tầng và các khai thác đặc biệt
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1
+
+Approval for the
+ plan to ensure safety and security upon construction, renovation, upgrading,
+ maintenance and repair of works, and installation and maintenance of
+ equipment within aerodromes, which changes the plan to operate runways,
+ taxiways, aprons or changes the plan to operate the system of air navigation
+ equipment.
+
+22
+
+8
+
+176
+
+44
+
+44
+
+44
+
+44
+
+All
+ ADIs
+
+Chấp thuận phương
+ án đảm bảo an ninh, an toàn đối với hoạt động xây dựng, cải tạo, nâng cấp,
+ bảo trì, sửa chữa công trình, lắp đặt, bảo dưỡng, sửa chữa thiết bị trong khu
+ vực cảng hàng không, sân bay có làm thay đổi phương án khai thác đường cất hạ
+ cánh, đường lăn, sân đỗ tàu bay hoặc làm thay đổi phương án khai thác hệ
+ thống thiết bị đảm bảo hoạt động bay
+
+ 
+
+Changes in the
+ characteristics of infrastructures or the equipment;
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Changes in the
+ characteristics of the facilities and systems located in the movement area;
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Changes in runway
+ operations (e.g. type of approach, runway infrastructure, holding positions);
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Changes to the
+ aerodrome networks (e.g. electrical and telecommunication);
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Changes to the
+ organizational structure of the aerodrome
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Changes to the
+ operating procedures of the aerodrome
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2
+
+Changes that affect
+ conditions as specified in the aerodrome’s
+
+certificate;
+
+11
+
+8
+
+88
+
+22
+
+22
+
+22
+
+22
+
+All
+ ADIs
+
+Cấp, cấp lại, sửa
+ đổi nội dung Giấy chứng nhận khai thác cảng hàng không, sân bay
+
+3
+
+Changes to
+ aerodrome infrastructure require procedures for putting into operation or
+ temporary suspension (Runway, taxiway, apron…)
+
+22
+
+8
+
+176
+
+44
+
+44
+
+44
+
+44
+
+All
+ ADIs
+
+Đưa công trình
+ thuộc kết cấu hạ tầng sân bay vào khai thác hoặc đóng tạm thời công trình
+ hoặc một phần công trình (đường cất hạ cánh, đường lăn, sân đỗ tàu bay…)
+
+4
+
+Updating of the
+ aerodrome manual
+
+22
+
+40
+
+880
+
+220
+
+220
+
+220
+
+220
+
+All
+ ADIs
+
+Sửa đổi Tài liệu
+ khai thác sân bay
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+B
+
+OVERHEAD
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+I
+
+Establish the
+ Aerodromes Regulation and update according to the Law on Civil Aviation of
+ Vietnam and referring to ICAO Standards
+
+ 
+
+ 
+
+80
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Thiết lập quy định
+ về cảng hàng không, sân bay và cập nhật theo Luật
+ Hàng không dân dụng Việt Nam, tham chiếu các tiêu chuẩn của ICAO
+
+1
+
+Annex 14, 19 and
+ related Doc
+
+5
+
+40
+
+200
+
+50
+
+50
+
+50
+
+50
+
+All
+ ADIs
+
+Phụ ước 14, 19 và
+ các Hướng dẫn liên quan
+
+2
+
+Civil Aviation Law,
+ Government Decree and Minitry Circular
+
+5
+
+40
+
+200
+
+50
+
+50
+
+50
+
+50
+
+All
+ ADIs
+
+Luật
+ Hàng không dân dụng Việt Nam, Nghị định của Chính Phủ và Thông tư của
+ Bộ
+
+II
+
+Establish the
+ technical guidelines related to the Airport Safety Operation and update existing
+ document as per Aerodromes Regulation and ICAO annexes
+
+ 
+
+ 
+
+296
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Thiết lập các hướng
+ dẫn kỹ thuật liên quan đến việc khai thác an toàn cảng hàng không, sân bay và
+ cập nhật vào các tài liệu hiện có theo quy định về hàng không và Phụ ước của
+ ICAO
+
+1
+
+Aerodrome Design,
+ Operations and Safety Manual
+
+1
+
+40
+
+40
+
+10
+
+10
+
+10
+
+10
+
+All
+ ADIs
+
+Sổ tay hướng dẫn
+ thiết kế, khai thác, bảo đảm an toàn khai thác tại sân bay
+
+2
+
+Aerodrome
+ Inspection Manual
+
+1
+
+40
+
+40
+
+10
+
+10
+
+10
+
+10
+
+All
+ ADIs
+
+Sổ tay Giám sát
+ viên an toàn khai thác cảng hàng không, sân bay
+
+3
+
+Aerodrome
+ Certification Procedure Manual
+
+1
+
+16
+
+16
+
+4
+
+4
+
+4
+
+4
+
+All
+ ADIs
+
+Sổ tay hướng dẫn
+ cấp Giấy chứng nhận khai thác cảng hàng không, sân bay
+
+4
+
+Guidance on
+ Aerodrome Manual
+
+1
+
+16
+
+16
+
+4
+
+4
+
+4
+
+4
+
+All
+ ADIs
+
+Sổ tay hướng dẫn
+ lập Tài liệu khai thác sân bay
+
+5
+
+Procedures for
+ Acceping non-compliances in Aerodrome and Exemptions Policy
+
+1
+
+16
+
+16
+
+4
+
+4
+
+4
+
+4
+
+All
+ ADIs
+
+Quy trình chấp
+ thuận miễn trừ/nhân nhượng theo danh mục không đáp ứng tại sân bay
+
+6
+
+Manual on
+ evaluation of the outcome of the Aeronautical studies/Risk assessments
+
+1
+
+16
+
+16
+
+4
+
+4
+
+4
+
+4
+
+All
+ ADIs
+
+Sổ tay hướng dẫn
+ đánh giá kết quả Nghiên cứu hàng không/Đánh giá rủi ro
+
+7
+
+Aerodrome Inspector
+ Training Manual
+
+1
+
+16
+
+16
+
+0
+
+0
+
+16
+
+0
+
+ADI-3
+
+Sổ tay chương trình
+ đào tạo giám sát viên an toàn khai thác CHKSB
+
+8
+
+Wildlife Hazard
+ Management Manual
+
+1
+
+16
+
+16
+
+0
+
+0
+
+16
+
+0
+
+ADI-3
+
+Sổ tay hướng dẫn
+ kiểm soát chim, ĐVHD, vật nuôi tại CHKSB
+
+9
+
+Guidance on Surface
+ Movement Guidance and Control System
+
+(SMGCS)
+
+1
+
+40
+
+40
+
+0
+
+40
+
+0
+
+0
+
+ADI-2
+
+Sổ tay hướng dẫn Hệ
+ thống kiểm soát và hướng dẫn di chuyển trên bề mặt (SMGCS)
+
+10
+
+Other Advisory
+ Circulars pertaining Airport Operation and Management
+
+5
+
+16
+
+80
+
+20
+
+20
+
+20
+
+20
+
+All
+ ADIs
+
+Các Thông tư khác
+ liên quan đến khai thác và quản lý cảng hàng không, sân bay
+
+III
+
+Aeronautical
+ studies at aerodromes:conduct aeronautical studies when needed, if necessary
+ in cooperation with other Departments.
+
+22
+
+16
+
+352
+
+88
+
+88
+
+88
+
+88
+
+All
+ ADIs
+
+Nghiên cứu hàng
+ không tại sân bay; quản lý (kiểm soát) nghiên cứu hàng không khi cần, phối
+ hợp với các Phòng khác nếu cần thiết
+
+IV
+
+Assist aerodrome
+ operator for required technical advice and certification of safety concerns
+
+22
+
+16
+
+352
+
+88
+
+88
+
+88
+
+88
+
+All
+ ADIs
+
+Hỗ trợ người khai thác
+ cảng trong việc đưa ra lời khuyên về các kỹ thuật được yêu cầu và các yếu tổ
+ liên quan đến an toàn khi cấp giấy chứng nhận
+
+V
+
+Accident/incident
+ Investigation
+
+ 
+
+ 
+
+720
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Điều tra tai nạn,
+ sự cố
+
+1
+
+Establish
+ Investigation team, gather information
+
+10
+
+8
+
+80
+
+20
+
+20
+
+20
+
+20
+
+All
+ ADIs
+
+Thành lập đội điều
+ tra, thu thập thông tin
+
+2
+
+Investigate,
+ verify, analyse accident/incident
+
+10
+
+40
+
+400
+
+100
+
+100
+
+100
+
+100
+
+All
+ ADIs
+
+Điều tra, xác minh,
+ phân tích tai nạn/ sự cố
+
+3
+
+Prepare report to
+ concerned parties
+
+10
+
+8
+
+80
+
+20
+
+20
+
+20
+
+20
+
+All
+ ADIs
+
+Chuẩn bị báo cáo
+ tới với các bên liên quan
+
+4
+
+Publish report and
+ follow up corrective action
+
+10
+
+16
+
+160
+
+40
+
+40
+
+40
+
+40
+
+All
+ ADIs
+
+Ban hành báo cáo và
+ đưa ra cách hành động khắc phục sau đó
+
+VI
+
+Report
+
+ 
+
+ 
+
+112
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Báo cáo
+
+1
+
+Monthly Report
+
+12
+
+4
+
+48
+
+12
+
+12
+
+12
+
+12
+
+All
+ ADIs
+
+Báo cáo tháng
+
+2
+
+Quadrant report
+
+4
+
+8
+
+32
+
+8
+
+8
+
+8
+
+8
+
+All
+ ADIs
+
+Báo cáo quý
+
+3
+
+Half-year report
+
+2
+
+8
+
+16
+
+4
+
+4
+
+4
+
+4
+
+All
+ ADIs
+
+Báo cáo 6 tháng
+
+4
+
+Annual report
+
+1
+
+16
+
+16
+
+4
+
+4
+
+4
+
+4
+
+All
+ ADIs
+
+Báo cáo năm
+
+VII
+
+Other
+
+ 
+
+ 
+
+496
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Khác
+
+1
+
+Implement Training
+ Plan
+
+2
+
+32
+
+64
+
+16
+
+16
+
+16
+
+16
+
+All
+ ADIs
+
+Thực hiện kế hoạch
+ đào tạo
+
+2
+
+Attend safety
+ seminars
+
+4
+
+8
+
+32
+
+8
+
+8
+
+8
+
+8
+
+All
+ ADIs
+
+Tham gia các hội
+ nghị (hội thảo) chuyên đề về an toàn
+
+3
+
+Prepare for ICVM
+ Corrective Action Plan for (AGA)
+
+10
+
+40
+
+400
+
+100
+
+100
+
+100
+
+100
+
+All
+ ADIs
+
+Chuẩn bị cho các
+ hành động khắc phục theo khuyến cáo cáo ICAO trong đợt thanh tra đánh giá của
+ ICAO
+
+C
+
+Total
+
+ 
+
+ 
+
+6836
+
+1693
+
+1765
+
+2139
+
+1559
+
+ 
+
+ 
+
+Information on
+Overheads: Overheads
+are other tasks that an inspector may perform beyond his core inspection
+functions. These may include development of procedures, participation in rule
+development, training, or international work.
+
+Estimated Overhead: The estimated
+overhead is expressed as a percentage of the inspector's time.--- THÔNG TIN THÊM ---
+Ten: Quyết định 901/QĐ-CHK năm 2024 Sổ tay hướng dẫn đào tạo cho chuyên viên kỹ thuật và giám sát viên an toàn khai thác cảng hàng không, sân bay (Technical staff/Inspectors) (tu chỉnh lần 3) do Cục trưởng Cục Hàng không Việt Nam ban hành
+So hieu: 901/QĐ-CHK
+Loai van ban: Quyết định
+Linh vuc nganh: Lao động - Tiền lương, Giao thông - Vận tải
+Noi ban hanh: Cục Hàng không Việt Nam
+Nguoi ky: Đinh Việt Thắng
+Ngay ban hanh: 19/04/2024
+Ngay hieu luc: 19/04/2024
+Ngay dang: Dữ liệu đang cập nhật
+So cong bao: Dữ liệu đang cập nhật
+Tinh trang: Còn hiệu lực
+
+
+--- MỤC LỤC ---
+- QUYẾT ĐỊNH VỀ VIỆC BAN HÀNH SỔ TAY HƯỚNG DẪN ĐÀO TẠO CHO CHUYÊN VIÊN KỸ THUẬT VÀ GIÁM SÁT VIÊN AN TOÀN KHAI THÁC CẢNG HÀNG KHÔNG, SÂN BAY (TECHNICAL STAFF/INSPECTORS) (TU CHỈNH LẦN 3)
+  - Điều 1. Ban hành kèm theo Quyết định này Sổ tay hướng dẫn đào tạo cho chuyên viên kỹ thuật và giám sát viên an toàn khai thác cảng hàng không, sân bay
+  - Điều 2. Quyết định này có hiệu lực kể từ ngày ký và thay thế Quyết định số 2339/QĐ-CHK ngày 27/10/2023 của Cục trưởng Cục Hàng không Việt Nam về việc ban hành Sổ tay hướng dẫn đào tạo giám sát viên an toàn khai thác cảng hàng không, sân bay.
+  - Điều 3. Các ông/bà: Chánh Thanh tra Cục Hàng không Việt Nam; Trưởng phòng Quản lý cảng hàng không, sân bay; Thủ trưởng các cơ quan, đơn vị và cá nhân liên quan chịu trách nhiệm thi hành Quyết định này./.
+- AERODROME TECHNICAL STAFF/INSPECTOR TRAINING MANUAL
+  - AUTHORISATION
+  - CONDITIONS OF USE
+  - DISTRIBUTION LIST
+  - ABBREVIATIONS
+  - CHAPTER 1. INTRODUCTION
+    - I. Objectives of the document
+    - II. Reference documents
+    - III. Safety oversight obligation
+    - IV. Critical elements of a safety oversight system
+  - CHAPTER 2. TRAINING PROGRAMME
+    - I. Training policies
+    - II. Roles " responsibilities
+  - CHAPTER 3. CAPACITY BUILDING PROGRAMME
+    - I. Training need analysis
+    - II. Methodology
+    - III. Training roadmaps
+    - IV. Development of training plan
+  - CHAPTER 4. FORMAL TRAINING GUIDELINES
+    - I. General policies
+    - II. Types of training
+    - III. Formal in-house initial training
+    - IV. Structured initial on-the-job training
+  - CHAPTER 5. ON-THE-JOB TRAINING " QUALIFICATION
+    - I. General policies
+    - II. OJT configuration
+    - III. Definitions
+    - IV. Roles and responsibilities
+    - V. OJT Method - Level I
+    - VI. OJT Methods - Level II
+  - CHAPTER 6. TECHNICALLY QUALIFIED INSPECTORS
+    - I. Technical inspectors
+    - II. ADI positions
+      - 1. Movement Area Inspector
+      - 2. Visual Aids and Electrical System Inspector
+      - 3. Operating Procedure and Safety Measure Inspector
+      - 4. Rescue and Fire Fighting Inspector
+  - APPENDIX 1. SUMMARY OF ADI EXPERIENCE
+  - APPENDIX 2. ADI TRAINING PROGRAME
+  - APPENDIX 3. TRAINING ROAD MAP FOR AERODROME INSPECTOR
+  - APPENDIX 4. TRAINING NEEDS ANALYSIS
+  - APPENDIX 5: METHODOLOGY IN DETERMINING THE NUMBER OF AERODROME SAFETY INSPECTORS
+
+--- VĂN BẢN LIÊN QUAN ---
+
+Van ban bi thay the:
+  - Quyết định 2339/QĐ-CHK năm 2023 về Sổ tay hướng dẫn đào tạo chuyên viên kỹ thuật và giám sát viên an toàn ... (ID: 608932)
+
+Van ban duoc can cu:
+  - Quyết định 371/QĐ-BGTVT năm 2024 sửa đổi Điều 3 Quyết định 651/QĐ-BGTVT quy định về chức năng, nhiệm vụ, ... (ID: 604797)
+  - Quyết định 651/QĐ-BGTVT năm 2023 quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Cục Hàng ... (ID: 567847)
+  - Thông tư 29/2021/TT-BGTVT hướng dẫn quản lý, khai thác cảng hàng không, sân bay do Bộ trưởng Bộ Giao thông ... (ID: 496788)
+  - Nghị định 05/2021/NĐ-CP về quản lý, khai thác cảng hàng không, sân bay (ID: 463681)
+  - Nghị định 66/2015/NĐ-CP quy định về Nhà chức trách hàng không (ID: 286298)
+  - Luật Hàng không dân dụng Việt Nam sửa đổi 2014 (ID: 259783)
+  - Luật hàng không dân dụng Việt Nam 2006 (ID: 12983)
+
+Van ban lien quan cung noi dung:
+  - Quyết định 1005/QĐ-CHK năm 2024 về Phiên bản 02 Tài liệu hướng dẫn khai thác của Cơ sở cung cấp dịch vụ thông tin, dẫn đường, giám sát hàng không do Cục trưởng Cục Hàng không Việt Nam ban hành (ID: 609219)
+  - Quyết định 777/QĐ-CHK năm 2023 phê duyệt tạm thời bản mô tả công việc, trình độ đào tạo, yêu cầu điều kiện khác, khung năng lực; cơ cấu ngạch công chức các tổ chức hành chính thuộc Cục Hàng không Việt Nam (ID: 563868)
+  - Quyết định 1713/QĐ-CHK năm 2022 về Chương trình đào tạo ban đầu để cấp chứng chỉ chuyên môn nhân viên trợ giúp thủ tục kế hoạch bay do Cục trưởng Cục Hàng không Việt Nam ban hành (ID: 525524)
+  - Chỉ thị 4377/CT-CHK năm 2021 bảo đảm an toàn khai thác tàu bay trong điều kiện thời tiết bất lợi do Cục hàng không Việt Nam ban hành (ID: 524820)
+  - Công văn 3601/CHK-QLC năm 2021 về đào tạo huấn luyện nhân viên hàng không nhóm “Khai thác cảng hàng không, sân bay” trong thời gian giãn cách xã hội do Cục Hàng không Việt Nam ban hành (ID: 485690)

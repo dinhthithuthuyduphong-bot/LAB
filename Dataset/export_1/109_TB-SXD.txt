@@ -1,0 +1,270 @@
+UBND TỈNH PHÚ YÊN
+
+ SỞ XÂY DỰNG
+
+ -------
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+ Độc lập - Tự do - Hạnh phúc 
+
+ ---------------
+
+Số: 109/TB-SXD
+
+Phú Yên, ngày 20 tháng 05 năm 2015
+
+ 
+
+THÔNG BÁO
+
+“V/V HƯỚNG DẪN ĐIỀU CHỈNH DỰ TOÁN
+XÂY DỰNG CÔNG TRÌNH TRÊN ĐỊA BÀN TỈNH PHÚ YÊN”
+
+Căn cứ Thông tư số 01/2015/TT-BXD ngày 20/3/2015 của Bộ Xây
+dựng “Hướng dẫn xác định đơn giá nhân công trong quản lý chi phí đầu tư xây dựng
+công trình”;
+
+Căn cứ Văn bản số 2066/QĐ-UBND ngày 19/5/2015 của UBND tỉnh Phú Yên “V/v Một số nội dung liên quan
+đến việc triển khai thực hiện Luật Xây dựng số 50/2014/QH13 và Thông tư số
+01/2015/TT-BXD”;
+
+Sở Xây dựng hướng dẫn điều chỉnh dự toán xây dựng công trình
+từ ngày 15/5/2015 đối với các dự án đầu
+tư xây dựng công trình có dự toán được lập theo
+bộ đơn giá xây dựng do Sở Xây dựng công bố, xây dựng trên địa bàn tỉnh Phú Yên như sau:
+
+I. Điều chỉnh dự toán chi phí xây dựng:
+
+1. Điều chỉnh dự toán chi phí nhân công:
+
+a) Chi phí nhân công trong dự toán chi phí xây dựng công trình lập theo Đơn
+giá xây dựng công trình-phần xây dựng tỉnh Phú Yên công bố kèm theo Quyết định
+số 50/QĐ-SXD ngày 24/5/2011 của Sở Xây dựng được nhân với hệ số điều chỉnh như sau:
+
+Hệ số điều chỉnh
+
+Công trình xây dựng trên địa bàn
+ TP. Tuy Hòa, TX. Sông Cầu và huyện Đông Hòa
+
+Công trình xây dựng trên địa bàn các huyện còn lại
+
+KNC
+
+4,249
+
+4,036
+
+b) Chi phí nhân công trong dự toán chi phí xây dựng công
+trình lập theo Đơn giá xây dựng công trình-phần lắp đặt tỉnh Phú Yên công bố
+kèm theo Quyết định số 51/QĐ-SXD ngày
+24/5/2011 của Sở Xây dựng được nhân với hệ số điều chỉnh như sau:
+
+Hệ số điều chỉnh
+
+Công trình xây dựng trên địa bàn
+ TP. Tuy Hòa, TX. Sông Cầu và huyện Đông Hòa
+
+Công trình xây dựng trên địa bàn
+ các huyện còn lại
+
+KNC
+
+4,503
+
+4,278
+
+*Lưu ý: Không được áp dụng các hệ số chuyển đổi nhóm nhân công và các khoản phụ cấp bổ sung ngoài các khoản phụ cấp đã tính trong Đơn giá xây dựng
+công trình-phần xây dựng và Đơn giá xây dựng công trình-phần lắp đặt khi lập dự
+toán chi phí xây dựng theo các hệ số điều chỉnh nhân công nêu trên.
+
+2. Điều chỉnh chi phí máy thi công:
+
+Chi phí máy thi công trong dự toán chi phí xây dựng công
+trình lập theo Đơn giá xây dựng công trình-phần xây dựng tỉnh Phú Yên công bố
+kèm theo Quyết định số 50/QĐ-SXD ngày 24/5/2011 và Đơn giá xây dựng công trình- phần lắp đặt tỉnh Phú Yên
+công bố kèm theo Quyết định số 51/QĐ-SXD ngày 24/5/2011 của Sở Xây dựng được điều
+chỉnh như sau:
+
+MĐC =  x Djm
++ CLnc + CLnl
+
+Trong đó:
+
+MĐC: Chi phí máy thi công sau khi được điều chỉnh;
+
+Qj: Khối lượng công tác xây dựng thứ j (j=1¸n);
+
+Djm : Chi phí máy thi công trong đơn
+giá xây dựng công trình của công tác xây dựng thứ j;
+
+CLnc: Chênh lệch tiền lương thợ điều khiển máy,
+được xác định theo các quy định sau:
+
+Tiền lương
+thợ điều khiển máy trong giá ca máy của Bảng giá ca máy và thiết bị thi công tỉnh
+Phú Yên công bố kèm theo Quyết định số 49/QĐ-SXD ngày 24/5/2011 của Sở Xây dựng;
+
+- Tiền lương thợ điều khiển máy theo Thông tư số 01/2015/TT-BXD.
+
+CLnl: Chênh lệch nhiên liệu, năng lượng;
+
+3. Các khoản mục chi phí tính bằng định mức tỷ lệ (%) trong dự toán chi phí
+xây dựng: được tính bằng tỉ lệ (%) theo quy định hiện hành.
+
+II. Điều chỉnh một số khoản mục chi phí
+khác:
+
+1. Điều chỉnh chi phí khảo sát xây dựng:
+Đơn giá tổng hợp của công tác khảo sát xây dựng trong Đơn giá khảo sát xây dựng
+của tỉnh Phú Yên công bố kèm theo Quyết định số 52/QĐ-SXD ngày 24/5/2011 của Sở
+Xây dựng (sau đây gọi tắt
+là Đơn giá khảo sát) được điều chỉnh như sau:
+
+a) Trường hợp chi phí trực tiếp của dự toán chi phí khảo sát xây dựng £
+2,0 tỷ đồng:
+
+DĐCKSi= 1,06 x DvLi + 1,749 x DNCi x KKSNC +
+1,06 x (DMi + CLNLi)
+
+b) Trường hợp chi phí trực tiếp của dự toán chi phí khảo sát xây dựng >
+2,0 tỷ đồng:
+
+DĐCKSi= 1,06 x DvLi + 1,643 x DNCi x KKSNC +
+1,06 x (DMi + CLNLi)
+
+Trong đó:
+
+DĐCKSi : Đơn giá tổng hợp của công tác khảo sát xây dựng thứ i trong Đơn giá khảo
+sát sau khi được điều chỉnh;
+
+DVli: Chi phí vật liệu của công tác khảo sát xây dựng thứ i
+trong Đơn giá khảo sát;
+
+DNCi: Chi phí nhân công của công tác khảo sát xây dựng thứ i
+trong Đơn giá khảo sát;
+
+DMi: Chi phí sử dụng máy của công tác khảo sát xây dựng thứ i
+trong Đơn giá khảo sát;
+
+CLNLi: Chênh lệch nhiên liệu, năng lượng
+của công tác khảo sát xây dựng thứ i trong Đơn giá khảo sát;
+
+KKSNC: Hệ số điều chỉnh chi phí nhân công
+theo bảng sau:
+
+Hệ số điều chỉnh
+
+Công trình xây dựng trên địa bàn
+ TP. Tuy Hòa, TX. Sông cầu và huyện Đông Hòa
+
+Công trình xây dựng trên địa bàn các huyện còn lại
+
+KKSNC
+
+4,002
+
+3,802
+
+2. Điều chỉnh dự toán các khoản mục chi
+phí khác tính bằng định mức tỉ lệ (%) trong dự toán
+xây dựng công trình: được tính theo các quy định hiện hành của Nhà nước.
+
+III. Xử lý chuyển tiếp:
+
+Việc xác định đơn giá nhân công trong quản lý chi phí đầu tư
+xây dựng đối với các dự án do tỉnh Phú Yên quản lý được thực hiện như sau:
+
+1. Trường hợp tổng mức đầu tư xây dựng, dự toán
+xây dựng đã được phê duyệt trước ngày 15 tháng 5 năm 2015:
+
+a) Đối với các gói thầu đến ngày 15 tháng 5 năm 2015 chưa tổ chức lựa chọn nhà thầu, Chủ đầu tư tổ chức
+điều chỉnh lại dự toán gói thầu theo quy định tại Thông tư số 01/2015/TT-BXD để
+tổ chức lựa chọn nhà thầu theo quy định;
+
+b) Đối với các gói thầu đã và đang tổ chức lựa chọn nhà thầu:
+
+- Trường hợp đến ngày 15 tháng 5 năm 2015 chưa tổ chức mở thầu (đối với trường hợp đấu thầu và chào hàng cạnh tranh thông thường), Chủ đầu tư tổ chức điều chỉnh lại
+dự toán gói thầu theo quy định tại Thông tư số 01/2015/TT-BXD để tổ chức lựa chọn nhà thầu theo đúng quy định;
+
+- Trường hợp đã mở thầu trước ngày 15 tháng 5 năm 2015 nhưng chưa ký kết hợp
+đồng (đối với trường hợp đấu thầu và chào hàng cạnh tranh thông thường), Chủ đầu tư tổ chức
+điều chỉnh lại dự toán gói thầu theo quy định tại Thông tư số 01/2015/TT-BXD để
+ký kết hợp đồng với giá trị hợp đồng giảm
+theo tỷ lệ giảm giá tương ứng;
+
+- Trường hợp chỉ định thầu và chào hàng cạnh tranh rút gọn mà trước ngày
+15 tháng 5 năm 2015 chưa ký kết hợp đồng, Chủ đầu tư tổ chức điều chỉnh lại dự
+toán gói thầu theo quy định tại Thông tư số 01/2015/TT-BXD để ký kết hợp đồng với giá trị hợp đồng giảm theo tỷ lệ
+giảm giá tương ứng;
+
+c) Trường hợp các gói thầu đã ký kết hợp đồng trước ngày 15 tháng 5 năm 2015
+thi thực hiện theo hợp đồng đã ký kết.
+
+2. Trường hợp tổng mức đầu tư xây dựng,
+dự toán xây dựng đã lập, thẩm
+định nhưng chưa được phê duyệt trước ngày 15 tháng 5 năm 2015, Chủ đầu tư thực
+hiện điều chỉnh lại theo quy định tại Thông tư số 01/2015/TT-BXD.
+
+Trong quá trình triển
+khai thực hiện nếu có gì vướng mắc, đề nghị phản ánh về Sở Xây dựng để xem xét,
+giải quyết./.
+
+ 
+
+ 
+
+Nơi nhận:
+
+- Bộ Xây dựng (b/c);
+
+- UBND Tỉnh (b/c);
+
+- Đ/c Lê Văn Trúc - PCT.UBND Tỉnh;
+
+- VP UBND, HĐND Tỉnh;
+
+- Các sở, ban, ngành trong Tỉnh;
+
+- UBND các huyện, Tx. Sông Cầu và Tp. Tuy Hòa;
+
+- Website của SXD;
+
+- Lưu VP, P4 (NTT-50b).
+
+GIÁM ĐỐC
+
+ Nguyễn Thái Bình--- THÔNG TIN THÊM ---
+Ten: Thông báo 109/TB-SXD năm 2015 hướng dẫn điều chỉnh dự toán xây dựng công trình trên địa bàn tỉnh Phú Yên
+So hieu: 109/TB-SXD
+Loai van ban: Thông báo
+Linh vuc nganh: Lao động - Tiền lương, Xây dựng - Đô thị
+Noi ban hanh: Tỉnh Phú Yên
+Nguoi ky: Nguyễn Thái Bình
+Ngay ban hanh: 20/05/2015
+Ngay hieu luc: 20/05/2015
+Ngay dang: Dữ liệu đang cập nhật
+So cong bao: Dữ liệu đang cập nhật
+Tinh trang: Không xác định
+
+
+--- VĂN BẢN LIÊN QUAN ---
+
+Van ban bi sua doi bo sung:
+  - Quyết định 50/QĐ-SXD năm 2011 công bố Đơn giá xây dựng công trình-phần xây dựng tỉnh Phú Yên do Giám đốc Sở... (ID: 126637)
+  - Quyết định 51/QĐ-SXD năm 2011 công bố Đơn giá xây dựng công trình-phần lắp đặt tỉnh Phú Yên do Giám đốc Sở ... (ID: 126638)
+  - Quyết định 52/QĐ-SXD năm 2011 công bố Đơn giá khảo sát xây dựng công trình tỉnh Phú Yên do Giám đốc Sở Xây ... (ID: 126639)
+
+Van ban duoc dan chieu:
+  - Quyết định 49/QĐ-SXD năm 2011 công bố Bảng giá ca máy và thiết bị thi công tỉnh Phú Yên do Giám đốc Sở Xây ... (ID: 126636)
+
+Van ban duoc can cu:
+  - Thông tư 01/2015/TT-BXD hướng dẫn xác định đơn giá nhân công trong quản lý chi phí đầu tư xây dựng do Bộ ... (ID: 269086)
+
+Van ban lien quan cung noi dung:
+  - Công văn 816/SXD-KTKHXD&HT năm 2015 đính chính Hướng dẫn 663/HD-SXD do Sở Xây dựng tỉnh Quảng Ngãi ban hành (ID: 280498)
+  - Công văn 306/SXD-QLXD năm 2015 về thẩm định điều chỉnh dự toán xây dựng công trình theo Thông tư 01/2015/TT-BXD do Sở Xây dựng tỉnh Kon Tum (ID: 280203)
+  - Hướng dẫn 663/HD-SXD năm 2015 điều chỉnh dự toán xây dựng công trình, dự toán dịch vụ công ích đô thị trên địa bàn tỉnh Quảng Ngãi (ID: 280524)
+  - Công văn 893/SXD-KTKH năm 2015 Hướng dẫn điều chỉnh dự toán xây dựng công trình theo Thông tư 01/2015/TT-BXD do Sở Xây dựng tỉnh Nghệ An ban hành (ID: 275463)
+  - Công văn 593/SXD-KTXD năm 2015 Hướng dẫn lập dự toán xây dựng công trình theo mức tiền lương tại Thông tư 01/2015/TT-BXD do Sở Xây dựng tỉnh Hà Tĩnh ban hành (ID: 275474)
+  - Hướng dẫn 169/HD-SXD năm 2015 điều chỉnh dự toán xây dựng công trình, dự toán dịch vụ công ích đô thị trên địa bàn tỉnh Quảng Ngãi (ID: 270949)

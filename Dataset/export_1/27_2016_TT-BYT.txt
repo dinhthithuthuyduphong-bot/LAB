@@ -1,0 +1,583 @@
+BỘ Y TẾ
+
+ -------
+
+CỘNG HÒA XÃ
+ HỘI CHỦ NGHĨA VIỆT NAM
+
+ Độc lập - Tự do - Hạnh phúc 
+
+ ---------------
+
+Số: 27/2016/TT-BYT
+
+Hà Nội,
+ ngày 30 tháng 06 năm 2016
+
+ 
+
+THÔNG
+TƯ
+
+QUY
+ĐỊNH QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ RUNG - GIÁ TRỊ CHO PHÉP TẠI NƠI LÀM VIỆC
+
+Căn cứ Luật
+an toàn, vệ sinh lao động số 84/2015/QH13 ngày 25 tháng 6 năm 2015;
+
+Căn cứ Luật
+tiêu chuẩn và quy chuẩn kỹ thuật số 68/2006/QH13 ngày 29 tháng 6 năm 2006;
+
+Căn cứ Nghị định số 127/2007/NĐ-CP ngày 01 tháng 8 năm 2007 của
+Chính phủ quy định chi tiết thi hành một số điều của Luật tiêu chuẩn và quy chuẩn kỹ thuật;
+
+Căn cứ Nghị định số 63/2012/NĐ-CP ngày 31/8/2012 của Chính phủ quy định
+chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Y tế;
+
+Theo đề nghị của Cục trưởng Cục Quản
+lý môi trường y tế;
+
+Bộ trưởng Bộ Y tế ban hành Thông tư
+quy định quy chuẩn kỹ thuật quốc gia về rung - Giá trị cho phép tại nơi làm việc.
+
+Điều 1. Quy chuẩn kỹ
+thuật quốc gia về rung
+
+Ban hành kèm theo Thông tư này QCVN 27/2016/BYT
+- Quy chuẩn kỹ thuật quốc gia về rung - Giá trị cho phép tại nơi làm việc.
+
+Điều 2. Hiệu lực thi
+hành
+
+Thông tư này có hiệu lực từ ngày 01
+tháng 12 năm 2016.
+
+Điều 3. Trách nhiệm
+thi hành
+
+Cục trưởng Cục Quản lý môi trường y tế,
+Vụ trưởng, Cục trưởng, Tổng cục trưởng các Vụ, Cục, Tổng cục thuộc Bộ Y tế, Thủ
+trưởng các cơ quan, đơn vị trực thuộc Bộ, Giám đốc Sở Y tế các tỉnh, thành phố
+trực thuộc trung ương và Thủ trưởng cơ quan y tế các Bộ, ngành chịu trách nhiệm
+thi hành Thông tư này./.
+
+ 
+
+Nơi nhận:
+
+-
+ VPCP (Vụ KGVX, Công báo, Cổng TTĐT CP);
+
+ - Các Bộ, cơ quan ngang Bộ, cơ quan thuộc CP;
+
+ - Bộ Tư pháp (Cục Kiểm tra VBQPPL);
+
+ - Bộ trưởng (để báo cáo);
+
+ - Các đơn vị thuộc Bộ Y tế;
+
+ - UBND các tỉnh, thành phố trực thuộc TW;
+
+ - Sở Y tế các tỉnh, thành phố trực thuộc TW;
+
+ - Trung tâm YTDP các tỉnh, thành phố trực thuộc TW;
+
+ - Trung tâm BVSKLĐ&MT các tỉnh, thành phố trực thuộc TW;
+
+ - Tổng cục Tiêu chuẩn đo lường chất lượng (để đăng bạ):
+
+ - Cổng thông tin điện tử Bộ Y tế;
+
+ - Lưu: VT, K2ĐT, PC, MT.
+
+KT. BỘ
+ TRƯỞNG
+
+ THỨ TRƯỞNG
+
+ Nguyễn Thanh Long
+
+ 
+
+QCVN
+27:2016/BYT
+
+QUY
+CHUẨN KỸ THUẬT QUỐC GIA VỀ RUNG - GIÁ TRỊ CHO PHÉP TẠI NƠI LÀM VIỆC
+
+National
+Technical Regulation on Vibration - Permissible Levels of Vibration in the
+Workplace
+
+Lời nói đầu
+
+QCVN 27:2016/BYT do Ban soạn thảo Quy
+chuẩn kỹ thuật quốc gia về vệ sinh lao động biên soạn, Cục Quản lý môi trường y
+tế trình duyệt và được ban hành theo Thông tư số 27/2016/TT-BYT ngày 30 tháng 6
+năm 2016 của Bộ trưởng Bộ Y tế.
+
+ 
+
+QUY CHUẨN KỸ
+THUẬT QUỐC GIA VỀ RUNG - GIÁ TRỊ CHO PHÉP TẠI NƠI LÀM VIỆC
+
+National
+Technical Regulation on Vibration - Permissible Levels of Vibration in the
+Workplace
+
+I. QUY ĐỊNH CHUNG
+
+1. Phạm vi điều chỉnh
+
+Quy chuẩn này quy định mức rung cho
+phép tác động lên người lao động tại nơi làm việc.
+
+2. Đối tượng áp dụng
+
+Quy chuẩn này áp dụng cho các cơ quan
+quản lý nhà nước về môi trường; các cá nhân, tổ chức thực hiện quan trắc môi
+trường lao động; các cá nhân, tổ chức có các hoạt động gây ra rung tại nơi làm
+việc.
+
+3. Giải thích từ ngữ
+
+Trong quy chuẩn này, các từ ngữ dưới
+đây được hiểu như sau:
+
+3.1. Rung hay rung chuyển (Vibration):
+Là những dao động cơ học phát sinh từ động cơ của máy móc và dụng cụ lao động.
+Dao động có thể điều hòa hoặc không điều hòa.
+
+3.2. Tần số rung (Vibration
+frequency): Là số dao động trong một đơn vị thời gian, đơn vị là Hertz (Hz).
+
+3.3. Chu kỳ rung (Vibration periodic):
+Là thời gian hoàn tất một dao động.
+
+3.4. Biên độ rung (Vibration
+amplitute): Là độ lệch lớn nhất so với vị trí cân bằng của một dao động.
+
+Đơn vị đo là: mm; cm; m.
+
+3.5. Vận tốc rung (Vibration
+velocity): Là đại lượng vectơ đặc trưng cho phương, chiều và độ nhanh chậm của
+chất điểm chuyển động.
+
+Đơn vị đo là: mm/s; cm/s; m/s.
+
+3.6. Gia tốc rung (Vibration
+acceleration): Là đại lượng vectơ đặc trưng cho phương, chiều và giá trị của vận
+tốc của chất điểm chuyển động.
+
+Đơn vị đo là: mm/s2, cm/s2,
+m/s2.
+
+3.7. Rung toàn thân (Whole-body
+vibration): Là rung chuyển tác động lên toàn thân của người lao động. Tùy theo
+phương tác động của rung chuyển mà chia ra rung đứng (tác động theo chiều thẳng
+đứng của thân) và rung ngang (tác động theo chiều ngang của thân).
+
+3.8. Rung cục bộ (Hand-Arm vibration):
+Là rung chuyển tác động cục bộ lên một bộ phận cơ thể khi bộ phận đó tiếp xúc
+trực tiếp với nguồn rung.
+
+3.9. Giá trị rung cho phép được quy định
+theo 3 phương của hệ trục tọa độ vuông góc gắn liền với cơ thể người, quy ước
+như sau:
+
+z - trục thẳng đứng, vuông góc với mặt
+đất và hướng từ chân lên đầu.
+
+x - trục nằm ngang, hướng từ lưng ra
+ngực.
+
+y - trục nằm ngang, hướng từ vai phải
+sang vai trái.
+
+II. QUY ĐỊNH KỸ THUẬT
+
+1. Rung cục bộ
+
+1.1. Mức cho phép gia tốc và vận tốc
+rung ở các dải tần số được quy định tại bảng 1.
+
+Bảng 1. Giá
+trị trung bình của gia tốc và vận tốc rung ở các dải tần số ốcta không vượt quá
+các giá trị sau:
+
+Dải tần số
+ (Hz)
+
+Mức cho
+ phép
+
+Gia tốc
+ rung (m/s2)
+
+Vận tốc
+ rung (m/s).
+
+10-2
+
+8 (5,6-11,2)
+
+1,4
+
+2,8
+
+16 (11,2-22,4)
+
+1,4
+
+1,4
+
+31,5
+ (22,4-45)
+
+2,7
+
+1,4
+
+63 (45-90)
+
+5,4
+
+1,4
+
+125
+ (90-180)
+
+10,7
+
+1,4
+
+250
+ (180-355)
+
+21,3
+
+1,4
+
+500
+ (355-700)
+
+42,5
+
+1,4
+
+1000
+ (700-1400)
+
+85,0
+
+1,4
+
+1.2. Mức cho phép gia tốc và vận tốc
+hiệu chỉnh trong mỗi dải tần số ốc ta phụ thuộc vào thời gian tiếp xúc, được
+quy định trong bảng 2.
+
+Bảng 2. Giá
+trị trung bình của gia tốc và vận tốc hiệu chỉnh trong mỗi dải tần số theo thời
+gian tiếp xúc
+
+Thời gian
+ tiếp xúc, phút
+
+Mức cho
+ phép
+
+Gia tốc
+ rung (m/s2)
+
+Vận tốc
+ rung (m/s)
+
+480
+
+1,4
+
+1,4.10-2
+
+240
+
+2,0
+
+2,0.10-2
+
+120
+
+2,8
+
+2,8.10-2
+
+60
+
+3,9
+
+3,9.10-2
+
+30
+
+5,6
+
+5,6.10-2
+
+Ghi chú: Giá trị rung cho
+phép lớn nhất không vượt quá giá trị cho phép ứng với thời gian tiếp xúc 30
+phút (theo bảng 2).
+
+1.3. Mức cho phép gia tốc và vận tốc
+hiệu chỉnh: đối với rung ở những tần số khác, khi thời gian tiếp xúc trong 8 giờ
+(480 phút), gia tốc hiệu chỉnh không vượt quá 4m/s2, vận tốc hiệu chỉnh
+không quá 4 cm/s.
+
+1.4. Mức cho phép gia tốc và vận tốc
+hiệu chỉnh theo thời gian tiếp xúc: nếu thời gian tiếp xúc dưới 8 giờ trong
+ngày, mức cho phép gia tốc hiệu chỉnh và vận tốc hiệu chỉnh được tính theo công
+thức sau:
+
+Trong đó:
+
+ahđ: là giá trị hiệu chỉnh
+(vận tốc hoặc gia tốc hiệu chỉnh cho phép đối với thời gian tiếp xúc t).
+
+ah: là giá trị cho phép gia
+tốc hoặc vận tốc hiệu chỉnh trong thời gian làm việc 8 giờ (480 phút).
+
+t: thời gian tiếp xúc thực tế tính bằng
+phút.
+
+Giá trị cực đại không được vượt quá
+16m/s2 với gia tốc hiệu chỉnh và 16cm/s với vận tốc hiệu chỉnh trong
+thời gian làm việc dưới 30 phút.
+
+2. Rung toàn thân
+
+2.1. Mức cho phép gia tốc và vận tốc
+rung ở các dải tần số (ốcta) được quy định ở Bảng 3.
+
+Bảng 3. Mức
+cho phép gia tốc và vận tốc rung ở các dải tần số ốc ta không vượt quá các giá
+trị sau:
+
+Dải tần số
+ (Hz)
+
+Gia tốc
+ rung (m/s2)
+
+Vận tốc
+ rung (m/s)
+
+Rung đứng
+
+Rung ngang
+
+Rung đứng
+
+Rung ngang
+
+1
+ (0,08-1,4)
+
+1,10
+
+0,39
+
+20,0.10-2
+
+6,3.10-2
+
+2 (1,4-2,8)
+
+0,79
+
+0,42
+
+7,1.10-2
+
+3,6.10-2
+
+4 (2,8-5,6)
+
+0,57
+
+0,80
+
+2,5.10-2
+
+3,2.10-2
+
+8 (5,6-11,2)
+
+0,60
+
+1,62
+
+1,3.10-2
+
+3,2.10-2
+
+16
+ (11,2-22,4)
+
+1,14
+
+3,20
+
+1,1.10-2
+
+3,2.10-2
+
+31,5
+ (22,4-45)
+
+2,26
+
+6,38
+
+1,1.10-2
+
+3,2.10-2
+
+63 (45-90)
+
+4,49
+
+12,76
+
+1,1.10-2
+
+3,2.10-2
+
+Chú ý: Khi khảo sát rung thường chỉ đo
+một trong hai đại lượng (gia tốc rung hoặc vận tốc rung).
+
+2.2. Mức cho phép gia tốc hiệu chỉnh đối
+với rung đứng không quá 0, 54m/s2 (theo trục z), đối với rung ngang
+không quá 0,38m/s2 (theo trục x,y).
+
+2.3. Mức cho phép gia tốc hiệu chỉnh
+theo thời gian tiếp xúc: đối với các loại phương tiện, vị trí làm việc khác
+nhau có hệ số hiệu chỉnh khác nhau:
+
+Loại 1: Rung vận chuyển, rung trong
+giao thông tác động tại chỗ làm việc của những máy di động và các phương tiện vận
+tải khi làm việc. Ví dụ: Lái xe tải, điều khiển máy kéo nông nghiệp, máy làm đường...
+
+Mức cho phép gia tốc hiệu chỉnh theo
+thời gian tiếp xúc bằng gia tốc hiệu chỉnh nhân với hệ số 1. Đối với rung đứng
+không quá 0,54m/s2 (theo trục z), đối với rung ngang không quá
+0,38m/s2 (theo trục x,y).
+
+Loại 2: Rung vận chuyển - công nghệ,
+tác động tại chỗ làm việc của những máy móc, phương tiện di động hạn chế trên
+những khu vực nhất định của mặt bằng sản xuất hoặc mặt bằng nơi khai mỏ. Ví dụ:
+điều khiển máy xúc, lái các loại cẩu, các loại máy khai mỏ (máy liên hợp khai mỏ).
+
+Mức cho phép gia tốc hiệu chỉnh theo
+thời gian tiếp xúc bằng gia tốc hiệu chỉnh nhân với hệ số 0,5. Đối với rung đứng
+không quá 0,27m/s2 (theo trục z), đối với rung ngang không quá
+0,19m/s2 (theo trục x,y).
+
+Loại 3: Rung do công nghệ sản xuất,
+tác động tại chỗ làm việc của những máy tĩnh tại hoặc truyền ra nơi làm việc
+không có nguồn rung. Ví dụ: điều khiển máy công cụ, nền của các máy cố định
+trong sản xuất.
+
+Mức cho phép gia tốc hiệu chỉnh theo
+thời gian tiếp xúc bằng gia tốc hiệu chỉnh nhân với hệ số 0,16. Đối với rung đứng
+không quá 0,086m/s2 (theo trục z), đối với rung ngang không quá
+0,06m/s2 (theo trục x,y).
+
+III. PHƯƠNG PHÁP XÁC
+ĐỊNH
+
+Phương pháp đo rung theo các tiêu chuẩn
+sau:
+
+1. TCVN
+5127 - 90. Rung cục bộ - Giá trị cho phép và phương pháp đánh giá.
+
+2. TCVN 6964 -1:2001 (ISO 2631-1:1997)
+- Rung động và chấn động cơ học - Đánh giá sự tiếp xúc của con người với rung động
+toàn thân.
+
+IV. QUY ĐỊNH QUẢN LÝ
+
+1. Các cơ sở có người lao động tiếp
+xúc với rung chuyển phải định kỳ tổ chức đo rung nơi làm việc tối thiểu 1 lần/năm
+và theo các quy định của Bộ luật lao động, Luật an toàn, vệ sinh lao động.
+
+2. Người sử dụng lao động phải cung cấp
+đầy đủ trang thiết bị bảo hộ lao động cho người lao động phù hợp với môi trường
+làm việc.
+
+3. Nếu rung chuyển tại nơi làm việc vượt
+mức cho phép, người sử dụng lao động phải thực hiện các giải pháp cải thiện môi
+trường lao động và bảo vệ sức khỏe người lao động.
+
+V. TỔ CHỨC THỰC HIỆN
+
+1. Quy chuẩn này thay thế cho Tiêu chuẩn
+rung trong trong Tiêu chuẩn Vệ sinh lao động ban hành theo Quyết định số 3733/2002/QĐ-BYT ngày 10/10/2002 của Bộ trưởng Bộ
+Y tế.
+
+2. Cục Quản lý môi trường y tế - Bộ Y
+tế chủ trì, phối hợp với các cơ quan chức năng có liên quan hướng dẫn, triển
+khai và tổ chức việc thực hiện quy chuẩn này.
+
+3. Căn cứ thực tiễn yêu cầu quản lý, Cục
+Quản lý môi trường y tế có trách nhiệm kiến nghị Bộ Y tế sửa đổi, bổ sung cho
+phù hợp.
+
+4. Trong trường hợp các tiêu chuẩn quốc
+gia, tiêu chuẩn quốc tế về rung viện dẫn trong quy chuẩn này sửa đổi, bổ sung
+hoặc thay thế thì áp dụng theo quy định tại các văn bản mới.--- THÔNG TIN THÊM ---
+Ten: Thông tư 27/2016/TT-BYT Quy định Quy chuẩn kỹ thuật quốc gia về rung - Giá trị cho phép tại nơi làm việc do Bộ trưởng Bộ Y tế ban hành
+So hieu: 27/2016/TT-BYT
+Loai van ban: Thông tư
+Linh vuc nganh: Lao động - Tiền lương, Thể thao - Y tế
+Noi ban hanh: Bộ Y tế
+Nguoi ky: Nguyễn Thanh Long
+Ngay ban hanh: 30/06/2016
+Ngay hieu luc: 01/12/2016
+Ngay dang: 03/09/2016
+So cong bao: Từ số 903 đến số 904
+Tinh trang: Còn hiệu lực
+
+
+--- MỤC LỤC ---
+- THÔNG TƯ QUY ĐỊNH QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ RUNG - GIÁ TRỊ CHO PHÉP TẠI NƠI LÀM VIỆC
+  - Điều 1. Quy chuẩn kỹ thuật quốc gia về rung
+  - Điều 2. Hiệu lực thi hành
+  - Điều 3. Trách nhiệm thi hành
+- QCVN 27:2016/BYT QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ RUNG - GIÁ TRỊ CHO PHÉP TẠI NƠI LÀM VIỆC
+  - I. QUY ĐỊNH CHUNG
+  - II. QUY ĐỊNH KỸ THUẬT
+  - III. PHƯƠNG PHÁP XÁC ĐỊNH
+  - IV. QUY ĐỊNH QUẢN LÝ
+  - V. TỔ CHỨC THỰC HIỆN
+
+--- VĂN BẢN LIÊN QUAN ---
+
+Van ban bi sua doi bo sung:
+  - Quyết định 3733/2002/QĐ-BYT về 21 tiêu chuẩn vệ sinh lao động, 05 nguyên tắc và 07 thông số vệ sinh lao ... (ID: 70480)
+
+Van ban duoc dan chieu:
+  - Bộ Luật lao động 2012 (ID: 142187)
+
+Van ban duoc can cu:
+  - Luật an toàn, vệ sinh lao động 2015 (ID: 281961)
+  - Nghị định 63/2012/NĐ-CP quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Y tế (ID: 146851)
+  - Nghị định 127/2007/NĐ-CP Hướng dẫn Luật Tiêu chuẩn và Quy chuẩn kỹ thuật (ID: 54148)
+  - Luật Tiêu chuẩn và quy chuẩn kỹ thuật 2006 (ID: 12979)
+
+Van ban lien quan ngon ngu:
+  - Circular No. 27/2016/TT-BYT dated June 30, 2016, 
+national technical regulation on vibration - permissible... (ID: 345343)
+
+Van ban lien quan cung noi dung:
+  - Thông tư 23/2016/TT-BYT Quy định Quy chuẩn kỹ thuật quốc gia về bức xạ tử ngoại - Mức tiếp xúc cho phép bức xạ tử ngoại tại nơi làm việc do Bộ trưởng Bộ Y tế ban hành (ID: 318343)
+  - Thông tư 24/2016/TT-BYT Quy định Quy chuẩn kỹ thuật quốc gia về tiếng ồn - Mức tiếp xúc cho phép tiếng ồn tại nơi làm việc do Bộ trưởng Bộ Y tế ban hành (ID: 318344)
+  - Thông tư 26/2016/TT-BYT Quy định Quy chuẩn kỹ thuật quốc gia về vi khí hậu - Giá trị cho phép vi khí hậu tại nơi làm việc do Bộ trưởng Bộ Y tế ban hành (ID: 318346)

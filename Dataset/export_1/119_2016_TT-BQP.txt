@@ -1,0 +1,1651 @@
+BỘ QUỐC PHÒNG
+
+ -------
+
+CỘNG HÒA XÃ HỘI
+ CHỦ NGHĨA VIỆT NAM
+
+ Độc lập - Tự do - Hạnh phúc 
+
+ ---------------
+
+Số:
+ 119/2016/TT-BQP
+
+Hà Nội, ngày 30
+ tháng 08 năm 2016
+
+ 
+
+THÔNG TƯ
+
+BAN
+HÀNH QUY TRÌNH KIẾM ĐỊNH KỸ THUẬT AN TOÀN ĐỐI VỚI THIẾT BỊ TẠO NITROGLYXERIN SỬ
+DỤNG TRONG BỘ QUỐC PHÒNG (QTKĐ 03:2016/BQP)
+
+Căn cứ Nghị định số 34/2016/NĐ-CP
+ngày 14 tháng 5 năm 2016 của Chính phủ quy định chi tiết một số điều và biện
+pháp thi hành Luật Ban hành văn bản quy phạm pháp
+luật năm 2015;
+
+Căn cứ Nghị định số 44/2016/NĐ-CP
+ngày 15 tháng 5 năm 2016 của Thủ tướng Chính phủ quy định chi tiết một số điều
+của Luật an toàn, vệ sinh lao động về hoạt động
+kiểm định kỹ thuật an toàn lao động, huấn luyện an toàn, vệ sinh lao động và
+quan trắc môi trường lao động;
+
+Căn cứ Nghị định số 35/2013/NĐ-CP ngày 22 tháng
+4 năm 2013 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ
+chức của Bộ Quốc phòng;
+
+Xét đề nghị của Chủ nhiệm Tổng cục Kỹ thuật;
+
+Bộ trưởng Bộ Quốc phòng ban hành quy trình kiểm
+định kỹ thuật an toàn đối với máy, thiết bị có yêu cầu nghiêm ngặt về an toàn
+lao động trong Bộ Quốc phòng.
+
+Điều 1. Ban hành kèm theo Thông tư này quy trình kiểm định kỹ thuật
+an toàn đối với thiết bị tạo NitroGlyxerin sử dụng trong Bộ Quốc phòng.
+
+Ký hiệu: QTKĐ 03:2016/BQP.
+
+Điều 2. Hiệu lực thi hành
+
+Thông tư này có hiệu lực thi hành kể từ ngày 15
+tháng 10 năm 2016.
+
+Điều 3. Trách nhiệm thi hành
+
+Chủ nhiệm Tổng cục Kỹ thuật, Thủ trưởng các cơ
+quan, đơn vị liên quan chịu trách nhiệm thi hành Thông tư này./.
+
+ 
+
+Nơi nhận:
+
+- Bộ LĐTB&XH;
+
+ - BTTM, TCK.T (3b), TCHC, TCCNQP;
+
+ - Các QK, QĐ, BĐ, QC, BC;
+
+ - BTL: BĐBP, CSBVN, TĐHN, BVLCTHCM;
+
+ - Cục Kiểm tra văn bản Bộ Tư pháp;
+
+ - Vụ Pháp chế/BQP, Công báo, Cổng TTĐTCP, Cổng TTĐT/BQP;
+
+ - Lưu: VT, NCTH, PC; Q43.
+
+KT. BỘ TRƯỞNG
+
+ THỨ TRƯỞNG
+
+ Thượng tướng Bế Xuân Trường
+
+ 
+
+QUY TRÌNH KIỂM ĐỊNH
+
+QTKĐ 03:2016/BQP
+
+THIẾT BỊ TẠO NITROGLYXERIN.
+
+QUY TRÌNH KIỂM ĐỊNH KỸ THUẬT AN TOÀN
+
+(Ban hành kèm
+theo Thông tư số 119/2016/TT-BQP ngày 30 tháng 8 năm 2016 của Bộ trưởng Bộ Quốc
+phòng)
+
+ 
+
+Mục lục
+
+Lời nói đầu 
+
+1. Phạm vi và đối tượng áp dụng 
+
+1.1. Phạm vi áp dụng 
+
+1.2. Đối tượng áp dụng 
+
+2. Các hình thức kiểm định 
+
+3. Tài liệu viện dẫn 
+
+4. Thuật ngữ và định nghĩa 
+
+4.1. Thiết bị tạo NitroGlyxerin 
+
+4.2. Kiểm định kỹ thuật lần đầu 
+
+4.3. Kiểm định kỹ thuật định kỳ 
+
+4.4. Kiểm định kỹ thuật bất thường 
+
+5. Các bước kiểm định 
+
+6. Phương tiện kiểm định 
+
+7. Điều kiện kiểm định 
+
+8. Chuẩn bị kiểm định 
+
+8.1. Thống nhất kế hoạch kiểm định 
+
+8.2. Kiểm tra hồ sơ, lý lịch 
+
+8.3. Chuẩn bị lực lượng và trang thiết bị kiểm định
+
+8.4. Chuẩn bị các biện pháp an toàn khi kiểm định.
+
+9. Tiến hành kiểm định 
+
+9.1. Kiểm tra kỹ thuật bên ngoài, bên trong 
+
+9.2. Kiểm tra kỹ thuật thử nghiệm 
+
+9.3. Kiểm tra vận hành 
+
+10. Xử lý kết quả kiểm định 
+
+11. Thời hạn kiểm định 
+
+ 
+
+Lời nói đầu
+
+Quy trình kiểm định kỹ thuật an toàn đối với thiết
+bị tạo NitroGlyxerin sử dụng trong Bộ Quốc phòng (QTKĐ 03:2016/BQP) do Tổng cục
+Kỹ thuật biên soạn, trình Bộ trưởng Bộ Quốc phòng ban hành kèm theo Thông tư số
+119/2016/TT-BQP ngày 30 tháng 8 năm 2016.
+
+ 
+
+THIẾT
+BỊ TẠO NITROGLYXERIN.
+
+QUY
+TRÌNH KIỂM ĐỊNH KỸ THUẬT AN TOÀN
+
+1. PHẠM VI VÀ ĐỐI TƯỢNG ÁP DỤNG
+
+1.1. Phạm vi áp dụng:
+
+Quy trình kiểm định kỹ thuật an toàn này áp dụng để
+kiểm định kỹ thuật an toàn lần đầu, kiểm định kỹ thuật an toàn định kỳ và kiểm
+định kỹ thuật an toàn bất thường đối với thiết bị tạo NitroGlyxerin thuộc dây
+chuyền sản xuất thuốc phóng, thuốc nổ thuộc Danh mục máy, thiết bị, vật tư có
+yêu cầu nghiêm ngặt về an toàn lao động đặc thù quân sự do Bộ Quốc phòng ban
+hành.
+
+Căn cứ vào quy trình này, đơn vị kiểm định kỹ thuật
+an toàn trong Quân đội áp dụng trực tiếp hoặc xây dựng quy trình cụ thể, chi tiết
+cho từng loại thiết bị tạo NitroGlyxerin nhưng không được trái với quy định của
+quy trình này. Các doanh nghiệp, cơ quan, tổ chức, đơn vị sử dụng thiết bị tạo
+NitroGlyxerin nêu trên có trách nhiệm phối hợp với đơn vị kiểm định theo quy định
+của pháp luật.
+
+1.2. Đối tượng áp dụng:
+
+- Các cơ quan, tổ chức, đơn vị trong Quân đội quản
+lý, sử dụng thiết bị (gọi chung là cơ sở);
+
+- Các đơn vị kiểm định kỹ thuật an toàn trong Quân
+đội;
+
+- Các cơ quan quản lý nhà nước có liên quan.
+
+2. CÁC HÌNH THỨC KIỂM ĐỊNH
+
+Quy trình kiểm định kỹ thuật an toàn thiết bị tạo
+NitroGlyxerin phải được thực hiện đầy đủ trong những trường hợp sau:
+
+- Kiểm định kỹ thuật an toàn lần đầu, trước khi đưa
+vào sử dụng;
+
+- Kiểm định kỹ thuật an toàn định kỳ;
+
+- Kiểm định kỹ thuật an toàn bất thường.
+
+3. TÀI LIỆU VIỆN DẪN
+
+Trong quy trình áp dụng những quy chuẩn, tiêu chuẩn
+kỹ thuật quốc gia về an toàn sau:
+
+- QCVN 01:2012./BCT:
+Quy chuẩn kỹ thuật quốc gia về an toàn trong sản xuất thử nghiệm và nghiệm thu
+vật liệu nổ công nghiệp;
+
+- QCVN 02:2008/BCT:
+Quy chuẩn kỹ thuật quốc gia về an toàn trong bảo quản, vận chuyển sử dụng và
+tiêu hủy vật liệu nổ công nghiệp;
+
+- QCVN 01:2008-BLĐTBXH
+- Quy chuẩn kỹ thuật quốc gia về an toàn lao động nồi hơi và bình chịu áp lực;
+
+- QCVN 01:2008/BCT:
+Quy chuẩn kỹ thuật quốc gia về an toàn điện;
+
+- TCVN 8366:2010
+- Bình chịu áp lực - Yêu cầu kỹ thuật an toàn về thiết kế, kết cấu, chế tạo;
+
+- TCVN 6155:1996
+- Bình chịu áp lực - Yêu cầu kỹ thuật an toàn về lắp đặt, sử dụng, sửa chữa;
+
+- TCVN 6156:1966
+- Bình chịu áp lực - Yêu cầu kỹ thuật an toàn về lắp đặt, sử dụng, sửa chữa,
+phương pháp thử;
+
+- TCVN 6008:2010
+- Thiết bị áp lực - Mối hàn yêu cầu kỹ thuật và phương pháp kiểm tra.
+
+- TCVN 2290-78:
+Thiết bị sản xuất - Yêu cầu chung về an toàn;
+
+- TCVN-18-2006:
+Quy phạm trang bị điện;
+
+- TCVN 1987:1994:
+Động cơ điện không đồng bộ ba pha rôto ngắn mạch có công suất từ 0,35 đến 90
+Kw;
+
+- TCVN 6174:1997:
+Vật liệu nổ công nghiệp yêu cầu an toàn về sản xuất, thử nổ và nghiệm thu;
+
+- TCVN 4756-1989:
+Quy phạm nối đất và nối không các thiết bị điện.
+
+- TCVN/QS 960:2012: Hệ thống chống sét kho đạn dược.
+
+Trong trường hợp các quy chuẩn kỹ thuật quốc gia và
+tiêu chuẩn quốc gia viện dẫn tại quy trình kiểm định này có bổ sung, sửa đổi hoặc
+thay thế thì áp dụng theo quy định tại văn bản mới nhất.
+
+Việc kiểm định các chỉ tiêu về kỹ thuật an toàn của
+thiết bị tạo NitroGlyxerin có thể theo tiêu chuẩn khác khi có đề nghị của cơ sở
+sử dụng, chế tạo với điều kiện tiêu chuẩn đó phải có các chỉ tiêu kỹ thuật về
+an toàn bằng hoặc cao hơn so với các chỉ tiêu quy định trong các tiêu chuẩn quốc
+gia được viện dẫn trong quy trình này.
+
+4. THUẬT NGỮ VÀ ĐỊNH NGHĨA
+
+Trong quy trình này sử dụng các thuật ngữ, định
+nghĩa trong các quy chuẩn, tiêu chuẩn kỹ thuật an toàn nêu trên và sử dụng một
+số thuật ngữ, định nghĩa khác nêu trong quy trình.
+
+4.1. Thiết bị tạo NitroGlyxerin:
+
+Là thiết bị tạo ra NitroGlyxerin bằng phản ứng liên
+tục giữa Glyxerin và hỗn hợp Axit nitrô hóa trong thiết bị nitrô hóa kiểu
+Injectơ.
+
+4.2. Kiểm định kỹ thuật an toàn lần đầu:
+
+Là hoạt động đánh giá tình trạng kỹ thuật an toàn của
+thiết bị theo các quy chuẩn, tiêu chuẩn kỹ thuật an toàn khi lắp đặt, trước khi
+đưa vào để sử dụng lần đầu.
+
+4.3. Kiểm định kỹ thuật an toàn định kỳ:
+
+Là hoạt động đánh giá tình trạng kỹ thuật an toàn của
+thiết bị theo các quy chuẩn, tiêu chuẩn kỹ thuật an khi hết thời hạn của lần kiểm
+định trước.
+
+4.4. Kiểm định kỹ thuật an toàn bất thường:
+
+Là hoạt động đánh giá tình trạng kỹ thuật an toàn của
+thiết bị theo các quy chuẩn, tiêu chuẩn kỹ thuật an toàn, cụ thể:
+
+- Sau khi sửa chữa, nâng cấp, cải tạo có ảnh hưởng
+tới tình trạng kỹ thuật an toàn của thiết bị;
+
+- Sau khi thay đổi vị trí lắp đặt;
+
+- Khi có yêu cầu của cơ sở hoặc cơ quan có thẩm quyền.
+
+5. CÁC BƯỚC KIỂM ĐỊNH
+
+Tiến hành kiểm tra kỹ thuật an toàn theo các bước
+sau:
+
+Bước 1. Chuẩn bị kiểm định;
+
+Bước 2. Kiểm tra hồ sơ kỹ thuật;
+
+Bước 3. Kiểm tra bên ngoài, bên trong;
+
+Bước 4. Kiểm tra kỹ thuật thử nghiệm;
+
+Bước 5. Kiểm tra vận hành;
+
+Bước 6. Xử lý kết quả kiểm định.
+
+Lưu ý:
+
+Các bước kiểm tra tiếp theo chỉ được tiến hành khi
+kết quả kiểm tra ở bước trước đó đạt yêu cầu. Tất cả các kết quả kiểm tra của từng
+bước phải được ghi chép đầy đủ vào bản ghi chép hiện trường theo mẫu quy định tại
+Phụ lục 01 ban hành kèm theo quy trình này và lưu lại
+đầy đủ tại tổ chức kiểm định.
+
+6. PHƯƠNG TIỆN KIỂM ĐỊNH
+
+Các phương tiện phục vụ kiểm định phải phù hợp với
+đối tượng kiểm định, phải được kiểm định, hiệu chuẩn theo quy định và còn hạn
+kiểm định, bao gồm:
+
+6.1. Thiết bị, dụng cụ phục vụ khám xét:
+
+- Thiết bị chiếu sáng có điện áp của nguồn không
+quá 12 V, phải dùng đèn an toàn phòng nổ.
+
+- Búa kiểm tra có khối lượng từ 0,3 kg đến 0,5 kg;
+
+- Kính lúp có độ phóng đại phù hợp với đối tượng kiểm
+tra;
+
+- Dụng cụ đo đạc cơ khí: Thước cặp, thước dây;
+
+- Thiết bị kiểm tra bên trong: Thiết bị nội soi.
+
+6.2. Thiết bị, dụng cụ phục vụ thử bền, thử kín:
+
+- Thiết bị tạo áp suất có đặc tính kỹ thuật (lưu lượng,
+áp suất) phù hợp với đối tượng thử;
+
+- Phương tiện, thiết bị kiểm tra độ kín.
+
+6.3. Thiết bị, dụng cụ đo lường:
+
+Áp kế, nhiệt kế có cấp chính xác và thang đo phù hợp
+với áp suất thử và nhiệt độ thử.
+
+6.4. Thiết bị, dụng cụ đo, kiểm tra chuyên dùng
+khác (nếu cần):
+
+- Thiết bị siêu âm chiều dầy;
+
+- Thiết bị kiểm tra chất lượng mối hàn;
+
+- Máy đo nhiệt độ không tiếp xúc;
+
+- Thiết bị đo điện trở tiếp đất;
+
+- Thiết bị đo hiệu điện thế và dòng điện;
+
+- Thiết bị đo điện trở cách điện;
+
+- Các thiết bị đo kiểm chuyên dùng khác (nếu cần).
+
+7. ĐIỀU KIỆN KIỂM ĐỊNH
+
+Khi tiến hành kiểm định thiết bị tạo NitroGlyxerin
+phải đảm bảo các điều kiện sau đây:
+
+7.1. Thiết bị phải ở trạng thái sẵn sàng đưa vào kiểm
+định;
+
+7.2. Hồ sơ, tài liệu thiết bị phải đầy đủ;
+
+7.3. Các yếu tố môi trường, thời tiết không làm ảnh
+hưởng tới kết quả kiểm định;
+
+7.4. Các trang thiết bị, dụng cụ kiểm định đầy đủ
+và phù hợp với đối tượng kiểm định;
+
+7.5. Các điều kiện về an toàn, vệ sinh lao động phải
+đáp ứng để kiểm định thiết bị.
+
+8. CHUẨN BỊ KIỂM ĐỊNH
+
+Trước khi tiến hành kiểm định thiết bị tạo
+NitroGlyxerin phải thực hiện các công việc chuẩn bị sau:
+
+8.1. Thống nhất kế hoạch kiểm định giữa đơn vị kiểm
+định với cơ sở theo nội dung sau:
+
+8.1.1. Chuẩn bị hồ sơ, tài liệu thiết bị;
+
+8.1.2. Xả môi chất, vệ sinh bên trong, bên ngoài
+thiết bị;
+
+8.1.3. Chuẩn bị các công cụ đảm bảo cho việc xem
+xét tất cả các bộ phận của thiết bị.
+
+8.2. Kiểm tra hồ sơ, lý lịch:
+
+Căn cứ vào hình thức kiểm định để kiểm tra, xem xét
+hồ sơ của thiết bị:
+
+8.2.1. Khi kiểm định lần đầu phải xem xét các hồ sơ
+sau:
+
+a) Lý lịch của thiết bị, lưu ý xem xét các tài liệu
+sau:
+
+- Các chỉ tiêu về kim loại chế tạo, kim loại hàn;
+
+- Tính toán sức bền của các bộ phận chịu lực (nếu
+có);
+
+- Bản vẽ cấu tạo của hệ thống có ghi đầy đủ kích
+thước;
+
+- Hướng dẫn vận hành, bảo dưỡng, sửa chữa (nếu có);
+
+- Các chứng chỉ chất lượng về kim loại chế tạo, kim
+loại hàn;
+
+- Kết quả kiểm tra chất lượng mối hàn.
+
+b) Các báo cáo kết quả hiệu chuẩn thiết bị đo lường;
+biên bản kiểm tra tiếp địa, chống sét, thiết bị bảo vệ (nếu có) của thiết bị;
+
+c) Hồ sơ lắp đặt thiết bị:
+
+- Tên cơ sở lắp đặt và cơ sở sử dụng;
+
+- Thiết kế lắp đặt;
+
+- Đặc tính của những vật liệu bổ sung khi lắp đặt;
+
+- Những số liệu về hàn như: Công nghệ hàn, mã hiệu
+que hàn và kết quả thử nghiệm các mối hàn;
+
+- Nhà đặt thiết bị gồm: Mặt bằng bố trí thiết bị,
+các quy định về khoảng cách an toàn, hệ thống điện, hệ thống chiếu sáng, hệ thống
+chống sét, hệ thống phòng cháy chữa cháy, hệ thống thông tin liên lạc, bố trí cửa
+thoát hiểm, công trình vệ sinh, hệ thống thông gió;
+
+- Biên bản nghiệm thu tổng thể thiết bị.
+
+d) Hồ sơ xuất xưởng của thiết bị:
+
+- Các chứng chỉ về kim loại chế tạo;
+
+- Kết quả kiểm tra chất lượng mối hàn;
+
+- Kết quả kiểm tra hệ thống điện;
+
+- Biên bản nghiệm thử xuất xưởng....
+
+8.2.2. Khi kiểm định định kỳ phải xem xét các hồ sơ
+sau:
+
+a) Lý lịch lưu trữ, biên bản kiểm định và phiếu kết
+quả kiểm định lần trước;
+
+b) Hồ sơ về quản lý sử dụng, vận hành, bảo dưỡng,
+biên bản thanh tra, kiểm tra liên quan đến tình trạng kỹ thuật của thiết bị (nếu
+có).
+
+8.2.3. Khi kiểm định bất thường phải xem xét các hồ
+sơ sau:
+
+Khi kiểm định bất thường phải xem xét các hồ sơ như
+Mục 8.2.2 ở trên và xem xét bổ sung các hồ sơ sau:
+
+- Trường hợp sửa chữa cải tạo, nâng cấp: Các hồ sơ
+liên quan đến thiết kế sửa chữa, cải tạo, nâng cấp, biên bản nghiệm thu sau sửa
+chữa, cải tạo, nâng cấp;
+
+- Trường hợp thay đổi vị trí lắp đặt: Xem xét bổ
+sung hồ sơ lắp đặt.
+
+Lưu ý:
+
+Đối với những thiết bị tạo NitroGlyxerin rõ xuất xứ
+nhưng hồ sơ kỹ thuật không đầy đủ thì phải tiến hành lập bổ sung.
+
+Đánh giá:
+
+Kết quả kiểm tra hồ sơ thiết bị tạo NitroGlyxerin đạt
+yêu cầu khi đầy đủ và đáp ứng các yêu cầu kiểm tra ở trên, phù hợp với thực tế.
+
+8.3. Chuẩn bị lực lượng và trang thiết bị kiểm định:
+
+Bố trí kiểm định viên và người chứng kiến kiểm định.
+Chuẩn bị đầy đủ phương tiện, trang bị thực hiện kiểm định.
+
+8.4. Chuẩn bị các biện pháp an toàn khi kiểm định:
+
+Xác định và thống nhất biện pháp an toàn với cơ sở
+trước khi thực hiện kiểm định. Chuẩn bị đầy đủ phương tiện bảo vệ cá nhân đảm bảo
+an toàn cho quá trình kiểm định.
+
+9. TIẾN HÀNH KIỂM ĐỊNH
+
+9.1. Kiểm tra bên ngoài, bên trong:
+
+Kiểm tra bên ngoài, bên trong thiết bị tạo
+NitroGlyxerin phải theo đúng các quy định tại Mục 2 TCVN 2290-78: Thiết bị sản xuất - Yêu cầu chung
+về an toàn; dụng cụ phục vụ việc kiểm tra: Kính lúp, dụng cụ đo, búa kiểm tra,
+đèn chiếu sáng chuyên dụng...đủ để xác định dạng và độ lớn của khuyết tật và tiến
+hành theo trình tự các bước sau:
+
+9.1.1. Kiểm tra phần lắp đặt và độ chính xác các
+kích thước hình học:
+
+Các chỉ tiêu đánh giá theo quy định của tài liệu
+thiết kế.
+
+9.1.2. Kiểm tra sự đồng bộ, đầy đủ, kết cấu và bố
+trí hợp lý và khả năng làm việc an toàn của thiết bị, trong đó tập trung vào:
+
+- Thân thiết bị;
+
+- Các thiết bị bổ trợ;
+
+- Thiết bị, phương tiện đo;
+
+- Tủ điện, khí cụ điện, cáp điện...;
+
+- Dây nối tiếp địa;
+
+- Động cơ điện;
+
+- Thiết bị an toàn (nếu có);
+
+- Đồng hồ áp lực (nếu có).
+
+Khi kiểm tra thực hiện theo quy định của nhà chế tạo.
+
+9.1.3. Kiểm tra các khuyết tật, biến dạng của các bộ
+phận, cụm máy:
+
+Khi kiểm tra bên ngoài, bên trong thiết bị tạo
+NitroGlyxerin, cần chú ý phát hiện những thiếu sót sau:
+
+- Các vết nứt, rạn, vết móp, chỗ phồng phía trong
+và phía ngoài thành thân thiết bị; dấu vết rò rỉ tại các mối hàn, mối tán đinh,
+mối núc ống;
+
+- Tình trạng cáu cặn, han gỉ, ăn mòn thành kim loại
+các bộ phận;
+
+- Tình trạng kỹ thuật của phụ kiện, dụng cụ đo kiểm
+và cơ cấu an toàn;
+
+- Tình trạng kỹ thuật của lớp cách nhiệt (nếu có);
+
+- Kiểm tra độ bắt chặt của các chi tiết ghép nối;
+
+- Đối với những vị trí không thể tiến hành khám xét
+bên trong khi kiểm định thì việc kiểm tra tình trạng kỹ thuật phải được thực hiện
+theo tài liệu kỹ thuật của nhà chế tạo. Trong tài liệu phải ghi rõ: Khối lượng
+cần kiểm tra, phương pháp và trình tự kiểm tra.
+
+9.1.4. Kiểm tra vị trí lắp đặt thiết bị: Hệ thống
+chiếu sáng; sàn, cầu thang, giá treo...; hệ thống tiếp địa, chống sét (nếu có);
+
+9.1.5. Kiểm tra số lượng và tình trạng làm việc của
+các thiết bị phụ trợ;
+
+9.1.6. Kiểm tra việc làm sạch thiết bị tạo
+NitroGlyxerin, người trực tiếp kiểm tra phải nắm vững quy trình xử lý sự cố thường
+gặp theo TCVN 5507- 2002: Hóa chất nguy hiểm
+- Quy phạm an toàn trong sản xuất, kinh doanh, sử dụng, bảo quản, vận chuyển.
+
+Lưu ý:
+
+Khi không có khả năng tiến hành khám xét bên trong
+do đặc điểm kết cấu của thiết bị, cho phép thay thế việc khám xét bên trong bằng
+thử thủy lực với áp suất thử quy định và khám xét những bộ phận có thể khám xét
+được.
+
+9.1.7. Khi phát hiện có những khuyết tật làm giảm độ
+bền cần tiến hành sửa chữa khắc phục đảm bảo các thông số của thiết bị theo các
+số liệu thiết kế.
+
+Đánh giá:
+
+Kết quả kiểm tra bên ngoài, bên trong thiết bị tạo
+NitroGlyxerin đạt yêu cầu khi:
+
+- Đáp ứng các quy định theo Mục 2 TCVN 2290-78;
+
+- Không có các vết nứt, phồng, móp, bị ăn mòn quá
+quy định, dấu vết xì môi chất ở các bộ phận chịu áp lực và ở các mối hàn, mối nối.
+
+9.2. Kiểm tra kỹ thuật, thử nghiệm:
+
+Đối với thiết bị tạo NitroGlyxerin sau khi lắp đặt,
+kiểm định định kỳ hoặc bất thường phải kiểm tra các thông số kỹ thuật để kiểm
+tra khả năng làm việc theo trình tự sau:
+
+9.2.1. Kiểm tra điện trở nối đất, điện trở cách điện
+của hệ thống:
+
+- Nối đất với thiết bị;
+
+- Nối đất với vỏ động cơ;
+
+- Nối đất với tủ điện;
+
+- Nối đất với vỏ ống thép bảo vệ dây dẫn điện;
+
+Yêu cầu:
+
+- Điện trở nối đất đo được ≤ 4 Ω (quy định tại Mục
+1.7.52 phần phần I TCVN-18-2006: Quy phạm
+trang bị điện);
+
+- Điện trở cách điện giữa cuộn dây với bệ máy, cuộn
+dây với cuộn dây phải ≥ 5 MΩ với điện áp thử 1500 V trong thời gian thử là 1
+phút (thực hiện theo Mục 2 TCVN 1987:1994:
+Động cơ điện không đồng bộ ba pha rôto ngắn mạch có công suất từ 0,35 Kw đến 90
+Kw).
+
+9.2.2. Kiểm tra nhiệt độ của các cơ cấu:
+
+Sau khi thiết bị tạo NitroGlyxerin chạy không tải
+30 phút, nhiệt độ các cơ cấu phải ≤ 50 °C.
+
+9.2.3. Kiểm tra động cơ điện, cáp điện, hệ thống điện
+(thực hiện theo quy định của nhà chế tạo) yêu cầu:
+
+- Dòng điện của máy khi chạy không tải < 4 A;
+
+- Dòng điện của máy khi chạy có tải < 7 A;
+
+- Động cơ điện phải đạt yêu cầu về phòng nổ theo
+Quy chuẩn quốc gia QCVN 01:2008/BCT: Quy
+chuẩn kỹ thuật quốc gia về an toàn điện.
+
+9.2.4. Kiểm tra thùng áp suất hỗn hợp Axit nitrô
+hóa:
+
+- Thùng áp suất hỗn hợp Axit nitrô hóa được miễn thử
+bền khi kiểm định lần đầu nếu thời gian thử xuất xưởng không quá 24 tháng, được
+bảo quản tốt, khi vận chuyển, lắp đặt không có biểu hiện bị va đập, biến dạng.
+Biên bản kiểm định phải ghi rõ lý do và đính kèm các biên bản nghiệm thử thủy lực
+xuất xưởng của cơ sở chế tạo, biên bản nghiệm thu lắp đặt;
+
+- Khi kiểm tra, phải có biện pháp cách ly để đảm bảo
+các thiết bị bảo vệ tự động, đo lường không bị phá hủy ở áp suất thử. Trong trường
+hợp không đảm bảo được thì phải tháo các thiết bị này ra.
+
+- Thử bền:
+
+Thời hạn thử bền thùng không quá 6 năm một lần,
+trong trường hợp kiểm định bất thường theo Mục 3.12 TCVN 6156:1996 thì phải tiến hành thử bền với
+các yêu cầu như sau:
+
++ Môi chất thử là chất lỏng (nước, dầu tải nhiệt),
+chất khí (khí trơ, không khí). Nhiệt độ môi chất thử dưới 50 °C và không thấp
+hơn nhiệt độ môi trường xung quanh quá 5 °C;
+
++ Áp suất thử, thời gian duy trì áp suất thử được quy
+định trong Bảng 1 và Bảng 2:
+
+Bảng 1
+
+Áp suất, thời gian
+duy trì thử bền sau khi lắp đặt lần đầu
+
+Áp suất thiết kế
+ (bar)
+
+Áp suất thử (bar)
+
+Thời gian duy trì
+ (phút)
+
+p ≤ 5
+
+2p nhưng không nhỏ
+ hơn 2 bar
+
+20
+
+p > 5
+
+1,5p nhưng không
+ nhỏ hơn 10 bar
+
+20
+
+Bảng 2
+
+Áp suất, thời gian
+duy trì thử bền khi kiểm định định kỳ, bất thường
+
+Áp suất làm việc định
+ mức (bar)
+
+Áp suất thử (bar)
+
+Thời gian duy trì
+ (phút)
+
+plv ≤ 5
+
+1,5 plv
+ nhưng không nhỏ hơn 2 bar
+
+05
+
+plv
+ > 5
+
+1,25 plv
+ nhưng không nhỏ hơn plv + 3 bar
+
+05
+
+Ghi chú: plv - Áp suất
+làm việc.
+
++ Trình tự thử bền:
+
+* Nạp môi chất thử: Nạp đầy môi chất thử vào thùng
+áp suất hỗn hợp axits nitro hóa (lưu ý việc xả khí khi thử bằng chất lỏng);
+
+* Tăng áp suất lên đến áp suất thử (lưu ý tăng từ từ
+để tránh hiện tượng dãn nở đột ngột làm hỏng thùng và nghiêm cấm việc gõ búa
+khi ở áp suất thử). Theo dõi, phát hiện các hiện tượng bất thường trong quá
+trình thử;
+
+* Duy trì áp suất thử theo quy định;
+
+* Giảm áp suất từ từ về áp suất làm việc, giữ
+nguyên áp suất này trong suốt quá trình kiểm tra. Sau đó giảm áp suất về 0; khắc
+phục các tồn tại (nếu có) và kiểm tra lại kết quả đã khắc phục được;
+
+* Trường hợp không có điều kiện thử bằng chất lỏng
+do ứng suất trên bệ móng, trên sàn gác hoặc khó xả môi chất lỏng, do có lớp lót
+bên trong ngăn cản việc cho môi chất lỏng vào, cho phép thử bền bằng khí.
+
+Việc thử khí chỉ cho phép khi có kết quả tốt về kiểm
+tra kỹ thuật bên ngoài, bên trong và phải tính toán kiểm tra bền trên cơ sở dữ
+liệu đo đạc trực tiếp trên thùng. Khi thử khí phải áp dụng biện pháp an toàn
+sau:
+
+** Van và áp kế trên đường ống nạp khí phải đưa ra
+xa chỗ đặt thùng hoặc để ngoài nơi đặt thùng;
+
+** Trong thời gian thùng thử khí, người không có
+trách nhiệm phải tránh ra vị trí an toàn.
+
+* Kiểm tra độ kín bằng dung dịch xà phòng hoặc bằng
+các biện pháp khác. Nghiêm cấm gõ búa lên thành thùng trong khi thử bằng áp lực
+khí.
+
+Đánh giá:
+
+Kết quả thử bền thùng áp suất hỗn hợp Axit nitrô
+hóa đạt yêu cầu khi:
+
+- Không có hiện tượng nứt;
+
+- Không có bọt khí, bụi nước, rỉ nước qua các mối
+hàn, mối nối;
+
+- Không có hiện tượng biến dạng;
+
+- Áp suất không giảm khi duy trì ở áp suất thử, nếu
+do xì hở ở các van, mặt bích... mà áp suất thử giảm không quá 5 % áp suất thử
+trong thời gian duy trì thì cũng coi như việc thử bền đạt yêu cầu.
+
+- Thử kín:
+
++ Môi chất thử là khí trơ hoặc không khí;
+
++ Áp suất thử bằng áp suất làm việc định mức;
+
++ Thời gian duy trì áp suất thử kín đảm bảo được sự
+ổn định của áp suất môi chất thử và thời gian kiểm tra nhưng không ít hơn 30
+phút;
+
++ Trình tự thử: Nạp môi chất thử vào hệ thống và
+tăng áp suất đến đến áp suất thử;
+
++ Phát hiện các rò rỉ bằng dung dịch xà phòng hoặc
+bằng các biện pháp khác.
+
+Đánh giá:
+
+Kết quả thử kín thùng áp suất hỗn hợp Axit nitrô
+hóa đạt yêu cầu khi:
+
+- Không có sự rò rỉ khí;
+
+- Độ sụt áp cho phép trong thời gian duy trì áp suất
+thử: ≤ 0,5 % áp suất thử.
+
+9.2.5. Kiểm tra độ kín thân thiết bị (thử kín):
+
+9.2.4.1. Sử dụng môi chất thử là khí trơ hoặc khí
+nén để nạp đến áp suất làm việc cho phép;
+
+9.2.4.2. Phát hiện các rò rỉ; đề xuất các biện pháp
+để cơ sở khắc phục, xử lý và kiểm tra lại (nếu có);
+
+Đánh giá:
+
+Kết quả thử kín thiết bị tạo NitroGlyxerin đạt yêu
+cầu khi không phát hiện rò rỉ khí.
+
+9.3. Kiểm tra vận hành:
+
+9.3.1. Kiểm tra đầy đủ các điều kiện để thiết bị có
+thể vận hành bình thường;
+
+9.3.2. Căn cứ vào quy trình, phối hợp với cơ sở đưa
+thiết bị vào làm việc, xem xét tình trạng làm việc của thiết bị và các phụ kiện
+kèm theo; sự làm việc của các thiết bị đo lường, bảo vệ.
+
+Chú ý:
+
+Van an toàn đã được kẹp chì ở giá trị:
+
++ 1,05p - Khi áp suất làm việc cho phép đến 3 bar;
+
++ 1,15p - Khi áp suất làm việc cho phép trên 3 bar
+đến 60 bar;
+
++ 1,10p - Khi áp suất làm việc cho phép trên 60
+bar.
+
+Đánh giá:
+
+Kết quả kiểm tra vận hành thiết bị tạo
+NitroGlyxerin đạt yêu cầu khi vận hành bình thường đạt các thông số kỹ thuật định
+mức.
+
+10. XỬ LÝ KẾT QUẢ KIỂM ĐỊNH
+
+10.1. Lập biên bản kiểm định với đầy đủ nội dung
+theo mẫu quy định tại Phụ lục II ban hành kèm theo
+quy trình này. Trong biên bản phải ghi đầy đủ, rõ ràng các nội dung và tiêu chuẩn
+áp dụng khi tiến hành kiểm định, kể cả các tiêu chuẩn chủ sở hữu thiết bị yêu cầu
+kiểm định có các chỉ tiêu an toàn cao hơn so với các chỉ tiêu quy định trong
+các TCVN ở Mục 2 Quy trình này (khi thiết bị được chế tạo
+đúng với các tiêu chuẩn, các chỉ tiêu an toàn tương ứng).
+
+10.2. Thông qua biên bản kiểm định:
+
+Thành phần tham gia thông qua biên bản kiểm định bắt
+buộc tối thiểu phải có các thành viên sau:
+
+- Đại diện cơ sở hoặc người được cơ sở ủy quyền;
+
+- Người được cử tham gia và chứng kiến kiểm định;
+
+- Kiểm định viên thực hiện việc kiểm định.
+
+Khi biên bản được thông qua, kiểm định viên, người
+tham gia chứng kiến kiểm định, đại diện cơ sở hoặc người được cơ sở ủy quyền
+cùng ký và đóng dấu vào biên bản. Biên bản kiểm định được lập thành hai (02) bản,
+mỗi bên có trách nhiệm lưu giữ 01 bản.
+
+10.3. Ghi tóm tắt kết quả kiểm định vào lý lịch của
+thiết bị (ghi rõ họ tên kiểm định viên, ngày tháng năm kiểm định, tiêu chuẩn áp
+dụng).
+
+10.4. Dán tem kiểm định: Khi kiểm định thiết bị đạt
+yêu cầu kỹ thuật an toàn, kiểm định viên dán tem kiểm định cho thiết bị (Mẫu
+tem kiểm định theo quy định của Bộ Quốc phòng). Tem kiểm định được dán ở vị trí
+dễ quan sát.
+
+10.5. Cấp giấy Chứng nhận kết quả kiểm định:
+
+10.5.1. Khi thiết bị kiểm định đạt yêu cầu kỹ thuật
+an toàn, đơn vị kiểm định cấp giấy chứng nhận kết quả kiểm định cho thiết bị
+trong thời hạn 05 ngày làm việc kể từ ngày thông qua biên bản kiểm định tại cơ
+sở;
+
+10.5.2. Khi thiết bị kiểm định không đạt yêu cầu kỹ
+thuật an toàn thì chỉ thực hiện theo 10.1 và 10.2; chỉ cấp cho cơ sở biên bản
+kiểm định, trong đó phải ghi rõ lý do thiết bị không đạt yêu cầu kiểm định, kiến
+nghị cơ sở khắc phục và thời hạn thực hiện các kiến nghị đó; đồng thời gửi biên
+bản kiểm định và thông báo về cơ quan quản lý về an toàn lao động của đầu mối
+trực thuộc Bộ Quốc phòng quản lý đơn vị lắp đặt, sử dụng thiết bị.
+
+11. THỜI HẠN KIỂM ĐỊNH
+
+11.1. Thời hạn kiểm định định kỳ các thiết bị tạo
+NitroGlyxerin là 02 năm. Đối với thiết bị tạo NitroGlyxerin đã sử dụng trên 10
+năm, thời hạn kiểm định định kỳ là 01 năm.
+
+11.2. Trường hợp nhà chế tạo hoặc yêu cầu của cơ sở
+về thời hạn kiểm định ngắn hơn thì thực hiện theo đề nghị của nhà chế tạo hoặc
+cơ sở.
+
+11.3. Khi rút ngắn thời hạn kiểm định, kiểm định
+viên phải nêu rõ lý do trong biên bản kiểm định.
+
+11.4. Khi thời hạn kiểm định được quy định trong
+các quy chuẩn kỹ thuật quốc gia thì thực hiện theo quy định của quy chuẩn đó.
+
+1 1.5. Những trường hợp phải kiểm định bất thường,
+thực hiện theo Mục 4.5 Quy trình này.
+
+ 
+
+Phụ lục I
+
+MẪU BẢN GHI CHÉP TẠI HIỆN TRƯỜNG
+
+(Cơ quan quản
+ lý cấp trên)
+
+ (Tên đơn vị KĐ)
+
+ ---------
+
+CỘNG HÒA XÃ HỘI
+ CHỦ NGHĨA VIỆT NAM
+
+ Độc lập - Tự do - Hạnh phúc
+
+ ---------------
+
+ 
+
+…………,ngày......tháng......năm
+ 20...
+
+ 
+
+BẢN GHI CHÉP TẠI
+HIỆN TRƯỜNG
+
+(Ghi đầy đủ thông số kiểm tra, thử nghiệm theo đúng quy trình kiểm định)
+
+I. Thông tin chung
+
+Tên thiết bị: ………………….………………….………………….………………….……………
+
+Tên tổ chức, cá nhân đề nghị:
+………………….………………….………………….…………
+
+Địa chỉ (trụ sở chính của cơ sở):
+………………….………………….………………….………
+
+Địa chỉ (vị trí) lắp đặt:
+………………….………………….………………….……………………
+
+Nội dung buổi làm việc với cơ sở:
+
+- Làm việc với ai: (thông tin)
+………………….………………….………………….……………
+
+- Người chứng kiến:
+………………….………………….………………….……………………
+
+II. Kiểm tra hồ sơ
+
+1. Kiểm định lần đầu
+
+a) Hồ sơ xuất xưởng:
+
+- Lý lịch của thiết bị;
+
+- Bản vẽ cấu tạo của thiết bị;
+
+- Hướng dẫn vận hành, bảo dưỡng;
+
+- Các chứng chỉ kiểm tra chất lượng kim loại chế tạo,
+kim loại hàn, mối hàn.
+
+b) Hồ sơ lắp đặt:
+
+- Thiết kế lắp đặt;
+
+- Biên bản nghiệm thu.
+
+c) Các chứng chỉ kiểm tra về đo lường:
+
+- Phiếu kiểm định áp kế;
+
+- Phiếu kiểm định nhiệt kế;
+
+- Biên bản kiểm tra tiếp địa, chống sét;
+
+- Biên bản kiểm tra thiết bị bảo vệ.
+
+2. Kiểm định định kỳ và bất thường
+
+a) Lý lịch, biên bản kiểm định và phiếu kết quả kiểm
+định lần trước.
+
+b) Nhật ký vận hành.
+
+c) Sổ theo dõi sửa chữa và bảo dưỡng; biên bản
+thanh tra, kiểm tra (nếu có).
+
+d) Hồ sơ về sửa chữa; biên bản kiểm tra về chất lượng
+sửa chữa, thay đổi.
+
+III. Kiểm tra kỹ thuật bên ngoài, bên trong thiết
+bị
+
+1. Kiểm tra bên ngoài
+
+a) Vị trí lắp đặt: (khoảng cách với tường, giữa các
+thiết bị):
+
+b) Ánh sáng vận hành:
+
+c) Thông số kỹ thuật so với lý lịch:
+
+Loại, mã hiệu:
+
+Số chế tạo:
+
+Năm chế tạo:
+
+Nơi chế tạo:
+
+Áp suất thiết kế bộ phận chịu áp lực của thiết bị:
+ bar
+
+Áp suất làm việc bộ phận chịu áp lực của thiết bị:
+ bar 
+
+Dung tích của thiết bị:
+ lít
+
+Môi chất làm việc:
+
+Nhiệt độ làm việc: 
+ °C
+
+Công dụng của thiết bị:
+
+Đăng ký tại cơ quan:
+
+Ngày chuyển hồ sơ đăng ký:
+
+Ngày kiểm định gần nhất :
+ Do
+cơ quan:
+
+d) Tình trạng han gỉ, rạn, nứt, phồng, dộp thành kim
+loại thiết bị:
+
+e) Tình trạng sơn, bảo ôn:
+
+2. Kiểm tra bên trong
+
+a) Thiết bị sử dụng khi kiểm tra:
+
+b) Tình trạng cặn bẩn:
+
+c) Bề mặt kim loại, mối hàn:
+
+- Móp méo:
+
+- Phồng:
+
+- Han gỉ:
+
+- Rạn nứt:
+
+3. Tình trạng của thiết bị kiểm tra, an toàn, dụng
+cụ đo kiểm
+
+- Van an toàn (số lượng, loại, DN, PN, áp suất đặt):
+
+- Áp kế (số lượng, thang đo, đơn vị đo, cấp chính
+xác, số tem, thời hạn hiệu chuẩn):
+
+- Nhiệt kế (số lượng, thang đo, đơn vị đo, cấp
+chính xác, số tem, thời hạn hiệu chuẩn):
+
+- Đo mức (số lượng, loại):
+
+IV. Thử bền, thử kín
+
+1. Môi chất thử:
+
+2. Áp suất thử:
+
+3. Thời gian thử:
+
+4. Áp kế mẫu (thang đo, đơn vị đo, cấp chính xác, số
+tem, thời hạn hiệu chuẩn):
+
+5. Nhiệt kế (thang đo, đơn vị đo, cấp chính xác, số
+tem, thời hạn hiệu chuẩn):
+
+6. Thiết bị cấp môi chất (loại, số hiệu, thông số kỹ
+thuật):
+
+- Kết quả:
+
+a) Tình trạng rò rỉ:
+
+b) Tình trạng biến dạng :
+
+c) Độ tụt áp:
+
+V. Thử vận hành
+
+1. Tình trạng làm việc của thiết bị:
+
+2. Tình trạng làm việc của van an toàn:
+
+3. Tình trạng làm việc của thiết bị đo lường:
+
+4. Tình trạng làm việc của thiết bị phụ trợ:
+
+ 
+
+ 
+
+KIỂM ĐỊNH VIÊN
+
+(Ký, ghi rõ họ và tên)
+
+ 
+
+Phụ lục II
+
+MẪU BIÊN BẢN KIỂM ĐỊNH KỸ THUẬT AN TOÀN
+
+(Cơ quan quản
+ lý cấp trên)
+
+ (Tên đơn vị KĐ)
+
+ ---------
+
+CỘNG HÒA XÃ HỘI
+ CHỦ NGHĨA VIỆT NAM
+
+ Độc lập - Tự do - Hạnh phúc
+
+ ---------------
+
+ 
+
+…………,ngày......tháng......năm
+ 20...
+
+ 
+
+BIÊN BẢN KIỂM ĐỊNH
+KỸ THUẬT AN TOÀN
+
+Thiết bị tạo
+NitroGlyxerin
+
+Số:......................../BBKĐ
+
+Chúng tôi gồm :
+
+1…………………………………………… Số hiệu kiểm định viên:
+……………………………
+
+2…………………………………………… Số hiệu kiểm định viên:
+……………………………
+
+Thuộc: …………………….…………………….…………………….…………………….………
+
+Số đăng ký chứng nhận của đơn vị kiểm định:
+…………………….…………………….……
+
+Đã tiến hành kiểm định:
+…………………….…………………….………………………………
+
+Của (ghi rõ tên cơ sở): …………………….…………………….…………………….…………
+
+Địa chỉ (trụ sở chính của cơ sở):
+…………………….…………………….……………………
+
+Địa chỉ (vị trí) lắp đặt:
+…………………….…………………….…………………….……………
+
+Quy trình kiểm định áp dụng:
+…………………….…………………….…………………………
+
+Chứng kiến kiểm định và thông qua biên bản:
+…………………….……………………………
+
+1…………………….…………………….……………………. Chức
+vụ:.………………………
+
+2…………………….…………………….……………………. Chức
+vụ:.………………………
+
+I. THÔNG SỐ CƠ BẢN
+CỦA THIẾT BỊ
+
+Loại, mã hiệu:
+
+Số chế tạo:
+
+Năm chế tạo:
+
+Nhà chế tạo:
+
+Áp suất thiết kế bộ phận chịu áp lực của thiết bị:
+ bar
+
+Áp suất làm việc bộ phận chịu áp lực của thiết bị:
+ bar
+
+Dung tích thân thiết bị:
+ lít
+
+Môi chất làm việc:
+
+Nhiệt độ làm việc:
+ °C
+
+Công dụng của thiết bị:
+
+Đăng ký tại cơ quan:
+
+Ngày chuyển hồ sơ đăng ký:
+
+Ngày kiểm định gần nhất:
+ Do
+cơ quan:
+
+II. HÌNH THỨC KIỂM
+ĐỊNH
+
+Lần đầu □;
+ Định
+kỳ
+□, 
+Bất thường □
+
+III. NỘI DUNG KIỂM
+ĐỊNH
+
+1. Kiểm tra hồ sơ
+
+- Nhận xét: ……………………………………………………………………………………
+
+- Đánh giá kết quả: Đạt □
+ Không
+đạt □
+
+2. Kiểm tra kỹ thuật bên ngoài, bên trong
+
+Hạng mục kiểm
+ tra
+
+Đạt
+
+Không đạt
+
+Vị trí lắp đặt
+
+ 
+
+ 
+
+Sàn, cầu thang thao tác
+
+ 
+
+ 
+
+Chiếu sáng vận hành
+
+ 
+
+ 
+
+Tiếp địa chống sét, tiếp địa an toàn.
+
+ 
+
+ 
+
+Tình trạng bề mặt kim loại các bộ phận chịu áp lực
+
+ 
+
+ 
+
+Tình trạng mối hàn, các mối nối.
+
+ 
+
+ 
+
+Các van, thiết bị phụ trợ
+
+ 
+
+ 
+
+Van an toàn
+
+ 
+
+ 
+
+Áp kế
+
+ 
+
+ 
+
+Nhiệt kế
+
+ 
+
+ 
+
+Đo mức
+
+ 
+
+ 
+
+Các thiết bị an toàn, đo lường, tự động khác
+
+ 
+
+ 
+
+- Nhận xét: ……………………………………………………………………………………
+
+- Đánh giá kết quả: Đạt □
+ Không
+đạt □
+
+3. Kiểm tra kỹ thuật
+
+TT
+
+Hạng mục
+
+Kết quả
+
+Ghi chú
+
+Đạt
+
+Không đạt
+
+I
+
+Phần lắp đặt và độ chính xác các kích thước
+ hình học
+
+ 
+
+ 
+
+ 
+
+1
+
+Cơ cấu cửa bảo vệ
+
+ 
+
+ 
+
+ 
+
+2
+
+Các cơ cấu chuyển động
+
+ 
+
+ 
+
+ 
+
+3
+
+Dây đai truyền động
+
+ 
+
+ 
+
+ 
+
+II
+
+Kiểm tra các yêu cầu về hệ thống
+
+ 
+
+ 
+
+ 
+
+1
+
+Kiểm tra toàn bộ hệ thống
+
+ 
+
+ 
+
+ 
+
+2
+
+Hệ thống bôi trơn
+
+ 
+
+ 
+
+ 
+
+3
+
+Cách điện giữa các dây pha và dây pha với đất
+
+ 
+
+ 
+
+ 
+
+4
+
+Điện trở nối đất
+
+ 
+
+ 
+
+ 
+
+5
+
+Dòng điện động cơ dẫn động
+
+ 
+
+ 
+
+ 
+
+6
+
+Động cơ dẫn động và hệ thống cáp, dây dẫn điện:
+
+ 
+
+ 
+
+ 
+
+- Nhận xét: ……………………………………………………………………………………
+
+- Đánh giá kết quả: Đạt □
+ Không
+đạt □
+
+4. Thử nghiệm (phần áp lực)
+
+Nội dung thử
+
+Môi chất thử
+
+Áp suất làm việc
+ (bar)
+
+Áp suất thử
+ (bar)
+
+Thời gian thử
+ (phút)
+
+Thử thủy lực
+
+ 
+
+ 
+
+ 
+
+ 
+
+Thử kín
+
+ 
+
+ 
+
+ 
+
+ 
+
+Thử vận hành
+
+ 
+
+ 
+
+ 
+
+ 
+
+Van an toàn kiểm tra được kiểm tra và niêm chì ở áp
+suất:
+
+- Nhận xét: ……………………………………………………………………………………
+
+- Đánh giá kết quả: Đạt □ Không
+đạt □
+
+5. Thử vận hành ở chế độ làm việc định mức: 
+
+- Nhận xét: ……………………………………………………………………………………
+
+- Đánh giá kết quả: Đạt □
+ Không
+đạt □
+
+IV. KẾT LUẬN VÀ
+KIẾN NGHỊ
+
+1. Thiết bị được kiểm định có kết quả: Đạt
+ □
+ Không
+đạt □
+
+2. Đã được dán tem kiểm định số: ………………………….Tại vị
+trí: ………………………
+
+3. Áp suất làm việc bộ phận chịu áp lực của thiết bị:
+ bar
+
+4. Nhiệt độ làm việc: ……………°C
+
+5. Áp suất đặt của van an toàn: ……………….bar
+
+6. Các kiến nghị: …………………………………………………………………………………
+
+Thời gian thực hiện kiến nghị:
+………………………………………………………………….
+
+V. THỜI HẠN KIỂM
+ĐỊNH
+
+Kiểm định định kỳ ngày ……………….tháng………… năm
+…………………………………
+
+Lý do rút ngắn thời hạn:
+…………………………………………………………………………
+
+Biên bản đã được thông qua ngày ………….tháng……… năm
+…………………………….
+
+Tại: …………………………………………………………………………………………………
+
+Biên bản được lập thành …………bản, mỗi bên giữ………… bản.
+
+Chúng tôi, những kiểm định viên thực hiện kiểm định
+hoàn toàn chịu trách nhiệm về tính chính xác các nhận xét và đánh giá kết quả
+kiểm định ghi trong biên bản này./.
+
+ 
+
+CHỦ CƠ SỞ 
+
+Cam kết thực hiện đầy đủ, đúng hạn các kiến nghị 
+
+ (ký tên, đóng dấu)
+
+NGƯỜI CHỨNG KIẾN
+
+(ký, ghi rõ họ, tên)
+
+KIỂM ĐỊNH VIÊN
+
+(ký, ghi rõ họ, tên)--- THÔNG TIN THÊM ---
+Ten: Thông tư 119/2016/TT-BQP quy trình kiểm định kỹ thuật an toàn đối với thiết bị tạo NitroGlyxerin sử dụng trong Bộ Quốc phòng (QTKĐ 03:2016/BQP)
+So hieu: 119/2016/TT-BQP
+Loai van ban: Thông tư
+Linh vuc nganh: Lao động - Tiền lương
+Noi ban hanh: Bộ Quốc phòng
+Nguoi ky: Bế Xuân Trường
+Ngay ban hanh: 30/08/2016
+Ngay hieu luc: 15/10/2016
+Ngay dang: 23/09/2016
+So cong bao: Từ số 975 đến số 976
+Tinh trang: Còn hiệu lực
+
+
+--- MỤC LỤC ---
+- THÔNG TƯ BAN HÀNH QUY TRÌNH KIẾM ĐỊNH KỸ THUẬT AN TOÀN ĐỐI VỚI THIẾT BỊ TẠO NITROGLYXERIN SỬ DỤNG TRONG BỘ QUỐC PHÒNG (QTKĐ 03:2016/BQP)
+  - Điều 1 Ban hành kèm theo Thông tư này quy trình kiểm định kỹ thuật an toàn đối với thiết bị tạo NitroGlyxerin sử dụng trong Bộ Quốc phòng.
+  - Điều 2. Hiệu lực thi hành
+  - Điều 3. Trách nhiệm thi hành
+- QUY TRÌNH KIỂM ĐỊNH QTKĐ 03:2016/BQP THIẾT BỊ TẠO NITROGLYXERIN. QUY TRÌNH KIỂM ĐỊNH KỸ THUẬT AN TOÀN
+- THIẾT BỊ TẠO NITROGLYXERIN. QUY TRÌNH KIỂM ĐỊNH KỸ THUẬT AN TOÀN
+  - 1. PHẠM VI VÀ ĐỐI TƯỢNG ÁP DỤNG
+  - 2. CÁC HÌNH THỨC KIỂM ĐỊNH
+  - 3. TÀI LIỆU VIỆN DẪN
+  - 4. THUẬT NGỮ VÀ ĐỊNH NGHĨA
+  - 5. CÁC BƯỚC KIỂM ĐỊNH
+  - 6. PHƯƠNG TIỆN KIỂM ĐỊNH
+  - 7. ĐIỀU KIỆN KIỂM ĐỊNH
+  - 8. CHUẨN BỊ KIỂM ĐỊNH
+  - 9. TIẾN HÀNH KIỂM ĐỊNH
+  - 10. XỬ LÝ KẾT QUẢ KIỂM ĐỊNH
+  - 11. THỜI HẠN KIỂM ĐỊNH
+  - Phụ lục I MẪU BẢN GHI CHÉP TẠI HIỆN TRƯỜNG
+  - Phụ lục II MẪU BIÊN BẢN KIỂM ĐỊNH KỸ THUẬT AN TOÀN
+
+--- VĂN BẢN LIÊN QUAN ---
+
+Van ban duoc can cu:
+  - Nghị định 44/2016/NĐ-CP hướng dẫn Luật an toàn, vệ sinh lao động về hoạt động kiểm định kỹ thuật an toàn ... (ID: 299837)
+  - Nghị định 34/2016/NĐ-CP quy định chi tiết và biện pháp thi hành Luật ban hành văn bản quy phạm pháp luật (ID: 312070)
+
+Van ban lien quan cung noi dung:
+  - Thông tư 125/2016/TT-BQP quy trình kiểm định kỹ thuật an toàn đối với pa lăng kéo tay sử dụng để nâng, hạ bom, đạn sử dụng trong Bộ Quốc phòng (QTKĐ 09:2016/BQP) (ID: 325373)
+  - Thông tư 128/2016/TT-BQP quy trình kiểm định kỹ thuật an toàn đối với tời điện, tời thủ công nâng thuốc phóng, thuốc nổ sử dụng trong Bộ Quốc phòng (QTKĐ 12:2016/BQP) (ID: 325375)
+  - Thông tư 46/2015/TT-BLĐTBXH về quy trình kiểm định kỹ thuật an toàn đối với xe tời điện chạy trên ray; pa lăng xích kéo tay có tải trọng từ 1.000kg trở lên; trục tải giếng đứng; trục tải giếng nghiêng; sàn biểu diễn di động và nồi gia nhiệt dầu do Bộ trưởng Bộ Lao động - Thương binh và Xã hội ban hành (ID: 297964)
+  - Thông tư 07/2014/TT-BLĐTBXH về 27 quy trình kiểm định kỹ thuật an toàn đối với máy, thiết bị có yêu cầu nghiêm ngặt về an toàn lao động thuộc trách nhiệm quản lý của Bộ Lao động - Thương binh và Xã hội ban hành (ID: 223682)
+  - Quyết định 177/2003/QĐ-BCN đổi tên Trung tâm Kiểm định Kỹ thuật An toàn Công nghiệp khu vực I thành Trung tâm Kiểm định kỹ thuật An toàn Công nghiệp do Bộ trưởng Bộ Công nghiệp ban hành. (ID: 53836)

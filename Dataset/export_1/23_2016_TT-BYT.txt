@@ -1,0 +1,729 @@
+BỘ Y TẾ
+
+ -------
+
+CỘNG HÒA XÃ HỘI
+ CHỦ NGHĨA VIỆT NAM
+
+ Độc lập - Tự do - Hạnh phúc 
+
+ ---------------
+
+Số: 23/2016/TT-BYT
+
+Hà Nội, ngày 30 tháng 06 năm 2016
+
+ 
+
+THÔNG TƯ
+
+QUY
+ĐỊNH QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ BỨC XẠ TỬ NGOẠI - MỨC TIẾP XÚC CHO PHÉP BỨC
+XẠ TỬ NGOẠI TẠI NƠI LÀM VIỆC
+
+Căn cứ Luật an
+toàn, vệ sinh lao động số 84/2015/QH13 ngày 25 tháng 6 năm 2015;
+
+Căn cứ Luật tiêu
+chuẩn và quy chuẩn kỹ thuật số 68/2006/QH13 ngày 29 tháng 6 năm 2006:
+
+Căn cứ Nghị định số 127/2007/NĐ-CP
+ngày 01 tháng 8 năm 2007 của Chính phủ quy định chi Tiết thi hành một số Điều của
+Luật tiêu chuẩn và quy chuẩn kỹ thuật;
+
+Căn cứ Nghị định số 63/2012/NĐ-CP
+ngày 31/8/2012 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu
+tổ chức của Bộ Y tế;
+
+Theo đề nghị của
+Cục trưởng Cục Quản lý môi trường y tế;
+
+Bộ trưởng Bộ Y tế ban hành Thông tư quy định quy
+chuẩn kỹ thuật quốc gia về bức xạ tử ngoại - Mức tiếp xúc cho phép bức xạ tử
+ngoại tại nơi làm việc.
+
+Điều 1. Quy chuẩn kỹ thuật quốc
+gia về bức xạ tử ngoại
+
+Ban hành kèm theo Thông tư này QCVN 23/2016/BYT -
+Quy chuẩn kỹ thuật quốc gia về bức xạ tử ngoại - Mức tiếp xúc cho phép bức xạ tử
+ngoại tại nơi làm việc.
+
+Điều 2. Hiệu lực thi hành
+
+Thông tư này có hiệu lực từ ngày 01 tháng 12 năm
+2016.
+
+Điều 3. Trách nhiệm thi hành
+
+Cục trưởng Cục Quản lý môi trường y tế, Vụ trưởng,
+Cục trưởng, Tổng cục trưởng các Vụ, Cục,
+Tổng cục thuộc Bộ Y tế, Thủ trưởng các cơ quan, đơn vị trực thuộc Bộ, Giám đốc
+Sở Y tế các tỉnh, thành phố trực thuộc trung ương và Thủ trưởng cơ quan y tế
+các Bộ, ngành chịu trách nhiệm thi hành Thông tư này./.
+
+ 
+
+Nơi nhận:
+
+- VPCP (Vụ KGVX, Công báo, Cổng TTĐT
+ CP);
+
+ - Các Bộ, cơ quan ngang Bộ, cơ quan thuộc CP;
+
+ - Bộ Tư pháp (Cục Kiểm tra VBQPPL);
+
+ - Bộ trưởng (để báo cáo);
+
+ - Các đơn vị thuộc Bộ Y tế;
+
+ - UBND các tỉnh, thành phố trực thuộc TW;
+
+ - Sở Y tế các tỉnh, thành phố trực thuộc TW;
+
+ - Trung tâm YTDP các tỉnh, thành phố trực thuộc TW;
+
+ - Trung tâm BVSKLĐ&MT các tỉnh, thành phố trực thuộc TW;
+
+ - Tổng cục Tiêu chuẩn đo lường chất lượng (để đăng bạ);
+
+ - Cổng thông tin điện tử Bộ Y tế;
+
+ - Lưu: VT, K2ĐT, PC, MT.
+
+KT. BỘ TRƯỞNG
+
+ THỨ TRƯỞNG
+
+ Nguyễn Thanh Long
+
+ 
+
+QCVN 23:2016/BYT
+
+QUY
+CHUẨN KỸ THUẬT QUỐC GIA VỀ BỨC XẠ TỬ NGOẠI - MỨC TIẾP XÚC CHO PHÉP BỨC XẠ TỬ
+NGOẠI TẠI NƠI LÀM VIỆC
+
+National
+Technical Regulation on Ultraviolet Radiation - Permissible Exposure Levels of
+Ultraviolet Radiation in the Workplace
+
+Lời nói đầu
+
+QCVN 23:2016/BYT do Ban soạn thảo Quy chuẩn kỹ thuật
+quốc gia về vệ sinh lao động biên soạn, Cục Quản lý môi trường y tế trình duyệt
+và được ban hành theo Thông tư số 23/2016/TT-BYT ngày 30 tháng 6 năm 2016 của Bộ
+trưởng Bộ Y tế.
+
+ 
+
+QUY CHUẨN KỸ THUẬT
+QUỐC GIA VỀ BỨC XẠ TỬ NGOẠI - MỨC TIẾP XÚC CHO PHÉP BỨC XẠ TỬ NGOẠI TẠI NƠI LÀM
+VIỆC
+
+National
+Technical Regulation on Ultraviolet Radiation - Permissible Exposure Levels of
+Ultraviolet Radiation in the Workplace
+
+I. QUY ĐỊNH CHUNG
+
+1. Phạm vi Điều chỉnh
+
+Quy chuẩn này quy định mức tiếp xúc cho phép bức xạ
+tử ngoại trong vùng phổ có bước sóng từ 180nm đến 400nm tại nơi làm việc.
+
+2. Đối tượng áp dụng
+
+Quy chuẩn này áp dụng cho các cơ quan quản lý nhà
+nước về môi trường; các cá nhân, tổ chức thực hiện quan trắc môi trường lao động;
+các cá nhân, tổ chức có các hoạt động phát sinh bức xạ tử ngoại nơi làm việc.
+
+3. Giải thích từ ngữ
+
+Trong quy chuẩn này, các từ ngữ dưới đây được hiểu
+như sau:
+
+3.1. Phổ tử ngoại vùng A (vùng gần - sóng dài), là
+các sóng ánh sáng có bước sóng trong Khoảng từ 315nm - 400nm.
+
+3.2. Phổ tử ngoại vùng B - sóng trung: là các sóng
+ánh sáng có bước sóng trong Khoảng từ 280nm - 315nm.
+
+3.3. Phổ tử ngoại vùng C - sóng ngắn: là các sóng
+ánh sáng có bước sóng trong Khoảng từ 100nm - 280nm.
+
+3.4. Bức xạ hiệu dụng (effective irradiance - Eeff):
+được xác định bởi phương trình sau :
+
+Eeff = ΣEλ.
+Sλ. ∆λ
+
+Trong đó:
+
+Eλ = Phổ bức xạ tính bằng W/(cm2.nm)
+
+Sλ = Hệ số hiệu lực phổ.
+
+∆λ = Độ rộng bước sóng tính bằng nm
+
+3.5. Hệ số hiệu lực phổ (Relative spectral
+effectiveness - Sl) là yếu tố cho phép sự nhạy cảm sinh học khác
+nhau của da và mắt chống lại λ. Sλ được dựa trên dữ liệu xác định
+các loài linh trưởng, thỏ và sự tiếp xúc của con người với ngưỡng gần mắt.
+
+II. QUY ĐỊNH KỸ THUẬT
+
+1. Mức tiếp xúc cho phép với bức xạ tử ngoại tới phần
+da hay mắt không được bảo vệ không vượt quá các giá trị giới hạn tiếp xúc trong
+suốt thời gian 8 giờ, được quy định tại bảng 1:
+
+Bảng 1. Mức tiếp xúc
+cho phép với bức xạ tử ngoại trong Khoảng thời gian 8 giờ làm việc và Hệ số hiệu
+lực phổ
+
+Bước sóng (nm)
+
+Mức tiếp xúc
+ cho phép
+
+ (mJ/cm2)
+
+Hệ số hiệu lực
+ phổ (Sλ)
+
+180
+
+250
+
+0,012
+
+190
+
+160
+
+0,019
+
+200
+
+100
+
+0,030
+
+205
+
+59
+
+0,051
+
+210
+
+40
+
+0,075
+
+215
+
+32
+
+0,095
+
+220
+
+25
+
+0,120
+
+225
+
+20
+
+0,150
+
+230
+
+16
+
+0,190
+
+235
+
+13
+
+0,240
+
+240
+
+10
+
+0,300
+
+245
+
+8,3
+
+0,360
+
+250
+
+7
+
+0,430
+
+254
+
+6
+
+0,500
+
+255
+
+5,8
+
+0,520
+
+260
+
+4,6
+
+0,650
+
+265
+
+3,7
+
+0,810
+
+270
+
+3,0
+
+1,000
+
+275
+
+3,1
+
+0,960
+
+280
+
+3,4
+
+0,880
+
+285
+
+3,9
+
+0,770
+
+290
+
+4,7
+
+0,640
+
+295
+
+5,6
+
+0,540
+
+297
+
+6,5
+
+0,460
+
+300
+
+10
+
+0,300
+
+303
+
+25
+
+0,120
+
+305
+
+50
+
+0,060
+
+308
+
+120
+
+0,026
+
+310
+
+200
+
+0,015
+
+313
+
+500
+
+0,006
+
+315
+
+1,0 x 103
+
+0,003
+
+316
+
+1,3 x 103
+
+0,0024
+
+317
+
+1,5 x 103
+
+0,0020
+
+318
+
+1,9 x 103
+
+0,0016
+
+319
+
+2,5 x 103
+
+0,0012
+
+320
+
+2,9 x 103
+
+0,0010
+
+322
+
+4,5 x 103
+
+0,00067
+
+323
+
+5,6 x 103
+
+0,00054
+
+325
+
+6,0 x 103
+
+0,00050
+
+328
+
+6,8 x 103
+
+0,00044
+
+330
+
+7,3 x 103
+
+0,00041
+
+333
+
+8,1 x 103
+
+0,00037
+
+335
+
+8,8 x 103
+
+0,00034
+
+340
+
+1,1 x 104
+
+0,00028
+
+345
+
+1,3 x 104
+
+0,00024
+
+350
+
+1,5 x 104
+
+0,00020
+
+355
+
+1,9 x 104
+
+0,00016
+
+360
+
+2,3 x 104
+
+0,00013
+
+365
+
+2,7 x 104
+
+0,00011
+
+370
+
+3,2 x 104
+
+0,000093
+
+375
+
+3,9 x 104
+
+0,000077
+
+380
+
+4,7 x 104
+
+0,000064
+
+385
+
+5,7 x 104
+
+0,000053
+
+390
+
+6,8 x 104
+
+0,000044
+
+395
+
+8,3 x 104
+
+0,000036
+
+400
+
+1,0 x 105
+
+0,000030
+
+2. Mức tiếp xúc cho phép với bức xạ tử ngoại vùng A
+(315nm - 400nm) của mắt không được bảo vệ, quy định trong bảng 2:
+
+Bảng 2. Mức tiếp xúc
+cho phép của mắt với bức xạ tử ngoại vùng A - vùng gần.
+
+Mức tiếp xúc
+ cho phép
+
+Thời gian tiếp
+ xúc
+
+≤ 1,0 J/cm2
+
+< 103
+ giây (~ 16,7 phút)
+
+≤1,0 mW/cm2
+
+≥ 103 giây
+ (~ 16,7 phút)
+
+Ghi chú: Có 02 cách đánh giá là thông qua Năng lượng
+bức xạ (đơn vị đo là J) và Công suất bức xạ (đơn vị đo là W). 1 mW = 1 mJ/giây
+
+3. Thời gian tiếp xúc cho phép với tia tử ngoại của
+da và mắt không được bảo vệ không vượt quá các giá trị quy định trong bảng 3.
+
+Bảng 3. Thời gian tiếp
+xúc cho phép với tia tử ngoại
+
+Thời gian tiếp
+ xúc/ngày
+
+Bức xạ hiệu dụng
+ Eeff (µW/cm2)
+
+8 giờ
+
+0,1
+
+4 giờ
+
+0,2
+
+2 giờ
+
+0,4
+
+1 giờ
+
+0,8
+
+30 phút
+
+1,7
+
+15 phút
+
+3,3
+
+10 phút
+
+5
+
+5 phút
+
+10
+
+1 phút
+
+50
+
+30 giây
+
+100
+
+10 giây
+
+300
+
+1 giây
+
+3000
+
+0,5 giây
+
+6000
+
+0,1 giây
+
+30000
+
+III. PHƯƠNG PHÁP XÁC ĐỊNH
+
+Phương pháp đo bức xạ tử ngoại nơi làm việc thực hiện
+như sau:
+
+1. Nguyên tắc chung
+
+Đo, đánh giá tất cả các vị trí lao động trong đó
+người lao động có tiếp xúc với bức xạ tử ngoại.
+
+2. Yêu cầu thiết bị
+
+Thiết bị đo phải đáp ứng các quy định của pháp luật
+về đo lường; máy đo gồm 3 bộ phận: bộ phận ghi nhận, bộ phận dẫn truyền và máy
+đo. Bộ phận ghi nhận là một ăngten nối với máy phát điện, phát tín hiệu theo bộ
+phận dẫn truyền vào máy đo. Hệ thống này giảm tới mức tối thiểu hiện tượng nhiễu
+của môi trường ở ngay xung quanh bộ phận ghi nhận.
+
+Yêu cầu thông số kỹ thuật: Khoảng đo bước sóng tối
+thiểu từ 180nm - 400nm, độ phân giải: 0,001 mW/cm2.
+
+3. Kỹ thuật đo
+
+Đặt máy đo cách người lao động 10 - 20cm, nhấn nút,
+chờ 5 phút và đọc kết quả hiển thị trên màn hình.
+
+IV. QUY ĐỊNH QUẢN LÝ
+
+1. Các đơn vị có người lao động tiếp xúc với bức xạ
+tử ngoại phải định kỳ đo đánh giá mức tiếp xúc với bức xạ tử ngoại tối thiểu 1
+lần/năm và theo các quy định Bộ luật lao động,
+Luật an toàn, vệ sinh lao động.
+
+2. Người sử dụng lao động phải cung cấp đầy đủ
+phương tiện bảo hộ lao động cho người lao động phù hợp với môi trường làm việc
+theo quy định của pháp luật An toàn, vệ sinh lao động.
+
+3. Nếu mức tiếp xúc bức xạ tử ngoại tại nơi làm việc
+vượt mức cho phép, đơn vị sử dụng lao động phải thực hiện ngay các giải pháp cải
+thiện Điều kiện lao động và bảo vệ sức khỏe người lao động
+
+V. TỔ CHỨC THỰC HIỆN
+
+1. Quy chuẩn này áp dụng thay thế cho tiêu chuẩn: Bức
+xạ tử ngoại - Giới hạn cho phép trong Tiêu chuẩn Vệ sinh lao động ban hành theo
+Quyết định số 3733/2002/QĐ-BYT ngày
+10/10/2002 của Bộ trưởng Bộ Y tế.
+
+2. Cục Quản lý môi trường y tế - Bộ Y tế chủ trì,
+phối hợp với các cơ quan chức năng có liên quan hướng dẫn, triển khai và tổ chức
+việc thực hiện quy chuẩn này.
+
+3. Căn cứ thực tiễn yêu cầu quản lý, Cục Quản lý
+môi trường y tế có trách nhiệm kiến nghị Bộ Y tế sửa đổi, bổ sung cho phù hợp.
+
+4. Trong trường hợp các tiêu chuẩn quốc gia, tiêu
+chuẩn quốc tế về bức xạ tử ngoại được viện dẫn trong Quy chuẩn này sửa đổi, bổ
+sung hoặc thay thế thì áp dụng theo quy định tại văn bản mới.--- THÔNG TIN THÊM ---
+Ten: Thông tư 23/2016/TT-BYT Quy định Quy chuẩn kỹ thuật quốc gia về bức xạ tử ngoại - Mức tiếp xúc cho phép bức xạ tử ngoại tại nơi làm việc do Bộ trưởng Bộ Y tế ban hành
+So hieu: 23/2016/TT-BYT
+Loai van ban: Thông tư
+Linh vuc nganh: Lao động - Tiền lương, Thể thao - Y tế
+Noi ban hanh: Bộ Y tế
+Nguoi ky: Nguyễn Thanh Long
+Ngay ban hanh: 30/06/2016
+Ngay hieu luc: 01/12/2016
+Ngay dang: 02/09/2016
+So cong bao: Từ số 901 đến số 902
+Tinh trang: Còn hiệu lực
+
+
+--- MỤC LỤC ---
+- THÔNG TƯ QUY ĐỊNH QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ BỨC XẠ TỬ NGOẠI - MỨC TIẾP XÚC CHO PHÉP BỨC XẠ TỬ NGOẠI TẠI NƠI LÀM VIỆC
+  - Điều 1. Quy chuẩn kỹ thuật quốc gia về bức xạ tử ngoại
+  - Điều 2. Hiệu lực thi hành
+  - Điều 3. Trách nhiệm thi hành
+- QCVN 23:2016/BYT QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ BỨC XẠ TỬ NGOẠI - MỨC TIẾP XÚC CHO PHÉP BỨC XẠ TỬ NGOẠI TẠI NƠI LÀM VIỆC
+  - I. QUY ĐỊNH CHUNG
+    - 1. Phạm vi điều chỉnh
+    - 2. Đối tượng áp dụng
+    - 3. Giải thích từ ngữ
+  - II. QUY ĐỊNH KỸ THUẬT
+  - III. PHƯƠNG PHÁP XÁC ĐỊNH
+  - IV. QUY ĐỊNH QUẢN LÝ
+  - V. TỔ CHỨC THỰC HIỆN
+
+--- VĂN BẢN LIÊN QUAN ---
+
+Van ban bi sua doi bo sung:
+  - Quyết định 3733/2002/QĐ-BYT về 21 tiêu chuẩn vệ sinh lao động, 05 nguyên tắc và 07 thông số vệ sinh lao ... (ID: 70480)
+
+Van ban duoc dan chieu:
+  - Bộ Luật lao động 2012 (ID: 142187)
+
+Van ban duoc can cu:
+  - Luật an toàn, vệ sinh lao động 2015 (ID: 281961)
+  - Nghị định 63/2012/NĐ-CP quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Y tế (ID: 146851)
+  - Nghị định 127/2007/NĐ-CP Hướng dẫn Luật Tiêu chuẩn và Quy chuẩn kỹ thuật (ID: 54148)
+  - Luật Tiêu chuẩn và quy chuẩn kỹ thuật 2006 (ID: 12979)
+
+Van ban lien quan cung noi dung:
+  - Thông tư 21/2016/TT-BYT Quy định Quy chuẩn kỹ thuật quốc gia về điện từ trường tần số cao - Mức tiếp xúc cho phép điện từ trường tần số cao tại nơi làm việc do Bộ trưởng Bộ Y tế ban hành (ID: 318341)
+  - Thông tư 22/2016/TT-BYT Quy định Quy chuẩn kỹ thuật quốc gia về chiếu sáng - Mức cho phép chiếu sáng nơi làm việc do Bộ trưởng Bộ Y tế ban hành (ID: 318342)
+  - Thông tư 24/2016/TT-BYT Quy định Quy chuẩn kỹ thuật quốc gia về tiếng ồn - Mức tiếp xúc cho phép tiếng ồn tại nơi làm việc do Bộ trưởng Bộ Y tế ban hành (ID: 318344)
+  - Thông tư 27/2016/TT-BYT Quy định Quy chuẩn kỹ thuật quốc gia về rung - Giá trị cho phép tại nơi làm việc do Bộ trưởng Bộ Y tế ban hành (ID: 318347)
+  - Thông tư 30/2016/TT-BYT Quy định Quy chuẩn kỹ thuật quốc gia về bức xạ tia X - Giới hạn liều tiếp xúc bức xạ tia X tại nơi làm việc do Bộ trưởng Bộ Y tế ban hành (ID: 318349)

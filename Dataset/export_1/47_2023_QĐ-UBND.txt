@@ -1,0 +1,781 @@
+ỦY BAN NHÂN DÂN
+
+ TỈNH NAM ĐỊNH
+
+ -------
+
+CỘNG HÒA XÃ HỘI
+ CHỦ NGHĨA VIỆT NAM
+
+ Độc lập - Tự do - Hạnh phúc 
+
+ ---------------
+
+Số: 47
+ /2023/QĐ-UBND
+
+Nam Định, ngày 01
+ tháng 12 năm 2023
+
+ 
+
+QUYẾT ĐỊNH
+
+V/V BAN HÀNH QUY CHẾ QUẢN LÝ, SỬ DỤNG, KHAI THÁC CƠ SỞ DỮ LIỆU
+VỀ CÁN BỘ, CÔNG CHỨC, VIÊN CHỨC, NGƯỜI LAO ĐỘNG DO CÁC CƠ QUAN NHÀ NƯỚC TỈNH
+NAM ĐỊNH QUẢN LÝ
+
+ỦY BAN NHÂN DÂN TỈNH NAM ĐỊNH
+
+Căn cứ Luật Tổ chức chính
+quyền địa phương ngày 16 tháng 9 năm 2015; Luật sửa đổi, bổ sung một số điều của
+Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương ngày 22 tháng 11
+năm 2019;
+
+Căn cứ Luật Công nghệ thông
+tin ngày 29 tháng 6 năm 2006;
+
+Căn cứ Luật Tiếp cận thông
+tin ngày 06 tháng 4 năm 2016;
+
+Căn cứ Nghị định số
+47/2020/NĐ-CP ngày 09 tháng 4 năm 2020 của Chính phủ về quản lý, kết nối và
+chia sẻ dữ liệu số của cơ quan nhà nước;
+
+Căn cứ Thông tư số
+06/2023/TT-BNV ngày 04 tháng 5 năm 2023 của Bộ trưởng Bộ Nội vụ ban hành Quy chế
+cập nhật, sử dụng, khai thác dữ liệu, thông tin của Cơ sở dữ liệu quốc gia về
+cán bộ, công chức, viên chức trong các cơ quan nhà nước;
+
+Theo đề nghị của Sở Nội vụ tại
+Tờ trình số 2872/TTr-SNV ngày 13 tháng 11 năm 2023 về việc ban hành Quy chế quản
+lý, sử dụng, khai thác Cơ sở dữ liệu về cán bộ, công chức, viên chức, người lao
+động do các cơ quan nhà nước tỉnh Nam Định quản lý và ý kiến thẩm định của Sở
+Tư pháp tại Báo cáo số 1560/BC-STP ngày 10/11/2023.
+
+QUYẾT ĐỊNH:
+
+Điều 1. Ban
+hành kèm theo Quyết định này Quy chế quản lý, sử dụng, khai thác Cơ sở dữ liệu
+về cán bộ, công chức, viên chức, người lao động do các cơ quan nhà nước tỉnh
+Nam Định quản lý.
+
+Điều 2. Quyết
+định này có hiệu lực thi hành kể từ ngày 15 tháng 12 năm 2023.
+
+Điều 3. Chánh
+Văn phòng Ủy ban nhân dân tỉnh; Thủ trưởng các sở, ban, ngành; các đơn vị sự
+nghiệp công lập trực thuộc Ủy ban nhân dân tỉnh; Chủ tịch Ủy ban nhân dân các
+huyện, thành phố và các cơ quan, tổ chức, cá nhân có liên quan chịu trách nhiệm
+thi hành quyết định này./.
+
+ 
+
+ Nơi nhận:
+
+- Văn phòng Chính phủ;
+
+ - Bộ Nội vụ (Vụ Pháp chế);
+
+ - Bộ Tư pháp (Cục Kiểm tra VBQPPL);
+
+ - TT.Tỉnh uỷ, TT. HĐND tỉnh;
+
+ - Chủ tịch, các Phó Chủ tịch UBND tỉnh;
+
+ - Đoàn đại biểu Quốc hội tỉnh;
+
+ - UBMTTQ Việt Nam tỉnh;
+
+- Như Điều 3;
+
+ - Công báo tỉnh, Cổng TTĐT tỉnh;
+
+ - Lưu: VP1, VP8.
+
+TM. ỦY BAN NHÂN
+ DÂN
+
+ CHỦ TỊCH
+
+ Phạm Đình Nghị
+
+ 
+
+QUY CHẾ
+
+QUẢN LÝ, SỬ DỤNG, KHAI THÁC CƠ SỞ DỮ LIỆU VỀ CÁN BỘ, CÔNG CHỨC,
+VIÊN CHỨC, NGƯỜI LAO ĐỘNG DO CÁC CƠ QUAN NHÀ NƯỚC TỈNH NAM ĐỊNH QUẢN LÝ
+
+(Kèm theo Quyết định số: 47/2023/QĐ-UBND ngày 01 tháng 12 năm 2023 của UBND
+tỉnh Nam Định)
+
+Chương I
+
+QUY ĐỊNH CHUNG
+
+Điều 1.
+Phạm vi điều chỉnh
+
+Quy chế này quy định về nguyên
+tắc, cách thức quản lý, sử dụng, khai thác Cơ sở dữ liệu cán bộ, công chức,
+viên chức, người lao động do các cơ quan nhà nước tỉnh Nam Định quản lý.
+
+Điều 2. Đối
+tượng áp dụng
+
+1. Cơ quan, tổ chức gồm:
+
+a) Văn phòng Đoàn đại biểu Quốc
+hội và Hội đồng nhân dân tỉnh; các sở và tương đương, đơn vị sự nghiệp công lập
+thuộc Ủy ban nhân dân tỉnh; tổ chức hội cấp tỉnh được giao biên chế; Ủy ban
+nhân dân các huyện, thành phố (sau đây gọi là cơ quan, tổ chức cấp sở, cấp huyện);
+
+b) Chi cục và đơn vị sự nghiệp
+công lập thuộc sở và tương đương; cơ quan chuyên môn, đơn vị sự nghiệp công lập
+thuộc Ủy ban nhân dân các huyện, thành phố; tổ chức hội cấp huyện được giao
+biên chế; Ủy ban nhân dân các xã, phường, thị trấn (sau đây gọi là Cơ quan, tổ
+chức cấp cơ sở).
+
+2. Tổ chức, đơn vị có liên quan
+gồm: Đơn vị cung cấp phần mềm Cơ sở dữ liệu và tổ chức, đơn vị được khai thác,
+chia sẻ theo quy định của pháp luật.
+
+3. Cá nhân gồm: Cán bộ, công chức,
+viên chức, người lao động và cán bộ, công chức cấp xã làm việc trong các cơ
+quan, tổ chức nêu tại khoản 1 Điều này.
+
+Điều 3.
+Nguyên tắc thực hiện
+
+1. Cơ sở dữ liệu của tỉnh được quản
+lý chặt chẽ, bảo mật, bảo đảm an ninh, an toàn thông tin theo quy định của pháp
+luật và lưu trữ lâu dài; đồng thời đảm bảo phù hợp quy định về quản lý hồ sơ
+cán bộ, công chức, viên chức, người lao động; quy định về phân cấp quản lý cán
+bộ của cấp có thẩm quyền.
+
+2. Dữ liệu của cán bộ, công chức,
+viên chức, người lao động phải được cập nhật kịp thời; khi được phê duyệt, đồng
+bộ phải đảm bảo nguyên tắc “Đúng, Đủ, Sạch, Sống”. Dữ liệu của cán bộ, công chức,
+viên chức, người lao động được quản lý theo độ hạn chế tiếp cận, mã hóa một số
+trường thông tin để bảo đảm bảo mật, an toàn thông tin trong công tác cán bộ.
+Việc xác định độ hạn chế tiếp cận của dữ liệu thực hiện theo quy định của Đảng,
+pháp luật về cán bộ, công chức, viên chức.
+
+3. Việc chia sẻ dữ liệu giữa
+các cơ quan nhà nước và tổ chức, đơn vị có liên quan không làm ảnh hưởng tới
+quyền lợi và trách nhiệm của cơ quan, tổ chức, đơn vị và cá nhân có liên quan;
+không được xâm phạm quyền về đời sống riêng tư, bí mật cá nhân, bí mật gia
+đình, trừ trường hợp pháp luật có quy định khác.
+
+4. Không cung cấp thông tin qua
+hình thức văn bản đối với thông tin đã được khai thác qua hình thức kết nối,
+chia sẻ dữ liệu giữa các hệ thống thông tin. Không yêu cầu khai báo lại các
+thông tin, dữ liệu đã có trong Cơ sở dữ liệu quốc gia hoặc trong Cơ sở dữ liệu
+của tỉnh, trừ trường hợp phục vụ cập nhật hoặc sử dụng cho mục đích xác minh,
+thẩm tra dữ liệu.
+
+Điều 4. Các
+hành vi không được làm
+
+Theo quy định tại Điều 8 Nghị định
+số 47/2020/NĐ-CP ngày 09 tháng 4 năm 2020 của Chính phủ về quản lý, kết nối và
+chia sẻ dữ liệu số của cơ quan nhà nước, các hành vi khác theo quy định của
+pháp luật có liên quan.
+
+Chương II
+
+QUẢN LÝ, SỬ DỤNG, KHAI
+THÁC CƠ SỞ DỮ LIỆU VỀ CÁN BỘ,CÔNG CHỨC, VIÊN CHỨC, NGƯỜI LAO ĐỘNG
+
+Điều 5. Tạo
+lập và quản lý tài khoản
+
+1. Cơ quan quản lý Cơ sở dữ liệu
+của tỉnh có quyền:
+
+a) Tạo lập tài khoản quản lý Cơ
+sở dữ liệu của tỉnh; cấp, hạn chế, mở rộng, hủy quyền truy cập của tài khoản
+vào Cơ sở dữ liệu của tỉnh;
+
+b) Tạo lập tài khoản quản trị của
+cơ quan, tổ chức cấp sở, cấp huyện; cấp, hạn chế, mở rộng, hủy quyền truy cập của
+tài khoản vào Cơ sở dữ liệu của tỉnh.
+
+2. Cơ quan, tổ chức cấp sở, cấp
+huyện có quyền:
+
+a) Quản lý tài khoản quản trị
+do cơ quan quản lý Cơ sở dữ liệu của tỉnh cấp;
+
+b) Tạo lập tài khoản quản lý Cơ
+sở dữ liệu của cơ quan, tổ chức cấp sở, cấp huyện; cấp, hạn chế, mở rộng, hủy
+quyền truy cập của tài khoản vào Cơ sở dữ liệu của tỉnh;
+
+c) Tạo lập tài khoản quản trị của
+cơ quan, tổ chức cấp cơ sở trực thuộc; cấp, hạn chế, mở rộng, hủy quyền truy cập
+của tài khoản vào Cơ sở dữ liệu của tỉnh;
+
+d) Tạo lập tài khoản cá nhân
+cán bộ, công chức, viên chức, người lao động của cơ quan, tổ chức cấp sở, cấp
+huyện (trừ tài khoản cá nhân cán bộ, công chức, viên chức, người lao động của
+cơ quan, tổ chức cấp cơ sở trực thuộc được tạo lập theo quy định tại điểm c,
+khoản 3 điều này); cấp, hạn chế, mở rộng, hủy quyền truy cập của tài khoản vào
+Cơ sở dữ liệu của tỉnh.
+
+3. Cơ quan, tổ chức cấp cơ sở
+có quyền:
+
+a) Quản lý tài khoản quản trị
+do cơ quan, tổ chức cấp sở, cấp huyện cấp;
+
+b) Tạo lập tài khoản quản lý Cơ
+sở dữ liệu của cơ quan, tổ chức cấp cơ sở; cấp, hạn chế, mở rộng, hủy quyền
+truy cập của tài khoản vào Cơ sở dữ liệu của tỉnh;
+
+c) Tạo lập tài khoản cá nhân
+cán bộ, công chức, viên chức, người lao động của cơ quan, tổ chức cấp cơ sở; cấp,
+hạn chế, mở rộng, hủy quyền truy cập của tài khoản vào Cơ sở dữ liệu của tỉnh.
+
+Điều 6. Cập
+nhật dữ liệu
+
+1. Chuẩn hóa thông tin đầu vào,
+quản lý thông tin, dữ liệu của Cơ sở dữ liệu của tỉnh.
+
+a) Đối với cán bộ, công chức,
+viên chức: Thống nhất sử dụng mẫu sơ yếu lý lịch tại Phụ lục kèm theo Thông tư
+số 06/2023/TT-BNV ngày 04 tháng 5 năm 2023 của Bộ trưởng Bộ Nội vụ để chuẩn hóa
+thông tin đầu vào, quản lý thông tin, dữ liệu trong Cơ sở dữ liệu của tỉnh;
+
+b) Đối với người lao động: Thống
+nhất sử dụng mẫu hợp đồng lao động (Phụ lục II) ban hành kèm theo Thông tư số
+05/2023/TT-BNV ngày 03 tháng 5 năm 2023 của Bộ trưởng Bộ Nội vụ hướng dẫn mẫu hợp
+đồng dịch vụ và mẫu hợp đồng lao động đối với một số loại công việc trong cơ
+quan hành chính và đơn vị sự nghiệp công lập để chuẩn hóa thông tin đầu vào, quản
+lý thông tin, dữ liệu trong Cơ sở dữ liệu của tỉnh. Việc cập nhật dữ liệu đối với
+người lao động được thực hiện bắt đầu từ ngày 01 tháng 01 năm 2024.
+
+2. Trách nhiệm của cá nhân cán
+bộ, công chức, viên chức, người lao động
+
+a) Cán bộ, công chức viên chức,
+người lao động có trách nhiệm truy cập vào tài khoản cá nhân đã được cấp để cập
+nhật thông tin, dữ liệu của mình vào Cơ sở dữ liệu của tỉnh; thông tin phải đầy
+đủ, thống nhất định dạng kỹ thuật, phản ánh đầy đủ, chính xác theo sơ yếu lý lịch/mẫu
+hợp đồng lao động đã được cấp có thẩm quyền quản lý xác nhận;
+
+b) Đối với việc cập nhật thông
+tin, dữ liệu của cán bộ, công chức, viên chức, người lao động do có thay đổi, hiệu
+chỉnh thì cá nhân có trách nhiệm cập nhật thông tin, dữ liệu vào Cơ sở dữ liệu
+của tỉnh kèm theo bản số hóa của tài liệu đã được cấp có thẩm quyền xác nhận.
+
+Điều 7. Phê
+duyệt dữ liệu
+
+1. Trách nhiệm của cơ quan, tổ
+chức cấp cơ sở
+
+a) Kiểm tra thông tin cán bộ,
+công chức, viên chức, người lao động của cơ quan, tổ chức cấp cơ sở đã nhập vào
+Cơ sở dữ liệu của tỉnh. Trường hợp nhập đúng và đủ thông tin trong hồ sơ được
+quản lý tại cơ quan, tổ chức thì thực hiện xác nhận trên Cơ sở dữ liệu của tỉnh.
+Trường hợp thông tin chưa đủ hoặc không đúng với thông tin trong hồ sơ được quản
+lý tại cơ quan, tổ chức thì không thực hiện xác nhận, đồng thời yêu cầu cán bộ,
+công chức, viên chức, người lao động bổ sung thông tin, điều chỉnh thông tin
+theo quy định;
+
+b) Người đứng đầu cơ quan, tổ
+chức cấp cơ sở phê duyệt bằng chứng thư số chuyên dùng Chính phủ thông tin, dữ
+liệu của cán bộ, công chức, viên chức, người lao động của cơ quan, tổ chức; cấp
+phó của người đứng đầu cơ quan, tổ chức cấp cơ sở phê duyệt bằng chứng thư số chuyên
+dùng Chính phủ thông tin, dữ liệu của người đứng đầu.
+
+Thời hạn phê duyệt: Từ ngày 23
+đến ngày 25 hàng tháng.
+
+2. Trách nhiệm của cơ quan, tổ
+chức cấp sở, cấp huyện
+
+a) Kiểm tra thông tin cán bộ,
+công chức, viên chức, người lao động của cơ quan, tổ chức cấp sở, cấp huyện đã
+nhập vào Cơ sở dữ liệu của tỉnh (trừ cán bộ, công chức, viên chức, người lao động
+của cơ quan, tổ chức cấp cơ sở trực thuộc đã được kiểm tra, phê duyệt tại khoản
+1 Điều này); thực hiện việc xác nhận hoặc không xác nhận như quy định tại điểm
+a khoản 1 Điều này;
+
+b) Người đứng đầu cơ quan, tổ
+chức cấp sở, cấp huyện phê duyệt bằng chứng thư số chuyên dùng Chính phủ thông
+tin, dữ liệu của cán bộ, công chức, viên chức, người lao động của cơ quan, tổ
+chức; cấp phó của người đứng đầu cơ quan, tổ chức cấp sở, cấp huyện phê duyệt bằng
+chứng thư số chuyên dùng Chính phủ thông tin, dữ liệu của người đứng đầu.
+
+Thời hạn phê duyệt: Từ ngày 23
+đến ngày 26 hàng tháng.
+
+Điều 8. Đồng
+bộ dữ liệu
+
+1. Trách nhiệm của cơ quan, tổ
+chức cấp cơ sở: Thực hiện đồng bộ thông tin, dữ liệu cán bộ, công chức, viên chức,
+người lao động của cơ quan, tổ chức cấp cơ sở lên Cơ sở dữ liệu do cơ quan cấp
+sở, cấp huyện quản lý trong ngày 26 hàng tháng.
+
+2. Trách nhiệm của cơ quan, tổ
+chức cấp sở, cấp huyện: Thực hiện đồng bộ thông tin, dữ liệu cán bộ, công chức,
+viên chức, người lao động thuộc phạm vi quản lý lên Cơ sở dữ liệu của tỉnh từ
+ngày 26 đến ngày 27 hàng tháng.
+
+3. Trách nhiệm của cơ quan quản
+lý Cơ sở dữ liệu của tỉnh: Thực hiện đồng bộ thông tin, dữ liệu cán bộ, công chức,
+viên chức, người lao động từ Cơ sở dữ liệu của tỉnh lên Cơ sở dữ liệu quốc gia
+trong thời hạn từ ngày 28 đến ngày 31 hàng tháng.
+
+Điều 9. Lưu
+trữ cơ sở dữ liệu
+
+1. Dữ liệu cán bộ, công chức,
+viên chức, người lao động được lưu trữ trong Cơ sở dữ liệu của tỉnh theo phân cấp
+quản lý cán bộ.
+
+2. Dữ liệu cán bộ, công chức,
+viên chức, người lao động được sao lưu định kỳ hàng tháng, lưu trữ dữ liệu sao
+lưu tối thiểu ba tháng trên phương tiện lưu trữ chuyên dụng của 2 đơn vị để dự
+phòng rủi ro:
+
+a) Lưu trữ chuyên dụng của đơn
+vị cung cấp phần mềm quản lý Cơ sở dữ liệu của tỉnh;
+
+b) Lưu trữ chuyên dụng tại
+Trung tâm Tích hợp dữ liệu tỉnh Nam Định do Sở Thông tin và Truyền thông quản
+lý, vận hành.
+
+3. Việc lưu trữ, sao lưu phải
+tuân thủ các quy định của Đảng, pháp luật về lưu trữ, bảo vệ bí mật nhà nước,
+cơ yếu, bảo vệ bí mật thông tin cá nhân, an toàn, an ninh thông tin.
+
+Điều 10.
+Chuyển giao, tiếp nhận dữ liệu
+
+1. Trường hợp cán bộ, công chức,
+viên chức được tiếp nhận từ tỉnh ngoài, từ khối đảng, đoàn thể (không thuộc thẩm
+quyền quản lý dữ liệu của tỉnh) thì đồng thời với việc chuyển giao hồ sơ theo
+quy định, cơ quan, tổ chức và cá nhân có liên quan thực hiện như sau:
+
+a) Trong thời hạn 5 ngày làm việc
+kể từ ngày cán bộ, công chức, viên chức được tiếp nhận; cơ quan, tổ chức tiếp
+nhận cán bộ, công chức, viên chức thực hiện tạo lập tài khoản cá nhân cho cán bộ,
+công chức, viên chức theo quy định tại khoản 2, khoản 3 Điều 5 Quy chế này;
+
+b) Trong thời hạn 10 ngày làm
+việc kể từ ngày cán bộ, công chức, viên chức được tiếp nhận; cơ quan quản lý Cơ
+sở dữ liệu của tỉnh thực hiện đồng bộ dữ liệu của cán bộ, công chức, viên chức
+từ Cơ sở dữ liệu quốc gia hoặc Cơ sở giữ liệu khác được chia sẻ (nếu có) về Cơ
+sở dữ liệu của tỉnh;
+
+c) Cán bộ, công chức, viên chức
+có trách nhiệm nhập thông tin, dữ liệu mới hoặc kiểm tra và thực hiện cập nhật
+thông tin, dữ liệu của cá nhân vào Cơ sở dữ liệu của tỉnh theo quy định tại khoản
+2 Điều 6 Quy chế này;
+
+d) Các cơ quan, tổ chức thực hiện
+kiểm tra, phê duyệt, đồng bộ thông tin, dữ liệu cán bộ, công chức, viên chức
+theo quy định tại Điều 7, Điều 8 Quy chế này.
+
+2. Trường hợp cán bộ, công chức,
+viên chức được chuyển công tác, điều động ra tỉnh ngoài, sang khối đảng, đoàn
+thể: Trong thời hạn 5 ngày làm việc kể từ ngày cán bộ, công chức, viên chức được
+chuyển công tác, điều động thì cơ quan, tổ chức có trách nhiệm thực hiện điều
+chuyển dữ liệu của cán bộ, công chức, viên chức đến cơ quan, tổ chức tiếp nhận
+và hủy quyền truy cập của cán bộ, công chức, viên chức vào Cơ sở dữ liệu của tỉnh
+theo quy định tại khoản 2, khoản 3 Điều 5 Quy chế này.
+
+3. Trường hợp cán bộ, công chức,
+viên chức được điều động, bổ nhiệm, luân chuyển, chuyển đổi vị trí công tác đến
+cơ quan, tổ chức khác mà không thuộc thẩm quyền quản lý dữ liệu cán bộ, công chức,
+viên chức của cơ quan, tổ chức đang công tác thì các cơ quan, tổ chức và cá
+nhân có liên quan thực hiện như sau:
+
+a) Cơ quan, tổ chức (nơi cán bộ,
+công chức, viên chức đang công tác) có trách nhiệm thực hiện điều chuyển dữ liệu
+của cán bộ, công chức, viên chức đến cơ quan, tổ chức tiếp nhận;
+
+b) Cơ quan, tổ chức (nơi tiếp
+nhận cán bộ, công chức, viên chức về công tác) có trách nhiệm thực hiện tiếp nhận
+dữ liệu của cán bộ, công chức, viên chức về cơ quan, tổ chức mình để phục vụ hoạt
+động quản lý theo thẩm quyền;
+
+c) Cán bộ, công chức, viên chức
+có trách nhiệm kiểm tra và thực hiện cập nhật thông tin, dữ liệu của cá nhân
+vào Cơ sở dữ liệu của tỉnh theo quy định tại khoản 2 Điều 6 Quy chế này.
+
+d) Cơ quan, tổ chức (nơi tiếp
+nhận cán bộ, công chức, viên chức về công tác) thực hiện kiểm tra, phê duyệt, đồng
+bộ thông tin, dữ liệu của cán bộ, công chức, viên chức theo quy định tại Điều
+7, Điều 8 Quy chế này.
+
+4. Trường hợp cán bộ, công chức,
+viên chức thay đổi công tác theo quy định tại khoản 2, khoản 3 Điều này; chuyển
+công tác ra khỏi tổ chức của Nhà nước; nghỉ hưu; thôi việc; qua đời thì dữ liệu
+cán bộ, công chức, viên chức đó vẫn phải được lưu trữ tại thư mục riêng trong
+Cơ sở dữ liệu của tỉnh.
+
+Điều 11.
+Quản lý, sử dụng, khai thác dữ liệu
+
+1. Ủy ban nhân dân tỉnh giao Sở
+Nội vụ là cơ quan quản lý Cơ sở dữ liệu của tỉnh.
+
+2. Sở Nội vụ, các cơ quan, tổ
+chức và cán bộ, công chức, viên chức, người lao động thực hiện quản lý, khai
+thác, sử dụng dữ liệu, thông tin trên Cơ sở dữ liệu của tỉnh tại địa chỉ:
+https://ccvcnamdinh.vnerp.vn.
+
+3. Cán bộ, công chức, viên chức,
+người lao động thực hiện quản lý, sử dụng, khai thác, kết xuất dữ liệu của cá
+nhân trong Cơ sở dữ liệu của tỉnh theo quy định.
+
+4. Người đứng đầu cơ quan, tổ
+chức cấp cơ sở thực hiện quản lý, sử dụng, khai thác dữ liệu, thông tin cán bộ,
+công chức, viên chức, người lao động của cơ quan, tổ chức cấp cơ sở trong Cơ sở
+dữ liệu của tỉnh theo quy định.
+
+5. Người đứng đầu cơ quan, tổ
+chức cấp sở, cấp huyện thực hiện quản lý, sử dụng, khai thác dữ liệu, thông tin
+cán bộ, công chức, viên chức, người lao động của cơ quan, tổ chức cấp sở, cấp
+huyện trong Cơ sở dữ liệu của tỉnh theo quy định.
+
+6. Sở Nội vụ thực hiện quản lý,
+sử dụng, khai thác dữ liệu, thông tin cán bộ, công chức, viên chức, người lao động
+trong Cơ sở dữ liệu của tỉnh theo quy định. Đồng thời, được khai thác, sử dụng
+dữ liệu tổng hợp, phân tích chung, dữ liệu về cán bộ, công chức, viên chức, người
+lao động của tỉnh trong Cơ sở dữ liệu quốc gia (đã được chia sẻ mặc định từ Cơ
+sở giữ liệu quốc gia về Cơ sở dữ liệu của tỉnh) để phục vụ công tác chỉ đạo, điều
+hành của Ủy ban nhân dân tỉnh, Chủ tịch Ủy ban nhân dân tỉnh.
+
+7. Cán bộ, công chức, viên chức
+được cơ quan có thẩm quyền giao nhiệm vụ bằng văn bản theo quy định thực hiện
+quản lý, sử dụng, khai thác dữ liệu, thông tin cán bộ, công chức, viên chức,
+người lao động trong Cơ sở dữ liệu của tỉnh theo quy định.
+
+8. Dữ liệu cán bộ, công chức,
+viên chức, người lao động trên Cơ sở dữ liệu của tỉnh khi được xuất theo định dạng
+văn bản điện tử, được ký số bằng chứng thư số chuyên dùng Chính phủ bởi người
+có thẩm quyền và ký số bằng chứng thư số chuyên dùng Chính phủ của cơ quan nhà
+nước theo quy định của pháp luật thì văn bản điện tử đó có giá trị pháp lý như
+bản gốc văn bản giấy.
+
+Điều 12. Kết
+nối, chia sẻ dữ liệu
+
+1. Sở Thông tin và Truyền thông
+đảm bảo hạ tầng kỹ thuật phục vụ việc kết nối, chia sẻ Cơ sở dữ liệu của tỉnh với
+Cở sở dữ liệu quốc gia về cán bộ, công chức, viên chức, Cơ sở dữ liệu quốc gia
+khác, Cơ sở dữ liệu chuyên ngành khác.
+
+2. Đơn vị cung cấp phần mềm quản
+lý Cơ sở dữ liệu về cán bộ, công chức, viên chức, người lao động phối hợp với Sở
+Nội vụ và các tổ chức, đơn vị thực hiện kết nối, chia sẻ dữ liệu của cán bộ,
+công chức, viên chức, người lao động trong Cơ sở dữ liệu của tỉnh với Cơ sở dữ
+liệu quốc gia về cán bộ, công chức, viên chức, Cơ sở dữ liệu quốc gia khác, Cơ
+sở dữ liệu chuyên ngành khác theo quy định của pháp luật và Thông tư số
+06/2023/TT-BNV ngày 04 tháng 5 năm 2023 của Bộ trưởng Bộ Nội vụ ban hành Quy chế
+cập nhật, sử dụng, khai thác dữ liệu, thông tin của Cơ sở dữ liệu quốc gia về
+cán bộ, công chức, viên chức trong các cơ quan nhà nước.
+
+3. Việc kết nối, chia sẻ dữ liệu
+giữa Cơ sở dữ liệu của tỉnh với các hệ thống thông tin, Cơ sở dữ liệu quốc gia
+khác, Cơ sở dữ liệu chuyên ngành khác thông qua Nền tảng tích hợp, chia sẻ dữ
+liệu quốc gia (sử dụng mạng truyền số liệu chuyên dùng của các cơ quan Đảng,
+Nhà nước) theo hướng dẫn của Bộ Nội vụ và bảo đảm tuân thủ quy định tại Nghị định
+số 47/2020/NĐ-CP ngày 09 tháng 4 năm 2020 của Chính phủ về quản lý, kết nối và
+chia sẻ dữ liệu số của cơ quan nhà nước, Khung Kiến trúc Chính phủ điện tử Việt
+Nam.
+
+4. Việc kết nối, chia sẻ dữ liệu
+cán bộ, công chức, viên chức, người lao động của các cơ quan, tổ chức trong tỉnh
+với Cơ sở dữ liệu cán bộ, công chức, viên chức, người lao động của tỉnh được ưu
+tiên sử dụng mạng truyền số liệu chuyên dùng của các cơ quan Đảng, Nhà nước.
+
+Chương
+III
+
+TỔ CHỨC THỰC HIỆN
+
+Điều 13.
+Trách nhiệm của cán bộ, công chức, viên chức, người lao động
+
+1. Chấp hành quy định tại Quy
+chế này và các quy định của Đảng, pháp luật, quy chế của cơ quan, đơn vị trong
+việc quản lý, khai thác, sử dụng Cơ sở dữ liệu của tỉnh.
+
+2. Cập nhật đúng, đủ, chính
+xác, kịp thời các dữ liệu cá nhân của mình và chịu trách nhiệm trước pháp luật,
+trước cơ quan nhà nước có thẩm quyền; thông báo kịp thời cho cơ quan quản lý cơ
+sở dữ liệu khi có sự thay đổi hoặc có sai sót đối với dữ liệu mình cung cấp.
+
+Điều 14.
+Trách nhiệm của cán bộ, công chức, viên chức được giao thực hiện công tác quản
+lý Cơ sở dữ liệu của tỉnh
+
+1. Chấp hành quy định tại Điều
+5 Quy chế này.
+
+2. Thông qua nghiệp vụ kỹ thuật,
+tổ chức việc bảo quản, lưu trữ cơ sở dữ liệu cán bộ, công chức, viên chức, người
+lao động của cơ quan, tổ chức.
+
+3. Cung cấp dữ liệu cán bộ, công
+chức, viên chức, người lao động chính xác, kịp thời theo yêu cầu của cấp có thẩm
+quyền.
+
+4. Nghiên cứu, phát hiện các vấn
+đề chưa rõ hoặc mâu thuẫn trong Cơ sở dữ liệu của tỉnh và những vấn đề nảy sinh
+trong quá trình quản lý, báo cáo Sở Nội vụ xem xét, xử lý.
+
+5. Hướng dẫn, đôn đốc việc hoàn
+thiện đầy đủ các trường thông tin trong dữ liệu cán bộ, công chức, viên chức,
+người lao động thuộc thẩm quyền quản lý của cơ quan, tổ chức.
+
+6. Học tập, bồi dưỡng nâng cao
+trình độ chuyên môn, nghiệp vụ phục vụ công tác quản lý Cơ sở dữ liệu của tỉnh
+theo yêu cầu công việc.
+
+7. Chịu trách nhiệm bảo đảm bí
+mật, an toàn thông tin của Cơ sở dữ liệu quốc gia, Cơ sở dữ liệu của tỉnh.
+Không tiết lộ, cung cấp thông tin tài khoản cơ quan, tổ chức và tài khoản cá
+nhân nếu không được sự đồng ý bằng văn bản của cơ quan có thẩm quyền. Chịu
+trách nhiệm trước pháp luật và cơ quan, cấp có thẩm quyền về việc vi phạm các
+quy định về bảo đảm bí mật, an toàn thông tin.
+
+8. Trường hợp vi phạm các quy định
+tại Quy chế này và vi phạm quy định về bảo vệ dữ liệu cá nhân của cán bộ, công
+chức, viên chức, người lao động thì tùy theo tính chất và mức độ vi phạm sẽ bị
+xem xét, xử lý kỷ luật, xử phạt vi phạm hành chính, xử lý hình sự theo quy định.
+
+Điều 15.
+Trách nhiệm của cơ quan, tổ chức cấp cơ sở
+
+1. Tổ chức thực hiện quản lý dữ
+liệu cán bộ, công chức, viên chức, người lao động theo quy định tại Quy chế này
+và quy định của cấp có thẩm quyền. Chấp hành sự chỉ đạo, kiểm tra và hướng dẫn
+nghiệp vụ về công tác quản lý dữ liệu cán bộ, công chức, viên chức, người lao động
+của cơ quan, tổ chức cấp trên.
+
+2. Đôn đốc, kiểm tra việc thực
+hiện các quy định về quản lý dữ liệu cán bộ, công chức, viên chức, người lao động
+trong phạm vi quản lý. Tham mưu xem xét, xử lý vi phạm cá nhân không cập nhật dữ
+liệu, có sai phạm trong cập nhật dữ liệu và bảo quản cơ sở dữ liệu theo phân cấp
+quản lý.
+
+Điều 16.
+Trách nhiệm của cơ quan, tổ chức cấp sở, cấp huyện
+
+1. Xây dựng, nâng cấp cơ sở dữ
+liệu; cập nhật, kết nối, chia sẻ, khai thác dữ liệu cán bộ, công chức, viên chức,
+người lao động của cơ quan, tổ chức trong Cơ sở dữ liệu của tỉnh theo quy định
+tại Nghị định số 47/2020/NĐ-CP ngày 09 tháng 4 năm 2020 của Chính phủ.
+
+2. Sử dụng mã định danh điện tử
+của tổ chức, đơn vị theo quy định tại Quyết định số 20/2020/QĐ-TTg ngày 22
+tháng 7 năm 2020 của Thủ tướng Chính phủ về mã định danh điện tử của cơ quan, tổ
+chức, đơn vị phục vụ kết nối, chia sẻ dữ liệu với các bộ, ngành, địa phương.
+
+3. Chỉ đạo các cơ quan, tổ chức
+và cán bộ, công chức, viên chức, người lao động thuộc phạm vi quản lý thực hiện
+đúng các nội dung của Quy chế này; tổ chức cập nhật, chuẩn hóa thông tin, dữ liệu
+cán bộ, công chức, viên chức, người lao động của cơ quan, tổ chức trong Cơ sở dữ
+liệu của tỉnh phục vụ việc cập nhật, kết nối, chia sẻ với Cơ sở dữ liệu quốc
+gia về cán bộ, công chức, viên chức.
+
+4. Có trách nhiệm về việc lưu
+trữ, sao lưu; đảm bảo hạ tầng kết nối, chia sẻ dữ liệu ổn định, thông suốt, đáp
+ứng các điều kiện, tiêu chuẩn kỹ thuật, cấp độ an toàn thông tin theo quy định
+để kết nối, chia sẻ dữ liệu cán bộ, công chức, viên chức, người lao động của cơ
+quan, tổ chức trong Cơ sở dữ liệu của tỉnh.
+
+5. Tổ chức tập huấn, bồi dưỡng
+kỹ năng, nghiệp vụ cho công chức, viên chức của cơ quan, tổ chức làm công tác
+quản lý, vận hành Cơ sở dữ liệu của tỉnh.
+
+6. Hướng dẫn, đôn đốc, kiểm
+tra, giám sát việc thực hiện các quy định của pháp luật về quản lý Cơ sở dữ liệu
+của tỉnh; xem xét, xử lý vi phạm của cơ quan,tổ chức và cá nhân không thực hiện
+theo quy định tại Quy chế này.
+
+7. Định kỳ hàng năm, chậm nhất
+là ngày 15 tháng 01 năm sau báo cáo tình hình quản lý cơ sở dữ liệu cán bộ,
+công chức, viên chức của năm trước liền kề về Ủy ban nhân dân tỉnh (qua Sở Nội
+vụ) để tổng hợp báo cáo Bộ Nội vụ (bao gồm: Tổng số cán bộ, công chức, viên chức,
+người lao động hiện có được chia theo ngạch công chức, chức danh nghề nghiệp
+viên chức, vị trí việc làm; vướng mắc phát sinh trong quá trình thực hiện Quy
+chế này).
+
+Điều 17.
+Trách nhiệm của bộ phận làm công tác tổ chức, cán bộ của cơ quan nhà nước
+
+1. Tham mưu cho cơ quan, tổ chức
+thực hiện các nhiệm vụ, quyền hạn trong việc quản lý, sử dụng, khai thác dữ liệu
+về cán bộ, công chức, viên chức, người lao động của cơ quan, tổ chức mình trong
+Cơ sở dữ liệu của tỉnh theo thẩm quyền quy định tại Quy chế này.
+
+2. Trực tiếp quản lý tài khoản
+quản trị của cơ quan, tổ chức mình và cơ quan, tổ chức cấp cơ sở (nếu có).
+
+3. Kiểm tra thông tin cán bộ,
+công chức, viên chức, người lao động của cơ quan, tổ chức theo quy định tại điểm
+a khoản 1 và điểm a khoản 2 Điều 7 Quy chế này.
+
+4. Thực hiện đồng bộ thông tin,
+dữ liệu cán bộ, công chức, viên chức, người lao động của cơ quan, tổ chức theo
+quy định tại khoản 1, khoản 2 Điều 8 Quy chế này.
+
+Điều 18.
+Trách nhiệm của Sở Nội vụ
+
+1. Chủ trì, phối hợp với các cơ
+quan, tổ chức, đơn vị có liên quan xây dựng, nâng cấp cơ sở dữ liệu; cập nhật,
+kết nối, chia sẻ, khai thác dữ liệu trong Cơ sở dữ liệu của tỉnh, Cơ sở dữ liệu
+quốc gia theo quy định tại Nghị định số 47/2020/NĐ-CP ngày 09/4/2020 của Chính
+phủ.
+
+2. Sử dụng mã định danh điện tử
+của các cơ quan, tổ chức thuộc phạm vi quản lý của tỉnh theo quy định tại Quyết
+định số 20/2020/QĐ-TTg ngày 22 tháng 7 năm 2020 của Thủ tướng Chính phủ về mã định
+danh điện tử của cơ quan, tổ chức, đơn vị phục vụ kết nối,chia sẻ dữ liệu với
+các bộ, ngành, địa phương.
+
+3. Tham mưu Ủy ban nhân dân tỉnh
+trong việc chỉ đạo hoặc ban hành văn bản theo thẩm quyền để tổ chức cập nhật,
+chuẩn hóa thông tin, dữ liệu trong Cơ sở dữ liệu của tỉnh phục vụ việc cập nhật,
+kết nối, chia sẻ với Cơ sở dữ liệu quốc gia.
+
+4. Tổ chức tập huấn, bồi dưỡng
+kỹ năng, nghiệp vụ cho công chức, viên chức của các cơ quan, tổ chức làm công
+tác quản lý, vận hành Cơ sở dữ liệu.
+
+5. Chủ trì, phối hợp với Sở
+Thông tin và Truyền thông hướng dẫn, đôn đốc, kiểm tra việc thực hiện các quy định
+về quản lý dữ liệu cán bộ, công chức, viên chức, người lao động của các cơ
+quan, tổ chức trong tỉnh theo Quy chế này; định kỳ kiểm tra việc sao lưu dữ liệu
+cán bộ, công chức, viên chức, người lao động và lưu trữ dữ liệu sao lưu theo
+quy định và đề nghị cơ quan có thẩm quyền xem xét, xử lý vi phạm của cơ quan, tổ
+chức, đơn vị và cá nhân không thực hiện theo quy định tại Quy chế này.
+
+6. Định kỳ hàng năm, chậm nhất
+là ngày 31 tháng 01 năm sau báo cáo tình hình quản lý Cơ sở dữ liệu cán bộ,
+công chức, viên chức của năm trước liền kề về Bộ Nội vụ.
+
+Điều 19.
+Trách nhiệm của Sở Thông tin và Truyền thông
+
+1. Đảm bảo cơ sở hạ tầng kỹ thuật
+để kết nối, tích hợp, đồng bộ, khai thác, chia sẻ Cơ sở dữ liệu của tỉnh, Cơ sở
+dữ liệu quốc gia về cán bộ, công chức viên chức, Cơ sở dữ liệu quốc gia khác,
+Cơ sở dữ liệu chuyên ngành khác.
+
+2. Đảm bảo tuân thủ các quy định
+về an toàn, an ninh và bảo mật thông tin, dữ liệu cán bộ, công chức, viên chức,
+người lao động của tỉnh.
+
+3. Phối hợp với Sở Nội vụ thực
+hiện nội dung quy định tại khoản 5 Điều 18 Quy chế này.
+
+4. Hướng dẫn, hỗ trợ các cơ
+quan, tổ chức, đơn vị trong việc kết nối, chia sẻ dữ liệu đảm bảo theo quy định
+của Nghị định số 47/2020/NĐ-CP ngày 09 tháng 4 năm 2020 của Chính phủ.
+
+Điều 20.
+Trách nhiệm của đơn vị cung cấp phần mềm
+
+1. Cung cấp phần mềm đảm bảo
+quy định về cấu trúc mã định danh, định dạng dữ liệu gói tin và các yêu cầu kỹ
+thuật khác phục vụ kết nối, tích hợp, đồng bộ Cơ sở dữ liệu của tỉnh với Cơ sở
+dữ liệu Quốc gia về cán bộ, công chức, viên chức, người lao động và Cơ sở dữ liệu
+quốc gia khác, Cơ sở dữ liệu chuyên ngành khác.
+
+2. Đảm bảo và chịu trách nhiệm
+về an toàn thông tin mạng đối với hệ thống thông tin của mình khi kết nối, khai
+thác dữ liệu về cán bộ, công chức, viên chức, người lao động trong Cơ sở dữ liệu
+của tỉnh.
+
+3. Kịp thời xử lý, khắc phục sự
+cố phát sinh trong việc cập nhật, phê duyệt, đồng bộ, quản lý, sử dụng, khai
+thác Cơ sở dữ liệu của tỉnh.
+
+4. Thực hiện việc kết nối, đồng
+bộ, chia sẻ dữ liệu cán bộ, công chức, viên chức, người lao động của các cơ
+quan trong Cơ sở dữ liệu của tỉnh theo quy định tại khoản 2 Điều 12 Quy chế
+này./.--- THÔNG TIN THÊM ---
+Ten: Quyết định 47/2023/QĐ-UBND về Quy chế quản lý, sử dụng, khai thác Cơ sở dữ liệu về cán bộ, công chức, viên chức, người lao động do các cơ quan nhà nước tỉnh Nam Định quản lý
+So hieu: 47/2023/QĐ-UBND
+Loai van ban: Quyết định
+Linh vuc nganh: Lao động - Tiền lương, Công nghệ thông tin
+Noi ban hanh: Tỉnh Nam Định
+Nguoi ky: Phạm Đình Nghị
+Ngay ban hanh: 01/12/2023
+Ngay hieu luc: 15/12/2023
+Ngay dang: Dữ liệu đang cập nhật
+So cong bao: Dữ liệu đang cập nhật
+Tinh trang: Còn hiệu lực
+
+
+--- MỤC LỤC ---
+- QUYẾT ĐỊNH V/V BAN HÀNH QUY CHẾ QUẢN LÝ, SỬ DỤNG, KHAI THÁC CƠ SỞ DỮ LIỆU VỀ CÁN BỘ, CÔNG CHỨC, VIÊN CHỨC, NGƯỜI LAO ĐỘNG DO CÁC CƠ QUAN NHÀ NƯỚC TỈNH NAM ĐỊNH QUẢN LÝ
+  - Điều 1. Ban hành kèm theo Quyết định này Quy chế quản lý, sử dụng, khai thác Cơ sở dữ liệu về cán bộ, công chức, viên chức, người lao động do các cơ quan nhà nước tỉnh Nam Định quản lý.
+  - Điều 2. Quyết định này có hiệu lực thi hành kể từ ngày 15 tháng 12 năm 2023.
+  - Điều 3. Chánh Văn phòng Ủy ban nhân dân tỉnh; Thủ trưởng các sở, ban, ngành; các đơn vị sự nghiệp công lập trực thuộc Ủy ban nhân dân tỉnh; Chủ tịch Ủy ban nhân dân các huyện, thành phố và các cơ quan, tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành quyết định này./.
+- QUY CHẾ QUẢN LÝ, SỬ DỤNG, KHAI THÁC CƠ SỞ DỮ LIỆU VỀ CÁN BỘ, CÔNG CHỨC, VIÊN CHỨC, NGƯỜI LAO ĐỘNG DO CÁC CƠ QUAN NHÀ NƯỚC TỈNH NAM ĐỊNH QUẢN LÝ
+  - Chương I QUY ĐỊNH CHUNG
+    - Điều 1. Phạm vi điều chỉnh
+    - Điều 2. Đối tượng áp dụng
+    - Điều 3. Nguyên tắc thực hiện
+    - Điều 4. Các hành vi không được làm
+  - Chương II QUẢN LÝ, SỬ DỤNG, KHAI THÁC CƠ SỞ DỮ LIỆU VỀ CÁN BỘ,CÔNG CHỨC, VIÊN CHỨC, NGƯỜI LAO ĐỘNG
+    - Điều 5. Tạo lập và quản lý tài khoản
+    - Điều 6. Cập nhật dữ liệu
+    - Điều 7. Phê duyệt dữ liệu
+    - Điều 8. Đồng bộ dữ liệu
+    - Điều 9. Lưu trữ cơ sở dữ liệu
+    - Điều 10. Chuyển giao, tiếp nhận dữ liệu
+    - Điều 11. Quản lý, sử dụng, khai thác dữ liệu
+    - Điều 12. Kết nối, chia sẻ dữ liệu
+  - Chương III TỔ CHỨC THỰC HIỆN
+    - Điều 13. Trách nhiệm của cán bộ, công chức, viên chức, người lao động
+    - Điều 14. Trách nhiệm của cán bộ, công chức, viên chức được giao thực hiện công tác quản lý Cơ sở dữ liệu của tỉnh
+    - Điều 15. Trách nhiệm của cơ quan, tổ chức cấp cơ sở
+    - Điều 16. Trách nhiệm của cơ quan, tổ chức cấp sở, cấp huyện
+    - Điều 17. Trách nhiệm của bộ phận làm công tác tổ chức, cán bộ của cơ quan nhà nước
+    - Điều 18. Trách nhiệm của Sở Nội vụ
+    - Điều 19. Trách nhiệm của Sở Thông tin và Truyền thông
+    - Điều 20. Trách nhiệm của đơn vị cung cấp phần mềm
+
+--- VĂN BẢN LIÊN QUAN ---
+
+Van ban duoc dan chieu:
+  - Thông tư 5/2023/TT-BNV hướng dẫn mẫu hợp đồng dịch vụ và mẫu hợp đồng lao động đối với một số loại công ... (ID: 565161)
+  - Quyết định 20/2020/QĐ-TTg về mã định danh điện tử của các cơ quan, tổ chức phục vụ kết nối, chia sẻ dữ liệu... (ID: 447895)
+
+Van ban duoc can cu:
+  - Thông tư 06/2023/TT-BNV Quy chế cập nhật, sử dụng, khai thác dữ liệu, thông tin của Cơ sở dữ liệu quốc gia ... (ID: 565266)
+  - Nghị định 47/2020/NĐ-CP về quản lý, kết nối và chia sẻ dữ liệu số của cơ quan nhà nước (ID: 439384)
+  - Luật Tổ chức chính phủ và Luật Tổ chức chính quyền địa phương sửa đổi 2019 (ID: 411945)
+  - Luật tiếp cận thông tin 2016 (ID: 280116)
+  - Luật tổ chức chính quyền địa phương 2015 (ID: 282380)
+  - Luật Công nghệ thông tin 2006 (ID: 12987)
+
+Van ban lien quan cung noi dung:
+  - Quyết định 27/2024/QĐ-UBND về Quy chế cập nhật, khai thác và quản lý cơ sở dữ liệu về cán bộ, công chức, viên chức, người lao động tỉnh Cao Bằng (ID: 619448)
+  - Quyết định 25/2024/QĐ-UBND về Quy chế cập nhật, quản lý, khai thác và sử dụng Cơ sở dữ liệu về cán bộ, công chức, viên chức, người lao động thành phố Đà Nẵng (ID: 618116)
+  - Quyết định 30/2024/QĐ-UBND Quy chế cập nhật, sử dụng, khai thác dữ liệu, thông tin Phần mềm cơ sở dữ liệu về cán bộ, công chức, viên chức tỉnh Phú Yên và cập nhật, đồng bộ cơ sở dữ liệu quốc gia về cán bộ, công chức, viên chức (ID: 615496)
+  - Quyết định 14/2024/QĐ-UBND về Quy chế cập nhật, sử dụng, khai thác, quản lý cơ sở dữ liệu cán bộ, công chức, viên chức, người lao động tỉnh Hưng Yên (ID: 611508)
+  - Quyết định 07/2024/QĐ-UBND về Quy chế quản lý, sử dụng, phê duyệt, khai thác Cơ sở dữ liệu quản lý cán bộ, công chức, viên chức, người lao động của tỉnh Trà Vinh (ID: 609741)
+  - Kế hoạch 108/KH-UBND năm 2024 tổ chức thu thập, cập nhật, xây dựng cơ sở dữ liệu về người lao động, cơ sở dữ liệu việc tìm người - người tìm việc trên địa bàn Thành phố Hà Nội đến năm 2025 (ID: 605916)
+  - Quyết định 641/QĐ-UBND năm 2024 về Quy chế phê duyệt tạo lập, cập nhật, sử dụng và khai thác Cơ sở dữ liệu cán bộ, công chức, viên chức do Thành phố Cần Thơ ban hành (ID: 603856)
+  - Quyết định 06/2024/QĐ-UBND về Quy chế quản lý, cập nhật, sử dụng, khai thác, phê duyệt dữ liệu, thông tin của Phần mềm quản lý Cơ sở dữ liệu cán bộ, công chức, viên chức, người lao động tỉnh Lào Cai (ID: 599109)
+  - Quyết định 51/2023/QĐ-UBND về Quy chế quản lý, cung cấp, cập nhật và khai thác, sử dụng Cơ sở dữ liệu về xử lý vi phạm hành chính trên địa bàn tỉnh Quảng Ngãi (ID: 592289)
+  - Quyết định 59/2023/QĐ-UBND về Quy chế phê duyệt, quản lý, sử dụng, khai thác Cơ sở dữ liệu cán bộ, công chức, viên chức Thành phố Hải Phòng (ID: 592594)
+  - Quyết định 31/2023/QĐ-UBND về Quy chế quản lý cập nhật, sử dụng, khai thác, phê duyệt dữ liệu, thông tin của Cơ sở dữ liệu về cán bộ, công chức, viên chức, người lao động tỉnh Quảng Ninh (ID: 589129)
+  - Quyết định 26/2023/QĐ-UBND về Quy chế quản lý, sử dụng, khai thác cơ sở dữ liệu cán bộ, công chức, viên chức, người lao động tỉnh Tuyên Quang; cập nhật, đồng bộ cơ sở dữ liệu quốc gia về cán bộ, công chức, viên chức (ID: 587448)
+  - Quyết định 1716/QĐ-UBND năm 2023 về Quy chế cập nhật, sử dụng, khai thác dữ liệu, thông tin Phần mềm Quản lý cán bộ, công chức, viên chức tỉnh Vĩnh Long; cập nhật, đồng bộ Cơ sở dữ liệu quốc gia về cán bộ, công chức, viên chức (ID: 573291)
+  - Kế hoạch 80/KH-UBND năm 2023 triển khai Cơ sở dữ liệu quốc gia về cán bộ, công chức, viên chức trên địa bàn tỉnh Yên Bái (ID: 560702)

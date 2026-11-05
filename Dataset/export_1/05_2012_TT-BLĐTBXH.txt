@@ -1,0 +1,516 @@
+BỘ
+ LAO ĐỘNG - THƯƠNG BINH VÀ XÃ HỘI
+
+ --------
+
+CỘNG
+ HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+ Độc lập - Tự do - Hạnh phúc
+
+ ----------------
+
+Số:
+ 05/2012/TT-BLĐTBXH
+
+Hà
+ Nội, ngày 30 tháng 03 năm 2012
+
+ 
+
+THÔNG TƯ
+
+BAN HÀNH QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ AN TOÀN LAO ĐỘNG ĐỐI
+VỚI THIẾT BỊ NÂNG
+
+Căn cứ Nghị định số 186/2007/NĐ-CP ngày 25 tháng 12 năm 2007 của
+Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Lao
+động - Thương binh và Xã hội;
+
+Căn cứ Nghị định số 127/2007/NĐ-CP ngày 01 tháng 8 năm 2007 của
+Chính phủ quy định chi tiết một số điều của Luật
+Tiêu chuẩn và Quy chuẩn kỹ thuật;
+
+Căn cứ Nghị định số 132/2008/NĐ-CP ngày 31 tháng 12 năm 2008 của
+Chính phủ quy định chi tiết thi hành một số điều của Luật Chất lượng sản phẩm, hàng hóa;
+
+Sau khi có ý kiến thẩm định của
+Bộ Khoa học và Công nghệ tại Công văn số 1420/BKHCN-TĐC ngày 23/6/2011, Bộ trưởng
+Bộ Lao động - Thương binh và Xã hội ban hành Quy chuẩn kỹ thuật quốc gia về an
+toàn lao động đối với thiết bị nâng,
+
+Điều 1. Ban
+hành kèm theo Thông tư này Quy chuẩn kỹ thuật quốc gia về an toàn lao động đối
+với thiết bị nâng.
+
+Ký hiệu: QCVN 7: 2012/BLĐTBXH
+
+Điều 2. Quy
+chuẩn kỹ thuật quốc gia về an toàn lao động đối với thiết bị nâng có hiệu lực
+sau 06 tháng kể từ ngày ký Thông tư này.
+
+Điều 3. Các
+Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân các tỉnh, thành
+phố trực thuộc Trung ương và các tổ chức, cá nhân có liên quan chịu trách nhiệm
+thi hành./.
+
+ 
+
+ 
+
+Nơi nhận:
+
+- Văn phòng Chính phủ;
+
+ - Các Bộ, cơ quan ngang Bộ, cơ quan thuộc CP;
+
+ - UBND các tỉnh, thành phố trực thuộc TƯ;
+
+ - Tòa án nhân dân tối cao;
+
+ - Viện kiểm sát nhân dân tối cao;
+
+ - Cục kiểm tra VBQPPL- Bộ Tư pháp;
+
+ - Công báo;
+
+ - Website Bộ LĐTBXH;
+
+ - Lưu VT, PC, Cục ATLĐ.
+
+KT.
+ BỘ TRƯỞNG
+
+ THỨ TRƯỞNG
+
+ Bùi Hồng Lĩnh
+
+ 
+
+QCVN 7: 2012/BLĐTBXH
+
+QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ AN TOÀN LAO ĐỘNG ĐỐI VỚI THIẾT
+BỊ NÂNG
+
+National technical regulation on safe work of lift appliances
+
+Lời nói đầu
+
+QCVN 7: 2012/BLĐTBXH - Quy chuẩn kỹ
+thuật quốc gia về an toàn lao động đối với thiết bị nâng do Cục An toàn lao động
+biên soạn, Bộ Lao động - Thương binh và Xã hội ban hành theo Thông tư số
+05/2012/TT-BLĐTBXH ngày 30 tháng 3 năm 2012, sau khi có ý kiến thẩm định của Bộ
+Khoa học và Công nghệ.
+
+ 
+
+QUY CHUẨN KỸ THUẬT QUỐC GIA
+
+VỀ
+AN TOÀN LAO ĐỘNG ĐỐI VỚI THIẾT BỊ NÂNG
+
+National
+technical regulation on safe work of lift appliances
+
+1. Quy định
+chung
+
+1.1. Phạm vi điều chỉnh
+
+Quy chuẩn này áp dụng đối với các
+loại thiết bị nâng thông dụng sau:
+
+1.1.1. Cần trục kiểu cần: cần trục
+ô tô, cần trục bánh hơi, cần trục bánh xích, cần trục tháp, cần trục chân đế, cần
+trục đường sắt, cần trục công xôn, cần trục máy xúc.
+
+1.1.2. Cầu trục và cổng trục các loại.
+
+1.1.3. Máy nâng:
+
+1.1.3.1. Xe tời chạy theo ray trên
+cao;
+
+1.1.3.2. Pa lăng điện;
+
+1.1.3.3. Tời điện;
+
+1.1.3.4. Pa lăng tay, tời tay;
+
+1.1.3.5. Máy nâng xây dựng có dùng
+cáp.
+
+1.1.4. Các loại bộ phận mang tải.
+
+1.1.5. Quy chuẩn này không áp dụng
+cho những thiết bị nâng sau:
+
+1.1.5.1. Các loại máy xúc;
+
+1.1.5.2. Các thiết bị nâng không
+dùng cáp hoặc xích;
+
+1.1.5.3. Xe nâng hàng;
+
+1.1.5.4. Thang máy;
+
+1.1.5.5. Các thiết bị nâng được lắp
+đặt trên tàu biển, phương tiện thủy nội địa và trên các công trình biển.
+
+1.2. Đối tượng áp dụng
+
+Quy chuẩn này áp dụng với:
+
+1.2.1. Các tổ chức, cá nhân sản xuất,
+xuất khẩu, nhập khẩu, lưu thông, lắp đặt và sử dụng thiết bị nâng (sau đây gọi
+tắt là doanh nghiệp);
+
+1.2.2. Các cơ quan và các tổ chức,
+cá nhân khác có liên quan.
+
+1.3. Giải thích từ ngữ
+
+1.3.1. Trong Quy chuẩn này, sử dụng
+các định nghĩa của Tiêu chuẩn kỹ thuật quốc gia: TCVN
+4244:2005 Thiết bị nâng- thiết kế, chế tạo và kiểm tra kỹ thuật.
+
+1.3.2. Hồ sơ kỹ thuật gốc của thiết
+bị nâng bao gồm:
+
+1.3.2.1. Bản thuyết minh chung; bản
+tính chọn thiết bị điện, thủy lực hoặc khí nén; bản tính độ bền và độ ổn định của
+thiết bị nâng hoặc lý lịch của chúng;
+
+1.3.2.2. Bản vẽ tổng thể thiết bị
+nâng có ghi các kích thước và thông số chính;
+
+1.3.2.3. Bản vẽ sơ đồ nguyên lí hoạt
+động và các đặc trưng kỹ thuật chính của hệ thống truyền động điện, thủy lực hoặc
+khí nén, thiết bị điều khiển và bố trí các thiết bị an toàn;
+
+1.3.2.4. Bản vẽ các kết cấu kim loại;
+
+1.3.2.5. Bản vẽ lắp các cụm kết cấu
+của thiết bị nâng, sơ đồ mắc cáp;
+
+1.3.2.6. Quy trình chế tạo các bộ
+phận đặc biệt;
+
+1.3.2.7. Quy trình kiểm tra và thử
+tải;
+
+1.3.2.8. Hướng dẫn lắp ráp và vận
+hành an toàn.
+
+2. Quy định về
+kỹ thuật
+
+2.1. Các thiết bị nâng thuộc đối tượng
+và phạm vi nêu trên phải đảm bảo các đặc tính kỹ thuật tối thiểu theo yêu cầu kỹ
+thuật của TCVN 4244:2005 Thiết bị nâng -
+thiết kế, chế tạo và kiểm tra kỹ thuật.
+
+2.2. Trong trường hợp TCVN nói trên
+có sự thay đổi, bổ sung thì thực hiện theo những quy định mới nhất.
+
+3. Quy định về
+quản lý an toàn lao động trong chế tạo, nhập khẩu, lưu thông, lắp đặt và sử dụng
+thiết bị nâng.
+
+3.1. Điều kiện đảm bảo an toàn đối
+với thiết bị nâng chế tạo trong nước
+
+Các thiết bị nâng thuộc phạm vi điều
+chỉnh của Quy chuẩn này phải có:
+
+3.1.1. Đủ hồ sơ kỹ thuật gốc;
+
+3.1.2. Công bố hợp quy, chứng nhận
+hợp quy (theo các phương thức đánh giá sự phù hợp: Phương thức 7 nếu thiết bị
+nâng được chế tạo theo lô hoặc phương thức 8 nếu thiết bị nâng được chế tạo đơn
+chiếc quy định tại Quyết định số 24/2007/QĐ-BKHCN
+ngày 28 tháng 9 năm 2007 của Bộ trưởng Bộ Khoa học và Công nghệ);
+
+3.1.3. Gắn dấu hợp quy trước khi
+đưa ra lưu thông trên thị trường;
+
+3.1.4. Chịu sự kiểm tra giám sát của
+cơ quan kiểm tra chất lượng sản phẩm, hàng hóa thuộc Bộ Lao động - Thương binh
+và Xã hội.
+
+3.2. Điều kiện đảm bảo an toàn đối
+với thiết bị nâng nhập khẩu
+
+3.2.1. Thiết bị nâng nhập khẩu phải
+có đủ hồ sơ kỹ thuật gốc và được công bố hợp quy, chứng nhận hợp quy theo quy định
+bởi tổ chức chứng nhận được chỉ định của Việt Nam hoặc tổ chức chứng nhận nước
+ngoài được thừa nhận theo điều ước quốc tế mà Cộng hòa xã hội chủ nghĩa Việt
+Nam là thành viên hoặc thỏa thuận quốc tế mà cơ quan có thẩm quyền của Cộng hòa
+xã hội chủ nghĩa Việt Nam ký kết.
+
+3.2.2. Trong trường hợp các thiết bị
+nâng nhập khẩu mà theo thỏa thuận song phương, đa phương giữa cơ quan có thẩm
+quyền của Cộng hòa xã hội chủ nghĩa Việt Nam với các nước xuất khẩu thiết bị
+nâng quy định không phải kiểm tra chất lượng khi nhập khẩu thì các thiết bị
+nâng này được miễn kiểm tra nhập khẩu.
+
+3.2.3. Đối với các chủng loại thiết
+bị nâng thỏa mãn quy định tại mục 3.2.1, nếu qua 3 lần kiểm tra liên tục đạt chất
+lượng nhập khẩu sẽ được miễn kiểm tra nhập khẩu. Cơ quan kiểm tra chất lượng sản
+phẩm, hàng hóa thuộc Bộ Lao động - Thương binh và Xã hội sẽ thông báo cụ thể với
+cơ quan Hải quan và trên các phương tiện thông tin đại chúng.
+
+Tuy nhiên, nếu phát hiện thiết bị
+nâng có dấu hiệu không đảm bảo chất lượng nhập khẩu hoặc có phản ánh của người
+tiêu dùng, việc kiểm tra chất lượng thiết bị nâng sẽ được chuyển sang chế độ kiểm
+tra chất lượng nhập khẩu thông thường.
+
+3.2.4. Thiết bị nâng nhập khẩu
+không đáp ứng quy định tại mục 3.2.1 nêu trên thì khi nhập khẩu phải được tổ chức
+giám định được chỉ định hoặc được thừa nhận theo điều ước quốc tế mà Cộng hòa
+xã hội chủ nghĩa Việt Nam là thành viên hoặc thỏa thuận quốc tế mà cơ quan có
+thẩm quyền của Cộng hòa xã hội chủ nghĩa Việt Nam ký kết giám định tại cửa khẩu
+nhập.
+
+3.2.5. Thiết bị nâng nhập khẩu phải
+được kiểm tra chất lượng theo trình tự, thủ tục quy định và bị xử lý nếu có vi
+phạm theo luật định.
+
+3.3. Điều kiện đảm bảo an toàn đối
+với thiết bị nâng lưu thông trên thị trường.
+
+Thiết bị nâng lưu thông trên thị
+trường phải được người bán hàng thực hiện các yêu cầu sau:
+
+3.3.1. Ngoài việc tuân thủ các quy
+định của TCVN 4244-2005, còn phải tuân thủ
+các Quy chuẩn kỹ thuật quốc gia tương ứng trong quá trình bảo quản, lưu thông
+thiết bị nâng;
+
+3.3.2. Chịu sự kiểm tra chất lượng
+theo những nội dung, trình tự, thủ tục quy định và bị xử lý nếu có vi phạm theo
+luật định.
+
+3.4. Thiết bị nâng có đủ điều kiện
+lắp đặt
+
+Thiết bị nâng chỉ được lắp đặt khi
+có đủ các điều kiện sau:
+
+3.4.1. Có đủ hồ sơ kỹ thuật gốc;
+
+3.4.2. Đã được chứng nhận hợp quy,
+công bố hợp quy theo quy định. Thiết bị nâng nhập khẩu phải có hồ sơ hoàn thành
+thủ tục hải quan;
+
+3.4.3. Các bộ phận chi tiết máy đi
+kèm phải đồng bộ hoặc chế tạo theo dạng liên kết của nhiều hãng, nhiều quốc gia
+thì việc đảm bảo các đặc tính kỹ thuật là của hãng thiết bị nâng đứng tên.
+
+3.5. Yêu cầu đối với đơn vị lắp đặt
+thiết bị nâng
+
+3.5.1. Đơn vị lắp đặt, hiệu chỉnh,
+bảo dưỡng và sửa chữa thiết bị nâng phải có đủ các điều kiện sau:
+
+3.5.1.1. Có tư cách pháp nhân, được
+cơ quan có thẩm quyền cấp đăng ký kinh doanh hoạt động trong lĩnh vực này;
+
+3.5.1.2. Có đủ cán bộ kỹ thuật đã
+được đào tạo kỹ thuật chuyên ngành. Có đội ngũ công nhân kỹ thuật lành nghề, được
+huấn luyện và cấp thẻ an toàn theo quy định;
+
+3.5.1.3. Có đủ điều kiện kỹ thuật,
+khả năng công nghệ cho công việc lắp đặt, hiệu chỉnh và sửa chữa;
+
+3.5.1.4. Tuân thủ các hướng dẫn lắp
+đặt, vận hành, sử dụng của nhà chế tạo và phải đảm bảo các thông số kỹ thuật của
+thiết bị nâng theo hồ sơ kỹ thuật gốc;
+
+3.5.1.5. Trên cơ sở hồ sơ kỹ thuật
+gốc, đơn vị lắp đặt phải lập các tài liệu kỹ thuật sau để bàn giao cho đơn vị sử
+dụng:
+
+3.5.1.5.1. Lý lịch thiết bị nâng;
+
+3.5.1.5.2. Hướng dẫn vận hành, sử dụng
+an toàn thiết bị nâng;
+
+3.5.1.5.3. Hướng dẫn chế độ bảo dưỡng,
+kiểm tra thường xuyên và định kỳ;
+
+3.5.1.5.4. Phân công trách nhiệm và
+quy định chu kỳ hiệu chỉnh, bảo dưỡng, sửa chữa, khắc phục sự cố giữa đơn vị lắp
+đặt, bảo dưỡng với đơn vị sử dụng thiết bị nâng;
+
+3.5.1.6. Đơn vị lắp đặt và sửa chữa
+có trách nhiệm thông báo bằng văn bản với đơn vị sử dụng thiết bị nâng thực hiện
+việc kiểm định kỹ thuật an toàn lần đầu theo đúng quy định của Bộ Lao động -
+Thương binh và Xã hội.
+
+3.6. Quản lý sử dụng an toàn thiết
+bị nâng
+
+3.6.1. Những yêu cầu an toàn khi sử
+dụng thiết bị nâng:
+
+3.6.1.1. Chỉ sử dụng thiết bị nâng
+có tình trạng kỹ thuật tốt, đã được kiểm định kỹ thuật an toàn đạt yêu cầu.
+Không sử dụng thiết bị nâng đã bị hư hỏng các chi tiết, bộ phận quan trọng;
+
+3.6.1.2. Bố trí thiết bị nâng làm
+việc theo đúng đặc tính kỹ thuật và trọng tải mà nhà chế tạo đã quy định (hoặc
+trọng tải do đơn vị quản lý sử dụng mới quy định lại sau khi cải tạo, sửa chữa…);
+
+3.6.1.3. Đảm bảo đủ ánh sáng và các
+yêu cầu an toàn khác cho chỗ nâng hạ, di chuyển tải;
+
+3.6.1.4. Bố trí đủ người làm việc
+cho mỗi thiết bị nâng. Tùy theo điều kiện làm việc cụ thể nhưng không được ít
+hơn 2 người;
+
+3.6.1.5. Phải có các biện pháp an
+toàn để đảm bảo an toàn cho người, vật tư, thiết bị và công trình trong khu vực
+hoạt động của thiết bị nâng.
+
+3.6.1.6. Tổ chức khắc phục kịp thời
+các hư hỏng đã được phát hiện;
+
+3.6.1.7. Mỗi thiết bị nâng phải có
+sổ theo dõi bảo dưỡng, sửa chữa định kỳ, thay thế các bộ phận đủ nội dung hạng
+mục công việc theo quy định của nhà chế tạo;
+
+3.6.1.8. Mỗi thiết bị nâng phải có
+một sổ giao ca để ghi kết quả kiểm tra đầu ca và tình trạng thiết bị nâng trong
+suốt quá trình làm việc.
+
+3.6.2. Người chịu trách nhiệm quản
+lý kỹ thuật và quản lý vận hành thiết bị nâng phải được huấn luyện cơ bản về
+nghiệp vụ mà mình đảm nhận; được huấn luyện an toàn, vệ sinh lao động lần đầu
+trước khi giao việc, huấn luyện định kỳ hàng năm và được cấp giấy chứng nhận huấn
+luyện an toàn theo quy định; hiểu được tính năng kỹ thuật của thiết bị nâng mà
+mình phụ trách; biết các tiêu chuẩn, quy chuẩn kỹ thuật an toàn liên quan đến
+thiết bị nâng.
+
+3.6.3. Khi sử dụng thiết bị nâng
+trong bất kỳ trường hợp nào cũng phải có người báo tín hiệu, số lượng công nhân
+báo tín hiệu phụ thuộc vào điều kiện làm việc cụ thể. Trong trường hợp công
+nhân điều khiển thiết bị nâng nhìn thấy tải trong suốt quá trình móc, nâng,
+chuyển và hạ tải thì chức năng báo tín hiệu có thể do công nhân móc tải thực hiện.
+
+3.6.4. Công nhân điều khiển thiết bị
+nâng và công nhân buộc móc tải phải đảm bảo các yêu cầu sau:
+
+- Từ 18 tuổi trở lên;
+
+- Có đủ sức khỏe;
+
+- Được đào tạo về chuyên môn và được
+huấn luyện, cấp thẻ an toàn theo đúng quy định.
+
+3.6.5. Việc bố trí công nhân điều
+khiển thiết bị nâng phải có quyết định bằng văn bản của người sử dụng lao động.
+
+3.6.6. Khi công nhân điều khiển thiết
+bị nâng chuyển sang làm việc ở thiết bị nâng loại khác, phải được đào tạo lại
+phù hợp để điều khiển thiết bị mới. Công nhân điều khiển thiết bị nâng nghỉ việc
+theo nghề hơn 1 năm thì trước khi bố trí làm việc trở lại phải được kiểm tra lại
+kiến thức và thực tập một thời gian để phục hồi thói quen cần thiết.
+
+4. Kiểm định kỹ
+thuật an toàn và đăng ký sử dụng thiết bị nâng
+
+4.1. Thiết bị nâng trước khi đưa
+vào sử dụng phải được kiểm định lần đầu, kiểm định định kỳ trong suốt quá trình
+sử dụng, và kiểm định bất thường theo quy trình kiểm định do Bộ Lao động -
+Thương binh và Xã hội ban hành.
+
+Việc kiểm định kỹ thuật an toàn thiết
+bị nâng phải do tổ chức đánh giá sự phù hợp đã được Cục An toàn lao động, Bộ
+Lao động - Thương binh và Xã hội chỉ định theo trình tự luật định.
+
+4.2. Trong quá trình kiểm định, các
+tổ chức kiểm định và đơn vị quản lý sử dụng thiết bị nâng phải tuân thủ chặt chẽ
+các quy trình kỹ thuật an toàn thiết bị nâng do Bộ Lao động - Thương binh và Xã
+hội ban hành.
+
+4.3. Các thiết bị nâng sau khi kiểm
+định đạt yêu cầu phải được dán tem theo quy định.
+
+5. Thanh tra,
+kiểm tra và xử lý vi phạm
+
+5.1. Thanh tra và xử lý vi phạm
+trong việc thực hiện Quy chuẩn này do thanh tra nhà nước về lao động thực hiện.
+
+5.2. Việc kiểm tra chất lượng sản
+xuất, nhập khẩu, xuất khẩu, lưu thông và sử dụng thiết bị nâng được thực hiện
+theo Luật Chất lượng sản phẩm, hàng hóa.
+
+6. Trách nhiệm
+của các tổ chức, cá nhân
+
+6.1. Các tổ chức, cá nhân làm nhiệm
+vụ chế tạo, nhập khẩu, xuất khẩu, lưu thông, sửa chữa lắp đặt, quản lý và sử dụng
+thiết bị nâng có trách nhiệm tuân thủ các quy định tại Quy chuẩn này.
+
+6.2. Quy chuẩn này là căn cứ để các
+cơ quan kiểm tra chất lượng thiết bị nâng tiến hành việc kiểm tra và cũng là
+căn cứ để các tổ chức đánh giá sự phù hợp tiến hành chứng nhận hợp quy.
+
+7. Tổ chức thực
+hiện
+
+7.1. Cục An toàn lao động, Bộ Lao động
+- Thương binh và Xã hội có trách nhiệm hướng dẫn thi hành và kiểm tra việc thực
+hiện quy chuẩn này.
+
+7.2. Các cơ quan quản lý nhà nước về
+lao động địa phương có trách nhiệm hướng dẫn, thanh tra, kiểm tra việc thực hiện
+các quy định của Quy chuẩn này.
+
+7.3. Quy chuẩn này có hiệu lực sau
+6 tháng, kể từ ngày ký.
+
+7.4. Trong quá trình thực hiện, nếu
+có vướng mắc, các cơ quan, tổ chức, cá nhân có liên quan có trách nhiệm kịp thời
+phản ánh với Bộ Lao động - Thương binh và Xã hội để xem xét giải quyết./.--- THÔNG TIN THÊM ---
+Ten: Thông tư 05/2012/TT-BLĐTBXH về Quy chuẩn kỹ thuật quốc gia an toàn lao động đối với thiết bị nâng do Bộ Lao động - Thương binh và Xã hội ban hành
+So hieu: 05/2012/TT-BLĐTBXH
+Loai van ban: Thông tư
+Linh vuc nganh: Lao động - Tiền lương
+Noi ban hanh: Bộ Lao động – Thương binh và Xã hội
+Nguoi ky: Bùi Hồng Lĩnh
+Ngay ban hanh: 30/03/2012
+Ngay hieu luc: 01/10/2012
+Ngay dang: 14/04/2012
+So cong bao: Từ số 325 đến số 326
+Tinh trang: Còn hiệu lực
+
+
+--- MỤC LỤC ---
+- THÔNG TƯ BAN HÀNH QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ AN TOÀN LAO ĐỘNG ĐỐI VỚI THIẾT BỊ NÂNG
+  - Điều 1. Ban hành kèm theo Thông tư này Quy chuẩn kỹ thuật quốc gia về an toàn lao động đối với thiết bị nâng.
+  - Điều 2. Quy chuẩn kỹ thuật quốc gia về an toàn lao động đối với thiết bị nâng có hiệu lực sau 06 tháng kể từ ngày ký Thông tư này.
+  - Điều 3. Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành./.
+- QCVN 7: 2012/BLĐTBXH QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ AN TOÀN LAO ĐỘNG ĐỐI VỚI THIẾT BỊ NÂNG
+  - 1. Quy định chung
+  - 2. Quy định về kỹ thuật
+  - 3. Quy định về quản lý an toàn lao động trong chế tạo, nhập khẩu, lưu thông, lắp đặt và sử dụng thiết bị nâng.
+  - 4. Kiểm định kỹ thuật an toàn và đăng ký sử dụng thiết bị nâng
+  - 5. Thanh tra, kiểm tra và xử lý vi phạm
+  - 6. Trách nhiệm của các tổ chức, cá nhân
+  - 7. Tổ chức thực hiện
+
+--- VĂN BẢN LIÊN QUAN ---
+
+Van ban duoc dan chieu:
+  - Luật chất lượng sản phẩm, hàng hóa 2007 (ID: 59776)
+
+Van ban duoc can cu:
+  - Nghị định 132/2008/NĐ-CP Hướng dẫn Luật Chất lượng sản phẩm, hàng hóa (ID: 83467)
+  - Nghị định 186/2007/NĐ-CP quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Lao động - Thương... (ID: 60724)
+  - Nghị định 127/2007/NĐ-CP Hướng dẫn Luật Tiêu chuẩn và Quy chuẩn kỹ thuật (ID: 54148)
+
+Van ban lien quan ngon ngu:
+  - Circular No. 05/2012/TT-BLDTBXH dated 30 March 2012, on the issuance of the national technical regulation ... (ID: 301757)

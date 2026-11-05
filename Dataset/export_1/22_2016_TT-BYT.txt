@@ -1,0 +1,1602 @@
+BỘ Y TẾ
+
+ -------
+
+CỘNG HÒA XÃ HỘI
+ CHỦ NGHĨA VIỆT NAM
+
+ Độc lập - Tự do - Hạnh phúc 
+
+ ---------------
+
+Số: 22/2016/TT-BYT
+
+Hà Nội, ngày 30
+ tháng 06 năm 2016
+
+ 
+
+THÔNG TƯ
+
+QUY
+ĐỊNH QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ CHIẾU SÁNG - MỨC CHO PHÉP CHIẾU SÁNG NƠI
+LÀM VIỆC
+
+Căn cứ Luật an
+toàn, vệ sinh lao động số 84/2015/QH13 ngày 25 tháng 6 năm 2015;
+
+Căn cứ Luật tiêu
+chuẩn và quy chuẩn kỹ thuật số 68/2006/QH13 ngày 29 tháng 6 năm 2006;
+
+Căn cứ Nghị định số 127/2007/NĐ-CP
+ngày 01 tháng 8 năm 2007 của Chính phủ quy định chi Tiết thi hành một số Điều của
+Luật tiêu chuẩn và quy chuẩn kỹ thuật;
+
+Căn cứ Nghị định số 63/2012/NĐ-CP
+ngày 31/8/2012 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu
+tổ chức của Bộ Y tế;
+
+Theo đề nghị của
+Cục trưởng Cục Quản lý môi trường y tế;
+
+Bộ trưởng Bộ Y tế ban hành Thông tư quy định quy
+chuẩn kỹ thuật quốc gia chiếu sáng - Mức cho phép chiếu sáng nơi làm việc.
+
+Điều 1. Quy chuẩn kỹ thuật quốc
+gia về chiếu sáng
+
+Ban hành kèm theo Thông tư này QCVN 22/2016/BYT -
+Quy chuẩn kỹ thuật quốc gia về chiếu sáng - Mức cho phép chiếu sáng nơi làm việc.
+
+Điều 2. Hiệu lực thi hành
+
+Thông tư này có hiệu lực từ ngày 01 tháng 12 năm
+2016.
+
+Điều 3. Trách nhiệm thi hành
+
+Cục trưởng Cục Quản lý môi trường y tế, Vụ trưởng,
+Cục trưởng, Tổng cục trưởng các Vụ, Cục, Tổng cục thuộc Bộ Y tế, Thủ trưởng các
+cơ quan, đơn vị trực thuộc Bộ, Giám đốc Sở Y tế các tỉnh, thành phố trực thuộc
+trung ương và Thủ trưởng cơ quan y tế các Bộ, ngành chịu trách nhiệm thi hành Thông
+tư này./.
+
+ 
+
+Nơi nhận:
+
+- VPCP (Vụ KGVX, Công báo, Cổng TTĐT
+ CP);
+
+ - Các Bộ, cơ quan ngang Bộ, cơ quan thuộc CP;
+
+ - Bộ Tư pháp (Cục Kiểm tra VBQPPL);
+
+ - Bộ trưởng (để báo cáo);
+
+ - Các đơn vị thuộc Bộ Y tế;
+
+ - UBND các tỉnh, thành phố trực thuộc TW;
+
+ - Sở Y tế các tỉnh, thành phố trực thuộc TW;
+
+ - Trung tâm YTDP các tỉnh, thành phố trực thuộc TW;
+
+ - Trung tâm BVSKLĐ&MT các tỉnh, thành phố Thuộc TW;
+
+ - Tổng cục Tiêu chuẩn đo lường chất lượng
+ (để đăng bạ);
+
+ - Cổng thông tin điện tử Bộ Y tế;
+
+ - Lưu: VT, K2ĐT, PC, MT.
+
+KT. BỘ TRƯỞNG
+
+ THỨ TRƯỞNG
+
+ Nguyễn Thanh Long
+
+ 
+
+QCVN 22:2016/BYT
+
+QUY
+CHUẨN KỸ THUẬT QUỐC GIA VẾ CHIẾU SÁNG - MỨC CHO PHÉP CHIẾU SÁNG NƠI LÀM VIỆC
+
+National
+Technical Regulation on Lighting - Permissible Levels of Lighting in the
+Workplace
+
+Lời nói đầu
+
+QCVN 22:2016/BYT do Ban soạn thảo Quy chuẩn kỹ thuật
+quốc gia về vệ sinh lao động biên soạn. Cục Quản lý môi trường y tế trình duyệt
+và được ban hành theo Thông tư số 22/2016/TT-BYT ngày 20 tháng 6 năm 2016 của Bộ
+trưởng Bộ Y tế.
+
+ 
+
+QUY CHUẨN KỸ THUẬT
+QUỐC GIA VẾ CHIẾU SÁNG - MỨC CHO PHÉP CHIẾU SÁNG NƠI LÀM VIỆC 
+
+National
+Technical Regulation on Lighting - Permissible Levels of Lighting in the
+Workplace
+
+I. QUY ĐỊNH CHUNG
+
+1. Phạm vi Điều chỉnh
+
+Quy chuẩn này quy định mức cho phép chiếu sáng nơi
+làm việc trong nhà.
+
+2. Đối tượng áp dụng
+
+Quy chuẩn này áp dụng cho các cơ quan quản lý nhà
+nước về môi trường; các cá nhân, tổ chức thực hiện quan trắc môi trường lao động;
+các cá nhân, tổ chức có sử dụng lao động mà người lao động chịu ảnh hưởng của
+Điều kiện chiếu sáng trong môi trường lao động.
+
+3. Giải thích từ ngữ
+
+Trong quy chuẩn này, các từ ngữ dưới đây được hiểu
+như sau:
+
+3.1. Độ rọi hay độ chiếu sáng (illuminance): Là độ
+sáng của một vật được một chùm sáng chiếu vào, đơn vị là Lux. 1 Lux là độ sáng của một vật được một nguồn sáng ở cách xa 1m có
+quang thông bằng 1 Lumen chiếu trên diện tích bằng 1m2.
+
+3.2. Độ rọi duy trì (Em) (maintained
+illuminance): Độ rọi trung bình trên bề mặt quy định không được nhỏ hơn giá trị
+này.
+
+II. QUY ĐỊNH KỸ THUẬT
+
+1. Độ rọi duy trì tối thiểu với các loại hình công
+việc được quy định ở bảng sau:
+
+Bảng yêu cầu về độ rọi
+duy trì tối thiểu cho các phòng, khu vực làm việc
+
+Loại phòng,
+ công việc hoặc các hoạt động
+
+Em
+ (Lux)
+
+1. Khu vực chung trong nhà
+
+ 
+
+Tiền sảnh
+
+100
+
+Phòng đợi
+
+200
+
+Khu vực lưu thông và hành lang
+
+100
+
+Cầu thang (máy, bộ), thang cuốn
+
+150
+
+Căng tin
+
+150
+
+Phòng nghỉ
+
+100
+
+Phòng tập thể dục
+
+300
+
+Phòng gửi đồ,
+ phòng rửa mặt, phòng tắm, nhà vệ sinh
+
+200
+
+Phòng cho người bệnh
+
+500
+
+Phòng y tế
+
+500
+
+Phòng đặt tủ điện
+
+200
+
+Phòng thư báo, bảng điện
+
+500
+
+Nhà kho, kho lạnh
+
+100
+
+Khu vực đóng gói hàng gửi đi
+
+300
+
+Băng tải
+
+150
+
+Khu vực giá để hàng hóa
+
+150
+
+Khu vực kiểm tra
+
+150
+
+2. Hoạt động công nghiệp và
+ thủ công
+
+ 
+
+2.1. Công nghiệp sắt thép
+
+ 
+
+Máy móc sản xuất không yêu cầu thao tác bằng tay
+
+50
+
+Máy móc sản xuất đôi khi yêu cầu thao tác bằng
+ tay
+
+150
+
+Khu vực sản xuất thường xuyên thao tác bằng tay
+
+200
+
+Kho thép
+
+50
+
+Lò luyện
+
+200
+
+Máy cán, cuộn, cắt thép
+
+300
+
+Sàn Điều khiển và bảng Điều khiển
+
+300
+
+Thử nghiệm, đo đạc và kiểm tra
+
+500
+
+Đường hầm dưới sàn, băng tải, hầm chứa
+
+50
+
+2.2. Các lò đúc và xí nghiệp đúc kim loại
+
+ 
+
+Đường hầm dưới sàn, hầm chứa
+
+50
+
+Sàn thao tác
+
+100
+
+Chuẩn bị cát
+
+200
+
+Gọt giũa ba via
+
+200
+
+Sàn làm việc khu vực lò đúc và trạm trộn
+
+200
+
+Xưởng làm khuôn đúc
+
+200
+
+Khu vực dỡ khuôn
+
+200
+
+Đúc máy
+
+200
+
+Đổ khuôn bằng tay và đúc lõi
+
+300
+
+Đúc khuôn dập
+
+300
+
+Nhà làm mẫu
+
+500
+
+2.3. Công nghiệp cơ khí chế tạo
+
+ 
+
+Tháo khuôn phôi
+
+200
+
+Rèn, hàn, nguội
+
+300
+
+Gia công thô và chính xác trung bình: dung sai ≥
+ 0,1 mm
+
+300
+
+Gia công chính xác: dung sai<0,1mm
+
+500
+
+Vạch dấu, kiểm tra
+
+750
+
+Xưởng kéo dây, làm ống (nguội)
+
+300
+
+Gia công đĩa độ dày ≥5mm
+
+200
+
+Gia công thép tấm độ dày <5mm
+
+300
+
+Chế tạo dụng cụ, thiết bị cắt
+
+750
+
+Lắp ráp chi Tiết:
+
+ 
+
+- Thô
+
+200
+
+- Trung bình
+
+300
+
+- Nhỏ
+
+500
+
+- Chính xác
+
+750
+
+Mạ điện
+
+300
+
+Xử lý bề mặt và sơn
+
+750
+
+Chế tạo công cụ, khuôn mẫu, đồ gá lắp, cơ khí
+ chính xác và siêu nhỏ
+
+1000
+
+2.4. Công nghiệp chế tạo và sửa chữa ô tô
+
+ 
+
+Làm thân xe và lắp ráp
+
+500
+
+Sơn, buồng phun sơn, buồng đánh bóng
+
+750
+
+Sơn: sửa, kiểm tra
+
+1000
+
+Sản xuất ghế
+
+1000
+
+Kiểm tra hoàn thiện
+
+1000
+
+Dịch vụ ô tô, sửa chữa, kiểm tra
+
+300
+
+2.5. Nhà máy điện
+
+ 
+
+Trạm cấp nhiên liệu
+
+50
+
+Xưởng nồi hơi
+
+100
+
+Phòng máy
+
+200
+
+Các phòng phụ trợ, phòng máy bơm, phòng ngưng tụ,
+ bảng điện
+
+200
+
+Phòng Điều khiển
+
+500
+
+2.6. Công nghiệp điện
+
+ 
+
+Sản xuất cáp và dây điện
+
+300
+
+Quấn dây:
+
+ 
+
+- Cuộn dây lớn
+
+300
+
+- Cuộn dây trung bình
+
+500
+
+- Cuộn dây nhỏ
+
+750
+
+Nhúng cách điện
+
+300
+
+Mạ điện
+
+300
+
+Công việc lắp ráp:
+
+ 
+
+- Chi Tiết thô; ví dụ: biến thế lớn
+
+300
+
+- Chi Tiết trung bình; ví dụ: bảng điện
+
+500
+
+Chi Tiết nhỏ; ví dụ: điện thoại, đài radio, sản
+ phẩm kỹ thuật thông tin (máy vi tính)
+
+750
+
+- Chính xác; ví dụ: thiết bị đo lường, bảng mạch
+ in
+
+1000
+
+Xưởng điện tử, thử nghiệm, hiệu chỉnh
+
+1500
+
+2.7. Công nghiệp xi măng, bê tông, gạch
+
+ 
+
+Phơi sấy vật liệu
+
+50
+
+Chuẩn bị vật liệu, làm việc ở máy trộn, lò nung
+
+200
+
+Vận hành máy móc
+
+300
+
+Làm khuôn thô
+
+300
+
+2.8. Công nghiệp gốm, thủy tinh, tấm lợp
+
+ 
+
+Phơi sấy vật liệu
+
+50
+
+Chuẩn bị, vận hành máy móc
+
+300
+
+Tráng men, lăn, ép, tạo hình các chi Tiết đơn giản,
+ lắp kính, thổi thủy tinh
+
+300
+
+Mài, khắc, đánh bóng thủy tinh, tạo hình các chi
+ Tiết chính xác, chế tạo các dụng cụ thủy tinh
+
+750
+
+Mài kính quang học, mài và khắc pha lê bằng tay
+
+750
+
+Công việc chính xác; ví dụ: mài, vẽ, trang trí...
+
+1000
+
+Chế tác đá quý nhân tạo
+
+1500
+
+2.9. Công nghiệp hóa chất, chất dẻo và cao
+ su
+
+ 
+
+Lắp đặt quy trình sản xuất Điều khiển từ xa
+
+50
+
+Lắp đặt quy trình sản xuất với thao tác bằng tay
+
+150
+
+Công việc ổn định trong quy trình sản xuất
+
+300
+
+Phòng đo chính xác, phòng thí nghiệm
+
+500
+
+Sản xuất dược phẩm
+
+500
+
+Sản xuất lốp xe
+
+500
+
+Kiểm tra màu
+
+1000
+
+Cắt, sửa, kiểm tra
+
+750
+
+2.10. Công nghiệp giấy
+
+ 
+
+Bóc gỗ, máy nghiền bột giấy
+
+200
+
+Sản xuất giấy, máy gấp giấy, sản xuất bìa các
+ tông
+
+300
+
+Công việc đóng sách; ví dụ: gấp giấy, sắp xếp,
+ dán keo, xén, đóng bìa, khâu sách
+
+500
+
+2.11. Công nghiệp in
+
+ 
+
+Xén giấy, mạ vàng, chạm nổi, chế bản khắc chữ,
+ làm trên đá và tấm ấn giấy, máy in, làm ma trận (matrix)
+
+500
+
+Phân loại giấy và in bằng tay
+
+500
+
+Sắp chữ, sửa bản bông, in li tô
+
+1000
+
+Kiểm tra màu trong in nhiều màu
+
+1500
+
+Khắc bản thép và đồng
+
+2000
+
+2.12. Công nghiệp da
+
+ 
+
+Bể, thùng ngâm, hầm chứa da
+
+200
+
+Lọc, bào, chà, xát, giũ da
+
+300
+
+Làm yên ngựa, đóng giày, khâu, may, đánh bóng, tạo
+ phom, cắt, dập
+
+500
+
+Phân loại
+
+500
+
+Nhuộm da (máy nhuộm)
+
+500
+
+Kiểm tra chất lượng
+
+1000
+
+Kiểm tra màu
+
+1000
+
+Làm giày
+
+500
+
+Làm găng tay
+
+500
+
+2.13. Công nghiệp dệt
+
+ 
+
+Vị trí làm việc và vùng tháo dỡ kiện bông
+
+200
+
+Chải, giặt, là, máy xé bông, kéo sợi, ghép sợi
+ thô, hồ sợi, cắt, xe sợi thô, xe sợi đay và sợi gai
+
+300
+
+Xe sợi con, đánh ống, mắc khung cửi, dệt, tết sợi,
+ đan len
+
+500
+
+May, đan sợi nhỏ, thêu móc
+
+750
+
+Thiết kế bằng tay, vẽ
+ mẫu
+
+750
+
+Hoàn thiện, nhuộm
+
+500
+
+Phòng phơi sấy
+
+100
+
+In vải tự động
+
+500
+
+Gỡ nút sợi, chỉnh sửa
+
+1000
+
+Kiểm tra màu, kiểm tra vải
+
+1000
+
+Sửa lỗi
+
+1500
+
+May mũ
+
+500
+
+2.14. Công nghiệp sản xuất đồ gỗ
+
+ 
+
+Quy trình tự
+ động; ví dụ: sấy khô, sản xuất gỗ dán
+
+50
+
+Hầm xông hơi
+
+150
+
+Xưởng cưa
+
+300
+
+Làm trên bàn mộc, gắn keo, lắp ghép
+
+300
+
+Đánh bóng, sơn, làm đồ mộc tinh xảo
+
+750
+
+Làm việc trên các máy gia công gỗ; ví dụ: bào,
+ soi, gọt đẽo, làm rãnh ghép ván, cắt, cưa, đục, khoan
+
+500
+
+Chọn gỗ bọc, dát gỗ, chạm, khảm
+
+750
+
+Kiểm tra chất lượng
+
+1000
+
+2.15. Công nghiệp thực phẩm
+
+ 
+
+Vị trí làm việc và vùng làm việc trong:
+
+ 
+
+- Nhà máy bia, xưởng mạch nha
+
+200
+
+- Rửa, đóng thùng, làm sạch, sàng lọc, bóc vỏ
+
+200
+
+- Nơi nấu trong nhà máy làm mứt và sôcôla
+
+200
+
+- Vùng làm việc và nơi làm việc trong nhà máy đường
+
+200
+
+- Sấy khô, ủ men thuốc lá thô, lên men
+
+200
+
+Phân loại và rửa sản phẩm, nghiền, trộn, đóng gói
+
+300
+
+Nơi làm việc và vùng giới hạn trong nhà giết mổ,
+ cửa hàng thịt, nhà máy sản xuất bơ sữa, trên sàn lọc, ở nơi tinh chế đường
+
+500
+
+Cắt và phân loại rau quả
+
+300
+
+Chế biến thức ăn sẵn, công việc nhà bếp
+
+500
+
+Sản xuất xì gà và thuốc lá
+
+500
+
+Kiểm tra thủy tinh và chai lọ, kiểm tra sản phẩm,
+ chỉnh sửa, trang trí
+
+500
+
+Phòng thí nghiệm
+
+500
+
+Kiểm tra màu
+
+1000
+
+2.16. Làm bánh
+
+ 
+
+Chuẩn bị và nướng bánh
+
+300
+
+Sửa sang, đóng hộp, trang trí
+
+500
+
+2.17. Nông nghiệp
+
+ 
+
+Bốc xếp hàng hóa, sử dụng thiết bị và máy móc
+
+200
+
+Nhà chăn nuôi súc vật
+
+50
+
+Nơi nhốt súc vật ốm, chuồng cho súc vật đẻ
+
+200
+
+Chuẩn bị thức ăn, nơi trữ và sản xuất bơ sữa, rửa
+ dụng cụ
+
+200
+
+2.18. Chế tác đồ trang sức
+
+ 
+
+Chế tác đá quý
+
+1500
+
+Chế tác đồ trang sức
+
+1000
+
+Làm đồng hồ (bằng tay)
+
+1500
+
+Làm đồng hồ (tự động)
+
+500
+
+2.19. Hiệu làm đầu
+
+ 
+
+Làm tóc
+
+500
+
+2.20. Xưởng giặt là và giặt khô
+
+ 
+
+Nhận hàng hóa, đánh dấu và phân loại
+
+300
+
+Giặt và giặt khô
+
+300
+
+Là, ép
+
+300
+
+Kiểm tra và chỉnh sửa
+
+750
+
+2.21. Cửa hàng bán lẻ
+
+ 
+
+Khu vực bán hàng
+
+300
+
+Khu thu ngân
+
+500
+
+Bàn đóng gói hàng
+
+500
+
+2.22. Văn phòng, công sở
+
+ 
+
+Các phòng làm việc chung, phòng hồ sơ, photocopy
+
+300
+
+Phòng đánh máy, xử lý dữ liệu
+
+500
+
+Phòng vẽ kỹ thuật
+
+750
+
+Thiết kế vi tính
+
+500
+
+Phòng họp, hội nghị
+
+300
+
+Bàn tiếp dân
+
+300
+
+Phòng lưu trữ
+
+200
+
+3. Khu vực công cộng
+
+ 
+
+3.1. Khu vực chung
+
+ 
+
+Lối vào, tiền sảnh
+
+100
+
+Phòng gửi đồ
+
+200
+
+Phòng đợi
+
+200
+
+Phòng bán vé
+
+300
+
+3.2. Nhà hàng, khách sạn
+
+ 
+
+Bàn tiếp tân, thu ngân, bàn ký gửi hành lý
+
+300
+
+Nhà bếp
+
+300
+
+Nhà hàng, phòng ăn, phòng chức năng
+
+200
+
+Nhà hàng tự phục vụ
+
+200
+
+Búp phê (Buffets)
+
+300
+
+Phòng họp
+
+300
+
+Hành lang
+
+100
+
+3.3. Nhà hát, phòng hòa nhạc, rạp chiếu
+ phim
+
+ 
+
+Phòng tập, phòng thay trang phục
+
+300
+
+Bảo trì, làm vệ sinh khu vực ghế ngồi
+
+200
+
+Xây dựng, lắp ráp sân khấu
+
+300
+
+3.4. Hội chợ thương mại, phòng triển lãm
+
+ 
+
+Chiếu sáng chung
+
+300
+
+3.5. Thư viện
+
+ 
+
+Giá sách
+
+200
+
+Phòng đọc
+
+500
+
+Quầy thu ngân, nhận sách
+
+300
+
+3.6. Nơi để xe công cộng (trong nhà)
+
+ 
+
+Đường dốc ra/vào (ban ngày)
+
+300
+
+Đường dốc ra/vào (ban đêm)
+
+75
+
+Đường lưu thông
+
+75
+
+Khu vực đỗ xe
+
+75
+
+Phòng vé
+
+300
+
+4. Nhà trường
+
+ 
+
+4.1. Nhà trẻ, mẫu giáo
+
+ 
+
+Phòng chơi
+
+300
+
+Phòng chăm sóc trẻ
+
+300
+
+Phòng học thủ công
+
+300
+
+4.2. Trường học
+
+ 
+
+Giảng đường, lớp học, phòng học
+
+300
+
+Bảng đen, bảng xanh treo tường, bảng trắng
+
+500
+
+Bàn trình diễn
+
+500
+
+Phòng học mỹ thuật
+
+500
+
+Phòng học mỹ thuật trong các trường mỹ thuật
+
+750
+
+Phòng học vẽ kỹ thuật
+
+750
+
+Phòng thực hành và thí nghiệm
+
+500
+
+Xưởng dạy nghề, phòng thủ công
+
+500
+
+Phòng thực hành âm nhạc
+
+300
+
+Phòng thực hành máy tính
+
+300
+
+Phòng chuẩn bị và xưởng thực nghiệm
+
+300
+
+Khu vực lưu thông, hành lang
+
+100
+
+Cầu thang
+
+150
+
+Phòng học chung của sinh viên và phòng họp của Hội
+ đồng nhà trường
+
+200
+
+Phòng giáo viên
+
+300
+
+Thư viện: Giá sách
+
+200
+
+Thư viện: Phòng đọc
+
+500
+
+Kho chứa dụng cụ giảng dạy
+
+100
+
+Phòng thể thao, thể dục, bể bơi (sử dụng chung)
+
+300
+
+Căng tin nhà trường
+
+150
+
+Nhà bếp
+
+300
+
+5. Cơ sở chăm sóc sức khỏe
+
+ 
+
+5.1. Các phòng sử dụng chung
+
+ 
+
+Hành lang: ban ngày
+
+100
+
+Hành lang: làm vệ sinh
+
+100
+
+Hành lang: ban đêm
+
+50
+
+Hành lang: sử dụng cho nhiều Mục đích
+
+200
+
+Cầu thang máy cho người
+
+100
+
+Cầu thang máy phục vụ (chuyển máy móc, thiết bị,
+ dụng cụ)
+
+200
+
+Phòng đợi
+
+200
+
+Phòng trực
+
+200
+
+Phòng tắm và vệ sinh của bệnh nhân
+
+200
+
+5.2. Phòng nhân viên
+
+ 
+
+Phòng hành chính
+
+300
+
+Phòng nhân viên
+
+300
+
+5.3. Phòng khám phụ sản
+
+ 
+
+Chiếu sáng chung
+
+300
+
+Khám thông thường
+
+500
+
+Khám và Điều trị
+
+1000
+
+5.4. Phòng khám chung
+
+ 
+
+Chiếu sáng chung
+
+300
+
+Khám và Điều trị
+
+1000
+
+5.5. Phòng khám mắt
+
+ 
+
+Chiếu sáng chung
+
+300
+
+Khám mắt
+
+1000
+
+Kiểm tra thị lực và sắc giác bằng các biểu đồ
+
+500
+
+5.6. Phòng khám tai
+
+ 
+
+Chiếu sáng chung
+
+300
+
+Khám tai
+
+1000
+
+5.7. Phòng chẩn đoán hình ảnh (Scanner)
+
+ 
+
+Chiếu sáng chung
+
+300
+
+Máy chụp cắt lớp có phóng đại hình ảnh và các hệ
+ thống ti vi
+
+50
+
+5.8. Phòng đẻ
+
+ 
+
+Chiếu sáng chung
+
+300
+
+Khám và Điều trị
+
+1000
+
+5.9. Phòng Điều trị (chung)
+
+ 
+
+Phòng chạy thận nhân tạo
+
+500
+
+Phòng da liễu
+
+500
+
+Phòng nội soi
+
+300
+
+Phòng bó bột
+
+500
+
+Phòng tắm trị liệu
+
+300
+
+Phòng mát xa và xạ trị
+
+300
+
+5.10. Khu phẫu thuật
+
+ 
+
+Phòng tiền phẫu thuật và hậu phẫu
+
+500
+
+Phòng phẫu thuật
+
+1000
+
+5.11. Phòng Điều trị tích cực
+
+ 
+
+Chiếu sáng chung
+
+100
+
+Khám thông thường
+
+300
+
+Khám và Điều trị
+
+1000
+
+Chiếu sáng trực đêm
+
+20
+
+5.12. Phòng khám, chữa răng
+
+ 
+
+Chiếu sáng chung
+
+500
+
+Chỗ bệnh nhân
+
+1000
+
+5.13. Các phòng thí nghiệm và phòng dược
+
+ 
+
+Chiếu sáng chung
+
+500
+
+Kiểm tra màu
+
+1000
+
+5.14. Phòng tiệt trùng
+
+ 
+
+Phòng tiệt trùng, tẩy uế
+
+300
+
+5.15. Phòng mổ tử thi và nhà xác
+
+ 
+
+Chiếu sáng chung
+
+500
+
+Bàn mổ tử thi và bàn giải phẫu
+
+5000
+
+6. Cảng hàng không
+
+ 
+
+Phòng đi và đến, khu nhận hành lý
+
+200
+
+Khu chuyển tiếp, băng chuyền
+
+150
+
+Bàn thông tin, bàn đăng ký bay
+
+500
+
+Hải quan và bàn kiểm tra hộ chiếu
+
+500
+
+Khu vực đợi vào cửa
+
+200
+
+Phòng lưu giữ hành lý
+
+200
+
+Khu kiểm tra an ninh
+
+300
+
+Trạm kiểm soát không lưu
+
+500
+
+Nhà chứa máy bay để kiểm tra và sửa chữa
+
+500
+
+Khu vực thử nghiệm động cơ
+
+500
+
+Khu vực đo kiểm trong nhà chứa máy bay
+
+500
+
+Bậc lên xuống và đường ngầm cho hành khách
+
+50
+
+Phòng làm thủ tục và phòng chờ
+
+200
+
+Phòng mua vé gửi hành lý và thu tiền
+
+300
+
+Phòng đợi lên máy bay
+
+200
+
+2. Độ rọi duy trì tối đa với các loại hình công việc
+không vượt quá 10.000 Lux.
+
+III. PHƯƠNG PHÁP XÁC ĐỊNH
+
+Xác định chiếu sáng theo TCVN 5176:1990 Chiếu sáng nhân tạo - Phương pháp
+đo độ rọi.
+
+IV. QUY ĐỊNH QUẢN LÝ
+
+1. Cơ sở có người lao động chịu ảnh hưởng của Điều kiện chiếu sáng nơi làm việc
+phải định kỳ đo đạc, đánh giá cường độ chiếu sáng tối thiểu 1 lần/năm và theo
+các quy định của Bộ luật lao động, Luật an toàn, vệ sinh động.
+
+2. Nếu chiếu sáng nơi làm việc không đạt mức cho
+phép, người sử dụng lao động phải thực hiện ngay các giải pháp cải thiện đảm bảo
+vệ sinh chiếu sáng và bảo vệ sức khỏe người lao động.
+
+V. TỔ CHỨC THỰC HIỆN
+
+1. Quy chuẩn này áp dụng thay thế cho Tiêu chuẩn
+chiếu sáng trong Tiêu chuẩn vệ sinh lao động ban hành theo Quyết định số 3733/2002/QĐ-BYT của Bộ trưởng Bộ Y tế ngày
+10/10/2002.
+
+2. Cục Quản lý môi trường y tế - Bộ Y tế chủ trì,
+phối hợp với các cơ quan chức năng có liên quan hướng dẫn, triển khai và tổ chức
+việc thực hiện quy chuẩn này.
+
+3. Căn cứ thực tiễn yêu cầu quản lý, Cục Quản lý
+môi trường y tế có trách nhiệm kiến nghị Bộ Y tế sửa đổi, bổ sung cho phù hợp.
+
+4. Trong trường hợp các tiêu chuẩn quốc gia về chiếu
+sáng được viện dẫn trong quy chuẩn này sửa đổi, bổ sung hoặc thay thế thì áp dụng
+theo tiêu chuẩn mới.--- THÔNG TIN THÊM ---
+Ten: Thông tư 22/2016/TT-BYT Quy định Quy chuẩn kỹ thuật quốc gia về chiếu sáng - Mức cho phép chiếu sáng nơi làm việc do Bộ trưởng Bộ Y tế ban hành
+So hieu: 22/2016/TT-BYT
+Loai van ban: Thông tư
+Linh vuc nganh: Lao động - Tiền lương, Thể thao - Y tế
+Noi ban hanh: Bộ Y tế
+Nguoi ky: Nguyễn Thanh Long
+Ngay ban hanh: 30/06/2016
+Ngay hieu luc: 01/12/2016
+Ngay dang: 02/09/2016
+So cong bao: Từ số 901 đến số 902
+Tinh trang: Còn hiệu lực
+
+
+--- MỤC LỤC ---
+- THÔNG TƯ QUY ĐỊNH QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ CHIẾU SÁNG - MỨC CHO PHÉP CHIẾU SÁNG NƠI LÀM VIỆC
+  - Điều 1. Quy chuẩn kỹ thuật quốc gia về chiếu sáng
+  - Điều 2. Hiệu lực thi hành
+  - Điều 3. Trách nhiệm thi hành
+- QCVN 22:2016/BYT QUY CHUẨN KỸ THUẬT QUỐC GIA VẾ CHIẾU SÁNG - MỨC CHO PHÉP CHIẾU SÁNG NƠI LÀM VIỆC
+  - I. QUY ĐỊNH CHUNG
+  - II. QUY ĐỊNH KỸ THUẬT
+    - 1. Khu vực chung trong nhà
+    - 2. Hoạt động công nghiệp và thủ công
+    - 3. Khu vực công cộng
+    - 4. Nhà trường
+    - 5. Cơ sở chăm sóc sức khỏe
+    - 6. Cảng hàng không
+  - III. PHƯƠNG PHÁP XÁC ĐỊNH
+  - IV. QUY ĐỊNH QUẢN LÝ
+  - V. TỔ CHỨC THỰC HIỆN
+
+--- VĂN BẢN LIÊN QUAN ---
+
+Van ban bi sua doi bo sung:
+  - Quyết định 3733/2002/QĐ-BYT về 21 tiêu chuẩn vệ sinh lao động, 05 nguyên tắc và 07 thông số vệ sinh lao ... (ID: 70480)
+
+Van ban duoc dan chieu:
+  - Bộ Luật lao động 2012 (ID: 142187)
+
+Van ban duoc can cu:
+  - Luật an toàn, vệ sinh lao động 2015 (ID: 281961)
+  - Nghị định 63/2012/NĐ-CP quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Y tế (ID: 146851)
+  - Nghị định 127/2007/NĐ-CP Hướng dẫn Luật Tiêu chuẩn và Quy chuẩn kỹ thuật (ID: 54148)
+  - Luật Tiêu chuẩn và quy chuẩn kỹ thuật 2006 (ID: 12979)
+
+Van ban lien quan ngon ngu:
+  - Circular No. 22/2016/TT-BYT dated June 30, 2016
+National technical regulation on lighting - Permissible ... (ID: 396527)
+
+Van ban lien quan cung noi dung:
+  - Thông tư 08/2019/TT-BKHCN về "Quy chuẩn kỹ thuật quốc gia về sản phẩm chiếu sáng bằng công nghệ LED" do Bộ trưởng Bộ Khoa học và Công nghệ ban hành (ID: 428028)
+  - Thông tư 23/2016/TT-BYT Quy định Quy chuẩn kỹ thuật quốc gia về bức xạ tử ngoại - Mức tiếp xúc cho phép bức xạ tử ngoại tại nơi làm việc do Bộ trưởng Bộ Y tế ban hành (ID: 318343)
+  - Thông tư 24/2016/TT-BYT Quy định Quy chuẩn kỹ thuật quốc gia về tiếng ồn - Mức tiếp xúc cho phép tiếng ồn tại nơi làm việc do Bộ trưởng Bộ Y tế ban hành (ID: 318344)
+  - Thông tư 25/2016/TT-BYT Quy định Quy chuẩn kỹ thuật quốc gia về điện từ trường tần số công nghiệp - Mức tiếp xúc cho phép điện từ trường tần số công nghiệp tại nơi làm việc do Bộ trưởng Bộ Y tế (ID: 318345)

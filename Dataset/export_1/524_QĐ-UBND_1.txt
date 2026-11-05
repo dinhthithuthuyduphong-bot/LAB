@@ -1,0 +1,704 @@
+ỦY BAN NHÂN DÂN
+ 
+
+ TỈNH VĨNH LONG
+
+ -------
+
+CỘNG HÒA XÃ HỘI
+ CHỦ NGHĨA VIỆT NAM
+
+ Độc lập - Tự do - Hạnh phúc 
+
+ ---------------
+
+Số: 524/QĐ-UBND
+
+Vĩnh Long, ngày
+ 08 tháng 4 năm 2015 
+
+ 
+
+QUYẾT ĐỊNH
+
+VỀ VIỆC BAN HÀNH KẾ HOẠCH ĐÀO TẠO VÀ PHÁT TRIỂN NGUỒN NHÂN LỰC
+AN TOÀN, AN NINH THÔNG TIN CHO CÁN BỘ, CÔNG CHỨC, VIÊN CHỨC TỈNH VĨNH LONG GIAI
+ĐOẠN 2015 - 2020
+
+CHỦ TỊCH ỦY BAN NHÂN DÂN TỈNH VĨNH LONG
+
+Căn cứ Luật Tổ chức Hội đồng
+nhân dân và Ủy ban nhân dân ngày 26/11/2003;
+
+Căn cứ Luật Công nghệ thông
+tin, ngày 29/6/2006;
+
+Căn cứ Nghị định số
+64/2007/NĐ-CP, ngày 10/4/2007 của Chính phủ về việc ứng dụng công nghệ thông
+tin trong hoạt động của cơ quan nhà nước;
+
+Căn cứ Quyết định số
+1605/QĐ-TTg, ngày 27/8/2010 của Thủ tướng Chính phủ phê duyệt Chương trình quốc
+gia về ứng dụng công nghệ thông tin trong hoạt động của cơ quan nhà nước giai
+đoạn 2011 - 2015;
+
+Căn cứ Quyết định số
+99/QĐ-TTg, ngày 14/01/2014 của Thủ tướng Chính phủ về phê duyệt Đề án Đào tạo
+và phát triển nguồn nhân lực an toàn, an ninh thông tin đến năm 2020;
+
+Xét Tờ trình số
+01/TTr-STTTT, ngày 19/01/2015 của Giám đốc Sở Thông tin và Truyền thông,
+
+QUYẾT ĐỊNH:
+
+Điều 1.
+Ban hành kèm theo Quyết định này “Kế hoạch đào tạo và
+phát triển nguồn nhân lực an toàn, an ninh thông tin cho cán bộ, công chức,
+viên chức tỉnh Vĩnh Long giai đoạn 2015 - 2020”.
+
+(Kèm “Kế hoạch đào tạo và phát
+triển nguồn nhân lực an toàn, an ninh thông tin cho cán bộ, công chức, viên chức
+tỉnh Vĩnh Long giai đoạn 2015 - 2020”).
+
+Điều 2.
+Giao Giám đốc Sở Thông tin và Truyền thông tổ chức
+triển khai thực hiện theo đúng nội dung Kế hoạch nêu trên.
+
+Điều 3.
+Chánh Văn phòng UBND tỉnh, Giám đốc Sở Thông tin và
+Truyền thông, Giám đốc Sở Kế hoạch và Đầu tư, Giám đốc Sở Tài chính, Giám đốc Sở
+Nội vụ, thủ trưởng các sở, ban, ngành, tổ chức, đoàn thể có liên quan và Chủ tịch
+UBND các huyện, thị xã, thành phố chịu trách nhiệm thi hành quyết định.
+
+Quyết định có hiệu lực thi hành
+kể từ ngày ký./.
+
+ 
+
+ 
+
+KT. CHỦ TỊCH 
+
+ PHÓ CHỦ TỊCH
+
+ Nguyễn Văn Thanh
+
+ 
+
+KẾ HOẠCH
+
+ĐÀO TẠO VÀ PHÁT TRIỂN NGUỒN NHÂN LỰC AN TOÀN, AN NINH THÔNG
+TIN CHO CÁN BỘ, CÔNG CHỨC, VIÊN CHỨC TỈNH VĨNH LONG GIAI ĐOẠN 2015 - 2020
+
+(Ban hành kèm theo Quyết định số 524/QĐ-UBND, ngày 08/4/2015 của Chủ tịch Ủy
+ban nhân dân tỉnh Vĩnh Long)
+
+I. MỤC ĐÍCH,
+YÊU CẦU:
+
+- Đào tạo và phát triển đội ngũ
+nhân lực an toàn, an ninh thông tin (ATANTT) nhằm làm chủ không gian mạng, góp
+phần bảo đảm ATANTT và phòng, chống, giải quyết kịp thời các vấn đề về ATANTT
+trên địa bàn tỉnh; thực hiện thành công chính quyền điện tử tỉnh Vĩnh Long bằng
+nhiều hình thức đào tạo ngắn hạn cập nhật, nâng cao kiến thức, kỹ năng và đào tạo
+chính quy dài hạn.
+
+- Nâng cao trách nhiệm của các
+Sở, ban, ngành, tổ chức, đoàn thể, UBND các huyện, thị xã, thành phố và các đơn
+vị có liên quan trong việc quan tâm công tác đào tạo phát triển nguồn nhân lực
+ATANTT đến giai đoạn 2015 - 2020.
+
+II. MỤC
+TIÊU:
+
+1. Mục tiêu tổng quát:
+
+Đào tạo và phát triển đội ngũ
+nhân lực ATANTT đến năm 2020 tỉnh Vĩnh Long theo hướng: Hình thành đội ngũ
+ATANTT đủ năng lực, trình độ đáp ứng yêu cầu của các đơn vị về bảo đảm ATANTT;
+thu hút được đội ngũ nhân lực ATANTT chất lượng cao theo chuẩn quốc gia; tăng
+cường khả năng phòng, chống các nguy cơ tấn công, xâm nhập hệ thống thông tin
+trọng yếu của tỉnh và ngăn chặn, khắc phục kịp thời các sự cố ATANTT trên mạng
+máy tính.
+
+2. Mục tiêu đến năm 2020:
+
+- Đào tạo ngắn hạn trong nước
+nhằm nâng cao kiến thức, kỹ năng về ATANTT trong nước cho 540 lượt cán bộ làm về
+công nghệ thông tin (CNTT) tại các cơ quan nhà nước. Đưa được 60 lượt cán bộ
+tham gia các khoá đào tạo lấy chứng chỉ quốc tế về ATANTT trong nước;
+
+- Đưa được 22 chuyên gia ATANTT
+đi đào tạo ngắn hạn nâng cao, cập nhật công nghệ, kỹ năng, nghiệp vụ tại các cơ
+sở đào tạo có uy tín ở nước ngoài;
+
+- Đưa được 04 cán bộ, công chức,
+viên chức tham gia các lớp đào tạo trình độ thạc sĩ, tiến sĩ về ATANTT ở nước
+ngoài (ưu tiên dành chỉ tiêu học bổng từ các chương trình đào tạo ở nước ngoài)
+và trong nước;
+
+- Đào tạo cấp bằng hai ATANTT
+cho 05 cán bộ, công chức, viên chức đã tốt nghiệp đại học ngành CNTT hoặc Điện
+tử Viễn thông;
+
+- Đưa ít nhất 10 chuyên gia có
+đủ năng lực và trình độ để quản lý, phát triển và bảo đảm ATANTT mạng CNTT của
+tỉnh;
+
+- Hàng năm tổ chức 01 hội thảo
+về ATANTT nhằm tuyên truyền nâng cao nhận thức của các cấp, các ngành, về vai
+trò của đảm bảo ATANTT.
+
+- Khuyến khích các tổ chức,
+doanh nghiệp, cá nhân tham gia các khoá đào tạo về ATANTT.
+
+III. NỘI
+DUNG THỰC HIỆN:
+
+1. Đào tạo ngắn hạn về ATANTT
+trong nước:
+
+a) Mục tiêu:
+
+- Đến năm 2015: Đào tạo ngắn hạn
+nâng cao kiến thức, kỹ năng về ATANTT cho 95 lượt cán bộ làm về ATANTT, CNTT tại
+các cơ quan nhà nước, trong đó đào tạo ngắn hạn về kỹ thuật ATANTT cho 60 lượt
+cán bộ; đào tạo về quản lý ATANTT cho 30 lượt cán bộ; cử 05 lượt cán bộ tham
+gia các khoá đào tạo lấy chứng chỉ quốc tế về ATANTT trong nước.
+
+- Đến năm 2020: Đào tạo ngắn hạn
+nâng cao kiến thức, kỹ năng về ATANTT cho 500 lượt cán bộ làm về CNTT tại các
+cơ quan nhà nước, trong đó đào tạo ngắn hạn về kỹ thuật ATANTT cho 300 lượt cán
+bộ; đào tạo về quản lý ATANTT cho 150 lượt cán bộ; cử 50 lượt cán bộ tham gia
+các khoá đào tạo lấy chứng chỉ quốc tế về ATANTT trong nước.
+
+b) Phương thức thực hiện:
+
+Sở Thông tin và Truyền thông chủ
+trì tổ chức lựa chọn các đơn vị đào tạo có năng lực để triển khai các khoá đào
+tạo ngắn hạn. Tham mưu Chủ tịch UBND tỉnh cử các cán bộ tham gia các khoá đào tạo
+theo chứng chỉ quốc tế về ATANTT hoặc cử cán bộ tham gia đào tạo theo yêu cầu của
+Bộ Thông tin và Truyền thông.
+
+2. Đào tạo ngắn hạn về
+ATANTT ngoài nước:
+
+a) Mục tiêu:
+
+- Đến năm 2015: Cử 02 chuyên
+gia ATANTT đi đào tạo ngắn hạn nâng cao, cập nhật công nghệ, kỹ năng, nghiệp vụ
+tại các cơ sở đào tạo có uy tín ở nước ngoài.
+
+- Đến năm 2020: Cử 20 chuyên
+gia ATANTT đi đào tạo ngắn hạn nâng cao, cập nhật công nghệ, kỹ năng, nghiệp vụ
+tại các cơ sở đào tạo có uy tín ở nước ngoài.
+
+b) Phương thức thực hiện:
+
+- Sở Thông tin và Truyền thông
+chủ trì, phối hợp Sở Nội vụ lựa chọn cán bộ phụ trách về ATANTT đáp ứng các điều
+kiện về trình độ chuyên môn, ngoại ngữ và kinh nghiệm làm việc để lập danh sách
+trình Chủ tịch UBND tỉnh cử đi đào tạo ngắn hạn ở nước ngoài theo tiêu chí, tuyển
+chọn của Bộ Thông tin Truyền thông và các cơ quan có liên quan.
+
+3. Đào tạo trình độ thạc sĩ,
+tiến sĩ về ATANTT ở nước ngoài (ưu tiên dành chỉ tiêu học bổng từ các chương
+trình đào tạo ở nước ngoài) và trong nước:
+
+a) Mục tiêu:
+
+- Đến năm 2020: Cử 04 cán bộ,
+công chức, viên chức tham gia các lớp đào tạo trình độ thạc sĩ, tiến sĩ về
+ATANTT ở nước ngoài (ưu tiên dành chỉ tiêu học bổng từ các chương trình đào tạo
+ở nước ngoài) và trong nước.
+
+b) Phương thức thực hiện:
+
+- Sở Thông tin và Truyền thông
+chủ trì phối hợp với Sở Nội vụ, Sở Tài chính lựa chọn cán bộ phụ trách về
+ATANTT đáp ứng các điều kiện về trình độ chuyên môn, ngoại ngữ và kinh nghiệm
+làm việc để lập danh sách trình Chủ tịch UBND tỉnh cử đi đào tạo thạc sĩ, tiến
+sĩ trong và ngoài nước theo tiêu chí, tuyển chọn của Bộ Thông tin và Truyền
+thông và các cơ quan có liên quan.
+
+4. Đào tạo kỹ sư, cử nhân
+ATANTT chất lượng cao tại các cơ sở đào tạo trọng điểm về ATANTT trong nước.
+
+Mục tiêu: Đến năm 2020, đào tạo
+chuyển đổi cấp bằng hai kỹ sư, cử nhân ATANTT cho 06 đối tượng đã tốt nghiệp đại
+học ngành CNTT và Điện tử viễn thông.
+
+5. Đào tạo chuyên gia
+ATANTT:
+
+Mục tiêu đến năm 2015: Đào tạo
+ít nhất 01 chuyên gia và đến năm 2020 đào tạo 10 chuyên gia đáp ứng yêu cầu
+sau:
+
+- Đào tạo đội ngũ chuyên gia có
+đủ năng lực và trình độ để quản lý, phát triển và bảo đảm ATANTT cho các hoạt động
+cơ yếu trên các mạng CNTT của tỉnh.
+
+- Đào tạo đội ngũ chuyên gia
+trình độ cao có chứng chỉ quốc gia, quốc tế, đáp ứng yêu cầu thiết kế, giám sát
+an ninh cho các hệ thống an toàn, an ninh trong tỉnh.
+
+- Nâng cao năng lực quản lý, phối
+hợp của các chuyên gia an ninh, an toàn thông tin ngành Cơ yếu với các cơ quan
+An ninh Quốc phòng, các tổ chức Đảng và UBND tỉnh trong việc bảo đảm an toàn,
+an ninh của tỉnh.
+
+6. Tổ chức Hội thảo về
+ATANTT:
+
+Hàng năm tổ chức Hội thảo nhằm
+tuyên truyền nâng cao nhận thức của các cấp, các ngành về vai trò của đảm bảo
+ATANTT.
+
+IV. CÁC GIẢI
+PHÁP THỰC HIỆN:
+
+1. Đẩy mạnh công tác tuyên
+truyền, nâng cao nhận thức về phát triển nhân lực ATANTT:
+
+- Tổ chức phổ biến sâu rộng nội
+dung Kế hoạch phát triển nhân lực ATANTT tỉnh Vĩnh Long giai đoạn 2015 - 2020 tới
+các ban, ngành, đoàn thể, các huyện, thị xã, thành phố.
+
+- Đăng tải trên các trang thông
+tin điện tử, các phương tiện thông tin đại chúng để tuyên truyền tới toàn thể
+cán bộ, nhân dân và doanh nghiệp trên địa bàn tỉnh, nhằm nâng cao nhận thức, ý
+thức, trách nhiệm tạo sự đồng thuận xã hội và thống nhất cao trong quá trình tổ
+chức thực hiện kế hoạch.
+
+2. Tăng cường sự lãnh đạo,
+chỉ đạo của các cấp, các ngành đến phát triển nhân lực:
+
+Các cấp ủy Đảng, chính quyền cần
+nhận thức rõ và xác định đào tạo, phát triển nhân lực ATANTT vừa là chiến lược
+lâu dài, vừa là biện pháp trước mắt đảm bảo đủ nhân lực đáp ứng yêu cầu về bảo
+đảm ATANTT trong các cơ quan nhà nước trên địa bàn tỉnh.
+
+3. Xây dựng và hoàn thiện hệ
+thống chính sách đầu tư và công cụ khuyến khích thúc đẩy phát triển nhân lực
+ATANTT:
+
+Xây dựng, ban hành cơ chế ưu
+đãi nhằm thu hút các chuyên gia CNTT và ATANTT giỏi làm việc cho các cơ quan
+nhà nước; nghiên cứu, đề xuất việc áp dụng mức lương, phụ cấp đối với cán bộ, công
+chức, viên chức chuyên trách về ATANTT tại các cơ quan, tổ chức nhà nước; ưu
+tiên cử cán bộ chuyên trách về ATANTT tham gia các chương trình đào tạo ATANTT
+trong và ngoài nước.
+
+4. Mở rộng, tăng cường phối
+hợp và hợp tác để phát triển nhân lực:
+
+- Tăng cường hợp tác đào tạo bằng
+các hình thức hợp tác, liên kết, liên thông trong công tác đào tạo nhân lực
+ATANTT;
+
+- Tăng cường hợp tác, chương
+trình liên kết với các tổ chức trong và ngoài nước triển khai các chương trình,
+dự án để hỗ trợ các cơ quan, tổ chức xây dựng, áp dụng các quy trình bảo đảm
+ATANTT theo chuẩn quốc tế.
+
+V. TỔ CHỨC
+THỰC HIỆN:
+
+1. Sở Thông tin và Truyền
+thông:
+
+- Chủ trì, phối hợp Sở Kế hoạch
+và Đầu tư, Sở Tài chính, Sở Nội vụ và các đơn vị có liên quan triển khai thực
+hiện Kế hoạch này đồng bộ, có hiệu quả; hàng năm tham mưu cho Chủ tịch UBND tỉnh
+xây dựng kế hoạch đào tạo nguồn nhân lực ATANTT của tỉnh và tổ chức thực hiện.
+
+- Theo dõi, đôn đốc, kiểm tra
+việc thực hiện kế hoạch và tổng hợp báo cáo kết quả thực hiện hàng năm về Ủy
+ban nhân dân tỉnh để theo dõi, chỉ đạo.
+
+- Hàng năm tổ chức Hội thảo về
+ATANTT nhằm tuyên truyền nâng cao nhận thức của các cấp, các ngành, về vai trò
+của đảm bảo ATANTT….
+
+2. Sở Kế hoạch và Đầu tư, Sở
+Tài chính:
+
+- Phối hợp với Sở Thông tin và
+Truyền thông cân đối ngân sách tỉnh bố trí theo kế hoạch.
+
+- Phối hợp với các ngành kiểm
+tra, giám sát việc sử dụng kinh phí, đảm bảo sử dụng đúng mục đích và có hiệu
+quả.
+
+3. Sở Nội vụ:
+
+- Hàng năm phối hợp với Sở
+Thông tin và Truyền thông tham mưu cho Ủy ban nhân dân tỉnh xây dựng kế hoạch
+đào tạo nguồn nhân lực ATANTT.
+
+4. Các sở, ban ngành, tổ chức,
+đoàn thể và UBND các huyện, thị xã, thành ph :
+
+- Căn cứ chức năng, nhiệm vụ và
+trên cơ sở Kế hoạch phát triển nhân lực ATANTT của tỉnh Vĩnh Long giai đoạn
+2015 - 2020 đã phê duyệt, các sở, ban, ngành, đoàn thể và Ủy ban nhân dân các
+huyện, thị xã, thành phố có trách nhiệm xây dựng kế hoạch phát triển nhân lực
+ATANTT theo lĩnh vực mình quản lý.
+
+- Phối hợp với Sở Thông tin và
+Truyền thông, Sở Kế hoạch và Đầu tư, Sở Tài chính trong công tác đào tạo, phát
+triển, bồi dưỡng nguồn nhân lực ATANTT của địa phương.
+
+5. Các doanh nghiệp, cơ
+quan, tổ chức sử dụng lao động:
+
+Khuyến khích xây dựng kế hoạch
+quản lý và phát triển nhân lực ATANTT của đơn vị mình; chủ động bố trí nguồn lực
+của doanh nghiệp trong việc đào tạo, bồi dưỡng đáp ứng nhu cầu sử dụng nhân lực
+giai đoạn 2015 - 2020.
+
+VI. KINH PHÍ
+THỰC HIỆN:
+
+Nguồn ngân sách địa phương:
+2.920.000.000đ (hai tỷ chín trăm hai mươi triệu đồng) Đính kèm chi tiết phụ lục.
+
+Việc triển khai thực hiện Quy
+hoạch phát triển nhân lực ATANTT tỉnh Vĩnh Long giai đoạn 2015 - 2020 là nhiệm
+vụ trọng tâm, quan trọng, vừa cấp bách, vừa mang tính lâu dài, đòi hỏi sự tập
+trung chỉ đạo và tham gia tích cực của các ngành, các cấp và các tầng lớp nhân
+dân trong tỉnh. Ủy ban nhân dân tỉnh yêu cầu các sở, ban, ngành, đoàn thể, các
+huyện, thị xã, thành phố, các cơ quan, đơn vị liên quan nghiêm túc triển khai
+thực hiện các nhiệm vụ đã được giao./.
+
+ 
+
+PHỤ LỤC
+
+KINH PHÍ ĐÀO TẠO VÀ PHÁT TRIỂN NGUỒN NHÂN LỰC ATANTT TỈNH
+VĨNH LONG GIAI ĐOẠN 2015-2020
+
+STT
+
+Nội dung thực hiện
+
+Cơ quan chủ trì
+
+Đối tượng đào đạo
+
+Nội dung đào tạo
+
+Số lượng đào tạo
+
+Nguồn vốn địa phương (triệu đồng)
+
+Ghi chú
+
+2015
+
+2016-2020
+
+1
+
+Đào tạo ngắn hạn về ATANTT ở
+ nước ngoài và trong nước
+
+Sở Thông tin và Truyền thông
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1.1
+
+Đào tạo ngắn hạn nâng cao kiến
+ thức, kỹ năng về kỹ thuật ATANTT
+
+Sở Thông tin và Truyền thông
+
+- Cán bộ làm về ATANTT trong
+ Văn phòng Tỉnh ủy; Văn phòng UBND tỉnh, Sở Thông tin và Truyền thông; Trung
+ tâm Công nghệ thông tin; các đơn vị chuyên trách về CNTT của các Sở ban ngành
+ tỉnh, UBND cấp huyện, các cơ quan Đảng, tổ chức chính trị - xã hội.
+
+- Lãnh đạo và cán bộ chủ chốt
+ tại các cơ quan khối Đảng, Sở, ban ngành tỉnh, UBND cấp huyện, tổ chức chính
+ trị - xã hội
+
+- Khoá về đào tạo nâng cao kỹ
+ năng về ATANTT: Tập trung bồi dưỡng, cập nhật nâng cao kiến thức, kỹ năng của
+ đội ngũ nhân lực làm ATANTT trong các cơ quan về các nội dung chính sau: Quản
+ lý ATANTT; phòng thủ, chống tấn công trên mạng; bảo vệ an toàn hệ thống thông
+ tin và cơ sở dữ liệu; kiểm tra, đánh giá ATANTT; khai thác, sử dụng làm chủ
+ các phần mềm, hệ thống máy chủ, mạng trên nền mã nguồn mở và chuẩn mở;
+
+02 lớp
+
+10 lớp
+
+600
+
+50 triệu đồng/lớp
+
+1.2
+
+Đào tạo ngắn hạn nâng cao kiến
+ thức về quản lý ATANTT
+
+Sở Thông tin và Truyền thông
+
+- Khoá đào tạo kiến thức
+ ATANTT cho cán bộ quản lý: Đào tạo kiến thức cơ bản về ATANTT, vai trò, tầm
+ quan trọng của ATANTT; các nguy cơ mất mát dữ liệu, lộ bí mật trong các hệ thống
+ CNTT và giao dịch điện tử; chiến lược, phương thức, quy chế, quy trình bảo đảm
+ ATANTT trong các tổ chức, doanh nghiệp; vai trò của cán bộ quản lý, đội ngũ
+ cán bộ kỹ thuật và của tất cả các nhân viên trong cơ quan trong việc bảo đảm
+ ATANTT.
+
+01 lớp
+
+05 lớp
+
+300
+
+mỗi lớp 50 triệu đồng
+
+1.3
+
+Tham gia các khóa đào tạo lấy
+ chứng chỉ quốc tế về ATANTT trong nước
+
+Sở Thông tin và Truyền thông
+
+ 
+
+- Khoá đào tạo lấy chứng chỉ
+ quốc tế về ATANTT: Đào tạo lấy chứng chỉ về ATANTT của các cơ sở đào tạo, tổ
+ chức ATANTT uy tín trên thế giới; đào tạo lấy chứng chỉ của một số hãng công
+ nghệ về ATANTT được sử dụng phổ biến ở Việt Nam, ưu tiên đào tạo theo các chứng
+ chỉ quốc tế được phát triển trên cơ sở các chuẩn mở, phần mềm mã nguồn mở;
+
+05 lượt
+
+50 lượt
+
+550
+
+10 triệu đồng/lượt
+
+2
+
+Đào tạo ngắn hạn về ATANTT ở
+ nước ngoài
+
+Sở Thông tin và Truyền thông
+
+- Cán bộ đảm nhận các chức
+ danh về ATANTT trong cơ quan nhà nước. Đối tượng tham gia phải đáp ứng các điều
+ kiện theo yêu cầu của khoá đào tạo tại nước ngoài về trình độ ngoại ngữ và
+ chuyên môn.
+
+- Cập nhật công nghệ mới,
+ nâng cao kiến thức, kỹ năng, nghiệp vụ về ATANTT tại các cơ sở đào tạo có uy
+ tín ở nước ngoài.
+
+- Đào tạo cấp các chứng chỉ
+ quốc tế về ATANTT (đối với các loại chứng chỉ trong nước chưa đủ điều kiện để
+ đào tạo hoặc trong nước có đào tạo nhưng chất lượng chưa cao).
+
+02 lượt
+
+20 lượt
+
+ 
+
+- Kinh phí từ các Đề án 911,
+ Đề án 599, Đề án 165, …
+
+- Khuyến khích tham gia học bổng
+ từ các chương trình tài trợ của nước ngoài.
+
+- Theo thông báo của Bộ Thông
+ tin và Truyền thông.
+
+3
+
+Đào tạo trình độ thạc sĩ, tiến
+ sĩ về ATANTT trong và ngoài nước.
+
+Sở Thông tin và Truyền thông
+
+Đội ngũ giảng viên, nghiên cứu
+ viên (thuộc diện không được bố trí kinh phí của ngành)
+
+- Cán bộ công tác lĩnh vực
+ CNTT và ATANTT tại các cơ quan nhà nước.
+
+(Đối tượng đào tạo nước ngoài
+ phải đáp ứng các điều kiện theo yêu cầu của khoá đào tạo tại nước ngoài về bằng
+ cấp, trình độ ngoại ngữ và chuyên môn).
+
+Nâng cao trình độ về quản lý
+ ATANTT, kiểm tra, đánh giá ATANTT..
+
+- Khai thác, sử dụng làm chủ
+ các phần mềm, hệ thống máy chủ, mạng trên mã nguồn mở và chuẩn mở.
+
+01 lượt
+
+03 lượt
+
+300
+
+Thạc sĩ trong nước khoảng 75
+ triệu, Tiến sĩ trong nước khoảng 170 triệu;
+
+Đối với ngoài nước: Kinh phí
+ từ các Đề án 911, Đề án 599, Đề án 165, Đề án Vĩnh Long 100,…
+
+4
+
+Đào tạo kỹ sư, cử nhân ATANTT
+ chất lượng cao tại các cơ sở đào tạo trọng điểm về ATANTT trong nước
+
+Sở Thông tin và Truyền thông
+
+Cán bộ được bố trí công tác
+ lĩnh vực ATANTT tại các cơ quan nhà nước (Sở TTTT 3, Văn phòng UBND tỉnh 1,
+ Văn phòng Tỉnh ủy 1)
+
+- Đào tạo chuyển đổi cấp bằng
+ hai kỹ sư, cử nhân ATANTT cho đối tượng đã tốt nghiệp đại học ngành CNTT và
+ điện tử viễn thông.
+
+01 lượt
+
+05 lượt
+
+300
+
+60 triệu/lượt
+
+5
+
+Đào tạo chuyên gia ATANTT
+
+Sở Thông tin và Truyền thông
+
+- Thủ trưởng, lãnh đạo phụ
+ trách lĩnh vực CNTT- ATANTT tại cơ quan chuyên trách của tỉnh.
+
+- Các cán bộ chuyên trách
+ CNTT-ATANTT làm công tác bảo đảm kỹ thuật tại các cơ quan nhà nước;
+
+- Các cán bộ làm công tác bảo
+ đảm kỹ thuật cho các hoạt động cơ yếu tại các cơ quan trọng yếu của Tỉnh ủy,
+ UBND tỉnh.
+
+- Các cán bộ làm công tác
+ ATANTT tại các mạng CNTT quan trọng trong ngành Cơ yếu.
+
+- Đào tạo nâng cao trình độ
+ và kỹ năng Quản lý và ATANTT cho các cán bộ lãnh đạo, trong các hoạt động cơ
+ yếu trên các mạng CNTT.
+
+- Đào tạo các chuyên gia bảo
+ đảm ATANTT trong các hoạt động cơ yếu trên các mạng CNTT.
+
+- Đào tạo các chuyên gia Quản
+ lý ATANTT cho các mạng CNTT trọng yếu của ngành cơ yếu.
+
+- Đào tạo đội ngũ chuyên gia
+ đánh giá, phân tích thiết kế và phát triển các hệ thống ATANTT cho các mạng
+ CNTT phục vụ công tác cơ yếu.
+
+- Đào tạo chứng chỉ quốc tế về
+ công nghệ mạng và an toàn thông tin cho các chuyên gia làm việc trong ngành
+ Cơ yếu.
+
+01 lượt
+
+10 lượt
+
+660
+
+60 triệu/lượt
+
+- Theo triệu tập của Ban Cơ yếu
+ Chính phủ- Bộ Quốc phòng, Bộ Thông tin và Truyền thông.
+
+6
+
+Tổ chức Hội thảo về ATANTT
+ hàng năm
+
+Sở Thông tin và Truyền thông
+
+ 
+
+Tuyên truyền các thông tin về
+ an toàn an ninh thông tin đến lãnh đạo, thủ trưởng, quản trị mạng các đơn vị
+
+01 lần
+
+05 lần
+
+210
+
+35 triệu/lần
+
+Tổng cộng
+
+2.920--- THÔNG TIN THÊM ---
+Ten: Quyết định 524/QĐ-UBND năm 2015 về Kế hoạch đào tạo và phát triển nguồn nhân lực an toàn, an ninh thông tin cho cán bộ, công chức, viên chức tỉnh Vĩnh Long giai đoạn 2015-2020
+So hieu: 524/QĐ-UBND
+Loai van ban: Quyết định
+Linh vuc nganh: Lao động - Tiền lương, Công nghệ thông tin
+Noi ban hanh: Tỉnh Vĩnh Long
+Nguoi ky: Nguyễn Văn Thanh
+Ngay ban hanh: 08/04/2015
+Ngay hieu luc: 08/04/2015
+Ngay dang: Dữ liệu đang cập nhật
+So cong bao: Dữ liệu đang cập nhật
+Tinh trang: Còn hiệu lực
+
+
+--- MỤC LỤC ---
+- QUYẾT ĐỊNH VỀ VIỆC BAN HÀNH KẾ HOẠCH ĐÀO TẠO VÀ PHÁT TRIỂN NGUỒN NHÂN LỰC AN TOÀN, AN NINH THÔNG TIN CHO CÁN BỘ, CÔNG CHỨC, VIÊN CHỨC TỈNH VĨNH LONG GIAI ĐOẠN 2015 - 2020
+  - Điều 1. Ban hành kèm theo Quyết định này “Kế hoạch đào tạo và phát triển nguồn nhân lực an toàn, an ninh thông tin cho cán bộ, công chức, viên chức tỉnh Vĩnh Long giai đoạn 2015 - 2020”.
+  - Điều 2. Giao Giám đốc Sở Thông tin và Truyền thông tổ chức triển khai thực hiện theo đúng nội dung Kế hoạch nêu trên.
+  - Điều 3. Chánh Văn phòng UBND tỉnh, Giám đốc Sở Thông tin và Truyền thông, Giám đốc Sở Kế hoạch và Đầu tư, Giám đốc Sở Tài chính, Giám đốc Sở Nội vụ, thủ trưởng các sở, ban, ngành, tổ chức, đoàn thể có liên quan và Chủ tịch UBND các huyện, thị xã, thành phố chịu trách nhiệm thi hành quyết định.
+- KẾ HOẠCH ĐÀO TẠO VÀ PHÁT TRIỂN NGUỒN NHÂN LỰC AN TOÀN, AN NINH THÔNG TIN CHO CÁN BỘ, CÔNG CHỨC, VIÊN CHỨC TỈNH VĨNH LONG GIAI ĐOẠN 2015 - 2020
+  - I. MỤC ĐÍCH, YÊU CẦU:
+  - II. MỤC TIÊU:
+  - III. NỘI DUNG THỰC HIỆN:
+  - IV. CÁC GIẢI PHÁP THỰC HIỆN:
+  - V. TỔ CHỨC THỰC HIỆN:
+  - VI. KINH PHÍ THỰC HIỆN:
+  - PHỤ LỤC KINH PHÍ ĐÀO TẠO VÀ PHÁT TRIỂN NGUỒN NHÂN LỰC ATANTT TỈNH VĨNH LONG GIAI ĐOẠN 2015-2020
+
+--- VĂN BẢN LIÊN QUAN ---
+
+Van ban duoc can cu:
+  - Quyết định 99/QĐ-TTg năm 2014 phê duyệt Đề án "Đào tạo và phát triển nguồn nhân lực an toàn, an ninh thông ... (ID: 219222)
+  - Quyết định 1605/QĐ-TTg năm 2010 phê duyệt Chương trình quốc gia về ứng dụng công nghệ thông tin trong hoạt ... (ID: 110896)
+  - Nghị định 64/2007/NĐ-CP về việc ứng dụng công nghệ thông tin trong hoạt động của cơ quan Nhà nước (ID: 18234)
+  - Luật Công nghệ thông tin 2006 (ID: 12987)
+  - Luật Tổ chức Hội đồng nhân dân và Ủy ban Nhân dân 2003 (ID: 51688)
+
+Van ban lien quan cung noi dung:
+  - Quyết định 1039/QĐ-UBND năm 2021 về Kế hoạch tuyên truyền, nâng cao nhận thức, phổ biến kiến thức và đào tạo nguồn nhân lực an toàn thông tin, giai đoạn 2021-2025 trên địa bàn tỉnh Thanh Hóa (ID: 470339)
+  - Kế hoạch 168/KH-UBND năm 2021 về đào tạo, bồi dưỡng an toàn thông tin cho cán bộ, công chức, viên chức tỉnh Bắc Kạn giai đoạn 2021-2025 (ID: 473598)
+  - Kế hoạch 95/KH-UBND năm 2021 thực hiện Đề án đào tạo và phát triển nguồn nhân lực an toàn thông tin tỉnh Thừa Thiên Huế giai đoạn 2021-2025 (ID: 471264)
+  - Nghị quyết 72/2017/NQ-HĐND về quy định chính sách khuyến khích phát triển nguồn nhân lực chất lượng cao tỉnh Hà Tĩnh (ID: 374604)
+  - Kế hoạch 5600/KH-UBND năm 2017 thực hiện Nghị quyết 52/NQ-CP về đẩy mạnh phát triển nguồn nhân lực các dân tộc thiểu số giai đoạn 2016-2020, định hướng đến năm 2030 do tỉnh Phú Thọ ban hành (ID: 377333)
+  - Kế hoạch 225/KH-UBND năm 2017 về xây dựng đội ngũ trí thức, phát triển nguồn nhân lực lĩnh vực văn hóa, thể thao tỉnh Thừa Thiên Huế đến năm 2020 (ID: 367031)

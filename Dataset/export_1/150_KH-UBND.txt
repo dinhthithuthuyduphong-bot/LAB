@@ -1,0 +1,381 @@
+ỦY
+ BAN NHÂN DÂN
+
+TỈNH KIÊN GIANG
+
+ -------
+
+CỘNG
+ HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+ Độc lập - Tự do - Hạnh phúc 
+
+ ---------------
+
+Số: 150/KH-UBND
+
+Kiên
+ Giang, ngày 28 tháng 6 năm 2022
+
+ 
+
+KẾ HOẠCH
+
+ĐÀO TẠO VÀ PHÁT TRIỂN NGUỒN NHÂN LỰC AN TOÀN THÔNG TIN TRÊN ĐỊA BÀN TỈNH
+KIÊN GIANG GIAI ĐOẠN 2021-2025
+
+Căn cứ Quyết định số 21/QĐ-TTg ngày
+06/01/2021 của Thủ tướng Chính phủ, phê duyệt Đề án “Đào tạo và phát triển nguồn
+nhân lực an toàn thông tin giai đoạn 2021-2025”, Quyết định số 212/QĐ-BTTTT 
+ngày 19/02/2021 của Bộ trưởng Bộ Thông tin và Truyền thông ban hành Kế hoạch
+triển khai thực hiện Quyết định số 21/QĐ-TTg ngày 06/01/2021 của Thủ tướng
+Chính phủ, phê duyệt Đề án “Đào tạo và phát triển nguồn nhân lực an toàn thông
+tin giai đoạn 2021-2025”, Ủy ban nhân dân tỉnh Kiên Giang xây dựng Kế hoạch đào
+tạo và phát triển nguồn nhân lực an toàn thông tin trên địa bàn tỉnh Kiên Giang
+giai đoạn 2022-2025, như sau:
+
+I. MỤC ĐÍCH, YÊU CẦU
+
+1. Mục đích
+
+- Xác định các nhiệm vụ cụ thể và triển
+khai thực hiện tại Quyết định số 21/QĐ-TTg ngày 06/01/2021 của Thủ tướng Chính
+phủ phê duyệt Đề án “Đào tạo và phát triển nguồn nhân lực an toàn thông tin
+giai đoạn 2021-2025”, Quyết định số 212/QĐ-BTTTT ngày 19/02/2021 của Bộ trưởng
+Bộ Thông tin và Truyền thông ban hành Kế hoạch triển khai thực hiện Quyết định
+số 21/QĐ-TTg ngày 06/01/2021 của Thủ tướng Chính phủ.
+
+- Tăng cường đào tạo, bồi dưỡng và phát triển đội ngũ nhân lực an toàn thông tin mạng nhằm góp
+phần triển khai đạt hiệu quả Kế hoạch số 186/KH-UBND ngày 24/12/2020 của UBND tỉnh
+Kiên Giang về chuyển đổi số tỉnh Kiên Giang giai đoạn 2021-2025, định hướng đến
+năm 2030 và đảm bảo an toàn thông tin trên môi trường mạng của tỉnh.
+
+2. Yêu
+cầu
+
+- Xác định các nội dung công việc và
+phân công trách nhiệm thực hiện cụ thể; chủ động giải quyết kịp thời những khó khăn, vướng mắc trong quá trình thực hiện, đảm bảo hoàn thành các nhiệm vụ đề ra.
+
+- Bảo đảm phối hợp triển khai kịp thời,
+đồng bộ, chất lượng và hiệu quả các chương trình đào tạo, bồi dưỡng, phát triển nguồn lực an toàn thông tin và các nhiệm vụ được giao.
+
+- Đổi mới hình
+thức đào tạo, tập huấn và phát triển nguồn lực an toàn thông tin một cách chủ động, hiệu quả nhằm hình thành đội ngũ có chất lượng
+chuyên môn về bảo đảm an toàn, an ninh thông tin trên không gian mạng và hệ thống
+thông tin của các cơ quan Đảng, nhà nước trên địa bàn tỉnh.
+
+- Khuyến khích huy động các nguồn lực
+xã hội để thực hiện nhiệm vụ, huy động sự tham gia có trách nhiệm của cơ sở đào
+tạo, doanh nghiệp, chuyên gia an toàn thông tin trong và ngoài tỉnh và các tổ
+chức, cá nhân có liên quan.
+
+3. Mục tiêu
+
+- Mục tiêu chung
+
+Phát triển đội ngũ nhân lực an toàn
+thông tin mạng có đủ năng lực quản lý, vận hành, bảo đảm an toàn cho hệ thống
+thông tin của tỉnh; nâng cao kiến thức, kỹ năng an toàn thông tin mạng cho cán
+bộ, công chức, viên chức, người lao động trong các cơ quan, tổ chức trên địa
+bàn tỉnh, góp phần nâng cao các chỉ số về an toàn thông tin mạng, thúc đẩy triển
+khai thành công các nhiệm vụ chuyển đổi số của tỉnh.
+
+- Mục tiêu cụ thể
+
++ Ít nhất 10 cán
+bộ, công chức, viên chức, người lao động chuyên trách an toàn thông tin mạng của
+tỉnh được đào tạo, bồi dưỡng trình độ từ đại học trở lên chuyên ngành an toàn
+thông tin.
+
++ Trên 90% lãnh đạo, quản lý cấp sở
+và cấp huyện được bồi dưỡng về kiến thức, nghiệp vụ và kỹ
+năng an toàn thông tin.
+
++ 100% chuyên viên phụ trách về an
+toàn công nghệ thông tin tại các cơ quan được đào tạo, bồi dưỡng ngắn hạn về kiến
+thức, kỹ năng, kỹ thuật an toàn thông tin mạng.
+
++ Trên 80% cán bộ, công chức, viên chức,
+người lao động trong các cơ quan, tổ chức được bồi dưỡng về kiến thức, kỹ năng
+an toàn thông tin mạng của người dùng cuối.
+
+II. NỘI DUNG THỰC
+HIỆN
+
+1. Triển khai thực
+hiện đào tạo ngắn hạn, tập huấn về an toàn thông tin hàng năm cho cán bộ, công
+chức, viên chức, người lao động thuộc các Cơ quan, tổ chức trên địa bàn tỉnh; hỗ
+trợ các đơn vị, tổ chức chính trị - xã hội đào tạo, tập huấn về an toàn thông
+tin khi có đề nghị từ các đơn vị, tổ chức này
+
+- Đào tạo, tập huấn về quản lý, nghiệp
+vụ và kỹ năng an toàn thông tin cho đội ngũ lãnh đạo, quản lý các cấp.
+
+- Cập nhật, nâng cao kiến thức, kỹ
+năng, kỹ thuật an toàn thông tin cho đội ngũ nhân lực an toàn thông tin; đội
+ngũ quản trị, vận hành và bảo đảm an toàn thông tin cho các hệ thống thông tin
+dùng chung của tỉnh; thành viên Đội ứng cứu sự cố mạng máy tính tỉnh. Chú trọng
+các chương trình đào tạo, tập huấn, chương trình diễn tập thực chiến theo chuẩn
+kỹ năng, khung chương trình, yêu cầu do Bộ Thông tin và Truyền thông ban hành.
+
+- Đào tạo, tập huấn kiến thức, kỹ
+năng an toàn thông tin cho các cán bộ, công chức, viên chức, người lao động
+trong các cơ quan, tổ chức và người lao động có sử dụng thiết bị công nghệ
+thông tin.
+
+2. Thực hiện chuẩn
+hóa kỹ năng an toàn thông tin trong các cơ quan, tổ chức
+
+- Thực hiện chuẩn hóa kỹ năng về an toàn thông tin cho cán bộ, công chức, viên chức, người
+lao động chuyên trách về an toàn thông tin nhằm nâng cao chất lượng nguồn nhân
+lực an toàn thông tin và công nghệ thông tin trong các cơ quan, tổ chức theo
+quy định chuẩn kỹ năng, tiêu chuẩn, yêu cầu chuyên môn nghiệp vụ an toàn thông
+tin của Bộ Thông tin và Truyền thông; phối hợp tổ chức hoạt động kiểm tra, đánh
+giá năng lực an toàn thông tin đối với cán bộ kỹ thuật, quản lý về an toàn
+thông tin và công nghệ thông tin trong các cơ quan, tổ chức trên địa bàn tỉnh.
+
+- Triển khai đưa các nội dung đào tạo
+về an toàn thông tin vào các chương trình đào tạo, bồi dưỡng, xếp hoặc nâng ngạch, bậc cho tất cả các vị trí việc
+làm và các chương trình đào tạo, bồi dưỡng
+cho cán bộ, công chức, viên chức, người lao động trong cơ
+quan nhà nước khi có hướng dẫn của Bộ Nội vụ.
+
+- Tuyên truyền, phổ biến và thực hiện
+áp dụng các quy định về chuẩn kỹ năng an toàn thông tin,
+tiêu chí, yêu cầu chuyên môn, nghiệp vụ an toàn thông tin cho
+cán bộ chuyên trách về công nghệ thông tin và an toàn thông tin; đưa nội dung
+đào tạo về an toàn thông tin vào các chương trình đào tạo, bồi dưỡng, xếp, nâng
+ngạch, bậc, vị trí việc làm cho cán bộ, công chức, viên chức, người lao động
+theo định kỳ; phối hợp tổ chức hoạt động kiểm tra, đánh giá năng lực an toàn
+thông tin.
+
+3. Triển khai đào
+tạo, tập huấn an toàn thông tin theo cơ chế xã hội hóa
+
+- Vận động các cơ sở đào tạo, doanh
+nghiệp nhất là các doanh nghiệp công nghệ thông tin, các chuyên gia an toàn
+thông tin tham gia phối hợp, hỗ trợ thực hiện xã hội hóa
+các khóa đào tạo, tập huấn về kiến thức, kỹ năng, kỹ thuật,
+diễn tập an toàn thông tin cho các cơ quan, tổ chức, doanh nghiệp.
+
+- Tuyên truyền, phổ biến vận động,
+kêu gọi các cơ sở đào tạo, doanh nghiệp nhất là các doanh nghiệp công nghệ
+thông tin, các chuyên gia an toàn thông tin tham gia hỗ trợ, tài trợ về nhân lực,
+vật lực cho các hoạt động đào tạo, tập huấn, diễn tập, xử lý sự cố an toàn thông
+tin.
+
+4. Thực hiện các
+nhiệm vụ về đào tạo, phát triển nguồn nhân lực an toàn thông tin của tỉnh theo
+yêu cầu của Cục An toàn thông tin - Bộ Thông tin và Truyền thông
+
+- Cử nhân lực an toàn thông tin tham
+gia đào tạo, tập huấn, nâng cao kiến thức, kỹ năng an toàn thông tin cho cán bộ
+quản lý, kỹ thuật và cán bộ, công chức, viên chức, người lao động theo thông
+báo, triệu tập của Cục An toàn thông tin - Bộ Thông tin và Truyền thông.
+
+- Cử cán bộ, công chức, viên chức,
+người lao động có đủ điều kiện, tiêu chuẩn tham gia các khóa đào tạo thạc sỹ, kỹ
+sư, cử nhân an toàn thông tin trong nước.
+
+5. Tổ chức triển
+khai đào tạo, tập huấn, phổ biến, tuyên truyền kiến thức, kỹ năng cơ bản về an
+toàn thông tin trong các cơ sở giáo dục, đào tạo, đào tạo nghề
+
+Hàng năm xây dựng chương trình, kế hoạch
+đào tạo, tập huấn, phổ biến, tuyên truyền kiến thức, kỹ năng cơ bản về an toàn
+thông tin trong các cơ sở giáo dục, đào tạo, đào tạo nghề trên địa bàn tỉnh.
+
+6. Phổ biến,
+tuyên truyền nâng cao nhận thức của các cấp, các ngành về đào tạo, phát triển
+nguồn nhân lực an toàn thông tin; về an toàn, an ninh thông tin
+
+Xây dựng kế hoạch tuyên truyền, phổ
+biến bằng nhiều hình thức như: Tổ chức hội thảo, hội nghị
+chuyên đề, trên các phương tiện thông tin đại chúng, các
+cổng thông tin điện tử... về an toàn, an ninh thông tin, đào tạo,
+phát triển nguồn nhân lực an toàn thông tin.
+
+7. Triển khai khảo
+sát, đánh giá; tăng cường học tập, trao đổi kinh nghiệm về công tác đào tạo,
+phát triển nguồn nhân lực an toàn thông tin với các địa phương, các cơ Sở giáo
+dục đào tạo, các trường đại học chuyên ngành an toàn thông tin
+
+Triển khai khảo sát, đánh giá nguồn
+nhân lực an toàn thông tin hằng năm, qua đó triển khai đào tạo, phát triển nguồn
+nhân lực an toàn thông tin kịp thời, hiệu quả. Tạo điều kiện và tích cực tham
+gia các chương trình học tập, trao đổi kinh nghiệm, diễn tập về an toàn thông
+tin.
+
+III. KINH PHÍ THỰC
+HIỆN
+
+1. Từ nguồn ngân sách nhà nước bố trí
+trong dự toán được cấp có thẩm quyền giao hàng năm cho các cơ quan, đơn vị và
+các nguồn kinh phí hợp pháp khác.
+
+2. Huy động từ các nguồn tài trợ,
+đóng góp kinh phí ngoài ngân sách theo quy định của pháp luật để triển khai thực
+hiện kế hoạch.
+
+3. Việc lập dự toán kinh phí do các
+cơ quan, đơn vị được phân công nhiệm vụ chủ trì chủ động xác định trong quá
+trình lập kế hoạch cụ thể để triển khai thực hiện các nhiệm vụ được giao.
+
+IV. TỔ CHỨC THỰC
+HIỆN
+
+1. Sở Thông tin và Truyền thông
+
+- Chủ trì, phối hợp với các cơ quan, đơn
+vị có liên quan hướng dẫn, tổ chức triển khai thực hiện các nội dung của kế hoạch
+này.
+
+- Hằng năm, chủ trì, phối hợp các sở,
+ngành có liên quan tham mưu UBND tỉnh xây dựng kế hoạch đào tạo, phát triển nguồn
+nhân lực an toàn thông tin, lập dự toán kinh phí thực hiện kế hoạch.
+
+- Chủ trì, kết nối với các doanh nghiệp
+công nghệ thông tin để vận động xã hội hóa, tăng cường mối
+quan hệ, hợp tác trong công tác đào tạo, phát triển nguồn nhân lực an toàn
+thông tin, hỗ trợ nhân lực an toàn thông tin cho các cơ quan, đơn vị, địa
+phương khi cần thiết.
+
+- Tổng hợp số liệu triển khai đào tạo,
+phát triển nguồn nhân lực an toàn thông tin trên địa bàn tỉnh, trình UBND tỉnh
+báo cáo Bộ Thông tin và Truyền thông trước ngày 15 tháng 12 hàng năm.
+
+2. Sở Nội vụ
+
+- Hằng năm, phối hợp với Sở Thông tin
+và Truyền thông và các đơn vị liên quan lập kế hoạch thực hiện rà soát, thẩm định
+nội dung, đối tượng tham gia đào tạo, bồi dưỡng an toàn thông tin.
+
+- Hướng dẫn thực hiện các văn bản
+liên quan đến việc đưa nội dung về an toàn thông tin vào chương trình đào tạo,
+bồi dưỡng theo chức vụ lãnh đạo; bồi dưỡng theo ngạch, chức danh nghề nghiệp, vị
+trí việc làm và các chương trình bồi dưỡng kiến thức, kỹ năng chuyên ngành bắt
+buộc hằng năm trong cơ quan nhà nước.
+
+3. Sở Tài chính
+
+Phối hợp với các sở, ngành liên quan
+thẩm định dự toán kinh phí thực hiện theo kế hoạch được cấp có thẩm quyền giao
+và căn cứ khả năng ngân sách tham mưu UBND tỉnh bố trí kinh phí thực hiện kế hoạch
+theo đúng quy định hiện hành.
+
+4. Sở Kế hoạch và Đầu tư
+
+Chuẩn hóa và
+nâng cao chất lượng, nguồn nhân lực an toàn trong thông tin trong cơ quan, tổ
+chức, doanh nghiệp. Hằng năm, phối hợp với các sở, ban, ngành liên quan thống
+nhất, tổng hợp chỉ tiêu kế hoạch đào tạo, phát triển nguồn nhân lực an toàn
+thông tin, báo cáo UBND tỉnh phê duyệt về Sở Nội vụ thực hiện. Phối hợp với các
+đơn vị liên quan huy động các nguồn lực trong xã hội để triển khai thực hiện kế
+hoạch.
+
+5. Sở Giáo dục và Đào tạo, Sở Lao
+động - Thương binh và Xã hội
+
+Tham mưu, tổ chức triển khai khoản 5
+Mục II Kế hoạch. Hàng năm lập kế hoạch, dự toán đào tạo, tập huấn, tuyên truyền
+về an toàn thông tin mạng của các cơ sở giáo dục, đào tạo, đào tạo nghề trên địa
+bàn tỉnh, trình cấp có thẩm quyền phê duyệt.
+
+6. Các sở, ban, ngành; Ủy ban nhân
+dân các huyện, thành phố
+
+- Phối hợp Sở Thông tin và Truyền
+thông triển khai các nội dung, nhiệm vụ của kế hoạch phù hợp với chức năng, nhiệm
+vụ của mình. Lồng ghép các nội dung về đào tạo an toàn
+thông tin trong kế hoạch ứng dụng công nghệ thông tin hàng năm. Phối hợp triển
+khai đào tạo, phát triển nguồn nhân lực an toàn thông tin trong lĩnh vực thuộc
+phạm vi quản lý.
+
+- Cử cán bộ, công chức, viên chức,
+người lao động tham gia các khóa đào tạo ngắn hạn, tập huấn về an toàn thông
+tin theo thông báo, triệu tập của Sở Thông tin và Truyền thông.
+
+- Phối hợp với Sở Thông tin và Truyền
+thông xây dựng, tổ chức triển khai đào tạo, nâng cao năng lực cho cán bộ quản
+lý, công chức, viên chức kỹ thuật và người dùng cuối thuộc cơ quan, đơn vị, địa
+phương.
+
+Trên đây là Kế hoạch “Đào tạo và phát
+triển nguồn nhân lực an toàn thông tin trên địa bàn tỉnh
+Kiên Giang giai đoạn 2021-2025”, yêu cầu Thủ trưởng các sở,
+ban, ngành; Chủ tịch UBND các huyện, thành phố căn cứ các nội dung trong
+kế hoạch chỉ đạo tổ chức triển khai thực hiện tại cơ quan, đơn vị,
+địa phương. Trong quá trình thực hiện, nếu có vướng mắc,
+phản ánh kịp thời về Sở Thông tin và
+Truyền thông để tổng hợp, báo cáo
+UBND tỉnh xem xét, giải quyết./.
+
+ 
+
+ Nơi nhận:
+
+- Văn phòng Chính phủ;
+
+ - Bộ Thông tin và Truyền thông;
+
+ - CT và các PCT. UBND tỉnh;
+
+ - Các sở, ban, ngành, đoàn thể tỉnh;
+
+ - UBND các huyện, thành phố;
+
+ - LĐVP.UBND tỉnh;
+
+ - P.KGVX, CVNC;
+
+ - Lưu: VT, tqdat.
+
+KT. CHỦ TỊCH
+
+ PHÓ CHỦ TỊCH
+
+ Nguyễn Lưu Trung--- THÔNG TIN THÊM ---
+Ten: Kế hoạch 150/KH-UBND năm 2022 về Đào tạo và phát triển nguồn nhân lực an toàn thông tin trên địa bàn tỉnh Kiên Giang giai đoạn 2021-2025
+So hieu: 150/KH-UBND
+Loai van ban: Kế hoạch
+Linh vuc nganh: Lao động - Tiền lương, Công nghệ thông tin
+Noi ban hanh: Tỉnh Kiên Giang
+Nguoi ky: Nguyễn Lưu Trung
+Ngay ban hanh: 28/06/2022
+Ngay hieu luc: 28/06/2022
+Ngay dang: Dữ liệu đang cập nhật
+So cong bao: Dữ liệu đang cập nhật
+Tinh trang: Không xác định
+
+
+--- MỤC LỤC ---
+- KẾ HOẠCH ĐÀO TẠO VÀ PHÁT TRIỂN NGUỒN NHÂN LỰC AN TOÀN THÔNG TIN TRÊN ĐỊA BÀN TỈNH KIÊN GIANG GIAI ĐOẠN 2021-2025
+  - I. MỤC ĐÍCH, YÊU CẦU
+  - II. NỘI DUNG THỰC HIỆN
+    - 1. Triển khai thực hiện đào tạo ngắn hạn, tập huấn về an toàn thông tin hàng năm cho cán bộ, công chức, viên chức, người lao động thuộc các Cơ quan, tổ chức trên địa bàn tỉnh; hỗ trợ các đơn vị, tổ chức chính trị - xã hội đào tạo, tập huấn về an toàn thông tin khi có đề nghị từ các đơn vị, tổ chức này
+    - 2. Thực hiện chuẩn hóa kỹ năng an toàn thông tin trong các cơ quan, tổ chức
+    - 3. Triển khai đào tạo, tập huấn an toàn thông tin theo cơ chế xã hội hóa
+    - 4. Thực hiện các nhiệm vụ về đào tạo, phát triển nguồn nhân lực an toàn thông tin của tỉnh theo yêu cầu của Cục An toàn thông tin - Bộ Thông tin và Truyền thông
+    - 5. Tổ chức triển khai đào tạo, tập huấn, phổ biến, tuyên truyền kiến thức, kỹ năng cơ bản về an toàn thông tin trong các cơ sở giáo dục, đào tạo, đào tạo nghề
+    - 6. Phổ biến, tuyên truyền nâng cao nhận thức của các cấp, các ngành về đào tạo, phát triển nguồn nhân lực an toàn thông tin; về an toàn, an ninh thông tin
+    - 7. Triển khai khảo sát, đánh giá; tăng cường học tập, trao đổi kinh nghiệm về công tác đào tạo, phát triển nguồn nhân lực an toàn thông tin với các địa phương, các cơ Sở giáo dục đào tạo, các trường đại học chuyên ngành an toàn thông tin
+  - III. KINH PHÍ THỰC HIỆN
+  - IV. TỔ CHỨC THỰC HIỆN
+
+--- VĂN BẢN LIÊN QUAN ---
+
+Van ban duoc dan chieu:
+  - Kế hoạch 186/KH-UBND năm 2020 về Chuyển đổi số tỉnh Kiên Giang giai đoạn 2021-2025, định hướng đến năm 2030 (ID: 464324)
+
+Van ban duoc can cu:
+  - Quyết định 212/QĐ-BTTTT năm 2021 Kế hoạch triển khai thực hiện Quyết định 21/QĐ-TTg phê duyệt Đề án “Đào ... (ID: 471302)
+  - Quyết định 21/QĐ-TTg năm 2021 về phê duyệt Đề án "Đào tạo và phát triển nguồn nhân lực an toàn thông tin ... (ID: 461722)
+
+Van ban lien quan cung noi dung:
+  - Kế hoạch 2167/KH-UBND năm 2022 về đào tạo và phát triển nguồn nhân lực an toàn thông tin giai đoạn 2022-2025 trên địa bàn tỉnh Gia Lai (ID: 530477)
+  - Kế hoạch 222/KH-UBND năm 2022 thực hiện Quyết định 1907/QĐ-TTg và 21/QĐ-TTg trên địa bàn tỉnh Hà Giang, giai đoạn 2022-2025 (ID: 528016)
+  - Chương trình 14/CTr-UBND năm 2022 thực hiện Nghị quyết 26-NQ/TU về Chiến lược phát triển nguồn nhân lực tỉnh Lào Cai đến năm 2030, tầm nhìn đến năm 2050 (ID: 528604)
+  - Nghị quyết 32/NQ-HĐND năm 2022 về tăng cường công tác đào tạo và phát triển nguồn nhân lực trên địa bàn tỉnh Nghệ An (ID: 525783)
+  - Kế hoạch 358/KH-UBND năm 2022 thực hiện Quyết định 21/QĐ-TTg phê duyệt Đề án “Đào tạo và phát triển nguồn nhân lực an toàn thông tin giai đoạn 2021 - 2025” tỉnh Bắc Ninh (ID: 521483)
+  - Kế hoạch 2640/KH-UBND năm 2022 về đào tạo và phát triển nguồn nhân lực an toàn thông tin giai đoạn 2021-2025 trên địa bàn tỉnh Ninh Thuận (ID: 519264)
+  - Kế hoạch 3724/KH-UBND năm 2021 về Đào tạo và phát triển nguồn nhân lực an toàn thông tin giai đoạn 2021-2025 trên địa bàn tỉnh Kon Tum (ID: 494947)

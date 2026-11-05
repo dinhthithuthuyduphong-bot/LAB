@@ -1,0 +1,803 @@
+BỘ LAO ĐỘNG-THƯƠNG
+ BINH VÀ XÃ HỘI
+
+ -------
+
+CỘNG HÒA XÃ HỘI
+ CHỦ NGHĨA VIỆT NAM
+
+ Độc lập - Tự do - Hạnh phúc 
+
+ ---------------
+
+Số:
+ 36/2013/TT-BLĐTBXH
+
+Hà Nội, ngày 30
+ tháng 12 năm 2013
+
+ 
+
+THÔNG TƯ
+
+BAN
+HÀNH QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ AN TOÀN LAO ĐỘNG ĐỐI VỚI SÀN THAO TÁC TREO
+
+Căn cứ Nghị định số 106/2012/NĐ-CP
+ngày 20/12/2012 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu
+tổ chức của Bộ Lao động - Thương binh và Xã hội;
+
+Căn cứ Nghị định số 127/2007/NĐ-CP
+ngày 01 tháng 8 năm 2007 của Chính phủ quy định chi tiết một số điều của Luật Tiêu chuẩn và Quy chuẩn kỹ thuật;
+
+Căn cứ Nghị định số 132/2008/NĐ-CP
+ngày 31 tháng 12 năm 2008 của Chính phủ quy định chi tiết thi hành một số điều
+của Luật Chất lượng sản phẩm, hàng hóa;
+
+Theo đề nghị của Cục trưởng Cục An toàn lao động;
+
+Bộ trưởng Bộ Lao động - Thương binh và Xã hội quy
+định:
+
+Điều 1. Ban hành kèm theo Thông tư này Quy chuẩn kỹ thuật quốc gia về
+an toàn lao động đối với sàn thao tác treo.
+
+Ký hiệu: QCVN 12: 2013/BLĐTBXH.
+
+Điều 2. Quy chuẩn kỹ thuật quốc gia về an toàn lao động đối với sàn
+thao tác treo có hiệu lực từ ngày 25 tháng 6 năm 2014.
+
+Điều 3. Tổ chức thực hiệnCác Bộ, cơ quan ngang Bộ, cơ quan thuộc
+Chính phủ, Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương và các tổ
+chức, cá nhân có liên quan chịu trách nhiệm thi hành./.
+
+ 
+
+ 
+
+Nơi nhận:
+
+- Thủ tướng, các Phó Thủ tướng Chính phủ;
+
+ - Văn phòng Quốc hội;
+
+ - Văn phòng Chính phủ;
+
+ - Các Bộ, cơ quan ngang Bộ, cơ quan thuộc CP;
+
+ - Tòa án nhân dân tối cao;
+
+ - Viện kiểm sát nhân dân tối cao;
+
+ - UBND các tỉnh, thành phố trực thuộc TƯ;
+
+ - Sở LĐTBXH các tỉnh, thành phố trực thuộc TƯ;
+
+ - Cục kiểm tra VBQPPL-Bộ Tư pháp;
+
+ - Công báo;
+
+ - Website Bộ LĐTBXH;
+
+ - Lưu: VT, PC, ATLĐ.
+
+KT. BỘ TRƯỞNG
+
+ THỨ TRƯỞNG
+
+ Bùi Hồng Lĩnh
+
+ 
+
+QCVN 12: 2013/BLĐTBXH
+
+QUY
+CHUẨN KỸ THUẬT QUỐC GIA VỀ AN TOÀN LAO ĐỘNG ĐỐI VỚI SÀN THAO TÁC TREO
+
+National
+technical regulation on safe work of suspended access equipment
+
+Lời nói đầu
+
+QCVN 12: 2013/BLĐTBXH - Quy chuẩn kỹ thuật quốc gia
+về an toàn lao động đối với sàn thao tác treo do Cục An toàn lao động biên soạn,
+Bộ Lao động - Thương binh và Xã hội ban hành theo Thông tư số
+36/2013/TT-BLĐTBXH ngày 30 tháng 12 năm 2013, sau khi có ý kiến thẩm định
+của Bộ Khoa học và Công nghệ.
+
+ 
+
+QUY CHUẨN KỸ THUẬT
+QUỐC GIA VỀ AN TOÀN LAO ĐỘNG ĐỐI VỚI SÀN THAO TÁC TREO
+
+National
+technical regulation on safe work of suspended access equipment
+
+1. Quy định chung
+
+1.1. Phạm vi điều chỉnh
+
+1.1.1. Quy chuẩn này quy định các vấn đề về kỹ thuật
+và quản lý an toàn cho sàn thao tác treo lắp đặt cố định hoặc tạm thời điều khiển
+bằng điện hoặc vận hành bằng tay.
+
+1.1.2. Đối với các sàn thao tác treo làm việc theo
+chế độ nghiêm ngặt, có đối tượng phạm vi hoạt động đặc biệt (điều kiện môi trường
+khắc nghiệt; vận chuyển hóa chất, vật liệu nổ; gần đường dây mang điện; mang
+các loại tải mà có thể gây nên các tình huống nguy hiểm...); ngoài việc tuân
+theo các quy định của quy chuẩn này, còn phải tuân theo các quy chuẩn kỹ thuật
+quốc gia tương ứng.
+
+1.1.3. Quy chuẩn này không áp dụng đối với:
+
+1.1.3.1. Sàn thao tác treo làm việc có độ nghiêng lớn
+hơn 45o so với phương thẳng đứng;
+
+1.1.3.2. Sàn thao tác treo được treo bằng cẩu;
+
+1.1.3.3. Sàn thao tác treo được treo bằng xích;
+
+1.1.3.4. Sàn thao tác treo sử dụng trong các công
+trình ngầm;
+
+1.1.3.5. Sàn thao tác treo sử dụng trong hầm, lò.
+
+1.2. Đối tượng áp dụng
+
+Quy chuẩn này áp dụng với:
+
+1.2.1. Các tổ chức, cá nhân sản xuất, nhập khẩu,
+lưu thông, lắp đặt và sử dụng sàn thao tác treo;
+
+1.2.2. Các cơ quan quản lý nhà nước và các tổ chức,
+cá nhân khác có liên quan.
+
+1.3. Giải thích từ ngữ
+
+Trong Quy chuẩn này sử dụng các thuật ngữ và định
+nghĩa của tiêu chuẩn Anh BS EN 1808:1999 Các yêu cầu an toàn đối với sàn thao
+tác treo - Tính toán thiết kế, tiêu chuẩn ổn định, xây dựng - Thử nghiệm (BS EN
+1808:1999 Safety requirements on suspended access equipment - Design
+calculations, stability criteria, construction - Tests).
+
+2. Quy định về kỹ thuật
+
+2.1. Quy định chung
+
+Các sàn thao tác treo thuộc đối tượng và phạm vi
+nêu trên phải đảm bảo các yêu cầu an toàn tối thiểu quy định tại BS EN
+1808:1999.
+
+2.2. Các quy định cụ thể
+
+2.2.1. Yêu cầu đối với sàn làm việc
+
+2.2.1.1. Kích thước của sàn làm việc phải phù hợp với
+số người được phép làm việc trên sàn và các dụng cụ, vật liệu mang theo. Chiều
+rộng của sàn làm việc không nhỏ hơn 0,5m. Diện tích làm việc của sàn thao tác
+treo không nhỏ hơn 0,25m2/người.
+
+2.2.1.2. Mặt thao tác của sàn làm việc phải là mặt
+chống trượt được gắn chặt vào mặt sàn và chỉ có thể gỡ bỏ khi thật sự cần thiết.
+
+2.2.1.3. Bất kỳ lỗ hổng nào trên mặt sàn thao tác
+phải có kích thước sao cho có thể ngăn ngừa các khối cầu có đường kính 15mm lọt
+qua. Phải thiết kế hệ thống thoát nước thích hợp để chống nước đọng trên mặt
+sàn.
+
+2.2.1.4. Chiều cao của lan can sàn thao tác không
+được nhỏ hơn 1000mm được tính từ mặt sàn thao tác đến điểm trên cùng của lan
+can. Khoảng cách giữa thanh bảo vệ của lan can hoặc giữa thanh bảo vệ của lan
+can với mép trên của tấm chống vật rơi không vượt quá 500mm. Tấm chống vật rơi
+có chiều cao không thấp hơn 150mm tính từ mặt trên của sàn thao tác.
+
+2.2.1.5. Các phần phía trên mặt sàn và khu vực có
+người thao tác phải không có các cạnh sắc hoặc phần nhô ra có thể gây chấn
+thương cho người.
+
+2.2.1.6. Các mối ghép phải được thiết kế để chịu được
+các tác động sinh ra trong quá trình sử dụng và việc tháo lắp nhiều lần.
+
+2.2.1.7. Các bộ phận nhỏ như chốt móc hoặc kẹp giữ
+phải được gắn kết với nhau bằng các mối vĩnh cửu.
+
+2.2.1.8. Nếu sử dụng hai hoặc nhiều sàn thao tác,
+sàn này ở trên các sàn khác, phải có một cửa sập ở sàn phía trên và thang để có
+thể lên xuống giữa các sàn thao tác. Cửa sập này phải được mở lên trên và không
+chắn. Khoảng cách tối thiểu giữa hai sàn thao tác là 2m.
+
+Nếu khoảng các giữa hai sàn thao tác lớn hơn 2,5m,
+phải trang bị chụp bảo vệ cho thang lên xuống tính từ vị trí 2m so với mặt sàn
+phía dưới.
+
+2.2.1.9. Đối với sàn làm việc ở trạng thái nghiêng
+
+2.2.1.9.1. Sàn làm việc phải được trang bị các con
+lăn để lăn trên mặt phẳng nghiêng. Số lượng và vị trí của các con lăn phải phù
+hợp với tổng lực lớn nhất mà sàn làm việc có thể chịu được, số lượng và vị trí
+của của các con lăn ở vị trí để sàn làm việc luôn ổn định.
+
+2.2.1.9.2. Sàn thao tác phải được thiết kế để luôn
+nằm ngang trong dung sai 8o trong mặt phẳng ngang và dọc khi sàn làm
+việc chạy trên mặt phẳng nghiêng.
+
+2.2.1.9.3. Hệ thống tời nâng và các bộ cuốn cáp
+liên quan phải được thiết kế để cáp treo và cáp dự phòng không bị trùng. Nếu
+các cáp bị chùng, việc hạ xuống phải được tự động dừng lại.
+
+2.2.1.9.4. Sàn làm việc trên cao dạng treo phải được
+trang bị các biện pháp thoát hiểm cho người vận hành trong trường hợp mất điện.
+
+2.2.1.9.5. Tính toán độ ổn định cho thiết bị treo
+phải chú ý đến giá trị và hướng của lực tác động bởi sàn làm việc.
+
+2.2.2. Yêu cầu đối với cửa sàn làm việc
+
+2.2.2.1. Các cửa sàn không được mở ra ngoài.
+
+2.2.2.2. Cửa sàn làm việc phải được chế tạo để có
+thể tự động đóng lại và giữ chặt ở vị trí cố định. Cửa chỉ mở trong trường hợp
+cần thiết và phải đảm bảo an toàn.
+
+2.2.3. Yêu cầu đối với ghế treo (dùng cho quang
+treo có nhiều sàn thao tác):
+
+2.2.3.1. Bề rộng của ghế treo không nhỏ hơn 450mm.
+
+2.2.3.2. Tựa lưng của ghế treo phải điều chỉnh được
+để phù hợp với hình dạng của lưng sao cho người ngồi thao tác được thoải mái.
+
+2.2.3.3. Ghế phải được lắp thêm dây an toàn với bề
+rộng 40mm để người sử dụng có thể đeo khi làm việc.
+
+2.2.4. Yêu cầu đối với tời, cơ cấu dự phòng và dây
+cáp
+
+2.2.4.1. Hệ thống tời phải được thiết kế sao cho
+dây cáp được dẫn theo đúng hướng không bị tuột ra ngoài quỹ đạo của tời.
+
+2.2.4.2. Tời phải được trang bị phanh để xử lý
+trong trường hợp:
+
+- Có sự gián đoạn của các lực thủ công đặt lên tay
+đòn hoặc đòn bẩy.
+
+- Mất điện/khí nén/thủy lực.
+
+- Mất điện cấp vào mạch điều khiển.
+
+Phanh phải có khả năng để dừng sàn làm việc khi hoạt
+động với tốc độ định mức và với 1,25 lần giới hạn tải làm việc trong phạm vi
+10cm. Không sử dụng vật liệu dễ cháy để làm lót phanh. Các má phanh phải được
+che chắn bằng nắp che để tránh dầu, nước, bụi hoặc các chất bẩn khác bám vào.
+
+2.2.4.3. Yêu cầu đối với tời vận hành bằng tay
+
+2.2.4.3.1. Tời vận hành bằng tay phải được thiết kế
+để có một lực tay quay hoặc đòn bẩy tích cực để nâng hoặc hạ tải.
+
+2.2.4.3.2. Tời vận hành bằng tay phải được trang bị
+cơ cấu để ngăn ngừa các chuyển động hoặc hạ xuống mất kiểm soát. Các chuyển động
+mất kiểm soát được hiểu là các chuyển động lớn hơn 1/4 vòng quay của tay quay
+hoặc lớn hơn 10o của đòn bẩy.
+
+2.2.4.4. Yêu cầu đối với tời vận hành bằng điện
+
+2.2.4.4.1. Tời vận hành bằng điện phải được thiết kế
+để điều khiển nâng hạ.
+
+2.2.4.4.2. Tời phải có khả năng nâng hoặc hạ một tải
+trọng bằng 125% giới hạn tải làm việc của nó.
+
+2.2.4.4.3. Tời nâng phải có hệ thống điều khiển bằng
+tay cho phép kiểm soát việc hạ thấp của sàn làm việc trong trường hợp mất nguồn
+cấp.
+
+2.2.4.4.4. Việc hạ thấp sàn làm việc thủ công phải
+có chế độ "giữ để chạy".
+
+2.2.4.4.5. Việc hạ xuống khi không có nguồn cấp của
+hệ thống tời nâng có hai truyền động độc lập phải được thiết kế để đảm bảo góc
+nghiêng của sàn làm việc không quá 14o.
+
+2.2.4.4.6. Nếu hệ thống hạ xuống khi không có nguồn
+cấp sử dụng tay quay thủ công, phải cung cấp các biện pháp để ngăn cản bất kỳ bộ
+phận nào của cơ thể bị mắc kẹt (khóa liên động điện, cắt điện khi sử dụng tay
+quay thủ công).
+
+2.2.4.4.7. Sàn thao tác treo phải được trang bị cơ
+cấu phát hiện quá tải để tránh sự nguy hiểm cho người và gây hư hỏng cho máy
+móc khi xảy ra quá tải. Cơ cấu này sẽ phát hiện tải trọng của người, thiết bị
+và vật tư trên sàn làm việc.
+
+2.2.4.4.8. Cơ cấu phát hiện quá tải phải được gắn
+vào mỗi tời nâng.
+
+2.2.4.4.9. Khi bị quá tải, thì cơ cấu phát hiện quá
+tải sẽ ngắt tất cả các chuyển động, trừ chuyển động đi xuống cho đến khi sự cố
+quá tải được xử lý.
+
+2.2.4.4.10. Khi cơ cấu phát hiện quá tải bị kích hoạt,
+dấu hiệu quá tải sẽ liên tục hiển thị bằng tín hiệu âm thanh hoặc hình ảnh để cảnh
+báo người vận hành trên sàn làm việc.
+
+2.2.4.4.11. Sàn thao tác treo gắn vào tời nâng phải
+được trang bị một cơ cấu để dừng việc hạ thấp của sàn làm việc khi nó ở trạng
+thái không tải.
+
+2.2.4.5. Yêu cầu đối với tang trống
+
+2.2.4.5.1. Tang cuốn cáp và các thiết bị phụ của nó
+phải được thiết kế để đảm bảo dây cáp không tuột ra khỏi tang trong trường hợp
+bị chùng cáp.
+
+2.2.4.5.2. Góc lệch giữa cáp và phương thẳng đứng của
+ròng rọc không được vượt quá 2o hoặc được tính toán theo hình dạng của
+tời nâng.
+
+2.2.4.5.3. Tang trống cuốn cáp phải được trang bị
+các đĩa có gờ. Độ cao nhô lên của đĩa tính từ lớp cáp ngoài cùng không nhỏ hơn
+1,5 lần đường kính cáp.
+
+2.2.4.6. Yêu cầu đối với cơ cấu dự phòng
+
+2.2.4.6.1. Hệ thống cáp treo và các cơ cấu dự phòng
+phải được trang bị cơ cấu liên kết để hạn chế các mối nguy hiểm trong trường hợp
+sàn thao tác bị rơi. Yêu cầu này phải được đáp ứng bằng một trong các điều kiện
+sau:
+
+2.2.4.6.1.1. Trang bị một hệ thống cáp treo đơn chủ
+động kết hợp với thiết bị chống rơi có khả năng giữ được sàn làm việc trong trường
+hợp hư hỏng cáp treo hoặc tời nâng.
+
+2.2.4.6.1.2. Trang bị một hệ thống cáp treo kép chủ
+động: trong trường hợp một cáp treo bị hư hỏng, cáp còn lại có khả năng giữ được
+sàn làm việc; trong trường hợp tời nâng bị hư hỏng, phanh dự phòng có thể dừng
+và giữ được sàn làm việc.
+
+2.2.4.6.2. Cơ cấu chống rơi
+
+2.2.4.6.2.1. Cơ cấu chống rơi sẽ tự động tác động
+trong trường hợp hư hỏng của cáp treo, quá tốc độ khi hạ thấp sàn làm việc
+(>0,5 m/s), điều kiện không tải trên cáp treo hoặc sàn nghiêng quá 14o.
+
+2.2.4.6.2.2. Thiết bị chống rơi phải được thiết kế
+để có thể dừng sàn làm việc trong khi hoạt động.
+
+2.2.4.6.2.3. Một thiết bị chống rơi phải tác động một
+cách cơ học.
+
+2.2.4.6.2.4. Một thiết bị chống rơi phải hoạt động
+lại được sau khi đặt lại thông số.
+
+2.2.4.6.2.5. Không thể nhả thiết bị chống rơi bằng
+tay khi đang có tải. Tuy nhiên, khi thiết bị chống rơi tác động, vẫn có thể
+nâng sàn làm việc bằng tời.
+
+2.2.4.6.3. Phanh dự phòng
+
+2.2.4.6.3.1. Phanh dự phòng sẽ tự động tác động
+trong trường hợp quá tốc độ (>0,5 m/s) khi hạ thấp sàn làm việc.
+
+2.2.4.6.3.2. Phanh dự phòng chỉ được sử dụng để giữ
+và duy trì sàn làm việc trong điều kiện quá tốc độ.
+
+2.2.4.6.3.3. Phanh dự phòng phải có thể điều chỉnh
+lại được thông số. Không thể nhả phanh đang có tải một cách thủ công mà không sử
+dụng một dụng cụ đặc biệt nào. Phanh dự phòng có thể hoạt động trở lại sau khi
+đặt lại thông số.
+
+2.2.4.6.3.4. Giá trị tốc độ kích hoạt đặt trước của
+phanh dự phòng phải được bảo vệ để chống việc điều chỉnh lại không được phép, ví
+dụ như sử dụng kẹp chì.
+
+2.2.4.6.3.5. Với tời vận hành bằng điện, phanh dự
+phòng phải được trang bị công tắc giới hạn.
+
+2.2.4.6.4. Góc nghiêng lớn nhất của sàn thao tác
+không được lớn hơn 14o, sau khi sàn bị dừng do sự tác động của phanh
+dự phòng.
+
+2.2.4.7. Yêu cầu đối với ròng rọc dẫn cáp
+
+2.2.4.7.1. Cáp phải được ngăn để không rời khỏi các
+rãnh.
+
+2.2.4.7.2. Khoảng cách giữa các cạnh của ròng rọc
+và bộ phận bảo vệ không lớn hơn 0,3 lần đường kính cáp.
+
+2.2.4.7.3. Rãnh cáp trên ròng rọc phải có bán kính
+rãnh trong khoảng từ 0,52 đến 0,65 lần đường kính danh định của cáp.
+
+2.2.4.7.4. Góc mở của ròng rọc cáp phải đối xứng và
+trong khoảng từ 30o đến 50o.
+
+2.2.4.7.5. Chiều sâu của rãnh cáp không nhỏ hơn 1,4
+lần đường kính cáp.
+
+2.2.4.7.6. Góc võng lớn nhất không vượt quá 4o
+từ đường trung tâm và được tính toán theo hình dạng của hệ thống.
+
+2.2.4.8. Yêu cầu đối với cáp treo
+
+2.2.4.8.1. Cáp treo sàn thao tác phải được mạ hoặc
+có các biện pháp để chống rỉ cho cáp.
+
+2.2.4.8.2. Đường kính nhỏ nhất của cáp là 8 mm. Cáp
+dự phòng phải có đường kính tương đương hoặc lớn hơn đường kính cáp treo.
+
+2.2.4.9. Yêu cầu đối với thiết bị treo
+
+2.2.4.9.1. Ở các điểm cuối hành trình phải lắp đặt
+các nút chặn và công tắc giới hạn để đảm bảo sàn thao tác có thể dừng trước khi
+đến vị trí nguy hiểm.
+
+2.2.4.9.2. Tất cả các hệ thống dẫn động nâng hạ phải
+được trang bị phanh chính và phanh dự phòng.
+
+2.2.4.9.3. Nếu cáp treo chính và hệ thống dẫn động
+sử dụng cho các chuyển động lồng vào nhau sai hỏng có thể gây rơi sàn làm việc,
+phải trang bị một hệ thống dự phòng. Phải phát hiện được việc sai hỏng của cáp
+treo và hệ thống dẫn động và dừng các chuyển động tiếp theo.
+
+2.2.4.10. Yêu cầu đối với hệ thống điện, khí nén và
+thủy lực
+
+2.2.4.10.1. Phải có các biện pháp để đảm bảo rằng sự
+lệch pha nguồn cung cấp không dẫn đến sai lệch trong quá trình điều khiển.
+
+2.2.4.10.2. Nguồn cấp chính phải được bảo vệ bằng
+thiết bị bảo vệ quá dòng và bằng thiết bị dòng dư 30 mA.
+
+2.2.4.10.3. Diện tích mặt cắt ngang của dây dẫn
+không nhỏ hơn 0,5mm2 phải được bọc cách điện bảo vệ, điện áp sử dụng
+không quá 240V.
+
+2.2.4.10.4. Công tắc giới hạn hoặc các hệ thống
+khác phải dừng chuyển động của máy trước khi cáp điện bị tuột ra hoàn toàn khỏi
+bộ cuốn cáp.
+
+2.2.4.10.5. Hệ thống thủy lực phải được trang bị
+van giảm áp giữa nguồn cấp và van kiểm soát. Nếu sử dụng các hệ thống thủy lực
+có áp lực khác nhau thì phải trang bị thêm van giảm áp.
+
+2.2.4.10.6. Hệ thống khí nén phải được thiết kế sao
+cho có thể ngăn ngừa được sự đóng băng trong hệ thống như sử dụng chất lỏng phá
+băng.
+
+2.2.4.10.7. Đường ống bao gồm phụ kiện phải có áp
+suất nổ không nhỏ hơn ba lần áp suất làm việc lớn nhất.
+
+2.2.4.10.8. Các bộ phận khác của hệ thống thủy lực
+phải được thiết kế để chịu được ít nhất hai lần áp suất lớn nhất mà chúng phải
+chịu.
+
+2.2.4.11. Yêu cầu đối với hệ thống điều khiển
+
+2.2.4.11.1. Sàn thao tác treo phải dùng hệ thống điều
+khiển "giữ để chạy".
+
+2.2.4.11.2. Phương và hướng chuyển động phải được
+thể hiện rõ ràng, gần nút điều khiển bằng chữ hoặc ký hiệu.
+
+2.2.4.11.3. Bộ điều khiển phải được bố trí theo thứ
+tự lô gic. Phải tính toán đến khả năng người điều khiển sử dụng găng tay. Các
+nút điều khiển phải có đường kính không nhỏ hơn 10 mm.
+
+2.2.4.11.4. Bộ điều khiển phải được lắp đặt ở trên
+sàn thao tác và phải được bảo vệ để tránh việc điều khiển của người không có thẩm
+quyền.
+
+2.2.4.11.5. Chuyển động ra ngoài vị trí làm việc phải
+được giới hạn bằng công tắc giới hạn, vận hành bởi hệ thống chìa khóa trong quá
+trình đỗ của máy.
+
+2.2.5. Các cụm chi tiết cáp thép, tang, ròng rọc và
+đĩa xích ngoài việc đảm bảo các quy định tại BS EN 1808:1999 còn phải đảm bảo
+theo các quy định tại TCVN 4244:2005 Thiết bị
+nâng - Thiết kế, chế tạo và kiểm tra kỹ thuật.
+
+2.2.6. Tất cả các sàn thao tác treo phải được bảo vệ
+chống điện giật theo các quy định hiện hành.
+
+3. Quy định về quản lý an
+toàn lao động trong chế tạo, nhập khẩu, lưu thông, lắp đặt và sử dụng sàn thao
+tác treo.
+
+3.1. Hồ sơ kỹ thuật gốc của sàn thao tác treo bao gồm:
+
+3.1.1. Bản thuyết minh chung phải thể hiện được:
+
+- Tên và địa chỉ của nhà sản xuất, kiểu mẫu, mã hiệu,
+năm sản xuất, tải trọng và số lượng người cho phép, loại dẫn động, điều khiển;
+
+- Bản vẽ sơ đồ và nguyên lý hoạt động;
+
+- Các kích thước chính của thiết bị và các đặc
+trưng kỹ thuật chính của hệ thống (thiết bị điều khiển, thiết bị an toàn, cơ cấu
+hạn chế quá tải), các tiêu chuẩn áp dụng của sàn thao tác treo.
+
+3.1.2. Bản vẽ lắp các cụm cơ cấu của sàn thao tác
+treo.
+
+3.1.3. Bản vẽ tổng thể của sàn thao tác treo có ghi
+các kích thước và thông số chính.
+
+3.1.4. Quy trình kiểm tra và thử tải, quy trình xử
+lý, khắc phục sự cố, chế độ kiểm tra, sửa chữa và bảo dưỡng định kỳ.
+
+3.1.5. Hướng dẫn sử dụng, lắp đặt và tháo rời.
+
+3.1.6. Chứng nhận về chất lượng và xuất xứ các bộ
+phận hợp thành của sàn thao tác treo.
+
+3.2. Điều kiện đảm bảo an toàn đối với sàn thao tác
+treo chế tạo trong nước
+
+3.2.1. Đủ hồ sơ kỹ thuật theo quy định tại 3.1 của
+Quy chuẩn này.
+
+3.2.2. Sàn thao tác treo chế tạo trong nước phải được
+chứng nhận hợp quy và công bố hợp quy phù hợp với các quy định tại 4.1 của Quy
+chuẩn này trên cơ sở việc chứng nhận hợp quy của Tổ chức chứng nhận hợp quy được
+Bộ Lao động - Thương binh và Xã hội chỉ định.
+
+3.2.3. Đơn vị chế tạo phải công bố hợp quy và đăng
+ký hợp quy đối với sàn thao tác treo theo quy định sau khi được chứng nhận hợp
+quy.
+
+3.2.4. Gắn dấu hợp quy trước khi đưa ra lưu thông
+trên thị trường.
+
+3.2.5. Chịu sự kiểm tra giám sát của cơ quan kiểm
+tra chất lượng sản phẩm, hàng hóa thuộc Bộ Lao động - Thương binh và Xã hội.
+
+3.3. Điều kiện đảm bảo an toàn đối với sàn thao tác
+treo nhập khẩu
+
+3.3.1. Đủ hồ sơ kỹ thuật theo quy định tại 3.1 của
+Quy chuẩn này.
+
+3.3.2. Đối với sàn thao tác treo hoặc các phụ kiện
+của sàn thao tác treo khi nhập khẩu phải được chứng nhận hợp quy theo quy định
+tại 4.1.
+
+3.3.3. Trong trường hợp nhập khẩu mà theo thỏa thuận
+song phương, đa phương giữa cơ quan có thẩm quyền của nước Cộng hòa xã hội chủ
+nghĩa Việt Nam với các nước xuất khẩu sàn thao tác treo quy định không phải kiểm
+tra chất lượng khi nhập khẩu thì các sàn thao tác treo này được miễn kiểm tra
+nhập khẩu.
+
+3.3.4. Sàn thao tác treo nhập khẩu phải được kiểm
+tra chất lượng theo trình tự, thủ tục quy định về nhập khẩu hàng hóa và bị xử
+lý nếu có vi phạm theo luật định.
+
+3.3.5. Các sàn thao tác treo phải được gắn dấu hợp
+quy, ghi nhãn trước khi đưa ra lưu thông trên thị trường.
+
+3.4. Điều kiện đảm bảo an toàn đối với sàn thao tác
+treo lưu thông trên thị trường
+
+Sàn thao tác treo lưu thông trên thị trường, người
+bán hàng phải thực hiện các yêu cầu sau:
+
+3.4.1. Đảm bảo các sàn đã được chứng nhận hợp quy
+và gắn dấu hợp quy theo quy định.
+
+3.4.2. Tuân thủ các quy định trong quá trình bảo quản,
+lưu thông sàn thao tác treo theo hướng dẫn của nhà chế tạo.
+
+3.4.3. Chịu sự kiểm tra chất lượng theo những nội dung,
+trình tự, thủ tục quy định và bị xử lý nếu có vi phạm theo luật định.
+
+3.5. Các yêu cầu đối với việc lắp đặt, bảo trì sàn
+thao tác treo
+
+3.5.1. Sàn thao tác treo chỉ được lắp đặt khi có đủ
+các điều kiện sau:
+
+3.5.1.1. Có đủ hồ sơ kỹ thuật như đã nêu ở mục 3.1
+của quy chuẩn này.
+
+3.5.1.2. Sàn thao tác treo sản xuất trong nước phải
+được chứng nhận hợp quy, công bố hợp quy theo quy định. Sàn thao tác treo nhập
+khẩu ở dạng tháo rời phải được chứng nhận hợp quy và hoàn thành thủ tục hải
+quan sau khi lắp đặt xong.
+
+3.5.1.3. Các bộ phận chi tiết máy đi kèm phải đồng
+bộ hoặc chế tạo theo dạng liên kết của nhiều hãng, nhiều quốc gia thì phải đảm
+bảo các đặc tính kỹ thuật theo yêu cầu của nhà sản xuất sàn thao tác treo đứng
+tên.
+
+3.5.2. Yêu cầu đối với đơn vị lắp đặt, bảo trì sàn
+thao tác treo:
+
+3.5.2.1. Có đăng ký kinh doanh hoạt động trong lĩnh
+vực này theo quy định của pháp luật.
+
+3.5.2.2. Có đủ đội ngũ cán bộ và công nhân có
+chuyên môn phù hợp được huấn luyện an toàn lần đầu trước khi giao việc, huấn
+luyện an toàn định kỳ hàng năm theo quy định và phải được cấp Chứng chỉ huấn
+luyện an toàn lao động theo quy định.
+
+3.5.2.3. Có đủ điều kiện trang thiết bị kỹ thuật phục
+vụ cho công việc lắp đặt, bảo dưỡng và sửa chữa sàn thao tác treo.
+
+3.5.2.4. Tuân thủ các yêu cầu về an toàn lắp đặt và
+thử nghiệm của nhà chế tạo.
+
+3.5.2.5. Chịu trách nhiệm đối với đơn vị lắp đặt, bảo
+trì theo hợp đồng đã ký kết với đơn vị sử dụng.
+
+3.5.2.6. Hướng dẫn vận hành, chế độ bảo dưỡng, sửa
+chữa, chế độ kiểm tra định kỳ và các biện pháp khắc phục sự cố khẩn cấp cho đơn
+vị sử dụng.
+
+3.5.2.7. Xây dựng các biện pháp an toàn cho quá
+trình lắp đặt, bảo trì, đồng thời phải tuân thủ đầy đủ các tiêu chuẩn, quy chuẩn
+kỹ thuật quốc gia về an toàn lao động có liên quan và hướng dẫn lắp đặt, bảo
+trì của nhà chế tạo.
+
+3.6. Quản lý sử dụng an toàn sàn thao tác treo
+
+3.6.1. Sàn thao tác treo phải được sử dụng, bảo trì
+và bảo dưỡng theo hướng dẫn của nhà sản xuất.
+
+3.6.2. Người chịu trách nhiệm quản lý trực tiếp,
+người vận hành sàn thao tác treo phải được huấn luyện an toàn lần đầu trước khi
+giao việc, huấn luyện an toàn định kỳ hàng năm và phải được cấp Chứng chỉ huấn
+luyện an toàn lao động theo quy định.
+
+3.6.3. Những yêu cầu an toàn khi sử dụng sàn thao
+tác treo:
+
+3.6.3.1. Chỉ sử dụng sàn thao tác treo có tình trạng
+kỹ thuật tốt và chưa hết hạn kiểm định kỹ thuật an toàn. Trong quá trình sử dụng
+nếu phát hiện sàn thao tác treo không đảm bảo an toàn đơn vị sử dụng có thể đưa
+ra yêu cầu kiểm định trước thời hạn.
+
+3.6.3.2. Các sàn thao tác treo trước khi đưa vào sử
+dụng phải được gắn tem kiểm định theo quy định và ghi nhãn phù hợp với BS EN
+1808:1999.
+
+3.6.3.3. Mỗi sàn thao tác treo phải có sổ theo dõi
+bảo dưỡng, sửa chữa theo quy định của nhà chế tạo.
+
+3.6.3.4. Người vận hành sàn thao tác treo phải được
+trang bị phương tiện bảo vệ cá nhân, giầy, mũ bảo hộ, găng tay và các loại
+phương tiện bảo vệ khác theo quy định.
+
+4. Chứng nhận hợp quy và kiểm định
+kỹ thuật an toàn đối với sàn thao tác treo
+
+4.1. Chứng nhận hợp quy đối với sàn thao tác treo
+
+4.1.1. Việc chứng nhận hợp quy đối với sàn thao tác
+treo hoặc các phụ kiện của sàn thao tác treo sản xuất trong nước được thực hiện
+theo phương thức 5: thử nghiệm mẫu điển hình và đánh giá quá trình sản xuất;
+giám sát thông qua thử nghiệm mẫu lấy tại nơi sản xuất hoặc trên thị trường kết
+hợp với đánh giá quá trình sản xuất nếu chúng được sản xuất hàng loạt; đối với
+sàn thao tác treo sản xuất đơn chiếc, việc chứng nhận hợp quy được thực hiện
+theo phương thức 8: thử nghiệm hoặc kiểm định toàn bộ sản phẩm hàng hóa (trong
+phụ lục II của Quy định về công bố hợp chuẩn, công bố hợp quy và phương thức
+đánh giá sự phù hợp với tiêu chuẩn, quy chuẩn kỹ thuật ban hành kèm theo Thông
+tư số 28/2012/TT-BKHCN ngày 12/12/2012 của Bộ
+trưởng Bộ Khoa học và Công nghệ).
+
+Sàn thao tác treo chế tạo trong nước phải được công
+bố hợp quy phù hợp với các quy định của BS EN 1808:1999 trên cơ sở việc chứng
+nhận hợp quy của Tổ chức chứng nhận hợp quy đã được Bộ Lao động - Thương binh
+và Xã hội chỉ định.
+
+4.1.2. Việc chứng nhận hợp quy đối với sàn thao tác
+treo hoặc các phụ kiện của sàn thao tác treo nhập khẩu được thực hiện theo
+phương thức 7: thử nghiệm, đánh giá lô sản phẩm, hàng hóa lô hàng hóa nếu chúng
+được nhập khẩu hàng loạt; nếu nhập khẩu đơn chiếc thì việc chứng nhận hợp quy
+được thực hiện theo phương thức 8: thử nghiệm hoặc kiểm định toàn bộ sản phẩm
+hàng hóa (trong phụ lục II của Quy định về công bố hợp chuẩn, công bố hợp quy
+và phương thức đánh giá sự phù hợp với tiêu chuẩn, quy chuẩn kỹ thuật ban hành
+kèm theo Thông tư số 28/2012/TT-BKHCN ngày
+12/12/2012 của Bộ trưởng Bộ Khoa học và Công nghệ).
+
+4.1.3. Việc chứng nhận hợp quy phải do tổ chức chứng
+nhận hợp quy được Cục An toàn lao động, Bộ Lao động - Thương binh và Xã hội chỉ
+định.
+
+4.2. Kiểm định kỹ thuật an toàn đối với sàn thao
+tác treo
+
+4.2.1. Đối với các sàn thao tác treo lắp đặt cố định,
+trước khi đưa vào sử dụng phải được kiểm định lần đầu, kiểm định định kỳ hoặc bất
+thường trong quá trình sử dụng.
+
+Chu kỳ kiểm định định kỳ đối với sàn thao tác treo
+lắp đặt cố định không quá 02 năm một lần.
+
+4.2.2. Đối với các sàn thao tác treo lắp đặt di động
+thì mỗi lần thay đổi vị trí lắp đặt mới, các sàn thao tác treo phải được kiểm định
+trước khi đưa vào sử dụng.
+
+4.2.3. Việc kiểm định kỹ thuật an toàn sàn thao tác
+treo phải do tổ chức kiểm định kỹ thuật an toàn đã được Cục An toàn lao động, Bộ
+Lao động - Thương binh và Xã hội chỉ định.
+
+4.2.4. Các sàn thao tác treo sau khi kiểm định đạt
+yêu cầu phải được dán tem kiểm định theo quy định.
+
+5. Thanh tra, kiểm tra và xử lý
+vi phạm
+
+5.1. Thanh tra và xử lý vi phạm trong việc thực hiện
+Quy chuẩn này do thanh tra nhà nước về lao động thực hiện.
+
+5.2. Việc kiểm tra chất lượng sản xuất, nhập khẩu,
+lưu thông và sử dụng sàn thao tác treo được thực hiện theo Luật Chất lượng sản
+phẩm, hàng hóa.
+
+6. Trách nhiệm của các tổ chức,
+cá nhân
+
+6.1. Các tổ chức, cá nhân làm nhiệm vụ chế tạo, nhập
+khẩu, lưu thông, sửa chữa lắp đặt, quản lý và sử dụng sàn thao tác treo có
+trách nhiệm tuân thủ các quy định tại Quy chuẩn này.
+
+6.2. Quy chuẩn này là căn cứ để các cơ quan kiểm
+tra chất lượng sàn thao tác treo tiến hành việc kiểm tra và cũng là căn cứ để
+các tổ chức đánh giá sự phù hợp tiến hành chứng nhận hợp quy.
+
+7. Tổ chức thực hiện
+
+7.1. Cục An toàn lao động, Bộ Lao động - Thương
+binh và Xã hội có trách nhiệm hướng dẫn và kiểm tra việc thực hiện các quy định
+của Quy chuẩn này.
+
+7.2. Các cơ quan quản lý nhà nước về lao động địa
+phương có trách nhiệm hướng dẫn, thanh tra, kiểm tra việc thực hiện các quy định
+của Quy chuẩn này.
+
+7.3. Trong quá trình thực hiện, nếu có vướng mắc,
+các cơ quan, tổ chức, cá nhân có liên quan có trách nhiệm kịp thời phản ánh với
+Bộ Lao động - Thương binh và Xã hội để xem xét giải quyết./.--- THÔNG TIN THÊM ---
+Ten: Thông tư 36/2013/TT-BLĐTBXH về Quy chuẩn kỹ thuật quốc gia an toàn lao động đối với sàn thao tác treo do Bộ trưởng Bộ Lao động - Thương binh và Xã hội ban hành
+So hieu: 36/2013/TT-BLĐTBXH
+Loai van ban: Thông tư
+Linh vuc nganh: Lao động - Tiền lương
+Noi ban hanh: Bộ Lao động - Thương binh và Xã hội
+Nguoi ky: Bùi Hồng Lĩnh
+Ngay ban hanh: 30/12/2013
+Ngay hieu luc: 25/06/2014
+Ngay dang: 20/03/2014
+So cong bao: Từ số 339 đến số 340
+Tinh trang: Còn hiệu lực
+
+
+--- MỤC LỤC ---
+- THÔNG TƯ BAN HÀNH QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ AN TOÀN LAO ĐỘNG ĐỐI VỚI SÀN THAO TÁC TREO
+  - Điều 1. Ban hành kèm theo Thông tư này Quy chuẩn kỹ thuật quốc gia về an toàn lao động đối với sàn thao tác treo.
+  - Điều 2. Quy chuẩn kỹ thuật quốc gia về an toàn lao động đối với sàn thao tác treo có hiệu lực từ ngày 25 tháng 6 năm 2014.
+  - Điều 3. Tổ chức thực hiệnCác Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành./.
+- QCVN 12: 2013/BLĐTBXH QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ AN TOÀN LAO ĐỘNG ĐỐI VỚI SÀN THAO TÁC TREO
+  - 1. Quy định chung
+  - 2. Quy định về kỹ thuật
+  - 3. Quy định về quản lý an toàn lao động trong chế tạo, nhập khẩu, lưu thông, lắp đặt và sử dụng sàn thao tác treo.
+  - 4. Chứng nhận hợp quy và kiểm định kỹ thuật an toàn đối với sàn thao tác treo
+  - 5. Thanh tra, kiểm tra và xử lý vi phạm
+  - 6. Trách nhiệm của các tổ chức, cá nhân
+  - 7. Tổ chức thực hiện
+
+--- VĂN BẢN LIÊN QUAN ---
+
+Van ban duoc dan chieu:
+  - Thông tư 28/2012/TT-BKHCN về Quy định công bố hợp chuẩn, công bố hợp quy và phương thức đánh giá sự phù hợp... (ID: 165233)
+  - Luật chất lượng sản phẩm, hàng hóa 2007 (ID: 59776)
+
+Van ban duoc can cu:
+  - Nghị định 106/2012/NĐ-CP quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Lao động - Thương... (ID: 154043)
+  - Nghị định 132/2008/NĐ-CP Hướng dẫn Luật Chất lượng sản phẩm, hàng hóa (ID: 83467)
+  - Nghị định 127/2007/NĐ-CP Hướng dẫn Luật Tiêu chuẩn và Quy chuẩn kỹ thuật (ID: 54148)
+
+Van ban lien quan cung noi dung:
+  - Thông tư 41/2013/TT-BLĐTBXH về Quy chuẩn kỹ thuật quốc gia an toàn lao động đối với công việc hàn hơi do Bộ trưởng Bộ Lao động - Thương binh và Xã hội ban hành (ID: 219171)
+  - Thông tư 39/2013/TT-BLĐTBXH Quy chuẩn kỹ thuật quốc gia an toàn lao động đối với giày hoặc ủng cách điện do Bộ trưởng Bộ Lao động - Thương binh và Xã hội ban hành (ID: 219173)
+  - Thông tư 38/2013/TT-BLĐTBXH về Quy chuẩn kỹ thuật quốc gia an toàn lao động đối với ống cách điện có chứa bọt và sào cách điện dạng đặc dùng để làm việc khi có điện do Bộ trưởng Bộ Lao động - Thương binh và Xã hội ban hành (ID: 219175)
+  - Thông tư 37/2013/TT-BLĐTBXH Quy chuẩn kỹ thuật quốc gia an toàn lao động đối với Pa lăng điện do Bộ trưởng Bộ Lao động - Thương binh và Xã hội ban hành (ID: 219176)

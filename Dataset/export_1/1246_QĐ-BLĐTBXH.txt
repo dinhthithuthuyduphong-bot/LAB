@@ -1,0 +1,1387 @@
+BỘ LAO ĐỘNG -
+ THƯƠNG BINH VÀ XÃ HỘI
+
+ -------
+
+CỘNG HÒA XÃ HỘI
+ CHỦ NGHĨA VIỆT NAM
+
+ Độc lập - Tự do - Hạnh phúc 
+
+ ---------------
+
+Số:
+ 1246/QĐ-BLĐTBXH
+
+Hà Nội, ngày 09
+ tháng 8 năm 2024
+
+ 
+
+QUYẾT ĐỊNH
+
+VỀ
+VIỆC BAN HÀNH DANH MỤC CƠ SỞ DỮ LIỆU NGÀNH LAO ĐỘNG - THƯƠNG BINH VÀ XÃ HỘI
+
+BỘ TRƯỞNG BỘ LAO ĐỘNG - THƯƠNG BINH VÀ XÃ HỘI
+
+Căn cứ Luật Công nghệ thông tin ngày 29 tháng 6
+năm 2006;
+
+Căn cứ Nghị định số 62/2022/NĐ-CP ngày 12 tháng
+9 năm 2022 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ
+chức của Bộ Lao động - Thương binh và Xã hội;
+
+Căn cứ Nghị định số 47/2020/NĐ-CP ngày 09 tháng
+4 năm 2020 của Chính phủ về quản lý, kết nối và chia sẻ dữ liệu số của cơ quan
+nhà nước;
+
+Căn cứ Nghị quyết số 17/NQ-CP ngày 07 tháng 3
+năm 2019 của Chính phủ về một số nhiệm vụ, giải pháp trọng tâm phát triển Chính
+phủ điện tử giai đoạn 2019 - 2020, định hướng đến 2025;
+
+Căn cứ Thông tư số 11/2021/TT-BLĐTBXH ngày 30
+tháng 9 năm 2021 của Bộ trưởng Bộ Lao động - Thương binh và Xã hội hướng dẫn chức
+năng, nhiệm vụ, quyền hạn của Sở Lao động - Thương binh và Xã hội thuộc Ủy ban
+nhân dân tỉnh và Phòng Lao động - Thương binh và Xã hội thuộc Ủy ban nhân dân
+huyện;
+
+Căn cứ Quyết định số 1229/QĐ-LĐTBXH ngày 01
+tháng 11 năm 2021 của Bộ trưởng Bộ Lao động - Thương binh và Xã hội ban hành Kiến
+trúc Chính phủ điện tử Bộ Lao động - Thương binh và Xã hội, phiên bản 2.0;
+
+Theo đề nghị của Giám đốc Trung tâm Công nghệ
+Thông tin.
+
+QUYẾT ĐỊNH:
+
+Điều 1. Ban hành kèm theo
+Quyết định này Danh mục cơ sở dữ liệu ngành Lao động - Thương binh và Xã hội.
+
+Điều 2. Căn cứ Danh mục cơ
+sở dữ liệu ngành Lao động - Thương binh và Xã hội được phê duyệt:
+
+- Các đơn vị quản lý nhà nước thuộc Bộ được phân
+công chủ trì chịu trách nhiệm xây dựng, vận hành cơ sở dữ liệu; thực hiện cập
+nhật, kết nối, chia sẻ dữ liệu.
+
+- Giám đốc Sở Lao động - Thương binh và Xã hội các
+tỉnh, thành phố trực thuộc Trung ương chủ động tham mưu trình Ủy ban nhân dân tỉnh,
+thành phố xây dựng, điều chỉnh các cơ sở dữ liệu thuộc các lĩnh vực quản lý của
+ngành Lao động - Thương binh và Xã hội tại địa phương đảm bảo phù hợp, hiệu quả,
+tránh chồng lấn, trùng lắp với các cơ sở dữ liệu ngành Lao động - Thương binh
+và Xã hội đã được phê duyệt.
+
+- Giao Trung tâm Công nghệ Thông tin chủ trì định kỳ
+hướng dẫn, theo dõi, đôn đốc, điều chỉnh, bổ sung, trình Bộ ban hành danh mục
+cơ sở dữ liệu ngành Lao động - Thương binh và Xã hội để thống nhất triển khai,
+thực hiện từ Trung ương tới địa phương.
+
+Điều 3. Quyết định này có
+hiệu lực kể từ ngày ký và thay thế Quyết định số 634/QĐ-LĐTBXH ngày 02/6/2021 của
+Bộ Lao động - Thương binh và Xã hội.
+
+Điều 4. Chánh Văn phòng Bộ,
+Vụ trưởng Vụ Kế hoạch - Tài chính, Giám đốc Trung tâm Công nghệ Thông tin, Thủ
+trưởng các đơn vị thuộc Bộ và Giám đốc Sở Lao động - Thương binh và Xã hội các
+tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm thi hành Quyết định
+này./.
+
+ 
+
+ Nơi nhận:
+
+- Như điều 4; 
+
+ - Bộ trưởng (để báo cáo);
+
+ - Các Thứ trưởng;
+
+ - Bộ Thông tin và Truyền thông;
+
+ - Cổng Thông tin điện tử Chính phủ;
+
+ - Cổng Thông tin điện tử Bộ LĐTBXH;
+
+ - UBND các tỉnh, thành phố trực thuộc Trung ương (để phối hợp chỉ đạo thực hiện);
+
+ - Lưu: VT, TTCNTT.
+
+KT. BỘ TRƯỞNG
+
+ THỨ TRƯỞNG
+
+ Nguyễn Bá Hoan
+
+ 
+
+DANH MỤC
+
+CƠ SỞ DỮ LIỆU NGÀNH LAO ĐỘNG - THƯƠNG BINH VÀ XÃ HỘI
+
+(Kèm theo Quyết định số 1246/QĐ-BLĐTBXH ngày 09/8/2024 của Bộ trưởng Bộ Lao
+động - Thương binh và Xã hội)
+
+Stt
+
+Tên cơ sở dữ liệu
+
+Thông tin quản
+ lý trong cơ sở dữ liệu
+
+Đơn vị cập nhật
+ dữ liệu
+
+Phân loại dữ liệu
+
+Đảm bảo khả
+ năng kết nối, chia sẻ dữ liệu
+
+Đơn vị chủ trì
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+A
+
+NHÓM LĨNH VỰC AN SINH XÃ
+ HỘI
+
+I
+
+Lĩnh vực bảo trợ xã hội
+ và giảm nghèo
+
+1
+
+Cơ sở dữ liệu cơ sở
+ trợ giúp xã hội
+
+Thông tin cơ sở trợ giúp xã hội (cơ sở thực hiện
+ trợ giúp đối tượng bảo trợ xã hội; trợ giúp trẻ em có hoàn cảnh đặc biệt; trợ
+ giúp người cai nghiện, người bị mua bán trở về):
+
+- Thông tin cơ bản của cơ sở trợ giúp xã hội
+
+- Thông tin về hoạt động trợ giúp
+
+- Thông tin về kết quả và chất lượng dịch vụ trợ
+ giúp
+
+- Thông tin về cơ sở vật chất
+
+- Thông tin về cán bộ quản lý
+
+- Thông tin quản lý khác
+
+Sở LĐTBXH, cơ sở
+ trợ giúp xã hội
+
+Dữ liệu mặc định
+
+- Cơ sở dữ liệu đối tượng trợ giúp xã hội
+
+- Cơ sở dữ liệu trẻ em
+
+- Cơ sở dữ liệu người cao tuổi
+
+- Cơ sở dữ liệu người khuyết tật
+
+- Cơ sở dữ liệu hộ nghèo, hộ cận nghèo
+
+- Cơ sở dữ liệu người khuyết tật
+
+- Cơ sở dữ liệu người cai nghiện ma túy và sau
+ cai nghiện ma túy
+
+- Cơ sở dữ liệu người bị mua, bán trở về
+
+- Cơ sở dữ liệu người làm công tác xã hội
+
+- Cơ sở dữ liệu quốc gia, bộ ngành, địa phương
+
+Cục Bảo trợ xã hội
+ chủ trì;
+
+Cục Phòng chống tệ
+ nạn xã hội; Cục Trẻ em phối hợp
+
+2
+
+Cơ sở dữ liệu đối
+ tượng trợ giúp xã hội
+
+Thông tin đối tượng trợ giúp xã hội:
+
+- Thông tin cơ bản của đối tượng trợ giúp xã hội
+
+- Thông tin quản lý đối tượng trợ giúp xã hội tại
+ các cơ sở trợ giúp xã hội, nhà xã hội
+
+- Thông tin quản lý đối tượng trợ giúp xã hội tại
+ cộng đồng
+
+- Thông tin hưởng chính sách đối với đối tượng trợ
+ giúp xã hội
+
+- Thông tin quản lý khác
+
+UBND xã/phường,
+ Phòng LĐTBXH quận/huyện, Sở LĐTBXH. cơ sở trợ giúp xã hội, người đại diện
+
+Dữ liệu mặc định và
+ đặc thù
+
+- Cơ sở dữ liệu cơ sở trợ giúp xã hội
+
+- Cơ sở dữ liệu trẻ em
+
+- Cơ sở dữ liệu người cao tuổi
+
+- Cơ sở dữ liệu người khuyết tật
+
+- Cơ sở dữ liệu hộ nghèo, hộ cận nghèo
+
+- Cơ sở dữ liệu người hưởng chính sách ưu đãi người
+ có công
+
+- Cơ sở dữ liệu người lao động
+
+- Cơ sở dữ liệu học sinh, sinh viên giáo dục nghề
+ nghiệp
+
+- Xác thực thông tin đối tượng với cơ sở dữ liệu
+ quốc gia về dân cư
+
+- Cơ sở dữ liệu quốc gia, bộ ngành, địa phương
+
+Cục Bảo trợ xã hội
+
+3
+
+Cơ sở dữ liệu người
+ khuyết tật
+
+Thông tin người khuyết tật:
+
+- Thông tin cơ bản của người khuyết tật (bao gồm
+ thông tin nạn nhân bom mìn)
+
+- Thông tin hưởng chính sách đối với người khuyết
+ tật
+
+- Thông tin quản lý khác
+
+UBND xã/phường,
+ Phòng LĐTBXH quận/huyện, người khuyết tật, tổ chức người khuyết tật
+
+Dữ liệu mặc định
+ và đặc thù
+
+- Cơ sở dữ liệu cơ sở trợ giúp xã hội
+
+- Cơ sở dữ liệu đối tượng trợ giúp xã hội
+
+- Cơ sở dữ liệu trẻ em
+
+- Cơ sở dữ liệu người cao tuổi
+
+- Cơ sở dữ liệu hộ nghèo, hộ cận nghèo
+
+- Cơ sở dữ liệu người hưởng chính sách ưu đãi người
+ có công
+
+- Cơ sở dữ liệu người lao động
+
+- Cơ sở dữ liệu học sinh, sinh viên giáo dục nghề
+ nghiệp
+
+- Xác thực thông tin đối tượng với cơ sở dữ liệu
+ quốc gia về dân cư
+
+Cục Bảo trợ xã hội
+
+4
+
+Cơ sở dữ liệu người
+ cao tuổi
+
+Thông tin người cao tuổi:
+
+- Thông tin cơ bản của người cao tuổi
+
+- Thông tin hưởng chính sách đối với người cao tuổi
+
+- Thông tin quản lý khác
+
+UBND xã/phường,
+ Phòng LĐTBXH quận/huyện, Hội người cao tuổi
+
+Dữ liệu mặc định
+ và đặc thù
+
+- Cơ sở dữ liệu cơ sở trợ giúp xã hội
+
+- Cơ sở dữ liệu đối tượng trợ giúp xã hội
+
+- Cơ sở dữ liệu người khuyết tật
+
+- Cơ sở dữ liệu hộ nghèo, hộ cận nghèo
+
+- Cơ sở dữ liệu người hưởng chính sách ưu đãi người
+ có công
+
+- Cơ sở dữ liệu người lao động
+
+- Xác thực thông tin đối tượng với cơ sở dữ liệu
+ quốc gia về dân cư
+
+- Cơ sở dữ liệu quốc gia, bộ ngành, địa phương
+
+Cục Bảo trợ xã hội
+
+5
+
+Cơ sở dữ liệu người
+ làm công tác xã hội
+
+Thông tin người làm công tác xã hội:
+
+- Thông tin cơ bản của nhân viên công tác xã hội
+
+- Thông tin quản lý nhân viên công tác xã hội
+
+- Thông tin quản lý khác
+
+Sở LĐTBXH, cơ sở
+ trợ giúp xã hội, tổ chức, nhân viên
+
+Dữ liệu mặc định
+
+- Cơ sở dữ liệu cơ sở trợ giúp xã hội
+
+- Cơ sở dữ liệu người lao động
+
+- Cơ sở dữ liệu học sinh, sinh viên giáo dục nghề
+ nghiệp
+
+- Xác thực thông tin đối tượng với cơ sở dữ liệu
+ quốc gia về dân cư
+
+Cục Bảo trợ xã hội
+ chủ trì; Cục Phòng chống tệ nạn xã hội; Cục Trẻ em phối hợp
+
+6
+
+Cơ sở dữ liệu hộ
+ nghèo, hộ cận nghèo
+
+Thông tin hộ nghèo, hộ cận nghèo:
+
+- Thông tin của hộ nghèo, hộ cận nghèo
+
+- Thông tin cơ bản của thành viên hộ nghèo, hộ cận
+ nghèo
+
+- Thông tin quản lý thành viên hộ nghèo, hộ cận
+ nghèo 
+
+- Thông tin hưởng chính sách đối với hộ, thành
+ viên hộ nghèo, cận nghèo
+
+- Thông tin quản lý khác
+
+UBND xã/phường,
+ Phòng LĐTBXH quận/huyện
+
+Dữ liệu mặc định
+ và đặc thù
+
+- Cơ sở dữ liệu đối tượng trợ giúp xã hội
+
+- Cơ sở dữ liệu trẻ em
+
+- Cơ sở dữ liệu người cao tuổi
+
+- Cơ sở dữ liệu người khuyết tật
+
+- Cơ sở dữ liệu người hưởng chính sách ưu đãi người
+ có công
+
+- Cơ sở dữ liệu người lao động
+
+- Cơ sở dữ liệu học sinh, sinh viên giáo dục nghề
+ nghiệp
+
+- Xác thực thông tin đối tượng với cơ sở dữ liệu
+ quốc gia về dân cư
+
+- Cơ sở dữ liệu quốc gia, bộ ngành, địa phương
+
+Văn phòng Quốc gia
+ về giảm nghèo
+
+II
+
+Lĩnh vực trẻ em
+
+7
+
+Cơ sở dữ liệu trẻ
+ em
+
+Thông tin trẻ em:
+
+- Thông tin cơ bản của trẻ em
+
+- Thông tin hoàn cảnh đặc biệt của trẻ em
+
+- Thông tin trợ giúp trẻ em có HCĐB
+
+- Thông tin hỗ trợ từ tổng đài 1080
+
+- Thông tin quản lý khác
+
+UBND xã/phường,
+ Phòng LĐTBXH quận/huyện, cơ quan, tổ chức có liên quan
+
+Dữ liệu mặc định
+ và đặc thù
+
+- Cơ sở dữ liệu cơ sở trợ giúp xã hội
+
+- Cơ sở dữ liệu đối tượng trợ giúp xã hội
+
+- Cơ sở dữ liệu người khuyết tật
+
+- Cơ sở dữ liệu người hưởng chính sách ưu đãi người
+ có công
+
+- Cơ sở dữ liệu người lao động
+
+- Cơ sở dữ liệu học sinh, sinh viên giáo dục nghề
+ nghiệp
+
+- Xác thực thông tin đối tượng với cơ sở dữ liệu
+ quốc gia về dân cư
+
+- Cơ sở dữ liệu quốc gia, bộ ngành, địa phương
+
+Cục Trẻ em
+
+III
+
+Lĩnh vực phòng, chống
+ tệ nạn xã hội
+
+8
+
+Cơ sở dữ liệu người
+ cai nghiện ma túy và sau cai nghiện ma túy
+
+Thông tin người cai nghiện ma túy và sau cai nghiện
+ ma túy:
+
+- Thông tin cơ bản về người nghiện ma túy và sau
+ cai nghiện ma túy
+
+- Thông tin nghiệp vụ về cai nghiện ma túy
+
+- Thông tin đang cai nghiện ma túy
+
+- Thông tin hoàn thành cai nghiện
+
+- Thông tin sau cai nghiện ma túy
+
+- Thông tin cơ sở cai nghiện hoặc cơ sở trợ giúp
+ xã hội
+
+- Thông tin quản lý khác
+
+Sở LĐTBXH, cơ sở
+ cai nghiện, cơ sở trợ giúp xã hội
+
+Dữ liệu mặc định
+ và đặc thù
+
+- Cơ sở dữ liệu cơ sở trợ giúp xã hội
+
+- Cơ sở dữ liệu người lao động
+
+- Xác thực thông tin đối tượng với cơ sở dữ liệu
+ quốc gia về dân cư
+
+- Cơ sở dữ liệu quốc gia, bộ ngành, địa phương
+
+Cục Phòng, chống tệ
+ nạn xã hội
+
+9
+
+Cơ sở dữ liệu nạn
+ nhân bị mua bán
+
+Thông tin nạn nhân bị mua bán:
+
+- Thông tin cơ bản của nạn nhân bị mua, bán
+
+- Thông tin địa điểm bị mua, bán
+
+- Thông tin về hỗ trợ nạn nhân bị mua, bán
+
+- Thông tin hình thức lưu trú của nạn nhân bị
+ mua, bán
+
+- Thông tin cơ sở trợ giúp xã hội
+
+- Thông tin quản lý khác
+
+Sở LĐTBXH, cơ sở
+ trợ giúp xã hội
+
+Dữ liệu mặc định
+ và đặc thù
+
+- Cơ sở dữ liệu cơ sở trợ giúp xã hội
+
+- Cơ sở dữ liệu người lao động
+
+- Xác thực thông tin đối tượng với cơ sở dữ liệu
+ quốc gia về dân cư
+
+- Cơ sở dữ liệu quốc gia, bộ ngành, địa phương
+
+Cục Phòng, chống tệ
+ nạn xã hội
+
+IV
+
+Lĩnh vực người có công
+
+10
+
+Cơ sở dữ liệu liệt
+ sĩ, mộ liệt sĩ và nghĩa trang liệt sĩ
+
+- Thông tin liệt sĩ
+
+- Thông tin thân nhân liệt sĩ
+
+- Thông tin mộ liệt sĩ, nghĩa trang liệt sĩ
+
+Cục Người có công,
+ Sở LĐTBXH
+
+Dữ liệu đặc thù
+
+- Cơ sở dữ liệu người hưởng chính sách ưu đãi người
+ có công
+
+- Cơ sở dữ liệu ADN của liệt sĩ và thân nhân
+
+Cục Người có công
+
+11
+
+Cơ sở dữ liệu ADN
+ của liệt sĩ và thân nhân
+
+- Thông tin ADN của các liệt sĩ chưa rõ tên
+
+- Thông tin ADN của các thân nhân liệt sĩ
+
+Cục Người có công,
+ đơn vị giám định
+
+Dữ liệu đặc thù
+
+- Cơ sở dữ liệu liệt sĩ
+
+- Cơ sở dữ liệu người hưởng chính sách ưu đãi người
+ có công
+
+Cục Người có công
+
+12
+
+Cơ sở dữ liệu người
+ hưởng chính sách ưu đãi người có công
+
+Thông tin người hưởng chính sách ưu đãi người có
+ công:
+
+- Thông tin cơ bản của người hưởng chính sách
+
+- Thông tin về thực hiện chính sách, tình hình
+ chi trả trợ cấp.
+
+- Thông tin quản lý khác
+
+Cục Người có công,
+ Sở LĐTBXH
+
+Dữ liệu đặc thù
+
+- Cơ sở dữ liệu liệt sĩ, mộ liệt sĩ và nghĩa
+ trang liệt sĩ
+
+- Cơ sở dữ liệu ADN của liệt sĩ và thân nhân
+
+- Cơ sở dữ liệu đối tượng trợ giúp xã hội
+
+- Cơ sở dữ liệu người lao động
+
+- Cơ sở dữ liệu học sinh, sinh viên giáo dục nghề
+ nghiệp
+
+- Xác thực thông tin đối tượng với cơ sở dữ liệu
+ quốc gia về dân cư
+
+- Cơ sở dữ liệu quốc gia, bộ ngành, địa phương
+
+Cục Người có công
+
+B
+
+NHÓM LĨNH VỰC LAO ĐỘNG -
+ VIỆC LÀM
+
+13
+
+Cơ sở dữ liệu tổ
+ chức của người lao động tại cơ sở
+
+Thông tin tổ chức của người lao động tại cơ sở:
+
+- Thông tin cơ bản của tổ chức của người lao động
+ thành lập tại doanh nghiệp.
+
+- Thông tin quản lý tổ chức
+
+- Thông tin về hoạt động của tổ chức
+
+- Thông tin quản lý khác
+
+Sở LĐTBXH, doanh
+ nghiệp
+
+Dữ liệu mặc định
+ và đặc thù
+
+- Cơ sở dữ liệu doanh nghiệp thực hiện chính sách
+ lao động, việc làm
+
+- Cơ sở dữ liệu người lao động
+
+- Cơ sở dữ liệu quốc gia, bộ ngành, địa phương
+
+Cục Quan hệ lao động
+ và Tiền lương
+
+14
+
+Cơ sở dữ liệu thực
+ hiện chính sách lao động, việc làm của doanh nghiệp
+
+Thông tin doanh nghiệp thực hiện chính sách lao động,
+ việc làm:
+
+- Thông tin cơ bản của doanh nghiệp
+
+- Thông tin thực hiện chính sách về lao động
+
+- Thông tin thực hiện chính sách về quan hệ lao động
+
+- Thông tin thực hiện chính sách về việc làm
+
+- Thông tin thực hiện chính sách về bảo hiểm thất
+ nghiệp
+
+- Thông tin thực hiện chính sách về bảo hiểm xã hội
+
+- Thông tin thực hiện chính sách về an toàn, vệ
+ sinh lao động
+
+- Thông tin về tổ chức của người lao động tại cơ
+ sở
+
+- Thông tin quản lý khác
+
+Sở LĐTBXH, Ban quản
+ lý Khu công nghiệp, Khu chế xuất, doanh nghiệp
+
+Dữ liệu mặc định
+ và đặc thù
+
+- Cơ sở dữ liệu tổ chức của người lao động tại cơ
+ sở
+
+- Cơ sở dữ liệu người lao động
+
+- Cơ sở dữ liệu giải quyết hưởng bảo hiểm thất
+ nghiệp
+
+- Cơ sở dữ liệu lao động nước ngoài làm việc tại
+ Việt Nam
+
+- Cơ sở dữ liệu tổ chức huấn luyện an toàn vệ
+ sinh lao động
+
+- Cơ sở dữ liệu về tai nạn lao động
+
+- Cơ sở dữ liệu cơ sở giới thiệu việc làm
+
+- Cơ sở dữ liệu quốc gia, bộ ngành, địa phương
+
+Cục Quan hệ lao động
+ và Tiền lương chủ trì; Cục Việc làm, Cục An toàn lao động và Vụ BHXH phối hợp
+
+15
+
+Cơ sở dữ liệu người
+ lao động
+
+Thông tin người lao động:
+
+- Thông tin cơ bản của người dân từ 15 tuổi trở
+ lên
+
+- Thông tin về lao động
+
+- Thông tin về quan hệ lao động
+
+- Thông tin về việc làm
+
+- Thông tin về bảo hiểm thất nghiệp
+
+- Thông tin về bảo hiểm xã hội
+
+- Thông tin về an toàn, vệ sinh lao động
+
+- Thông tin quản lý khác
+
+UBND xã/phường,
+ doanh nghiệp, tổ chức, người lao động
+
+Dữ liệu mặc định
+ và đặc thù
+
+- Cơ sở dữ liệu đối tượng trợ giúp xã hội
+
+- Cơ sở dữ liệu trẻ em
+
+- Cơ sở dữ liệu người cao tuổi
+
+- Cơ sở dữ liệu người khuyết tật
+
+- Cơ sở dữ liệu hộ nghèo, hộ cận nghèo
+
+- Cơ sở dữ liệu người cai nghiện ma túy và sau
+ cai nghiện ma túy
+
+- Cơ sở dữ liệu nạn nhân bị mua bán
+
+- Cơ sở dữ liệu người hưởng chính sách ưu đãi người
+ có công
+
+- Cơ sở dữ liệu tổ chức của người lao động tại cơ
+ sở
+
+- Cơ sở dữ liệu giải quyết hưởng bảo hiểm thất
+ nghiệp
+
+- Cơ sở dữ liệu người lao động Việt Nam đi làm việc
+ ở nước ngoài theo hợp đồng
+
+- Cơ sở dữ liệu cơ sở giới thiệu việc làm
+
+- Cơ sở dữ liệu kiểm định viên
+
+- Cơ sở dữ liệu tổ chức huấn luyện an toàn vệ
+ sinh lao động
+
+- Cơ sở dữ liệu về tai nạn lao động
+
+- Cơ sở dữ liệu nhà giáo giáo dục nghề nghiệp
+
+- Cơ sở dữ liệu học sinh, sinh viên giáo dục nghề
+ nghiệp
+
+- Xác thực thông tin đối tượng với cơ sở dữ liệu
+ quốc gia về dân cư
+
+- Cơ sở dữ liệu quốc gia, bộ ngành, địa phương
+
+Cục Việc làm
+
+16
+
+Cơ sở dữ liệu lao
+ động nước ngoài làm việc tại Việt Nam
+
+Thông tin lao động nước ngoài làm việc tại Việt
+ Nam:
+
+- Thông tin cơ bản của lao động nước ngoài làm việc
+ tại Việt Nam
+
+- Thông tin về giấy phép lao động
+
+- Thông tin về việc làm của lao động tại Việt Nam
+
+- Thông tin quản lý khác
+
+Sở LĐTBXH, Ban quản
+ lý Khu công nghiệp, Khu chế xuất, doanh nghiệp
+
+Dữ liệu đặc thù
+
+- Cơ sở dữ liệu doanh nghiệp thực hiện chính sách
+ lao động, việc làm
+
+- Cơ sở dữ liệu về tai nạn lao động
+
+- Cơ sở dữ liệu quốc gia, bộ ngành, địa phương
+
+Cục Việc làm
+
+17
+
+Cơ sở dữ liệu giải
+ quyết hưởng bảo hiểm thất nghiệp
+
+Thông tin giải quyết hưởng BHTN:
+
+- Thông tin cơ bản của lao động
+
+- Thông tin tư vấn giới thiệu việc làm
+
+- Thông tin hưởng trợ cấp thất nghiệp
+
+- Thông tin hỗ trợ học nghề
+
+- Thông tin hỗ trợ đào tạo, bồi dưỡng nâng cao
+ trình độ kỹ năng nghề
+
+- Thông tin quản lý khác
+
+Sở LĐTBXH, cơ sở
+ giới thiệu việc làm, doanh nghiệp
+
+Dữ liệu mặc định
+ và đặc thù
+
+- Cơ sở dữ liệu doanh nghiệp thực hiện chính sách
+ lao động, việc làm
+
+- Cơ sở dữ liệu cơ sở giới thiệu việc làm
+
+- Cơ sở dữ liệu người lao động
+
+- Xác thực thông tin đối tượng với cơ sở dữ liệu
+ quốc gia về dân cư
+
+- Cơ sở dữ liệu quốc gia, bộ ngành, địa phương
+
+Cục Việc làm
+
+18
+
+Cơ sở dữ liệu cơ sở
+ giới thiệu việc làm
+
+Thông tin cơ sở giới thiệu việc làm:
+
+- Thông tin cơ bản của cơ sở giới thiệu việc làm
+
+- Thông tin về cơ sở vật chất
+
+- Thông tin về cán bộ, viên chức, người lao động
+
+- Thông tin tư vấn giới thiệu việc làm
+
+- Thông tin giao dịch giới thiệu việc làm
+
+- Thông tin về hoạt động giải quyết chế độ BHTN
+
+- Thông tin quản lý khác
+
+Sở LĐTBXH, doanh
+ nghiệp
+
+Dữ liệu mặc định
+ và đặc thù
+
+- Cơ sở dữ liệu doanh nghiệp thực hiện chính sách
+ lao động, việc làm
+
+- Cơ sở dữ liệu cơ sở giáo dục nghề nghiệp
+
+- Cơ sở dữ liệu học sinh, sinh viên giáo dục nghề
+ nghiệp
+
+- Cơ sở dữ liệu người lao động
+
+- Cơ sở dữ liệu giải quyết hưởng bảo hiểm thất
+ nghiệp
+
+- Cơ sở dữ liệu quốc gia, bộ ngành, địa phương
+
+Cục Việc làm
+
+19
+
+Cơ sở dữ liệu
+ doanh nghiệp hoạt động dịch vụ đưa người lao động Việt Nam đi làm việc ở nước
+ ngoài theo hợp đồng
+
+Thông tin doanh nghiệp hoạt động dịch vụ đưa người
+ lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng:
+
+- Thông tin cơ bản của doanh nghiệp, đơn vị sự
+ nghiệp, tổ chức
+
+- Thông tin về giấy phép hoạt động dịch vụ đưa
+ người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng
+
+- Thông tin về hoạt động dịch vụ đưa người lao động
+ Việt Nam đi làm việc ở nước ngoài theo hợp đồng
+
+- Thông tin về cán bộ, viên chức, người lao động
+
+- Thông tin về cơ sở vật chất
+
+- Thông tin quản lý khác
+
+Cục Quản lý Lao động
+ ngoài nước, doanh nghiệp
+
+Dữ liệu mở
+
+- Cơ sở dữ liệu doanh nghiệp thực hiện chính sách
+ lao động, việc làm
+
+- Cơ sở dữ liệu cơ sở giới thiệu việc làm
+
+- Cơ sở dữ liệu người lao động Việt Nam đi làm việc
+ ở nước ngoài theo hợp đồng
+
+- Cơ sở dữ liệu quốc gia, bộ ngành, địa phương
+
+Cục Quản lý Lao động
+ ngoài nước
+
+20
+
+Cơ sở dữ liệu người
+ lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng
+
+Thông tin người lao động Việt Nam đi làm việc ở
+ nước ngoài theo hợp đồng:
+
+- Thông tin cơ bản của người lao động Việt Nam đi
+ làm việc ở nước ngoài theo hợp đồng
+
+- Thông tin cơ bản của doanh nghiệp, đơn vị sự
+ nghiệp, tổ chức đưa người lao động Việt Nam đi làm việc ở nước ngoài theo hợp
+ đồng
+
+- Thông tin về hợp đồng, việc làm của lao động Việt
+ Nam làm việc ở nước ngoài theo hợp đồng
+
+- Thông tin quản lý khác
+
+Sở LĐTBXH, doanh
+ nghiệp, tổ chức
+
+Dữ liệu đặc thù
+
+- Cơ sở dữ liệu doanh nghiệp hoạt động dịch vụ
+ đưa người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng
+
+- Cơ sở dữ liệu người lao động
+
+- Xác thực thông tin đối tượng với cơ sở dữ liệu
+ quốc gia về dân cư
+
+- Cơ sở dữ liệu quốc gia, bộ ngành, địa phương
+
+Cục Quản lý Lao động
+ ngoài nước
+
+21
+
+Cơ sở dữ liệu tổ
+ chức kiểm định thiết bị, máy móc có yêu cầu nghiêm ngặt về an toàn lao động
+
+Thông tin tổ chức kiểm định:
+
+- Thông tin cơ bản của tổ chức kiểm định
+
+- Thông tin về cơ sở vật chất
+
+- Thông tin về cán bộ, kiểm định viên, người lao
+ động
+
+- Thông tin thiết bị, máy móc được kiểm định
+
+- Thông tin hoạt động huấn luyện vệ sinh an toàn
+ lao động
+
+- Thông tin quản lý khác
+
+Bộ LĐTBXH, Sở
+ LĐTBXH, tổ chức kiểm định
+
+Dữ liệu mở
+
+- Cơ sở dữ liệu doanh nghiệp thực hiện chính sách
+ lao động, việc làm
+
+- Cơ sở dữ liệu kiểm định viên
+
+- Cơ sở dữ liệu quốc gia, bộ ngành, địa phương
+
+Cục An toàn lao động
+
+22
+
+Cơ sở dữ liệu kiểm
+ định viên an toàn lao động
+
+Cơ sở dữ liệu kiểm định viên là thành phần của cơ
+ sở dữ liệu tổ chức kiểm định.
+
+Thông tin kiểm định viên:
+
+- Thông tin cơ bản của kiểm định viên
+
+- Thông tin quản lý kiểm định viên
+
+- Thông tin về việc làm, quan hệ lao động, bảo hiểm...
+ của kiểm định viên
+
+- Thông tin cơ sở tổ chức kiểm định
+
+- Thông tin quản lý khác
+
+Sở LĐTBXH, tổ chức
+ kiểm định
+
+Dữ liệu mặc định
+ và đặc thù
+
+- Cơ sở dữ liệu tổ chức kiểm định
+
+- Cơ sở dữ liệu người lao động
+
+- Xác thực thông tin đối tượng với cơ sở dữ liệu
+ quốc gia về dân cư
+
+Cục An toàn lao động
+
+23
+
+Cơ sở dữ liệu tổ
+ chức huấn luyện an toàn vệ sinh lao động
+
+Thông tin tổ chức huấn luyện an toàn vệ sinh lao
+ động:
+
+- Thông tin cơ bản tổ chức huấn luyện an toàn vệ
+ sinh lao động
+
+- Thông tin về cơ sở vật chất
+
+- Thông tin hoạt động huấn luyện an toàn vệ sinh
+ lao động (nghiệp vụ huấn luyện, cán bộ, huấn luyện viên, người lao động...)
+
+- Thông tin quản lý khác
+
+Sở LĐTBXH, tổ chức
+ huấn luyện
+
+Dữ liệu mở
+
+- Cơ sở dữ liệu doanh nghiệp thực hiện chính sách
+ lao động, việc làm
+
+- Cơ sở dữ liệu quốc gia, bộ ngành, địa phương
+
+Cục An toàn lao động
+
+24
+
+Cơ sở dữ liệu tai
+ nạn lao động
+
+Thông tin về tai nạn lao động:
+
+- Thông tin về vụ tai nạn lao động
+
+- Thông tin về người bị tai nạn lao động trong vụ
+ tai nạn
+
+- Thông tin về thực hiện chính sách cho người bị
+ tai nạn lao động
+
+- Thông tin quản lý khác
+
+Sở LĐTBXH, doanh
+ nghiệp
+
+Dữ liệu mặc định
+ và đặc thù
+
+- Cơ sở dữ liệu doanh nghiệp thực hiện chính sách
+ lao động, việc làm
+
+- Cơ sở dữ liệu người lao động
+
+- Cơ sở dữ liệu lao động nước ngoài làm việc tại
+ Việt Nam
+
+- Xác thực thông tin đối tượng với cơ sở dữ liệu
+ quốc gia về dân cư
+
+- Cơ sở dữ liệu quốc gia, bộ ngành, địa phương
+
+Cục An toàn lao động
+
+C
+
+NHÓM LĨNH VỰC GIÁO DỤC
+ NGHỀ NGHIỆP
+
+25
+
+Cơ sở dữ liệu cơ sở
+ giáo dục nghề nghiệp
+
+Cơ sở dữ liệu cơ sở giáo dục nghề nghiệp là thành
+ phần của HTTT về giáo dục nghề nghiệp.
+
+Thông tin cơ sở giáo dục nghề nghiệp:
+
+- Thông tin cơ bản của cơ sở giáo dục nghề nghiệp
+
+- Thông tin về cơ sở vật chất
+
+- Thông tin về giáo viên, cán bộ quản lý
+
+- Thông tin về chương trình đào tạo, bài giảng
+
+- Thông tin tuyển sinh
+
+- Thông tin về học sinh, sinh viên
+
+- Thông tin về văn bằng, chứng chỉ kỹ năng nghề
+
+- Thông tin kiểm định giáo dục nghề nghiệp
+
+- Thông tin quản lý khác
+
+Sở LĐTBXH, cơ sở
+ GDNN
+
+Dữ liệu mở
+
+- Cơ sở dữ liệu nhà giáo giáo dục nghề nghiệp
+
+- Cơ sở dữ liệu học sinh, sinh viên giáo dục nghề
+ nghiệp
+
+- Cơ sở dữ liệu quốc gia, bộ ngành, địa phương
+
+Tổng cục Giáo dục
+ nghề nghiệp
+
+26
+
+Cơ sở dữ liệu nhà
+ giáo giáo dục nghề nghiệp
+
+Cơ sở dữ liệu nhà giáo giáo dục nghề nghiệp
+
+là thành phần của HTTT về giáo dục nghề nghiệp
+
+- Thông tin cơ bản của nhà giáo
+
+- Thông tin chuyên môn
+
+- Thông tin hoạt động giáo dục nghề nghiệp
+
+- Thông tin quản lý khác
+
+Sở LĐTBXH, cơ sở
+ GDNN
+
+Dữ liệu mặc định
+ và đặc thù
+
+- Cơ sở dữ liệu cơ sở giáo dục nghề nghiệp
+
+- Cơ sở dữ liệu người lao động
+
+- Xác thực thông tin đối tượng với cơ sở dữ liệu
+ quốc gia về dân cư
+
+- Cơ sở dữ liệu quốc gia, bộ ngành, địa phương
+
+Tổng cục Giáo dục
+ nghề nghiệp
+
+27
+
+Cơ sở dữ liệu học
+ sinh, sinh viên giáo dục nghề nghiệp
+
+Cơ sở dữ liệu học sinh, sinh viên là thành phần của
+ HTTT về giáo dục nghề nghiệp
+
+- Thông tin cơ bản của học sinh, sinh viên
+
+- Thông tin tuyển sinh, quá trình đào tạo
+
+- Thông tin tìm việc và việc làm sau tốt nghiệp
+
+- Thông tin văn bằng, chứng chỉ kỹ năng nghề
+
+- Thông tin quản lý khác
+
+Cơ sở GDNN
+
+Dữ liệu mặc định
+ và đặc thù
+
+- Cơ sở dữ liệu cơ sở giáo dục nghề nghiệp
+
+- Cơ sở dữ liệu trẻ em
+
+- Cơ sở dữ liệu người khuyết tật
+
+- Cơ sở dữ liệu hộ nghèo, hộ cận nghèo
+
+- Cơ sở dữ liệu người hưởng chính sách ưu đãi người
+ có công
+
+- Cơ sở dữ liệu người lao động
+
+- Xác thực thông tin đối tượng với cơ sở dữ liệu
+ quốc gia về dân cư
+
+- Cơ sở dữ liệu quốc gia, bộ ngành, địa phương
+
+Tổng cục Giáo dục
+ nghề nghiệp
+
+D
+
+CÁC CƠ SỞ DỮ LIỆU KHÁC
+
+28
+
+Cơ sở dữ liệu báo
+ cáo hành chính
+
+Thông tin báo cáo hành chính của các cơ quan hành
+ chính nhà nước lĩnh vực của ngành theo quy định tại Nghị định số
+ 09/2019/NĐ-CP ngày 24/01/2019.
+
+Sở LĐTBXH, các đơn
+ vị thuộc Bộ
+
+Dữ liệu mở
+
+Chia sẻ với các HTTT báo cáo; Các Cổng dữ liệu quốc
+ gia, bộ, ngành, địa phương.
+
+Văn phòng Bộ chủ
+ trì; Trung tâm Công nghệ Thông tin phối hợp
+
+29
+
+Cơ sở dữ liệu danh
+ mục dùng chung của Bộ, ngành LĐTBXH
+
+Thông tin về các danh mục của Bộ, ngành LĐTBXH:
+
+- Thông tin tên, giá trị của danh mục
+
+- Thông tin về văn bản tham chiếu của danh mục
+
+- Thông tin về quy định cấu trúc, định dạng của
+ danh mục
+
+- Thông tin quản lý khác.
+
+Trung tâm Công nghệ
+ Thông tin
+
+Dữ liệu mở
+
+- Chia sẻ với các HTTT, CSDL của Bộ, ngành LĐTBXH
+
+- Cơ sở dữ liệu quốc gia, bộ ngành, địa phương
+
+Trung tâm Công nghệ
+ Thông tin--- THÔNG TIN THÊM ---
+Ten: Quyết định 1246/QĐ-BLĐTBXH năm 2024 về Danh mục cơ sở dữ liệu ngành Lao động - Thương binh và Xã hội do Bộ trưởng Bộ Lao động - Thương binh và Xã hội ban hành
+So hieu: 1246/QĐ-BLĐTBXH
+Loai van ban: Quyết định
+Linh vuc nganh: Lao động - Tiền lương, Công nghệ thông tin, Văn hóa - Xã hội
+Noi ban hanh: Bộ Lao động thương binh và Xã hội
+Nguoi ky: Nguyễn Bá Hoan
+Ngay ban hanh: 09/08/2024
+Ngay hieu luc: 09/08/2024
+Ngay dang: Dữ liệu đang cập nhật
+So cong bao: Dữ liệu đang cập nhật
+Tinh trang: Còn hiệu lực
+
+
+--- MỤC LỤC ---
+- QUYẾT ĐỊNH VỀ VIỆC BAN HÀNH DANH MỤC CƠ SỞ DỮ LIỆU NGÀNH LAO ĐỘNG - THƯƠNG BINH VÀ XÃ HỘI
+  - Điều 1. Ban hành kèm theo Quyết định này Danh mục cơ sở dữ liệu ngành Lao động - Thương binh và Xã hội.
+  - Điều 2. Căn cứ Danh mục cơ sở dữ liệu ngành Lao động - Thương binh và Xã hội được phê duyệt:
+  - Điều 3. Quyết định này có hiệu lực kể từ ngày ký và thay thế Quyết định số 634/QĐ-LĐTBXH ngày 02/6/2021 của Bộ Lao động - Thương binh và Xã hội.
+  - Điều 4. Chánh Văn phòng Bộ, Vụ trưởng Vụ Kế hoạch - Tài chính, Giám đốc Trung tâm Công nghệ Thông tin, Thủ trưởng các đơn vị thuộc Bộ và Giám đốc Sở Lao động - Thương binh và Xã hội các tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm thi hành Quyết định này./.
+  - DANH MỤC CƠ SỞ DỮ LIỆU NGÀNH LAO ĐỘNG - THƯƠNG BINH VÀ XÃ HỘI
+    - A NHÓM LĨNH VỰC AN SINH XÃ   HỘI
+    - I Lĩnh vực bảo trợ xã hội   và giảm nghèo
+    - II Lĩnh vực trẻ em
+    - III Lĩnh vực phòng, chống   tệ nạn xã hội
+    - IV Lĩnh vực người có công
+    - B NHÓM LĨNH VỰC LAO ĐỘNG -   VIỆC LÀM
+    - C NHÓM LĨNH VỰC GIÁO DỤC   NGHỀ NGHIỆP
+    - D CÁC CƠ SỞ DỮ LIỆU KHÁC
+
+--- VĂN BẢN LIÊN QUAN ---
+
+Van ban bi thay the:
+  - Quyết định 634/QĐ-LĐTBXH năm 2021 về Danh mục cơ sở dữ liệu ngành Lao động - Thương binh và Xã hội do Bộ ... (ID: 476387)
+
+Van ban duoc dan chieu:
+  - Nghị định 09/2019/NĐ-CP quy định về chế độ báo cáo của cơ quan hành chính nhà nước (ID: 386322)
+
+Van ban duoc can cu:
+  - Nghị định 62/2022/NĐ-CP quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Lao động - Thương ... (ID: 529147)
+  - Thông tư 11/2021/TT-BLĐTBXH hướng dẫn chức năng, nhiệm vụ, quyền hạn của Sở Lao động - Thương binh và Xã ... (ID: 495827)
+  - Nghị định 47/2020/NĐ-CP về quản lý, kết nối và chia sẻ dữ liệu số của cơ quan nhà nước (ID: 439384)
+  - Nghị quyết 17/NQ-CP năm 2019 về một số nhiệm vụ, giải pháp trọng tâm phát triển Chính phủ điện tử giai đoạn... (ID: 408619)
+  - Luật Công nghệ thông tin 2006 (ID: 12987)
+
+Van ban lien quan cung noi dung:
+  - Quyết định 3411/QĐ-BCT năm 2023 về danh mục cơ sở dữ liệu và cơ sở dữ liệu mở của Bộ Công Thương (ID: 612994)
+  - Quyết định 4030/QÐ-BVHTTDL năm 2023 Danh mục cơ sở dữ liệu của Bộ Văn hóa, Thể thao và Du lịch (ID: 592856)
+  - Quyết định 3021/QĐ-BNG năm 2023 về Danh mục cơ sở dữ liệu dùng chung, dịch vụ chia sẻ dữ liệu và dữ liệu mở của Bộ Ngoại giao (ID: 584890)

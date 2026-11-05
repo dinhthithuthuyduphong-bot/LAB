@@ -1,0 +1,871 @@
+ỦY
+ BAN NHÂN DÂN
+
+TỈNH YÊN BÁI
+
+ -------
+
+CỘNG
+ HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+ Độc lập - Tự do - Hạnh phúc 
+
+ ---------------
+
+Số: 1980/QĐ-UBND
+
+Yên Bái, ngày 07 tháng 9 năm 2020
+
+ 
+
+QUYẾT ĐỊNH
+
+VỀ VIỆC BAN HÀNH QUY CHẾ QUẢN LÝ, KHAI THÁC VÀ SỬ DỤNG PHẦN MỀM QUẢN LÝ
+TỔ CHỨC BỘ MÁY, BIÊN CHẾ, CÁN BỘ, CÔNG CHỨC, VIÊN CHỨC TRONG CÁC CƠ QUAN, ĐƠN VỊ,
+ĐỊA PHƯƠNG THUỘC TỈNH YÊN BÁI
+
+ỦY BAN NHÂN DÂN TỈNH YÊN BÁI
+
+Căn cứ Luật Tổ chức chính quyền địa
+phương ngày 19/6/2015;
+
+Căn cứ Luật Cán bộ, công chức ngày
+13/11/2008;
+
+Căn cứ Luật Viên chức ngày
+15/11/2010;
+
+Căn cứ Luật Giao dịch điện tử ngày
+29/11/2005;
+
+Căn cứ Luật Công nghệ thông tin
+ngày 29/6/2006;
+
+Căn cứ Nghị định số 64/2007/NĐ-CP 
+ngày 10/4/2007 của Chính phủ về việc ứng dụng Công nghệ thông tin trong hoạt động
+của cơ quan nhà nước;
+
+Căn cứ Nghị định số 47/2020/NĐ-CP 
+ngày 09/04/2020 của Chính phủ về Quản lý, kết nối và chia sẻ dữ liệu số của cơ quan nhà nước;
+
+Căn cứ Thông tư số 11/2012/TT-BNV ngày 17/12/2012 của Bộ Nội vụ quy định về chế độ báo cáo
+thống kê và quản lý hồ sơ công chức; sửa đổi, bổ sung một số điều tại Thông tư
+số 06/2019/TT-BNV ngày 01/6/2019 của Bộ Nội vụ;
+
+Căn cứ Thông tư số 07/2019/TT-BNV ngày 01/6/2019 của Bộ Nội vụ quy định về chế độ báo cáo thống
+kê và quản lý hồ sơ viên chức;
+
+Căn cứ Quyết định số 4223/QĐ-BNV 
+ngày 30/11/2016 của Bộ Nội vụ về việc ban hành danh mục chuẩn thông tin và quy định kỹ thuật về dữ liệu dùng cho phần mềm, cơ sở dữ
+liệu cán bộ, công chức, viên chức và cán bộ, công chức cấp xã;
+
+Xét đề nghị của Giám đốc Sở
+Nội vụ tại Tờ trình số
+338/TTr-SNV ngày 26/6/2020.
+
+QUYẾT ĐỊNH:
+
+Điều 1. Ban hành kèm theo Quyết định này Quy chế quản
+lý, khai thác và sử dụng phần mềm Quản lý tổ chức bộ máy, biên chế, cán bộ,
+công chức, viên chức trong các cơ quan, đơn vị, địa phương thuộc tỉnh Yên Bái.
+
+Điều 2. Quyết định này có hiệu lực thi hành kể từ ngày
+ký.
+
+Chánh Văn phòng Đoàn Đại biểu Quốc hội,
+Hội đồng nhân dân và Ủy ban nhân dân tỉnh; Thủ trưởng các sở, ban, ngành; các Hội
+đặc thù tỉnh; các đơn vị sự nghiệp thuộc Ủy ban nhân dân tỉnh; Ủy ban nhân dân
+các huyện, thị xã, thành phố; Thủ trưởng các cơ quan, đơn vị có liên quan chịu
+trách nhiệm thi hành Quyết định này./.
+
+ 
+
+ Nơi nhận:
+
+- Như điều 2;
+
+ - TT. Tỉnh ủy;
+
+ - Lãnh đạo UBND tỉnh;
+
+ - Cổng thông tin điện tử tỉnh;
+
+ - Lưu: VT, NCPC.
+
+TM. ỦY BAN NHÂN
+ DÂN
+
+ KT. CHỦ TỊCH
+
+ PHÓ CHỦ TỊCH
+
+ Nguyễn Chiến Thắng
+
+ 
+
+QUY CHẾ
+
+QUẢN LÝ, KHAI THÁC VÀ SỬ DỤNG PHẦN MỀM QUẢN LÝ TỔ CHỨC BỘ MÁY, BIÊN CHẾ,
+CÁN BỘ, CÔNG CHỨC, VIÊN CHỨC TRONG CÁC CƠ QUAN, ĐƠN VỊ, ĐỊA PHƯƠNG THUỘC TỈNH
+YÊN BÁI
+
+(Ban hành kèm theo Quyết định số 1980/QĐ-UBND
+ngày 07 tháng 9 năm 2020 của Ủy ban nhân dân tỉnh Yên Bái)
+
+Chương I
+
+QUY ĐỊNH CHUNG
+
+Điều 1. Phạm vi
+điều chỉnh
+
+Quy chế này quy định về quản lý, khai
+thác và sử dụng phần mềm Quản lý tổ chức bộ máy, biên chế, cán bộ, công chức,
+viên chức trong các cơ quan, đơn vị, địa phương thuộc tỉnh Yên Bái.
+
+Điều 2. Giải
+thích từ ngữ
+
+1. Cơ quan nhà nước: gồm Sở, Ban,
+ngành, đơn vị sự nghiệp thuộc UBND tỉnh, Hội đặc thù tỉnh, UBND các huyện, thị
+xã, thành phố; UBND các xã, phường, thị trấn;
+
+2. Phần mềm quản lý tổ chức bộ máy,
+biên chế, cán bộ, công chức, viên chức (viết tắt là phần mềm): là phần mềm được triển khai nhằm phục vụ việc quản lý tổ chức bộ
+máy, biên chế và quản lý, khai thác thông tin cán bộ, công chức, viên chức của
+các cơ quan, đơn vị, địa phương và của tỉnh. Đồng thời phần mềm chứa toàn bộ cơ
+sở dữ liệu cán bộ, công chức, viên chức đã được số hóa lên hệ thống phần mềm phục
+vụ công tác tổng hợp, thống kê, báo cáo theo quy định hiện hành;
+
+3. Lý lịch điện tử: là lý lịch được
+thể hiện dưới dạng điện tử được lưu trữ và cập nhật trên
+phần mềm quản lý thông tin cán bộ, công chức, viên chức kèm theo lý lịch, hồ sơ
+giấy của từng cán bộ, công chức, viên chức (sau đây gọi tắt là CBCCVC);
+
+4. Tài khoản đơn vị: bao gồm tên đăng
+nhập và mật khẩu dùng để truy cập
+phần mềm sử dụng và quản lý tổ chức bộ máy, biên chế, khai thác thông tin cán bộ,
+công chức, viên chức theo phân cấp;
+
+5. Hồ sơ CBCCVC: là một tập văn bản, tài
+liệu có liên quan với nhau của một CBCCVC được hình thành trong quá trình theo
+dõi, giải quyết công việc thuộc phạm vi chức năng, nhiệm vụ của một cơ quan, tổ
+chức hoặc của một cá nhân;
+
+6. Cơ sở dữ liệu CBCCVC: là tập hợp dữ
+liệu số hóa thông tin quản lý về Hồ sơ CBCCVC theo mẫu eCBCCVC-BNV/2016 và các
+thông tin liên quan được xây dựng, cập nhật, duy trì phục vụ quản lý nhà nước
+trong lĩnh vực quản lý CBCCVC theo pháp luật hiện hành;
+
+7. Số hóa: là
+hình thức chuyển đổi dữ liệu từ dạng văn bản hệ thống
+bên ngoài thành những dữ liệu dạng tín hiệu số được máy tính hiểu và lưu trữ;
+
+8. Quyết định hành chính: là văn bản
+do cơ quan hành chính nhà nước, cơ quan, tổ chức khác hoặc người có thẩm quyền
+trong các cơ quan, tổ chức đó ban hành, quyết định về một vấn đề cụ thể trong
+hoạt động quản lý hành chính được áp dụng một lần đối với một hoặc một số đối
+tượng cụ thể. Quyết định hành chính được số hóa và lưu trữ trong phần mềm được
+hình thành trong quá trình tạo lập cơ sở dữ liệu CBCCVC;
+
+9. Mã định danh đơn vị: trên Hệ thống
+cơ sở dữ liệu ngành là một chuỗi ký tự dùng để định danh cho đơn vị theo quyết
+định số 2182/QĐ-UBND ngày 28 tháng 10 năm 2018 của Ủy ban nhân dân tỉnh Yên Bái
+Quyết định về việc ban hành mã định danh các cơ quan, đơn vị thuộc, trực thuộc Ủy
+ban nhân dân tỉnh Yên Bái phục vụ kết nối, trao đổi văn bản
+điện tử thông qua hệ thống quản lý văn bản và điều hành.
+
+Điều 3. Đối tượng
+áp dụng
+
+Cơ quan, đơn vị và cá nhân có trách nhiệm
+quản lý, khai thác và sử dụng phần mềm Quản lý tổ chức bộ máy, biên chế, cán bộ,
+công chức, viên chức, gồm có:
+
+1. Cơ quan nhà nước;
+
+2. Tổ chức, cán bộ, công chức, viên
+chức và người lao động làm việc tại các cơ quan nhà nước có liên quan trong việc
+quản lý phần mềm Quản lý tổ chức bộ máy, biên chế, cán bộ, công chức, viên chức;
+
+Sở Nội vụ báo cáo Ủy ban nhân dân tỉnh
+về việc thay đổi, bổ sung, điều chỉnh đối tượng trong trường
+hợp có yêu cầu và điều kiện quản lý mới.
+
+Điều 4. Mục đích,
+yêu cầu
+
+1. Mục đích:
+
+a) Tăng cường ứng dụng công nghệ thông tin trong công tác quản lý, điều hành; xây dựng cơ
+sở dữ liệu hồ sơ CBCCVC tập trung, thống nhất trên địa bàn tỉnh;
+
+b) Hiện đại hóa việc quản lý hồ sơ
+CBCCVC nhằm hỗ trợ tối ưu việc khai thác, chia sẻ, tích hợp dữ liệu hồ sơ
+CBCCVC đến các hệ thống liên quan;
+
+c) Phục vụ công tác quản lý tổ chức bộ
+máy, biên chế; tuyển dụng, sử dụng và quản lý CBCCVC;
+
+d) Tiết kiệm, chống lãng phí, góp phần
+nâng cao hiệu quả hoạt động quản lý của cơ quan nhà nước.
+
+2. Yêu cầu:
+
+a) Việc quản lý, sử dụng thông tin
+CBCCVC phải tuân theo quy định có liên quan về quản lý thông tin CBCCVC;
+
+b) Việc quản lý, sử dụng phần mềm phải
+được thực hiện đúng mục đích, thường xuyên, phản ánh chính xác về tổ chức bộ
+máy, biên chế, thông tin liên quan đến CBCCVC, người lao động theo Nghị định số
+68/2000/NĐ-CP ngày 17/11/2000 của Chính phủ (gọi tắt là Nghị định 68) và tình
+hình quản lý hồ sơ thực tế tại cơ quan, đơn vị.
+
+Chương II
+
+NỘI DUNG VÀ
+NGUYÊN TẮC QUẢN LÝ, SỬ DỤNG PHẦN MỀM QUẢN LÝ TỔ CHỨC BỘ MÁY, BIÊN CHẾ, CÁN
+BỘ, CÔNG CHỨC, VIÊN CHỨC
+
+Điều 5. Phần mềm
+quản lý tổ chức, biên chế, cán bộ, công chức, viên chức
+
+1. Phần mềm Quản lý tổ chức bộ máy,
+biên chế, cán bộ, công chức, viên chức là công cụ phục vụ việc quản lý tổ chức
+bộ máy, biên chế, khai thác và sử dụng thông tin về hồ sơ CBCCVC và người lao động
+theo Nghị định 68, là thành phần trong hệ thống chính quyền điện tử của tỉnh và
+được triển khai thống nhất trên địa bàn tỉnh.
+
+2. Địa chỉ truy cập phần mềm: http://ccvc.yenbai.gov.vn
+
+Điều 6. Quản lý
+tài khoản đăng nhập phần mềm
+
+1. Cơ quan, đơn vị được cấp tài khoản
+người dùng để đăng nhập, quản lý, khai thác sử dụng phần
+mềm Quản lý tổ chức bộ máy, biên chế, cán bộ, công chức, viên chức;
+
+2. Sở Nội vụ là cơ quan tham mưu Ủy
+ban nhân dân tỉnh về công tác quản lý tổ chức bộ máy, biên chế, cán bộ, công chức,
+viên chức và người lao động theo Nghị định 68, được phép sử dụng tài khoản quản
+trị phần mềm để quản lý tài khoản đăng nhập sử dụng phần
+mềm, cấp tài khoản, phân quyền sử dụng tài khoản người dùng cho cơ quan, đơn vị
+được phân cấp về công tác quản lý tổ chức bộ máy, biên chế, cán bộ, công chức,
+viên chức và người lao động theo Nghị định 68;
+
+3. Cơ quan, đơn vị có nhu cầu phân cấp
+tài khoản cho các đơn vị trực thuộc phải thống nhất với Sở Nội vụ bằng văn bản để
+được cấp bổ sung tài khoản đơn vị;
+
+4. Cá nhân được giao nhiệm vụ quản
+lý, khai thác, sử dụng phần mềm có trách nhiệm bảo quản, bảo đảm an toàn về tài
+khoản đơn vị;
+
+5. Việc quản lý tài khoản phải được tổ
+chức chặt chẽ khi có sự thay đổi về tổ chức, nhân sự quản
+lý tài khoản.
+
+Điều 7. Mô hình tổ
+chức cập nhật, quản lý và khai thác phần mềm
+
+Phần mềm Quản lý tổ chức bộ máy, biên
+chế, cán bộ, công chức, viên chức được tổ chức theo mô hình ba cấp sau:
+
+1. Cấp cơ sở là cấp có trách nhiệm cập
+nhật, quản lý và khai thác dữ liệu ở các đơn vị trực thuộc Sở, Ban, ngành, các
+đơn vị trực thuộc Ủy ban nhân dân các huyện, thị xã, thành phố và Ủy ban nhân
+dân các xã, phường, thị trấn;
+
+2. Cấp Sở, Ban, ngành, đơn vị sự nghiệp
+thuộc Ủy ban nhân dân tỉnh, Hội đặc thù, Ủy ban nhân dân các huyện, thị xã,
+thành phố (gọi tắt là cấp Sở, cấp huyện) là cấp có trách
+nhiệm cập nhật, quản lý và khai thác dữ liệu ở Sở, Ban, ngành, đơn vị sự nghiệp
+thuộc Ủy ban nhân dân tỉnh, Hội đặc thù, Ủy ban nhân dân các huyện, thị xã,
+thành phố và chỉ đạo, kiểm tra, đôn đốc, quản lý, khai thác dữ liệu và tổ chức
+triển khai phần mềm đến các đơn vị thuộc quyền quản lý;
+
+Đối với các huyện, thị xã, thành phố,
+Chủ tịch UBND huyện, thị xã, thành phố ủy quyền Cơ quan Tổ chức - Nội vụ thực
+hiện các nhiệm vụ nêu trên trong phạm vi thuộc quyền quản lý.
+
+3. Sở Nội vụ tham mưu Chủ tịch Ủy ban
+nhân dân tỉnh chỉ đạo việc quản lý, sử dụng; đồng thời trực tiếp quản lý, tổ chức
+triển khai phần mềm đến cấp Sở, cấp huyện; tổng hợp, báo
+cáo và lưu trữ hồ sơ điện tử của CBCCVC cấp Sở, cấp huyện và cấp cơ sở.
+
+Điều 8. Nguyên tắc
+cập nhật, quản lý và khai thác sử dụng phần mềm
+
+1. Cơ quan, đơn vị có thẩm quyền theo
+phân cấp quản lý hiện hành có trách nhiệm quản lý tổ chức bộ máy, biên chế, cán
+bộ, công chức, viên chức và hợp đồng theo Nghị định 68 của cơ quan, đơn vị
+mình;
+
+2. Thông tin về hồ sơ CBCCVC đã được
+cập nhật vào phần mềm phải thống nhất với hồ sơ giấy hợp lệ đang được lưu trữ tại
+cơ quan, đơn vị;
+
+3. Hồ sơ CBCCVC phải được cập nhật, bổ
+sung thường xuyên, kịp thời, đầy đủ, chính xác và được quản lý, sử dụng, bảo quản
+theo chế độ mật do Nhà nước quy định, chỉ những cá nhân được cơ quan, đơn vị có
+thẩm quyền quản lý hồ sơ CBCCVC đồng ý bằng văn bản mới được sử dụng, nghiên cứu, khai thác hồ sơ CBCCVC;
+
+4. Đối với các quyết định hành chính
+có liên quan đến công tác quản lý cán bộ, công chức, viên chức do các cấp có thẩm
+quyền ban hành, đơn vị ban hành Quyết định (hoặc ủy quyền) phải cập nhật nội
+dung, thông tin liên quan theo Quyết định vào phần mềm;
+
+5. Thường xuyên theo dõi, kiểm tra và
+có biện pháp bảo đảm an toàn thông tin đối với hồ sơ CBCCVC; đảm bảo tính tương
+thích trong toàn hệ thống khi có sự thay đổi về công nghệ,
+thiết bị.
+
+Điều 9. Nội dung
+quản lý, khai thác, sử dụng phần mềm
+
+1. Cập nhật và hiệu chỉnh hồ sơ
+CBCCVC và quản lý thông tin nhân thân;
+
+2. Tìm kiếm thông tin theo các tiêu
+chí tùy chọn;
+
+3. Báo cáo, thống kê và kết xuất
+thông tin theo các tiêu chí tùy chọn;
+
+4. Quản lý tổ chức bộ máy và biên chế
+của các cơ quan, đơn vị;
+
+5. Quản lý quá trình lương;
+
+6. Quản lý đào tạo, bồi dưỡng;
+
+7. Quản lý khen thưởng, kỷ luật;
+
+8. Quản lý quá trình công tác;
+
+9. Quản lý đánh giá, phân loại
+CBCCVC;
+
+10. Thực hiện các yêu cầu quản lý
+khác của cơ quan và cá nhân có thẩm quyền nhằm phục vụ công tác tổ chức nhà nước;
+
+11. Thực hiện quản trị chức năng hệ
+thống, phân quyền nhóm người dùng và người dùng, sao lưu và phục hồi hệ thống.
+
+12. Phần mềm phải được cài đặt trên hệ
+thống máy chủ thuộc Trung tâm tích hợp dữ liệu tỉnh, được
+vận hành trong mạng số liệu chuyên dùng cho các cơ quan đảng, nhà nước của tỉnh
+và được đảm bảo tính bảo mật, an toàn thông tin bằng Hệ thống giám sát, an toàn
+thông tin không gian mạng của tỉnh.
+
+Chương III
+
+QUY TRÌNH QUẢN
+LÝ TỔ CHỨC BỘ MÁY, BIÊN CHẾ VÀ LƯU TRỮ, KHAI THÁC HỒ SƠ CÁN BỘ, CÔNG CHỨC,
+VIÊN CHỨC
+
+Điều 10. Quy
+trình quản lý tổ chức bộ máy, biên chế
+
+Cơ quan, đơn vị có trách nhiệm cập nhật
+vào phần mềm những biến động về tổ chức bộ máy (trừ cấp cơ sở; cấp tỉnh; cấp
+huyện), giao chỉ tiêu biên chế sau khi có quyết định của cơ quan có thẩm quyền
+và những biến động về biên chế có mặt tại cơ quan, đơn vị.
+
+Điều 11. Quy
+trình lập phiếu cán bộ, công chức, viên chức và cập nhật thông tin vào phần mềm
+
+Cơ quan, đơn vị được giao quản lý hồ
+sơ CBCCVC có trách nhiệm cập nhật những biến động về đội ngũ CBCCVC do cơ quan,
+đơn vị mình quản lý vào phần mềm. Nguyên tắc chung là đảm bảo dữ liệu cá nhân
+phải được và chỉ được thể hiện tại đơn vị nơi CBCCVC nhận
+tiền lương, tiền công chính thức, cụ thể như sau:
+
+1. Lập hồ sơ mới
+
+a) Cơ quan, đơn vị có thẩm quyền quản
+lý hồ sơ CBCCVC có trách nhiệm cập nhật đầy đủ, chính xác thông tin về hồ sơ
+CBCCVC hiện có mặt theo biên chế và hợp đồng theo Nghị định 68 của cơ quan, đơn
+vị vào phần mềm;
+
+b) Trong thời gian 10 (mười) ngày làm
+việc, kể từ ngày có quyết định tuyển dụng hoặc hợp đồng làm việc theo Nghị định
+68, cơ quan, đơn vị có thẩm quyền quản lý hồ sơ CBCCVC có trách nhiệm hướng dẫn
+CBCCVC kê khai theo Mẫu eCBCCVC-BNV/2016 ban hành tại Quyết
+định số 4223/QĐ-BNV ngày 30/11/2016 của Bộ Nội vụ; đồng thời cập nhật thông tin
+về hồ sơ CBCCVC vào phần mềm theo quy định tại Điểm a, Khoản 1 Điều này;
+
+2. Hồ sơ đã được cập nhật vào phần mềm
+
+a) Tổ chức, cá nhân có trách nhiệm cập
+nhật thường xuyên thông tin CBCCVC của đơn vị khi có thay đổi;
+
+b) Đối với thông tin thay đổi của cá
+nhân như hộ tịch, tình trạng hôn nhân, đào tạo, bồi dưỡng...thì cá nhân có
+trách nhiệm kê khai Phiếu bổ sung lý lịch và cung cấp tài liệu (đối chiếu bản
+chính văn bằng, chứng chỉ, quyết định,...) để xác thực nội dung. Đồng thời, đơn
+vị tiến hành cập nhật thông tin vào phần mềm, thời gian chậm nhất là 03 (ba)
+ngày làm việc;
+
+c) Đối với thông tin thay đổi
+từ cơ quan quản lý nhà nước như bầu cử, bổ nhiệm, điều động, luân
+chuyển, chuyển đổi vị trí công tác, nâng lương, khen thưởng,
+kỷ luật,...thì cơ quan, đơn vị có thẩm quyền quản lý hồ sơ CBCCVC có trách nhiệm
+cập nhật, bổ sung thông tin này cho CBCCVC vào phần mềm, thời gian chậm nhất là
+03 (ba) ngày làm việc, kể từ ngày văn bản có hiệu lực;
+
+3. Công tác rà soát thông tin phải được
+thực hiện thường xuyên để đảm bảo mọi thông tin luôn
+chính xác và tùy theo mục đích sử dụng thông tin CBCCVC.
+
+Điều 12. Điều
+chuyển và tiếp nhận hồ sơ trên phần mềm
+
+1. Trường hợp CBCCVC được điều động,
+luân chuyển đến bộ phận mới trong cùng cơ quan, đơn vị thì tổ chức của cơ quan,
+đơn vị đó có trách nhiệm điều chuyển hồ sơ trên phần mềm đến bộ phận mới, thời
+gian chậm nhất là 02 (hai) ngày làm việc, kể từ ngày văn bản có hiệu lực;
+
+2. Trường hợp CBCCVC chuyển công tác
+đến cơ quan, đơn vị mới thì cơ quan, đơn vị có thẩm quyền quản lý CBCCVC cấp
+trên có trách nhiệm điều chuyển hồ sơ trên phần mềm đến
+cơ quan, đơn vị mới, thời gian chậm nhất là 05 (năm) ngày làm việc, kể từ ngày
+văn bản có hiệu lực; cơ quan, đơn vị mới có trách nhiệm tiếp nhận và chuyển tiếp
+hồ sơ trên phần mềm đến cơ quan, đơn vị trực tiếp sử dụng CBCCVC theo phân cấp
+quản lý, thời gian chậm nhất là 03 (ba) ngày làm việc, kể từ ngày tiếp nhận đến
+trên phần mềm. Lưu ý, phải tải kèm bản quét (scan) Quyết định theo nghiệp vụ điều
+động, luân chuyển trên phần mềm;
+
+3. Trường hợp CBCCVC chuyển công tác khỏi phạm vi quản lý, nghỉ hưu, thôi việc, từ trần thì cơ
+quan, đơn vị trực tiếp sử dụng CBCCVC thực hiện điều chỉnh tình trạng hồ sơ
+trong phần mềm, thời gian chậm nhất là 03 (ba) ngày làm việc, kể từ ngày văn bản
+của cơ quan có thẩm quyền có hiệu lực.
+
+Điều 13. Lưu trữ
+dữ liệu về tổ chức bộ máy, biên chế, hồ sơ cán bộ, công chức, viên chức
+
+1. Dữ liệu về tổ chức bộ máy, biên chế
+và hồ sơ CBCCVC, hợp đồng theo Nghị định 68 phải được lưu trữ lâu dài trong dữ
+liệu để phục vụ việc báo cáo, nghiên cứu, quản lý, khai
+thác sử dụng và thực hiện chế độ chính sách, đào tạo, bồi dưỡng và quy hoạch đối với CBCCVC;
+
+2. Việc lưu trữ hồ sơ CBCCVC phải
+tuân thủ các nguyên tắc an toàn thông tin theo quy định hiện hành;
+
+3. Hồ sơ CBCCVC đã nghỉ hưu, thôi việc,
+từ trần được lưu trữ ở cơ quan, đơn vị để theo dõi;
+
+4. Dữ liệu về tổ chức bộ máy, biên chế,
+cán bộ, công chức, viên chức, hợp đồng theo Nghị định 68 phải được sao lưu định
+kỳ hàng tháng.
+
+Điều 14. Khai
+thác và kết xuất thông tin từ phần mềm
+
+1. Khai thác thông tin về hồ sơ
+CBCCVC được thực hiện theo các quy trình nghiệp vụ, các chức năng tìm kiếm, tổng
+hợp, thống kê và kết xuất thông tin từ phần mềm phục vụ cho công tác báo cáo
+theo quy định;
+
+2. Quyền khai thác và sử dụng phần mềm
+quản lý hồ sơ CBCCVC bao gồm: quyền quản trị là quyền được cập nhật, hiệu chỉnh,
+tổng hợp, thống kê, xử lý, sao chép, loại bỏ một phần hoặc toàn bộ hồ sơ
+CBCCVC; quyền cập nhật là quyền được cập nhật, hiệu chỉnh, điều chuyển hồ sơ CBCCVC theo phân cấp quản lý CBCCVC.
+
+Điều 15. Báo cáo
+công tác tổ chức bộ máy, biên chế và quản lý hồ sơ CBCCVC
+
+1. Sở, Ban, ngành, đơn vị sự nghiệp
+thuộc Ủy ban nhân dân tỉnh; Hội đặc thù; Ủy ban nhân dân
+các huyện, thị xã, thành phố có trách nhiệm báo cáo tình hình thực hiện công
+tác tổ chức bộ máy, biên chế và quản lý hồ sơ CBCCVC, hợp đồng theo Nghị định
+68 thuộc thẩm quyền quản lý về Ủy ban nhân dân tỉnh (qua Sở
+Nội vụ) trước ngày 10 tháng 01 và ngày 10 tháng 6 hàng năm;
+
+2. Sở Nội vụ tổng hợp, báo cáo Ủy ban nhân dân tỉnh tình hình thực hiện công tác tổ chức
+bộ máy, biên chế và quản lý hồ sơ CBCCVC trên địa bàn tỉnh.
+
+Chương IV
+
+QUY TRÌNH SỐ
+HÓA QUẢN LÝ NHÀ NƯỚC VỀ CÔNG TÁC CÁN BỘ, CÔNG CHỨC, VIÊN CHỨC VÀ CÁN BỘ, CÔNG
+CHỨC CẤP XÃ
+
+Điều 16. Số hóa
+quyết định hành chính
+
+Sau khi đã tạo lập cơ sở dữ liệu
+CBCCVC trên phần mềm, các cơ quan, đơn vị thực hiện số hóa
+các quyết định hành chính đảm bảo đầy đủ, chính xác thông tin trong các quyết định
+hành chính. Các quyết định hành chính được số hóa trong phần mềm bao gồm:
+
+1. Danh sách cán bộ, công chức, viên
+chức và cán bộ, công chức cấp xã tham gia hội đồng nhân dân các cấp;
+
+2. Quyết định bổ nhiệm chức vụ, chức
+danh cán bộ trong cơ quan nhà nước;
+
+3. Quyết định thôi làm nhiệm vụ, từ
+chức, miễn nhiệm;
+
+4. Quyết định điều động, luân chuyển, biệt phái cán bộ, công chức, viên chức và cán bộ, công chức cấp xã;
+
+5. Quyết định nghỉ hưu đối với cán bộ,
+công chức, viên chức và cán bộ, công chức cấp xã;
+
+6. Quyết định thôi việc đối với cán bộ,
+công chức, viên chức và cán bộ, công chức cấp xã;
+
+7. Quyết định về việc bổ nhiệm vào ngạch công chức, chức danh nghề nghiệp viên chức;
+
+8. Quyết định chuyển ngạch công chức, chuyển chức danh nghề nghiệp
+viên chức;
+
+9. Quyết định nâng ngạnh công chức,
+thăng hạng chức danh nghề nghiệp viên chức;
+
+10. Quyết định hạ ngạch cán bộ, công
+chức;
+
+11. Các quyết định liên quan đến
+lương và phụ cấp;
+
+12. Các quyết định và văn bằng chứng
+chỉ liên quan đến đào tạo, trình độ chuyên môn;
+
+13. Các quyết định liên quan liên
+quan đến phân công công tác và vị trí việc làm;
+
+14. Các quyết định liên quan đến khen
+thưởng, kỷ luật;
+
+15. Phiếu đánh giá phân loại hàng
+năm.
+
+Điều 17. Cập nhật
+quyết định số hóa vào phần mềm
+
+Các quyết định hành chính yêu cầu số
+hóa tại Điều 16 phải được cập nhật vào cơ sở dữ liệu. Cơ quan, đơn vị nào ban hành
+(hoặc ủy quyền) thì tổ chức của đơn vị đó có trách nhiệm cập nhật vào cơ sở dữ
+liệu theo phân cấp và phân quyền quản lý.
+
+Điều 18. Thu hồi
+quyết định đã ban hành
+
+Nếu phải thu hồi quyết định do sai
+sót kỹ thuật hoặc nội dung, cán bộ chuyên môn không tự thu hồi được quyết định
+và văn bản sau khi đã chuyển vào hồ sơ mà phải báo cáo về
+bộ phận quản trị cơ sở dữ liệu đế thống nhất làm thủ tục thu hồi trên phần
+mềm.
+
+Chương V
+
+TRÁCH NHIỆM,
+QUYỀN HẠN CỦA CÁC CƠ QUAN, ĐƠN VỊ TRONG VIỆC TỔ CHỨC, QUẢN LÝ VÀ KHAI THÁC SỬ
+DỤNG PHẦN MỀM QUẢN LÝ TỔ CHỨC BỘ MÁY, BIÊN CHẾ, CÁN BỘ, CÔNG CHỨC, VIÊN CHỨC
+
+Điều 19. Trách
+nhiệm, quyền hạn của Sở, Ban, ngành, đơn vị sự
+nghiệp thuộc Ủy ban nhân dân tỉnh, Hội đặc thù; Ủy ban nhân dân các huyện, thị
+xã, thành phố
+
+1. Phổ biến và triển khai thực hiện
+quy chế quản lý, khai thác sử dụng phần mềm quản lý hồ sơ cán bộ, công chức,
+viên chức trong cơ quan, đơn vị có hiệu quả và đảm bảo các quy định của pháp luật
+về công tác cán bộ và an toàn thông tin;
+
+2. Được cấp tài khoản đơn vị để thực
+hiện việc cập nhật, quản lý và khai thác sử dụng phần mềm quản lý tổ chức bộ
+máy, biên chế, cán bộ, công chức, viên chức của cơ quan, đơn vị và cấp tài khoản
+cho các đơn vị trực thuộc theo thẩm quyền quản lý (được sự
+thống nhất của Sở Nội vụ). Các cơ quan, đơn vị ban hành Quyết định phân công
+cán bộ trực tiếp được phép sử dụng tài khoản đơn vị và theo dõi, phụ trách phần
+mềm gửi Sở Nội vụ theo dõi, tổng hợp và khi có sự thay đổi cán bộ phụ trách phần
+mềm phải báo cáo Sở Nội vụ;
+
+3. Bảo vệ thông tin cá nhân theo quy
+định tại Điều 21 Luật Công nghệ thông tin;
+
+4. Có trách nhiệm theo dõi, kiểm tra
+việc cập nhật các thông tin về tổ chức bộ máy, biên chế, hồ sơ CBCCVC thuộc cơ
+quan, đơn vị và các đơn vị trực thuộc. Chịu trách nhiệm về tính chính xác, đầy đủ
+của các thông tin về hồ sơ CBCCVC thuộc thẩm quyền quản lý đã được cập nhật vào
+phần mềm và đảm bảo tính thống nhất với hồ sơ giấy lưu trữ tại cơ quan, đơn vị;
+
+5. Sử dụng thông tin hồ sơ CBCCVC của
+cơ quan, đơn vị trực thuộc đã được cập nhật vào phần mềm để thực hiện công tác
+sử dụng và quản lý CBCCVC, cụ thể như sau:
+
+a) Nâng bậc lương, chuyển xếp lương,
+nâng ngạch, chuyển ngạch, bổ nhiệm vào ngạch, thăng hạng chức danh nghề nghiệp,
+chuyển chức danh nghề nghiệp, bổ nhiệm
+chức danh nghề nghiệp, thuyên chuyển, điều động, giải quyết chế độ nghỉ hưu,
+thôi việc, thu hút... theo quy định đối với CBCCVC thuộc thẩm quyền quản lý hoặc
+lập thủ tục đề nghị cơ quan có thẩm quyền;
+
+b) Cử CBCCVC đi đào tạo, bồi dưỡng
+thuộc thẩm quyền quản lý hoặc lập thủ tục đề nghị cơ quan có thẩm
+quyền cử đi đào tạo, bồi dưỡng;
+
+c) Dựa vào kết quả đánh giá phân xếp
+loại và các danh hiệu thi đua, khen thưởng của CBCCVC để đề xuất các danh hiệu
+thi đua, khen thưởng thuộc thẩm quyền quản lý;
+
+d) Xác định nhu cầu tuyển dụng công
+chức, viên chức; giao và quản lý biên chế, hợp đồng theo Nghị định 68 theo thẩm
+quyền quản lý;
+
+đ) Sau khi kiểm tra, đối chiếu thông
+tin về hồ sơ CBCCVC đã được lưu trữ trên phần mềm, cơ quan, đơn vị không thực
+hiện các Điểm a, b, c, Khoản 5 Điều này đối với CBCCVC chưa cập nhật đầy đủ,
+chính xác thông tin vào phần mềm thuộc thẩm quyền quản
+lý;
+
+6. Sử dụng phần mềm Quản lý tổ chức bộ
+máy, biên chế, cán bộ, công chức, viên chức để thực hiện
+báo cáo định kỳ và các báo cáo khác liên quan đến công tác tổ chức bộ máy, biên
+chế và sử dụng, quản lý CBCCVC, hợp đồng theo Nghị định 68 theo các quy định hiện
+hành.
+
+Điều 20. Trách
+nhiệm, quyền hạn của người được phân công trực
+tiếp quản lý, khai thác, sử dụng phần mềm
+
+1. Sử dụng tài khoản đơn vị để thực
+hiện việc cập nhật, bổ sung thông tin về tổ chức bộ máy (trừ cấp cơ sở; cấp tỉnh;
+cấp huyện), biên chế và hồ sơ CBCCVC, hợp đồng theo Nghị định 68 trong cơ quan,
+đơn vị mình vào phần mềm; quản lý, khai thác hồ sơ CBCCVC, hợp đồng theo Nghị định
+68 theo phân cấp quản lý; có trách nhiệm bảo quản và bảo mật tài khoản của cơ
+quan, đơn vị;
+
+2. Rà soát, cập nhật, điều chỉnh
+thông tin về hồ sơ CBCCVC, hợp đồng theo Nghị định 68 kịp thời, đầy đủ ngay khi
+có thay đổi; định kỳ kiểm tra, cập nhật các thông tin theo quy định tại Điều 11
+và Điều 12 Quy chế này;
+
+3. Đảm bảo tính kịp thời, chính xác
+và thống nhất của các thông tin hồ sơ CBCCVC, hợp đồng theo Nghị định 68 đã được
+cập nhật vào phần mềm với hồ sơ giấy đang lưu trữ tại cơ quan, đơn vị; khai
+thác, sử dụng có hiệu quả phần mềm để cung cấp thông tin nhanh chóng, chính xác
+phục vụ công tác quản lý hồ sơ CBCCVC;
+
+4. Áp dụng các biện pháp bảo đảm an
+toàn thông tin và vận hành thông suốt phần mềm; đề xuất các biện pháp để
+khai thác, sử dụng phần mềm có hiệu quả; đồng thời nghiên cứu,
+phát hiện và báo cáo Thủ trưởng cơ quan, đơn vị để xem
+xét, kiến nghị các vấn đề trong công tác quản lý tổ chức bộ máy, biên chế, hồ
+sơ CBCCVC đã cập nhật trên phần mềm;
+
+5. Tham mưu Thủ trưởng cơ quan, đơn vị
+thực hiện việc báo cáo theo quy định tại Điều 15 Quy chế này;
+
+6. Trường hợp bị thất lạc hoặc quên mật
+khẩu đăng nhập phần mềm phải báo cáo Thủ trưởng cơ quan,
+đơn vị để đề nghị Sở Nội vụ cấp lại mật khẩu mới.
+
+Điều 21. Trách
+nhiệm, quyền hạn của Sở Thông tin và Truyền thông
+
+1. Định kỳ hằng năm, Sở Thông tin và
+Truyền phối hợp với Sở Nội vụ báo cáo Ủy ban nhân dân tỉnh về tình hình thực hiện
+phần mềm của cơ quan, đơn vị. Đưa việc ứng dụng hiệu quả phần mềm vào một trong
+những tiêu chí trong việc đánh giá xếp hạng ứng dụng công nghệ thông tin tại cơ
+quan, đơn vị hằng năm;
+
+2. Sở Thông tin và Truyền thông chỉ đạo
+Trung tâm Công nghệ thông tin và Truyền thông phối hợp với Sở Nội vụ bảo đảm việc
+vận hành thông suốt phần mềm tổ chức bộ máy, biên chế, cán bộ, công chức, viên
+chức trong các cơ quan, đơn vị, địa phương thuộc tỉnh Yên Bái.
+
+Điều 22. Trách
+nhiệm, quyền hạn của Sở Nội vụ
+
+1. Chủ trì, phối hợp với Sở Thông tin
+và Truyền thông (qua Trung tâm Công nghệ thông tin và Truyền thông) bảo đảm việc
+vận hành thông suốt phần mềm Quản lý tổ chức bộ máy, biên chế, cán bộ, công chức,
+viên chức trong các cơ quan, đơn vị, địa phương thuộc tỉnh Yên Bái;
+
+2. Được phép cấp tài khoản người dùng
+và phân quyền sử dụng cho các cơ quan, đơn vị;
+
+3. Chủ trì, phối hợp với cơ quan, đơn
+vị có liên quan thực hiện:
+
+a) Rà soát, điều chỉnh kịp thời các
+thông tin, danh mục, tính năng trong phần mềm cho phù hợp với quy định hiện
+hành của Chính phủ, Bộ, ngành Trung ương và Ủy ban nhân dân tỉnh;
+
+b) Sử dụng, kết xuất thông tin từ phần
+mềm để báo cáo định kỳ, đột xuất theo yêu cầu của Chính
+phủ, Bộ, ngành Trung ương, Ủy ban nhân dân tỉnh về công tác tổ quản lý tổ chức
+bộ máy, biên chế, CBCCVC;
+
+c) Đề xuất nâng cấp các tính năng của
+phần mềm hoặc nâng cấp phần mềm bảo đảm yêu cầu về khai
+thác và sử dụng phần mềm tổ chức bộ máy, biên chế, cán bộ, công chức, viên chức
+có hiệu quả;
+
+4. Sử dụng thông tin về tổ chức bộ
+máy, biên chế và hồ sơ CBCCVC của cơ quan, đơn vị đã được cập nhật vào phần mềm
+để thực hiện công tác về tổ chức bộ máy, biên chế, sử dụng
+và quản lý CBCCVC như sau:
+
+a) Tham mưu trình cấp có thẩm quyền sắp
+xếp, sát nhập tổ chức bộ máy của các cơ quan, đơn vị trong tỉnh;
+
+b) Quản lý và giao chỉ tiêu biên chế,
+số lượng hợp đồng lao động theo Nghị định số 68 hằng năm;
+
+c) Trình Ủy ban nhân dân tỉnh phê duyệt
+kế hoạch tuyển dụng công chức, viên chức trong các cơ quan hành chính, đơn vị sự
+nghiệp công lập tỉnh Yên Bái;
+
+d) Nâng bậc lương, chuyển xếp lương, nâng
+ngạch, chuyển ngạch, bổ nhiệm vào ngạch, bổ nhiệm chức danh nghề nghiệp, thăng
+hạng chức danh nghề nghiệp, chuyển chức danh nghề nghiệp,
+thuyên chuyển, điều động, giải quyết chế độ nghỉ hưu,
+thôi việc, thu hút... theo quy định đối với CBCCVC thuộc thẩm quyền quản lý hoặc
+đề nghị cơ quan có thẩm quyền;
+
+đ) Cử CBCCVC đi đào tạo, bồi dưỡng
+thuộc thẩm quyền quản lý hoặc đề nghị cấp có thẩm quyền;
+
+e) Đề xuất, thực hiện nội dung các
+danh hiệu thi đua, khen thưởng và đề cử danh hiệu CBCCVC tiêu biểu hằng năm
+theo quy định;
+
+g) Thực hiện nhiệm vụ khác do Ủy ban
+nhân dân tỉnh phân công, ủy quyền;
+
+Sau khi kiểm tra, đổi chiếu thông tin
+về hồ sơ CBCCVC đã được lưu trữ trên phần mềm, Sở Nội vụ không giải quyết đối với
+cơ quan, đơn vị chưa cập nhật đầy đủ, chính xác hồ sơ
+CBCCVC vào phần mềm được quy định tại Điểm a, b, c, d, đ, e, Khoản 4 Điều này.
+
+5. Định kỳ hằng tháng (ngày cuối cùng
+trong tháng) thực hiện việc lưu dữ liệu thông tin về tổ chức bộ máy, biên chế
+và chất lượng đội ngũ CBCCVC, hợp đồng theo Nghị định 68 của các cơ quan, đơn vị,
+địa phương trong tỉnh để phục vụ công tác báo cáo số liệu
+khi cần thiết;
+
+6. Xem xét, đề xuất Ủy ban nhân dân tỉnh
+biểu dương, khen thưởng, kỷ luật các
+cơ quan, đơn vị ứng dụng phần mềm trong việc tổ chức bộ máy, biên chế và quản
+lý hồ sơ CBCCVC; đưa việc sử dụng hiệu quả phần mềm là một trong những tiêu chí
+để đánh giá xếp hạng cải cách hành chính hằng năm;
+
+7. Thanh tra, kiểm tra việc cập nhật,
+quản lý, khai thác và sử dụng phần mềm Quản lý tổ chức bộ máy, biên chế, cán bộ,
+công chức, viên chức của các cơ quan, đơn vị; tổng hợp báo cáo Ủy ban nhân dân
+tỉnh theo quy định tại khoản 2, Điều 15 Quy chế này.
+
+Điều 23. Trách
+nhiệm của Sở Tài chính
+
+Tham mưu cho Ủy ban nhân dân tỉnh cân
+đối, bố trí kinh phí năm 2020 - 2021 từ nguồn ngân sách tỉnh đã được giao tại
+Quyết định số 1139/QĐ-UBND ngày 28/6/2019 của Ủy ban nhân dân tỉnh Yên Bái và bổ
+sung kinh phí nếu có phát sinh trong quá trình triển khai thực hiện phần mềm Quản
+lý tổ chức bộ máy, biên chế, cán bộ, công chức, viên chức trong các cơ quan,
+đơn vị, địa phương thuộc tỉnh Yên Bái.
+
+Chương VI
+
+ĐIỀU KHOẢN THI
+HÀNH
+
+Điều 24. Tổ chức
+thực hiện
+
+1. Sở Nội vụ có
+trách nhiệm hướng dẫn, theo dõi, đôn đốc, kiểm tra các cơ quan, đơn vị trong việc
+tổ chức triển khai thực hiện Quy định này.
+
+2. Cơ quan, đơn vị thuộc đối tượng áp
+dụng Quy định này có trách nhiệm phổ biến, quán triệt tới toàn thể đội ngũ CBCCVC thuộc quyền quản lý và chỉ đạo, tổ chức thực hiện nghiêm
+túc nội dung Quy định này.
+
+3. Cơ quan, đơn vị và cá nhân vi phạm
+các điều, khoản trong Quy định này, tùy theo tính chất, mức độ sẽ bị xử lý kỷ
+luật theo quy định.
+
+Trong quá trình thực hiện, nếu có khó
+khăn, vướng mắc, Thủ trưởng cơ quan, đơn vị có liên quan kịp thời phản ánh về Sở
+Nội vụ tổng hợp, báo cáo trình Ủy
+ban nhân dân tỉnh xem xét, quyết định./.--- THÔNG TIN THÊM ---
+Ten: Quyết định 1980/QĐ-UBND năm 2020 về Quy chế quản lý, khai thác và sử dụng phần mềm Quản lý tổ chức bộ máy, biên chế, cán bộ, công chức, viên chức trong các cơ quan, đơn vị, địa phương thuộc tỉnh Yên Bái
+So hieu: 1980/QĐ-UBND
+Loai van ban: Quyết định
+Linh vuc nganh: Lao động - Tiền lương, Bộ máy hành chính
+Noi ban hanh: Tỉnh Yên Bái
+Nguoi ky: Nguyễn Chiến Thắng
+Ngay ban hanh: 07/09/2020
+Ngay hieu luc: 07/09/2020
+Ngay dang: Dữ liệu đang cập nhật
+So cong bao: Dữ liệu đang cập nhật
+Tinh trang: Còn hiệu lực
+
+
+--- MỤC LỤC ---
+- QUYẾT ĐỊNH VỀ VIỆC BAN HÀNH QUY CHẾ QUẢN LÝ, KHAI THÁC VÀ SỬ DỤNG PHẦN MỀM QUẢN LÝ TỔ CHỨC BỘ MÁY, BIÊN CHẾ, CÁN BỘ, CÔNG CHỨC, VIÊN CHỨC TRONG CÁC CƠ QUAN, ĐƠN VỊ, ĐỊA PHƯƠNG THUỘC TỈNH YÊN BÁI
+  - Điều 1. Ban hành kèm theo Quyết định này Quy chế quản lý, khai thác và sử dụng phần mềm Quản lý tổ chức bộ máy, biên chế, cán bộ, công chức, viên chức trong các cơ quan, đơn vị, địa phương thuộc tỉnh Yên Bái.
+  - Điều 2. Quyết định này có hiệu lực thi hành kể từ ngày ký.
+- QUY CHẾ QUẢN LÝ, KHAI THÁC VÀ SỬ DỤNG PHẦN MỀM QUẢN LÝ TỔ CHỨC BỘ MÁY, BIÊN CHẾ, CÁN BỘ, CÔNG CHỨC, VIÊN CHỨC TRONG CÁC CƠ QUAN, ĐƠN VỊ, ĐỊA PHƯƠNG THUỘC TỈNH YÊN BÁI
+  - Chương QUY ĐỊNH CHUNG
+    - Điều 1. Phạm vi điều chỉnh
+    - Điều 2. Giải thích từ ngữ
+    - Điều 3. Đối tượng áp dụng
+    - Điều 4. Mục đích, yêu cầu
+  - Chương NỘI DUNG VÀ NGUYÊN TẮC QUẢN LÝ, SỬ DỤNG PHẦN MỀM QUẢN LÝ TỔ CHỨC BỘ MÁY, BIÊN CHẾ, CÁN BỘ, CÔNG CHỨC, VIÊN CHỨC
+    - Điều 5. Phần mềm quản lý tổ chức, biên chế, cán bộ, công chức, viên chức
+    - Điều 6. Quản lý tài khoản đăng nhập phần mềm
+    - Điều 7. Mô hình tổ chức cập nhật, quản lý và khai thác phần mềm
+    - Điều 8. Nguyên tắc cập nhật, quản lý và khai thác sử dụng phần mềm
+    - Điều 9. Nội dung quản lý, khai thác, sử dụng phần mềm
+  - Chương III QUY TRÌNH QUẢN LÝ TỔ CHỨC BỘ MÁY, BIÊN CHẾ VÀ LƯU TRỮ, KHAI THÁC HỒ SƠ CÁN BỘ, CÔNG CHỨC, VIÊN CHỨC
+    - Điều 10. Quy trình quản lý tổ chức bộ máy, biên chế
+    - Điều 11. Quy trình lập phiếu cán bộ, công chức, viên chức và cập nhật thông tin vào phần mềm
+    - Điều 12. Điều chuyển và tiếp nhận hồ sơ
+    - Điều 13. Lưu trữ
+    - Điều 14. Khai thác và kết xuất thông tin từ phần mềm
+    - Điều 15. Báo cáo công tác tổ chức bộ máy, biên chế và quản lý hồ sơ CBCCVC
+  - Chương  QUY TRÌNH SỐ HÓA QUẢN LÝ NHÀ NƯỚC VỀ CÔNG TÁC CÁN BỘ, CÔNG CHỨC, VIÊN CHỨC VÀ CÁN BỘ, CÔNG CHỨC CẤP XÃ
+    - Điều 16. Số hóa quyết định hành chính
+    - Điều 17. Cập nhật quyết định số hóa vào phần mềm
+    - Điều 18. Thu hồi quyết định đã ban hành
+  - Chương TRÁCH NHIỆM, QUYỀN HẠN CỦA CÁC CƠ QUAN, ĐƠN VỊ TRONG VIỆC TỔ CHỨC, QUẢN LÝ VÀ KHAI THÁC SỬ DỤNG PHẦN MỀM QUẢN LÝ TỔ CHỨC BỘ MÁY, BIÊN CHẾ, CÁN BỘ, CÔNG CHỨC, VIÊN CHỨC
+    - Điều 19. Trách nhiệm, quyền hạn của Sở
+    - Điều 20. Trách nhiệm, quyền hạn của người được
+    - Điều 21. Trách nhiệm, quyền hạn của Sở Thông tin và Truyền thông
+    - Điều 22. Trách nhiệm, quyền hạn của Sở Nội vụ
+    - Điều 23. Trách nhiệm của Sở Tài chính
+  - Chương VI ĐIỀU KHOẢN THI HÀNH
+    - Điều 24. Tổ chức thực hiện
+
+--- VĂN BẢN LIÊN QUAN ---
+
+Van ban duoc dan chieu:
+  - Quyết định 2182/QĐ-UBND năm 2018 về mã định danh cơ quan, đơn vị thuộc, trực thuộc Ủy ban nhân dân tỉnh Yên... (ID: 403276)
+  - Nghị định 68/2000/NĐ-CP về thực hiện chế độ hợp đồng một số loại công việc trong cơ quan hành chính nhà ... (ID: 47047)
+
+Van ban duoc can cu:
+  - Nghị định 47/2020/NĐ-CP về quản lý, kết nối và chia sẻ dữ liệu số của cơ quan nhà nước (ID: 439384)
+  - Thông tư 07/2019/TT-BNV quy định về chế độ báo cáo thống kê và quản lý hồ sơ viên chức do Bộ trưởng Bộ Nội ... (ID: 416160)
+  - Thông tư 06/2019/TT-BNV sửa đổi Thông tư 11/2012/TT-BNV quy định về chế độ báo cáo thống kê và quản lý hồ ... (ID: 416195)
+  - Quyết định 4223/QĐ-BNV năm 2016 Danh mục chuẩn thông tin và Quy định kỹ thuật về dữ liệu dùng cho phần mềm,... (ID: 344351)
+  - Luật tổ chức chính quyền địa phương 2015 (ID: 282380)
+  - Thông tư 11/2012/TT-BNV quy định về chế độ báo cáo thống kê và quản lý hồ sơ công chức do Bộ trưởng Bộ Nội ... (ID: 154130)
+  - Luật viên chức 2010 (ID: 115271)
+  - Luật cán bộ, công chức 2008 (ID: 82202)
+  - Nghị định 64/2007/NĐ-CP về việc ứng dụng công nghệ thông tin trong hoạt động của cơ quan Nhà nước (ID: 18234)
+  - Luật Công nghệ thông tin 2006 (ID: 12987)
+  - Luật Giao dịch điện tử 2005 (ID: 6922)
+
+Van ban lien quan cung noi dung:
+  - Kế hoạch 2085/KH-UBND năm 2023 về quản lý và sử dụng biên chế giai đoạn 2023-2026 của tỉnh Kon Tum (ID: 575254)
+  - Kế hoạch 426/KH-UBND năm 2022 về quản lý, sử dụng biên chế công chức, số lượng người làm việc hưởng lương từ ngân sách nhà nước tỉnh Lào Cai, giai đoạn 2022-2026 (ID: 553395)
+  - Quyết định 44/2020/QĐ-UBND quy định về quản lý tổ chức bộ máy, biên chế, cán bộ, công chức, viên chức, lao động hợp đồng theo Nghị định 68/2000/NĐ-CP trong các cơ quan hành chính Nhà nước, đơn vị sự nghiệp công lập; hội, quỹ cấp tỉnh và người giữ chức danh, chức vụ tại doanh nghiệp thuộc Ủy ban nhân dân tỉnh Hải Dương quản lý (ID: 454681)
+  - Báo cáo 72/BC-UBND năm 2020 về kết quả sắp xếp tổ chức bộ máy; quản lý, sử dụng biên chế công chức, số lượng người làm việc trong các đơn vị sự nghiệp công lập và hợp đồng lao động giai đoạn 2015-2020 do Thành phố Hồ Chí Minh ban hành (ID: 539091)
+  - Quyết định 03/2020/QĐ-UBND quy định quản lý tổ chức bộ máy, biên chế, cán bộ, công chức, viên chức, lao động hợp đồng trong cơ quan hành chính, đơn vị sự nghiệp công lập và người quản lý doanh nghiệp thuộc Ủy ban nhân dân tỉnh Quảng Ninh (ID: 436991)
+  - Quyết định 23/2018/QĐ-UBND về phân cấp quản lý tổ chức bộ máy các cơ quan, tổ chức hành chính, đơn vị sự nghiệp công lập trên địa bàn tỉnh Sơn La (ID: 389029)

@@ -1,0 +1,782 @@
+BỘ Y TẾ
+
+-------
+
+CỘNG HÒA XÃ
+ HỘI CHỦ NGHĨA VIỆT NAM
+
+ Độc lập - Tự do - Hạnh phúc 
+
+ ---------------
+
+Số : 29/2016/TT-BYT
+
+Hà Nội,
+ ngày 30 tháng 6 năm 2016
+
+ 
+
+THÔNG
+TƯ
+
+QUY
+ĐỊNH QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ BỨC XẠ ION HÓA - GIỚI HẠN LIỀU TIẾP XÚC BỨC
+XẠ ION HÓA TẠI NƠI LÀM VIỆC
+
+Căn cứ Luật an toàn, vệ sinh lao động
+số 84/2015/QH13 ngày 25 tháng 6 năm 2015;
+
+Căn cứ Luật tiêu chuẩn và quy chuẩn kỹ
+thuật số 68/2006/QH13 ngày 29 tháng 6 năm 2006;
+
+Căn cứ Nghị định số 127/2007/NĐ-CP 
+ngày 01 tháng 8 năm 2007 của Chính phủ quy định chi tiết thi hành một số điều của
+Luật tiêu chuẩn và quy chuẩn kỹ thuật;
+
+Căn cứ Nghị định số 63/2012/NĐ-CP ngày
+31/8/2012 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức
+của Bộ Y tế;
+
+Theo đề nghị của Cục trưởng Cục Quản lý
+môi trường y tế;
+
+Bộ trưởng Bộ Y tế ban hành Thông tư
+quy định quy chuẩn kỹ thuật quốc gia về bức xạ ion hóa - Giới hạn liều tiếp xúc
+bức xạ ion hóa tại nơi làm việc.
+
+Điều 1. Quy chuẩn kỹ
+thuật quốc gia về bức xạ ion hóa
+
+Ban hành kèm theo Thông tư này QCVN 29/2016/BYT
+- Quy chuẩn kỹ thuật quốc gia về bức xạ ion hóa - Giới hạn liều tiếp xúc bức xạ
+ion hóa tại nơi làm việc.
+
+Điều 2. Hiệu lực thi
+hành
+
+Thông tư này có hiệu lực từ ngày 01
+tháng 12 năm 2016.
+
+Điều 3. Trách nhiệm
+thi hành
+
+Cục trưởng Cục Quản lý môi trường y tế,
+Vụ trưởng, Cục trưởng, Tổng cục trưởng các Vụ, Cục, Tổng cục thuộc Bộ Y tế, Thủ
+trưởng các cơ quan, đơn vị trực thuộc Bộ, Giám đốc Sở Y tế các tỉnh, thành phố
+trực thuộc trung ương và Thủ trưởng cơ quan y tế các Bộ, ngành chịu trách nhiệm
+thi hành Thông tư này./.
+
+ 
+
+ Nơi nhận:
+
+-
+ VPCP (Vụ KGVX, Công báo, Cổng TTĐT CP);
+
+ - Các Bộ, cơ quan ngang Bộ, cơ quan thuộc CP;
+
+ - Bộ Tư pháp (Cục Kiểm tra VBQPPL);
+
+ - Bộ trưởng (để báo cáo);
+
+ - Các đơn vị thuộc Bộ Y tế;
+
+ - UBND các tỉnh, thành phố trực thuộc TW;
+
+ - Sở Y tế các tỉnh, thành phố trực thuộc TW;
+
+ - Trung tâm YTDP các tỉnh, thành phố trực thuộc TW;
+
+ - Trung tâm BVSKLĐ&MT các tỉnh, thành phố trực thuộc TW;
+
+ - Tổng cục Tiêu chuẩn đo lường chất lượng (để đăng bạ);
+
+ - Cổng thông tin điện tử Bộ Y tế;
+
+ - Lưu: VT, K2ĐT, PC, MT.
+
+KT. BỘ
+ TRƯỞNG
+
+ THỨ TRƯỞNG
+
+ Nguyễn Thanh Long
+
+ 
+
+QCVN
+29:2016/BYT
+
+QUY
+CHUẨN KỸ THUẬT QUỐC GIA VỀ BỨC XẠ ION HÓA - GIỚI HẠN LIỀU TIẾP XÚC BỨC XẠ ION
+HÓA TẠI NƠI LÀM VIỆC
+
+National
+Technical Regulation on lonizing Radiation - Pemissible Exposure Limits of
+lonizing Radiation in the Workplace
+
+Lời nói đầu
+
+QCVN 29:2016/BYT do Ban soạn thảo Quy
+chuẩn kỹ thuật quốc gia về vệ sinh lao động biên soạn, Cục Quản lý môi trường y
+tế trình duyệt và được ban hành theo Thông tư số 29/2016/TT-BYT ngày 30 tháng 6
+năm 2016 của Bộ trưởng Bộ Y tế.
+
+ 
+
+QUY CHUẨN KỸ
+THUẬT QUỐC GIA VỀ BỨC XẠ ION HÓA - GIỚI HẠN LIỀU TIẾP XÚC BỨC XẠ ION HÓA TẠI
+NƠI LÀM VIỆC
+
+National
+Technical Regulation on lonizing Radiation - Pemissible Exposure Limits of
+lonizing Radiation in the Workplace
+
+I. QUY ĐỊNH CHUNG
+
+1. Phạm vi điều
+chỉnh
+
+Quy chuẩn này quy định giá trị giới hạn
+liều tiếp xúc tối đa cho phép với bức xạ ion hóa tại nơi làm việc.
+
+2. Đối tượng
+áp dụng
+
+Quy chuẩn này áp dụng cho các cơ quan
+quản lý nhà nước về môi trường; các cá nhân, tổ chức thực hiện quan trắc môi
+trường lao động; các cá nhân, tổ chức có các hoạt động phát sinh bức xạ ion hóa
+tại nơi làm việc.
+
+Quy chuẩn này không áp dụng cho các đối
+tượng được chẩn đoán, điều trị hoặc can thiệp bằng bức xạ ion hóa.
+
+3. Giải thích
+từ ngữ
+
+Trong quy chuẩn này, các từ ngữ dưới
+đây được hiểu như sau:
+
+3.1. Liều hấp thụ (Absorbed dose)
+
+Là đại lượng vật lý cơ bản sử dụng cho
+đánh giá liều bức xạ, được xác định theo công thức sau:
+
+D = dE/dm
+
+Trong đó:
+
++ D: Liều hấp thụ
+
++ dE: Năng lượng trung bình do bức xạ
+ion hóa truyền cho một khối vật chất.
+
++ dm: Khối lượng của khối vật chất đó.
+
+Đơn vị của liều hấp thụ là jun trên
+kilôgam (J/kg) và được gọi là gray (Gy). 1J/kg = 1Gy
+
+3.2. Liều tương đương (Equivalent
+dose)
+
+Là đại lượng dùng để đánh giá liều bức
+xạ trong một tổ chức mô hoặc cơ quan của cơ thể người, được xác định theo công
+thức sau:
+
+H T,R = DT,R x
+WR
+
+Trong đó:
+
++ HT,R: Liều tương đương
+
++ DT,R: Liều hấp thụ do loại bức xạ R
+gây ra, lấy trung bình trên cơ quan hoặc tổ chức mô T.
+
++ WR: Trọng số bức xạ của bức xạ loại
+R.
+
+Khi trường bức xạ gồm nhiều loại bức xạ
+với các trọng số bức xạ WR khác nhau thì liều tương đương được xác định theo
+công thức sau, trong đó tổng được lấy cho tất cả các loại bức xạ liên quan:
+
+Đơn vị của liều tương đương là jun
+trên kilôgam (J/kg) và được gọi là sivơ
+(Sv). 1J/kg = 1Sv.
+
+3.3. Trọng số bức xạ (WR -
+Radiation weighting factor)
+
+Là các hệ số nhân đối với liều hấp thụ
+dùng để tính hiệu quả tương đối của các loại bức xạ khác nhau trong việc gây ảnh
+hưởng đến sức khỏe con người.
+
+Bảng 1: Loại
+bức xạ và trọng số bức xạ
+
+Loại bức xạ
+
+Trọng số bức
+ xạ (WR)
+
+Photon với năng lượng bất kỳ
+
+1
+
+Hạt điện tử và các muon
+
+1
+
+Proton và các pion tích điện
+
+2
+
+Các hạt anpha, các mảnh phân hạch và
+ các ion nặng
+
+20
+
+3.4. Liều hiệu dụng (Effective dose)
+
+Là tổng liều tương đương của từng mô
+nhân với trọng số mô tương ứng tính cho tất cả các mô và cơ quan trong cơ thể,
+được xác định theo công thức sau:
+
+Trong đó:
+
++ E: Liều hiệu dụng
+
++ HT: Liều tương đương của
+mô T.
+
++ WT: Trọng số mô của mô T.
+Tổng được lấy cho tất cả các mô và cơ quan trong cơ thể.
+
+Đơn vị của liều hiệu dụng là jun trên
+kilôgam (J/kg) và được gọi là sivơ (Sv). 1J/kg = 1Sv
+
+3.5. Trọng số mô (WT
+-Tissue weighting factor)
+
+Là các hệ số nhân của liều tương đương
+đối với một cơ quan hoặc tổ chức mô dùng cho mục đích an toàn bức xạ để tính độ
+nhạy cảm bức xạ khác nhau của các cơ quan tổ chức mô đối với các hiệu ứng ngẫu
+nhiên của bức xạ.
+
+Bảng 2: Các
+mô, cơ quan và trọng số mô
+
+Tổ chức mô
+ hoặc cơ quan
+
+Trọng số mô
+ (WT)
+
+ΣWT
+
+Tủy xương (tủy đỏ), đại tràng, phổi,
+ dạ dày, vú, các mô còn lại*
+
+0,12
+
+0,72
+
+Cơ quan sinh dục
+
+0,08
+
+0,08
+
+Bàng quang, thực quản, gan, tuyến
+ giáp
+
+0,04
+
+0,16
+
+Bề mặt xương, não, tuyến nước bọt,
+ da
+
+0,01
+
+0,04
+
+Tổng cộng
+
+ 
+
+1
+
+* Các mô còn lại bao gồm tuyến thượng
+thận, vùng ngoài ngực, túi mật, tim, thận, hạch bạch huyết, cơ, màng nhầy miệng,
+lá lách, ruột non, tụy, tuyến ức, tuyến tiền liệt (đối với nam), tử cung (đối với
+nữ).
+
+3.6. Chiếu xạ nghề nghiệp
+(Occupational exposure):
+
+Là chiếu xạ đối với cá nhân xảy ra
+trong quá trình tiến hành công việc bức xạ, ứng phó sự cố bức xạ, hạt nhân, làm
+việc tại nơi có nồng độ khí Radon - 222 vượt quá 1.000 Becơren trong 1 mét khối
+không khí (1000Bq/m3) hoặc tiến hành thẩm định, thanh tra, kiểm tra
+tại các cơ sở có tiến hành công việc bức xạ, không tính đến chiếu xạ bị loại trừ
+(như K - 40 trong cơ thể người, tia vũ trụ trên mặt đất...) và chiếu xạ từ những
+công việc bức xạ, nguồn bức xạ được miễn trừ và chiếu xạ y tế.
+
+3.7. Chiếu xạ công chúng (Public
+exposure):
+
+Là chiếu xạ đối với công chúng do công
+việc bức xạ đã được cấp giấy phép gây ra và chiếu xạ trong trường hợp sự cố bức
+xạ, hạt nhân trừ chiếu xạ nghề nghiệp, chiếu xạ y tế và chiếu xạ từ phòng bức xạ
+tự nhiên tại địa phương.
+
+3.8. Nhân viên bức xạ (Radiation
+staff): Là nhân viên làm việc trong khu vực kiểm soát và khu vực giám sát.
+
+3.9. Khu vực kiểm soát (Controlled
+area): Là nơi phải áp dụng các biện pháp bảo vệ và các quy định an toàn đặc biệt
+nhằm kiểm soát sự chiếu xạ hoặc ngăn ngừa nhiễm bẩn phóng xạ lan rộng trong điều
+kiện làm việc bình thường, ngăn ngừa hoặc hạn chế mức độ chiếu xạ tiềm ẩn.
+
+3.10. Khu vực giám sát (Supervised
+area): Là nơi các điều kiện chiếu xạ luôn được theo dõi mặc dù không cần thiết
+phải có các biện pháp bảo vệ và các quy định an toàn đặc biệt như đối với khu vực
+kiểm soát.
+
+3.11. Nhiễm xạ bề mặt (Surface
+contamination): Là sự nhiễm xạ bởi các chất phóng xạ trên bề mặt hoặc bên trong
+của đối tượng nghiên cứu.
+
+II. QUY ĐỊNH KỸ THUẬT
+
+1. Giá trị giới hạn liều tiếp xúc tối
+đa cho phép trong một năm đối với chiếu xạ ion hóa nghề nghiệp và công chúng được
+quy định trong bảng 3:
+
+Bảng 3. Giá
+trị giới hạn liều tiếp xúc tối đa cho phép trong một năm
+
+(Đơn vị tính bằng mSv/năm)
+
+Loại liều
+ và đối tượng áp dụng
+
+Nhân viên bức
+ xạ
+
+Người học
+ việc, học nghề, sinh viên từ 16-18 tuổi
+
+Công chúng
+
+Liều hiệu dụng toàn thân
+
+20
+
+6
+
+1
+
+Liều tương đương đối với thủy tinh
+ thể của mắt
+
+20
+
+20
+
+15
+
+Liều tương đương đối với tay, chân,
+ da
+
+500
+
+150
+
+50
+
+- Liều hiệu dụng toàn thân đối với
+nhân viên bức xạ 20mSv trong một năm được lấy trung bình trong 5 năm làm việc
+liên tục. Trong một năm riêng lẻ có thể lên tới 50mSv, nhưng phải đảm bảo liều trung
+bình trong 5 năm đó không quá 20mSv/năm.
+
+- Liều tương đương đối với thể thủy
+tinh của mắt nhân viên bức xạ là 20 mSv trong một năm được lấy trung bình trong
+5 năm làm việc liên tục. Trong một năm riêng lẻ có thể lên tới 50mSv, nhưng phải
+đảm bảo liều trung bình trong 5 năm đó không quá 20mSv/năm.
+
+- Giới hạn liều tương đương đối với da
+là giá trị được lấy trung bình trên 1 cm2 của vùng da bị chiếu xạ
+nhiều nhất.
+
+2. Giá trị giới hạn liều tiếp xúc tối
+đa cho phép đối với chiếu xạ ion hóa theo suất liều tương đương được quy định
+trong bảng 4.
+
+Bảng 4. Giá
+trị giới hạn liều tiếp xúc tối đa cho phép theo suất liều tương đương tính theo
+µSV/h
+
+Loại liều
+ và đối tượng áp dụng
+
+Nhân viên bức
+ xạ
+
+Người học
+ việc, học nghề, sinh viên từ 16 -18 tuổi
+
+Công chúng
+
+Liều hiệu dụng toàn thân
+
+10,0
+
+3,0
+
+0,5
+
+Liều tương đương đối với thủy tinh
+ thể của mắt
+
+10,0
+
+10,0
+
+7,5
+
+Liều tương đương đối với tay, chân,
+ da
+
+250,0
+
+75,0
+
+25,0
+
+3. Giá trị giới hạn cho phép suất liều
+tương đương khi thiết kế; thanh tra, kiểm tra phòng làm việc liên quan đến chiếu
+xạ ion hóa được quy định trong bảng 5.
+
+Bảng 5. Giá
+trị giới hạn cho phép suất liều tương đương cho phòng đặt thiết bị phát bức xạ
+
+Vị trí
+
+Suất liều
+ tương đương (µSv/h)
+
+Trong phòng điều khiển hoặc nơi đặt
+ tủ điều khiển của thiết bị phát bức xạ
+
+10,0
+
+Các vị trí ngoài phòng đặt thiết bị
+ (nơi công chúng đi lại, người ngồi chờ, các phòng làm việc lân cận)
+
+0,5
+
+Ghi chú: Giá trị giới hạn không tính
+phông bức xạ tự nhiên
+
+4. Giá trị giới hạn mức nhiễm xạ trên
+các bề mặt được quy định trong bảng 6. 
+
+Bảng 6. Giá
+trị giới hạn mức nhiễm xạ trên các bề mặt(1) (hạt/cm2/phút)
+
+Đối tượng nhiễm xạ
+
+Nuclit
+ phóng anpha
+
+Nuclit
+ phóng beta (4)
+
+Nhân đặc biệt(2)
+
+Nhân khác
+
+Ngoài da, khăn mặt, quần áo mặc
+ trong, mặt trong của phần phía trước các phương tiện phòng hộ cá nhân.
+
+1
+
+1
+
+100
+
+Quần áo phòng hộ chính, mặt trong
+ các dụng cụ phòng hộ bổ sung.
+
+5
+
+20
+
+800
+
+Bề mặt các phòng có người thường
+ xuyên làm việc, mặt ngoài giầy dép phòng hộ, các thiết bị và các phư­ơng tiện
+ bên trong những phòng này.
+
+5
+
+20
+
+2000
+
+Bề mặt các phòng đặt máy không người
+ làm việc thường xuyên, mặt ngoài các dụng cụ phòng hộ bổ sung dùng ở các
+ phòng này.
+
+50
+
+200
+
+8000
+
+Các phương tiện vận chuyển, mặt
+ ngoài các công ten nơ bảo vệ và các bao bì che chở ngoài cùng các kiện hàng
+ chứa chất phóng xạ trong vùng kiểm soát(3)
+
+10
+
+10
+
+100
+
+Chú thích:
+
+(1): Đối với bề mặt các phòng làm việc,
+thiết bị, phương tiện vận chuyển, công ten nơ bảo vệ, bao bì bảo vệ, mức nhiễm
+xạ bề mặt được xác định bằng phương pháp vệ sinh khô và được chuẩn định theo lượng
+nhiễm xạ không bám chắc vào bề mặt (có thể lau sạch được). Đối với những trường
+hợp còn lại, mức nhiễm xạ được chuẩn định theo mức nhiễm xạ tổng cộng (loại
+không bám chắc và loại bám chắc vào bề mặt).
+
+(2): Nuclit đặc biệt là những nuclit
+phóng anpha có nồng độ giới hạn cho phép trong không khí ở nơi làm việc 1.10-14
+Curi/lit.
+
+(3): Ra ngoài vùng kiểm soát không cho
+phép có nhiễm xạ ở mặt ngoài các bao bì của các kiện hàng chứa chất phóng xạ và
+các phương tiện vận chuyển.
+
+(4): Riêng đối với Sr- 90, Sr-90 +
+Y-90 thì mức nhiễm xạ cho phép thấp hơn 5 lần. Mức nhiễm xạ của Triti không quy
+định vì được kiểm soát theo hàm lượng trong không khí và trong cơ thể.
+
+III. PHƯƠNG PHÁP XÁC
+ĐỊNH
+
+1. Phương pháp đo bức xạ ion hóa thực
+hiện như sau
+
+1.1. Nguyên lý đo:
+
+Các thiết bị đo phóng xạ dựa trên các
+nguyên lý sau:
+
+- Buồng ion hóa.
+
+Bức xạ ion hóa đi qua một số hơi khí sẽ
+bị ion hóa tạo thành các ion (+) và các ion (-); nếu có một hiệu điện thế giữa
+hai cực thì các ion (+) sẽ chạy về anôt và các ion (-) sẽ chạy về catôt và tạo
+thành dòng điện làm thay đổi điện thế. Đo dòng điện này sẽ tính được mức độ
+phóng xạ.
+
+Cấu tạo: Buồng ion hóa là một ống kim
+loại hay phủ kim loại, thể tích vài cm3 đến vài trăm dm3 (càng lớn càng nhạy);
+thành ống là cực âm, sợi kim loại xuyên giữa là cực dương được nối với các cực
+tương ứng của nguồn điện và một vi điện kế.
+
+Buồng ion hóa chỉ sử dụng được một thời
+gian, hơi khí bị ion hóa dần dần bị phá hủy hết.
+
+Các máy đo phóng xạ đều dùng buồng ion
+hóa và chỉ đo bức xạ gamma, tia X. Đối với bức xạ anpha phải có buồng ion hóa
+riêng, vách buồng phải thật mỏng; đối với neutron buồng ion hóa có phủ BF3.
+
+- Ống đếm nhấp nháy.
+
+Một số chất khi bị bức xạ ion hóa chiếu
+qua sẽ phát quang, ánh sáng đó rất yếu nên phải khuyếch đại rồi chuyển quang
+năng thành điện năng và được đo bằng một vi điện kế.
+
+Một số chất phát quang thường dùng:
+
++ Sunphua kẽm để đo bức xạ anpha.
+
++ Anthracen để đo bức xạ beta.
+
++ Natri iodua để đo bức xạ gamma.
+
++ Liti iodua để đo bức xạ neutron.
+
+Ống đếm nhấp nháy có độ nhạy cao hơn
+buồng ion hóa nhưng có nhược điểm là mỗi loại bức xạ phải dùng chất phát quang
+riêng và điện áp cho tế bào nhân quang điện phải lớn.
+
+- Nhiệt phát quang (TLD).
+
+Dùng một tấm kính phủ một lớp
+metaphotphat bạc và những tinh thể canxi florua (CaF2) hay liti florua (LiF); nếu
+nung nóng tấm kính đó khi đã bị chiếu bức xạ ion hóa nó sẽ phát ra ánh sáng. Đo
+ánh sáng đó bằng quang kế sẽ biết mức độ chiếu xạ. Phương pháp này dùng rộng
+rãi trong đo liều cá nhân. Nhược điểm là phải có máy đọc kết quả.
+
+- Phim ảnh.
+
+Các bức xạ ion hóa làm đen phim ảnh. Độ
+đen của phim tỷ lệ với liều chiếu của tia bức xạ. Phương pháp này có nhiều nhược
+điểm nên hiện nay ít dùng.
+
+1.2. Đo độ phóng xạ và nhiễm xạ môi
+trường
+
+1.2.1. Thiết bị đo.
+
+Thiết bị đo phải đáp ứng các quy định
+của pháp luật về đo lường và dùng các máy đo liều, suất liều tương đương dựa
+trên các nguyên lý đã nêu tại mục 1.1.
+
+1.2.2. Chỉ định đo.
+
+Cơ sở sử dụng bức xạ tia ion hóa phải
+tiến hành đo kiểm xạ môi trường theo các quy định sau:
+
+- Đo kiểm xạ môi trường làm việc và
+xác lập các mức điều tra khi lập hồ sơ đề nghị cấp giấy phép tiến hành công việc
+bức xạ;
+
+- Định kỳ hằng năm kiểm tra mức bức xạ
+ion hóa tại các khu vực kiểm soát và giám sát.
+
+1.2.3. Vị trí đo
+
+- Cần đo tất cả các vị trí của những
+người làm việc trực tiếp với nguồn bức xạ ion hóa và vị trí của những đối tượng
+xung quanh như liệt kê trong Bảng 5.
+
+- Đo đánh giá hiệu quả của các phương
+tiện phòng hộ chung cũng như phòng hộ cá nhân.
+
+- Đo nhiễm xạ bề mặt theo các vị trí
+được liệt kê tại Bảng 6.
+
+- Nếu diện đo rộng và phức tạp cần lập
+biểu đồ và kẻ ô vuông để đo theo tọa độ.
+
+1.2.4. Nguyên tắc chung khi sử dụng
+thiết bị:
+
+- Đọc kỹ hướng dẫn sử dụng máy.
+
+- Xem đơn vị đo của thiết bị có phù hợp
+với mục đích đo hay không, khi cần nên tính đổi đơn vị đo cho phù hợp.
+
+- Xem thiết bị có thể đo được loại bức
+xạ nào: Anpha, beta, gamma, tia X, neutron vv ..
+
+- Xem năng lượng đáp ứng của máy có phù
+hợp với năng lượng bức xạ định đo hay không.
+
+- Xem giới hạn đo và giới hạn chịu đựng
+liều của máy để tránh đo nơi có liều vượt quá giới hạn của máy.
+
+- Khi đo một nguồn phóng xạ đã biết
+nên để thang đo ở mức cao nhất rồi hạ thấp dần để tránh hỏng máy. Khi dò nguồn
+phóng xạ thì làm ngược lại, đo từ thang thấp nhất.
+
+- Bảo quản thiết bị nơi khô, mát. Tối
+thiểu chuẩn máy đo 1 lần/1năm.
+
+2. Trong một số trường hợp cụ thể, có
+thể xác định Theo TCVN 7078 - 1: 2002 (ISO 7503 - 1:1988): An toàn bức xạ. Đánh
+giá nhiễm xạ bề mặt. Phần 1: Nguồn phát bêta (năng lượng bêta cực đại lớn hơn
+0,15 MeV) và nguồn phát anpha.
+
+IV. QUY ĐỊNH QUẢN LÝ
+
+1. Các cơ sở có người lao động tiếp
+xúc với bức xạ ion hóa phải định kỳ đo kiểm liều, suất liều bức xạ ion hóa tối
+thiểu 1 lần/năm và theo các quy định của Bộ luật lao động, Luật an toàn, vệ
+sinh lao động, Luật năng lượng nguyên tử.
+
+2. Người sử dụng lao động phải cung cấp
+đầy đủ liều kế cá nhân, phương tiện bảo vệ cá nhân cho nhân viên bức xạ phù hợp
+với môi trường làm việc theo quy định của pháp luật An toàn, vệ sinh lao động.
+
+3. Nếu liều bức xạ tại nơi làm việc vượt
+mức giới hạn cho phép, người sử dụng lao động phải thực hiện ngay các giải pháp
+cải thiện điều kiện lao động và bảo vệ sức khỏe người tiếp xúc.
+
+V. TỔ CHỨC THỰC HIỆN
+
+1. Quy chuẩn này áp dụng thay thế cho
+phần Tiêu chuẩn phóng xạ trong Tiêu chuẩn Vệ sinh lao động ban hành theo Quyết
+định số 3733/2002/QĐ-BYT ngày 10/10/2002 của Bộ trưởng Bộ Y tế.
+
+2. Cục Quản lý môi trường y tế - Bộ Y
+tế chủ trì, phối hợp với các cơ quan chức năng có liên quan hướng dẫn, triển
+khai và tổ chức việc thực hiện quy chuẩn này.
+
+3. Căn cứ thực tiễn yêu cầu quản lý, Cục
+Quản lý môi trường y tế có trách nhiệm kiến nghị Bộ Y tế sửa đổi, bổ sung cho
+phù hợp.
+
+4. Trong trường hợp các tiêu chuẩn quốc
+gia, tiêu chuẩn quốc tế về bức xạ ion hóa được viện dẫn trong Quy chuẩn này sửa
+đổi, bổ sung hoặc thay thế thì áp dụng theo quy định tại các văn bản mới.--- THÔNG TIN THÊM ---
+Ten: Thông tư 29/2016/TT-BYT Quy định Quy chuẩn kỹ thuật quốc gia về bức xạ ion hóa - Giới hạn liều tiếp xúc bức xạ ion hóa tại nơi làm việc do Bộ trưởng Bộ Y tế ban hành
+So hieu: 29/2016/TT-BYT
+Loai van ban: Thông tư
+Linh vuc nganh: Lao động - Tiền lương, Thể thao - Y tế
+Noi ban hanh: Bộ Y tế
+Nguoi ky: Nguyễn Thanh Long
+Ngay ban hanh: 30/06/2016
+Ngay hieu luc: 01/12/2016
+Ngay dang: 04/09/2016
+So cong bao: Từ số 905 đến số 906
+Tinh trang: Hết hiệu lực: 01/07/2017
+
+
+--- MỤC LỤC ---
+- THÔNG TƯ QUY ĐỊNH QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ BỨC XẠ ION HÓA - GIỚI HẠN LIỀU TIẾP XÚC BỨC XẠ ION HÓA TẠI NƠI LÀM VIỆC
+  - Điều 1. Quy chuẩn kỹ thuật quốc gia về bức xạ ion hóa
+  - Điều 2. Hiệu lực thi hành
+  - Điều 3. Trách nhiệm thi hành
+- QCVN 29:2016/BYT QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ BỨC XẠ ION HÓA - GIỚI HẠN LIỀU TIẾP XÚC BỨC XẠ ION HÓA TẠI NƠI LÀM VIỆC
+  - I. QUY ĐỊNH CHUNG
+    - 1. Phạm vi điều chỉnh
+    - 2. Đối tượng áp dụng
+    - 3. Giải thích từ ngữ
+  - II. QUY ĐỊNH KỸ THUẬT
+  - III. PHƯƠNG PHÁP XÁC ĐỊNH
+  - IV. QUY ĐỊNH QUẢN LÝ
+  - V. TỔ CHỨC THỰC HIỆN
+
+--- VĂN BẢN LIÊN QUAN ---
+
+Van ban bi sua doi bo sung:
+  - Quyết định 3733/2002/QĐ-BYT về 21 tiêu chuẩn vệ sinh lao động, 05 nguyên tắc và 07 thông số vệ sinh lao ... (ID: 70480)
+
+Van ban duoc dan chieu:
+  - Bộ Luật lao động 2012 (ID: 142187)
+  - Luật năng lượng nguyên tử 2008 (ID: 67115)
+
+Van ban duoc can cu:
+  - Luật an toàn, vệ sinh lao động 2015 (ID: 281961)
+  - Nghị định 63/2012/NĐ-CP quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Y tế (ID: 146851)
+  - Nghị định 127/2007/NĐ-CP Hướng dẫn Luật Tiêu chuẩn và Quy chuẩn kỹ thuật (ID: 54148)
+  - Luật Tiêu chuẩn và quy chuẩn kỹ thuật 2006 (ID: 12979)
+
+Van ban thay the:
+  - Thông tư 25/2017/TT-BYT bãi bỏ văn bản quy phạm pháp luật do Bộ trưởng Bộ Y tế ban hành (ID: 350184)
+  - Quyết định 5838/QĐ-BYT về công bố Danh mục văn bản quy phạm pháp luật hết hiệu lực toàn bộ hoặc một phần ... (ID: 372147)
+
+Van ban lien quan cung noi dung:
+  - Thông tư 26/2016/TT-BYT Quy định Quy chuẩn kỹ thuật quốc gia về vi khí hậu - Giá trị cho phép vi khí hậu tại nơi làm việc do Bộ trưởng Bộ Y tế ban hành (ID: 318346)
+  - Thông tư 04/2016/TT-BKHCN quy định về thẩm định báo cáo đánh giá an toàn bức xạ trong hoạt động thăm dò, khai thác quặng phóng xạ do Bộ Khoa học và Công nghệ ban hành (ID: 307876)
+  - Quyết định 105/QĐ-BKHCN năm 2011 công bố Tiêu chuẩn quốc gia về An toàn bức xạ - Cảnh báo bức xạ ion hóa – Dấu hiệu bổ sung do Bộ trưởng Bộ Khoa học và Công nghệ ban hành (ID: 118282)

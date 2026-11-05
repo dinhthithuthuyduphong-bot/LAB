@@ -1,0 +1,383 @@
+BỘ
+ LAO ĐỘNG, THƯƠNG BINH VÀ XÃ HỘI 
+
+ -------
+
+CỘNG
+ HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+ Độc lập – Tự do – Hạnh phúc
+
+ --------------
+
+Số:
+ 1117/QĐ-LĐTBXH 
+
+Hà
+ Nội, ngày 16 tháng 09 năm 2010
+
+ 
+
+QUYẾT ĐỊNH 
+
+VỀ VIỆC PHÊ DUYỆT ĐẦU TƯ HOÀN THIỆN HỆ THỐNG THÔNG TIN THỊ
+TRƯỜNG LAO ĐỘNG THUỘC DỰ ÁN HỖ TRỢ PHÁT TRIỂN THỊ TRƯỜNG LAO ĐỘNG 
+
+BỘ TRƯỞNG BỘ LAO ĐỘNG, THƯƠNG BINH VÀ XÃ HỘI 
+
+Căn cứ Nghị định số
+186/2007/NĐ-CP ngày 25/12/2007 của Chính phủ quy định chức năng, nhiệm vụ, quyền
+hạn và cơ cấu tổ chức của Bộ Lao động, Thương binh và Xã hội; 
+
+Căn cứ Nghị định số 85/2009/NĐ-CP ngày 15/10/2009 của Chính phủ hướng dẫn thi
+hành Luật Đấu thầu và lựa chọn nhà thầu xây dựng theo Luật Xây dựng; 
+
+Căn cứ Quyết định số 859/QĐ-LĐTBXH ngày 01/7/2008 của Bộ trưởng Bộ Lao động,
+Thương binh và Xã hội về ban hành quy chế phân cấp về quản lý nhà nước đối với
+tài sản nhà nước tại cơ quan hành chính, đơn vị sự nghiệp thuộc Bộ Lao động,
+Thương binh và Xã hội;
+
+Căn cứ Quyết định số 85/QĐ-LĐTBXH ngày 18/1/2010 của Bộ trưởng Bộ Lao động,
+Thương binh và Xã hội về giao dự toán ngân sách nhà nước năm 2010;
+
+Xét Tờ trình số 199/TTr-CVL ngày 14/4/2010 về việc phê duyệt kế hoạch mua sắm,
+dự toán chi tiết và kế hoạch đấu thầu gói thầu “Trang thiết bị an ninh bảo mật
+cho Trung tâm tích hợp dữ liệu thị trường lao động” và “Xây dựng phần mềm Cơ sở
+dữ liệu Cầu lao động”; công văn số 330/CVL-TTDBTTLĐ ngày 17/5/2010 về việc phê
+duyệt dự toán chi tiết đầu tư hoàn thiện hệ thống thông tin thị trường lao động;
+công văn số 516/CVL-TCKT ngày 23/8/2010 về việc điều chỉnh dự toán chi tiết
+kinh phí đầu tư hoàn thiện hệ thống thông tin thị trường lao động năm 2010;
+
+Theo đề nghị của Vụ trưởng Vụ Kế hoạch - Tài chính,
+
+QUYẾT ĐỊNH:
+
+Điều 1.
+Phê duyệt đầu tư hoàn thiện hệ thống thông tin thị
+trường lao động thuộc dự án hỗ trợ phát triển thị trường lao động như sau: 
+
+1. Nội dung đầu tư được duyệt với tổng
+kinh phí tối đa là 3.000.000.000 đồng (Bằng chữ: Ba tỷ đồng chẵn).
+
+a) Xây dựng phần mềm cơ sở dữ liệu
+Cầu lao động gồm:
+
+- Xây dựng modul cập nhật và quản
+lý dữ liệu trên nền Web
+
+- Xây dựng modul chuyển đổi cơ sở dữ
+liệu
+
+- Xây dựng modul tổng hợp báo cáo,
+dữ liệu đầu ra
+
+- Tập huấn sử dụng, khai thác hệ thống
+
+b) Nâng cấp hệ thống an ninh bảo mật
+cho Trung tâm tích hợp dữ liệu thị trường lao động (đặt tại Trung tâm Quốc gia
+dự báo và thông tin thị trường lao động) gồm: 
+
+- Thiết bị phát hiện và phòng chống
+xâm nhập (IDS/IPS)
+
+- Thiết bị cân bằng tải, load
+balancing đường truyền
+
+- Thiết bị chống tấn công ứng dụng
+Web
+
+- Phần mềm diệt virut
+
+2. Kế hoạch đấu thầu đầu tư hoàn
+thiện hệ thống thông tin thị trường lao động của Cục Việc làm theo chi tiết tại
+phụ lục số 1 đính kèm. 
+
+Điều 2.
+Tổ chức thực hiện: Cục trưởng Cục Việc làm căn cứ các
+nội dung phê duyệt tại Điều 1, chịu trách nhiệm:
+
+- Xây dựng yêu cầu về mặt kỹ thuật
+đối với phần mềm Cơ sở dữ liệu Cầu lao động và các trang thiết bị an ninh bảo mật
+mạng để đáp ứng yêu cầu phục vụ công tác, đảm bảo đồng bộ, tương thích với các
+trang thiết bị đã được Bộ đầu tư và các quy định có liên quan. 
+
+- Phê duyệt dự toán chi tiết các
+gói thầu đảm bảo phù hợp với thời điểm tổ chức đấu thầu để làm cơ sở xác định
+giá gói thầu và đánh giá lựa chọn nhà thầu theo quy định tại khoản
+2, Điều 70, Nghị định số 85/2009/NĐ-CP ngày 15/10/2009 của Chính phủ, đảm bảo
+không vượt tổng kinh phí đã được Bộ giao theo quy định (bao gồm cả dự phòng);
+phê duyệt hồ sơ mời thầu, kết quả đấu thầu, ký kết hợp đồng, nghiệm thu, thanh
+quyết toán và quản lý theo đúng quy định hiện hành.
+
+- Báo cáo kết quả thực hiện về Bộ
+(Vụ Kế hoạch - Tài chính) để theo dõi, quản lý. 
+
+Điều 3.
+Quyết định này có hiệu lực kể từ ngày ký.
+
+Điều 4.
+Chánh Văn phòng Bộ, Vụ trưởng Vụ Kế hoạch - Tài
+chính, Cục trưởng Cục Việc làm và Thủ trưởng các đơn vị liên quan chịu trách
+nhiệm thi hành Quyết định này./. 
+
+ 
+
+ 
+
+Nơi nhận: 
+
+- Như điều 4;
+
+ - Bộ trưởng (để báo cáo);
+
+ - KBNN nơi đơn vị giao dịch;
+
+ - Lưu: VT, KHTC. 
+
+KT.
+ BỘ TRƯỞNG 
+
+ THỨ TRƯỞNG 
+
+ Nguyễn Thanh Hòa
+
+ 
+
+PHỤ LỤC SỐ 1 
+
+(Kèm
+theo Quyết định số 1117/QĐ-LĐTBXH ngày 16/9/2010)
+
+ĐVT:
+Đồng
+
+TT
+
+Tên
+ gói thầu
+
+Tổng
+ kinh phí tối đa (đồng) 
+
+Nguồn
+ vốn 
+
+Hình
+ thức lựa chọn nhà thầu 
+
+Phương
+ thức đấu thầu 
+
+Thời
+ gian lựa chọn nhà thầu 
+
+Hình
+ thức hợp đồng 
+
+Thời
+ gian thực hiện hợp đồng 
+
+1
+
+Gói thầu số 1: Trang thiết bị an ninh
+ bảo mật cho Trung tâm tích hợp dữ liệu thị trường lao động 
+
+1.988.940.00
+
+Ngân
+ sách nhà nước (Kinh phí CTMTQG)
+
+Chào
+ hàng cạnh tranh
+
+Một
+ túi hồ sơ
+
+Quý
+ III, IV/2010
+
+Trọn
+ gói 
+
+Niên
+ độ tài chính năm 2010 
+
+2
+
+Gói thầu số 2: Lập hồ sơ mời thầu
+ và phân tích đánh giá hồ sơ dự thầu gói thầu “Trang thiết bị an ninh bảo mật
+ cho Trung tâm tích hợp dữ liệu thị trường lao động”. 
+
+7.060.000
+
+Chỉ
+ định thầu
+
+ 
+
+Quý
+ III, IV/2010
+
+Trọn
+ gói 
+
+Niên
+ độ tài chính năm 2010 
+
+3
+
+Gói thầu số 3: Thẩm định giá gói
+ thầu “Trang thiết bị an ninh bảo mật cho Trung tâm tích hợp dữ liệu thị trường
+ lao động”. 
+
+4.000.000
+
+Chỉ
+ định thầu
+
+ 
+
+Quý
+ III, IV/2010
+
+Trọn
+ gói 
+
+Niên
+ độ tài chính năm 2010 
+
+4
+
+Gói thầu số 4: Xây dựng phần mềm
+ Cơ sở dữ liệu Cầu lao động 
+
+993.970.000
+
+Chào
+ hàng cạnh tranh
+
+Một
+ túi hồ sơ
+
+Quý
+ III, IV/2010
+
+Trọn
+ gói 
+
+Niên
+ độ tài chính năm 2010 
+
+5
+
+Gói thầu số 5: Thẩm định giá, lập
+ hồ sơ mời thầu và phân tích đánh giá hồ sơ dự thầu gói thầu “Xây dựng phần mềm
+ Cơ sở dữ liệu Cầu lao động”.
+
+4.030.000
+
+Chỉ
+ định thầu
+
+ 
+
+Quý
+ III, IV/2010
+
+Trọn
+ gói 
+
+Niên
+ độ tài chính năm 2010 
+
+6
+
+Gói thầu số 6: Thẩm định giá gói
+ thầu “Trang thiết bị an ninh bảo mật cho Trung tâm tích hợp dữ liệu thị trường
+ lao động”. 
+
+2.000.000
+
+Chỉ
+ định thầu
+
+ 
+
+Quý
+ III, IV/2010
+
+Trọn
+ gói 
+
+Niên
+ độ tài chính năm 2010 
+
+ 
+
+Tổng
+ cộng
+
+3.000.000.000
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Số tiền viết bằng chữ: Ba tỷ đồng
+chẵn.
+
+Ghi chú: 
+
+- Ưu tiên lựa chọn mua sắm hàng hóa
+được sản xuất trong nước bảo đảm chất lượng, đáp ứng yêu cầu công việc theo quy
+định hiện hành. 
+
+- Giá trị tài sản nêu trên đã bao gồm
+chi phí bản quyền, khảo sát, thiết kế; chi phí vận chuyển, lắp đặt, chạy thử;
+chi phí bảo hành, bảo trì, đào tạo,…; thuế theo quy định hiện hành. 
+
+- Tất cả các tài sản nêu trên là mới
+100%.--- THÔNG TIN THÊM ---
+Ten: Quyết định 1117/QĐ-LĐTBXH năm 2010 phê duyệt đầu tư hoàn thiện hệ thống thông tin thị trường lao động thuộc dự án hỗ trợ phát triển thị trường lao động do Bộ trưởng Bộ Lao động - Thương binh và Xã hội ban hành
+So hieu: 1117/QĐ-LĐTBXH
+Loai van ban: Quyết định
+Linh vuc nganh: Đầu tư, Lao động - Tiền lương, Công nghệ thông tin
+Noi ban hanh: Bộ Lao động – Thương binh và Xã hội
+Nguoi ky: Nguyễn Thanh Hòa
+Ngay ban hanh: 16/09/2010
+Ngay hieu luc: 16/09/2010
+Ngay dang: Dữ liệu đang cập nhật
+So cong bao: Dữ liệu đang cập nhật
+Tinh trang: Còn hiệu lực
+
+
+--- MỤC LỤC ---
+- QUYẾT ĐỊNH VỀ VIỆC PHÊ DUYỆT ĐẦU TƯ HOÀN THIỆN HỆ THỐNG THÔNG TIN THỊ TRƯỜNG LAO ĐỘNG THUỘC DỰ ÁN HỖ TRỢ PHÁT TRIỂN THỊ TRƯỜNG LAO ĐỘNG
+  - Điều 1. Phê duyệt đầu tư hoàn thiện hệ thống thông tin thị trường lao động thuộc dự án hỗ trợ phát triển thị trường lao động như sau:
+  - Điều 2. Tổ chức thực hiện: Cục trưởng Cục Việc làm căn cứ các nội dung phê duyệt tại Điều 1, chịu trách nhiệm:
+  - Điều 3. Quyết định này có hiệu lực kể từ ngày ký.
+  - Điều 4. Chánh Văn phòng Bộ, Vụ trưởng Vụ Kế hoạch - Tài chính, Cục trưởng Cục Việc làm và Thủ trưởng các đơn vị liên quan chịu trách nhiệm thi hành Quyết định này./.
+  - PHỤ LỤC SỐ 1
+
+--- VĂN BẢN LIÊN QUAN ---
+
+Van ban duoc can cu:
+  - Nghị định 85/2009/NĐ-CP Hướng dẫn Luật Đấu thầu và lựa chọn nhà thầu xây dựng theo Luật Xây dựng (ID: 96312)
+  - Quyết định 859/QĐ-LĐTBXH năm 2008 quy chế phân cấp về quản lý nhà nước đối với tài sản nhà nước tại cơ quan... (ID: 163667)
+  - Nghị định 186/2007/NĐ-CP quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Lao động - Thương... (ID: 60724)
+
+Van ban lien quan cung noi dung:
+  - Quyết định 1405/QĐ-LĐTBXH năm 2021 về Chương trình hỗ trợ phục hồi và phát triển thị trường lao động do Bộ trưởng Bộ Lao động - Thương binh và Xã hội ban hành (ID: 497917)
+  - Quyết định 773/QĐ-LĐTBXH năm 2021 về Kế hoạch triển khai thực hiện Quyết định 176/QĐ-TTg về Chương trình hỗ trợ phát triển thị trường lao động đến năm 2030 do Bộ trưởng Bộ Lao động - Thương binh và Xã hội ban hành (ID: 481445)
+  - Công văn 666/LĐTBXH-VL năm 2021 thực hiện Quyết định 176/QĐ-TTg do Bộ Lao động - Thương binh và Xã hội ban hành (ID: 481179)
+  - Quyết định 176/QĐ-TTg năm 2021 về Chương trình hỗ trợ phát triển thị trường lao động đến năm 2030 do Thủ tướng Chính phủ ban hành (ID: 464832)
+  - Công văn 2274/VPCP-KGVX năm 2017 thông tin báo nêu về tác động của cuộc Cách mạng công nghiệp lần thứ 4 đến thị trường lao động do Văn phòng Chính phủ ban hành (ID: 342749)
+  - Thông tư 27/2015/TT-BLĐTBXH hướng dẫn thu thập, lưu trữ, tổng hợp thông tin thị trường lao động do Bộ trưởng Bộ Lao động - Thương binh và Xã hội ban hành (ID: 284881)

@@ -1,0 +1,319 @@
+BỘ
+ LAO ĐỘNG - THƯƠNG BINH VÀ XÃ HỘI
+
+ --------
+
+CỘNG
+ HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+ Độc lập - Tự do - Hạnh phúc
+
+ ----------------
+
+Số:
+ 07/2012/TT-BLĐTBXH
+
+Hà
+ Nội, ngày 16 tháng 04 năm 2012
+
+ 
+
+THÔNG TƯ
+
+BAN HÀNH QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ NHỮNG THIẾT BỊ BẢO VỆ
+ĐƯỜNG HÔ HẤP – BỘ LỌC BỤI
+
+Căn cứ Nghị định số 186/2007/NĐ-CP ngày 25 tháng 12 năm 2007 của
+Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Lao
+động - Thương binh và Xã hội;
+
+Căn cứ Nghị định số 127/2007/NĐ-CP ngày 01 tháng 8 năm 2007 của
+Chính phủ quy định chi tiết một số điều của Luật
+Tiêu chuẩn và Quy chuẩn kỹ thuật;
+
+Căn cứ Nghị định số 132/2008/NĐ-CP ngày 31 tháng 12 năm 2008 của
+Chính phủ quy định chi tiết thi hành một số điều của Luật Chất lượng sản phẩm, hàng hóa;
+
+Sau khi có ý kiến thẩm định của
+Bộ Khoa học và Công nghệ tại Công văn số 3421/BKHCN-TĐC ngày 30 tháng 12 năm
+2011, Bộ Lao động - Thương binh và Xã hội ban hành Quy chuẩn kỹ thuật quốc gia
+về những thiết bị bảo vệ đường hô hấp – Bộ lọc bụi như sau:
+
+Điều 1. Ban
+hành kèm theo Thông tư này Quy chuẩn kỹ thuật quốc gia về những thiết bị bảo vệ
+đường hô hấp – Bộ lọc bụi.
+
+Ký hiệu: QCVN 08:2012/BLĐTBXH
+
+Điều 2. Quy
+chuẩn kỹ thuật quốc gia về những thiết bị bảo vệ đường hô hấp – Bộ lọc bụi có
+hiệu lực sau 06 tháng kể từ ngày ký Thông tư này.
+
+Điều 3. Các
+Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân các tỉnh, thành
+phố trực thuộc Trung ương và các tổ chức, cá nhân có liên quan chịu trách nhiệm
+thi hành./.
+
+ 
+
+ 
+
+Nơi nhận:
+
+- Văn phòng Chính phủ;
+
+ - Các Bộ, cơ quan ngang Bộ, cơ quan thuộc CP;
+
+ - UBND các tỉnh, thành phố trực thuộc TƯ;
+
+ - Tòa án nhân dân tối cao;
+
+ - Viện kiểm sát nhân dân tối cao;
+
+ - Cục Kiểm tra VBQPPL- Bộ Tư pháp;
+
+ - Công báo;
+
+ - Website Bộ LĐTBXH;
+
+ - Lưu: VT, PC, Cục ATLĐ.
+
+KT.
+ BỘ TRƯỞNG
+
+ THỨ TRƯỞNG
+
+ Bùi Hồng Lĩnh
+
+ 
+
+QCVN 08: 2012/BLĐTBXH
+
+QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ NHỮNG THIẾT BỊ BẢO VỆ ĐƯỜNG
+HÔ HẤP - BỘ LỌC BỤI
+
+National
+technical regulation on respiratory protective devices – Particle filters
+
+Lời nói đầu
+
+QCVN 08: 2012/BLĐTBXH do Tổ soạn thảo
+quy chuẩn kỹ thuật quốc gia về những thiết bị bảo vệ đường hô hấp – Bộ lọc bụi
+biên soạn, Cục An toàn lao động trình duyệt, Bộ Khoa học và Công nghệ thẩm định,
+Bộ Lao động - Thương binh và Xã hội ban hành kèm theo Thông tư số
+07/2012/TT-BLĐTBXH.
+
+ 
+
+QUY CHUẨN KỸ THUẬT QUỐC GIA
+
+VỀ
+NHỮNG THIẾT BỊ BẢO VỆ ĐƯỜNG HÔ HẤP – BỘ LỌC BỤI
+
+National
+technical regulation on respiratory protective devices – Particle filters
+
+1. QUY ĐỊNH
+CHUNG
+
+1.1. Phạm vi điều chỉnh
+
+Quy chuẩn này quy định các yêu cầu
+an toàn đối với những thiết bị bảo vệ đường hô hấp – Bộ lọc bụi là bộ phận lọc
+bụi theo phân loại tại mục 5 Tiêu chuẩn Châu Âu EN 143: 2000 (E) Những thiết bị
+bảo vệ đường hô hấp- Bộ lọc bụi- Những yêu cầu, thử nghiệm, ghi nhãn (Respiratory
+protective devices – Particle filters –Requirements testing, marking).
+
+1.2. Đối tượng áp dụng
+
+1.2.1. Quy chuẩn này áp dụng đối với
+các tổ chức, cá nhân sản xuất, nhập khẩu, lưu thông và sử dụng những thiết bị bảo
+vệ đường hô hấp – bộ lọc bụi.
+
+1.2.2. Các tổ chức kiểm tra chất lượng
+sản phẩm, hàng hóa, các cơ quan quản lý nhà nước và các tổ chức, cá nhân có
+liên quan.
+
+1.3. Giải thích từ ngữ
+
+Trong Quy chuẩn này sử dụng các thuật
+ngữ của các Tiêu chuẩn Châu Âu sau:
+
+1.3.1. EN 132: 1999 Những thiết bị
+bảo vệ đường hô hấp- Định nghĩa thuật ngữ của và những biểu đồ - thống kê
+(Respiratory protective devices- Definition of terms and pictograms).
+
+1.3.2. EN 134: 1998 Những thiết bị
+bảo vệ đường hô hấp- Thuật ngữ của các bộ phận (Respiratory protective devices
+– Nomenclature of components).
+
+Ngoài ra còn bổ sung thêm:
+
+1.3.3. Những thiết bị bảo vệ đường
+hô hấp – bộ lọc bụi có thể sử dụng lại được: là những thiết bị bảo vệ đường hô
+hấp – bộ lọc bụi được thiết kế sử dụng cho nhiều hơn một ca làm việc.
+
+2. QUY ĐỊNH VỀ
+KỸ THUẬT
+
+2.1. Những thiết bị bảo vệ
+đường hô hấp – bộ lọc bụi phải thỏa mãn các yêu cầu được quy định trong Tiêu
+chuẩn Châu Âu EN 143:2000 (E) Những thiết bị bảo vệ đường hô hấp – Bộ lọc bụi –
+Những yêu cầu, thử nghiệm, ghi nhãn (Respiratory protective devices –Particle
+filters –Requirements testing, marking).
+
+2.2. Trong trường hợp Tiêu
+chuẩn Châu Âu nói trên có sự thay đổi, bổ sung thì thực hiện theo những quy định
+mới nhất.
+
+3. QUẢN LÝ CHẤT
+LƯỢNG
+
+3.1. Những thiết bị bảo vệ đường
+hô hấp – bộ lọc bụi sản xuất trong nước
+
+3.1.1. Những thiết bị bảo vệ đường
+hô hấp – bộ lọc bụi sản xuất trong nước phải được công bố hợp quy phù hợp với mục
+2 của Quy chuẩn này trên cơ sở đánh giá sự phù hợp của tổ chức chứng nhận được
+Bộ Lao động - Thương binh và Xã hội chỉ định.
+
+Việc chứng nhận hợp quy được thực
+hiện theo phương thức thử nghiệm mẫu điển hình và đánh giá quá trình sản xuất,
+giám sát thông qua thử nghiệm mẫu lấy tại nơi sản xuất kết hợp với đánh giá quá
+trình sản xuất (Phương thức 3 Phụ lục II của Quy định về chứng nhận hợp chuẩn,
+chứng nhận hợp quy và công bố hợp chuẩn, công bố hợp quy ban hành theo Quyết định
+số 24/2007/QĐ-BKHCN ngày 28/9/2007 của Bộ trưởng
+Bộ Khoa học và Công nghệ).
+
+3.1.2. Những thiết bị bảo vệ đường
+hô hấp – bộ lọc bụi sản xuất trong nước trước khi đưa ra lưu thông trên thị trường
+phải gắn dấu hợp quy, ghi nhãn theo Tiêu chuẩn Châu Âu EN 143 : 2000 (E) Những
+thiết bị bảo vệ đường hô hấp- Bộ lọc bụi- Những yêu cầu, thử nghiệm, ghi nhãn
+(Respiratory protective devices –Particle filters –Requirements testing,
+marking). Việc ghi nhãn hàng hóa cần phải theo các quy định pháp luật hiện hành
+của Việt Nam.
+
+3.2. Những thiết bị bảo vệ đường
+hô hấp – bộ lọc bụi nhập khẩu
+
+3.2.1. Những thiết bị bảo vệ đường
+hô hấp – bộ lọc bụi nhập khẩu phải được chứng nhận hợp quy phù hợp với các quy
+định tại mục 2 của Quy chuẩn này.
+
+3.2.2. Việc chứng nhận hợp quy do tổ
+chức giám định hoặc tổ chức chứng nhận trong và ngoài nước được Bộ Lao động -
+Thương binh và Xã hội chỉ định (hoặc thừa nhận).
+
+3.2.3. Việc chứng nhận hợp quy được
+thực hiện theo phương thức thử nghiệm, đánh giá lô sản phẩm, hàng hóa (Phương
+thức 7 trong «Quy định về chứng nhận hợp chuẩn, chứng nhận hợp quy và công bố hợp
+chuẩn, công bố hợp quy» ban hành kèm theo Quyết định số 24/2007/QĐ-BKHCN ngày 28/9/2007 của Bộ trưởng
+Bộ Khoa học và Công nghệ).
+
+3.2.4. Những thiết bị bảo vệ đường
+hô hấp – bộ lọc bụi nhập khẩu trước khi đưa ra lưu thông trên thị trường phải gắn
+dấu hợp quy, ghi nhãn theo Tiêu chuẩn Châu Âu EN 143 : 2000 (E) Những thiết bị
+bảo vệ đường hô hấp- Bộ lọc bụi- Những yêu cầu, thử nghiệm, ghi nhãn
+(Respiratory protective devices –Particle filters –Requirements, testing,
+marking). Việc ghi nhãn hàng hóa cần phải theo các quy định pháp luật hiện hành
+của Việt Nam.
+
+3.3. Những thiết bị bảo vệ đường
+hô hấp – bộ lọc bụi lưu thông trên thị trường
+
+3.3.1. Những thiết bị bảo vệ đường
+hô hấp – bộ lọc bụi lưu thông trên thị trường phải có dấu hợp quy và đã ghi
+nhãn theo Tiêu chuẩn Châu Âu EN 143 : 2000 (E) Những thiết bị bảo vệ đường hô hấp-
+Bộ lọc bụi- Những yêu cầu, thử nghiệm, ghi nhãn (Respiratory protective devices
+–Particle filters –Requirements testing, marking). Việc ghi nhãn hàng hóa cần
+phải theo các quy định pháp luật hiện hành của Việt Nam.
+
+3.3.2. Trong trường hợp cần thiết,
+cơ quan quản lý nhà nước có thẩm quyền tiến hành việc kiểm tra chất lượng đối với
+những thiết bị bảo vệ đường hô hấp – bộ lọc bụi lưu thông trên thị trường như đối
+với những thiết bị bảo vệ đường hô hấp – bộ lọc bụi sản xuất trong nước hoặc nhập
+khẩu.
+
+3.4. Quản lý những thiết bị bảo
+vệ đường hô hấp – bộ lọc bụi trong quá trình sử dụng.
+
+3.4.1. Lưu giữ và bảo quản những
+thiết bị bảo vệ đường hô hấp – bộ lọc bụi theo đúng hướng dẫn của nhà sản xuất.
+
+3.4.2. Sử dụng những thiết bị bảo vệ
+đường hô hấp – bộ lọc bụi đúng mục đích, theo đúng chức năng của từng thiết bị.
+
+3.4.3. Đặc biệt chú ý những cảnh
+báo có khả năng gây mất an toàn trong quá trình sử dụng. Không sử dụng những
+thiết bị bảo vệ đường hô hấp – bộ lọc bụi lần thứ hai nếu nhà sản xuất quy định
+chỉ sử dụng một lần, không sử dụng những thiết bị bảo vệ đường hô hấp – bộ lọc
+bụi đã quá thời gian sử dụng.
+
+4. TRÁCH NHIỆM
+CỦA TỔ CHỨC, CÁ NHÂN
+
+4.1. Tổ chức, cá nhân làm
+nhiệm vụ sản xuất, nhập khẩu, xuất khẩu, lưu thông và sử dụng những thiết bị bảo
+vệ đường hô hấp – bộ lọc bụi có trách nhiệm tuân thủ các quy định tại Quy chuẩn
+này.
+
+4.2. Quy chuẩn này là căn cứ
+để các cơ quan quản lý nhà nước về chất lượng sản phẩm, hàng hóa các cơ quan kiểm
+tra chất lượng sản phẩm hàng hóa tiến hành việc kiểm tra và cũng là căn cứ để
+các tổ chức chứng nhận sự phù hợp tiến hành chứng nhận hợp quy cho những thiết
+bị bảo vệ đường hô hấp – bộ lọc bụi.
+
+5. TỔ CHỨC THỰC
+HIỆN
+
+5.1. Cục An toàn lao động có
+trách nhiệm phối hợp với các cơ quan chức năng có liên quan hướng dẫn và tổ chức
+việc thực hiện Quy chuẩn này.
+
+5.2. Các cơ quan quản lý nhà
+nước về lao động địa phương có trách nhiệm, thanh tra, kiểm tra việc thực hiện
+các quy định của Quy chuẩn này.
+
+5.3. Trong quá trình thực hiện,
+nếu có vướng mắc, các cơ quan, tổ chức, cá nhân có liên quan có trách nhiệm kịp
+thời phản ánh với Bộ Lao động - Thương binh và Xã hội để xem xét, giải quyết./.--- THÔNG TIN THÊM ---
+Ten: Thông tư 07/2012/TT-BLĐTBXH về Quy chuẩn kỹ thuật quốc gia về những thiết bị bảo vệ đường hô hấp - Bộ lọc bụi do Bộ Lao động - Thương binh và Xã hội ban hành
+So hieu: 07/2012/TT-BLĐTBXH
+Loai van ban: Thông tư
+Linh vuc nganh: Lao động - Tiền lương
+Noi ban hanh: Bộ Lao động - Thương binh và Xã hội
+Nguoi ky: Bùi Hồng Lĩnh
+Ngay ban hanh: 16/04/2012
+Ngay hieu luc: 17/10/2012
+Ngay dang: 27/04/2012
+So cong bao: Từ số 351 đến số 352
+Tinh trang: Còn hiệu lực
+
+
+--- MỤC LỤC ---
+- THÔNG TƯ BAN HÀNH QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ NHỮNG THIẾT BỊ BẢO VỆ ĐƯỜNG HÔ HẤP – BỘ LỌC BỤI
+  - Điều 1. Ban hành kèm theo Thông tư này Quy chuẩn kỹ thuật quốc gia về những thiết bị bảo vệ đường hô hấp – Bộ lọc bụi.
+  - Điều 2. Quy chuẩn kỹ thuật quốc gia về những thiết bị bảo vệ đường hô hấp – Bộ lọc bụi có hiệu lực sau 06 tháng kể từ ngày ký Thông tư này.
+  - Điều 3. Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành./.
+- QCVN 08: 2012/BLĐTBXH QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ NHỮNG THIẾT BỊ BẢO VỆ ĐƯỜNG HÔ HẤP - BỘ LỌC BỤI
+  - 1. QUY ĐỊNH CHUNG
+  - 2. QUY ĐỊNH VỀ KỸ THUẬT
+  - 3. QUẢN LÝ CHẤT LƯỢNG
+  - 4. TRÁCH NHIỆM CỦA TỔ CHỨC, CÁ NHÂN
+  - 5. TỔ CHỨC THỰC HIỆN
+
+--- VĂN BẢN LIÊN QUAN ---
+
+Van ban duoc dan chieu:
+  - Quyết định 24/2007/QĐ-BKHCN “Quy định về chứng nhận hợp chuẩn, chứng nhận hợp quy và công bố hợp chuẩn, ... (ID: 56436)
+
+Van ban duoc can cu:
+  - Nghị định 132/2008/NĐ-CP Hướng dẫn Luật Chất lượng sản phẩm, hàng hóa (ID: 83467)
+  - Nghị định 186/2007/NĐ-CP quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Lao động - Thương... (ID: 60724)
+  - Nghị định 127/2007/NĐ-CP Hướng dẫn Luật Tiêu chuẩn và Quy chuẩn kỹ thuật (ID: 54148)
+
+Van ban lien quan ngon ngu:
+  - Circular No. 07/2012/TT-BLDTBXH of April 16, 2012, promulgating the national technical regulation on ... (ID: 206247)
+
+Van ban lien quan cung noi dung:
+  - Thông tư 02/2019/TT-BYT Quy chuẩn kỹ thuật quốc gia về bụi - Giá trị giới hạn tiếp xúc cho phép 05 yếu tố bụi tại nơi làm việc do Bộ trưởng Bộ Y tế ban hành (ID: 410047)

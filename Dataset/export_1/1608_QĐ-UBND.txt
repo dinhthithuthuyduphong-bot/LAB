@@ -1,0 +1,440 @@
+ỦY BAN NHÂN DÂN
+
+ TỈNH BÌNH ĐỊNH
+
+ -------
+
+CỘNG HÒA XÃ HỘI
+ CHỦ NGHĨA VIỆT NAM
+
+ Độc lập - Tự do - Hạnh phúc 
+
+ ---------------
+
+Số: 1608/QĐ-UBND
+
+Bình Định, ngày
+ 14 tháng 5 năm 2019
+
+ 
+
+QUYẾT ĐỊNH
+
+BAN HÀNH QUY CHẾ QUẢN LÝ, SỬ DỤNG HỆ THỐNG QUẢN LÝ TIỀN
+LƯƠNG
+
+ỦY BAN NHÂN DÂN TỈNH
+
+Căn cứ Luật Tổ chức chính
+quyền địa phương ngày 19 tháng 6 năm 2015;
+
+Căn cứ Luật Ban hành văn bản
+quy phạm pháp luật ngày 22 tháng 6 năm 2015;
+
+Căn cứ Luật Ngân sách nhà nước
+ngày 25 tháng 6 năm 2015;
+
+Căn cứ Luật Kế toán ngày 10
+tháng 10 năm 2017;
+
+Căn cứ Luật Công nghệ thông
+tin ngày 29 tháng 6 năm 2006;
+
+Căn cứ Nghị định số
+163/2016/NĐ-CP ngày 21 tháng 12 năm 2016 của Chính phủ quy định chi tiết thi
+hành một số điều của Luật Ngân sách nhà nước;
+
+Căn cứ Nghị định số
+64/2007/NĐ-CP ngày 10 tháng 4 năm 2007 của Chính phủ về việc ứng dụng công nghệ
+thông tin trong hoạt động của cơ quan nhà nước;
+
+Xét đề nghị của Sở Tài chính
+tại Tờ trình số 225/TTr-STC ngày 10/5/2019,
+
+QUYẾT ĐỊNH
+
+Điều 1.
+Ban hành kèm theo Quyết định này Quy chế quản lý, sử
+dụng Hệ thống quản lý tiền lương.
+
+Điều 2.
+Quyết định này có hiệu lực kể từ ngày ký.
+
+Điều 3.
+Chánh Văn phòng UBND tỉnh; Thủ trưởng các sở, ban,
+ngành thuộc tỉnh; Chủ tịch UBND các huyện, thị xã, thành phố; các tổ chức, cá
+nhân có liên quan chịu trách nhiệm thi hành./.
+
+ 
+
+ 
+
+TM. ỦY BAN NHÂN
+ DÂN
+
+ KT. CHỦ TỊCH
+
+ PHÓ CHỦ TỊCH
+
+ Phan Cao Thắng
+
+ 
+
+QUY CHẾ
+
+QUẢN LÝ, SỬ DỤNG HỆ THỐNG QUẢN LÝ TIỀN LƯƠNG
+
+(Ban hành kèm theo Quyết định số 1608/QĐ-UBND ngày 14/5/2019 của UBND tỉnh)
+
+Chương I
+
+QUY ĐỊNH CHUNG
+
+Điều 1.
+Phạm vi và đối tượng áp dụng
+
+1. Phạm vi áp dụng: Thuộc lĩnh
+vực tiền lương của các đơn vị được cấp có thẩm quyền giao dự toán ngân sách địa
+phương.
+
+2. Đối tượng áp dụng: Các đơn vị
+dự toán thuộc ngân sách địa phương (ngân sách tỉnh, huyện, thị xã, thành phố và
+xã, phường, thị trấn), gồm: Cơ quan nhà nước; cơ quan thuộc khối Đảng, đoàn thể;
+đơn vị sự nghiệp công lập; tổ chức, đơn vị khác có hoặc không sử dụng ngân sách
+địa phương.
+
+Điều 2.
+Giải thích từ ngữ
+
+Các từ ngữ được sử dụng trong
+Quy chế này được giải thích tại Điều 4 Luật Ngân sách nhà nước năm 2015, cụ thể:
+
+1. Ngân sách địa phương: Là các
+khoản thu ngân sách nhà nước phân cấp cho cấp địa phương hưởng, thu bổ sung từ
+ngân sách Trung ương cho ngân sách địa phương và các khoản chi ngân sách nhà nước
+thuộc nhiệm vụ chi của cấp địa phương.
+
+2. Đơn vị dự toán cấp I: Là đơn
+vị dự toán ngân sách được Thủ tướng Chính phủ hoặc UBND giao dự toán ngân sách.
+
+3. Đơn vị dự toán ngân sách: Là
+cơ quan, tổ chức, đơn vị được cấp có thẩm quyền giao dự toán ngân sách.
+
+4. Đơn vị sử dụng ngân sách: Là
+đơn vị dự toán ngân sách được giao trực tiếp quản lý, sử dụng ngân sách.
+
+5. Hệ thống quản lý tiền lương
+là phần mềm tin học được sử dụng cho các đơn vị dự toán thuộc ngân sách tỉnh,
+huyện, xã bao gồm các lĩnh vực quản lý nhà nước, Đảng, đoàn thể và sự nghiệp để
+quản lý việc sử dụng các nguồn kinh phí để chi lương, phụ cấp, các khoản phải nộp
+theo lương của đơn vị.
+
+Điều 3. Hệ
+thống quản lý tiền lương
+
+1. Hệ thống quản lý tiền lương
+là phần mềm tin học được sử dụng cho các đơn vị dự toán thuộc ngân sách tỉnh,
+huyện, xã bao gồm các lĩnh vực quản lý nhà nước, Đảng, đoàn thể và sự nghiệp để
+quản lý việc sử dụng các nguồn kinh phí để chi lương, phụ cấp, các khoản phải nộp
+theo lương của đơn vị. Vận hành phần mềm theo phương thức trực tuyến qua đường
+truyền thông Internet hoặc mạng chuyên dụng, phần mềm chạy trên nền tảng Web
+app. Đơn vị sử dụng phần mềm dùng chứng thư số, chữ ký số trong giao dịch bảng
+chi trả lương với các cơ quan liên quan: Kho bạc nhà nước, Bảo hiểm y tế và
+Ngân hàng thương mại, đồng thời tích hợp bảng chi trả lương và phiếu rút dự
+toán tiền lương của đơn vị vào dịch vụ công trực tuyến của Kho bạc nhà nước.
+
+2. Địa chỉ truy cập Hệ thống quản
+lý tiền lương: http://qltl.stc.binhdinh.gov.vn
+
+Điều 4. Các
+nguyên tắc chung
+
+1. Hoạt động của Hệ thống quản
+lý tiền lương phải đảm bảo tuân thủ theo các quy định của Luật Công nghệ thông
+tin, Luật Giao dịch điện tử, Luật An toàn thông tin mạng, Luật Ngân sách, Luật
+Kế toán và các văn bản liên quan về an toàn bảo mật thông tin trong việc sử dụng,
+trao đổi các chứng từ điện tử, văn bản điện tử.
+
+2. Việc trao đổi, gửi, nhận các
+chứng từ kế toán mật, văn bản mật và các thông tin được quy định không trao đổi
+qua môi trường mạng phải tuân thủ theo các quy định của pháp luật về bảo vệ bí
+mật nhà nước và các quy định khác về quản lý thông tin trên mạng internet.
+
+3. Các thông tin về tài khoản
+truy cập vào Hệ thống quản lý tiền lương và các thông tin trao đổi hợp pháp của
+các cơ quan, cá nhân thông qua Hệ thống quản lý tiền lương được đảm bảo bí mật
+theo quy định của pháp luật hiện hành.
+
+4. Các tổ chức, cá nhân có hành
+vi phát tán tài liệu tuyên truyền xuyên tạc đường lối chủ trương của Đảng,
+chính sách pháp luật của Nhà nước; phát tán thông tin gây ảnh hưởng đến uy tín,
+danh dự của đơn vị, cá nhân; có hành vi phát tán virus máy tính thông qua Hệ thống
+quản lý tiền lương sẽ bị xử lý vi phạm theo quy định của pháp luật.
+
+5. Cá nhân, đơn vị, tổ chức được
+giao sử dụng các tài khoản của Hệ thống tiền lương có trách nhiệm đảm bảo bí mật
+theo quy định của pháp luật hiện hành.
+
+Chương II
+
+QUẢN LÝ HỆ THỐNG QUẢN LÝ
+TIỀN LƯƠNG
+
+Điều 5. Quản
+lý Hệ thống quản lý tiền lương
+
+1. Sở Tài chính quản lý Hệ thống
+quản lý tiền lương: Giữ tài khoản administrator, quản lý tài khoản được cấp của
+hệ thống, theo dõi quá trình chi trả lương các đơn vị, quản lý nhật ký hoạt động
+của người dùng, thực hiện cấp mới và thu hồi tài khoản người dùng khi không còn
+nhu cầu sử dụng. Phối hợp đơn vị cung cấp phần mềm tiền lương, đơn vị cung cấp
+dịch vụ CNTT và hạ tầng truyền thông thực hiện lưu trữ dữ liệu tiền lương an
+toàn theo định kỳ, đảm bảo hệ thống hoạt động thường xuyên, liên tục không bị
+gián đoạn.
+
+2. Sở Tài chính và Sở Thông tin
+và Truyền thông thường xuyên tổng hợp các vướng mắc trong quá trình sử dụng hệ
+thống cùng những kiến nghị để báo cáo đề xuất kịp thời UBND tỉnh xem xét, xử
+lý.
+
+Điều 6. Quy
+định về tài khoản Hệ thống quản lý tiền lương
+
+1. Hệ thống tài khoản cung cấp
+cho người quản trị chính (tài khoản Administrator).
+
+2. Hệ thống tài khoản cung cấp
+cho cơ quan tài chính các cấp dùng để quản lý tiền lương ngân sách các cấp, gồm
+tiền lương năm đầu và tiền lương tăng thêm (do thực hiện cải cách tiền lương)
+trong các năm tiếp theo của thời kỳ ổn định ngân sách.
+
+3. Hệ thống tài khoản cung cấp
+cho các đơn vị dự toán dùng quản lý việc sử dụng các nguồn kinh phí để chi
+lương, phụ cấp, các khoản phải nộp theo lương của đơn vị.
+
+4. Hệ thống tài khoản cung cấp
+cho các đơn vị là các đơn vị là sở, ban, ngành,… dùng để thống kê, tổng hợp báo
+cáo, tra cứu thông tin về lương thuộc phạm vi ngành, lĩnh vực,… được pháp luật
+cho phép.
+
+5. Hệ thống tài khoản cung cấp
+cho người dùng chung để tra cứu thông tin nhanh về thông tin và tiền lương cá
+nhân.
+
+6. Tài khoản Hệ thống quản lý
+tiền lương: Thủ trưởng đơn vị có văn bản yêu cầu Sở Tài chính cấp mới hay thu hồi
+tài khoản Hệ thống quản lý tiền lương khi không còn chức năng, nhiệm vụ phù hợp
+công việc được giao (văn bản nêu rõ họ tên, chức vụ, đơn vị công tác, số CMND
+hay mã định danh, email công vụ, lý do) để Sở Tài chính thực hiện theo yêu cầu
+đơn vị không quá 2 ngày làm việc từ khi nhận văn bản yêu cầu (gửi thông tin tài
+khoản được cấp qua mail công vụ).
+
+7. Cá nhân được cấp tài khoản Hệ
+thống quản lý tiền lương chịu trách nhiệm lưu giữ thông tin mật tài khoản (người
+dùng, mật mã) theo quy định pháp luật về an ninh, an toàn thông tin hiện hành.
+
+Chương
+III
+
+SỬ DỤNG HỆ THỐNG QUẢN LÝ
+TIỀN LƯƠNG
+
+Điều 7.
+Nguyên tắc sử dụng
+
+1. Việc sử dụng Hệ thống quản
+lý tiền lương phải thực hiện đầy đủ các quy định về an toàn an ninh thông tin
+như: Ngăn chặn, phòng chống các xâm nhập trái phép vào Hệ thống, bảo đảm các
+yêu cầu kỹ thuật về an toàn sử dụng điện, phòng chống cháy nổ, thiên tai.
+
+2. Các dữ liệu, thông tin truyền
+tải trên Hệ thống quản lý tiền lương được định kỳ sao chép, lưu trữ theo các
+quy định hiện hành.
+
+3. Thông tin trong Hệ thống phải
+được thực hiện theo các quy định của Pháp lệnh Bảo vệ bí mật nhà nước và các
+quy định về công tác bảo mật. Nghiêm cấm các hành vi như: Cản trở hoặc ngăn chặn
+trái phép quá trình trao đổi dữ liệu; thay đổi, hủy, sao chép, tiết lộ, di chuyển
+trái phép một phần hoặc toàn bộ các thông điệp dữ liệu.
+
+4. Sử dụng thống nhất Bộ mã các
+ký tự chữ Việt theo tiêu chuẩn TCVN 6909:2001 để trao đổi thông tin trong Hệ thống
+Văn phòng điện tử liên thông.
+
+Điều 8. Sử
+dụng Hệ thống quản lý tiền lương
+
+1. Điều kiện sử dụng Hệ thống
+quản lý tiền lương: Máy tính để bàn, máy tính xách tay, máy tính bảng, điện thoại
+Smartphone; người sử dụng được cấp tài khoản (user, password); đường truyền
+thông Internet hoặc sử dụng mạng chuyên dụng.
+
+2. Máy tính sử dụng Hệ thống quản
+lý tiền lương phải được cài đặt phần mềm bản quyền diệt virus.
+
+3. Kế toán trưởng hay phụ trách
+kế toán đơn vị có trách nhiệm cập nhật đầy đủ, kịp thời thông tin về biến động
+tiền lương, tổ chức tính toán, chi trả lương, phụ cấp, các khoản phải nộp theo
+lương và tiền công cho người lao động; các khoản trích cho cơ quan bảo hiểm xã
+hội, Liên đoàn lao động và các đơn vị khác có liên quan theo quy định. Các công
+việc trên được thực hiện trên Hệ thống quản lý tiền lương.
+
+Trên cơ sở chữ ký số của kế
+toán trưởng hay phụ trách kế toán trình duyệt chi trả lương, phụ cấp, các khoản
+phải nộp theo lương và tiền công cho người lao động; các khoản trích cho cơ
+quan bảo hiểm xã hội, Liên đoàn lao động và các đơn vị khác có liên quan, Thủ
+trưởng hay Lãnh đạo đơn vị (được giao phụ trách quản lý kinh phí chi trả lương
+của đơn vị) xem xét, phê duyệt làm cơ sở pháp lý để chi trả lương trên hệ thống.
+
+Kế toán trưởng hay phụ trách kế
+toán đơn vị, Thủ trưởng hay Lãnh đạo đơn vị được giao phụ trách có trách nhiệm
+tổng hợp, báo cáo, quyết toán tiền lương theo quy định cho đơn vị dự toán cấp
+trên (đối với đơn vị nhận dự toán giao từ đơn vị dự toán cấp trên) hay cơ quan
+tài chính đồng cấp (đối với đơn vị nhận dự toán giao từ UBND đồng cấp kể cả đơn
+vị có đơn vị dự toán trực thuộc).
+
+Chương IV
+
+TỔ CHỨC THỰC HIỆN
+
+Điều 9.
+Trách nhiệm của Sở Tài chính
+
+1. Chủ trì, hướng dẫn các cơ quan,
+đơn vị triển khai thực hiện Quy chế này.
+
+2. Chủ trì, phối hợp với Sở
+Thông tin và Truyền thông và các đơn vị liên quan:
+
+- Xây dựng kế hoạch, dự trù
+kinh phí cho ứng dụng, phát triển và hiệu chỉnh sửa đổi phần mềm khi chính sách
+tiền lương thay đổi, giải pháp lưu trữ dữ liệu lâu dài,... để phần mềm vận hành
+liên tục.
+
+- Đề xuất bổ sung các tính năng
+mới của hệ thống để ngày càng hoàn thiện.
+
+- Báo cáo kịp thời những khó
+khăn vướng mắc khi sử dụng Hệ thống quản lý tiền lương để UBND tỉnh xem xét, xử
+lý.
+
+3. Quản lý tài khoản và thống
+kê việc sử dụng Hệ thống quản lý tiền lương của các đơn vị thông qua hệ thống
+và nhật ký sử dụng của tài khoản người dùng.
+
+4. Thông báo kịp thời cho đơn vị
+sử dụng Hệ thống quản lý tiền lương trường hợp hệ thống tạm thời dừng hoạt động
+để nâng cấp, sửa chữa, khắc phục sự cố hoặc bổ sung tính năng mới.
+
+5. Phối hợp Kho bạc Nhà nước tỉnh
+tích hợp đầy đủ bảng chi trả lương, phiếu rút dự toán tiền lương,... từ Hệ thống
+quản lý tiền lương với cổng thông tin dịch vụ công của Kho bạc Nhà nước.
+
+Điều 10.
+Trách nhiệm của Sở Thông tin và Truyền thông
+
+1. Hỗ trợ các đơn vị sử dụng Hệ
+thống quản lý tiền lương: Đào tạo, chạy thử nghiệm, triển khai ứng dụng và khai
+thác đầy đủ các tính năng của phần mềm hiệu quả, an toàn.
+
+2. Hỗ trợ đơn vị, cá nhân trong
+việc cấp, sử dụng chữ ký số chuyên dùng trong Hệ thống quản lý tiền lương.
+
+Điều 11.
+Trách nhiệm của sở, ban, ngành và UBND các huyện, thị xã, thành phố
+
+1. Chỉ đạo các đơn vị dự toán cấp
+I trực thuộc và cấp xã triển khai ứng dụng Hệ thống quản lý tiền lương và thực
+hiện nghiêm túc Quy chế này.
+
+2. Phản ảnh kịp thời những khó
+khăn, vướng mắc cùng những ý kiến đề xuất về thực hiện Hệ thống quản lý tiền
+lương cho Sở Tài chính, Sở Thông tin và Truyền thông để sớm khắc phục, xử lý sự
+cố.
+
+Điều 12.
+Trách nhiệm của cá nhân được cấp tài khoản sử dụng
+
+1. Bí mật thông tin tài khoản
+được cấp theo quy định của pháp luật hiện hành. Sử dụng tài khoản được cấp đúng
+mục đích theo chức năng nhiệm vụ được giao. Sử dụng đúng thao tác vận hành Hệ
+thống phần mềm. Kế toán (hoặc Kế toán trưởng) chịu trách nhiệm bổ sung đầy đủ
+thông tin về tiền lương của đơn vị mình trước khi trình Thủ trưởng (hoặc người
+được ủy quyền) phê duyệt chi trả lương.
+
+2. Tham gia các chương trình tập
+huấn, hướng dẫn ứng dụng Hệ thống quản lý tiền lương.
+
+Điều 13.
+Điều khoản thi hành
+
+1. Các sở, ban, ngành, UBND các
+huyện, thị xã, thành phố, UBND các xã, phường, thị trấn và các đơn vị dự toán
+ngân sách thuộc ngân sách địa phương sử dụng Hệ thống quản lý tiền lương có
+trách nhiệm thực hiện Quy chế này.
+
+2. Sở Tài chính, Sở Thông tin
+và Truyền thông phối hợp với các cơ quan, đơn vị liên quan hướng dẫn, kiểm tra
+việc thực hiện Quy chế này.
+
+Trong quá trình thực hiện, nếu
+có khó khăn, vướng mắc cần điều chỉnh, sửa đổi và bổ sung thì các cơ quan, đơn
+vị, địa phương phản ánh về Sở Tài chính, Thông tin và Truyền thông để tổng hợp,
+báo cáo đề xuất UBND tỉnh xem xét, điều chỉnh cho phù hợp./.--- THÔNG TIN THÊM ---
+Ten: Quyết định 1608/QĐ-UBND năm 2019 về quy chế quản lý, sử dụng Hệ thống quản lý tiền lương do tỉnh Bình Định ban hành
+So hieu: 1608/QĐ-UBND
+Loai van ban: Quyết định
+Linh vuc nganh: Lao động - Tiền lương
+Noi ban hanh: Tỉnh Bình Định
+Nguoi ky: Phan Cao Thắng
+Ngay ban hanh: 14/05/2019
+Ngay hieu luc: 14/05/2019
+Ngay dang: Dữ liệu đang cập nhật
+So cong bao: Dữ liệu đang cập nhật
+Tinh trang: Còn hiệu lực
+
+
+--- MỤC LỤC ---
+- QUYẾT ĐỊNH BAN HÀNH QUY CHẾ QUẢN LÝ, SỬ DỤNG HỆ THỐNG QUẢN LÝ TIỀN LƯƠNG
+  - Điều 1. Ban hành kèm theo Quyết định này Quy chế quản lý, sử dụng Hệ thống quản lý tiền lương.
+  - Điều 2. Quyết định này có hiệu lực kể từ ngày ký.
+  - Điều 3. Chánh Văn phòng UBND tỉnh; Thủ trưởng các sở, ban, ngành thuộc tỉnh; Chủ tịch UBND các huyện, thị xã, thành phố; các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành./.
+- QUY CHẾ QUẢN LÝ, SỬ DỤNG HỆ THỐNG QUẢN LÝ TIỀN LƯƠNG
+  - Chương I QUY ĐỊNH CHUNG
+    - Điều 1. Phạm vi và đối tượng áp dụng
+    - Điều 2. Giải thích từ ngữ
+    - Điều 3. Hệ thống quản lý tiền lương
+    - Điều 4. Các nguyên tắc chung
+  - Chương II QUẢN LÝ HỆ THỐNG QUẢN LÝ TIỀN LƯƠNG
+    - Điều 5. Quản lý Hệ thống quản lý tiền lương
+    - Điều 6. Quy định về tài khoản Hệ thống quản lý tiền lương
+  - Chương III SỬ DỤNG HỆ THỐNG QUẢN LÝ TIỀN LƯƠNG
+    - Điều 7. Nguyên tắc sử dụng
+    - Điều 8. Sử dụng Hệ thống quản lý tiền lương
+  - Chương IV TỔ CHỨC THỰC HIỆN
+    - Điều 9. Trách nhiệm của Sở Tài chính
+    - Điều 10. Trách nhiệm của Sở Thông tin và Truyền thông
+    - Điều 11. Trách nhiệm của sở, ban, ngành và UBND các huyện, thị xã, thành phố
+    - Điều 12. Trách nhiệm của cá nhân được cấp tài khoản sử dụng
+    - Điều 13. Điều khoản thi hành
+
+--- VĂN BẢN LIÊN QUAN ---
+
+Van ban duoc dan chieu:
+  - Luật an toàn thông tin mạng 2015 (ID: 298365)
+  - Luật Giao dịch điện tử 2005 (ID: 6922)
+  - Pháp lệnh Bảo vệ bí mật Nhà nước năm 2000 (ID: 47368)
+
+Van ban duoc can cu:
+  - Nghị định 163/2016/NĐ-CP hướng dẫn Luật ngân sách nhà nước (ID: 335331)
+  - Luật kế toán 2015 (ID: 298369)
+  - Luật ngân sách nhà nước 2015 (ID: 281762)
+  - Luật ban hành văn bản quy phạm pháp luật 2015 (ID: 282382)
+  - Luật tổ chức chính quyền địa phương 2015 (ID: 282380)
+  - Nghị định 64/2007/NĐ-CP về việc ứng dụng công nghệ thông tin trong hoạt động của cơ quan Nhà nước (ID: 18234)
+  - Luật Công nghệ thông tin 2006 (ID: 12987)
+
+Van ban lien quan cung noi dung:
+  - Quyết định 2199/QĐ-UBND năm 2018 về Quy chế quản lý Quỹ tiền lương, thù lao, tiền thưởng đối với Kiểm soát viên Công ty trách nhiệm hữu hạn một thành viên do Ủy ban nhân dân tỉnh Đắk Nông nắm giữ 100% vốn điều lệ (ID: 408912)
+  - Quyết định 41/2018/QĐ-UBND quy định về phân cấp thẩm quyền tuyển dụng, sử dụng, quản lý và thực hiện chế độ tiền lương đối với viên chức trên địa bàn tỉnh An Giang (ID: 398924)
+  - Quyết định 1456/QĐ-UBND năm 2018 về Quy chế trích lập, quản lý Quỹ tiền lương, thù lao, tiền thưởng đối với Kiểm soát viên và Người đại diện vốn Nhà nước tại doanh nghiệp thuộc Ủy ban nhân dân tỉnh Quảng Ninh (ID: 387461)

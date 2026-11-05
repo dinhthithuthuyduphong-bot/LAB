@@ -1,0 +1,1748 @@
+BẢO HIỂM XÃ HỘI
+ 
+
+ VIỆT NAM
+
+ --------
+
+CỘNG HÒA XÃ HỘI
+ CHỦ NGHĨA VIỆT NAM
+
+ Độc lập - Tự do - Hạnh phúc
+
+ ----------------
+
+Số: 528/QĐ-BHXH
+
+Hà Nội, ngày 14
+ tháng 04 năm 2015
+
+ 
+
+QUYẾT ĐỊNH
+
+BAN
+HÀNH QUY ĐỊNH VỀ GIAO DỊCH ĐIỆN TỬ TRONG VIỆC THỰC HIỆN THỦ TỤC THAM GIA BẢO HIỂM
+XÃ HỘI, BẢO HIỂM Y TẾ, BẢO HIỂM THẤT NGHIỆP; CẤP SỔ BẢO HIỂM XÃ HỘI, THẺ BẢO HIỂM
+Y TẾ
+
+TỔNG GIÁM ĐỐC BẢO HIỂM XÃ HỘI VIỆT NAM
+
+Căn cứ Luật Bảo hiểm xã hội số 71/2006/QH11 ngày
+29 tháng 6 năm 2006; Căn cứ Luật Bảo hiểm y tế số 25/2008/QH12 ngày 14 tháng 11
+năm 2008, Luật số 46/2014/QH13 ngày 13 tháng 6 năm 2014 sửa đổi, bổ sung một số
+điều của Luật Bảo hiểm y tế;
+
+Căn cứ Luật giao dịch điện tử số 51/2005/QH11
+ngày 29 tháng 11 năm 2005;
+
+Căn cứ Nghị định số 05/2014/NĐ-CP ngày 17 tháng
+01 năm 2014 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ
+chức của Bảo hiểm xã hội Việt Nam;
+
+Căn cứ Quyết định số 08/2015/QĐ-TTg ngày 09
+tháng 3 năm 2015 của Thủ tướng Chính phủ thí điểm về giao dịch điện tử trong việc
+thực hiện thủ tục tham gia bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp
+và đề nghị cấp sổ bảo hiểm xã hội, thẻ bảo hiểm y tế;
+
+Xét đề nghị của Trưởng ban Thu,
+
+QUYẾT ĐỊNH:
+
+Điều 1. Ban hành kèm theo Quyết định này: Quy định về giao dịch điện
+tử trong việc thực hiện thủ tục tham gia bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm
+thất nghiệp; cấp sổ bảo hiểm xã hội, thẻ bảo hiểm y tế.
+
+Điều 2. Quyết định này có hiệu lực thi hành từ ngày 01 tháng 5 năm
+2015.
+
+Điều 3. Trưởng Ban Thu, Chánh Văn phòng, Thủ trưởng các đơn vị trực
+thuộc Bảo hiểm xã hội Việt Nam; Giám đốc bảo hiểm xã hội các tỉnh, thành phố trực
+thuộc Trung ương chịu trách nhiệm thi hành Quyết định này./.
+
+ 
+
+Nơi nhận:
+
+- Như Điều 3;
+
+ - Thủ tướng Chính phủ;
+
+ - VPCP;
+
+ - Các Bộ: LĐTB&XH, TC, YT, NV, TP; TT&TT;
+
+ - Các cơ quan: TTCP; TLĐLĐVN; VCCI; TC Thuế;
+
+ - UBND tỉnh, TP trực thuộc TƯ;
+
+ - HĐQL - BHXHVN;
+
+ - TGĐ, các phó TGĐ;
+
+ - Các đơn vị trực thuộc BHXH VN;
+
+ - Lưu: VT, BT (20b).
+
+TỔNG GIÁM ĐỐC
+
+ Nguyễn Thị Minh
+
+ 
+
+QUY ĐỊNH
+
+VỀ
+GIAO DỊCH ĐIỆN TỬ TRONG VIỆC THỰC HIỆN THỦ TỤC THAM GIA BẢO HIỂM XÃ HỘI, BẢO HIỂM
+Y TẾ, BẢO HIỂM THẤT NGHIỆP; CẤP SỔ BẢO HIỂM XÃ HỘI, THẺ BẢO HIỂM Y TẾ
+
+(ban hành kèm theo Quyết định số 528/QĐ-BHXH ngày 14/4/2015 của Tổng Giám đốc
+Bảo hiểm xã hội Việt Nam)
+
+Chương I
+
+QUY ĐỊNH CHUNG
+
+Điều 1. Phạm vi điều chỉnh, đối tượng áp dụng
+
+1. Phạm vi điều chỉnh
+
+Quy định này quy định về thủ tục, hồ sơ, quy trình
+giao dịch điện tử trong việc thực hiện thủ tục tham gia bảo hiểm xã hội, bảo hiểm
+y tế; cấp sổ bảo hiểm xã hội, thẻ bảo hiểm y tế theo quy định tại Quyết định số
+08/2015/QĐ-TTg ngày 09/3/2015 của Thủ tướng Chính phủ.
+
+2. Đối tượng áp dụng
+
+a) Người sử dụng lao động tham gia bảo hiểm xã hội,
+bảo hiểm y tế, bảo hiểm thất nghiệp; Ủy ban nhân dân cấp xã, Trường học, Đại lý
+thu bảo hiểm xã hội, bảo hiểm y tế theo quy định tại Luật Bảo hiểm xã hội, Luật
+Bảo hiểm y tế, Luật Việc làm và các văn bản hướng dẫn thực hiện lựa chọn phương
+thức giao dịch điện tử (sau đây gọi chung là đơn vị).
+
+b) Bảo hiểm xã hội các cấp.
+
+c) Tổ chức cung cấp dịch vụ giao dịch điện tử trong
+lĩnh vực bảo hiểm xã hội (sau đây gọi là Tổ chức I-VAN).
+
+Điều 2. Viết tắt và giải thích từ ngữ
+
+1. Các chữ viết tắt
+
+- BHXH: là viết tắt của từ “bảo hiểm xã hội”;
+
+- BHTN: là viết tắt của từ “bảo hiểm thất nghiệp”;
+
+- BHYT: là viết tắt của từ “bảo hiểm y tế”;
+
+- Người lao động: gọi chung cho người lao động cùng
+tham gia BHXH, BHYT, BHTN và người chỉ tham gia BHYT theo quy định của Luật
+BHXH, Luật BHYT, Luật Việc làm trừ những trường hợp nêu cụ thể.
+
+- BHXH tỉnh: viết tắt của Bảo hiểm xã hội tỉnh,
+thành phố trực thuộc Trung ương;
+
+- BHXH huyện: viết tắt của Bảo hiểm xã hội quận,
+huyện, thị xã, thành phố thuộc tỉnh.
+
+2. Giải thích từ ngữ
+
+a) Tài khoản giao dịch BHXH điện tử: là tài khoản
+do cơ quan BHXH cấp cho đơn vị để đăng nhập vào Cổng thông tin điện tử BHXH Việt
+Nam hoặc Cổng giao dịch điện tử của Tổ chức I-VAN để thực hiện giao dịch điện tử
+trong lĩnh vực BHXH.
+
+b) Hồ sơ BHXH điện tử bao gồm: Tờ khai và các tài
+liệu theo quy định của pháp luật BHXH, BHYT, BHTN ở dạng điện tử.
+
+c) Dịch vụ giá trị gia tăng về giao dịch điện tử
+trong lĩnh vực BHXH (dịch vụ I-VAN) là dịch vụ nhận, truyền, lưu trữ, phục hồi
+thông điệp dữ liệu giao dịch điện tử trong lĩnh vực BHXH giữa đơn vị tham gia
+BHXH, BHYT, BHTN với cơ quan BHXH thông qua Tổ chức I-VAN sau khi đơn vị trả một
+khoản tiền để sử dụng dịch vụ về giao dịch điện tử.
+
+d) Tổ chức I-VAN: là tổ chức hoạt động trong lĩnh vực
+công nghệ thông tin được BHXH Việt Nam ký hợp đồng cung cấp dịch vụ giá trị gia
+tăng về giao dịch điện tử trong lĩnh vực BHXH.
+
+đ) Hệ thống quản lý thông tin: là hệ thống tự động
+tiếp nhận, xử lý hồ sơ điện tử của đơn vị tham gia BHXH, BHYT, BHTN gửi đến; quản
+lý, xử lý thông tin nghiệp vụ trong Ngành BHXH theo quy định.
+
+e) Cổng thông tin điện tử BHXH Việt Nam là điểm
+truy cập duy nhất trên môi trường mạng, để liên kết, tích hợp các kênh thông
+tin, các ứng dụng và dịch vụ của BHXH Việt Nam mà qua đó người dùng có thể khai
+thác, sử dụng.
+
+g) Cổng giao dịch điện tử của
+BHXH Việt Nam là điểm truy cập duy nhất trên môi trường mạng của hệ thống công
+nghệ thông tin của BHXH Việt Nam để nhận, truyền, lưu trữ thông điệp dữ liệu
+giao dịch điện tử trong lĩnh vực BHXH với Tổ chức I-VAN.
+
+h) Phần mềm kê khai là phần mềm hỗ trợ đơn vị kê
+khai thủ tục tham gia BHXH, BHYT, BHTN, cấp sổ BHXH, thẻ BHYT đáp ứng chuẩn định
+dạng dữ liệu của BHXH Việt Nam.
+
+i) Quyết định số 1111/QĐ-BHXH: viết
+tắt của Quyết định số 1111/QĐ-BHXH ngày 25/10/2011 của BHXH Việt Nam ban hành
+Quy định quản lý thu BHXH, BHYT, BHTN; cấp sổ BHXH, thẻ BHYT.
+
+k) Quyết định số 1018/QĐ-BHXH: viết
+tắt của Quyết định số 1018/QĐ-BHXH ngày 10/10/2014 của BHXH Việt Nam về việc sửa
+đổi một số nội dung tại các quyết định ban hành quy định quản lý thu, chi BHXH,
+BHYT, BHTN.
+
+Điều 3. Thời gian nộp hồ sơ BHXH điện tử
+
+1. Đơn vị nộp hồ sơ BHXH điện tử quy định tại Văn bản
+này qua Cổng thông tin điện tử của BHXH Việt Nam hoặc Cổng giao dịch điện tử của
+Tổ chức I-VAN 24 giờ trong ngày và 7 ngày trong tuần, bao gồm cả ngày nghỉ (thứ
+Bảy, Chủ nhật, ngày lễ, ngày Tết).
+
+Ngày nộp hồ sơ BHXH điện tử được tính từ 0 giờ đến
+24 giờ cùng ngày.
+
+2. Thời điểm nộp hồ sơ BHXH điện tử là thời điểm được
+ghi trên Thông báo xác nhận nộp hồ sơ của cơ quan BHXH (mẫu 02/TB-TS ban hành
+kèm theo Quyết định này).
+
+3. Cơ quan BHXH, Tổ chức I-VAN gửi thông báo xác nhận
+đã nhận được hồ sơ BHXH điện tử đến tài khoản giao dịch của đơn vị trong vòng
+02 giờ kể từ khi nhận được hồ sơ BHXH điện tử của đơn vị.
+
+Chương II
+
+QUY TRÌNH ĐĂNG KÝ SỬ DỤNG
+PHƯƠNG THỨC GIAO DỊCH ĐIỆN TỬ
+
+Điều 4. Đăng ký qua Cổng thông tin của BHXH Việt Nam
+
+1. Đăng ký sử dụng phương thức giao dịch điện tử
+
+a) Đơn vị, bao gồm đơn vị mới thành lập, đơn vị
+đang tham gia BHXH, BHYT, BHTN truy cập Cổng thông tin điện tử BHXH Việt Nam để
+kê khai và gửi Tờ khai đăng ký sử dụng phương thức giao dịch điện tử trong lĩnh
+vực BHXH (mẫu 01/ĐK-GD ban hành kèm theo Quyết định số 08/2015/QĐ-TTg).
+
+Đơn vị có thể lập Tờ khai bằng phần mềm kê khai,
+sau đó, gửi đến Cổng thông tin của BHXH Việt Nam.
+
+b) Cơ quan BHXH
+
+- Hệ thống quản lý thông tin tiếp nhận Tờ khai của
+đơn vị, tự động kiểm tra các thông tin kê khai: tình trạng mã số thuế (nếu có),
+chữ ký số, địa chỉ thư điện tử...; Nếu đủ điều kiện, trong thời hạn 03 ngày, Hệ
+thống quản lý thông tin tự động cấp và kích hoạt tài khoản giao dịch BHXH điện
+tử của đơn vị.
+
+- Trường hợp không đủ điều kiện, Hệ thống quản lý
+thông tin tự động gửi thông báo (mẫu 01/TB-TS ban hành kèm theo Quyết định này)
+vào địa chỉ thư điện tử của đơn vị.
+
+- Hệ thống quản lý thông tin tự động gửi thông tin
+đăng ký giao dịch điện tử của đơn vị về BHXH tỉnh, BHXH huyện nơi quản lý thu đối
+với đơn vị.
+
+2. Đăng ký thay đổi, bổ sung thông tin tờ khai đăng
+ký sử dụng phương thức giao dịch điện tử
+
+a) Đơn vị
+
+Trường hợp thay đổi, bổ sung thông tin về chứng thư
+số hoặc địa chỉ thư điện tử, điện thoại và người liên hệ, đơn vị truy cập Cổng
+thông tin điện tử BHXH Việt Nam để kê khai và gửi Tờ khai thay đổi, bổ sung
+thông tin đăng ký sử dụng phương thức giao dịch điện tử trong lĩnh vực BHXH (mẫu
+02/SĐ-GD ban hành kèm theo Quyết định số 08/2015/QĐ-TTg) trong thời hạn 05 ngày
+làm việc, kể từ ngày phát sinh thay đổi, bổ sung thông tin.
+
+b) Cơ quan BHXH
+
+Hệ thống quản lý thông tin tiếp nhận Tờ khai của
+đơn vị (mẫu 02/SĐ-GD ban hành kèm theo Quyết định số 08/2015/QĐ-TTg), tự động
+kiểm tra các thông tin kê khai: tình trạng mã số thuế (nếu có), chữ ký số, địa
+chỉ thư điện tử...; cập nhật thông tin thay đổi, bổ sung và thông báo xác nhận
+thay đổi, bổ sung thông tin cho đơn vị (mẫu 04/TB-TS ban hành kèm theo Quyết định
+này) trong thời hạn 03 ngày làm việc, kể từ ngày nhận được Tờ khai.
+
+3. Đăng ký ngừng giao dịch điện tử
+
+a) Đơn vị
+
+- Truy cập Cổng thông tin của BHXH Việt Nam để lập
+và gửi Tờ khai đăng ký ngừng sử dụng phương thức giao dịch điện tử (mẫu
+03/NG-GD ban hành kèm theo Quyết định số 08/2015/QĐ-TTg).
+
+- Kể từ thời điểm nhận được thông báo xác nhận ngừng
+giao dịch điện tử do cơ quan BHXH gửi đến, đơn vị thực hiện giao dịch bằng hồ
+sơ giấy theo quy định.
+
+- Trường hợp đơn vị muốn tiếp tục sử dụng lại
+phương thức giao dịch điện tử thì thực hiện đăng ký theo quy định tại Khoản 1
+Điều này.
+
+b) Cơ quan BHXH
+
+- Nhận Tờ khai điện tử của đơn vị (mẫu 03/NG-GD ban
+hành kèm theo Quyết định số 08/2015/QĐ-TTg), kiểm tra các thông tin kê khai.
+
+- Gửi thông báo xác nhận ngừng giao dịch điện tử
+trong lĩnh vực BHXH (mẫu 05/TB-TS ban hành kèm theo Quyết định này) đến địa chỉ
+thư điện tử của đơn vị trong thời hạn 03 ngày làm việc kể từ ngày nhận được tờ
+khai của đơn vị.
+
+Điều 5. Đăng ký qua Tổ chức I-VAN
+
+1. Đăng ký sử dụng dịch vụ I-VAN
+
+a) Đơn vị truy cập Cổng giao dịch điện tử của Tổ chức
+I-VAN để lập và gửi trực tuyến Tờ khai đăng ký sử dụng dịch vụ I-VAN (mẫu
+04/ĐK-IVAN ban hành kèm theo Quyết định số 08/2015/QĐ-TTg).
+
+b) Tổ chức I-VAN
+
+- Trong thời hạn 02 giờ, kể từ khi nhận được Tờ
+khai của đơn vị (mẫu 04/ĐK-IVAN ban hành kèm theo Quyết định số 08/2015/QĐ-TTg),
+Tổ chức I-VAN gửi Tờ khai đến Cổng giao dịch điện tử của BHXH Việt Nam.
+
+- Trong thời hạn 02 giờ, kể từ khi nhận được thông
+báo của cơ quan BHXH, Tổ chức I-VAN gửi thông báo cho đơn vị.
+
+c) Cơ quan BHXH
+
+- Hệ thống quản lý thông tin tiếp nhận Tờ khai của
+đơn vị (mẫu 04/ĐK-IVAN ban hành kèm theo Quyết định số 08/2015/QĐ-TTg), tự động
+kiểm tra các thông tin kê khai: tình trạng mã số thuế (nếu có), chữ ký số, địa
+chỉ thư điện tử ...và các thông tin của Tổ chức I-VAN. Nếu đủ điều kiện thì
+trong thời hạn 03 ngày làm việc, gửi thông báo xác nhận đến Tổ chức I-VAN.
+
+- Trường hợp không đủ điều kiện, gửi thông báo
+không chấp thuận đăng ký sử dụng phương thức giao dịch BHXH điện tử cho Tổ chức
+I-VAN (mẫu 01/TB-TS ban hành kèm theo Quyết định này).
+
+2. Đăng ký thay đổi, bổ sung thông tin tờ khai đăng
+ký sử dụng dịch vụ I-VAN
+
+a) Đơn vị
+
+- Trường hợp thay đổi, bổ sung thông tin trên Tờ
+khai đăng ký sử dụng dịch vụ I-VAN, đơn vị truy cập vào tài khoản giao dịch
+BHXH điện tử của mình để lập và gửi Tờ khai thay đổi, bổ sung thông tin đăng ký
+sử dụng dịch vụ I-VAN (mẫu 05/SĐ-IVAN ban hành kèm theo Quyết định số
+08/2015/QĐ-TTg) tại Cổng giao dịch điện tử của Tổ chức I-VAN;
+
+- Trường hợp thay đổi Tổ chức I-VAN, đơn vị phải
+đăng ký ngừng sử dụng dịch vụ I-VAN theo quy định tại Khoản 3 Điều này và thực
+hiện thủ tục đăng ký sử dụng dịch vụ I-VAN theo quy định tại Khoản 1 Điều này.
+
+b) Tổ chức I-VAN
+
+Trong thời hạn 02 giờ kể từ khi nhận được Tờ khai của
+đơn vị (mẫu 05/SĐ-IVAN ban hành kèm theo Quyết định số 08/2015/QĐ-TTg), gửi Tờ
+khai đến Cổng giao dịch điện tử của BHXH Việt Nam.
+
+c) Cơ quan BHXH
+
+Hệ thống quản lý thông tin tiếp nhận Tờ khai của
+đơn vị (mẫu 05/SĐ-GD ban hành kèm theo Quyết định số 08/2015/QĐ-TTg), tự động
+kiểm tra các thông tin kê khai của đơn vị, thông tin của Tổ chức I-VAN; cập nhật
+thông tin thay đổi, bổ sung.
+
+3. Đăng ký ngừng sử dụng dịch vụ I-VAN
+
+a) Đơn vị
+
+- Truy cập Cổng giao dịch của Tổ chức I-VAN để lập
+và gửi Tờ khai đăng ký ngừng sử dụng dịch vụ I-VAN (mẫu 06/NG-IVAN ban hành kèm
+theo Quyết định số 08/2015/QĐ-TTg).
+
+- Kể từ thời điểm nhận được thông báo xác nhận ngừng
+sử dụng dịch vụ I-VAN do cơ quan BHXH gửi đến thông qua Tổ chức I-VAN, đơn vị
+thực hiện thủ tục BHXH bằng hồ sơ giấy.
+
+b) Tổ chức I-VAN
+
+- Chuyển Tờ khai đăng ký ngừng sử dụng dịch vụ
+I-VAN của đơn vị (mẫu 06/NG-IVAN ban hành kèm theo Quyết định số
+08/2015/QĐ-TTg) đến Cổng giao dịch điện tử của BHXH Việt Nam trong vòng 02 giờ
+kể từ khi nhận được Tờ khai.
+
+- Trong vòng 02 giờ kể từ khi nhận được thông báo
+xác nhận ngừng sử dụng dịch vụ I-VAN của Cơ quan BHXH, Tổ chức I-VAN gửi thông
+báo cho người sử dụng lao động.
+
+c) Cơ quan BHXH
+
+Trong thời hạn 03 ngày làm việc kể từ ngày nhận được
+Tờ khai đăng ký ngừng sử dụng dịch vụ I-VAN, Cơ quan BHXH gửi thông báo xác nhận
+ngừng sử dụng dịch vụ I-VAN (mẫu 05/TB-TS ban hành kèm theo Quyết định này) đến
+đơn vị qua Tổ chức I-VAN đang cung cấp dịch vụ cho đơn vị.
+
+Chương III
+
+THỦ TỤC, HỒ SƠ VÀ THỜI HẠN
+GIẢI QUYẾT; QUY TRÌNH GIAO DỊCH ĐIỆN TỬ TRONG VIỆC THỰC HIỆN THỦ TỤC THAM GIA
+BHXH, BHYT, BHTN; CẤP SỔ BHXH, THẺ BHYT
+
+Mục 1: THỦ TỤC, HỒ SƠ VÀ THỜI HẠN
+GIẢI QUYẾT
+
+Điều 6. Thủ tục, hồ sơ tham gia BHXH, BHYT, BHTN; cấp sổ BHXH, thẻ
+BHYT và thời hạn giải quyết thực hiện theo quy định tại Quyết định số
+1111/QĐ-BHXH , Quyết định số 1018/QĐ-BHXH và các quy định sửa đổi, bổ sung của
+BHXH Việt Nam.
+
+Mục 2: QUY TRÌNH GIAO DỊCH ĐIỆN
+TỬ THỰC HIỆN THỦ TỤC THAM GIA BHXH, BHYT, BHTN; CẤP SỔ BHXH, THẺ BHYT
+
+Điều 7. Trách nhiệm của người lao động
+
+1. Lập và nộp hồ sơ giấy cho đơn vị
+
+Người lao động kê khai thông tin trên tờ khai theo
+mẫu quy định, kèm theo hồ sơ, tài liệu giấy, nộp cho đơn vị.
+
+Người lao động chịu trách nhiệm trước pháp luật về
+thông tin kê khai và trong hồ sơ, tài liệu giấy của mình.
+
+2. Nhận kết quả giải quyết thủ
+tục hành chính từ cơ quan BHXH thông qua đơn vị.
+
+3. Người lao động cùng tham gia
+BHXH, BHYT, BHTN nhận thông báo kết quả đóng BHXH, BHYT, BHTN hàng năm do cơ
+quan BHXH gửi đến, hoặc người lao động truy cập Cổng thông tin của BHXH Việt
+Nam để tra cứu thông tin.
+
+Điều 8. Trách nhiệm của đơn vị
+
+1. Lập và nộp hồ sơ
+
+a) Hướng dẫn người lao động kê khai thông tin tờ
+khai theo mẫu quy định; kiểm tra, đối chiếu thông tin với hồ sơ do đơn vị quản
+lý.
+
+b) Kê khai thông tin của đơn vị theo mẫu quy định,
+nhập thông tin của người lao động từ các tờ khai của người lao động, danh sách
+người tham gia BHXH, BHYT, BHTN theo quy định tại Điều 6 vào phần mềm kê khai.
+
+Riêng các trường hợp sau thì quét (scan) hồ sơ, tài
+liệu giấy để gửi kèm theo:
+
+- Cấp, ghi sổ BHXH cho người lao động có thời gian
+công tác trước ngày 01/01/1995 và đối tượng theo quy định tại Khoản
+4, Điều 8 Thông tư số 03/2010/TTLT-BNV-BTC-BLĐTBXH .
+
+- Cấp lại, đổi sổ BHXH do thay đổi, cải chính họ
+tên, ngày, tháng, năm sinh.
+
+- Cấp lại, đổi thẻ BHYT do điều chỉnh thông tin về
+thân nhân, địa chỉ, mức hưởng BHYT, thời gian tham gia BHYT đủ 05 năm liên tục.
+
+- Điều chỉnh nội dung ghi trên sổ BHXH đã cấp đối với
+người lao động tham gia BHXH bắt buộc.
+
+- Truy thu BHXH, BHYT, BHTN thời gian trên 03
+tháng.
+
+c) Ký bằng chữ ký số trên hồ sơ và gửi đến Cổng
+thông tin của BHXH Việt Nam hoặc Cổng giao dịch của Tổ chức I-VAN.
+
+d) Lưu hồ sơ giấy của đơn vị và của người lao động.
+
+Đơn vị phải chịu trách nhiệm trước pháp luật về
+tính đúng, đủ, hợp pháp, kịp thời đối với hồ sơ điện tử của đơn vị và hồ sơ giấy
+của người lao động.
+
+2. Nhận thông báo xác nhận nộp hồ sơ điện tử tại
+tài khoản giao dịch của đơn vị.
+
+3. Nhận kết quả giải quyết thủ tục hành chính do cơ
+quan BHXH chuyển đến và trả kịp thời cho người lao động.
+
+4. Hằng tháng, nhận thông báo điện tử về kết quả
+đóng BHXH, BHYT, BHTN tháng trước và tổng hợp danh sách lao động tham gia BHXH,
+BHYT, BHTN do cơ quan BHXH gửi đến tài khoản giao dịch; kiểm tra, đối chiếu, nếu
+có sai sót thì phối hợp với cơ quan BHXH để xử lý.
+
+Điều 9. Trách nhiệm của cơ quan BHXH
+
+1. Hệ thống quản lý thông tin
+
+a) Nhận hồ sơ điện tử của đơn vị, kiểm tra và gửi
+thông báo cho đơn vị:
+
+- Hệ thống quản lý thông tin tự động kiểm tra việc
+đăng ký sử dụng hình thức giao dịch điện tử của đơn vị: đối chiếu mã số tham
+gia BHXH, địa chỉ thư điện tử với tài khoản giao dịch BHXH điện tử của đơn vị.
+
+- Trường hợp đơn vị gửi hồ sơ qua Tổ chức I-VAN: Hệ
+thống quản lý thông tin tự động kiểm tra việc đăng ký sử dụng dịch vụ I-VAN: đối
+chiếu mã số BHXH, địa chỉ thư điện tử, chứng thư số của Tổ chức I-VAN trong Hệ
+thống quản lý thông tin.
+
+- Hệ thống quản lý thông tin tự động kiểm tra chữ
+ký số của đơn vị ngay tại thời điểm đơn vị nộp hồ sơ BHXH điện tử, gồm các nội
+dung:
+
++ Kiểm tra nhà cung cấp: Nhà cung cấp chứng thư số
+phải nằm trong danh sách các nhà cung cấp được cơ quan có thẩm quyền cấp phép;
+
++ Kiểm tra hạn của chứng thư;
+
++ Kiểm tra danh sách chứng thư không hợp lệ của nhà
+cung cấp: Chứng thư của đơn vị không được nằm trong danh sách chứng thư không hợp
+lệ do nhà cung cấp thông báo.
+
+Trường hợp đơn vị nộp hồ sơ qua Tổ chức I-VAN: Hệ
+thống quản lý thông tin tự động kiểm tra chữ ký số của Tổ chức I-VAN: đối chiếu
+chữ ký số trên hồ sơ BHXH điện tử với chứng thư số do tổ chức chứng thực chữ ký
+số công cộng cấp. Việc kiểm tra được thực hiện ngay tại thời điểm Tổ chức I-VAN
+gửi hồ sơ BHXH điện tử cho cơ quan BHXH.
+
+b) Gửi thông tin tiếp nhận hồ
+sơ BHXH
+
+Trường hợp hồ sơ hợp pháp, hợp lệ, Hệ thống quản lý
+thông tin tự động gửi thông báo xác nhận nộp hồ sơ BHXH điện tử (mẫu 02/TB-TS
+ban hành kèm theo Quy định này) đến tài khoản giao dịch của đơn vị trong vòng
+02 giờ kể từ khi nhận được hồ sơ BHXH điện tử của đơn vị hoặc gửi cho Tổ chức
+I-VAN để gửi cho đơn vị.
+
+c) Lưu tệp hồ sơ BHXH gốc.
+
+Hệ thống quản lý thông tin tự động thực hiện việc
+lưu trữ đầy đủ, nguyên trạng dữ liệu hồ sơ BHXH điện tử tại cơ sở dữ liệu BHXH
+điện tử của BHXH Việt Nam.
+
+2. Tổ thu/Phòng Quản lý thu.
+
+a) Truy cập hồ sơ BHXH điện tử của đơn vị trong Hệ
+thống quản lý thông tin; kết xuất các tờ khai của người lao động, tờ khai của
+đơn vị, danh sách người lao động tham gia BHXH, BHYT, BHTN và các hồ sơ, tài liệu
+được đơn vị scan gửi kèm theo để kiểm tra, đối chiếu thông tin và đối chiếu với
+cơ sở dữ liệu của đơn vị trong Hệ thống quản lý thông tin.
+
+- Đối với những trường hợp hồ sơ đúng thì thực hiện
+giải quyết theo quy định đối với từng loại hồ sơ. Sau đó, ký bằng chữ ký số
+trên hồ sơ BHXH điện tử và lưu dữ liệu vào Hệ thống quản lý thông tin.
+
+Các trường hợp hồ sơ không đúng, không đủ điều kiện
+thì thông báo cho đơn vị hoàn chỉnh hồ sơ theo quy định.
+
+- Gửi Thông báo giải quyết hồ sơ tham gia BHXH,
+BHYT, BHTN và trả kết quả (mẫu 03/TB-TS ban hành kèm theo Quyết định này) đến
+tài khoản giao dịch của đơn vị trực tiếp hoặc thông qua tổ chức I-VAN.
+
+b) Trường hợp hồ sơ có dấu hiệu giả mạo, sửa chữa,
+tẩy xóa, không rõ ràng hoặc thông tin không khớp nhau; bản scan tài liệu khó đọc,
+khó tra cứu thì thông báo và phối hợp với đơn vị để kiểm tra, xác minh trực tiếp
+trước khi giải quyết thủ tục.
+
+c) Đối với các trường hợp hồ sơ có tài liệu kèm
+theo ở dạng điện tử có đủ thành phần, rõ ràng về hình thức và đủ thông tin,
+nhưng có yếu tố không hợp lý, không phù hợp thực tế, thì sau khi giải quyết thủ
+tục hành chính theo quy định, cơ quan BHXH có văn bản thông báo cho cơ quan nhà
+nước có liên quan đến hồ sơ, tài liệu có yếu tố không hợp lý hoặc không phù hợp
+để biết và xử lý theo thẩm quyền.
+
+d) Hàng tháng, gửi thông báo kết quả đóng BHXH,
+BHYT, BHTN, tổng hợp danh sách lao động tham gia BHXH, BHYT, BHTN vào tài khoản
+giao dịch của đơn vị.
+
+3. Tổ/Phòng sổ, thẻ.
+
+a) Nhận hồ sơ BHXH điện tử của đơn vị và người tham
+gia do Tổ thu/Phòng Quản lý thu chuyển đến trong Hệ thống quản lý thông tin; kiểm
+tra, đối chiếu với hồ sơ đơn vị trong Hệ thống quản lý thông tin.
+
+b) Xuất danh sách cấp sổ BHXH, danh sách cấp thẻ
+BHYT ký bằng chữ ký số để trình Giám đốc ký duyệt.
+
+c) In sổ BHXH, thẻ BHYT; tờ rời sổ BHXH xác nhận thời
+gian đóng BHXH, BHTN chưa hưởng đối với các trường hợp thôi việc, nghỉ việc.
+
+d) Ký điện tử trên phiếu sử dụng phôi bìa sổ BHXH,
+phiếu sử dụng phôi thẻ BHYT, lưu vào Hệ thống quản lý thông tin.
+
+đ) Trình ký sổ BHXH, tờ rời sổ BHXH theo phân công
+quản lý.
+
+e) Chuyển sổ BHXH, tờ rời sổ BHXH, thẻ BHYT cho Tổ/Phòng
+Tiếp nhận hồ sơ và Trả kết quả để chuyển trả đơn vị.
+
+4. Tổ/Phòng Tiếp nhận hồ sơ và
+Trả kết quả
+
+a) Nhận sổ BHXH, thẻ BHYT từ Tổ/phòng Sổ, thẻ để trả
+cho đơn vị.
+
+b) Việc trả kết quả giải quyết
+thủ tục hành chính cho đơn vị tham gia BHXH, BHYT, BHTN thực hiện theo quy định.
+
+Chương IV
+
+TỔ CHỨC THỰC HIỆN
+
+Điều 10. Trách nhiệm người lao động
+
+1. Lập hồ sơ đủ thành phần; kê khai trung thực,
+đúng, đủ thông tin theo quy định và hướng dẫn của đơn vị, của cơ quan BHXH.
+
+2. Phối hợp với đơn vị, cơ quan BHXH và cơ quan nhà
+nước có liên quan trong việc xác minh hồ sơ nhằm tạo điều kiện giải quyết hồ
+sơ, trả kết quả kịp thời, đúng quy định.
+
+3. Chịu trách nhiệm trước pháp luật trong việc kê
+khai, lập hồ sơ của mình.
+
+Điều 11. Trách nhiệm của đơn vị
+
+1. Lập hồ sơ đủ thành phần, kê khai chính xác,
+đúng, đủ thông tin; thực hiện theo đúng hướng dẫn của cơ quan BHXH, của Tổ chức
+I-VAN nơi đơn vị đăng ký giao dịch điện tử về việc lập hồ sơ điện tử; nộp hồ sơ
+kịp thời theo quy định.
+
+2. Chịu trách nhiệm trước pháp luật đối với hồ sơ
+giấy, hồ sơ điện tử của đơn vị, của người lao động.
+
+3. Phối hợp với cơ quan BHXH và cơ quan nhà nước có
+liên quan kiểm tra, xác minh hồ sơ các trường hợp có nghi vấn, có dấu hiệu gian
+lận, giả mạo; phối hợp khắc phục hậu quả, hạn chế thiệt hại do hành vi gian lận,
+giả mạo hồ sơ.
+
+Điều 12. Trách nhiệm của Tổ chức I-VAN
+
+Tổ chức I-VAN có trách nhiệm thực hiện đầy đủ nghĩa
+vụ theo quy định tại Quyết định số 08/2015/QĐ-TTg , các cam kết tại Hợp đồng đã
+ký với cơ quan BHXH và các quy định về giao dịch điện tử có liên quan tại Văn bản
+này.
+
+Điều 13. Trách nhiệm của BHXH tỉnh, BHXH huyện
+
+1. Tổ chức thực hiện giao dịch điện tử với đơn vị
+tham gia BHXH, BHYT, BHTN theo quy định tại Văn bản này; phân công nhiệm vụ, tổ
+chức thực hiện nghiệp vụ thu, cấp sổ BHXH, thẻ BHYT và trả kết quả giải quyết
+thủ tục hành chính theo quy định tại Quyết định số 1111/QĐ-BHXH , Quyết định số
+1018/QĐ-BHXH .
+
+2. Đảm bảo về công nghệ thông tin trong thực hiện
+giao dịch điện tử theo hướng dẫn của BHXH Việt Nam.
+
+3. Tổ chức thực hiện tốt công tác hậu kiểm; phối hợp
+chặt chẽ với các cơ quan liên quan thực hiện kiểm tra, thanh tra nhằm phát hiện,
+ngăn chặn, hạn chế rủi ro và xử lý kịp thời các hành vi cố tình vi phạm để trục
+lợi.
+
+Điều 14. Trách nhiệm của BHXH Việt Nam
+
+1. Ban Thu
+
+Chịu trách nhiệm hướng dẫn, chỉ đạo, kiểm tra BHXH
+tỉnh trong việc quản lý đăng ký giao dịch điện tử theo quy định.
+
+2. Trung tâm Công nghệ Thông
+tin
+
+Chịu trách nhiệm đảm bảo kỹ thuật, cài đặt, vận
+hành và xử lý sự cố kỹ thuật (nếu có) trong triển khai thực hiện giao dịch điện
+tử.
+
+3. Các đơn vị trực thuộc BHXH Việt Nam
+
+Theo chức năng, nhiệm vụ, phối hợp kiểm tra, hướng
+dẫn, tổ chức thực hiện các nhiệm vụ có liên quan.
+
+ 
+
+Phụ lục 1. Mẫu
+biểu ban hành kèm theo Quyết định số 528/QĐ-BHXH
+
+Mẫu số 01/TB-TS
+
+Thông báo không chấp nhận đăng ký sử dụng giao dịch
+ BHXH điện tử
+
+Mẫu số 02/TB-TS
+
+Thông báo xác nhận nộp hồ sơ
+
+Mẫu số 03/TB-TS
+
+Thông báo giải quyết hồ sơ và trả kết quả
+
+Mẫu số 04/TB-TS
+
+Thông báo xác nhận thay đổi, bổ sung thông tin
+
+Mẫu số 05/TB-TS
+
+Thông báo xác nhận đăng ký ngừng giao dịch BHXH
+ điện tử
+
+ 
+
+Phụ lục 2. Mẫu
+biểu ban hành kèm theo Quyết định số 08/2015/QĐ-TTg
+
+Mẫu số 01/ĐK-GD
+
+Tờ khai đăng ký sử dụng phương thức giao dịch điện
+ tử trong lĩnh vực BHXH
+
+Mẫu số 02/SĐ-GD
+
+Tờ khai thay đổi, bổ sung thông tin đăng ký sử dụng
+ phương thức giao dịch điện tử trong lĩnh vực BHXH
+
+Mẫu số 03/NG-GD
+
+Tờ khai đăng ký ngừng sử dụng phương thức giao dịch
+ điện tử trong lĩnh vực BHXH
+
+Mẫu số 04/ĐK-IVAN
+
+Tờ khai đăng ký sử dụng dịch vụ I-VAN
+
+Mẫu số 05/SĐ-IVAN
+
+Tờ khai thay đổi, bổ sung thông tin đăng ký sử dụng
+ dịch vụ I-VAN
+
+Mẫu số 06/NG-IVAN
+
+Tờ khai đăng ký ngừng sử dụng dịch vụ I-VAN
+
+ 
+
+ 
+
+Mẫu số:
+ 01/TB-TS
+
+(Ban hành kèm theo QĐ số: 528/QĐ-BHXH ngày 14/4/2015 của BHXH Việt
+ Nam)
+
+ 
+
+BẢO HIỂM XÃ HỘI
+ VIỆT NAM
+
+ --------
+
+CỘNG HÒA XÃ HỘI
+ CHỦ NGHĨA VIỆT NAM
+
+ Độc lập - Tự do - Hạnh phúc
+
+ ----------------
+
+Số: ……../ĐK-TB
+
+Ngày … tháng …
+ năm …
+
+ 
+
+THÔNG BÁO
+
+V/v Không chấp nhận
+đăng ký sử dụng phương thức giao dịch bảo hiểm xã hội điện tử.
+
+Kính gửi:
+……………………………………………
+
+Số định danh:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Căn cứ hồ sơ đăng ký sử dụng phương thức giao dịch
+bảo hiểm xã hội điện tử của đơn vị.
+
+Cơ quan Bảo hiểm xã hội thông báo không chấp thuận
+đề nghị đăng ký sử dụng phương thức giao dịch bảo hiểm xã hội điện tử của đơn vị.
+
+Lý do: …………………………………………………………
+
+Cơ quan Bảo hiểm xã hội thông báo để đơn vị được biết./.
+
+ 
+
+ 
+
+Chữ ký số của
+ cơ quan BHXH
+
+ 
+
+ 
+
+Mẫu số:
+ 02/TB-TS
+
+(Ban hành kèm theo QĐ số: 528/QĐ-BHXH ngày 14/4/2015 của BHXH Việt
+ Nam)
+
+ 
+
+BẢO HIỂM XÃ HỘI
+ …………..
+
+ BẢO HIỂM XÃ HỘI ……..
+
+ --------
+
+CỘNG HÒA XÃ HỘI
+ CHỦ NGHĨA VIỆT NAM
+
+ Độc lập - Tự do - Hạnh phúc
+
+ ----------------
+
+Số:
+ /TB
+
+…, ngày
+ tháng năm 
+
+ 
+
+THÔNG BÁO
+
+V/v: xác nhận nộp
+hồ sơ tham gia bảo hiểm xã hội, bảo hiểm y tế
+
+Kính gửi: ……………………………….
+
+Số định danh:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+BHXH ……………………………………………………………………
+
+Thông báo
+
+1. Xác nhận đơn vị đã nộp hồ sơ điện tử tham gia
+BHXH, BHYT cho cơ quan Bảo hiểm xã hội.
+
+2. Thời gian nhận hồ sơ: ………………..
+
+3. Thông tin hồ sơ
+
+3.1. Số hồ sơ: ………….
+
+3.2. Thành phần hồ sơ
+
+STT
+
+Loại mẫu biểu, giấy
+ tờ, tài liệu
+
+Số lượng
+
+1
+
+ 
+
+ 
+
+2
+
+ 
+
+ 
+
+…
+
+ 
+
+ 
+
+Số điện thoại hỗ trợ:
+
+ 
+
+ 
+
+Chữ ký số của
+ cơ quan BHXH
+
+ 
+
+ 
+
+Mẫu số:
+ 03/TB-TS
+
+(Ban hành kèm theo QĐ số: 528/QĐ-BHXH ngày 14/4/2015 của BHXH Việt
+ Nam)
+
+ 
+
+BẢO HIỂM XÃ HỘI
+ …………..
+
+ BẢO HIỂM XÃ HỘI ……..
+
+ --------
+
+CỘNG HÒA XÃ HỘI
+ CHỦ NGHĨA VIỆT NAM
+
+ Độc lập - Tự do - Hạnh phúc
+
+ ----------------
+
+Số:
+ /TB
+
+…, ngày
+ tháng năm 
+
+ 
+
+THÔNG BÁO
+
+V/v: giải quyết hồ
+sơ tham gia bảo hiểm xã hội, bảo hiểm y tế và trả kết quả
+
+Kính gửi: ………………………………….
+
+Số định danh:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+BHXH …………………………………………………………….
+
+Thông báo
+
+1. Chấp nhận để giải quyết hồ sơ tham gia BHXH,
+BHYT của đơn vị
+
+Số hồ sơ……. Nhận hồi: …..giờ…..phút
+ngày: …./…../……
+
+Trả kết quả ngày 
+tháng năm
+
+Đề nghị Quý đơn vị thu hồi thẻ BHYT còn hạn sử dụng
+của người lao động ngừng việc, thôi việc, chuyển đi để nộp cho cơ quan BHXH khi
+nhận kết quả giải quyết hồ sơ tham gia BHXH, BHYT.
+
+2. Các trường hợp hồ sơ chưa đúng, chưa đủ theo quy
+định và hướng dẫn bổ sung hồ sơ (kèm theo)
+
+Số điện thoại hỗ trợ:
+
+ 
+
+ 
+
+Chữ ký số của
+ cơ quan BHXH
+
+ 
+
+BẢO HIỂM XÃ HỘI
+ …………..
+
+ BẢO HIỂM XÃ HỘI ……..
+
+ --------
+
+CỘNG HÒA XÃ HỘI
+ CHỦ NGHĨA VIỆT NAM
+
+ Độc lập - Tự do - Hạnh phúc
+
+ ----------------
+
+ 
+
+…, ngày
+ tháng năm 
+
+ 
+
+Danh sách
+
+Các trường hợp hồ sơ
+không đúng quy định và hướng dẫn bổ sung hồ sơ
+
+(Kèm theo Thông báo
+số /TB ngày ....tháng….năm….)
+
+STT
+
+Họ và tên
+
+Tình trạng hồ sơ
+
+Ghi chú/Hướng dẫn
+
+Tên/loại mẫu biểu/hồ
+ sơ
+
+Tình trạng
+
+1
+
+2
+
+3
+
+4
+
+5
+
+1
+
+ 
+
+ 
+
+ 
+
+ 
+
+2
+
+ 
+
+ 
+
+ 
+
+ 
+
+…
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Chữ ký số của
+ cơ quan BHXH
+
+ 
+
+ 
+
+Mẫu số:
+ 04/TB-TS
+
+(Ban hành kèm theo QĐ số: 528/QĐ-BHXH ngày 14/4/2015 của BHXH Việt
+ Nam)
+
+ 
+
+BẢO HIỂM XÃ HỘI
+ VIỆT NAM
+
+ --------
+
+CỘNG HÒA XÃ HỘI
+ CHỦ NGHĨA VIỆT NAM
+
+ Độc lập - Tự do - Hạnh phúc
+
+ ----------------
+
+Số:
+ /ĐK-TB
+
+….., ngày
+ tháng năm 
+
+ 
+
+THÔNG BÁO
+
+V/v: xác nhận
+thay đổi, bổ sung thông tin Tờ khai đăng ký sử dụng phương thức giao dịch điện
+tử
+
+Kính gửi: ………………………………….
+
+ 
+
+Số định danh:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+BHXH ……………………………………………………………….
+
+Thông báo xác nhận thay đổi, bổ sung thông tin sau
+đây theo Tờ khai thay đổi, bổ sung thông tin của đơn vị ngày……tháng….năm….:
+
+1. Thông tin mới gồm:
+
+- Số chứng thư số: …………………………………..
+
+- Tên tổ chức chứng thực chữ ký số: ……………………
+
+- Thời hạn sử dụng chứng thư số: Từ ngày ... tháng
+... năm ... đến ngày ... tháng... năm....
+
+- Địa chỉ thư điện tử: ………………………………………………….
+
+2. Đơn vị sử dụng thông tin mới nêu trên trong giao
+dịch điện tử về BHXH kể từ ngày tháng năm
+
+Số điện thoại hỗ trợ:
+
+ 
+
+ 
+
+Chữ ký số của cơ
+ quan BHXH
+
+ 
+
+ 
+
+Mẫu số:
+ 05/TB-TS
+
+(Ban hành kèm theo QĐ số: 528/QĐ-BHXH ngày 14/4/2015 của BHXH Việt
+ Nam)
+
+ 
+
+BẢO HIỂM XÃ HỘI
+ ………….
+
+ -------- 
+
+CỘNG HÒA XÃ HỘI
+ CHỦ NGHĨA VIỆT NAM
+
+ Độc lập - Tự do - Hạnh phúc
+
+ ----------------
+
+Số:
+ /TB
+
+… ngày
+ tháng năm 
+
+ 
+
+THÔNG BÁO
+
+V/v: xác nhận ngừng
+giao dịch điện tử về bảo hiểm xã hội, bảo hiểm y tế
+
+Kính gửi: ………………………………….
+
+ 
+
+Số định danh:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+BHXH ………………………………………………………….
+
+Thông báo
+
+Kể từ ngày.... tháng……..năm…….:
+
+1. Đơn vị ngừng giao dịch điện tử về bảo hiểm xã hội,
+bảo hiểm y tế.
+
+2. Đơn vị chuyển sang nộp hồ sơ bảo hiểm xã hội, bảo
+hiểm y tế bằng giấy theo quy định.
+
+ 
+
+Số điện thoại hỗ trợ:
+
+ 
+
+ 
+
+Chữ ký số của
+ cơ quan BHXH
+
+ 
+
+Mẫu số 01/ĐK-GD
+
+CỘNG HÒA XÃ HỘI
+CHỦ NGHĨA VIỆT NAM
+
+Độc lập - Tự do - Hạnh phúc
+
+----------------
+
+……, ngày ....
+tháng …. năm….
+
+TỜ KHAI
+
+Đăng ký sử dụng
+phương thức giao dịch điện tử trong lĩnh vực bảo hiểm xã hội
+
+Kính gửi: Bảo hiểm
+xã hội Việt Nam
+
+Tên người sử dụng lao động (đơn vị sử dụng lao động):
+........................................... 
+
+.....................................................................................................................................
+
+Mã số bảo hiểm xã hội:
+...............................................................................................
+
+Địa chỉ liên hệ: (Ghi rõ địa chỉ nơi đơn vị đóng
+trụ sở)
+
+.....................................................................................................................................
+
+Số chứng thư số:
+........................................................................................................
+
+Tên tổ chức chứng thực chữ ký số:
+............................................................................ 
+
+Thời hạn sử dụng chứng thư số từ ngày... tháng...
+năm.... đến ngày... tháng ... năm....
+
+Địa chỉ thư điện tử:
+.......................................................................................................
+
+Điện thoại:
+....................................................................................................................
+
+Người liên hệ:
+..............................................................................................................
+
+Điện thoại của người liên hệ: .......................................................................................
+
+Theo Quyết định số …../20.../QĐ-TTg ngày
+..../.../20... của Thủ tướng Chính phủ, đơn vị chúng tôi có đủ các điều kiện sử
+dụng phương thức nộp hồ sơ, giao dịch bảo hiểm xã hội điện tử. Chúng tôi đăng
+ký với cơ quan Bảo hiểm xã hội được sử dụng phương thức giao dịch điện tử trong
+lĩnh vực bảo hiểm xã hội, cụ thể như sau:
+
+- Đăng ký sử dụng phương thức giao dịch điện tử
+trong lĩnh vực Bảo hiểm xã hội từ ngày... tháng... năm…..
+
+- Đăng ký giao dịch tại:
+
++ Cổng thông tin điện tử Bảo hiểm xã hội Việt
+Nam 
+□
+
++ Cổng giao dịch điện tử của Tổ chức
+I-VAN 
+□
+
+(Tên tổ chức cung cấp dịch vụ I-VAN: …………….... (trong
+trường hợp giao dịch qua Tổ chức I-VAN).
+
+Chúng tôi cam kết hoàn toàn chịu trách nhiệm trước
+pháp luật về tính chính xác, trung thực của nội dung nêu trên và thực hiện nộp
+hồ sơ, giao dịch điện tử trong lĩnh vực bảo hiểm xã hội theo đúng quy định của pháp
+luật về bảo hiểm xã hội./.
+
+ 
+
+ 
+
+Chữ ký số của
+ người sử dụng lao động
+
+ 
+
+Mẫu số 02/SĐ-GD
+
+CỘNG HÒA XÃ HỘI
+CHỦ NGHĨA VIỆT NAM
+
+Độc lập - Tự do - Hạnh phúc
+
+----------------
+
+…., ngày....
+tháng.... năm….
+
+TỜ KHAI
+
+Thay đổi, bổ sung
+thông tin đăng ký sử dụng phương thức giao dịch điện tử trong lĩnh vực bảo hiểm
+xã hội
+
+Kính gửi: Bảo hiểm
+xã hội Việt Nam
+
+Tên người sử dụng lao động (đơn vị sử dụng lao động):...............................................
+
+........................................................................................................................................
+
+Mã số bảo hiểm xã hội:...................................................................................................
+
+Ngày…tháng….năm…., chúng tôi đã gửi Tờ khai đăng ký
+sử dụng phương thức giao dịch điện tử trong lĩnh vực bảo hiểm xã hội cho cơ
+quan Bảo hiểm xã hội Việt Nam. Nay đề nghị Bảo hiểm xã hội Việt Nam cho thay đổi,
+bổ sung thông tin đã đăng ký, cụ thể như sau:
+
+- Số chứng thư số:..........................................................................................................
+
+- Tên tổ chức chứng thực chữ ký số:.............................................................................
+
+- Thời hạn sử dụng chứng thư số: Từ ngày ... tháng
+... năm ... đến ngày ... tháng... năm....
+
+- Địa chỉ thư điện tử:.......................................................................................................
+
+(Chỉ ghi những nội dung có thay đổi, bổ sung)
+
+- Các thông tin trên đề nghị thay đổi kể từ
+ngày….tháng….năm….
+
+Chúng tôi cam kết hoàn toàn chịu trách nhiệm trước
+pháp luật về tính chính xác, trung thực của nội dung nêu trên./.
+
+ 
+
+ 
+
+Chữ ký số của
+ người sử dụng lao động
+
+ 
+
+Mẫu số 03/NG-GD
+
+CỘNG HÒA XÃ HỘI
+CHỦ NGHĨA VIỆT NAM
+
+Độc lập - Tự do - Hạnh phúc
+
+----------------
+
+….., ngày....
+tháng.... năm….
+
+TỜ KHAI
+
+Đăng ký ngừng sử
+dụng phương thức giao dịch điện tử trong lĩnh vực bảo hiểm xã hội
+
+Kính gửi: Bảo hiểm
+xã hội Việt Nam
+
+Tên người sử dụng lao động (đơn vị sử dụng lao động):.............................................
+
+......................................................................................................................................
+
+Mã số bảo hiểm xã hội:.................................................................................................
+
+Đang tham gia giao dịch với cơ quan Bảo hiểm xã hội
+(tỉnh hoặc huyện):
+
+Chúng tôi là đơn vị đã được cơ quan Bảo hiểm xã hội
+chấp thuận việc đăng ký sử dụng phương thức giao dịch điện tử trong lĩnh vực bảo
+hiểm xã hội kể từ ngày ... tháng .... năm…..
+
+Nay đề nghị Bảo hiểm xã hội Việt Nam cho đăng ký ngừng
+sử dụng phương thức giao dịch điện tử trong lĩnh vực bảo hiểm xã hội từ ngày
+... tháng ... năm….
+
+Lý do ngừng:.................................................................................................................
+
+......................................................................................................................................
+
+Chúng tôi cam kết chịu trách nhiệm hoàn toàn trước
+pháp luật về tính chính xác, trung thực của nội dung nêu trên./.
+
+ 
+
+ 
+
+Chữ ký số của
+ người sử dụng lao động
+
+ 
+
+Mẫu số 04/ĐK-IVAN
+
+CỘNG HÒA XÃ HỘI
+CHỦ NGHĨA VIỆT NAM
+
+Độc lập - Tự do - Hạnh phúc
+
+----------------
+
+……, ngày....
+tháng.... năm……
+
+TỜ KHAI
+
+Đăng ký sử dụng dịch
+vụ I-VAN
+
+Kính gửi: Bảo hiểm
+xã hội Việt Nam
+
+Tên người sử dụng lao động (đơn vị sử dụng lao động):............................................
+
+Mã số bảo hiểm xã hội:................................................................................................
+
+Địa chỉ liên hệ:.............................................................................................................
+
+Qua xem xét và nhận thấy chúng tôi có đủ các điều
+kiện sử dụng dịch vụ I-VAN, chúng tôi đăng ký với cơ quan Bảo hiểm xã hội được
+sử dụng dịch vụ I-VAN, cụ thể như sau:
+
+1. Thông tin về người sử dụng lao động (đơn vị sử dụng
+lao động):
+
+- Số chứng thư số:........................................................................................................
+
+- Tên tổ chức chứng thực chữ ký số:...........................................................................
+
+- Thời hạn sử dụng chứng thư số: từ
+ngày…..tháng….năm….đến ngày….tháng…..năm….
+
+- Địa chỉ thư điện tử:.....................................................................................................
+
+- Điện thoại:..................................................................................................................
+
+- Sử dụng dịch vụ I-VAN để thực hiện thủ tục (ghi
+tên các thủ tục):
+
+.....................................................................................................................................
+
+.....................................................................................................................................
+
+.....................................................................................................................................
+
+2. Thông tin về Tổ chức I-VAN:
+
+Tên tổ chức: (ghi rõ tên đầy đủ tổ chức)........................................................................
+
+.......................................................................................................................................
+
+Chúng tôi cam kết hoàn toàn chịu trách nhiệm trước
+pháp luật về tính chính xác, trung thực của nội dung nêu trên và thực hiện theo
+đúng quy định của pháp luật về giao dịch điện tử trong lĩnh vực bảo hiểm xã hội./.
+
+ 
+
+Chữ ký số của tổ
+ chức
+
+ cung cấp dịch vụ I-VAN
+
+Chữ ký số của
+
+ người sử dụng lao động
+
+ 
+
+Mẫu số 05/SĐ-IVAN
+
+CỘNG HÒA XÃ HỘI
+CHỦ NGHĨA VIỆT NAM
+
+Độc lập - Tự do - Hạnh phúc
+
+----------------
+
+….., ngày....
+tháng.... năm……
+
+TỜ KHAI
+
+Thay đổi, bổ sung
+thông tin đăng ký sử dụng dịch vụ I-VAN
+
+Kính gửi: Bảo hiểm
+xã hội Việt Nam
+
+Tên người sử dụng lao động (đơn vị sử dụng lao động):..............................................
+
+.......................................................................................................................................
+
+Mã số bảo hiểm xã hội:..................................................................................................
+
+Căn cứ Tờ khai đăng ký sử dụng dịch vụ I-VAN
+ngày…tháng…năm…., chúng tôi đề nghị được thay đổi, bổ sung thông tin đã đăng
+ký, cụ thể như sau:
+
+- Số chứng thư số:.........................................................................................................
+
+- Tên tổ chức chứng thực chữ ký số:............................................................................
+
+- Thời hạn sử dụng chứng thư số: từ ngày….. tháng….
+năm….. đến ngày…. tháng…. năm…..
+
+- Địa chỉ thư điện tử:.....................................................................................................
+
+(Chỉ ghi những nội dung có thay đổi, bổ sung)
+
+Chúng tôi cam kết hoàn toàn chịu trách nhiệm trước
+pháp luật về tính chính xác, trung thực của nội dung nêu trên./.
+
+ 
+
+Chữ ký số của tổ
+ chức
+
+ cung cấp dịch vụ I-VAN
+
+Chữ ký số của
+
+ người sử dụng lao động
+
+ 
+
+Mẫu số 06/NG-IVAN
+
+CỘNG HÒA XÃ HỘI
+CHỦ NGHĨA VIỆT NAM
+
+Độc lập - Tự do - Hạnh phúc
+
+----------------
+
+…., ngày....
+tháng.... năm….
+
+TỜ KHAI
+
+Đăng ký ngừng sử
+dụng dịch vụ I-VAN
+
+Kính gửi: Bảo hiểm
+xã hội Việt Nam
+
+Tên người sử dụng lao động (đơn vị sử dụng lao động):................................................
+
+.........................................................................................................................................
+
+Mã số bảo hiểm xã hội:...................................................................................................
+
+Địa chỉ liên hệ:.................................................................................................................
+
+Chúng tôi đăng ký với Bảo hiểm xã hội Việt Nam để
+được ngừng sử dụng dịch vụ I-VAN của Tổ chức I-VAN đã đăng ký sau:
+
+- Tên Tổ chức I-VAN: (ghi rõ tên đầy đủ tổ chức)...........................................................
+
+........................................................................................................................................
+
+- Thời điểm ngừng từ ngày ... tháng ... năm….
+
+- Lý do ngừng:................................................................................................................
+
+.......................................................................................................................................
+
+Chúng tôi cam kết chịu trách nhiệm hoàn toàn trước
+pháp luật về tính chính xác, trung thực của nội dung nêu trên./.
+
+ 
+
+Chữ ký số của tổ
+ chức
+
+ cung cấp dịch vụ I-VAN
+
+Chữ ký số của
+
+ người sử dụng lao động--- THÔNG TIN THÊM ---
+Ten: Quyết định 528/QĐ-BHXH năm 2015 Quy định về giao dịch điện tử trong việc thực hiện thủ tục tham gia bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp; cấp sổ bảo hiểm xã hội, thẻ bảo hiểm y tế do Tổng giám đốc Bảo hiểm xã hội Việt Nam ban hành
+So hieu: 528/QĐ-BHXH
+Loai van ban: Quyết định
+Linh vuc nganh: Bảo hiểm, Lao động - Tiền lương, Công nghệ thông tin
+Noi ban hanh: Bảo hiểm xã hội Việt Nam
+Nguoi ky: Nguyễn Thị Minh
+Ngay ban hanh: 14/04/2015
+Ngay hieu luc: 01/05/2015
+Ngay dang: Dữ liệu đang cập nhật
+So cong bao: Dữ liệu đang cập nhật
+Tinh trang: Hết hiệu lực: 01/07/2017
+
+
+--- MỤC LỤC ---
+- QUYẾT ĐỊNH BAN HÀNH QUY ĐỊNH VỀ GIAO DỊCH ĐIỆN TỬ TRONG VIỆC THỰC HIỆN THỦ TỤC THAM GIA BẢO HIỂM XÃ HỘI, BẢO HIỂM Y TẾ, BẢO HIỂM THẤT NGHIỆP; CẤP SỔ BẢO HIỂM XÃ HỘI, THẺ BẢO HIỂM Y TẾ
+  - Điều 1. Ban hành kèm theo Quyết định này: Quy định về giao dịch điện tử trong việc thực hiện thủ tục tham gia bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp; cấp sổ bảo hiểm xã hội, thẻ bảo hiểm y tế.
+  - Điều 2. Quyết định này có hiệu lực thi hành từ ngày 01 tháng 5 năm 2015.
+  - Điều 3. Trưởng Ban Thu, Chánh Văn phòng, Thủ trưởng các đơn vị trực thuộc Bảo hiểm xã hội Việt Nam; Giám đốc bảo hiểm xã hội các tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm thi hành Quyết định này./.
+- QUY ĐỊNH VỀ GIAO DỊCH ĐIỆN TỬ TRONG VIỆC THỰC HIỆN THỦ TỤC THAM GIA BẢO HIỂM XÃ HỘI, BẢO HIỂM Y TẾ, BẢO HIỂM THẤT NGHIỆP; CẤP SỔ BẢO HIỂM XÃ HỘI, THẺ BẢO HIỂM Y TẾ
+  - Chương I QUY ĐỊNH CHUNG
+    - Điều 1. Phạm vi điều chỉnh, đối tượng áp dụng
+    - Điều 2. Viết tắt và giải thích từ ngữ
+    - Điều 3. Thời gian nộp hồ sơ BHXH điện tử
+  - Chương II QUY TRÌNH ĐĂNG KÝ SỬ DỤNG PHƯƠNG THỨC GIAO DỊCH ĐIỆN TỬ
+    - Điều 4. Đăng ký qua Cổng thông tin của BHXH Việt Nam
+    - Điều 5. Đăng ký qua Tổ chức I-VAN
+  - Chương III THỦ TỤC, HỒ SƠ VÀ THỜI HẠN GIẢI QUYẾT; QUY TRÌNH GIAO DỊCH ĐIỆN TỬ TRONG VIỆC THỰC HIỆN THỦ TỤC THAM GIA BHXH, BHYT, BHTN; CẤP SỔ BHXH, THẺ BHYT
+    - Mục 1: THỦ TỤC, HỒ SƠ VÀ THỜI HẠN GIẢI QUYẾT
+      - Điều 6. Thủ tục, hồ sơ tham gia BHXH, BHYT, BHTN; cấp sổ BHXH, thẻ BHYT và thời hạn giải quyết thực hiện theo quy định tại Quyết định số 1111/QĐ-BHXH, Quyết định số 1018/QĐ-BHXH và các quy định sửa đổi, bổ sung của BHXH Việt Nam.
+    - Mục 2: QUY TRÌNH GIAO DỊCH ĐIỆN TỬ THỰC HIỆN THỦ TỤC THAM GIA BHXH, BHYT, BHTN; CẤP SỔ BHXH, THẺ BHYT
+      - Điều 7. Trách nhiệm của người lao động
+      - Điều 8. Trách nhiệm của đơn vị
+      - Điều 9. Trách nhiệm của cơ quan BHXH
+  - Chương IV TỔ CHỨC THỰC HIỆN
+    - Điều 10. Trách nhiệm người lao động
+    - Điều 11. Trách nhiệm của đơn vị
+    - Điều 12. Trách nhiệm của Tổ chức I-VAN
+    - Điều 13. Trách nhiệm của BHXH tỉnh, BHXH huyện
+    - Điều 14. Trách nhiệm của BHXH Việt Nam
+  - Phụ lục 1. Mẫu biểu ban hành kèm theo Quyết định số 528/QĐ-BHXH
+  - Phụ lục 2. Mẫu biểu ban hành kèm theo Quyết định số 08/2015/QĐ-TTg
+
+--- VĂN BẢN LIÊN QUAN ---
+
+Van ban duoc huong dan:
+  - Quyết định 08/2015/QĐ-TTg thí điểm về giao dịch điện tử trong việc thực hiện thủ tục tham gia bảo hiểm xã ... (ID: 267971)
+
+Van ban duoc dan chieu:
+  - Quyết định 1018/QĐ-BHXH năm 2014 sửa đổi quyết định quy định quản lý thu, chi bảo hiểm xã hội, bảo hiểm y ... (ID: 253357)
+  - Luật việc làm 2013 (ID: 215628)
+  - Quyết định 1111/QĐ-BHXH năm 2011 về Quy định quản lý thu bảo hiểm xã hội, y tế; quản lý sổ bảo hiểm xã hội,... (ID: 131753)
+  - Thông tư liên tịch 03/2010/TTLT-BNV-BTC-BLĐTBXH hướng dẫn Nghị định 92/2009/NĐ-CP chức danh, số lượng, chế ... (ID: 106746)
+
+Van ban duoc can cu:
+  - Luật Bảo hiểm y tế sửa đổi 2014 (ID: 238506)
+  - Nghị định 05/2014/NĐ-CP quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bảo hiểm xã hội Việt Nam (ID: 219724)
+  - Luật bảo hiểm y tế 2008 (ID: 82196)
+  - Luật Bảo hiểm xã hội 2006 (ID: 12985)
+  - Luật Giao dịch điện tử 2005 (ID: 6922)
+
+Van ban sua doi bo sung:
+  - Quyết định 1559/QĐ-BHXH năm 2015 sửa đổi Quy định về giao dịch điện tử trong việc thực hiện thủ tục tham ... (ID: 299557)
+
+Van ban thay the:
+  - Quyết định 838/QĐ-BHXH năm 2017 Quy trình giao dịch điện tử trong lĩnh vực bảo hiểm xã hội, bảo hiểm y tế, ... (ID: 353750)
+
+Van ban lien quan cung noi dung:
+  - Quyết định 968/QĐ-UBND năm 2016 về giao chỉ tiêu phát triển đối tượng tham gia Bảo hiểm xã hội, Bảo hiểm y tế và Bảo hiểm thất nghiệp do tỉnh Lâm Đồng ban hành (ID: 311464)
+  - Công văn 2354/VPCP-KTTH năm 2016 báo cáo kết quả thực hiện Quyết định 08/2015/QĐ-TTg về thí điểm giao dịch điện tử trong việc thực hiện thủ tục tham gia bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp và đề nghị cấp sổ bảo hiểm xã hội, thẻ bảo hiểm y tế do Văn phòng Chính phủ ban hành (ID: 313274)
+  - Công văn 3526/LĐTBXH-BHXH năm 2015 về tham gia bảo hiểm xã hội bắt buộc đối với người học nghề, học việc do Bộ Lao động - Thương binh và Xã hội ban hành (ID: 288875)
+  - Công văn 3170/BHXH-BT năm 2015 về lập danh sách hộ gia đình tham gia Bảo hiểm y tế do Bảo hiểm xã hội Việt Nam ban hành (ID: 289651)
+  - Quyết định 592/QĐ-BHXH năm 2015 về Phần mềm Giao dịch Bảo hiểm xã hội điện tử phiên bản 1.0 do Tổng giám đốc Bảo hiểm xã hội Việt Nam ban hành (ID: 275427)
+  - Quyết định 508/QĐ-BHXH năm 2015 về Quy chế quản lý và sử dụng chữ ký số, chứng thư số chuyên dùng của Bảo hiểm xã hội Việt Nam (ID: 271413)
+  - Quyết định 269-QĐ/TW năm 2014 thực hiện giao dịch điện tử trong hoạt động của cơ quan đảng do Ban Chấp hành Trung ương ban hành (ID: 260525)
+  - Quyết định 730/QĐ-BTTTT năm 2014 giao Trung tâm Đo kiểm và Dịch vụ phát thanh, truyền hình thuộc Cục Phát thanh, Truyền hình và thông tin điện tử hợp tác với Công ty TNHH Đo kiểm AMI triển khai Dự án “Đo lường định lượng khán giả truyền hình” do Bộ trưởng Bộ Thông tin và Truyền thông ban hành (ID: 234832)

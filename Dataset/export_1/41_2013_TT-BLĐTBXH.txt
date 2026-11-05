@@ -1,0 +1,747 @@
+BỘ LAO ĐỘNG -
+ THƯƠNG BINH VÀ XÃ HỘI
+
+ -------
+
+CỘNG HÒA XÃ HỘI
+ CHỦ NGHĨA VIỆT NAM
+
+ Độc lập - Tự do - Hạnh phúc
+
+ ---------------
+
+Số:
+ 41/2013/TT-BLĐTBXH
+
+Hà Nội , ngày 30
+ tháng 12 năm 2013
+
+ 
+
+THÔNG TƯ
+
+BAN
+HÀNH QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ AN TOÀN LAO ĐỘNG ĐỐI VỚI CÔNG VIỆC HÀN HƠI
+
+Căn cứ Nghị định số 106/2012/NĐ-CP
+ngày 20/12/2012 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu
+tổ chức của Bộ Lao động - Thương binh và Xã hội;
+
+Căn cứ Nghị định số 127/2007/NĐ-CP
+ngày 01 tháng 8 năm 2007 của Chính phủ quy định chi tiết một số điều của Luật Tiêu chuẩn và Quy chuẩn kỹ thuật;
+
+Căn cứ Nghị định số 132/2008/NĐ-CP
+ngày 31 tháng 12 năm 2008 của Chính phủ quy định chi tiết thi hành một số điều
+của Luật Chất lượng sản phẩm, hàng hóa;
+
+Theo đề nghị của Cục trưởng Cục An toàn lao động;
+
+Bộ trưởng Bộ Lao động - Thương binh và Xã hội
+ban hành Quy chuẩn kỹ thuật quốc gia về an toàn lao động đối với công việc hàn
+hơi.
+
+Điều 1. Ban hành kèm theo Thông tư này Quy chuẩn kỹ thuật quốc gia về
+an toàn lao động đối với công việc hàn hơi.
+
+Ký hiệu: QCVN 17: 2013/BLĐTBXH.
+
+Điều 2. Quy chuẩn kỹ thuật quốc gia về an toàn lao động đối với công
+việc hàn hơi có hiệu lực từ ngày 25 tháng 6 năm 2014.
+
+Điều 3. Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Ủy ban
+nhân dân các tỉnh, thành phố trực thuộc Trung ương và các tổ chức, cá nhân có
+liên quan chịu trách nhiệm thi hành Thông tư này./.
+
+ 
+
+ 
+
+Nơi nhận:
+
+ - Thủ tướng, các Phó thủ tướng Chính phủ;
+
+ - Văn phòng Quốc hội;
+
+ - Văn phòng Chính phủ;
+
+ - Các Bộ, cơ quan ngang Bộ, cơ quan thuộc CP;
+
+ - Tòa án nhân dân tối cao;
+
+ - Viện kiểm sát nhân dân tối cao;
+
+ - UBND các tỉnh, thành phố trực thuộc TƯ;
+
+ - Sở LĐTBXH các tỉnh, thành phố trực thuộc TƯ;
+
+ - Cục kiểm tra VBQPPL - Bộ Tư pháp;
+
+ - Công báo;
+
+ - Website Bộ LĐTBXH;
+
+ - Lưu: VT, PC, Cục ATLĐ.
+
+KT. BỘ TRƯỞNG
+
+ THỨ TRƯỞNG
+
+ Bùi Hồng Lĩnh
+
+ 
+
+QCVN 17:2013/BLĐTBXH
+
+QUY
+CHUẨN KỸ THUẬT QUỐC GIA VỀ AN TOÀN LAO ĐỘNG ĐỐI VỚI CÔNG VIỆC HÀN HƠI
+
+National
+technical regulation on safe work for Oxy-fuel welding work
+
+Lời nói đầu
+
+QCVN 17: 2013/BLĐTBXH - Quy chuẩn kỹ thuật quốc gia
+về an toàn lao động đối với công việc hàn hơi do Cục An Toàn Lao Động biên soạn,
+Bộ Lao động - Thương binh và Xã hội ban hành theo Thông tư số
+41/2013/TT-BLĐTBXH ngày 30 tháng 12 năm 2013, sau khi có ý kiến thẩm
+định của Bộ Khoa học và Công nghệ.
+
+ 
+
+QUY CHUẨN KỸ THUẬT
+QUỐC GIA VỀ AN TOÀN LAO ĐỘNG ĐỐI VỚI CÔNG VIỆC HÀN HƠI
+
+National
+technical regulation on safe work for oxy-fuel welding work
+
+1. Quy định chung
+
+1.1. Phạm vi điều chỉnh
+
+Quy chuẩn kỹ thuật này quy định những yêu cầu chung
+về an toàn cho công việc hàn hơi. Đối với công việc hàn hơi trong các điều kiện
+đặc biệt (hàn hơi trong hầm mỏ, hàn hơi trong hầm tàu...), ngoài quy định này
+còn phải tuân theo các quy định khác có liên quan.
+
+1.2. Đối tượng áp dụng
+
+Quy chuẩn kỹ thuật này áp dụng với:
+
+1.2.1. Các tổ chức, cá nhân quản lý, sử dụng các
+thiết bị hàn hơi.
+
+1.2.2. Các cơ quan quản lý nhà nước và các tổ chức,
+cá nhân khác có liên quan.
+
+1.3. Giải thích từ ngữ
+
+Trong quy chuẩn sử dụng các thuật ngữ, định nghĩa
+sau:
+
+1.3.1. Hàn hơi (hay gọi là hàn khí) là phương pháp
+hàn sử dụng nhiệt của ngọn lửa sinh ra khi đốt cháy các khí cháy (C2H2,
+CH4, ...) hoặc H2 với Oxy để nung chảy kim loại.
+
+1.3.2. Thiết bị hàn hơi là những thiết bị và các phụ
+kiện kèm theo để phục vụ cho công việc hàn hơi, bao gồm: bình sinh khí
+acetylen, các chai chứa khí dùng trong công việc hàn hơi và các thiết bị hàn, cắt
+kim loại.
+
+1.3.3. Thiết bị hàn cắt kim loại bao gồm: van giảm
+áp, dây dẫn, mỏ cắt, mỏ hàn.
+
+Ngoài những thuật ngữ, định nghĩa nêu trên trong
+quy chuẩn còn sử dụng các thuật ngữ, định nghĩa trong các Tiêu chuẩn sau:
+
+- TCVN 4245:1996
+Yêu cầu kỹ thuật an toàn trong sản xuất, sử dụng oxi, axetylen.
+
+- TCVN 6304:1997
+Chai chứa khí đốt hóa lỏng - Yêu cầu an toàn trong bảo quản, xếp dỡ và vận chuyển.
+
+- TCVN 6713:2013
+Chai chứa khí - An toàn trong thao tác.
+
+2. Quy định về kỹ thuật
+
+2.1. Quy định chung
+
+2.1.1. Đối với việc sử dụng oxi, axetylen phải tuân
+thủ TCVN 4245:1996 Yêu cầu kỹ thuật an toàn
+trong sản xuất, sử dụng oxi, axetylen.
+
+2.1.2. An toàn trong thao tác chai chứa khí phải
+tuân thủ TCVN 6713:2013 Chai chứa khí - An
+toàn trong thao tác.
+
+2.1.3. Trong bảo quản, xếp dỡ và vận chuyển phải
+tuân thủ TCVN 6304:1997 Chai chứa khí đốt hóa
+lỏng - Yêu cầu an toàn trong bảo quản, xếp dỡ và vận chuyển.
+
+2.2. Quy định cụ thể
+
+2.2.1. Yêu cầu chung
+
+2.2.1.1. Việc chọn quy trình công nghệ hàn hơi
+ngoài việc phải đảm bảo an toàn cháy, nổ còn phải tính đến khả năng phát sinh
+các yếu tố nguy hiểm và có hại khác (khả năng bị chấn thương cơ khí, bụi và hơi
+khí độc, bức xạ nhiệt, đổ chai …), đồng thời phải có các biện pháp an toàn và vệ
+sinh lao động để loại trừ chúng.
+
+2.2.1.2. Công việc hàn hơi có thể tổ chức cố định
+trong các nhà xưởng, ở ngoài trời hoặc tổ chức tạm thời ngay trong những công
+trình xây dựng, sửa chữa.
+
+2.2.1.3. Khi tiến hành công việc hàn hơi tại những
+nơi có nguy cơ cháy, nổ phải tuân theo các quy định an toàn phòng chống cháy, nổ.
+
+2.2.1.4. Khi tiến hành công việc hàn hơi trong các
+hầm, buồng, thùng, khoang bể kín phải đặt thiết bị axetylen, chai chứa axetylen
+và chai oxy ở bên ngoài; cử người nắm vững kỹ thuật an toàn giám sát và phải có
+biện pháp an toàn cụ thể, phòng chống cháy, nổ, ngộ độc và được người có trách
+nhiệm duyệt, cho phép. Thợ hàn phải đeo găng tay và sử dụng dây an toàn, dây an
+toàn được nối tới chỗ người giám sát.
+
+- Phải thực hiện thông gió, với tốc độ gió từ 0,3 đến
+1,5 m/s.
+
+- Phải kiểm tra đảm bảo trong hầm, thùng, khoang bể
+kín không có hơi khí độc, hơi khí cháy nổ mới cho người tiến hành công việc hàn
+hơi.
+
+2.2.1.5. Cấm hàn hơi ở các hầm, thùng, khoang, bể
+kín đang có áp suất hoặc đang chứa chất dễ cháy, nổ.
+
+2.2.1.6. Sử dụng khí
+
+2.2.1.6.1. Khi nối van chai chứa khí không khít thì
+không được dùng lực cưỡng bức. Ren của đầu nối bộ điều chỉnh nối hoặc các dụng
+cụ phụ phải phù hợp với đầu ra của van chai chứa khí.
+
+2.2.1.6.2. Van chai chứa
+
+- Van chai phải luôn luôn đóng (đầy hoặc hết) trừ
+khi chai chứa đang được sử dụng.
+
+- Đầu ra của van không được hướng vào người khi
+đang mở.
+
+- Phải đóng van khi ngừng sử dụng.
+
+- Phải mở van chai từ từ.
+
+- Van chai không có tay vặn phải có chìa vặn (chìa
+khóa) kèm theo và chỉ được dùng chúng để mở, chìa vặn (chìa khóa) phải để lại
+trên van trong lúc chai đang sử dụng.
+
+- Đối với van có tay vặn không được dùng cờ lê, mỏ
+lết, búa hoặc dùng các dụng cụ khác để mở hoặc đóng van.
+
+- Không được dùng lực mạnh để vặn van chai chứa.
+
+- Liên hệ với nhà cung cấp khí nếu việc vận hành
+van gặp khó khăn. Không được tra dầu mỡ van chai.
+
+- Van vận hành tự động phải được vận hành phù hợp với
+các chú dẫn.
+
+- Không được sửa chữa van áp suất dư, đặc biệt là hộp
+kín, để tránh chai chứa khí hoàn toàn không còn khí.
+
+2.2.1.6.3. Không được làm giảm áp suất dư trong
+chai chứa thấp hơn áp suất làm việc của hệ thống hoặc thấp hơn áp suất dư nhỏ
+nhất để ngăn dòng ngược của không khí hoặc các tạp chất khác thâm nhập vào
+trong chai. Van chai phải khóa để giữ áp suất dư trong chai nhỏ nhất trong khoảng
+từ 0,5 bar đến 2 bar.
+
+2.2.1.6.4. Trước khi tháo bộ điều chỉnh áp suất khỏi
+chai chứa, phải khóa van chai và bộ điều chỉnh phải xả hết áp suất khí.
+
+2.2.1.6.5. Bộ điều chỉnh, áp kế, ống mềm và các dụng
+cụ khác được cung cấp để dùng cho mỗi loại khí, không được sử dụng với chai chứa
+các khí khác.
+
+2.2.1.6.6. Chỉ được sử dụng chai chứa khí ở vùng được
+thông gió.
+
+2.2.2. Yêu cầu đối với các chai chứa khí trong
+công việc hàn hơi (bao gồm các chai axetylen, oxy, LPG):
+
+2.2.2.1. Bình sinh khí di động không được đặt ở những
+vị trí sau:
+
+- Dưới hầm sâu nếu không khí lưu thông khó khăn.
+
+- Ở nơi công cộng như nhà hát, rạp chiếu bóng
+v.v....
+
+- Ở tầng dưới mà phía trên có người ở hoặc làm việc.
+
+- Ở gần lò rèn, lò đúc, bếp đun, giàn đặt nồi hơi
+và gần các nguồn lửa.
+
+- Ở nơi có khí cháy nổ.
+
+2.2.2.2. Cấm đặt bình sinh khí axetylen di động
+đang hoạt động trên các phương tiện vận tải đang di chuyển.
+
+2.2.2.3. Cho phép đặt bình sinh khí axetylen di động
+và chai oxy trên cùng một xe kéo để di chuyển ở cự ly gần với điều kiện sau:
+
+- Bình sinh khí và chai oxy phải được chằng giữ chắc
+chắn và giữa chúng phải có đệm lót;
+
+- Dây dẫn khí, mỏ hàn, mỏ cắt phải để ở chỗ riêng
+biệt trên xe.
+
+2.2.2.4. Khi chuyên chở bình sinh khí đi xa phải xả
+hết khí axetylen (áp suất theo bảng), bã canxi hydroxit và canxi cacbua ra
+ngoài.
+
+2.2.2.5. Phải loại bỏ chai axetylen khi không còn
+khả năng nạp axeton và khi chất xốp trong chai đã bị biến chất.
+
+2.2.2.6. Chỉ được phép tiến hành sửa chữa bình sinh
+khí axetylen di động sau khi đã thực hiện các biện pháp khử khí axetylen trong
+bình sinh khí.
+
+2.2.3. Yêu cầu an toàn trong sửa chữa thiết bị
+hàn cắt kim loại
+
+2.2.3.1. Chỉ những người đã được đào tạo và có chứng
+chỉ mới được phép sửa chữa các thiết bị dùng cho oxy, axetylen, LPG.
+
+2.2.3.2. Việc tháo lắp, sửa chữa thiết bị hàn cắt
+dùng cho oxy, axetylen, LPG phải thực hiện trên các bàn riêng biệt. Bàn đặt thiết
+bị ô xy không được dính dầu mỡ.
+
+2.2.3.3. Các chi tiết, bộ phận sau khi sửa chữa phải
+được tẩy sạch dầu mỡ, rửa bằng nước nóng và sấy khô.
+
+2.2.3.4. Mỏ hàn, mỏ cắt sau khi sửa chữa phải được
+thử nghiệm, đạt yêu cầu mới được phép đưa vào sử dụng.
+
+2.2.3.5. Trong quá trình làm việc, nếu có hiện tượng
+rò khí phải ngừng công việc để sửa chữa.
+
+2.2.4. Yêu cầu an toàn đối với nơi sản xuất, bố
+trí thiết bị và tổ chức công việc hàn hơi.
+
+2.2.4.1. Nhà xưởng
+
+- Diện tích chỗ làm việc ít nhất là 4 m2
+cho một thợ hàn (không kể diện tích đặt thiết bị, đường đi lại).
+
+- Chiều rộng lối đi lại nhỏ nhất 1m.
+
+- Chiều cao từ sàn đến điểm thấp nhất của mái ít nhất
+là 3,25m.
+
+- Các gian phải làm bằng vật liệu khó cháy hoặc
+không cháy với cấp chịu lửa thấp nhất là cấp II.
+
+- Sàn phải làm bằng vật liệu không cháy, có độ dẫn
+nhiệt kém, dễ cọ rửa.
+
+- Chiếu sáng tự nhiên và chiếu sáng nhân tạo phải
+phù hợp với quy định về chiếu sáng chỗ làm việc.
+
+- Thông thoáng.
+
+2.2.4.2. Khu vực tổ chức hàn cắt
+
+- Tất cả các công việc hàn cắt kim loại bằng ngọn lửa
+phải cách xa chỗ đặt bình sinh khí axetylen di động ít nhất 10 m; cách ống dẫn
+khí ít nhất 1,5 m; cách điểm trích khí ít nhất 3m.
+
+- Ở những phân xưởng thường xuyên tiến hành lắp ráp
+và hàn các kết cấu kim loại lớn cần được trang bị giá lắp ráp và thiết bị nâng
+chuyển.
+
+2.2.4.3. Kho chứa chai
+
+2.2.4.3.1. Các chai chứa khí cháy phải được bảo quản
+trong các kho ngoài trời hoặc trong nhà theo thiết kế đã được cơ quan có thẩm
+quyền phê duyệt.
+
+2.2.4.3.2. Không được tồn chứa chai chứa khí cháy
+trong các tòa nhà siêu thị, rạp chiếu bóng, câu lạc bộ, khách sạn, hội trường.
+
+2.2.4.3.3. Nơi bảo quản chai chứa khí cháy phải đảm
+bảo thông thoáng, không được bảo quản ở những nơi thấp hơn mặt bằng xung quanh,
+trong hầm chứa, trong tầng ngầm.
+
+2.2.4.3.4. Phải kiểm tra các chai chứa khí còn hạn
+sử dụng mới được thực hiện việc hàn cắt.
+
+- Không được dùng hết khí trong chai, đối với oxy,
+áp suất khí còn lại trong chai phải đảm bảo nhỏ nhất là 0,5 at. Riêng đối với
+các chai axetylen áp suất khí còn lại trong chai không được nhỏ hơn các trị số
+ghi trong bảng dưới đây:
+
+Nhiệt độ oC
+
+< 0
+
+Từ 0 đến 15
+
+Trên 15 đến 25
+
+Trên 25 đến 35
+
+Áp suất dư tối
+ thiểu, at
+
+0,5
+
+1,0
+
+2,0
+
+3,0
+
+- Không được phép dùng xơ đay, sợi bông để làm đệm
+chèn các van chai oxy.
+
+2.2.4.3.5. Trước khi tiến hành công việc hàn cắt phải:
+
+- Thu dọn gọn gàng chỗ làm việc.
+
+- Kiểm tra độ kín của các mối liên kết trên thiết bị
+hàn, cắt, ống dẫn, dây dẫn khí.
+
+- Kiểm tra tình trạng của bình sinh khí, van giảm
+áp, ống dẫn khí, các van đóng ngắt, bình dập lửa.
+
+2.2.4.3.6. Khi tiến hành hàn cắt trên cao phải thực
+hiện đầy đủ các quy định hiện hành.
+
+2.2.4.3.7. Khi hàn cắt các thiết bị điện phải có biện
+pháp phòng ngừa khả năng đóng điện bất ngờ vào thiết bị.
+
+2.2.4.3.8. Không được phép tiến hành hàn cắt trên
+các thiết bị, đường ống đang có áp suất.
+
+2.2.4.3.9. Khi hàn cắt kim loại dưới nước phải thực
+hiện đầy đủ các biện pháp an toàn quy định trong các tiêu chuẩn, quy chuẩn kỹ
+thuật liên quan.
+
+2.2.5. Thiết bị hàn cắt kim loại (van giảm áp,
+dây dẫn, mỏ cắt, mỏ hàn)
+
+2.2.5.1. Trước khi lắp van giảm áp vào chai phải kiểm
+tra tình trạng ren của đai ốc lồng và ống cụt. Không được phép sử dụng các bộ
+giảm áp bị hư hỏng. Khi van chai bị hư hỏng không được tự ý sửa chữa mà phải trả
+lại cho nơi nạp.
+
+2.2.5.2. Khi lắp van giảm áp vào chai phải dùng
+chìa vặn chuyên dùng. Không được xiết đai ốc lồng khi van chai đang ở trạng
+thái mở.
+
+2.2.5.3. Không được đấu chạc phân nhánh vào ống dẫn
+khí để cấp cho nhiều mỏ hàn.
+
+2.2.5.4. Ống dẫn mềm không được dài quá 20 m (tính
+từ bầu dập lửa tới mỏ hàn). Trong trường hợp khác phải được sự đồng ý của người
+có trách nhiệm.
+
+2.2.5.5. Ống dẫn khí phải sử dụng đúng cho từng loại
+khí, không được dùng lẫn lộn.
+
+2.2.5.6. Không được để chai chứa khí, ống dẫn khí
+tiếp xúc với dây dẫn điện và các bộ phận dẫn điện. Không được để các nguồn nhiệt,
+vật nặng tác động lên ống dẫn.
+
+2.2.5.7. Không được sử dụng ống dẫn khí bị hư hỏng.
+Khi phải nối ống, chiều dài đoạn ống nối không được nhỏ hơn 3m, trên một ống dẫn
+không được quá hai mối nối.
+
+2.2.6. Yêu cầu về nguyên liệu, phôi, bảo quản và
+vận chuyển.
+
+2.2.6.1. Bề mặt của phôi và chi tiết khi đưa vào
+hàn cắt phải được khử sạch sơn, dầu mỡ, gỉ và bụi bẩn. Các cạnh, mép của phôi,
+chi tiết trước khi hàn phải làm sạch ba via.
+
+2.2.6.2. Khi khử dầu mỡ trên bề mặt của vật hàn phải
+dùng những chất không gây cháy nổ và không độc hại.
+
+2.2.6.3. Việc bảo quản, vận chuyển, chất xếp phôi
+hàn, vật liệu hàn và các thành phẩm không được làm ảnh hưởng đến vấn đề an toàn
+vận hành thiết bị, không gây trở ngại cho việc chiếu sáng tự nhiên, thông gió,
+đường vận chuyển, lối đi, cản trở việc sử dụng các thiết bị phòng chống cháy, nổ
+và các phương tiện bảo vệ cá nhân.
+
+3. Điều kiện đảm bảo an toàn
+các thiết bị hàn hơi trong quá trình sử dụng
+
+3.1. Chỉ sử dụng những thiết bị hàn hơi đã được chứng
+nhận hợp quy và ghi nhãn theo quy định hiện hành.
+
+3.2. Các thiết bị hàn hơi phải được vận chuyển, lưu
+giữ, bảo quản, bảo dưỡng theo hướng dẫn của nhà sản xuất và các quy định hiện
+hành.
+
+3.3. Việc đảm bảo an toàn các thiết bị hàn hơi phải
+tuân thủ các quy định tại mục 2 (quy định về kỹ thuật) của Quy chuẩn này.
+
+3.4. Ngoài ra phải tuân theo những quy định cụ thể
+sau:
+
+3.4.1. Người sử dụng có trách nhiệm sử dụng an toàn
+chai và khí chứa trong chai (oxy, axetylen, PLG), trả lại cho người sản xuất
+khí hoặc người cung cấp các chai trong trạng thái an toàn như khi nhận chai.
+Người sử dụng phải thực hiện các biện pháp phòng ngừa dưới đây liên quan đến
+các chai chứa và các phụ kiện của chúng.
+
+3.4.2. Chỉ những người được đào tạo do người chủ sở
+hữu chai ủy quyền và được cơ quan nhà nước có thẩm quyền cho phép mới được bảo
+dưỡng chai và các phụ kiện của chúng.
+
+3.4.3. Người sử dụng không được tháo hoặc thay đổi
+nhãn ghi trên chai. Chỉ người chủ sở hữu chai mới được tháo hoặc thay đổi nhãn
+ghi trên chai.
+
+3.4.4. Người sử dụng không được xóa hoặc tháo các dấu
+hiệu của người sản xuất chai để nhận biết khí chứa trong chai; không được sơn lại
+chai chứa; không được bổ sung nhãn hoặc dấu hiệu. Người sử dụng chỉ được sử dụng
+dấu hiệu của chai để nhận biết khí chứa trong chai.
+
+3.4.5. Người sử dụng không được sửa đổi, thay đổi,
+cản trở, tháo ra hoặc sửa chữa bất kỳ bộ phận nào của chai, kể cả cơ cấu giảm
+áp và van chai, các phụ kiện khác hoặc vòng kiểm tra lại, nếu có.
+
+3.4.6. Khi xảy ra hoặc nghi là xảy ra sự nhiễm bẩn
+chai chứa khí do các tạp chất hoặc chất lỏng bên ngoài lọt vào chai chứa qua
+van, người sử dụng phải phân biệt và đánh dấu một cách rõ ràng vào chai và phải
+thông báo cho người cung cấp khí chi tiết về sự nhiễm bẩn.
+
+3.4.7. Không được sử dụng chai chứa làm vật lăn, vật
+đỡ hoặc các mục đích khác so với việc cung cấp khí chứa.
+
+3.4.8. Chai chứa khí không được để ở nơi mà nó có
+thể trở thành một phần của mạch điện.
+
+Khi sử dụng phối hợp chai chứa với việc hàn điện,
+nghiêm cấm nối đất hoặc được sử dụng để nối đất. Phải ngăn cách chai khỏi bị
+tia lửa hồ quang.
+
+3.4.9. Không được để chai chứa ở nơi nhiệt độ trên
+65oC. Không được để ngọn lửa hoặc nguồn nhiệt tác động trực tiếp vào
+bất cứ bộ phận nào của chai hoặc để nó tiếp xúc với bất kỳ hệ thống năng lượng
+điện nào. Nếu băng hoặc tuyết đọng trên chai hoặc các phụ kiện liên quan, phải
+làm tan chúng ở nhiệt độ phòng hoặc bằng nước nóng với nhiệt độ không quá 50oC
+với sự cho phép của người cung cấp.
+
+Nếu người cung cấp không đồng ý, chai chứa không được
+sử dụng ở nhiệt độ nhân tạo quá thấp. Chai chứa được thiết kế để sử dụng ở điều
+kiện nhiệt độ thông thường từ -20oC đến 50oC.
+
+3.4.10. Không được sử dụng chai đã bị phát hiện rò
+rỉ khí. Đưa chai ra ngoài trời ở vùng thông gió tốt và báo cho người cung cấp
+biết để xử lý.
+
+3.4.11. Không được xả khí từ chai chứa khí trực tiếp
+hướng vào người, cũng như vào không khí. Người sử dụng phải trả lại các chai chứa
+các khí đó cho người sản xuất hoặc người phân phối để xử lý thích đáng.
+
+3.4.12. Van chai thường được bảo vệ bằng mũ hoặc cơ
+cấu bao che, chắn. Người sử dụng phải giữ mũ trên chai trong suốt thời gian sử
+dụng trừ khi chai được nối với thiết bị phân phối. Đậy mũ lại trước khi trả
+chai cho người chế tạo. Người sử dụng không được tháo cơ cấu bao che, chắn van.
+
+3.4.13. Khi di chuyển chai chứa khí:
+
+- Người sử dụng không được lăn hay kéo lê chai ở tư
+thế nằm ngang khi vận chuyển chúng.
+
+- Sử dụng xe đẩy, xe nâng có càng hoặc các thiết bị
+xếp dỡ vật liệu đơn giản phù hợp đối với các chai.
+
+- Khi xếp các chai để di chuyển, chai phải được giữ
+chắc chắn bằng các cơ cấu, đặc biệt đối với các chai nặng hoặc chai lớn.
+Phải sử dụng các tấm chắn để chống rơi hoặc chống sự va chạm mạnh giữa các chai
+hoặc các chai với các bề mặt khác.
+
+- Không được sử dụng cơ cấu bảo vệ van hoặc nam
+châm để nâng chai có dung tích nước lớn hơn 12 lít.
+
+- Không được dùng dây chão, dây xích để treo chai
+trừ khi người chế tạo đã lắp đặt để nâng hạ thích hợp như là vấu lồi. Có thể sử
+dụng giàn bệ hoặc palet thích hợp dùng cho chai để nâng hạ chúng.
+
+- Người thao tác với chai phải đi giày, đeo bao
+tay.
+
+4. Yêu cầu đối với thợ hàn hơi
+
+4.1. Chỉ những người đã qua đào tạo về công việc
+hàn hơi, được huấn luyện về an toàn lao động và được cấp chứng chỉ huấn luyện
+an toàn lao động mới được phép thực hiện công việc hàn hơi. Việc huấn luyện định
+kỳ về an toàn lao động, vệ sinh lao động cho thợ hàn hơi phải được tiến hành ít
+nhất 1 lần trong 6 tháng.
+
+4.2. Chỉ những người từ 18 tuổi trở lên, có đủ sức
+khỏe, đã được đào tạo về chuyên môn, kỹ thuật an toàn mới được phép tiến hành
+công việc hàn cắt dưới nước.
+
+4.3. Cấm nữ công nhân tiến hành công việc hàn hơi
+trong các hầm, thùng, khoang, bể kín.
+
+4.4. Thợ hàn cắt không được tự ý sửa chữa thiết bị
+hàn, mỏ hàn, mỏ cắt, ....
+
+4.5. Khi kết thúc công việc phải đóng tất cả các
+van chai; nới vít nén ở bộ phận giảm áp, xả hết khí thừa ra khỏi ống dẫn.
+
+4.6. Không được sử dụng khí oxy để thổi bụi trên quần
+áo, thiết bị cũng như dùng để thông thoáng không khí vùng làm việc.
+
+4.7. Thợ hàn cắt không được phép tháo lắp van chai.
+
+4.8. Khi lắp van giảm áp vào chai phải dùng chìa vặn
+chuyên dùng. Không được xiết đai ốc lồng khi van chai đang ở trạng thái mở.
+
+5. Về phương tiện bảo vệ cá
+nhân
+
+5.1. Thợ hàn hơi phải được trang bị phương tiện bảo
+vệ cá nhân, kính hàn, tạp dề, giầy, găng tay và các loại phương tiện bảo vệ
+khác theo quy định.
+
+5.2. Trang bị phương tiện bảo vệ cá nhân dùng cho
+thợ hàn phải đảm bảo chống tia lửa, chống lại được tác động cơ học, bụi kim loại
+nóng và những bức xạ có hại.
+
+5.3. Khi hàn trong môi trường làm việc có hóa chất
+(a xít, kiềm, sản phẩm dầu mỡ..), trường điện từ, cũng như khi hàn các chi tiết
+đã được đốt nóng sơ bộ, thợ hàn phải được trang bị quần áo bảo hộ lao động bằng
+vật liệu đảm bảo chống những tác động đó.
+
+5.4. Khi hàn cắt trong điều kiện có nhiều nguy cơ xảy
+ra tai nạn điện (hàn trong các hầm, thùng, khoang, bể kín, những nơi ẩm ướt...),
+ngoài quần áo bảo hộ lao động, thợ hàn còn phải được trang bị găng tay, giầy
+cách điện; ở vị trí hàn cắt phải có thảm hoặc bục cách điện.
+
+5.5. Găng tay của thợ hàn phải làm bằng vật liệu
+khó cháy, và chịu được các tác động cơ học.
+
+5.6. Giầy của thợ hàn phải làm bằng vật liệu khó
+cháy, cách điện và chịu được các tác động cơ học.
+
+5.7. Mũ dùng cho thợ hàn cắt phải làm bằng vật liệu
+khó cháy, cách điện. Trong điều kiện làm việc có nguy cơ gây chấn thương cơ học,
+phải trang bị mũ chịu được tác động cơ học cho công nhân.
+
+5.8. Khi hàn cắt ở môi trường có phát sinh hơi, khí
+độc hại mà không có thiết bị hút cục bộ, thợ hàn phải sử dụng các trang bị bảo
+vệ cơ quan hô hấp phù hợp.
+
+6. Kiểm định kỹ thuật an toàn
+các thiết bị hàn hơi
+
+6.1. Bình sinh khí axetylen và các chai chứa khí
+dùng cho công việc hàn hơi trước khi đưa vào sử dụng phải được kiểm định lần đầu,
+kiểm định định kỳ trong quá trình sử dụng và kiểm định bất thường theo quy
+trình kiểm định do Bộ Lao động - Thương binh và Xã hội đã ban hành.
+
+Việc kiểm định kỹ thuật an toàn các thiết bị hàn
+hơi do các tổ chức đánh giá sự phù hợp đã được Cục An toàn lao động, Bộ Lao động
+- Thương binh và Xã hội chỉ định.
+
+6.2. Việc kiểm tra an toàn các thiết bị hàn cắt kim
+loại được thực hiện thường xuyên, do đơn vị sử dụng các thiết bị này thực hiện.
+
+6.3. Chu kỳ kiểm định:
+
+- Đối với bình sinh khí axetylen là 03 năm.
+
+- Đối với các chai chứa khí là 05 năm.
+
+Chu kỳ kiểm định trên có thể được rút ngắn nhưng phải
+nêu rõ lý do trong biên bản kiểm định.
+
+7. Thanh tra, kiểm tra và xử lý
+vi phạm
+
+7.1. Việc thanh tra và xử lý vi phạm các quy định của
+quy chuẩn này do thanh tra nhà nước về lao động thực hiện.
+
+7.2. Việc kiểm tra chất lượng các thiết bị hàn hơi
+được thực hiện theo Luật Chất lượng sản phẩm,
+hàng hóa.
+
+8. Trách nhiệm của các tổ chức,
+cá nhân
+
+8.1. Các tổ chức, cá nhân làm nhiệm vụ sản xuất, nhập
+khẩu, lưu thông và sử dụng các thiết bị hàn hơi có trách nhiệm tuân thủ các quy
+định tại quy chuẩn này.
+
+8.2. Quy chuẩn này là căn cứ để các cơ quan kiểm
+tra chất lượng các thiết bị hàn hơi tiến hành việc kiểm tra và cũng là căn cứ để
+các tổ chức chứng nhận tiến hành chứng nhận hợp quy.
+
+9. Tổ chức thực hiện
+
+9.1. Cục an toàn lao động, Bộ Lao động - Thương
+binh và Xã hội có trách nhiệm hướng dẫn và kiểm tra việc thực hiện quy chuẩn kỹ
+thuật này.
+
+9.2. Các cơ quan quản lý nhà nước về lao động địa
+phương có trách nhiệm hướng dẫn, thanh tra, kiểm tra việc thực hiện các quy định
+của quy chuẩn kỹ thuật này.
+
+9.3. Trong quá trình thực hiện, nếu có vướng mắc,
+các cơ quan, tổ chức, cá nhân có liên quan có trách nhiệm kịp thời phản ánh với
+Bộ Lao động - Thương binh và Xã hội để xem xét giải quyết./.--- THÔNG TIN THÊM ---
+Ten: Thông tư 41/2013/TT-BLĐTBXH về Quy chuẩn kỹ thuật quốc gia an toàn lao động đối với công việc hàn hơi do Bộ trưởng Bộ Lao động - Thương binh và Xã hội ban hành
+So hieu: 41/2013/TT-BLĐTBXH
+Loai van ban: Thông tư
+Linh vuc nganh: Lao động - Tiền lương
+Noi ban hanh: Bộ Lao động - Thương binh và Xã hội
+Nguoi ky: Bùi Hồng Lĩnh
+Ngay ban hanh: 30/12/2013
+Ngay hieu luc: 25/06/2014
+Ngay dang: 16/03/2014
+So cong bao: Từ số 325 đến số 326
+Tinh trang: Còn hiệu lực
+
+
+--- MỤC LỤC ---
+- THÔNG TƯ BAN HÀNH QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ AN TOÀN LAO ĐỘNG ĐỐI VỚI CÔNG VIỆC HÀN HƠI
+  - Điều 1. Ban hành kèm theo Thông tư này Quy chuẩn kỹ thuật quốc gia về an toàn lao động đối với công việc hàn hơi.
+  - Điều 2. Quy chuẩn kỹ thuật quốc gia về an toàn lao động đối với công việc hàn hơi có hiệu lực từ ngày 25 tháng 6 năm 2014.
+  - Điều 3. Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này./.
+- QCVN 17:2013/BLĐTBXH QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ AN TOÀN LAO ĐỘNG ĐỐI VỚI CÔNG VIỆC HÀN HƠI
+  - 1. Quy định chung
+  - 2. Quy định về kỹ thuật
+  - 3. Điều kiện đảm bảo an toàn các thiết bị hàn hơi trong quá trình sử dụng
+  - 4. Yêu cầu đối với thợ hàn hơi
+  - 5. Về phương tiện bảo vệ cá nhân
+  - 6. Kiểm định kỹ thuật an toàn các thiết bị hàn hơi
+  - 7. Thanh tra, kiểm tra và xử lý vi phạm
+  - 8. Trách nhiệm của các tổ chức, cá nhân
+  - 9. Tổ chức thực hiện
+
+--- VĂN BẢN LIÊN QUAN ---
+
+Van ban duoc dan chieu:
+  - Luật chất lượng sản phẩm, hàng hóa 2007 (ID: 59776)
+
+Van ban duoc can cu:
+  - Nghị định 106/2012/NĐ-CP quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Lao động - Thương... (ID: 154043)
+  - Nghị định 132/2008/NĐ-CP Hướng dẫn Luật Chất lượng sản phẩm, hàng hóa (ID: 83467)
+  - Nghị định 127/2007/NĐ-CP Hướng dẫn Luật Tiêu chuẩn và Quy chuẩn kỹ thuật (ID: 54148)
+
+Van ban lien quan ngon ngu:
+  - Circular No. 41/2013/TT-BLDTBXH dated December 30, 2013 on National Technical Regulations on safe work for ... (ID: 483818)
+
+Van ban lien quan cung noi dung:
+  - Thông tư 40/2013/TT-BLĐTBXH về Quy chuẩn kỹ thuật quốc gia an toàn lao động đối với máy vận thăng do Bộ trưởng Bộ Lao động - Thương binh và Xã hội ban hành (ID: 219172)
+  - Thông tư 39/2013/TT-BLĐTBXH Quy chuẩn kỹ thuật quốc gia an toàn lao động đối với giày hoặc ủng cách điện do Bộ trưởng Bộ Lao động - Thương binh và Xã hội ban hành (ID: 219173)
+  - Thông tư 38/2013/TT-BLĐTBXH về Quy chuẩn kỹ thuật quốc gia an toàn lao động đối với ống cách điện có chứa bọt và sào cách điện dạng đặc dùng để làm việc khi có điện do Bộ trưởng Bộ Lao động - Thương binh và Xã hội ban hành (ID: 219175)
+  - Thông tư 36/2013/TT-BLĐTBXH về Quy chuẩn kỹ thuật quốc gia an toàn lao động đối với sàn thao tác treo do Bộ trưởng Bộ Lao động - Thương binh và Xã hội ban hành (ID: 219177)
+  - Thông tư 06/2013/TT-BGTVT Quy chuẩn kỹ thuật quốc gia về các quy phạm liên quan tàu biển do Bộ trưởng Bộ Giao thông vận tải ban hành (ID: 193942)
+  - Thông tư 12/2013/TT-BNNPTNT về Quy chuẩn kỹ thuật Quốc gia về Kho chứa thóc và Cơ sở xay, xát thóc gạo do Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn ban hành (ID: 173973)
+  - Thông tư 24/2012/TT-BTNMT về Quy chuẩn kỹ thuật quốc gia về sử dụng mẫu chuẩn được chứng nhận trong phân tích mẫu địa chất, khoáng sản rắn do Bộ trưởng Bộ Tài nguyên và Môi trường ban hành (ID: 165231)

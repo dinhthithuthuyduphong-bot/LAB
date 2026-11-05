@@ -1,0 +1,303 @@
+BỘ THÔNG
+ TIN VÀ
+
+ TRUYỀN THÔNG
+
+ -------
+
+CỘNG HÒA XÃ
+ HỘI CHỦ NGHĨA VIỆT NAM
+
+ Độc lập - Tự do - Hạnh phúc 
+
+ ---------------
+
+Số:
+ 129/QĐ-BTTTT
+
+Hà Nội,
+ ngày 03 tháng 02 năm 2021
+
+ 
+
+QUYẾT ĐỊNH
+
+BAN HÀNH HƯỚNG
+DẪN XÁC ĐỊNH ĐƠN GIÁ NHÂN CÔNG TRONG QUẢN LÝ CHI PHÍ ĐẦU TƯ ỨNG DỤNG CÔNG NGHỆ
+THÔNG TIN SỬ DỤNG NGUỒN VỐN NGÂN SÁCH NHÀ NƯỚC
+
+BỘ TRƯỞNG BỘ
+THÔNG TIN VÀ TRUYỀN THÔNG
+
+Căn cứ Luật Công nghệ thông tin ngày
+29 tháng 6 năm 2006;
+
+Căn cứ Nghị định số 17/2017/NĐ-CP ngày
+17 tháng 02 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và
+cơ cấu tổ chức của Bộ Thông tin và Truyền thông;
+
+Căn cứ Nghị định số 73/2019/NĐ-CP ngày
+05 tháng 9 năm 2019 của Chính phủ quy định quản lý đầu tư ứng dụng công nghệ
+thông tin sử dụng nguồn vốn ngân sách nhà nước;
+
+Theo đề nghị của Cục trưởng Cục Tin học
+hóa.
+
+QUYẾT ĐỊNH:
+
+Điều 1. Ban hành kèm theo Quyết định này Hướng dẫn xác định đơn giá
+nhân công trong quản lý chi phí đầu tư ứng dụng công nghệ thông tin sử dụng nguồn
+vốn ngân sách nhà nước.
+
+Điều 2. Quyết định này có hiệu
+lực thi hành từ ngày ký.
+
+Điều 3. Chánh Văn phòng, Cục
+trưởng Cục Tin học hóa và Thủ trưởng các đơn vị và các cơ quan, tổ chức có liên
+quan có trách nhiệm thi hành Quyết định này.
+
+ 
+
+ 
+
+Nơi nhận:
+
+-
+ Như Điều 3;
+
+ - Bộ trưởng (để b/c);
+
+ - Các Thứ trưởng;
+
+ - Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ;
+
+ - UBND các tỉnh, thành phố trực thuộc Trung ương;
+
+ - Đơn vị chuyên trách về CNTT của các Bộ, cơ quan ngang Bộ, cơ quan thuộc
+ Chính phủ;
+
+ - Sở TTTT các tỉnh, thành phố trực thuộc Trung ương;
+
+ - Bộ TTTT: Các đơn vị thuộc, trực thuộc Bộ; Cổng Thông tin điện tử;
+
+ - Lưu: VT, THH.
+
+KT. BỘ TRƯỞNG
+
+ THỨ TRƯỞNG
+
+ Nguyễn Huy Dũng
+
+ 
+
+HƯỚNG DẪN
+
+XÁC ĐỊNH ĐƠN
+GIÁ NHÂN CÔNG TRONG QUẢN LÝ CHI PHÍ ĐẦU TƯ ỨNG DỤNG CÔNG NGHỆ THÔNG TIN SỬ DỤNG
+NGUỒN VỐN NGÂN SÁCH NHÀ NƯỚC
+
+(Ban hành kèm theo Quyết định số: 129/QĐ-BTTTT ngày 03 tháng 02 năm 2021 của
+Bộ trưởng Bộ Thông tin và Truyền thông)
+
+I. HƯỚNG DẪN CHUNG
+
+1. Văn bản này hướng dẫn
+xác định đơn giá nhân công công nghệ thông tin trực tiếp trong quản lý chi phí
+đầu tư ứng dụng công nghệ thông tin sử dụng nguồn vốn ngân sách nhà nước (gọi tắt
+là Hướng dẫn). Căn cứ điều kiện cụ thể của dự án, hoạt động ứng dụng công nghệ
+thông tin, chủ đầu tư xem xét quyết định việc áp dụng, vận dụng Hướng dẫn này để
+xác định đơn giá nhân công công nghệ thông tin.
+
+2. Việc xác định đơn
+giá nhân công tại Hướng dẫn này theo các nguyên tắc sau:
+
+a) Phù hợp với cấp bậc nhân công trong
+hoạt động lập, quản lý chi phí đầu tư ứng dụng công nghệ thông tin;
+
+b) Phù hợp với đặc điểm, tính chất đặc
+thù công việc của nhân công ứng dụng công nghệ thông tin.
+
+c) Đơn giá nhân công trong quản lý chi
+phí đầu tư ứng dụng công nghệ thông tin tại Hướng dẫn này là đơn giá nhân công
+công nghệ thông tin trong nước, làm việc 01 ngày là 08 giờ và làm việc 01 tháng
+là 26 ngày. Các thành phần chi phí trong đơn giá nhân công được xác định phù hợp
+với từng loại nhân công công nghệ thông tin.
+
+3. Trong quá trình thực
+hiện Hướng dẫn này, nếu có vướng mắc đề nghị các cơ quan, tổ chức, cá nhân phản
+ánh về Bộ Thông tin và Truyền thông (Cục Tin học hóa) để xem xét giải quyết.
+
+II. HƯỚNG DẪN CỤ THỂ
+
+1. Xác định đơn giá nhân công công nghệ
+thông tin trực tiếp
+
+Đơn giá nhân công công nghệ thông tin
+trực tiếp được xác định theo công thức hướng dẫn tại Phụ lục 04 Thông tư
+04/2020/TT-BTTTT ngày 24/02/2020 của Bộ trưởng Bộ Thông tin và Truyền thông quy
+định về lập và quản lý chi phí đầu tư ứng dụng công nghệ thông tin như sau:
+
+DGNC=B x gnc
+
+Trong đó:
+
+- DGNC: Đơn giá nhân công
+công nghệ thông tin trực tiếp.
+
+- B: Lượng hao phí lao động tính bằng
+ngày công trực tiếp theo cấp bậc bình quân cho một đơn vị khối lượng công việc
+trong định mức dự toán.
+
+Đối với các công việc trong tổng mức đầu
+tư, dự toán không có định mức kinh tế - kỹ thuật và được xác định chi phí theo
+các văn bản hướng dẫn lập, quản lý chi phí đầu tư ứng dụng công nghệ thông tin,
+B là số ngày công trực
+tiếp theo
+cấp bậc bình quân cho một đơn vị khối lượng công việc trong dự toán chi phí.
+
+- gnc: Giá ngày công của
+nhân công trực tiếp. Giá ngày công của nhân công trực tiếp (gnc) được
+xác định theo công thức sau:
+
+gnc=
+[(HCB+ HPC) x MLCS x (1 + HĐC) + BHLĐ] x 
+
++ HCB: Hệ số lương theo cấp
+bậc của nhân công công nghệ thông tin trực tiếp quy định tại khoản 2 Mục này.
+
++ HPC: Hệ số phụ cấp lương
+của nhân công công nghệ thông tin trực tiếp (nếu có) xác định theo quy định của
+pháp luật lao động và các văn bản có liên quan.
+
++ MLCS: Mức lương
+cơ sở do Chính phủ quy định theo từng thời kỳ.
+
++ HĐC: Hệ số điều chỉnh
+tăng thêm tiền lương. Hệ số điều chỉnh tăng thêm tiền lương bằng 1,2 đối với địa
+bàn thuộc vùng I; bằng 0,9 đối với địa bàn thuộc vùng II; bằng 0,7 đối với địa
+bàn thuộc vùng III và bằng 0,5 đối với địa bàn thuộc vùng IV. Địa bàn thuộc
+vùng I, II, III, IV được thực hiện theo địa bàn áp dụng mức lương tối thiểu
+vùng do Chính phủ quy định theo từng thời kỳ.
+
++ BHLĐ: Các chi phí
+bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp, kinh phí công đoàn thuộc
+trách nhiệm đóng của người sử dụng lao động được xác định theo quy định của
+pháp luật.
+
++ t: 26 ngày làm việc trong tháng.  
+
+2. Cấp bậc, hệ số lương nhân công công
+nghệ thông tin trực tiếp
+
+Bảng số 1: Cấp
+bậc, hệ số lương công nhân
+
+Cấp bậc
+ công nhân
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+Hệ số lương
+
+1,45
+
+1,71
+
+2,03
+
+2,39
+
+2,83
+
+3,34
+
+3,95
+
+Bảng số 2: Cấp bậc, hệ số
+lương kỹ sư
+
+Cấp bậc kỹ
+ sư
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+Hệ số lương
+
+2,34
+
+2,65
+
+2,96
+
+3,27
+
+3,58
+
+3,89
+
+4,20
+
+4,51--- THÔNG TIN THÊM ---
+Ten: Quyết định 129/QĐ-BTTTT năm 2021 hướng dẫn xác định đơn giá nhân công trong quản lý chi phí đầu tư ứng dụng công nghệ thông tin sử dụng nguồn vốn ngân sách nhà nước do Bộ trưởng Bộ Thông tin và Truyền thông ban hành
+So hieu: 129/QĐ-BTTTT
+Loai van ban: Quyết định
+Linh vuc nganh: Lao động - Tiền lương, Công nghệ thông tin, Tài chính nhà nước
+Noi ban hanh: Bộ Thông tin và Truyền thông
+Nguoi ky: Nguyễn Huy Dũng
+Ngay ban hanh: 03/02/2021
+Ngay hieu luc: 03/02/2021
+Ngay dang: Dữ liệu đang cập nhật
+So cong bao: Dữ liệu đang cập nhật
+Tinh trang: Còn hiệu lực
+
+
+--- MỤC LỤC ---
+- Điều 1. Ban hành kèm theo Quyết định này Hướng dẫn xác định đơn giá nhân công trong quản lý chi phí đầu tư ứng dụng công nghệ thông tin sử dụng nguồn vốn ngân sách nhà nước.
+
+--- VĂN BẢN LIÊN QUAN ---
+
+Van ban duoc huong dan:
+  - Nghị định 73/2019/NĐ-CP quy định quản lý đầu tư ứng dụng công nghệ thông tin sử dụng nguồn vốn ngân sách ... (ID: 423247)
+
+Van ban duoc dan chieu:
+  - Thông tư 04/2020/TT-BTTTT quy định về lập và quản lý chi phí dự án đầu tư ứng dụng công nghệ thông tin do ... (ID: 435371)
+
+Van ban duoc can cu:
+  - Nghị định 17/2017/NĐ-CP quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Thông tin và ... (ID: 340185)
+  - Luật Công nghệ thông tin 2006 (ID: 12987)
+
+Van ban lien quan cung noi dung:
+  - Nghị định 82/2024/NĐ-CP sửa đổi Nghị định 73/2019/NĐ-CP quy định quản lý đầu tư ứng dụng công nghệ thông tin sử dụng nguồn vốn ngân sách nhà nước (ID: 616790)
+  - Dự thảo Nghị định sửa đổi Nghị định 73/2019/NĐ-CP quy định quản lý đầu tư ứng dụng công nghệ thông tin sử dụng nguồn vốn ngân sách nhà nước (ID: 616621)
+  - Quyết định 1333/QĐ-BTC năm 2022 hướng dẫn quản lý đầu tư ứng dụng công nghệ thông tin tại các cơ quan hành chính, đơn vị sự nghiệp thuộc Bộ Tài chính (ID: 521630)
+  - Công văn 868/BTTTT-VP năm 2022 về rà soát các vướng mắc, khó khăn trong quá trình thực hiện Nghị định 73/2019/NĐ-CP và Thông tư 03/2020/TT-BTTTT do Bộ Thông tin và Truyền thông ban hành (ID: 515651)
+  - Quyết định 3759/QĐ-BKHCN năm 2020 về Kế hoạch ứng dụng công nghệ thông tin, phát triển chính phủ số tại Bộ Khoa học và Công nghệ năm 2021 (ID: 469153)
+  - Thông tư 15/2019/TT-BXD hướng dẫn xác định đơn giá nhân công xây dựng do Bộ trưởng Bộ Xây dựng ban hành (ID: 427298)
+  - Công văn 671/BXD-KTXD năm 2018 hướng dẫn xác định đơn giá nhân công xây dựng công trình do Bộ Xây dựng ban hành (ID: 381948)
+  - Công văn 2603/BXD-KTXD năm 2017 về áp dụng phụ cấp không ổn định sản xuất vào xác định đơn giá nhân công xây dựng do Bộ Xây dựng ban hành (ID: 377608)

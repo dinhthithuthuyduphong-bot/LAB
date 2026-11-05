@@ -1,0 +1,1569 @@
+BỘ
+ LAO ĐỘNG - THƯƠNG BINH VÀ XÃ HỘI
+
+ -----
+
+CỘNG
+ HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+Độc lập - Tự do - Hạnh phúc
+
+ -------
+
+Số:
+ 05/2008/QĐ-BLĐTBXH
+
+Hà
+ Nội, ngày 18 tháng 02 năm 2008
+
+ 
+
+QUYẾT ĐỊNH 
+
+BAN HÀNH CHƯƠNG TRÌNH
+MÔN HỌC TIN HỌC DÙNG CHO CÁC TRƯỜNG TRUNG CẤP NGHỀ, TRƯỜNG CAO ĐẲNG NGHỀ
+
+BỘ TRƯỞNG BỘ LAO ĐỘNG - THƯƠNG BINH VÀ XÃ HỘI
+
+Căn
+cứ Luật Dạy nghề ngày 29 tháng 11 năm 2006;
+
+Căn cứ Nghị định số
+186/2007/NĐ-CP ngày 25 tháng 12 năm 2007 của Chính phủ quy định chức năng, nhiệm
+vụ, quyền hạn và cơ cấu tổ chức của Bộ Lao động- Thương binh và Xã hội;
+
+Căn cứ Quyết định số 01/2007/QĐ-BLĐTBXH ngày 4 tháng 1 năm 2007 của Bộ trưởng Bộ
+Lao động – Thương binh và Xã hội về việc Ban hành Quy định về chương trình
+khung trình độ trung cấp nghề, chương trình khung trình độ cao đẳng nghề;
+
+Theo đề nghị của Tổng cục trưởng Tổng cục Dạy nghề,
+
+QUYẾT ĐỊNH:
+
+Điều 1. Ban hành kèm theo Quyết định này
+chương trình môn Tin học dùng cho các trường trung cấp nghề, trường cao đẳng
+nghề để giảng dạy trong khóa học trình độ trung cấp nghề, trình độ cao đẳng nghề.
+
+Điều 2. Quyết
+định này có hiệu lực thi hành sau 15 ngày, kể từ ngày đăng Công báo. Những quy
+định trước đây trái với Quyết định này đều bãi bỏ.
+
+Điều 3. Các Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc
+Chính phủ, Chủ tịch Uỷ ban nhân dân tỉnh, thành phố trực thuộc Trung ương,
+Chánh Văn phòng Bộ, Tổng cục trưởng Tổng cục Dạy nghề, Hiệu trưởng trường cao đẳng
+nghề, Hiệu trưởng trường trung cấp nghề, các Hiệu trưởng trường trung cấp
+chuyên nghiệp, trường cao đẳng, trường đại học có đăng ký hoạt động dạy nghề
+trình độ trung cấp, trình độ cao đẳng, Thủ trưởng các
+cơ quan, đơn vị có liên quan chịu trách nhiệm thi hành Quyết định này./.
+
+ 
+
+ Nơi nhận: 
+
+- Thủ tướng, các Phó
+ Thủ tướng Chính phủ;
+
+ - Văn phòng Quốc hội và các Uỷ ban của Quốc hội;
+
+ - Văn phòng Chủ tịch nước, Văn phòng Chính phủ;
+
+ - Viện kiểm sát nhân dân tối cao;
+
+ - Toà án nhân dân tối cao;
+
+ - Các Bộ, cơ quan ngang Bộ, cơ quan thuộc CP;
+
+ - Cơ quan trung ương của các đoàn thể;
+
+ - HĐND, UBND, Sở LĐTBXH các tỉnh, thành phố trực thuộc TW;
+
+ - Cục kiểm tra VBQPPL (Bộ Tư pháp);
+
+ - Công báo;
+
+ - Website Chính phủ;
+
+ - Như Điều 3;
+
+- Lưu VT, TCDN.
+
+KT. BỘ TRƯỞNG
+
+ THỨ TRƯỞNG
+
+ Đàm Hữu Đắc
+
+ 
+
+CHƯƠNG TRÌNH 
+
+MÔN TIN HỌC DÙNG CHO CÁC TRƯỜNG TRUNG CẤP NGHỀ,
+TRƯỜNG CAO ĐẲNG NGHỀ
+
+(Ban hành kèm theo Quyết định số:
+05/2008/QĐ-BLĐTBXH ngày18 tháng 02 năm 2008 của Bộ trưởng Bộ Lao động - Thương
+binh và Xã hội)
+
+Phần 1:
+
+VỊ TRÍ, TÍNH CHẤT,
+MỤC TIÊU, YÊU CẦU CỦA MÔN HỌC
+
+I. VỊ TRÍ, TÍNH CHẤT
+
+1. Môn Tin học là
+môn học bắt buộc trong chương trình dạy nghề trình độ trung cấp, trình độ cao đẳng;
+
+2. Môn Tin học là
+một trong những nội dung được sử dụng rộng rãi trong các lĩnh vực của đời sống
+xã hội, góp phần nâng cao chất lượng đào tạo nghề và phát triển nguồn nhân lực trong
+giai đoạn mới.
+
+II. MỤC TIÊU
+
+1. Cung cấp cho
+người học nghề những kiến thức cơ bản về tin học và máy tính, trên cơ sở đó có
+thể khai thác được các chương trình ứng dụng, các phần mềm chạy trên máy tính.
+
+2. Trang bị kiến
+thức tin học cơ bản phục vụ các môn học chuyên môn khác.
+
+III. YÊU CẦU 
+
+Người học nghề sau
+khi học môn Tin học phải đạt được những yêu cầu sau:
+
+1. Kiến thức:
+
+1.1. Nắm được các
+kiến thức cơ bản về cấu trúc hệ thống máy tính và thông tin trong máy tính, ứng
+dụng của tin học.
+
+1.2. Hiểu được
+tính năng và phương thức hoạt động cơ bản của máy tính, hệ điều hành và các thiết
+bị ngoại vi.
+
+1.3. Nắm được các
+kiến thức cơ bản về mạng và ứng dụng của mạng máy tính
+
+1.4. Đối với trình
+độ cao đẳng nghề, người học nghề phải có kiến thức về một chương trình ứng dụng
+như Excell hoặc Autocad.
+
+2. Kỹ năng:
+
+2.1. Sử dụng được
+máy vi tính và các thiết bị ghép nối.
+
+2.2. Làm được các
+công việc cơ bản của tin học văn phòng
+
+2.3. Đối với trình
+độ cao đẳng nghề, người học nghề sử dụng thành thạo một chương trình ứng dụng
+như Excell hoặc Autocad.
+
+3. Thái độ
+
+Rèn luyện lòng yêu
+nghề, tư thế tác phong công nghiệp , tính kiên trì, sáng tạo trong công việc .
+
+Phần 2:
+
+NỘI DUNG TỔNG
+QUÁT VÀ PHÂN PHỐI THỜI GIAN
+
+I. CHƯƠNG TRÌNH 1 (30 giờ, dùng cho khoá học trình độ trung cấp nghề)
+
+STT
+
+Tên bài
+
+Số giờ lý thuyết
+
+Số giờ thực hành
+
+Kiểm tra
+
+Tổng số giờ
+
+I. KIẾN THỨC CHUNG VỀ CÔNG NGHỆ
+ THÔNG TIN VÀ TRUYỀN THÔNG
+
+2
+
+1
+
+ 
+
+3
+
+1
+
+Bài 1: Các khái niệm cơ bản
+
+0.5
+
+ 
+
+ 
+
+0.5
+
+2
+
+Bài 2: Cấu trúc cơ bản của hệ
+ thống máy tính
+
+1
+
+1
+
+ 
+
+2
+
+3
+
+Bài 3: Biểu diễn thông tin
+ trong máy tính
+
+0.5
+
+ 
+
+ 
+
+0.5
+
+II. HỆ ĐIỀU HÀNH 
+
+2
+
+6
+
+ 
+
+8
+
+4
+
+Bài 4: Các lệnh cơ bản của
+ MS-DOS
+
+1
+
+1
+
+ 
+
+2
+
+5
+
+Bài 5: Giới thiệu Windows
+
+1
+
+1
+
+ 
+
+2
+
+6
+
+Bài 6: Những thao tác cơ bản
+ trên Windows
+
+ 
+
+4
+
+ 
+
+4
+
+III. MẠNG CƠ BẢN
+ VÀ INTERNET 
+
+2
+
+6
+
+1
+
+9
+
+7
+
+Bài 7 : Mạng máy tính
+
+1
+
+1
+
+ 
+
+2
+
+8
+
+Bài 8 : Khai thác và sử dụng
+ Internet
+
+1
+
+5
+
+1
+
+7
+
+IV. HỆ SOẠN THẢO VĂN BẢN
+ MICROSOFT WORD 
+
+1
+
+8
+
+1
+
+10
+
+9
+
+Bài 9: Các thao tác soạn thảo,
+ hiệu chỉnh và định dạng 
+
+1
+
+3
+
+ 
+
+4
+
+10
+
+Bài 10: Làm việc với bảng 
+
+ 
+
+5
+
+1
+
+6
+
+Tổng
+ cộng
+
+13
+
+15
+
+2
+
+30
+
+ 
+
+II. CHƯƠNG TRÌNH
+2 (75 giờ, dùng cho khoá học trình độ cao đẳng nghề)
+
+STT
+
+Tên
+ bài
+
+Số
+ giờ lý thuyết
+
+Số
+ giờ thực hành
+
+Kiểm
+ tra
+
+Tổng
+ số giờ
+
+I. KIẾN THỨC CHUNG VỀ CÔNG NGHỆ
+ THÔNG TIN VÀ TRUYỀN THÔNG
+
+2
+
+1
+
+ 
+
+3
+
+1
+
+Bài 1: Các khái niệm cơ bản
+
+0.5
+
+ 
+
+ 
+
+0.5
+
+2
+
+Bài 2: Cấu trúc cơ bản của hệ
+ thống máy tính
+
+1
+
+1
+
+ 
+
+2
+
+3
+
+Bài 3 : Biểu diễn thông tin
+ trong máy tính
+
+0.5
+
+ 
+
+ 
+
+0.5
+
+II. HỆ ĐIỀU HÀNH 
+
+2
+
+6
+
+ 
+
+8
+
+4
+
+Bài 4: Các lệnh cơ bản của
+ MS-DOS
+
+1
+
+1
+
+ 
+
+2
+
+5
+
+Bài 5 : Giới thiệu Windows
+
+1
+
+1
+
+ 
+
+2
+
+6
+
+Bài 6: Những thao tác cơ bản
+ trên Windows
+
+ 
+
+4
+
+ 
+
+4
+
+III. MẠNG CƠ BẢN
+ VÀ INTERNET 
+
+2
+
+6
+
+1
+
+9
+
+7
+
+Bài 7 : Mạng máy tính
+
+1
+
+1
+
+ 
+
+2
+
+8
+
+Bài 8 : Khai thác và sử dụng
+ Internet
+
+1
+
+5
+
+1
+
+7
+
+IV. HỆ SOẠN THẢO VĂN BẢN
+ MICROSOFT WORD 
+
+1
+
+8
+
+1
+
+10
+
+9
+
+Bài 9: Các thao tác soạn thảo,
+ hiệu chỉnh và định dạng 
+
+1
+
+3
+
+ 
+
+4
+
+10
+
+Bài 10: Làm việc với bảng 
+
+ 
+
+5
+
+1
+
+6
+
+V. BẢNG TÍNH EXCEL
+
+10
+
+33
+
+2
+
+45
+
+11
+
+Bài 11:Giới thiệu về Excel
+
+2
+
+3
+
+ 
+
+5
+
+12
+
+Bài 12: Lập thời gian biểu
+
+2
+
+8
+
+ 
+
+10
+
+13
+
+Bài 13: Lập bảng thống kê tài
+ chính
+
+2
+
+7
+
+1
+
+10
+
+14
+
+Bài 14:Các hàm đối với kết xuất
+ dữ liệu
+
+2
+
+8
+
+ 
+
+10
+
+15
+
+Bài 15: Làm việc với WorkSheet
+
+2
+
+7
+
+1
+
+10
+
+Tổng
+ cộng
+
+17
+
+54
+
+4
+
+75
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Phần 3:
+
+NỘI DUNG CHI TIẾT
+
+I. KIẾN THỨC
+CHUNG VỀ CÔNG NGHỆ THÔNG TIN VÀ TRUYỀN THÔNG
+
+Bài 1. Các khái niệm cơ bản
+
+1.1. Thông tin và xử lý thông
+tin
+
+1.1.1. Thông tin
+
+1.1.2. Dữ liệu 
+
+1.1.3. Xử lý thông tin
+
+1.2. Phần cứng, phần mềm và công
+nghệ thông tin
+
+1.2.1. Phần cứng
+
+1.2.2. Phần mềm
+
+1.2.3. Công nghệ thông tin
+
+Bài 2. Cấu trúc cơ bản của hệ
+thống máy tính
+
+2.1. Phần cứng
+
+2.1.1. Đơn vị xử lý trung tâm
+(CPU)
+
+2.1.2. Thiết bị nhập
+
+2.1.3. Thiết bị xuất
+
+2.1.4. Bộ nhớ và thiết bị lưu trữ
+
+2.2. Phần mềm
+
+2.2.1. Phần mềm hệ thống
+
+2.2.2. Phần mềm ứng dụng
+
+2.2.3. Các giao diện với người sử
+dụng
+
+2.2.4. MultiMedia
+
+Bài 3. Biểu diễn thông tin
+trong máy tính
+
+3.1. Biểu diễn thông tin trong
+máy tính
+
+3.2. Đơn vị thông tin và dung lượng
+bộ nhớ
+
+II. HỆ ĐIỀU
+HÀNH
+
+Bài 4. Hệ điều hành MS-DOS
+
+4.1. MS-DOS là gì?
+
+4.2. Tên ổ đĩa và dấu đợi lệnh
+
+4.3. Tệp và thư mục
+
+4.3.1. Tệp
+
+4.3.2. Thư mục
+
+Các lệnh về đĩa
+
+4.4.1. Lệnh định dạng đĩa FORMAT
+
+4.4.2. Lệnh tạo đĩa khởi động
+
+Bài 5. Giới thiệu Windows
+
+5.1. Windows là gì?
+
+5.2. Khởi động và thoát khỏi
+Windows
+
+5.3. Desktop
+
+5.4. Thanh tác vụ (Task bar)
+
+5.5. Menu Start
+
+5.6. Khởi động và thoát khỏi một
+ứng dụng
+
+5.7. Chuyển đổi giữa các ứng dụng
+
+5.8. Thu nhỏ một cửa sổ, đóng cửa
+sổ một ứng dụng
+
+5.9. Sử dụng chuột
+
+Bài 6. Những thao tác cơ bản
+trên Windows
+
+6.1. File và Folder
+
+6.1.1.Tạo, đổi tên, xoá…
+
+6.1.2. Copy, cut, move… 
+
+6.2. Quản lý tài nguyên
+
+6.2.1. My Computer
+
+6.2.2. Windows Explorer
+
+III. MẠNG CƠ BẢN VÀ INTERNET
+
+Bài 7. Mạng cơ bản
+
+7.1. Những khái niệm cơ bản
+
+7.2. Phân loại mạng
+
+7.2.1. Phân loại theo phạm vi địa
+lý
+
+7.2.2. Phân loại theo kỹ thuật
+chuyển mạch
+
+7.2.3. Phân loại theo mô hình
+
+7.3. Các thiết bị mạng
+
+7.3.1. Network Card 
+
+7.3.2. Hub 
+
+7.3.3. Modem
+
+7.3.4. Repeater
+
+7.3.5. Bridge
+
+7.3.6. Router
+
+7.3.7. Gateway
+
+Bài 8. Khai thác và sử dụng
+Internet
+
+8.1. Tổng quan về Internet
+
+8.2. Dịch vụ WWW (World Wide
+Web)
+
+8.3. Thư điện tử (Email) 
+
+IV. HỆ SOẠN
+THẢO VĂN BẢN MICROSOFT WORD
+
+Bài 9. Các thao tác soạn thảo,
+hiệu chỉnh, và định dạng 
+
+9.1. Màn hình soạn thảo
+
+9.2. Các thao tác soạn thảo
+
+9.3. Các thao tác hiệu chỉnh
+
+9.4. Các thao tác định dạng
+
+Bài 10. Làm việc với bảng 
+
+10.1. Tạo bảng
+
+10.2. Các thao tác với bảng
+
+10.2.1. Copy, di chuyển, xoá bảng
+
+10.2.2. Hiệu chỉnh bảng
+
+10.2.3. Tạo tiêu đề bảng
+
+10.2.4. Tạo đường kẻ, viền khung
+
+V. BẢNG TÍNH
+EXCEL
+
+Bài 11. Giới thiệu về Excel
+
+11.1. Khởi động và thoát khỏi
+Excel
+
+11.2. Mở một bảng tính mới
+
+11.3. Cửa sổ Excel
+
+11.4. Hộp hội thoại
+
+11.5. Nhập dữ liệu
+
+11.6. Sắp xếp dữ liệu đơn giản
+
+11.7. Thêm dòng và cột
+
+11.8. Xoá dòng và cột
+
+11.9. Hiệu chỉnh kích thước ô,
+dòng, cột
+
+11.10. Lưu bảng tính lên đĩa
+
+11.11. Mở một / nhiều File có sẵn
+
+11.12. Tìm kiếm file
+
+11.13. Đóng file
+
+Bài 12. Lập thời gian biểu
+
+12.1. Tạo bảng thời gian biểu
+
+12.2. Sử dụng Fills
+
+12.3. Định dạng văn bản trong ô
+
+12.4. Căn lề văn bản trong ô
+
+12.5. Tạo tiêu đề (Bảng t ính, cột,
+dòng)
+
+12.6. Đường viền khung
+
+12.7. Mầu nền khung
+
+12.8. Tìm kiếm và thay th ế
+
+12.9. Chọn đối tượng (Ô, kh ối,
+dòng, cột )
+
+12.10. Sao chép, dữ liệu, xoá dữ
+liệu
+
+12.11. Tạo tiêu đề 
+
+12.12. Lưu thời gian biểu
+
+12.13. In một bảng tính
+
+12.14. In một phần của bảng tính
+
+Bài 13. Lập bảng thống kê tài
+chính
+
+13.1. Tạo bảng thống kê
+
+13.2. Nhập dữ liệu
+
+13.3. Tự động đánh số thứ tự
+
+13.4. Sử dụng công thức
+
+13.5. Sắp xếp thứ tự và thứ tự đặc
+biệt
+
+13.6. Tính tổng các số
+
+13.7. Một số hàm cơ bản (Sum,
+Average, Round,……)
+
+13.8. Tính phần trăm
+
+13.9. Địa chỉ tuyệt đối và tương
+đối
+
+13.10. Sao chép, di chuyển dữ liệu
+số.
+
+13.11. Các ký hiệu và kí tự đặc
+biệt
+
+13.12. Thông báo lỗi 
+
+13.13. Lưu bảng thống kê.
+
+Bài 14. Các hàm với kết xuất
+dữ liệu
+
+14.1. Nhóm các hàm
+
+14.2. Chọn và nhập hàm
+
+14.3. Đặt tên vùng (Range), chọn
+vùng, sử dụng tên vùng, xoá vùng
+
+14.4. Chọn d ữ liệu có giá trị
+MAX, MIN
+
+14.5. Đếm có điều kiện (COUNT
+IF, DCOUNT,…..)
+
+14.6. Hàm điều kiện IF
+
+14.7. Hàm tính tổng có điều kiện
+( DSUM, SUM IF….)
+
+14.8. Tính trung bình cộng có điều
+kiện (DAVERAGE),….
+
+14.9. Hàm logic AND, OR
+
+14.10. Hàm tính số ngày (DAY360,
+DATEVALUE,….)
+
+14.11. Hàm tìm kiếm (VLOOKUP,
+HLOOKUP, LOOKUP,……)
+
+Bài 15. Làm việc với
+WorkSheet
+
+15.1. WorkBook và Workseet
+
+15.2. Tạo thêm một bảng tính
+
+15.3. Di chuyển, sao chép các
+trang bảng tính
+
+15.4. Thay đổi tên Workseet
+
+15.5. Mở nhiều bảng tính
+
+15.6. Tính toán trên nhiều bảng
+tính
+
+Phần 4:
+
+HƯỚNG DẪN THỰC HIỆN
+CHƯƠNG TRÌNH
+
+I. TỔ CHỨC
+GIẢNG DẠY
+
+1. Giáo viên dạy môn Tin học có
+thể là giáo viên chuyên trách hoặc giáo viên kiêm nhiệm huy động từ lực lượng
+giáo viên tin học trong nhà trường.
+
+2. Phần thực hành là nhằm mục
+đích củng cố ghi nhớ, khắc sâu kiến thức đã học về cấu trúc chung máy vi tính,
+hệ điều hành MS-DOS, Windows XP, biết cách soạn thảo một văn bản, sử dụng
+Internet cũng như thực hiện các bài quản lý cơ bản trên bảng tính điện tử Excel
+hoặc bản vẽ Autocad.
+
+3. Đối với khoá học trình độ cao
+đẳng nghề, Hiệu trưởng nhà trường căn cứ vào ngành nghề đào tạo để quyết định học
+mục V trong chương trình môn Tin học là “Bảng tính Excell” hay “Tin học ứng dụng
+Autocad” (phụ lục kèm theo).
+
+4. Đối với người học nghề sau
+khi tốt nghiệp trung cấp nghề học lên cao đẳng nghề, Hiệu trưởng nhà trường căn
+cứ vào chương trình môn Tin học 1 và 2 nói trên để quyết định những nội dung
+người học nghề không phải học lại.
+
+II. THI, KIỂM
+TRA, ĐÁNH GIÁ
+
+Việc thi, kiểm tra
+và đánh giá kết quả học tập môn Tin học của người học nghề được thực hiện theo "Quy
+chế thi, kiểm tra và công nhận tốt nghiệp trong dạy nghề hệ chính quy"
+ban hành kèm theo Quyết định số 14/2007/QĐ-BLĐTBXH ngày 24/5/2007 của Bộ trưởng
+Bộ Lao động - Th­ương binh và Xã hội.
+
+III. PHƯƠNG
+PHÁP, PHƯƠNG TIỆN, DỤNG CỤ GIẢNG DẠY
+
+1. Giáo viên có thể
+vận dụng phương pháp thuyết trình, giảng giải kết hợp phương pháp gợi mở, phát
+vấn để người học nghề có thể tham gia tích cực vào bài giảng.
+
+2. Phương tiện, dụng cụ giảng dạy:
+Ngoài phương tiện giảng dạy truyền thống giáo viên còn có thể sử dụng Máy chiếu
+Projector, Laptop, sơ đồ, tranh ảnh minh hoạ giúp làm rõ và sinh động nội dung
+bài học.
+
+3. Trong điều kiện có thể kết hợp
+giảng dạy lý thuyết và thực hành trong cùng một phòng học chuyên môn hoá có máy
+tính được nối mạng LAN và mạng Internet, có sử dụng các phương tiện dạy học bằng
+hình ảnh./.
+
+ 
+
+PHỤ LỤC
+
+TIN HỌC ỨNG DỤNG AUTOCAD
+
+(Ban hành kèm theo Quyết định số: 05/2008 /QĐ-BLĐTBXH ngày 18 tháng 02
+năm 2008 của Bộ trưởng Bộ Lao động - Thương binh và Xã hội)
+
+I. NỘI
+DUNG TỔNG QUÁT VÀ PHÂN PHỐI THỜI GIAN
+
+STT
+
+Tên bài
+
+Số giờ lý thuyết
+
+Số giờ thực hành
+
+Kiểm tra
+
+Tổng số giờ
+
+V. TIN HỌC ỨNG DỤNG AUTOCAD
+
+12
+
+31
+
+2
+
+45
+
+11
+
+Bài 11:Các lệnh thao tác với đối
+ tượng
+
+2
+
+6
+
+ 
+
+8
+
+12
+
+Bài 12: Thiết lập bản vẽ
+
+2
+
+6
+
+ 
+
+8
+
+13
+
+Bài 13: Các lệnh thao tác với
+ màn hình
+
+1
+
+4
+
+1
+
+6
+
+14
+
+Bài 14: Các lệnh thao tác với
+ lớp
+
+2
+
+6
+
+ 
+
+8
+
+15
+
+Bài 15: Tạo và hiệu chỉnh văn
+ bản
+
+1
+
+3
+
+ 
+
+4
+
+16
+
+Bài 16: Thiết lập bản vẽ nâng
+ cao, in ấn
+
+2
+
+6
+
+1
+
+9
+
+ 
+
+II. NỘI
+DUNG CHI TIẾT
+
+Bài 11. Các lệnh thao tác với
+đối tượng
+
+11.1. Mở đầu
+
+11.1.1. Các khái niệm 
+
+11.1.1.1. Hệ toạ độ 
+
+11.1.1.2. Các góc trong Autocad
+
+11.1.1.3. Vẽ theo kích thước thực
+
+11.1.1.4. Vẽ theo tỉ lệ
+
+11.1.2. Màn hình Autocad
+
+11.1.2.1. Màn hình đồ hoạ
+
+11.1.2.2. Màn hình văn bản
+
+11.1.3. Các lệnh nhập
+
+11.1.3.1. Các phương pháp nhập lệnh
+
+11.1.3.2. Sử dụng bằng lệnh
+
+11.1.4. Thiết lập màn hình
+Autocad theo ý muốn
+
+11.1.4.1. Thanh công cụ
+
+11.1.4.2. Dòng lệnh
+
+11.1.4.3. Hộp thoại
+
+11.1.5. Làm việc với tệp tin đồ
+hoạ
+
+11.1.5.1. Mở một file mới/ đã có
+sẵn
+
+11.1.5.2. Lưu bản vẽ
+
+11.1.5.3. Thoát khỏi Autocad
+
+11.2. Các lệnh thao tác với đối
+tượng
+
+11.2.1. Đối tượng trong Autocad
+
+11.2.1.1. Đối tượng
+
+11.2.1.2. Thông tin về đối tượng
+
+11.2.2. Các phương pháp nhập lệnh
+và nhập toạ độ
+
+11.2.3. Lệnh vẽ đoạn thẳng
+
+11.2.3.1. Vẽ các đoạn thẳng
+ngang
+
+11.2.3.2. Vẽ các đoạn thẳng đứng
+
+11.2.3.3. Vẽ các đoạn thẳng
+nghiêng
+
+11.2.4. Vẽ đường tròn. Cung tròn
+
+11.2.4.1. Vẽ đường tròn
+
+11.2.4.2. Vẽ cung tròn
+
+11.2.4.3. Vẽ kích thước, đường
+kính, bán kính 
+
+11.2.5. Vẽ Elipe, đa giác
+
+11.2.5.1. Vẽ hình Elipe
+
+11.2.5.2. Vẽ hình chữ nhật
+
+11.2.5.3. Vẽ hình đa giác
+
+11.2.6. Vẽ các đường đa tuyến
+(Pline)
+
+11.2.6.1. Pline có độ rộng cụ thể
+
+11.2.6.2. Pline có đoạn thẳng
+riêng rẽ
+
+11.2.6.3. Pline có
+một đoạn là cung tròn
+
+11.2.7. Tô màu, điền
+chữ các đối tượng
+
+11.2.7.1. Tô đầy đối tượng 
+
+11.2.7.2. Điền chữ lên bản vẽ
+
+11.2.8. Các lệnh hiệu chỉnh đối
+tượng
+
+11.2.8.1. Chọn đối tượng, nhóm đối
+tượng
+
+11.2.8.2. Bổ xung, loại bỏ đối
+tượng từ nhóm đối tượng đã lựa chọn
+
+11.2.8.3. Copy, di chuyển, xoá bỏ
+đối tượng
+
+11.2.8.4. Loại bỏ một phần của đối
+tượng
+
+11.2.8.5. Quay, mở rộng, thu hẹp
+đối tượng
+
+11.2.9. Các lệnh trợ giúp
+
+11.2.9.1. Tìm hiểu về Help cho
+các lệnh
+
+11.2.9.2. Khôi phục đối tượng vừa
+bị xoá
+
+11.2.9.3. Huỷ bỏ lệnh cuối cùng 
+
+Bài tập thực hành
+
+Bài 12. Thiết lập bản vẽ
+
+12.1. Các bước cơ bản thiết lập
+bản vẽ
+
+12.2. Các lệnh thiết lập bản vẽ
+cơ bản
+
+12.2.1. Lệnh định kiểu, chọn đợn
+vị góc, đường thẳng
+
+12.2.2. Lệnh chọn kích thước bản
+vẽ
+
+12.2.3. Lệnh điều khiển bước nhảy
+con trỏ/ điểm lưới
+
+12.3. Đơn vị các điểm của đối tượng
+
+12.3.1. Định vị các điểm đầu, giữa
+cuối, giao điểm
+
+12.3.2. Định vị tâm của một đườngtròn.
+Cung tròn. vành khăn
+
+12.3.3. Xác định độ chính xác
+các điểm
+
+12.4. Các lệnh hiệu chỉnh liên
+quan giữa 2 đối tượng
+
+12.4.1. Tạo một cung tròn giữa 2
+đối tượng
+
+12.4.2. Tạo đường vắt mép giữa 2
+đối tượng
+
+12.4.3. Copy đối xứng đối tượng
+
+12.4.4. Tạo một bản sao của một
+hay nhiều đối tượng
+
+12.4.5. Cắt bỏ các nét thừa của
+đối tượng khi vẽ
+
+12.4.6. Chia đối tượng thành các
+phần bằng nhau
+
+Bài tập thực hành
+
+Bài 13. Các lệnh thao tác với
+màn hình
+
+13.1. Thay đổi vùng của bản vẽ
+hiển thị trên màn hình
+
+13.1.1. Phóng đại một vùng nhỏ
+trên bản vẽ
+
+13.1.2. Hiển thị một vùng lớn
+trên bản vẽ
+
+13.2. Di chuyển bản vẽ đến một vị
+trí mới
+
+13.2.1. Dịch chuyển sang trái /
+phải
+
+13.2.2. Dịch chuyển lên / xuống
+
+13.3. Lưu cửa sổ hiển thị màn
+hình
+
+13.3.1. Lưu, hiển thị lại cửa sổ
+hiện hành
+
+13.3.2. Các tuỳ chọn
+
+Bài tập thực hành
+
+Bài 14. Các lệnh thao tác với
+lớp
+
+14.1. Lớp, màu sắc và loại nét vẽ
+
+14.1.1. Khái niệm về lớp
+
+14.1.2. Màu sắc và nét vẽ cho lớp
+
+14.1.3. Màu sắc và nét vẽ cho từng
+đối tượng
+
+14.2. Điều khiển lớp
+
+14.2.1. Điều khiển lớp thông qua
+Layer
+
+14.2.2. Tính chất và cách hiển
+thị
+
+14.2.3. Thiết lập lớp hiện hành
+
+14.2.4. Thiết lập màu sắc và nét
+vẽ cho lớp
+
+14.3. Thay đổi tính chất đối tượng
+trong lớp
+
+14.3.1. Tính chất đối tượng
+
+14.3.2. Hiển thị tính chất đối
+tượng
+
+14.3.3. Thiết lập lớp đối tượng
+và lớp hiện hành
+
+14.3.4. Thiết lập màu sắc, nét vẽ
+cho đối tượng
+
+14.3.5. Thay đổi tính chất đối
+tượng
+
+14.3.6. Nhóm các đối tượng thành
+đối tượng đơn
+
+14.3.7. Chèn một đối tượng đã tạo
+vào vị trí trên bản vẽ
+
+Bài tập thực hành
+
+Bài 15. Tạo và hiệu chỉnh văn
+bản
+
+15.1. Các lệnh tạo văn bản
+
+15.1.1. Chèn văn bản vào một bản
+vẽ
+
+15.1.2. Nhập nhiều dòng kí tự
+
+15.1.3. Nhập một dòng kí tự
+
+15.2. Kiểu chữ, phông chữ
+
+15.2.1. Thiết lập kiểu, dáng chữ
+
+15.2.2. Sắp xếp, hướng hiển thị
+văn bản
+
+15.2.3. Các kí tự văn bản đặc biệt
+
+15.3. Hiệu chỉnh văn bản
+
+15.3.1. Điều chỉnh đặc tính của
+kí tự
+
+15.3.2. Tìm và thay thế chuỗi kí
+tự
+
+15.3.3. Hiển thị một dòng kí tự
+
+15.3.4. Thay thế Font chữ
+
+Bài tập thực hành
+
+Bài 16. Thiết lập bản vẽ nâng
+cao và in ấn
+
+16.1. Các thiết lập bản vẽ nâng
+cao
+
+16.1.1. Cài đặt đơn vị
+
+16.1.2. Cài đặt giới hạn
+
+16.1.3. Hệ số tỉ lệ bản vẽ
+
+16.1.4. Đặt giá trị Snap / Grid
+
+16.1.5. Đặt giá trị nét vẽ không
+liên tục
+
+16.1.6. Tạo lớp Layer mong muốn
+
+16.1.7. Tạo kiểu dáng văn bản
+
+16.1.8. Tạo kiểu dáng kích thước
+
+16.1.9. Tạo tiêu đề, đường biên
+
+16.2. Vẽ hình chiếu trục đo
+
+16.2.1. Hình chiếu trục đo vuông
+góc đều
+
+16.2.2. Hình chiếu trục đo vuông
+góc cân
+
+16.2.3. Hình chiếu trục đo vuông
+góc lệch
+
+16.2.4. Hình chiếu trục đo vuông
+góc xiên
+
+16.3. Vẽ cắt
+
+16.3.1. Tạo mầu mặt cắt
+
+16.3.2. Hiệu chỉnh các mẫu hoa
+văn mặt cắt và đường biên
+
+16.3.3. Vẽ các đường cắt
+
+16.4. In ấn
+
+Bài tập thực hành./.--- THÔNG TIN THÊM ---
+Ten: Quyết định 05/2008/QĐ-BLĐTBXH về chương trình môn học tin học dùng cho các trường trung cấp nghề, trường cao đẳng nghề do Bộ trưởng Bộ Lao động - Thương binh và Xã hội ban hành
+So hieu: 05/2008/QĐ-BLĐTBXH
+Loai van ban: Quyết định
+Linh vuc nganh: Lao động - Tiền lương, Giáo dục
+Noi ban hanh: Bộ Lao động – Thương binh và Xã hội
+Nguoi ky: Đàm Hữu Đắc
+Ngay ban hanh: 18/02/2008
+Ngay hieu luc: 13/03/2008
+Ngay dang: 27/02/2008
+So cong bao: Từ số 151 đến số 152
+Tinh trang: Hết hiệu lực: 15/02/2021
+
+
+--- MỤC LỤC ---
+- QUYẾT ĐỊNH BAN HÀNH CHƯƠNG TRÌNH MÔN HỌC TIN HỌC DÙNG CHO CÁC TRƯỜNG TRUNG CẤP NGHỀ, TRƯỜNG CAO ĐẲNG NGHỀ
+  - Điều 1. Ban hành kèm theo Quyết định này chương trình môn Tin học dùng cho các trường trung cấp nghề, trường cao đẳng nghề để giảng dạy trong khóa học trình độ trung cấp nghề, trình độ cao đẳng nghề.
+  - Điều 2. Quyết định này có hiệu lực thi hành sau 15 ngày, kể từ ngày đăng Công báo. Những quy định trước đây trái với Quyết định này đều bãi bỏ.
+  - Điều 3. Các Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Uỷ ban nhân dân tỉnh, thành phố trực thuộc Trung ương, Chánh Văn phòng Bộ, Tổng cục trưởng Tổng cục Dạy nghề, Hiệu trưởng trường cao đẳng nghề, Hiệu trưởng trường trung cấp nghề, các Hiệu trưởng trường trung cấp chuyên nghiệp, trường cao đẳng, trường đại học có đăng ký hoạt động dạy nghề trình độ trung cấp, trình độ cao đẳng, Thủ trưởng các cơ quan, đơn vị có liên quan chịu trách nhiệm thi hành Quyết định này./.
+- CHƯƠNG TRÌNH  MÔN TIN HỌC DÙNG CHO CÁC TRƯỜNG TRUNG CẤP NGHỀ, TRƯỜNG CAO ĐẲNG NGHỀ
+  - Phần 1: VỊ TRÍ, TÍNH CHẤT, MỤC TIÊU, YÊU CẦU CỦA MÔN HỌC
+    - I. VỊ TRÍ, TÍNH CHẤT
+    - II. MỤC TIÊU
+    - III. YÊU CẦU
+  - Phần 2: NỘI DUNG TỔNG QUÁT VÀ PHÂN PHỐI THỜI GIAN
+    - I. CHƯƠNG TRÌNH 1 (30 giờ, dùng cho khoá học trình độ trung cấp nghề)
+    - II. CHƯƠNG TRÌNH 2 (75 giờ, dùng cho khoá học trình độ cao đẳng nghề)
+  - Phần 3: NỘI DUNG CHI TIẾT
+    - I. KIẾN THỨC CHUNG VỀ CÔNG NGHỆ THÔNG TIN VÀ TRUYỀN THÔNG
+    - II. HỆ ĐIỀU HÀNH
+    - III. MẠNG CƠ BẢN VÀ INTERNET
+    - IV. HỆ SOẠN THẢO VĂN BẢN MICROSOFT WORD
+    - V. BẢNG TÍNH EXCEL
+  - Phần 4: HƯỚNG DẪN THỰC HIỆN CHƯƠNG TRÌNH
+    - I. TỔ CHỨC GIẢNG DẠY
+    - II. THI, KIỂM TRA, ĐÁNH GIÁ
+    - III. PHƯƠNG PHÁP, PHƯƠNG TIỆN, DỤNG CỤ GIẢNG DẠY
+  - PHỤ LỤC TIN HỌC ỨNG DỤNG AUTOCAD
+    - I. NỘI DUNG TỔNG QUÁT VÀ PHÂN PHỐI THỜI GIAN
+    - II. NỘI DUNG CHI TIẾT
+
+--- VĂN BẢN LIÊN QUAN ---
+
+Van ban duoc can cu:
+  - Nghị định 186/2007/NĐ-CP quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Lao động - Thương... (ID: 60724)
+  - Quyết định 01/2007/QĐ-BLĐTBXH Quy định về Chương trình khung trình độ trung cấp nghề, trình độ cao đẳng ... (ID: 16298)
+  - Luật Dạy nghề 2006 (ID: 15869)
+
+Van ban thay the:
+  - Thông tư 22/2020/TT-BLĐTBXH bãi bỏ văn bản quy phạm pháp luật do Bộ trưởng Bộ Lao động - Thương binh và Xã ... (ID: 463006)
+  - Quyết định 1535/QĐ-LĐTBXH năm 2021 công bố Danh mục văn bản quy phạm pháp luật hết hiệu lực toàn bộ hoặc ... (ID: 500179)
+
+Van ban lien quan cung noi dung:
+  - Thông tư 11/2018/TT-BLĐTBXH về chương trình môn học Tin học thuộc khối các môn học chung trong chương trình đào tạo trình độ trung cấp, trình độ cao đẳng do Bộ trưởng Bộ Lao động - Thương binh và Xã hội ban hành (ID: 402427)

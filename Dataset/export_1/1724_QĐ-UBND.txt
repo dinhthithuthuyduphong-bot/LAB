@@ -1,0 +1,532 @@
+ỦY
+ BAN NHÂN DÂN
+
+TỈNH KHÁNH HÒA
+
+ -------
+
+CỘNG
+ HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+ Độc lập - Tự do - Hạnh phúc 
+
+ ---------------
+
+Số:
+ 1724/QĐ-UBND
+
+Khánh Hòa, ngày 15 tháng 06 năm 2017
+
+ 
+
+QUYẾT ĐỊNH
+
+BAN HÀNH QUY CHẾ QUẢN LÝ VÀ VẬN HÀNH CỔNG THÔNG TIN ĐIỆN TỬ PHÁT TRIỂN
+NGUỒN NHÂN LỰC TỈNH KHÁNH HÒA
+
+ỦY BAN NHÂN DÂN TỈNH KHÁNH HÒA
+
+Căn cứ Luật Tổ chức chính quyền địa
+phương ngày 19/6/2015;
+
+Căn cứ Luật Giao dịch điện tử ngày
+29/11/2005;
+
+Căn cứ Luật Công nghệ thông tin ngày 29/6/2006;
+
+Căn cứ Nghị định số 64/2007/NĐ-CP
+ngày 10/4/2007 của Chính phủ về ứng dụng công nghệ
+thông tin trong hoạt động của cơ quan nhà nước;
+
+Căn cứ Quyết định số 1819/QĐ-TTg
+ngày 26/10/2015 của Thủ tướng Chính phủ phê duyệt Chương trình quốc gia về ứng
+dụng công nghệ thông tin trong hoạt động
+của cơ quan nhà nước giai đoạn 2016 - 2020;
+
+Căn cứ Quyết định số 1236/QĐ-UBND ngày 20/5/2014 của Ủy ban nhân dân tỉnh Khánh Hòa về việc phê duyệt
+Đề cương và dự toán chi tiết dự án Hệ thống
+thông tin quản lý nguồn nhân lực tỉnh Khánh Hòa;
+
+Xét đề nghị của Giám đốc Sở Thông
+tin và Truyền thông tại Tờ trình số 820/TTr-STTTT ngày 17/5/2017 và Giám đốc Sở
+Nội vụ tại Công văn số 1298/SNV-TCBC ngày 09/6/2017,
+
+QUYẾT ĐỊNH:
+
+Điều 1. Ban hành kèm theo Quyết
+định này Quy chế quản lý và vận hành Cổng thông tin điện tử Phát triển nguồn
+nhân lực tỉnh Khánh Hòa, gồm 13 Điều, 04 Chương.
+
+Điều 2. Chánh Văn phòng UBND tỉnh;
+Thủ trưởng các Sở, ban, ngành; Chủ tịch UBND các huyện, thị xã, thành phố; Thủ
+trưởng các trường đại học, trường cao đẳng, học viện (có đào tạo hệ dân sự),
+trường trung cấp, trung tâm giáo dục nghề nghiệp và các cơ sở hoạt động giáo dục
+nghề nghiệp đóng trên địa bàn tỉnh và các tổ chức, cá nhân liên quan chịu trách
+nhiệm thi hành Quyết định này kể từ ngày ký./.
+
+ 
+
+ 
+
+Nơi nhận:
+
+- Như điều 2;
+
+ - TT.TU, TT. HĐND tỉnh;
+
+ - Văn phòng Tỉnh ủy;
+
+ - VP.UBND tỉnh;
+
+ - Lưu: VT, NN, HPN.
+
+TM. ỦY BAN NHÂN
+ DÂN
+
+ KT. CHỦ TỊCH
+
+ PHÓ CHỦ TỊCH
+
+ Nguyễn Đắc Tài
+
+ 
+
+QUY CHẾ
+
+QUẢN LÝ VÀ VẬN HÀNH CỔNG THÔNG TIN ĐIỆN TỬ PHÁT TRIỂN NGUỒN NHÂN LỰC TỈNH
+KHÁNH HÒA
+
+(Ban hành kèm theo Quyết định số
+1724/QĐ-UBND ngày 15/6/2017 của
+Ủy ban nhân dân tỉnh Khánh Hòa)
+
+Chương I
+
+QUY ĐỊNH CHUNG
+
+Điều 1. Phạm vi
+điều chỉnh và đối tượng áp dụng
+
+1. Quy chế này quy định về quản lý và
+vận hành Cổng thông tin điện tử Phát triển nguồn nhân lực
+tỉnh Khánh Hòa, bao gồm: quy định về tổ chức quản lý, vận hành, duy trì hoạt động;
+tổ chức thu thập, cung cấp, cập nhật và đăng tải thông tin.
+
+2. Đối tượng áp dụng Quy chế:
+
+a) Cơ quan quản lý và vận hành Cổng thông tin điện tử Phát triển nguồn nhân lực tỉnh Khánh Hòa.
+
+b) Cơ quan quản lý chuyên môn ở các
+lĩnh vực: Quy hoạch phát triển nguồn nhân lực; cán bộ, công chức, viên chức;
+đào tạo; lao động và việc làm, bao gồm: Sở Kế hoạch và Đầu tư; Sở Nội vụ; Sở
+Giáo dục và Đào tạo; Sở Lao động - Thương binh và Xã hội.
+
+c) Trung tâm Dịch vụ việc làm Khánh
+Hòa (đơn vị sự nghiệp trực thuộc Sở Lao động - Thương binh và Xã hội).
+
+d) Ban biên tập Cổng thông tin điện tử Phát triển nguồn nhân lực tỉnh Khánh Hòa.
+
+đ) Các đơn vị cung cấp thông tin (cho
+các cơ quan chuyên môn nêu tại Khoản b Điều này), bao gồm: Các trường đại học,
+trường cao đẳng, học viện (có đào tạo hệ dân sự), trường trung cấp, trung tâm
+giáo dục nghề nghiệp và các cơ sở hoạt động giáo dục nghề nghiệp đóng trên địa
+bàn tỉnh.
+
+e) Các tổ chức, cá nhân tham gia khai
+thác, sử dụng thông tin của Cổng thông tin điện tử Phát
+triển nguồn nhân lực tỉnh Khánh Hòa.
+
+Điều 2. Chức
+năng của Cổng thông tin điện tử Phát triển nguồn nhân lực tỉnh Khánh Hòa
+
+1. Cổng thông tin điện tử Phát triển
+nguồn nhân lực tỉnh Khánh Hòa (gọi tắt là Cổng thông tin) là phương tiện cung cấp
+những thông tin tổng hợp về phát triển nguồn nhân lực của tỉnh Khánh Hòa trên mạng
+Internet để phục vụ nhu cầu khai thác thông tin của các tổ
+chức, cá nhân trong và ngoài tỉnh. Thông tin cung cấp trên Cổng thông tin bao gồm
+các nội dung chủ yếu như sau:
+
+a) Các chủ trương, đường lối của Đảng,
+chính sách, pháp luật của Nhà nước, các quy định của tỉnh về nhân lực, lao động,
+việc làm.
+
+b) Các chương trình, kế hoạch về phát
+triển nguồn nhân lực của tỉnh.
+
+c) Hoạt động chỉ đạo, điều hành của Ủy
+ban nhân dân tỉnh đối với công tác quy hoạch và phát triển nguồn nhân lực của tỉnh.
+
+d) Công tác quản lý, sử dụng cán bộ,
+công chức, viên chức trong cơ quan nhà nước.
+
+đ) Hoạt động đào tạo nguồn nhân lực
+trên địa bàn tỉnh.
+
+e) Nhu cầu lao động, việc làm của các
+tổ chức, doanh nghiệp trên địa bàn tỉnh.
+
+2. Cổng thông tin được đặt tại Trung
+tâm dữ liệu của tỉnh, được thể hiện bằng ngôn ngữ Tiếng Việt
+và có địa chỉ truy cập: http://nguonnhanluc.khanhhoa.gov.vn.
+
+Chương II
+
+TỔ CHỨC VÀ HOẠT
+ĐỘNG CỔNG THÔNG TIN
+
+Điều 3. Tổ chức
+và hoạt động của Cổng thông tin
+
+1. Cổng thông tin hoạt động dưới sự
+quản lý của Ủy ban nhân dân tỉnh.
+
+2. Sở Thông tin và Truyền thông là cơ
+quan được giao tổ chức quản lý và vận hành Cổng thông tin.
+
+3. Ban biên tập Cổng thông tin thực hiện việc biên tập, kiểm duyệt,
+cập nhật và đăng tải thông tin lên Cổng
+thông tin. Ban biên tập Cổng thông tin do cơ quan quản lý
+và vận hành Cổng thông tin tham mưu Ủy ban nhân dân tỉnh thành lập.
+
+4. Việc vận hành, cung cấp, truyền
+đưa, lưu trữ, sử dụng thông tin điện tử trên Cổng thông tin phải tuân thủ các
+quy định của pháp luật hiện hành về công nghệ
+thông tin, sở hữu trí tuệ, báo chí, xuất bản, bảo vệ bí mật Nhà nước, bản
+quyền, quảng cáo và các quy định khác về quản lý thông tin
+điện tử trên mạng Internet.
+
+Điều 4. Chức
+năng, nhiệm vụ và quyền hạn của cơ quan quản lý và vận hành Cổng thông tin
+
+1. Chức năng
+
+Cơ quan quản lý và vận hành Cổng thông tin có chức năng tham mưu Ủy ban nhân dân
+tỉnh công tác tổ chức quản lý, vận hành Cổng thông tin; tổ
+chức cơ sở vật chất, hạ tầng kỹ thuật nhằm bảo đảm cho hoạt
+động của Cổng thông tin được thông suốt, ổn định; thông
+tin, dữ liệu được an toàn, bảo mật.
+
+2. Nhiệm vụ và quyền hạn
+
+a) Tham mưu Ủy ban nhân dân tỉnh
+thành lập Ban biên tập Cổng thông tin. Cơ cấu thành phần
+Ban biên tập bao gồm đại diện của các cơ quan: Sở Thông tin và Truyền thông; Sở
+Kế hoạch và Đầu tư; Sở Nội vụ; Sở Giáo dục và Đào tạo; Sở Lao động - Thương
+binh và Xã hội.
+
+b) Thực hiện các thủ tục để Cổng thông tin được chính thức hoạt động trên mạng Internet theo đúng
+quy định.
+
+c) Hướng dẫn, hỗ trợ kỹ thuật cho Ban
+biên tập Cổng thông tin thực hiện việc khai thác, tiếp nhận,
+xử lý, cập nhật và đăng tải các loại thông tin, dữ liệu liên quan đến nguồn
+nhân lực của tỉnh trên Cổng thông tin.
+
+d) Bảo đảm các điều kiện về: cơ sở vật
+chất, hạ tầng kỹ thuật; cơ chế sao lưu, phục hồi dữ liệu; giải pháp an toàn, an
+ninh thông tin, dữ liệu,... để Cổng thông tin hoạt động
+liên tục, thông suốt, hiệu quả.
+
+đ) Tổ chức bồi dưỡng về chuyên môn,
+nghiệp vụ có liên quan đến việc quản lý và vận hành Cổng
+thông tin theo quy định của pháp luật.
+
+e) Theo dõi, tổng hợp báo cáo tình
+hình hoạt động của Cổng thông tin; tiếp nhận ý kiến đóng
+góp, đề xuất hoàn thiện Cổng thông tin.
+
+g) Xây dựng và trình Ủy ban nhân dân
+tỉnh ban hành kế hoạch hoạt động hàng năm của Cổng thông tin và tổ chức triển khai kế hoạch sau khi được phê duyệt.
+
+h) Tham mưu, đề xuất phương án nâng cấp,
+phát triển Cổng thông tin bảo đảm phù hợp với nhu cầu sử dụng
+thực tế.
+
+Điều 5. Nhiệm vụ
+của Ban biên tập Cổng thông tin
+
+1. Ban biên tập chịu trách nhiệm
+chính về nội dung Cổng thông tin.
+
+2. Tổ chức quản lý tin, bài viết trên
+Cổng thông tin; thực hiện việc tiếp nhận, xử lý, biên tập,
+cập nhật và đăng tải thông tin, dữ liệu tại các chuyên mục, chuyên trang trên Cổng thông tin được kịp thời, chính xác.
+
+3. Chủ trì, phối hợp với các cơ quan
+quản lý chuyên môn, các đơn vị cung cấp thông tin xây dựng và ban hành áp dụng
+các biểu mẫu cung cấp thông tin theo các loại thông tin quy định tại Điều 8 Quy
+chế này.
+
+4. Hướng dẫn, đôn đốc các cơ quan
+liên quan cung cấp thông tin, kiểm tra nội dung thông tin và xử lý yêu cầu kỹ
+thuật khi đăng tải thông tin.
+
+5. Chủ trì, phối hợp xử lý, trả lời
+các phản ánh, kiến nghị của tổ chức, công dân về các vấn đề liên quan đến nguồn
+nhân lực của tỉnh.
+
+6. Phối hợp với cơ quan quản lý và vận
+hành Cổng thông tin xây dựng, tổ chức triển khai kế hoạch
+hoạt động hàng năm của Cổng thông tin.
+
+7. Xây dựng và ban hành Quy chế làm
+việc của Ban biên tập Cổng thông tin.
+
+Điều 6. Trách nhiệm
+của các cơ quan, đơn vị tham gia Cổng thông tin
+
+1. Sở Kế hoạch và Đầu tư
+
+Thực hiện thu thập và cung cấp thông
+tin về các nội dung được quy định tại Khoản 1 Điều 8 Quy chế này gửi đến Ban
+biên tập Cổng thông tin.
+
+2. Sở Nội vụ
+
+a) Thực hiện thu thập và cung cấp
+thông tin về các hoạt động liên quan đến công tác quản lý, tuyển dụng cán bộ,
+công chức, viên chức của tỉnh được quy định tại Khoản 2 Điều 8 Quy chế này gửi đến Ban biên tập Cổng thông
+tin.
+
+b) Kiểm tra, kiểm
+soát tính chính xác của số liệu được kết xuất từ phần mềm Quản lý cán bộ, công
+chức, viên chức theo các tiêu chí thống kê hiển thị trên Cổng
+thông tin.
+
+3. Sở Giáo dục và Đào tạo
+
+a) Tổ chức triển khai việc thu thập
+và tổng hợp số liệu đào tạo nhân lực được quy định tại Khoản 3 Điều 8 Quy chế
+này từ các trường đại học, các trường cao đẳng đào tạo ngành sư phạm, các học
+viện (có đào tạo hệ dân sự) đóng trên địa bàn tỉnh.
+
+b) Thực hiện cung cấp thông tin về số
+liệu tại Điểm a Khoản này gửi đến Ban biên tập Cổng thông tin để phục vụ đăng tải
+lên Cổng thông tin.
+
+4. Sở Lao động - Thương Binh và Xã hội
+
+a) Tổ chức triển khai việc thu thập và
+tổng hợp số liệu đào tạo nhân lực được quy định tại Khoản 3 Điều 8 Quy chế này
+từ các trường cao đẳng (trừ các trường cao đẳng đào tạo ngành sư phạm), trung cấp,
+trung tâm giáo dục nghề nghiệp và các cơ sở hoạt động giáo
+dục nghề nghiệp trên địa bàn tỉnh.
+
+b) Thực hiện cung cấp thông tin về số
+liệu tại Điểm a Khoản này gửi đến Ban biên tập Cổng thông tin để phục vụ đăng tải
+lên Cổng thông tin.
+
+5. Trung tâm Dịch vụ việc làm Khánh
+Hòa
+
+a) Thực hiện cập nhật đầy đủ, kịp thời
+các thông tin, dữ liệu được quy định tại Khoản 4 Điếu 8 Quy chế này trên Trang
+thông tin điện tử http://vieclamkhanhhoa.com.vn do Trung tâm quản lý.
+
+b) Bảo đảm các điều kiện về cơ sở vật
+chất, hạ tầng kỹ thuật; cơ chế sao lưu, phục hồi dữ liệu; kết hợp thực thi các
+giải pháp an toàn, an ninh thông tin,... để Trang thông
+tin điện tử http://vieclamkhanhhoa.com.vn hoạt động liên tục, thông suốt, hiệu
+quả.
+
+6. Các trường đại học, các trường cao
+đẳng đào tạo ngành sư phạm, các học viện (có đào tạo hệ dân sự) đóng trên địa
+bàn tỉnh thực hiện cung cấp thông tin theo các biểu mẫu do Ban biên tập Cổng thông tin chủ trì xây dựng và ban hành áp dụng gửi đến Sở Giáo dục
+và Đào tạo.
+
+7. Các trường cao đẳng (trừ các trường cao đẳng đào tạo ngành sư phạm), trung cấp, trung
+tâm giáo dục nghề nghiệp và các cơ sở hoạt động giáo dục nghề nghiệp trên địa
+bàn tỉnh thực hiện cung cấp thông tin theo các biểu mẫu do Ban biên tập Cổng thông tin chủ trì xây dựng và ban hành áp dụng gửi
+đến Sở Lao động - Thương binh và Xã hội.
+
+8. Các tổ chức, cá nhân khác tham gia khai thác thông tin trên Cổng
+thông tin có trách nhiệm cung cấp đầy đủ, chính xác các thông tin theo yêu cầu
+của cơ quan quản lý và vận hành Cổng thông tin; tuân thủ
+các quy định hiện hành của Nhà nước về quản lý, cung cấp, sử dụng thông tin điện
+tử trên mạng Internet và các quy định pháp luật khác liên quan.
+
+Chương III
+
+QUY ĐỊNH VỀ CUNG
+CẤP THÔNG TIN TRÊN CỔNG THÔNG TIN
+
+Điều 7. Nguyên tắc
+chung trong việc cung cấp, tiếp nhận, đăng tải thông tin trên Cổng thông tin
+
+1. Các thông tin được cung cấp, tiếp
+nhận và đăng tải trên Cổng thông tin phải đáp ứng mục tiêu
+công khai, minh bạch về các hoạt động quản lý và phát triển nguồn nhân lực của
+tỉnh.
+
+2. Thông tin cung cấp trên Cổng thông tin phải đúng chủ trương, đường lối của Đảng, chính sách,
+pháp luật của Nhà nước và tuân thủ các quy định của pháp luật về bảo vệ bí mật
+nhà nước, sở hữu trí tuệ và quản lý thông tin điện tử trên mạng Internet.
+
+3. Thông tin do các cơ quan, tổ chức
+cung cấp trên Cổng thông tin phải đảm bảo nguyên tắc: đầy
+đủ, chính xác và kịp thời. Thủ trưởng các cơ quan, tổ chức cung cấp thông tin
+phải chịu trách nhiệm trước pháp luật về nội dung và tính chính xác của thông
+tin đã cung cấp.
+
+4. Các thông tin được đưa chính thức
+lên Cổng thông tin phải chịu sự kiểm duyệt của Ban biên tập
+Cổng thông tin.
+
+5. Thông tin của các cơ quan, tổ chức
+cung cấp trên Cổng thông tin phải sử dụng các phông chữ của
+Bộ mã ký tự chữ Việt theo tiêu chuẩn Việt Nam TCVN 6909:2001.
+
+Điều 8. Những loại
+thông tin cung cấp trên Cổng thông tin
+
+1. Thông tin về chiến lược, quy hoạch,
+chương trình, kế hoạch và kết
+quả thực hiện các chương trình phát triển nguồn nhân lực của tỉnh Khánh Hòa.
+
+2. Thông tin về các quy định, chính
+sách, kế hoạch tuyển dụng, thống kê quản lý liên quan đến cán bộ, công chức, viên
+chức đang làm việc trong các cơ quan nhà nước thuộc tỉnh.
+
+3. Thông tin về chỉ tiêu tuyển sinh,
+kết quả tốt nghiệp, sinh viên tốt nghiệp tại các cơ sở đào tạo trên địa bàn
+toàn tỉnh tính theo hàng năm.
+
+4. Thông tin về các quy định, chính
+sách liên quan đến lao động, việc làm (chính sách bảo hiểm thất nghiệp, thông
+tin xuất khẩu lao động, thông tin tổ chức phiên giao dịch việc làm...); thông
+tin tổng hợp nhu cầu tuyển dụng lao động, nhu cầu đăng ký tìm việc làm của người
+lao động theo lĩnh vực, ngành nghề (các thông tin được liên kết trực tiếp từ
+Trang thông tin điện tử http://vieclamkhanhhoa.com.vn do
+Trung tâm Dịch vụ Việc làm Khánh Hòa quản lý).
+
+5. Tổ chức, doanh nghiệp thực hiện
+đăng ký trực tuyến thông tin tuyển dụng lên Cổng thông tin.
+
+6. Liên kết, tích hợp các Cổng/trang thông tin điện tử của Trung ương, địa
+phương và các tổ chức khác thuộc lĩnh vực phát triển nguồn nhân lực.
+
+Điều 9. Phương thức
+cung cấp thông tin
+
+1. Các cơ quan quản lý chuyên môn: Sở
+Kế hoạch và Đầu tư; Sở Nội vụ; Sở Giáo dục và Đào tạo; Sở Lao động - Thương
+binh và xã hội thực hiện cung cấp thông tin theo dạng văn bản giấy hoặc văn bản
+điện tử (văn bản điện tử phải được chứng thực chữ ký số) thông qua hộp thư điện
+tử của Ban biên tập Cổng thông tin: bbt.nnl@khanhhoa.gov.vn.
+
+2. Các trường đại học, các trường cao
+đẳng đào tạo ngành sư phạm, các học viện (có đào tạo hệ dân sự) đóng trên địa
+bàn tỉnh thực hiện cung cấp thông tin dưới dạng văn bản điện tử gửi đến Sở Giáo dục và Đào tạo thông qua hộp thư điện tử sgddt@khanhhoa.gov.vn.
+
+3. Các trường cao đẳng (trừ các trường cao đẳng đào tạo ngành sư phạm), trung cấp, trung
+tâm giáo dục nghề nghiệp và các cơ sở hoạt động giáo dục nghề nghiệp trên địa bàn tỉnh cung cấp thông tin dưới dạng
+văn bản điện tử gửi đến Sở Lao động - Thương binh và Xã hội thông qua hộp thư
+điện tử sldtbxh@khanhhoa.gov.vn.
+
+Điều 10. Chế độ
+cung cấp thông tin
+
+1. Các cơ quan quản lý chuyên môn có
+trách nhiệm cung cấp thông tin cho Ban biên tập Cổng thông tin chậm nhất là 10 ngày
+làm việc kể từ ngày thông tin đó có quyết định công bố ban hành hoặc nhận được
+từ các đơn vị cung cấp thông tin.
+
+2. Các trường đại học, trường cao đẳng,
+học viện (có đào tạo hệ dân sự), trường trung cấp, trung tâm giáo dục nghề nghiệp
+và các cơ sở hoạt động giáo dục nghề nghiệp đóng trên địa bàn tỉnh cung cấp
+thông tin cho các cơ quan quản lý chuyên môn chậm nhất là 07 ngày làm việc kể từ
+ngày thông tin đó được chính thức công bố ban hành.
+
+Điều 11. Chế độ
+thù lao và nhuận bút
+
+Việc chi trả thù lao và nhuận bút cho
+Ban biên tập Cổng thông tin, cộng tác viên cung cấp thông
+tin trên Cổng thông tin được thực hiện theo văn bản hướng
+dẫn của các cơ quan Trung ương và của tỉnh.
+
+Chương IV
+
+TỔ CHỨC THỰC HIỆN
+
+Điều 12. Khen
+thưởng và xử lý vi phạm
+
+1. Các tổ chức, cá nhân có thành tích
+trong việc thực hiện Quy chế này, góp phần phát triển Cổng
+thông tin được xét khen thưởng theo quy định.
+
+2. Nghiêm cấm hành vi phá hoại Cổng thông tin dưới mọi hình thức. Các tổ chức, cá nhân vi phạm các quy
+định trong Quy chế này sẽ bị xem xét, xử lý theo quy định của pháp luật.
+
+Điều 13. Phân
+công tổ chức thực hiện
+
+1. Thủ trưởng các Sở, ban, ngành, Chủ
+tịch UBND các huyện, thị xã, thành phố; thủ trưởng các cơ quan quản lý chuyên
+môn; thủ trưởng các trường đại học, trường cao đẳng, học viện
+(có đào tạo hệ dân sự), trường trung cấp, trung tâm giáo dục nghề nghiệp, các
+cơ sở hoạt động giáo dục nghề nghiệp đóng trên địa bàn tỉnh
+và các tổ chức, cá nhân tham gia cung cấp, trao đổi, khai
+thác thông tin trên Cổng thông tin có trách nhiệm thực hiện Quy chế này.
+
+2. Cơ quan quản lý và vận hành Cổng thông tin, Ban biên tập Cổng thông tin chịu
+trách nhiệm tổ chức triển khai thực hiện Quy chế này, bảo
+đảm hoạt động của Cổng thông tin được thông suốt, ổn định
+và an toàn trên mạng Internet.
+
+3. Trong quá trình thực hiện Quy chế
+này, nếu có phát sinh vướng mắc hoặc cần
+điều chỉnh, sửa đổi, bổ sung, các tổ chức, cá nhân có liên quan kịp thời báo
+cáo về cơ quan quản lý và vận hành Cổng thông tin để trình
+Ủy ban nhân dân tỉnh xem xét, quyết định./.--- THÔNG TIN THÊM ---
+Ten: Quyết định 1724/QĐ-UBND năm 2017 Quy chế quản lý và vận hành Cổng thông tin điện tử Phát triển nguồn nhân lực tỉnh Khánh Hòa
+So hieu: 1724/QĐ-UBND
+Loai van ban: Quyết định
+Linh vuc nganh: Lao động - Tiền lương, Công nghệ thông tin
+Noi ban hanh: Tỉnh Khánh Hòa
+Nguoi ky: Nguyễn Đắc Tài
+Ngay ban hanh: 15/06/2017
+Ngay hieu luc: 15/06/2017
+Ngay dang: Dữ liệu đang cập nhật
+So cong bao: Dữ liệu đang cập nhật
+Tinh trang: Còn hiệu lực
+
+
+--- MỤC LỤC ---
+- QUYẾT ĐỊNH BAN HÀNH QUY CHẾ QUẢN LÝ VÀ VẬN HÀNH CỔNG THÔNG TIN ĐIỆN TỬ PHÁT TRIỂN NGUỒN NHÂN LỰC TỈNH KHÁNH HÒA
+  - Điều 1. Ban hành kèm theo Quyết định này Quy chế quản lý và vận hành Cổng thông tin điện tử Phát triển nguồn nhân lực tỉnh Khánh Hòa, gồm 13 Điều, 04 Chương.
+  - Điều 2. Chánh Văn phòng UBND tỉnh; Thủ trưởng các Sở, ban, ngành; Chủ tịch UBND các huyện, thị xã, thành phố; Thủ trưởng các trường đại học, trường cao đẳng, học viện (có đào tạo hệ dân sự), trường trung cấp, trung tâm giáo dục nghề nghiệp và các cơ sở hoạt động giáo dục nghề nghiệp đóng trên địa bàn tỉnh và các tổ chức, cá nhân liên quan chịu trách nhiệm thi hành Quyết định này kể từ ngày ký./.
+- QUY CHẾ QUẢN LÝ VÀ VẬN HÀNH CỔNG THÔNG TIN ĐIỆN TỬ PHÁT TRIỂN NGUỒN NHÂN LỰC TỈNH KHÁNH HÒA
+  - Chương I QUY ĐỊNH CHUNG
+    - Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng
+    - Điều 2. Chức năng của Cổng thông tin điện tử Phát triển nguồn nhân lực tỉnh Khánh Hòa
+  - Chương II TỔ CHỨC VÀ HOẠT ĐỘNG CỔNG THÔNG TIN
+    - Điều 3. Tổ chức và hoạt động của Cổng thông tin
+    - Điều 4. Chức năng, nhiệm vụ và quyền hạn của cơ quan quản lý và vận hành Cổng thông tin
+    - Điều 5. Nhiệm vụ của Ban biên tập Cổng thông tin
+    - Điều 6. Trách nhiệm của các cơ quan, đơn vị tham gia Cổng thông tin
+  - Chương III QUY ĐỊNH VỀ CUNG CẤP THÔNG TIN TRÊN CỔNG THÔNG TIN
+    - Điều 7. Nguyên tắc chung trong việc cung cấp, tiếp nhận, đăng tải thông tin trên Cổng thông tin
+    - Điều 8. Những loại thông tin cung cấp trên Cổng thông tin
+    - Điều 9. Phương thức cung cấp thông tin
+    - Điều 10. Chế độ cung cấp thông tin
+    - Điều 11. Chế độ thù lao và nhuận bút
+  - Chương IV TỔ CHỨC THỰC HIỆN
+    - Điều 12. Khen thưởng và xử lý vi phạm
+    - Điều 13. Phân công tổ chức thực hiện
+
+--- VĂN BẢN LIÊN QUAN ---
+
+Van ban duoc can cu:
+  - Quyết định 1819/QĐ-TTg năm 2015 phê duyệt Chương trình quốc gia về ứng dụng công nghệ thông tin trong hoạt ... (ID: 294230)
+  - Luật tổ chức chính quyền địa phương 2015 (ID: 282380)
+  - Nghị định 64/2007/NĐ-CP về việc ứng dụng công nghệ thông tin trong hoạt động của cơ quan Nhà nước (ID: 18234)
+  - Luật Công nghệ thông tin 2006 (ID: 12987)
+  - Luật Giao dịch điện tử 2005 (ID: 6922)
+
+Van ban lien quan cung noi dung:
+  - Quyết định 38/2018/QĐ-UBND về Quy chế quản lý và vận hành Cổng Thông tin điện tử tỉnh Khánh Hòa (ID: 402962)
+  - Quyết định 2187/2017/QĐ-UBND Quy chế tổ chức và quản lý hoạt động của Cổng thông tin điện tử tỉnh Quảng Ninh (ID: 355680)
+  - Quyết định 16/2017/QĐ-UBND Quy chế hoạt động của Cổng thông tin điện tử tỉnh Quảng Ngãi (ID: 346907)
+  - Quyết định 03/2017/QĐ-UBND Quy chế quản lý và sử dụng Hệ thống dịch vụ công trực tuyến trên Cổng Thông tin điện tử tỉnh Lai Châu (ID: 340214)

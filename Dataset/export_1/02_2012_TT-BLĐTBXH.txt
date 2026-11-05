@@ -1,0 +1,1702 @@
+BỘ
+ LAO ĐỘNG - THƯƠNG BINH VÀ XÃ HỘI
+
+ -------
+
+CỘNG
+ HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+ Độc lập - Tự do - Hạnh phúc 
+
+ ---------------
+
+Số:
+ 02/2012/TT-BLĐTBXH
+
+Hà
+ Nội, ngày 18 tháng 01 năm 2012
+
+ 
+
+THÔNG TƯ
+
+BAN HÀNH QUY CHUẨN KỸ THUẬT QUỐC GIA AN TOÀN LAO ĐỘNG TRONG KHAI
+THÁC VÀ CHẾ BIẾN ĐÁ
+
+Căn cứ Nghị định số 186/2007/NĐ-CP ngày 25/12/2007 của Chính phủ,
+quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Lao động -
+Thương binh và Xã hội;
+
+Căn cứ Nghị định số 127/2007/NĐ-CP ngày 01/8/2007 của Chính phủ quy
+định chi tiết một số điều của Luật Tiêu chuẩn và
+Quy chuẩn kỹ thuật;
+
+Căn cứ Thông tư số 23/2007/TT-BKHCN ngày 28/9/2007 của Bộ Khoa học
+và Công nghệ hướng dẫn xây dựng, thẩm định và ban hành quy chuẩn kỹ thuật;
+
+Sau khi có ý kiến thẩm định của
+Bộ Khoa học và Công nghệ tại Công văn số 3321/BKHCN ngày 21/12/2011, Bộ Lao động
+- Thương binh và Xã hội ban hành Quy chuẩn kỹ thuật quốc gia An toàn lao động
+trong khai thác và chế biến đá, như sau:
+
+Điều 1. Quy định
+về Quy chuẩn
+
+1. Tên quy chuẩn: Quy chuẩn kỹ thuật
+quốc gia An toàn lao động trong khai thác và chế biến đá.
+
+2. Ký hiệu: QCVN 05 : 2012/BLĐTBXH
+
+Điều 2. Hiệu lực
+thi hành 
+
+Quy chuẩn kỹ thuật quốc gia An toàn
+lao động trong khai thác và chế biến đá có hiệu lực từ ngày 01 tháng 7 năm 2012
+
+Điều 3. Tổ chức
+thực hiện 
+
+1. Các Bộ, cơ quan ngang Bộ, cơ
+quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung
+ương chịu trách nhiệm thi hành các quy định tại Thông tư này.
+
+2. Trong quá trình thực hiện, nếu
+có vướng mắc, các cơ quan, tổ chức, cá nhân phản ánh về Bộ Lao động - Thương
+binh và Xã hội để xem xét, giải quyết.
+
+ 
+
+ 
+
+Nơi nhận:
+
+- Văn phòng Chính phủ;
+
+ - Văn phòng Quốc hội;
+
+ - TAND tối cao; VKSND tối cao
+
+ - Các Bộ, cơ quan ngang Bộ, Cơ quan thuộc Chính phủ;
+
+ - Ủy ban nhân dân, Sở LĐTBXH các tỉnh, thành phố;
+
+ - Cục kiểm tra văn bản - Bộ Tư pháp;
+
+ - Công báo;
+
+ - Website Bộ LĐTBXH;
+
+ - Lưu: VT, ATLĐ (07).
+
+KT.
+ BỘ TRƯỞNG
+
+ THỨ TRƯỞNG
+
+ Bùi Hồng Lĩnh
+
+ 
+
+QCVN 05: 2012/BLĐTBXH
+
+QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ AN TOÀN LAO ĐỘNG TRONG KHAI
+THÁC VÀ CHẾ BIẾN ĐÁ
+
+National
+technical regulation on Occupational Safe for Quarry and Processing
+
+Chương 1.
+
+QUY ĐỊNH CHUNG
+
+Điều 1. Phạm
+vi điều chỉnh
+
+Quy chuẩn này quy định các biện
+pháp quản lý và các yêu cầu liên quan đến an toàn lao động, vệ sinh lao động đối
+với hoạt động khai thác, chế biến đá và các yêu cầu hệ thống quản lý an toàn
+lao động, vệ sinh lao động đối với các cơ sở khai thác, chế biến đá.
+
+Điều 2. Đối
+tượng áp dụng 
+
+Quy chuẩn này áp dụng đối với các tổ
+chức, cá nhân có hoạt động liên quan tới hoạt động khai thác, chế biến các loại
+đá trên lãnh thổ Việt Nam.
+
+Điều 3. Giải
+thích từ ngữ
+
+Trong Quy chuẩn này, các từ ngữ dưới
+đây được hiểu như sau:
+
+1. Khai thác đá lộ thiên là
+hoạt động công nghệ bao gồm các công đoạn chuẩn bị đất đá để khấu, khoan, nổ,
+mìn, xúc bốc đất đá và vận chuyển đất đá ra bãi thải và về kho chứa, xưởng chế
+biến, nhằm mục đích thu hồi đá trực tiếp từ mặt đất hoặc trong lòng đất.
+
+2. Khai thác thủ công là hoạt
+động khai thác đá không dùng máy, thiết bị mà bằng hình thức cậy bẩy, tách khối
+bằng các dụng cụ như nêm, búa hoặc dụng cụ cầm tay khác nhằm mục đích thu hồi
+đá trực tiếp từ mặt đất hoặc trong lòng đất.
+
+3. Chế biến đá là hoạt động
+nghiền, đập và sàng, xẻ đá hoặc phân loại để đạt được kích cỡ nhất định phù hợp
+với yêu cầu của khách hàng.
+
+4. Đá làm vật liệu xây dựng
+thông thường là các loại đá được khai thác để làm vật liệu xây dựng, từ các
+loại đá làm vật liệu sản xuất xi măng, đá khối nêu tại điểm 5 điều này.
+
+5. Đá khối là các loại đá
+phun trào (granit, điôrit, poocphirit), biến chất (đá phiến kết tinh, quắc zít,
+đá hoa cương, gơnai), trầm tích (đá phiến sét, sét kết, bột kết, mắc ma, thạch
+cao)
+
+Điều 4. Các yêu
+cầu chung
+
+1. Chỉ cấp phép khai thác, chế biến
+đá ở những địa điểm đảm bảo bán kính an toàn trong quá trình nổ mìn và chế biến
+đá.
+
+Diện tích cấp phép và thời gian cấp
+phép phải đảm bảo để thiết kế và hoạt động khai thác, chế biến đảm bảo an toàn
+lao động, vệ sinh lao động và bảo vệ môi trường.
+
+2. Tổ chức, cá nhân và mọi người
+lao động tiến hành khai thác và chế biến đá đều phải thực hiện các quy định của
+pháp luật về an toàn lao động, vệ sinh lao động.
+
+3. Các đơn vị phải có các chức danh
+sau đây (về tiêu chuẩn, trình độ, năng lực cán bộ theo đúng các quy định hiện
+hành của Nhà nước):
+
+3.1. Giám đốc điều hành mỏ.
+
+3.2. Người chỉ huy nổ mìn.
+
+3.3. Cán bộ chuyên trách (hoặc bán
+chuyên trách) về công tác an toàn lao động, vệ sinh lao động.
+
+4. Đơn vị khai thác đá phải xây dựng
+và ban hành nội quy lao động của mỏ theo quy định của pháp luật về lao động.
+Các quy định về an toàn lao động, vệ sinh lao động phù hợp với các tiêu chuẩn,
+quy trình, quy chuẩn về an toàn lao động và vệ sinh lao động do các cơ quan nhà
+nước có thẩm quyền ban hành.
+
+5. Người lao động phải có đủ sức khỏe
+và được khám sức khỏe định kỳ hàng năm theo quy định hiện hành của cơ quan y tế
+có thẩm quyền. Không được tiếp nhận người không đủ sức khỏe theo tiêu chuẩn quy
+định đối với công việc đang đảm nhận.
+
+6. Người lao động trước khi bố trí
+công việc tại mỏ phải được huấn luyện về an toàn lao động, vệ sinh lao động
+theo quy định; lao động làm các công việc có yêu cầu nghiêm ngặt về an toàn lao
+động, vệ sinh lao động phải được cấp thẻ an toàn lao động.
+
+7. Đơn vị khai thác đá phải đảm bảo:
+
+7.1. Mỏ phải có đường lên xuống núi
+để công nhân đi lại thuận lợi, an toàn. Khi độ dốc của đường lớn hơn 300
+phải có lan can chắc chắn;
+
+7.2. Có phương tiện chuyên chở phù
+hợp cho người đi làm phải qua sông, suối, hồ trong mặt bằng thi công. Các
+phương tiện chuyên chở bằng đường thủy phải đảm bảo an toàn theo quy định đăng
+kiểm Việt Nam hiện hành.
+
+7.3. Có đầy đủ tài liệu địa chất,
+thiết kế thi công, hộ chiếu khoan, nổ mìn và hộ chiếu xúc, bốc, vận tải.
+
+8. Người sử dụng lao động và người
+lao động phải nghiêm chỉnh thực hiện các quy định hiện hành của pháp luật về an
+toàn lao động, vệ sinh lao động và phòng chống cháy nổ hiện hành. Đặc biệt chú
+trọng những điểm sau:
+
+8.1. Người sử dụng lao động phải thực
+hiện các chế độ bảo hộ lao động cho người lao động như: trang bị phương tiện bảo
+vệ cá nhân, chế độ thời giờ làm việc, thời giờ nghỉ ngơi, bồi dưỡng bằng hiện vật
+và các chế độ khác có liên quan; tại những khu vực nguy hiểm, phải có biển báo,
+bảng chỉ dẫn an toàn, đề phòng tai nạn được đặt tại vị trí dễ thấy, dễ đọc. Các
+vị trí đặt thiết bị, trạm điện, trạm bơm … phải có nội quy vận hành và nội quy
+an toàn lao động.
+
+8.2. Nhà cửa, công trình trong phạm
+vi công trường phải theo đúng các yêu cầu quy định về phòng chống cháy nổ; nơi
+ăn, ở của công nhân phải cách ly với khu vực sản xuất và chế biến đá, nằm ngoài
+bán kính của vùng nguy hiểm khi nổ mìn đã được quy định trong thiết kế và không
+ở cuối hướng gió chính trong năm;
+
+8.3. Khi có nguy cơ xảy ra sự cố về
+an toàn lao động, phải thực hiện ngay các biện pháp cần thiết để loại trừ; khi
+xảy ra sự cố, tai nạn lao động, giám đốc điều hành mỏ phải thực hiện ngay các
+biện pháp khẩn cấp để loại trừ nguyên nhân gây ra sự cố; cấp cứu, sơ tán người
+ra khỏi vùng nguy hiểm; kịp thời báo cáo với các cơ quan nhà nước có thẩm quyền;
+bảo vệ tài sản, bảo vệ hiện trường theo quy định của pháp luật.
+
+8.4. Người sử dụng lao động phải thực
+hiện chế độ báo cáo định kỳ, báo cáo đột xuất về an toàn lao động và vệ sinh
+lao động theo quy định.
+
+8.5. Tất cả các trường hợp tai nạn
+lao động, sự cố có liên quan đến người lao động phải được khai báo, điều tra, xử
+lý, thống kê theo các quy định của pháp luật hiện hành.
+
+9. Khi giao việc mỗi ca, cán bộ chỉ
+huy (đội trưởng, quản đốc, cán bộ quản lý …) phải ghi Sổ phân công hoặc Phiếu
+giao việc/ Nhật lệnh sản xuất cho từng công nhân làm việc độc lập hoặc tổ, đội
+sản xuất, trong đó phải ghi đầy đủ và cụ thể biện pháp an toàn - vệ sinh lao động.
+Người giao việc và người nhận việc phải ký vào sổ hoặc phiếu.
+
+10. Khi bố trí người vào làm việc,
+cán bộ trực tiếp chỉ đạo sản xuất (tổ trưởng, đội trưởng, quản đốc) phải xem
+xét cụ thể hiện trường, nếu đảm bảo an toàn, vệ sinh lao động mới bố trí công
+việc.
+
+11. Người lao động phải sử dụng đầy
+đủ phương tiện bảo vệ cá nhân được trang cấp, chấp hành nghiêm chỉnh những quy
+định an toàn, vệ sinh lao động tại nơi làm việc. Khi phát hiện thấy hiện tượng
+nguy hiểm, bản thân phải tích cực đề phòng và báo ngay cho cán bộ phụ trách biết
+để có biện pháp giải quyết kịp thời. Người lao động có quyền từ chối hoặc rời bỏ
+nơi làm việc khi thấy rõ có nguy cơ tai nạn lao động, đe dọa nghiêm trọng tính
+mạng, sức khỏe của mình.
+
+12. Ngoài những điều quy định trong
+quy chuẩn này, các cơ sở khai thác và chế biến đá phải chấp hành nghiêm chỉnh
+các quy định về an toàn lao động, vệ sinh lao động, phòng chống cháy nổ và bảo
+vệ môi trường có liên quan.
+
+Chương 2.
+
+QUY ĐỊNH VỀ AN TOÀN
+TRONG KHAI THÁC ĐÁ
+
+Điều 5. Chuẩn bị
+khai trường
+
+1. Phương pháp mở vỉa và trình tự
+khai thác mỏ phải được lựa chọn trên cơ sở so sánh các phương án kinh tế - kỹ
+thuật và có đủ các biện pháp an toàn lao động, vệ sinh kinh doanh, để đảm bảo
+cho công tác khai thác được an toàn.
+
+2. Khi mở vỉa phải:
+
+2.1. Dọn sạch cây, chướng ngại vật
+trong phạm vi khai trường.
+
+2.2. Di chuyển nhà cửa, công trình
+nằm trong phạm vi nguy hiểm do nổ mìn, đá lăn.
+
+2.3. Làm đường lên núi đảm bảo đưa
+thiết bị, vật liệu đến nơi công tác và người đi lại thuận tiện, an toàn.
+
+2.4. Chuẩn bị bãi thải và đường vận
+chuyển đá, đất đá thải.
+
+2.5. Làm mương thoát nước và bờ
+ngăn nước chảy vào khai trường, nếu khai thác các mỏ nằm dưới mức thoát nước tự
+nhiên.
+
+3. Quá trình xây dựng cơ bản để chuẩn
+bị khai thác phải tiến hành theo đúng thiết kế đã được duyệt. Nếu thay đổi thiết
+kế phải được sự đồng ý của cơ quan có thẩm quyền duyệt thiết kế.
+
+Điều 6. Yêu cầu
+an toàn khi mở tầng
+
+1. Khi khai thác phải tạo tầng.
+Kích thước của tầng phụ thuộc vào điều kiện thực tế và khả năng hoạt động của
+thiết bị sử dụng.
+
+2. Nếu độ dốc của sườn núi lớn hơn
+độ dốc trượt lở tự nhiên của đất đá, phải mở tầng khai thác từ trên xuống.
+
+3. Độ dốc của sườn núi nhỏ hơn hoặc
+bằng độ dốc trượt lở tự nhiên của đất đá, có thể mở tầng từ dưới lên.
+
+4. Chiều cao của tầng khai thác phải
+đảm bảo theo thiết kế, đồng thời phải thỏa mãn các điều kiện theo TCVN 5178:2004: Quy phạm kỹ thuật an toàn trong
+khai thác, chế biến đá lộ thiên.
+
+5. Đối với khai thác cơ giới, chiều
+cao của tầng khai thác quy định như sau:
+
+5.1. Khi sử dụng máy xúc tay gầu
+xúc đất đá mềm không phải nổ mìn, chiều cao tầng không được lớn hơn chiều cao
+xúc tối đa của máy xúc.
+
+5.2. Khi sử dụng máy xúc tay gầu
+xúc đất đá phải nổ mìn, chiều cao tầng không được lớn hơn 1,5 lần chiều cao xúc
+tối đa của máy xúc.
+
+5.3. Khi dùng máy xúc gầu treo, chiều
+cao tầng không được lớn hơn chiều sâu xúc tối đa của máy xúc.
+
+5.4. Khi cơ giới hóa toàn bộ quá
+trình khai thác, chiều cao tầng áp dụng theo quy định tại Quy chuẩn kỹ thuật quốc
+gia về Khai thác lộ thiên.
+
+6. Góc dốc sườn tầng khai thác phải
+đảm bảo:
+
+6.1. Không được vượt quá góc trượt
+lở tự nhiên của đất đá nếu là loại đá xốp rời.
+
+6.2. Nhỏ hơn 600 đối với
+loại đất đá mềm nhưng ổn định.
+
+6.3. Nhỏ hơn 800 đối với
+loại đất đá rắn.
+
+7. Bề rộng của mặt tầng công tác phải
+đảm bảo cho thiết bị khai thác làm việc được bình thường và an toàn:
+
+7.1. Khi khai thác đá thủ công,
+không có vận chuyển trên mặt tầng thì bề rộng mặt tầng không nhỏ hơn 1,5m.
+
+7.2. Khi khai thác thủ công có vận
+chuyển bằng goòng đẩy tay thì bề rộng mặt tầng không nhỏ hơn 3m.
+
+7.3. Khi khai thác cơ giới bề rộng
+mặt tầng phải đảm bảo đủ cho thiết bị khai thác, phương tiện vận chuyển lớn nhất
+làm việc an toàn.
+
+8. Góc nghiêng của mặt tầng khai
+thác:
+
+8.1. Khi khai thác thủ công, góc nghiêng
+của mặt tầng không lớn hơn 150.
+
+8.2. Khi khai thác cơ giới, góc
+nghiêng của mặt tầng tính theo độ ổn định của thiết bị khi hoạt động trên tầng.
+Những chỗ vòng phải đảm bảo độ siêu cao theo quy định mặt nền đường xe cơ giới.
+
+9. Trước khi cắt tầng mới phải kiểm
+tra sườn tầng và mặt tầng, cách mép tầng 0,5m không được có đá hoặc bất cứ vật
+gì có thể rơi xuống tầng dưới.
+
+10. Đối với mỏ đá có hang cát - tơ,
+trong quá trình mở tầng, nổ mìn khai thác phải có giải pháp an toàn được giám đốc
+mỏ phê duyệt.
+
+Điều 7. Yêu cầu
+an toàn trong sử dụng vật liệu nổ
+
+1. Các đơn vị khai thác đá có sử dụng
+vật liệu nổ công nghiệp phải thực hiện đúng các yêu cầu an toàn về bảo quản, vận
+chuyển và sử dụng vật liệu nổ công nghiệp quy định tại QCVN 02:2008/BCT - Quy chuẩn kỹ thuật quốc gia về
+an toàn trong bảo quản, vận chuyển, sử dụng và tiêu hủy VLNCN.
+
+2. Trước khi nổ mìn lần đầu tiên ở
+địa điểm đã được cấp phép, đơn vị tiến hành nổ mìn phải thông báo cho Thanh tra
+lao động cấp tỉnh nơi tiến hành nổ mìn về thời gian, địa điểm, quy mô mổ nìn,
+khoảng cách an toàn và các điều kiện an toàn khác.
+
+3. Thợ mìn hoặc người lao động làm
+công việc có liên quan tới VLNCN như: vận chuyển, bốc xếp, điều khiển phương tiện
+vận chuyển, áp tải, bảo vệ, thủ kho, phục vụ thi công bãi mìn phải được đào tạo
+chuyên môn phù hợp, được huấn luyện kỹ thuật an toàn về VLNCN trước khi giao việc
+và huấn luyện lại định kỳ 2 năm một lần. Sau khi học tập, kiểm tra sát hạch, chỉ
+những người đạt yêu cầu trở lên mới được giao công việc. Nội dung huấn luyện
+quy định tại QCVN 02:2008/BCT.
+
+4. Trước khi tiến hành công tác nổ
+mìn lần đầu tiên ở địa điểm đã được phép, đơn vị tiến hành nổ mìn phải thông
+báo cho chính quyền, công an địa phương và các đơn vị đóng xung quanh đó biết địa
+điểm, thời gian nổ mìn lần đầu và nổ mìn hàng ngày, về giới hạn của vùng nguy
+hiểm, về các tín hiệu quy định khi nổ mìn và ý nghĩa tín hiệu đó. Không được
+dùng các tín hiệu bằng mồm (gọi, hú).
+
+5. Phải kiểm tra điện trở kíp điện
+trước khi sử dụng. Nếu điện trở kíp lớn hơn hoặc nhỏ hơn quy định của nhà chế tạo
+phải kiên quyết loại bỏ. Cấm cải tạo kíp điện thành kíp đốt.
+
+6. Khi có dấu hiệu mưa, dông, sấm
+chớp tất cả những người đang thi công trên bãi mìn phải khẩn trương rời khỏi
+bãi mìn ra vị trí an toàn. Nếu bãi mìn đã thi công xong chưa kịp nổ phải chập
+chắc hai đầu dây dẫn điện lại với nhau.
+
+7. Trước khi đưa kíp vào lỗ mìn phải
+xoắn chặt hai đầu dây dẫn điện vào kíp.
+
+8. Người chỉ huy nổ mìn phải là người
+cầm chía khóa máy nổ mìn và là người rời bãi mìn cuối cùng trước khi mìn nổ. Đồng
+thời cũng là người đầu tiên kiểm tra hiện trường sau mỗi đợt nổ mìn, nếu bãi nổ
+an toàn mới phát lệnh báo yên.
+
+9. Cấm tất cả mọi người sau khi mìn
+nổ lên bãi nổ thu hồi dây dẫn điện. Chỉ những người được chỉ huy nổ mìn phân
+công mới được phép thu hồi.
+
+10. Cấm sử dụng vật liệu nổ công
+nghiệp (thuốc nổ + phương tiện nổ) đã hết hạn sử dụng.
+
+Điều 8. An toàn
+khi vận hành máy khoan
+
+1. Mỗi loại máy khoan đều phải có
+quy trình vận hành và quy tắc an toàn riêng, phải được trang bị đầy đủ các dụng
+cụ khoan và các dụng cụ phụ trợ để khắc phục sự cố khi khoan.
+
+2. Khi bố trí máy khoan phải căn cứ
+vào hộ chiếu kỹ thuật và thực hiện các quy định và biện pháp an toàn phù hợp với
+vị trí làm việc. Ban đêm phải đảm bảo chiếu sáng đầy đủ trên máy khoan và xung
+quanh nơi làm việc.
+
+3. Máy khoan phải đặt ở vị trí bằng
+phẳng, ổn định và kê kích vững chắc bằng vật liệu chuyên dùng. Không được dùng
+đá để kê, chèn máy. Khi khoan hàng ngoài cùng phía mép tầng phải đặt máy vuông
+góc với đường phương của tầng (vuông góc với mép tầng) và vị trí ngoài cùng của
+bánh xe, bánh xích phải cách mép tầng từ 3m trở lên. Mọi công việc chuẩn bị cho
+máy làm việc, cung cấp điện, khí nén, cắm mốc lỗ khoan phải làm xong trước khi
+đưa máy tới.
+
+4. Trước khi khi khởi động máy
+khoan, người vận hành máy phải kiểm tra dây cáp điện, trục máy, đường ống dẫn
+khí nén, van an toàn và các thiết bị an toàn liên quan khác.
+
+5. Cấm:
+
+5.1. Rời khỏi máy khoan khi máy
+đang hoạt động.
+
+5.2. Để các dụng cụ ở cạnh các bộ
+phận chuyển động của máy.
+
+5.3. Bảo dưỡng, sửa chữa, thay thế
+các chi tiết hoặc làm vệ sinh công nghiệp khi máy đang hoạt động.
+
+5.4. Để người không có nhiệm vụ
+trên máy khoan.
+
+6. Cáp nâng (cần, choòng) của máy
+khoan phải được kiểm tra ít nhất một lần một tuần, nếu phát hiện thấy trên 10%
+số sợi cáp trong một bước xoắn bị đứt hoặc đường kính cáp bị mòn trên 10% so với
+đường kính ban đầu thì phải thay cáp. Phải có sổ kiểm tra và theo dõi tình trạng
+của cáp.
+
+7. Máy khoan có sử dụng điện thì
+thân máy và động cơ điện phải nối đất theo các quy định an toàn về điện hiện
+hành.
+
+Chỉ được sửa chữa bộ phận điện trên
+máy khoan khi đã cắt điện, khóa tủ cầu dao và treo bảng: “Không được đóng điện”.
+Chìa khóa tủ cầu dao do người có trách nhiệm sửa chữa giữ.
+
+8. Khi di chuyển máy khoan phải hạ
+cần khoan, trừ trường hợp di chuyển không quá 100m trên mặt tầng bằng phẳng và
+không đi qua dưới đường dây điện. Khi nâng hạ cần khoan người không có trách
+nhiệm phải ra khỏi phạm vi nguy hiểm.
+
+Điều 9. An toàn
+khi vận hành máy khoan khí ép cầm tay
+
+1. Khi khoan lỗ mìn bằng máy khoan khi
+ép cầm tay, người thợ khoan phải đứng trên mặt tầng ổn định. Không được đứng
+khoan trên sườn núi cheo leo, trường hợp khoan để mở tầng cũng phải tạo thành
+chỗ đứng có chiều rộng ít nhất 1m.
+
+2. Trước khi khoan, phải cậy bẩy hết
+những tảng đá treo phía trên. Không được làm việc ở chỗ mà đá phía trên có khả
+năng sụt lở. Khi khoan, người vận hành máy khoan phải đứng quay lưng về phía
+trước chiều gió và phải có biện pháp chống bụi.
+
+3. Người thợ khoan phải được trang
+bị phương tiện bảo vệ cá nhân đầy đủ. Khi mở lỗ khoan phải cho máy quay chậm và
+tăng tốc độ dần đến ổn định. Cấm dùng tay giữ choòng khi khoan mở lỗ.
+
+4. Khi máy khoan làm việc phải giữ
+búa bằng tay. Cấm dùng chân giữ búa. 
+
+Choòng khoan phải có chiều dài
+thích hợp sao cho búa khoan ở dưới tầm ngực người sử dụng.
+
+5. Không được đặt đường dây dẫn khí
+ép từ trên xuống trong tuyến đang khoan. Khi di chuyển máy khoan và dây dẫn phải
+đề phòng đá rơi vào người.
+
+Điều 10. An
+toàn khi vận hành máy nén khí
+
+1. Đơn vị có sử dụng máy nén khí phải
+kiểm định trước khi sử dụng theo đúng các quy định hiện hành về quản lý đối với
+máy, thiết bị có yêu cầu nghiêm ngặt về an toàn lao động.
+
+2. Máy nén khí cố định hay di động
+đều phải đặt trên nền bằng phẳng và kê chèn chắc chắn. Không được đặt máy nén
+khí tại vị trí gần chất dễ cháy, dễ nổ và ngoài phạm vi nguy hiểm do nổ mìn, đá
+văng.
+
+3. Người vận hành máy nén khí phải:
+
+3.1. Thường xuyên theo dõi nhiệt độ,
+áp suất, tiếng ồn, độ rung của máy; bổ sung đầy đủ nước làm lạnh cho máy;
+
+3.2. Đảm bảo không khí đưa vào máy
+qua bộ lọc bụi và hơi nước;
+
+3.3. Đảm bảo chế độ bôi trơn, bảo
+dưỡng và vận hành máy nén khí theo đúng các quy định hiện hành.
+
+3.4. Phải cho máy ngừng hoạt động
+và tìm biện pháp khắc phục khi áp suất tăng quá áp suất quy định; van an toàn
+không làm việc; nhiệt độ máy tăng quá mức quy định hoặc có tiếng kêu không bình
+thường …
+
+Điều 11. An
+toàn trong thi công xúc, gạt
+
+1. Việc sử dụng máy, thiết bị phải
+theo đúng quy trình kỹ thuật, quy chuẩn kỹ thuật an toàn hiện hành. Không được
+sử dụng các máy, thiết bị không đảm bảo an toàn theo quy định tại các tiêu chuẩn,
+quy chuẩn an toàn lao động, vệ sinh lao động.
+
+2. Thợ lái máy xúc, máy gạt phải có
+đủ các tiêu chuẩn sau:
+
+2.1. Có giấy chứng nhận đủ sức khỏe
+để điều khiển máy do cơ quan y tế có thẩm quyền cấp;
+
+2.2. Đã được đào tạo và có chứng chỉ
+sử dụng về các loại máy này do các tổ chức đào tạo có thẩm quyền cấp;
+
+2.3. Có giấy chứng nhận đã học tập
+và kiểm tra đạt yêu cầu về kỹ thuật an toàn.
+
+3. Yêu cầu an toàn khi sử dụng máy
+xúc
+
+3.1. Máy xúc phải được trang bị đầy
+đủ hệ thống tín hiệu (còi, đèn chiếu sáng). Trước khi làm việc, thợ lái phải
+báo hiệu cho mọi người xung quanh biết. Không được để người đứng trong phạm vi
+bán kính hoạt động của máy (kể cả phạm vi bán kính quay của đối trọng).
+
+3.2. Cấm để máy xúc làm việc dưới
+chân những tầng cao hơn chiều cao quy định, tầng có hàm ếch hoặc tầng có người
+làm việc và có nhiều đá quá cỡ dễ sụt lở.
+
+3.3. Thợ lái máy phải thường xuyên
+chú ý tới vách đất đá đang xúc. Nếu có hiện tượng sụt lở thì phải di chuyển máy
+ra nơi an toàn và báo cáo cho cán bộ chỉ huy trực tiếp biết để có biện pháp xử
+lý. Phải có đường để máy có thể di chuyển tới vị trí an toàn.
+
+3.4. Khi đổ đất, đá lên xe ô tô, cấm:
+
+3.4.1. Di chuyển gầu xúc qua phía
+trên buồng lái;
+
+3.4.2. Để khoảng cách từ gầu xúc đến
+đáy thùng hoặc đến bề mặt đất đá trên xe lớn hơn 1m;
+
+3.4.3. Để gầu xúc va đập vào thùng
+xe.
+
+3.5. Khi ô tô không có tấm chắn bảo
+vệ phía trên buồng lái, lái xe phải ra khỏi buồng lái và đứng ngoài bán kính quay
+của máy xúc. Khi máy xúc đã xúc đầy xe ô tô thì người điều khiển máy xúc phải
+báo hiệu cho lái xe ô tô biết.
+
+3.6. Khoảng cách giữa hai máy xúc
+làm việc trên cùng một tầng không được nhỏ hơn tổng bán kính hoạt động lớn nhất
+của hai máy cộng thêm 2m.
+
+Cấm bố trí đồng thời một máy xúc
+làm tầng trên, một máy xúc làm tầng dưới trên cùng một tuyến.
+
+3.7. Chiều dài cáp mềm cấp điện cho
+máy xúc không được vượt quá 200 m, phải có giá đỡ cáp không để cấp tiếp xúc với
+đất đá, Cấm:
+
+3.7.1. Dùng gầu máy xúc di chuyển cáp
+điện;
+
+3.7.2. Đặt cáp trên bùn, đất ẩm ướt
+hoặc cho các phương tiện vận tải đi đè lên;
+
+3.7.3. Di chuyển gầu xúc phía trên
+dây cáp điện. Nếu không tránh được thì phải có biện pháp bảo vệ dây cáp điện khỏi
+bị đá rơi dập, vỡ.
+
+3.8. Cấm để máy xúc đứng hoặc di
+chuyển dưới đường dây tải điện mà khoảng cách từ bất kỳ một điểm nào của máy
+xúc đến dây dẫn điện nhỏ hơn:
+
+- 1,5 m đối với đường dây có điện
+áp đến 1 KV;
+
+- 2m đối với đường dây có điện áp lớn
+hơn 1 KV - 20 KV;
+
+- 4m đối với đường dây có điện áp
+35 - 110 KV;
+
+- 6m đối với đường dây có điện áp
+220 KV trở lên.
+
+3.9. Cấm di chuyển máy xúc ở những
+đoạn đường có độ dốc lớn hơn độ dốc do nhà chế tạo quy định.
+
+3.10. Cấm bảo dưỡng hoặc sửa chữa
+khi máy đang làm việc. Trước khi sửa chữa phải hạ gầu xuống đất.
+
+3.11. Khi ngừng làm việc phải đưa
+máy đến vị trí an toàn và hạ gầu xuống đất.
+
+Điều 12. Yêu cầu
+an toàn khi sử dụng máy gạt
+
+1. Phạm vi hoạt động và nhiệm vụ của
+máy gạt phải được xác định rõ trong phiếu công tác hoặc sổ giao việc.
+
+2. Khi máy gạt đang làm việc, cấm:
+
+2.1. Sửa chữa điều chỉnh lưỡi gạt;
+
+2.2. Người đứng trên lưỡi gạt;
+
+2.3. Dừng máy trên nền không ổn định;
+
+2.4. Dừng máy khi chưa nhả hết đất
+đá ở lưỡi gạt;
+
+2.5. Di chuyển hoặc cho máy đứng tại
+vị trí mà khoảng cách gần nhất từ xích máy gạt tới mép tầng, mép hố nhỏ hơn
+1,5m.
+
+3. Khi máy làm việc ở chân tầng hoặc
+gần mép tầng phải có người cảnh giới, nếu có hiện tượng sụt lở phải khẩn trương
+đưa máy vào vị trí an toàn và chỉ được cho máy làm việc lại sau khi đã xử lý
+xong hiện tượng sụt lở.
+
+4. Cấm để máy gạt làm việc trong
+vùng nguy hiểm của máy xúc khi máy xúc đang hoạt động.
+
+5. Cấm dùng máy gạt để đào bẩy đá
+liền hoặc vận chuyển những tảng đá lớn quá khả năng cho phép gạt của máy. Trường
+hợp đất đá rắn, phải làm tơi sơ bộ đá trước khi cho máy gạt làm việc.
+
+6. Chỉ được tiến hành bảo dưỡng, sửa
+chữa và điều chỉnh máy gạt khi máy đã ngừng hoạt động hoàn toàn và lưỡi gạt đã
+được hạ xuống chạm đất.
+
+Khi kiểm tra và sửa chữa lưỡi gạt
+thì lưỡi gạt phải được kê phẳng bằng những tấm gỗ chắc chắn.
+
+7. Khi gạt dốc lên, góc nghiêng sườn
+dốc không được lớn hơn 250; khi gạt dốc xuống - không được quá 300.
+
+Điều 13. Bảo vệ
+bờ mỏ
+
+1. Những tầng đã khai thác tới biên
+giới mỏ phải được giữ lại mặt bằng tầng bảo vệ và góc bờ mỏ theo thiết kế. Phải
+đảm bảo góc bờ mỏ không lớn hơn góc trượt lở tự nhiên của đất đá.
+
+2. Góc dốc của sườn tầng không khai
+thác được quy định như sau:
+
+2.1. Không lớn hơn 600 đối
+với các đất đá bình thường.
+
+2.2. Không lớn hơn 750 đối
+với đá cứng.
+
+2.3. Nếu vỉa đá bị phay phá phong
+hóa bở rời hoặc góc cắm của vỉa nhỏ hơn 600 thì góc dốc của sườn tầng
+không khai thác không lớn hơn góc trượt lở tự nhiên của loại đất đá đó.
+
+3. Chiều cao của tầng không khai
+thác có thể chập nhiều tầng khai thác, nhưng tối đa không cao quá 30 m.
+
+4. Bề rộng mặt tầng bảo vệ không được
+nhỏ hơn 1/3 (một phần ba) chiều cao giữa hai tầng. Dọc theo mặt tầng bảo vệ phải
+có mương thoát nước.
+
+Điều 14. An
+toàn bãi thải
+
+1. Các mỏ khai thác đá phải có bãi
+thải để chứa đất đá loại bỏ. Nhà cửa, công trình trong phạm vi bãi thải và ở những
+vị trí đất đá có thể lăn tới phải được di chuyển ra vị trí an toàn. Trong phạm
+vi nguy hiểm do đá lăn phải có rào chắn hoặc có biển cấm người, súc vật và
+phương tiện qua lại.
+
+2. Khi bố trí bãi thải ở khe núi hoặc
+thung lũng phải làm trước những công trình thoát nước mưa và nước lũ.
+
+3. Bãi thải ở phần đất chưa ổn định
+phải có độ dốc vào phía trong ít nhất là 20. Mặt ngoài của bãi thải
+phải để lại bờ cao ít nhất là 0,5m, rộng ít nhất là 0,7m.
+
+4. Nếu thải đất đá bằng ôtô phải có
+người đứng ở đầu bãi thải để điều khiển cho xe đổ đúng vị trí quy định.
+
+Các bãi thải phải đủ diện tích để
+ôtô đổ thải, máy gạt làm việc và đủ bán kính quay vòng xe, đảm bảo các thiết bị
+hoạt động an toàn.
+
+5. Nếu thải đất đá bằng goòng phải
+đảm bảo các yêu cầu sau:
+
+5.1. Ray ngoài của đường đổ đất đá
+phải cao hơn ray trong từ 20 - 30 mm;
+
+5.2. Cuối đường ray phải bắt vòng
+vào phía trong bãi thải và có cơ cấu chắn không cho xe vượt qua. Đoạn ray với
+chiều dài không nhỏ hơn 100m tính từ điểm mút đường ray cụt trở vào phải có độ
+dốc lên hướng về phía điểm mút ít nhất là năm phần nghìn (5‰);
+
+5.3. Tại các ngáng chắn phải đặt biển
+báo, phải có đèn chiếu sáng;
+
+5.4. Hàng ngày hoặc sau mỗi trận
+mưa, người phụ trách khu vực đổ thải phải trực tiếp kiểm tra tuyến đường ray ra
+bãi thải. Nếu thấy có hiện tượng sụt lún hay nứt nẻ thì phải đình chỉ ngay việc
+cho phương tiện qua lại và tiến hành sửa chữa kịp thời;
+
+5.5. Khi chuyển tuyến đường ray đến
+vị trí mới, người phụ trách khu vực đổ thải phải trực tiếp kiểm tra trên toàn
+tuyến. Chỉ khi mọi yếu tố kỹ thuật và an toàn đã được đảm bảo mới cho phép đưa
+tuyến đường vào hoạt động.
+
+6. Bãi thải phải được dọn sạch, gạt
+phẳng, khi làm việc ban đêm phải có chiếu sáng đầy đủ.
+
+7. Phải có hệ thống thu gom nước chảy
+tràn vào hồ lắng.
+
+Điều 15. Yêu cầu
+an toàn khi khai thác thủ công
+
+1. Công trường khai thác thủ công
+phải tiến hành theo thiết kế hoặc phương án khai thác được duyệt, trong đó phải
+chú ý hạn chế những tác hại đến mặt bằng, công trình của các mỏ hầm lò hoặc lộ
+thiên (nếu có) và phải có các biện pháp phòng ngừa chống sụt lở đất đá, nước đọng
+và gây ô nhiễm môi trường sinh thái.
+
+2. Tất cả những công việc khai thác
+bằng thủ công phải tuân theo những điều có liên quan của quy chuẩn này.
+
+3. Chiều cao tầng khai thác thủ
+công không được lớn hơn 6m.
+
+4. Bề rộng của mặt tầng phải đảm bảo
+yêu cầu quy định tại điểm 7.1 và điểm 7.2, mục 7, Điều 6 của Quy
+chuẩn này.
+
+5. Khoảng cách giữa hai vị trí làm
+việc theo chiều nằm ngang không được nhỏ hơn 6m.
+
+6. Góc dốc của sườn tầng khai thác
+thủ công phải đảm bảo:
+
+6.1. Không được vượt quá góc trượt
+lở tự nhiên của đất đá, khi đất đá thuộc loại tơi xốp và rời;
+
+6.2. Nhỏ hơn hoặc bằng 500,
+đối với loại đất đá mềm nhưng đồng nhất và ổn định;
+
+6.3. Nhỏ hơn hoặc bằng 700,
+đối với loại đất đá cứng;
+
+6.4. Nhỏ hơn hoặc bằng 900
+đối với loại đá granit.
+
+7. Sau mỗi trận mưa, người phụ
+trách tầng khai thác phải đi kiểm tra an toàn khu vực làm việc: mặt tầng, sườn
+tầng và những nơi xung yếu liên quan khác và khắc phục hậu quả (nếu có) rồi mới
+cho người vào làm việc.
+
+8. Mọi người làm việc trên sườn tầng
+có độ dốc trên 450 và ở độ cao từ 2m trở lên so với chân tầng, ở chỗ
+cheo leo, hoặc gần mép tầng phải đeo dây an toàn. Đầu dây an toàn phải được buộc
+vào cọc vững chắc, lỗ cắm cọc phải đục đá liền sâu ít nhất 0,4m.
+
+Nếu dây dài trên 2m thì trong khoảng
+từ 2m đến 3m (tính từ vị trí người làm việc về phía cọc chính) phải làm thêm cọc
+phụ. Đoạn dây từ cọc chính đến cọc phụ không được để chùng.
+
+Trước khi sử dụng phải xem xét cẩn
+thận lại đai da, cọc, dây và định kỳ kiểm tra mức độ chịu tải của dây (mỗi
+tháng kiểm tra ít nhất một lần với tải trọng thử ít nhất bằng 2 lần khối lượng
+của người sử dụng dây), nếu không đảm bảo an toàn phải thay dây mới.
+
+Không được dùng một cọc buộc hai
+dây an toàn hay hai người dùng chung một dây an toàn.
+
+9. Nếu lối lên chỗ làm việc phải
+leo trèo thì phải làm đường lên xuống với góc dốc không quá 400. Bậc
+lên xuống phải có lan can và cứ cách 10m phải có một bậc rộng để nghỉ chân. Cấm
+dùng dây an toàn làm phương tiện leo lên hoặc xuống núi.
+
+10. Trước khi cắt lượt tầng mới, phải
+kiểm tra sườn tầng và mặt tầng. Sườn tầng phải đảm bảo độ dốc quy định, không
+có đá treo; mặt tầng phải đảm bảo độ dốc đều theo đường vận chuyển.
+
+11. Tại mặt tầng trên trong phạm vi
+1m cách mép tầng trên, phải dọn sạch không để đá hoặc bất kỳ vật khác có thể
+rơi gây mất an toàn cho tầng dưới. Không được bố trí người làm việc tầng trên,
+tầng dưới hoặc người làm việc trên núi đá, người làm việc ở chân núi cùng thời
+gian trên cùng tuyến.
+
+12. Khi bẩy gỡ đá trên tầng phải bố
+trí người canh gác để không cho người và phương tiện vào vùng nguy hiểm. Trước
+khi bẩy những tảng đá lớn có thể văng xa, phải báo cho người canh gác biết để
+đuổi người ra khỏi phạm vi đá có thể lăn tới.
+
+13. Những người bẩy gỡ đá theo chiều
+ngang trên cùng tầng phải đứng cách nhau ít nhất là 6m. Chỉ sau khi đã bẩy gỡ
+đá ở phía trên xong mới được xuống bẩy gỡ đá ở phía dưới. Khi đang cạy gỡ sườn
+tầng trên, cấm bố trí người làm việc ở tầng dưới.
+
+Trường hợp người được giao nhiệm vụ
+cậy bẩy gặp khó khăn, không thể tự giải quyết được những tảng đá cheo leo, phải
+báo ngay cho cán bộ chỉ huy trực tiếp biết để có biện pháp xử lý kịp thời.
+
+14. Cấm:
+
+14.1. Ném choòng từ tầng trên xuống
+tầng dưới;
+
+14.2. Cắm choòng trên gương tầng hoặc
+dựa vào gương tầng đang làm việc.
+
+15. Khi bẩy, gỡ đá xong và người
+trên tầng đã xuống hết, cán bộ chỉ huy phải kiểm tra lại. Chỉ khi đảm bảo an
+toàn mới được phép tiến hành các hoạt động khác trên tầng.
+
+Chương 3.
+
+AN TOÀN TRONG VẬN TẢI
+TRÊN MỎ
+
+Điều 16. Yêu cầu
+an toàn khi vận chuyển đá bằng đường sắt
+
+1. Cấu tạo đường sắt trong mỏ (độ đốc
+bán kính đường vòng nền đường, biển báo hiệu, tín hiệu) phải theo thiết kế đã
+được duyệt và phải phù hợp với quy phạm về đường sắt Việt Nam hiện hành. Những
+đoạn đường dốc dài trên 1km và độ dốc trên năm phần nghìn (5‰), phải có đường
+phản dốc lánh nạn và đặt trạm gác ghi thường trực 24/24 giờ. Cuối đường lánh nạn
+phải có chắn an toàn.
+
+2. Dọc tuyến đường sắt phải đặt các
+biển báo hiệu. Tại những vị trí giao nhau đường sắt với đường bộ phải đặt các
+biển báo nguy hiểm, đèn hiệu và có ngáng chắn (barrie). Cấm người gác bỏ vị trí
+làm việc.
+
+3. Tốc độ chuyển động của các đoàn
+tàu chạy trong mỏ do đơn vị quy định căn cứ vào đặc tính kỹ thuật của các đoàn
+tàu được sử dụng, kết cấu của đường và điều kiện của từng nơi.
+
+4. Hàng quý, hàng năm phải lập kế
+hoạch sửa chữa và bảo dưỡng đường sắt. Phải thường xuyên kiểm tra tình trạng đường
+sắt. Không được tự ý tháo gỡ ray, tà vẹt và các linh kiện khác của tuyến đường
+sắt.
+
+5. Kiểm tra định kỳ tình trạng kỹ
+thuật của đầu máy theo quy định và ghi vào sổ theo dõi về:
+
+5.1. Tình trạng của các cụm máy và
+các chi tiết máy quan trọng;
+
+5.2. Tình trạng kỹ thuật của hệ thống
+phanh, còi, đèn.
+
+Nếu phát hiện bất kỳ hư hỏng nào phải
+lập kế hoạch sửa chữa khắc phục ngay. Không được sử dụng đầu máy mà tình trạng
+kỹ thuật không đảm bảo an toàn theo quy định.
+
+6. Cấm:
+
+6.1. Đỗ đoàn tàu chắn ngang lối đi
+lại, trường hợp đặc biệt cần đỗ thì phải ngắt đoàn tàu ra làm hai, tạo khoảng
+trống tại lối đi lại rộng ít nhất bằng hai toa tàu và phải chèn chắc chắn ở hai
+phía;
+
+6.2. Trèo hoặc chui qua các toa, đầu
+máy, chỗ nối giữa các toa hoặc giữa toa với đầu máy khi đoàn tàu đang dừng;
+
+6.3. Chở người trong các toa chở
+hàng;
+
+6.4. Chở quá mức tải trọng quy định
+của các toa xe hoặc xếp lệch tải về một phía thành toa;
+
+6.5. Dùng các toa xe không có đầu đấm
+hay đầu đấm bị hỏng.
+
+7. Khi đoàn tàu dồn toa hoặc lập
+đoàn tàu, phải có người báo hiệu ngồi ở toa đầu hoặc đứng điều khiển tại vị trí
+an toàn và người lái tàu dễ nhận biết. Người lái tàu phải luôn kéo còi hiệu và
+tuân theo tín hiệu điều khiển của người báo hiệu. Tín hiệu trao đổi giữa người
+báo hiệu và người lái tàu phải theo đúng quy định hiện hành của ngành đường sắt.
+
+Trường hợp dồn toa bằng sức người,
+phải đứng ở phía sau để đẩy, mỗi một lần chỉ được dồn một toa.
+
+8. Khi đoàn tàu dừng, các toa xe phải
+phanh, chèn chắc chắn. Các toa đã tháo móc cũng phải được chèn chắc chắn.
+
+9. Khi tàu chưa dừng hẳn, cấm:
+
+9.1. Móc hoặc tháo các toa xe;
+
+9.2. Nhảy lên hoặc xuống các toa và
+đầu máy.
+
+Điều 17. Yêu cầu
+an toàn khi vận chuyển đá bằng ôtô
+
+1. Tuyến đường ôtô cố định và bán cố
+định đều phải có thiết kế phù hợp với kế hoạch khai thác dài hạn và ngắn hạn của
+mỏ. Bình đồ và trắc đồ của các đường ôtô phải theo đúng tiêu chuẩn và điều kiện
+kỹ thuật về giao thông vận tải hiện hành. Phải trang bị các biển báo, biển chỉ
+dẫn theo quy định.
+
+2. Phải thường xuyên bảo dưỡng và sửa
+chữa đường ôtô để đảm bảo an toàn vận chuyển. Mùa mưa phải có kế hoạch chống lầy,
+chống trượt trên các đoạn đường dốc và nền yếu.
+
+3. Tốc độ xe chạy trên những đoạn
+đường trong phạm vi mỏ do đơn vị quy định không trái với quy định chung về vận
+tải đường bộ hiện hành. Xe của các cơ sở khác muốn vào phạm vi mỏ phải xin phép
+và lái xe được hướng dẫn những điều cần thiết.
+
+4. Cấm: 
+
+4.1. Chở người trên thùng xe tự đổ
+hoặc trên thùng xe đang có tải;
+
+4.2. Người ngồi trên mui xe hoặc đứng
+bám phía ngoài thành xe, đứng ở bậc lên xuống trong lúc xe chạy;
+
+4.3. Chở người với các loại vật liệu
+nổ và chất dễ cháy trên cùng một xe;
+
+4.4. Lái xe ra sát mép tầng (kể cả
+tại bải thãi) nếu không có người báo hiệu;
+
+4.5. Người vận hành giao xe cho người
+không có trách nhiệm.
+
+5. Trong lúc chờ đến lượt nhận tải,
+xe phải đứng ở ngoài phạm vi hoạt động của gầu máy xúc đợi tín hiệu của người
+lái máy xúc cho phép xe vào nhận tải. Sau khi đã chất đủ tải và người lái máy
+xúc phát tín hiệu cho phép, xe mới được rời vị trí. Việc đổ đất đá xuống bãi thải
+phải theo sự hướng dẫn của người báo hiệu.
+
+6. Khi bàn giao xe cho ca sau phải
+giao máy sống (máy vẫn hoạt động và sử dụng bình thường). Nội dung giao ca phải
+cụ thể, xe đảm bảo an toàn mới đưa vào hoạt động.
+
+Điều 18. Yêu cầu
+an toàn khi vận chuyển đá bằng băng tải
+
+1. Hệ thống băng tải phải có tín hiệu
+(chuông, đèn), các máy rót vật liệu vào băng phải có hệ thống ngắt tự động khi
+băng tải gặp sự cố. Phải có bộ phận dừng băng khẩn cấp đặt dọc theo tuyến băng.
+
+2. Băng tải không được đặt dốc quá
+tiêu chuẩn và vận chuyển đá quá kích cỡ của nhà chế tạo quy định.
+
+3. Băng tải đặt dốc trên 80
+phải có bộ phận tự hãm bảo đảm hoạt động tốt.
+
+4. Các bộ phận truyền động của băng
+tải phải có hộp hoặc lưới che. Người vận hành chỉ được phép cho băng tải làm việc
+khi đã lắp đầy đủ các hộp hoặc lưới che.
+
+5. Khi băng tải đặt cao hơn mặt đất
+1,5m phải có che chắn ở những chỗ có người đi lại hoặc làm việc bên dưới. Trường
+hợp tuyến băng tải dài phải có cầu vượt và lan can chắc chắn để người qua lại
+hoặc kiểm tra, sửa chữa.
+
+6. Những băng tải có người làm việc
+và đi lại dọc hai phía của băng, phải có lối đi rộng ít nhất 0,75m và có chỗ đứng
+làm việc an toàn. Băng đặt trên cao phải có lan can phía lối đi.
+
+7. Khi làm việc ban đêm, phải có
+đèn chiếu sáng dọc suốt đường băng, tại bảng điều khiển và vị trí rót vật liệu.
+
+8. Phải có nội quy an toàn và quy
+trình vận hành treo tại bảng điều khiển.
+
+9. Đối với băng tải di động, phải
+có biện pháp chống lật khi di chuyển.
+
+10. Cấm:
+
+10.1 Sửa chữa hoặc cân chỉnh dây
+băng khi băng tải đang hoạt động;
+
+10.2. Sử dụng băng tải để vận chuyển
+dụng cụ, thiết bị;
+
+10.3. Cho người đi lại, bước qua hoặc
+đứng ngồi trên mặt băng, kể cả khi băng tải không làm việc;
+
+10.4. Cho băng tải hoạt động khi hệ
+thống tín hiệu bị hỏng.
+
+Điều 19. Yêu cầu
+an toàn khi vận chuyển đá bằng xe goòng
+
+1. Hai bên đường goòng phải để mỗi
+bên một lối đi rộng ít nhất 0,75m. Không được để vật liệu cản trở lối đi này;
+
+2. Độ dốc của đường goòng không quá
+tám phần nghìn (8‰);
+
+3. Đường ray ngoài phải cách mép tầng
+ít nhất là 1m;
+
+4. Trước khi bốc đá lên goòng phải
+chèn goòng chắc chắn. Khi xếp phải xếp cân bằng, đá to xếp dưới, không xếp cao
+quá thành xe goòng;
+
+5. Goòng có tải trọng 1 tấn trở lên
+phải có ít nhất hai người đẩy;
+
+6. Người đẩy goòng phải luôn bám
+sát và làm chủ tốc độ của goòng. Trường hợp goòng không có phanh phải có cây
+chèn chắc chắn dài ít nhất 1m để sử dụng khi cần thiết. Luôn duy trì khoảng
+cách giữa hai xe đang chạy tối thiểu là 10m;
+
+7. Khi goòng trật bánh, người đẩy
+goòng phải báo ngay cho người đẩy goòng tiếp sau biết, đồng thời nhanh chóng rời
+khỏi lòng đường;
+
+8. Cấm:
+
+8.1. Đứng về phía đang chuyển động
+của goòng để kéo goòng hay hãm goòng;
+
+8.2. Để goòng trôi tự do;
+
+8.3. Đứng, ngồi trên đầu đấm hay
+trên xe goòng khi goòng đang hoạt động.
+
+Điều 20. Yêu cầu
+an toàn khi vận chuyển đá khối bằng máy ủi, gạt
+
+1. Tuyến đường cho máy ủi, máy gạt
+hoạt động đều phải có thiết kế phù hợp với kế hoạch khai thác của mỏ và kích
+thước của khối đá
+
+2. Phải lập bình đồ và trắc đồ của
+các đường vận tải theo đúng tiêu chuẩn và điều kiện kỹ thuật về giao thông vận
+tải hiện hành.
+
+3. Phải trang bị các biển báo, biển
+chỉ dẫn theo quy định.
+
+4. Phải thường xuyên bảo dưỡng và sửa
+chữa đường để đảm bảo an toàn vận chuyển. Mùa mưa phải có kế hoạch chống lầy,
+chống trượt trên các đoạn đường dốc và nền yếu.
+
+5. Tốc độ xe chạy trên những đoạn đường
+trong phạm vi mỏ do đơn vị quy định không trái với quy định chung về vận tải đường
+bộ hiện hành.
+
+6. Khi neo, buộc khối đá vào xe ủi,
+xe gạt phải được kiểm tra chắc chắn mới cho xe rời vị trí. Trên đường vận chuyển,
+nếu phát hiện thấy những biểu hiện có nguy cơ tuột đá thì phải cho dừng phương
+tiện để kiểm tra và chằng buộc lại.
+
+7. Cấm:
+
+7.1. Chờ người trên xe;
+
+7.2. Lái xe ra sát mép tầng trong
+khoảng cách từ xích máy ủi (từ phía đầu lưỡi gạt) tới mép tầng hoặc mép hố nhỏ
+hơn 1,5m;
+
+Điều 21. Yêu cầu
+an toàn khi vận chuyển đá thủ công
+
+1. Vận chuyển bằng xe cải tiến:
+
+1.1. Khi bốc đá lên xe phải đỗ xe ở
+nơi bằng phẳng, người bốc dá không đứng sát hai thành xe;
+
+1.2. Đá phải xếp gọn gàng, không xếp
+cao quá thành xe;
+
+1.3. Xe có tải phải đi cách nhau ít
+nhất 5m. Khi xuống dốc phải quay đầu xe và người kéo xe không được ở phía trước
+xe;
+
+1.4. Khi xe lên dốc phải chú ý đề
+phòng đá lăn;
+
+1.5. Đường xe phải đủ rộng để hai
+xe tránh nhau (nếu đi hai chiều).
+
+2. Vận chuyển bằng cách gánh, bốc
+tay
+
+2.1. Đường cho người gánh đá phải bằng
+phẳng, nếu độ dốc trên 300 phải làm bậc. Nếu đường trơn phải có biện
+pháp chống trượt.
+
+2.2. Trước khi gánh phải kiểm tra lại
+đòn gánh, quang, sọt đảm bảo chắc chắn mới sử dụng.
+
+2.3. Khi gánh đá qua hào, rãnh, khe
+phải có cầu rộng ít nhất 0,6m, có tay vịn chắc chắn và có biện pháp chống trượt
+khi trời mưa.
+
+2.4. Khi bê đá phải đề phòng những
+hòn đá nứt rạn. Bốc đá ở đống phải bốc từ trên xuống dưới, không được moi ở
+chân đống đá.
+
+Chương 4.
+
+QUY ĐỊNH VỀ AN TOÀN
+TRONG CHẾ BIẾN ĐÁ
+
+Điều 22. Chế
+biến thủ công
+
+1. Búa đập đá hộc không nặng quá
+7kg, chiều dài cán búa phải phù hợp với chiều cao của người sử dụng (cao đến thắt
+lưng của người sử dụng búa khi đứng ở tư thế nghiêm). Trước khi đập phải kiểm
+tra lại cán búa, nêm đầu búa. Vị trí đứng phải vững chắc.
+
+2. Khi đập đá hộc không được mang
+găng tay. Trước khi đập phải gạt hết đá vụn ở trên mặt đá. Trường hợp nhiều người
+cùng đập, phải đứng hàng ngang và cách nhau ít nhất 5m.
+
+3. Những người đập đá dăm phải ngồi
+theo hàng ngang và cách nhau ít nhất 2m. Không được ngồi quay mặt về hướng gió.
+Đập đá xong phải dọn sạch không để đất đá loại bỏ ứ đọng tại nơi làm việc.
+
+Điều 23. An
+toàn đối với máy nghiền, sàng đá
+
+1. Máy nghiền sàng đá phải đặt ở vị
+trí cách ly với các khu vực có nhiều người làm việc. Nếu có thể, phải cuối hướng
+gió chính thổi hàng năm.
+
+2. Mỗi máy phải đặt trên mặt móng
+riêng và có thiết kế tính toán độ ổn định của móng phù hợp đối với từng máy. Phải
+có bộ phận chống bụi và có mái che mưa nắng cho thiết bị.
+
+3. Khi máy đang hoạt động, không được
+dùng tay hoặc chân cấp liệu hoặc lấy vật liệu trực tiếp trong phễu máy nghiền.
+
+4. Chỉ cấp vật liệu có kích thước
+phù hợp với quy định của máy, khi máy đã đạt đến số vòng quay ổn định.
+
+5. Chỉ dừng máy khi đã nghiền hết vật
+liệu đang có trong máy, trừ trường hợp bị sự cố bất ngờ.
+
+6. Phải có quy trình vận hành và nội
+quy an toàn treo tại nơi làm việc của máy.
+
+7. Cấm vận hành máy nghiền, khi:
+
+7.1. Các bao che bộ phận truyền
+chuyển động không có hoặc bị hỏng;
+
+7.2. Một trong các Bu lông bắt chân
+máy với móng bị mất hoặc hỏng;
+
+7.3. Không có biện pháp chống bụi;
+
+7.4. Có các vật rắn, vật lạ không
+phải là đá có trong phễu.
+
+Điều 24. An
+toàn trong vận hành máy nghiền sàng
+
+1. Trước khi bắt đầu ca làm việc,
+phải kiểm tra đầy đủ các bộ phận được hướng dẫn trong phiếu bảo dưỡng.
+
+2. Khi giao nhận ca, công nhân vận
+hành máy phải kiểm tra sổ giao ca để biết tình trạng của máy, thiết bị và tiến
+hành kiểm tra;
+
+3. Dùng còi hoặc chuông điện báo hiệu
+cho mọi người ra khỏi khu vực nguy hiểm, bảo đảm không còn người trong khu vực
+hoạt động của máy.
+
+4. Tuần tự đóng điện cho từng mô tơ
+khởi động theo trình tự đã được hướng dẫn của từng cụm máy, không được mở cùng
+một lúc các mô tơ.
+
+5. Cho toàn bộ liên hợp máy nghiền
+sàng chạy không tải 5 phút để kiểm tra thử điện rò, các con lăn, tiếng máy.
+
+6. Sau khi liên hợp máy hoạt động
+bình thường mới tiến hành cho nạp nguyên liệu (chú ý kích thước đá nạp phải phù
+hợp với hàm nghiền của máy để tránh hiện tượng kẹt đá làm ngưng máy).
+
+7. Khi máy hoạt động, công nhận vận
+hành phải:
+
+7.1. Không được rời vị trí điều khiển.
+
+7.2. Thường xuyên kiểm tra kích thước
+các sản phẩm sau khi nghiền để điều chỉnh máy cũng như phát hiện kịp thời các sản
+phẩm lẫn với nhau do thủng lưới hoặc thủng máng để khắc phục.
+
+7.3. Theo dõi phát hiện những sự cố
+ở các cụm máy, nếu có hiện tượng bất thường phải dừng máy để xử lý ngay.
+
+8. Trong trường hợp bình thường chỉ
+được phép dừng máy khi đã nghiền hết đá nguyên liệu trong máng (phễu).
+
+9. Thao tác khi ngừng vận hành
+
+9.1. Tắt các mô tơ theo tuần tự ngược
+lại với lúc khởi động, cái nào mở trước thì tắt sau, mở sau thì tắt trước.
+
+9.2. Ngừng khi sửa chữa máy phải để
+bảng báo hoặc cắm cờ báo hiệu ngưng tiếp nhận đá nguyên liệu.
+
+10. Cấm:
+
+10.1. Làm vệ sinh máy khi máy đang
+hoạt động;
+
+10.2. Công nhân làm việc chui qua lại,
+ngồi tránh nắng dưới các băng tải khi máy đang hoạt động;
+
+10.3. Công nhân làm việc bước qua lại
+khi máy đang chạy (tránh trượt ngã, máy cuốn).
+
+10.4. Lấy đá kẹt trong băng tải khi
+máy đang hoạt động.
+
+10.5. Đứng dạng chân trên miệng phễu
+để cạy đá, đứng phía sau và gần xe lúc cấp đá nguyên liệu vào phễu.
+
+10.6. Đổ đá nguyên liệu vào máng
+khi chưa có lệnh của người vận hành máy hoặc là hiệu lệnh còi.
+
+10.7. Hoạt động lúc trời mưa có sấm
+chớp hoặc đang mưa lớn.
+
+11. Thực hiện kiểm tra, vệ sinh, bảo
+trì, ghi chép sổ sách theo chế độ quy định.
+
+Điều 25. An
+toàn trong vận hành băng tải xuống xà lan
+
+1. Công nhân trước khi vận hành phải
+thực hiện các bước kiểm tra hệ thống điện; bơm nước dưới hầm, làm vệ sinh phía
+dưới cửa xả, băng tải.
+
+2. Chạy không tải để kiểm tra các bộ
+phận như con lăn, mức độ ổn định của băng tải, sự làm việc của xích tải đảm bảo
+chuyển động êm, sự rò rỉ của dầu bôi trơn, hệ thống căn băng tải và hệ thống kiểm
+soát quay.
+
+3. Khởi động hệ thống thủy lực để
+kiểm tra bộ phận nâng hạ và bảo quản quay băng tải.
+
+4. Trước khi đóng băng tải phải cho
+băng tải chạy hết liệu trên băng.
+
+5. Người vận hành phải luôn luôn
+quan sát hoạt động của băng tải để điều chỉnh băng tải đá, xuống xà lan (ghe bầu)
+phù hợp, nhằm tránh làm xà lan, ghe bầu bị nghiêng gây nguy hiểm.
+
+6. Việc tưới ướt đá được điều chỉnh
+bằng rơ le thời gian để tưới. Lưu lượng, áp suất phun được điều chỉnh tùy thuộc
+vào độ ẩm ban đầu của đá.
+
+7. Trong lúc vận hành nếu có sự cố
+của hệ thống hoặc do người ngừng cấp đá xuống xà lan, người vận hành phải tắt
+máy theo thứ tự ngược lại lúc khởi động nhằm tránh hiện tượng băng tải có đá chạy
+ngược về phía dưới hầm gây ùn tắc rơi, đổ dá xuống hầm.
+
+8. Cấm để người đứng dưới hoặc đi
+qua lại bên dưới cần băng tải.
+
+Điều 26. An
+toàn trong cắt, xẻ đá
+
+1. Lập quy trình vận hành cho từng
+loại máy và treo ở từng vị trí máy để người lao động có thể theo dõi hàng ngày.
+
+2. Bao che các bộ phận truyền động
+như dây cu roa, lưỡi cưa đá.
+
+3. Huấn luyện biện pháp an toàn và
+quy trình vận hành cho người lao động.
+
+4. Có quy định bắt buộc người lao động
+tuân thủ quy trình vận hành.
+
+Điều 27. An
+toàn trong mài, đục đá
+
+1. Thông gió cục bộ bằng quạt hút,
+lắp ở vị trí phù hợp để hút bụi ra ngoài khỏi khu vực mài đá khô.
+
+2. Trang bị và sử dụng đầy đủ
+phương tiện bảo vệ cá nhân, đặc biệt là kính an toàn, hoặc kính mắt.
+
+3. Tạo các bàn thao tác, để người
+lao động có thể ngồi hoặc đứng với tư thế thoải mái khi làm việc.
+
+Chương 5.
+
+CÁC BIỆN PHÁP AN TOÀN -
+VỆ SINH LAO ĐỘNG VÀ CHĂM SÓC SỨC KHOẺ NGƯỜI LAO ĐỘNG
+
+Điều 28. Yêu cầu
+an toàn khi sử dụng điện trong mỏ
+
+1. Đơn vị khai thác đá phải có sơ đồ
+cung cấp điện trong đó ghi rõ vị trí các trạm biến áp, tủ phân phối điện và những
+thiết bị tiêu thụ điện.
+
+2. Đóng cắt điện để sửa chữa phải
+có phiếu đóng cắt theo mẫu quy định. Cầu dao đã cắt điện mới được phép đóng điện
+trở lại sau khi đã hoàn thành công việc sửa chữa.
+
+3. Khi đóng cắt điện phải có đủ các
+dụng cụ an toàn phù hợp với yêu cầu của công việc (găng tay, ủng, sào, thảm
+cách điện…).
+
+4. Tất cả các thiết bị điện phải được
+nối đất, nối trung tính theo đúng quy định của TCVN 7447 : 2005 - Hệ thống lắp
+đặt điện của các tòa nhà.
+
+5. Không được dựng cột điện hoặc đặt
+các thiết bị điện gần khu vực đất đá có thể trượt lở.
+
+6. Trước khi nổ mìn phải cắt điện các
+đường dây trong khu vực ảnh hưởng do nổ mìn, nếu là cáp mềm dẫn đến các máy di
+động thì phải chuyển máy và cáp điện ra ngoài khu vực nguy hiểm do đá văng. Sau
+khi nổ xong phải kiểm tra lại đường dây nếu không có hư hỏng mới được đóng điện
+trở lại.
+
+7. Cáp mềm dẫn điện ngang đường sắt
+hoặc đường ôtô phải đặt ngầm trong ống chắc chắn hoặc treo cao để tránh đập đứt
+cáp, dây cáp mềm của các thiết bị phải đặt trên giá đỡ.
+
+8. Những chỗ nối cáp hay cáp bị hỏng
+phải được hấp chín hoặc đặt trong hộp nối cáp đặc biệt.
+
+9. Khi di chuyển máy chạy bằng điện,
+thợ kéo cáp phải dùng móc cáp và mang găng, ủng cách điện thích hợp.
+
+10. Đường điện trần của tàu điện cần
+vẹt phải treo cao cách mặt ray ít nhất 2,5m.
+
+11. Khi đường dây điện trần có điện,
+không được:
+
+11.1. Trèo lên cột hoặc đầu tàu để
+sửa chữa;
+
+11.2. Trèo qua các toa xe;
+
+12. Không được móc nối từ đường dây
+điện trần của tàu điện để thắp đèn chiếu sáng.
+
+Điều 29.
+Phòng, chống bụi trong khai thác, chế biến đá
+
+Mỏ phải có biện pháp chống bụi tích
+cực ở những khâu phát sinh nhiều bụi như khoan, nổ mìn, nghiền, sàng, chế biến
+đá. Bao gồm:
+
+1. Ít nhất sáu tháng/lần mỏ phải tiến
+hành đo hàm lượng bụi trong không khí tại những nơi làm việc và lấy mẫu không
+khí để phân tích thành phần của chúng, nhất là những nơi có khả năng khí độc
+thoát ra.
+
+Khi hàm lượng bụi và khí độc trong
+không khí ở nơi làm việc vượt quá tiêu chuẩn cho phép phải áp dụng mọi biện
+pháp để giảm hàm lượng bụi và khí độc tới giá trị cho phép. Trường hợp bất khả
+kháng thì phải có phương tiện bảo vệ an toàn cho người lao động.
+
+2. Đối với các mỏ khai thác xuống
+sâu, cần nghiên cứu áp dụng các biện pháp cải thiện điều kiện lao động cho người
+lao động, nhất là các biện pháp giảm bụi và khí độc ở dưới moong sâu. Thực hiện
+các bước sau:
+
+2.1. Xác định thành phần không khí
+(lượng bụi và khí độc)
+
+2.2. Thực hiện các biện pháp chống
+bụi, chống khí độc tích tụ.
+
+2.3. Đo nhiệt độ các mùa trong năm.
+
+2.4. Kiểm tra các thông số làm việc
+của thiết bị máy móc làm việc ở đáy moong.
+
+2.5. Sử dụng các trang thiết bị chống
+bụi, chống khí độc cá nhân.
+
+3. Khi khoan bằng các loại búa
+khoan hơi ép phải lấy phoi khoan bằng hỗn hợp nước - hơi bằng phương pháp hút.
+
+4. Khi sử dụng các loại máy khoan,
+nếu bộ phận thu và xử lý phoi bị hư hỏng thì máy khoan phải ngừng hoạt động. Cấm
+khoan khô, thổi phoi trực tiếp ra ngoài trời.
+
+5. Sử dụng các loại máy khoan có sử
+dụng hỗn hợp nước - khí nén để thổi phoi khoan.
+
+6. Để giảm bụi trên các đường vận tải
+ôtô của mỏ phải dùng biện pháp tưới nước, phun nước để giảm bụi, đặc biệt phải
+tập trung tưới, phun nước vào lúc trời nắng, hanh khô và ở những đoạn đường có ảnh
+hưởng nhiều tới hoạt động của người và thiết bị. Trồng cây xanh với mật độ dày
+tại khu vực xung quanh mỏ.
+
+7. Ngoài các phương tiện, thiết bị
+để giảm bụi thì nhất thiết phải trang bị các phương tiện lọc bụi cá nhân như khẩu
+trang, bình lọc bụi cá nhân.
+
+8. Đối với khu vực văn phòng công
+trường, phân xưởng phải thường xuyên gọn gàng, sạch sẽ. Với các nhà xưởng có lắp
+đặt thiết bị phục vụ sửa chữa, gia công cơ khí, sau mỗi ca làm việc phải được
+làm vệ sinh công nghiệp; các phế liệu phải thu gom vào khu vực cách xa nhà xưởng.
+
+9. Phun nước lên đá khi xúc bốc tại
+khu vực chế biến.
+
+10. Đá phải được tưới nước khi đổ
+vào phễu, bằng hệ thống tưới bên ngoài.
+
+11. Không hoạt động nghiền sàng khi
+máy không có hệ thống phun nước chống bụi.
+
+Điều 30. Chăm
+sóc sức khoẻ người lao động
+
+1. Khám sức khoẻ
+
+1.1. Người lao động phải được kiểm
+tra sức khoẻ trước khi được giao việc ở mỏ lần đầu tiên. Khám sức khoẻ định kỳ mỗi
+năm một lần đối với lao động bình thường, 6 tháng một lần với người lao động
+làm các công việc nặng nhọc, độc hại, nguy hiểm và đặc biệt độc hại nguy hiểm
+như thợ khoan, lái xe, người lao động làm việc ở những nơi vận chuyển nguyên vật
+liệu hay có chứa yếu tố độc hại cho sức khoẻ trong quá trình vận chuyển.
+
+1.2. Người lao động trực tiếp tiếp
+xúc với bụi đá phải được định kỳ khám phát hiện bệnh nghề nghiệp. Nếu bị bệnh
+nghề nghiệp thì phải tổ chức chăm sóc, điều dưỡng phục hồi khả năng lao động và
+bố trí công việc khác phù hợp.
+
+1.3. Người bị ốm hoặc vì một lý do
+nào đó không thể làm được những công việc thường ngày phải được phép nghỉ làm
+việc.
+
+2. Trạm y tế
+
+Người sử dụng lao động lập trạm y tế,
+bố trí cán bộ y tế hoặc ký hợp đồng với một cơ sở y tế gần nhất để phục vụ việc
+chăm sóc sức khoẻ, cấp cứu những tai nạn khi cần.
+
+3. Tủ thuốc
+
+Trên công trường khai thác đá và
+trong các khu vực sản xuất, chế biến đá phải có tủ thuốc chứa những trang thiết bị y tế, thuốc cần thiết cho sơ cứu và để ở nơi
+mọi người có thể dễ dàng tiếp cận khi cần.
+
+4. Sơ cứu, cấp cứu
+
+Người lao động và người giám sát phải
+được huấn luyện sơ cấp cứu và biết sơ cấp cứu ban đầu cho những người bị
+thương.
+
+Điều 31. Đảm bảo
+các điều kiện bảo vệ và chăm sóc sức khoẻ người lao động
+
+1. Nước uống
+
+1.1. Công nhân mỏ không được uống
+trực tiếp nước mỏ.
+
+1.2. Trong thời gian lao động, cần
+cung cấp đầy đủ nước uống sạch tại tất cả các địa điểm làm việc chính.
+
+1.3. Thùng chứa nước uống phải được
+che bụi và luôn đậy nắp khi không sử dụng. Không được để nước uống bị nhiễm bẩn.
+
+2. Vệ sinh thực phẩm
+
+2.1. Không được cất giữ thức ăn hoặc
+tổ chức ăn, uống ở những nơi tiếp xúc với các chất, khí hoặc bụi độc hại.
+
+2.2. Thức ăn phải được cất giữ ở những
+nơi sạch sẽ và có lán che.
+
+3. Nơi thay quần áo và tắm giặt
+
+3.1. Người chủ mỏ phải cung cấp các
+điều kiện đầy đủ tại khu vực mỏ để người lao động có thể thay, cất giữ, giặt quần
+áo và tắm.
+
+3.2. Nước tắm giặt dành cho công
+nhân mỏ phải sạch và không bị nhiễm nước thải của công trường.
+
+3.3. Nước thải chỉ được dẫn thẳng
+ra hệ thống thoát nước sau khi đã xử lý.
+
+3.4. Phải có nơi thay quần áo, tắm
+giặt riêng biệt cho phụ nữ và nam giới.
+
+4. Nhà vệ sinh
+
+Người chủ mỏ phải đảm bảo ở công
+trường của các mỏ lộ thiên có đủ nhà vệ sinh cũng như đảm bảo nhà vệ sinh sạch
+sẽ và được tẩy uế thường xuyên. Không được sử dụng những khu vực khác vào mục
+đích thay thế nhà vệ sinh.
+
+Điều 32.
+Phương tiện bảo vệ cá nhân
+
+1. Người sử dụng lao động phải cấp
+phát đầy đủ, đảm bảo chất lượng các loại phương tiện bảo vệ cá nhân theo quy định.
+
+2. Hướng dẫn cách sử dụng và mục
+đích, ý nghĩa, tác dụng của việc sử dụng phương tiện bảo vệ cá nhân cho người
+lao động.
+
+3. Có bảng nêu mục đích sử dụng của
+từng loại phương tiện treo trên công trường, nhà xưởng.
+
+4. Có nơi cất giữ, bảo quản và vệ sinh
+các loại phương tiện bảo vệ cá nhân tại nơi làm việc.
+
+Chương 6.
+
+TỔ CHỨC THỰC HIỆN
+
+Điều 33. Trách
+nhiệm thực hiện
+
+1. Cục An toàn lao động có trách
+nhiệm phối hợp với cơ quan liên quan hướng dẫn thực hiện thống nhất Quy chuẩn
+này trong cả nước và kiểm tra quá trình thực hiện.
+
+2. Sở Lao động - Thương binh và Xã
+hội các tỉnh, thành phố trực thuộc trung ương có trách nhiệm phối hợp với cơ
+quan liên quan hướng dẫn, thanh tra, kiểm tra việc thực hiện Quy chuẩn này đối
+với các tổ chức, cá nhân tham gia hoạt động khai thác, chế biến đá thuộc phạm
+vi quản lý theo quy định.
+
+3. Tổ chức, cá nhân làm công việc
+có liên quan tới khai thác, chế biến đá tùy theo chức trách, nhiệm vụ, cương vị
+công tác phải thi hành đầy đủ những quy định trong bản quy chuẩn này.
+
+Những ai vì thiếu tinh thần trách
+nhiệm, cố ý không chấp hành các quy định của quy chuẩn này để gây ra tai nạn, sự
+cố thì tùy theo mức độ sẽ bị xử lý hành chính hoặc truy cứu trách nhiệm hình sự
+theo pháp luật hiện hành.
+
+4. Trong trường hợp các tiêu chuẩn,
+quy định của Quy chuẩn này có sự thay đổi, bổ sung hoặc thay thế thì việc thực
+hiện theo quy định tại văn bản mới.
+
+5. Trong trường hợp các hiệp định
+song phương hoặc đa phương mà Việt Nam tham gia hoặc ký kết có những điều khoản
+khác với quy định trong Quy chuẩn này thì thực hiện theo điều khoản của hiệp định
+song phương hoặc đa phương đó.
+
+Điều 34. Tài
+liệu viện dẫn
+
+Trong Quy chuẩn này có sử dụng các
+tài liệu viện dẫn sau:
+
+1. TCVN
+5178 : 2004: Quy phạm kỹ thuật an toàn trong khai thác, chế biến đá lộ
+thiên.
+
+2. TCVN 7447 : 2005 - Hệ thống lắp
+đặt điện của các tòa nhà
+
+3. QCVN
+02:2008/BCT- Quy chuẩn kỹ thuật quốc gia về an toàn trong bảo quản, vận
+chuyển, sử dụng và tiêu hủy vật liệu nổ công nghiệp.
+
+4. TCVN
+5326 : 2008 - Tiêu chuẩn kỹ thuật khai thác mỏ lộ thiên
+
+5. QCVN
+04:2009/BCT: Quy phạm an toàn trong khai thác mỏ lộ thiên.
+
+Các văn bản viện dẫn quy định tại
+điều này là văn bản pháp quy hiện hành, khi có văn bản mới thay thì thực hiện
+theo văn bản mới.--- THÔNG TIN THÊM ---
+Ten: Thông tư 02/2012/TT-BLĐTBXH về Quy chuẩn kỹ thuật quốc gia An toàn lao động trong khai thác và chế biến đá do Bộ Lao động - Thương binh và Xã hội ban hành
+So hieu: 02/2012/TT-BLĐTBXH
+Loai van ban: Thông tư
+Linh vuc nganh: Lao động - Tiền lương
+Noi ban hanh: Bộ Lao động – Thương binh và Xã hội
+Nguoi ky: Bùi Hồng Lĩnh
+Ngay ban hanh: 18/01/2012
+Ngay hieu luc: 01/07/2012
+Ngay dang: 01/03/2012
+So cong bao: Từ số 179 đến số 180
+Tinh trang: Còn hiệu lực
+
+
+--- MỤC LỤC ---
+- THÔNG TƯ BAN HÀNH QUY CHUẨN KỸ THUẬT QUỐC GIA AN TOÀN LAO ĐỘNG TRONG KHAI THÁC VÀ CHẾ BIẾN ĐÁ
+  - Điều 1. Quy định về Quy chuẩn
+  - Điều 2. Hiệu lực thi hành
+  - Điều 3. Tổ chức thực hiện
+- QCVN 05: 2012/BLĐTBXH QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ AN TOÀN LAO ĐỘNG TRONG KHAI THÁC VÀ CHẾ BIẾN ĐÁ
+  - Chương 1 QUY ĐỊNH CHUNG
+    - Điều 1. Phạm vi điều chỉnh
+    - Điều 2. Đối tượng áp dụng
+    - Điều 3. Giải thích từ ngữ
+    - Điều 4. Các yêu cầu chung
+  - Chương 2 QUY ĐỊNH VỀ AN TOÀN TRONG KHAI THÁC ĐÁ
+    - Điều 5. Chuẩn bị khai trường
+    - Điều 6. Yêu cầu an toàn khi mở tầng
+    - Điều 7. Yêu cầu an toàn trong sử dụng vật liệu nổ
+    - Điều 8. An toàn khi vận hành máy khoan
+    - Điều 9. An toàn khi vận hành máy khoan khí ép cầm tay
+    - Điều 10. An toàn khi vận hành máy nén khí
+    - Điều 11. An toàn trong thi công xúc, gạt
+    - Điều 12. Yêu cầu an toàn khi sử dụng máy gạt
+    - Điều 13. Bảo vệ bờ mỏ
+    - Điều 14. An toàn bãi thải
+    - Điều 15. Yêu cầu an toàn khi khai thác thủ công
+  - Chương 3 AN TOÀN TRONG VẬN TẢI TRÊN MỎ
+    - Điều 16. Yêu cầu an toàn khi vận chuyển đá bằng đường sắt
+    - Điều 17. Yêu cầu an toàn khi vận chuyển đá bằng ôtô
+    - Điều 18. Yêu cầu an toàn khi vận chuyển đá bằng băng tải
+    - Điều 19. Yêu cầu an toàn khi vận chuyển đá bằng xe goòng
+    - Điều 20. Yêu cầu an toàn khi vận chuyển đá khối bằng máy ủi, gạt
+    - Điều 21. Yêu cầu an toàn khi vận chuyển đá thủ công
+  - Chương 4 QUY ĐỊNH VỀ AN TOÀN TRONG CHẾ BIẾN ĐÁ
+    - Điều 22. Chế biến thủ công
+    - Điều 23. An toàn đối với máy nghiền, sàng đá
+    - Điều 24. An toàn trong vận hành máy nghiền sàng
+    - Điều 25. An toàn trong vận hành băng tải xuống xà lan
+    - Điều 26. An toàn trong cắt, xẻ đá
+    - Điều 27. An toàn trong mài, đục đá
+  - Chương 5 CÁC BIỆN PHÁP AN TOÀN - VỆ SINH LAO ĐỘNG VÀ CHĂM SÓC SỨC KHOẺ NGƯỜI LAO ĐỘNG
+    - Điều 28. Yêu cầu an toàn khi sử dụng điện trong mỏ
+    - Điều 29. Phòng, chống bụi trong khai thác, chế biến đá
+    - Điều 30. Chăm sóc sức khoẻ người lao động
+    - Điều 31. Đảm bảo các điều kiện bảo vệ và chăm sóc sức khoẻ người lao động
+    - Điều 32. Phương tiện bảo vệ cá nhân
+  - Chương 6 TỔ CHỨC THỰC HIỆN
+    - Điều 33. Trách nhiệm thực hiện
+    - Điều 34. Tài liệu viện dẫn
+
+--- VĂN BẢN LIÊN QUAN ---
+
+Van ban duoc can cu:
+  - Nghị định 186/2007/NĐ-CP quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Lao động - Thương... (ID: 60724)
+  - Thông tư 23/2007/TT-BKHCN hướng dẫn xây dựng, thẩm định và ban hành quy chuẩn kỹ thuật do Bộ Khoa học và ... (ID: 56446)
+  - Nghị định 127/2007/NĐ-CP Hướng dẫn Luật Tiêu chuẩn và Quy chuẩn kỹ thuật (ID: 54148)
+
+Van ban sua doi bo sung:
+  - Nghị định 96/2023/NĐ-CP hướng dẫn Luật Khám bệnh, chữa bệnh (ID: 583328)

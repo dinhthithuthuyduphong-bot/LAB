@@ -1,0 +1,171 @@
+UBND
+ TỈNH ĐIỆN BIÊN
+
+ SỞ XÂY DỰNG
+
+ -------
+
+CỘNG
+ HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+ Độc lập - Tự do - Hạnh phúc 
+
+ ---------------
+
+Số:
+ 345/ SXD-KTXD
+
+Hà
+ Nội, ngày 30 tháng 05 năm 2013
+
+ 
+
+HƯỚNG DẪN
+
+PHƯƠNG
+PHÁP TÍNH CHI PHÍ NHÂN CÔNG ĐỂ LẬP VÀ QUẢN LÝ CHI PHÍ ĐẦU TƯ XÂY DỰNG CÔNG
+TRÌNH CÓ SỬ DỤNG VỐN NGÂN SÁCH NHÀ NƯỚC TRÊN ĐỊA BÀN TỈNH ĐIỆN BIÊN THEO QUY
+ĐỊNH TẠI THÔNG TƯ 04/2010/TT-BXD CỦA BỘ XÂY DỰNG
+
+Thực hiện Văn bản số: 1275/UBND-GT
+ngày 24/05/2013 của UBND tỉnh Điện Biên V/v áp dụng mức lương để lập và quản lý
+chi phí đầu tư xây dựng công trình có sử dụng vốn ngân sách nhà nước trên địa
+bàn tỉnh Điện Biên, theo đó tại điểm 2 “Giao Sở Xây dựng có trách nhiệm chủ
+trì,  phối hợp với các ngành liên quan căn cứ vào Quy định mức lương tối thiểu chung
+được quy định tại Nghị định số 31/2012/NĐ-CP ngày 12/4/2012 của Chính phủ và
+Phụ lục số 6 ban hành kèm theo Thông tư số 04/2010/TT-BXD  ngày 26/5/2010 của
+Bộ Xây dựng về hướng dẫn lập và quản lý chi phí đầu tư xây dựng công trình”.
+
+Sau khi lấy ý kiến các ngành liên
+quan, Sở Xây dựng hướng dẫn phương pháp tính chi phí nhân công trong xây dựng
+theo điểm 1.2.2 khoản 1 Phụ lục số 6 của Thông tư 04/2010/TT-BXD như sau:
+
+Chi phí nhân công được xác định
+theo công thức: NC = B x gNC
+
+Trong đó:
+
+- B: là lượng hao phí lao động tính
+bằng ngày công trực tiếp theo cấp bậc bình quân cho một đơn vị khối lượng công
+tác xây dựng trong định mức dự toán công trình;
+
+- gNC: là đơn giá ngày
+công của công nhân trực tiếp xây dựng được xác định theo mặt bằng thị trường
+lao động phổ biến của từng khu vực trong tỉnh.
+
+Đơn giá ngày công của công nhân
+trực tiếp được tính theo công thức sau:
+
+gNC = 
+
++ LCB là Lương cơ bản, công thức
+tính:
+
+LCB = Lương tối thiểu x Hệ số lương
+theo quy định (tùy theo tính chất nội dung công việc được quy định tại bảng
+lương A.1.8 ngành xây dựng cơ bản theo Nghị định số 205/2004/NĐ-CP ngày
+14/12/2004 của Chính phủ.
+
++ PCKV, PCLĐ là Phụ cấp khu vực +
+Phụ cấp lưu động
+
+Công thức tính:
+
+ PCKV, PCLĐ  = Phụ cấp khu vực +
+Phụ cấp lưu động) x lương tối thiểu
+
+(Nơi có phụ cấp khu vực 0,5 thì phụ
+cấp khu vực và phụ cấp lưu động = 0,9, nơi có phụ cấp khu vực 0,7 thì phụ cấp
+khu vực và phụ cấp lưu động = 1,1).
+
+Phụ cấp khu vực theo quy định tại
+Thông tư số 11/2005/TTLT-BNV-BLĐTBXH-BTC-UBDT ngày 05/01/2005 của Liên Bộ: Nội
+vụ- Lao động, TBXH- Tài chính- Ủy ban Dân tộc và văn bản số 275/BNV-TL ngày
+06/02/2006 của Bộ Nội vụ: Phụ cấp lưu động theo quy định số tại Thông tư số
+05/2005/TT-BLĐTBXH ngày 05/01/2005 của Bộ Lao động TBXH.
+
++ PCK là phụ cấp khác bao gồm:
+Lương phụ + phụ cấp khác.
+
+Công thức tính: PCK = (Lương phụ +
+phụ cấp khác) x lương cơ bản
+
+(Nơi có khu vực 0,5 thì PCK = 0,26
+x lương cơ bản; nơi có khu vực 0,7 thì PCK = 0,272 x lương cơ bản).
+
+Phụ cấp không ổn định sản xuất 10%
+lương cơ bản theo văn bản số 26/BXD-KTXD ngày 16/02/2012 của Bộ Xây dựng; lương
+phụ (lễ, phép, tết...) 12% (nơi có khu vực 0,5) hoặc 13% (nơi có khu vực 0,7),
+chi phí khác khoán trực tiếp cho người lao động 4% theo quy định tại các phụ lục
+của Thông tư số 04/2010/TT-BXD ngày 26/5/2010 của Bộ Xây dựng.
+
+Mức lương tối thiểu để tính đơn giá
+ngày công của công nhân trực tiếp xây dựng áp dụng theo mức lương tối thiểu do
+UBND tỉnh Điện Biên quy định tại văn bản số 1275/UBND-GT ngày 24/5/2013
+(1.050.000đ).
+
+Phạm vi và thời điểm áp dụng theo
+quy định tại điểm 1 văn bản số 1275/UBNDT-GT ngày 24/5/2013 của UBND tỉnh.
+
+Trên đây là văn bản Hướng dẫn về
+Phương pháp tính chi phí nhân công trong XDCB của Sở Xây dựng làm cơ sở cho các
+Chủ đầu tư, các đơn vị có liên quan tham khảo nghiên cứu, xem xét, quyết định áp
+dụng phục vụ cho việc lập và quản lý chi phí đầu tư xây dựng công trình có sử
+dụng vốn ngân sách nhà nước trên địa bàn tỉnh Điện Biên. Trong quá trình triển
+khai thực hiện nếu có vướng mắc thì phản ánh kịp thời về Sở Xây dựng xem xét,
+giải quyết./.
+
+ 
+
+ 
+
+Nơi nhận:
+
+- UBND tỉnh (để b/c);
+
+ - UBND các huyện, thị xã, thành phố;
+
+ - Các Sở, KH&DT, TC, LĐ, CT, NN&PTNT;
+
+ - Các Ban QLDA và các tổ chức, cá nhân có liên quan;
+
+ - Lưu: VT + KTXDTH.
+
+GIÁM
+ ĐỐC
+
+ Hoàng Văn Minh--- THÔNG TIN THÊM ---
+Ten: Hướng dẫn 345/SXD-KTXD năm 2013 phương pháp tính chi phí nhân công để lập và quản lý chi phí đầu tư xây dựng công trình có sử dụng vốn ngân sách nhà nước trên địa bàn tỉnh Điện Biên theo quy định tại Thông tư 04/2010/TT-BXD
+So hieu: 345/SXD-KTXD
+Loai van ban: Hướng dẫn
+Linh vuc nganh: Lao động - Tiền lương, Xây dựng - Đô thị
+Noi ban hanh: Tỉnh Điện Biên
+Nguoi ky: Hoàng Văn Minh
+Ngay ban hanh: 30/05/2013
+Ngay hieu luc: 30/05/2013
+Ngay dang: Dữ liệu đang cập nhật
+So cong bao: Dữ liệu đang cập nhật
+Tinh trang: Không xác định
+
+
+--- VĂN BẢN LIÊN QUAN ---
+
+Van ban duoc dan chieu:
+  - Công văn 1275/UBND-GT năm 2013 áp dụng mức lương để lập và quản lý chi phí đầu tư xây dựng công trình trên ... (ID: 198388)
+  - Nghị định 31/2012/NĐ-CP quy định mức lương tối thiểu chung (ID: 137921)
+  - Công văn 26/BXD-KTXD tính phụ cấp không ổn định sản xuất với dự án đầu tư xây dựng đường TTBG do Bộ Xây ... (ID: 134876)
+  - Thông tư 04/2010/TT-BXD hướng dẫn lập và quản lý chi phí đầu tư xây dựng công trình do Bộ Xây dựng ban hành (ID: 106673)
+  - Thông tư liên tịch 11/2005/TTLT-BNV-BLĐTBXH-BTC-UBDT hướng dẫn chế độ phụ cấp khu vực do Bộ Nội vụ - Bộ Lao... (ID: 52859)
+  - Thông tư 05/2005/TT-BLĐTBXH hướng dẫn chế độ phụ cấp lưu động trong các công ty nhà nước theo Nghị định số ... (ID: 52685)
+  - Nghị định 205/2004/NĐ-CP quy định hệ thống thang lương, bảng lương và chế độ phụ cấp lương trong các công ... (ID: 14267)
+
+Van ban lien quan cung noi dung:
+  - Nghị quyết 385/2015/NQ-HĐND Quy định tiêu chí dự án đầu tư công trọng điểm nhóm C của tỉnh Điện Biên (ID: 297407)
+  - Quyết định 3796/QĐ-UBND năm 2014 công bố giá nhân công thị trường và hệ số điều chỉnh chi phí nhân công, máy thi công đối với công trình sử dụng vốn ngân sách trên địa bàn Thành phố Hà Nội (ID: 240738)
+  - Công văn 186/SXD-KT&VLXD năm 2014 hướng dẫn lập quản lý chi phí nhân công trong đầu tư xây dựng công trình trên địa bàn tỉnh Bắc Giang (ID: 233459)
+  - Công văn 2124/UBND-KT năm 2013 hướng dẫn lập và quản lý chi phí đầu tư xây dựng công trình theo văn bản 551/BXD-KTXD do tỉnh Long An ban hành (ID: 203372)
+  - Tờ trình 922/TTr-SXD hướng dẫn lập và quản lý chi phí đầu tư xây dựng công trình theo văn bản 551/BXD-KTXD do Sở Xây dựng tỉnh Long An ban hành (ID: 203374)
+  - Công văn 630/SXD-KTKHXD&HT điều chỉnh chi phí nhân công để lập và quản lý chi phí đầu tư xây dựng công trình theo Nghị định 103/2012/NĐ-CP do Sở Xây dựng tỉnh Quảng Ngãi ban hành (ID: 194892)
+  - Công văn 629/SXD-HĐ năm 2013 lập và quản lý chi phí đầu tư xây dựng công trình theo văn bản 551/BXD-KTXD do Sở Xây dựng tỉnh Long An ban hành (ID: 203409)
+  - Thông báo 316/SXD-KTXD đính chính hệ số điều chỉnh chi phí nhân công do Sở Xây dựng tỉnh Lâm Đồng ban hành (ID: 185561)
+  - Công văn 298/SXD-XDCB năm 2013 hướng dẫn điều chỉnh chi phí nhân công để lập và quản lý chi phí đầu tư xây dựng công trình theo quy định tại Nghị định 103/2012/NĐ-CP do Sở Xây dựng tỉnh Kiên Giang ban hành (ID: 197572)

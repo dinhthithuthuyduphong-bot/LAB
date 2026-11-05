@@ -1,0 +1,3749 @@
+BỘ LAO ĐỘNG,
+ THƯƠNG BINH VÀ XÃ HỘI
+
+****** 
+
+CỘNG
+ HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+ Độc lập - Tự do - Hạnh phúc
+
+******** 
+
+Số:
+ 2013/2005/QĐ-BLĐTBXH 
+
+Hà
+ Nội, ngày 29 tháng 12 năm 2005  
+
+ 
+
+QUYẾT ĐỊNH
+
+BAN HÀNH QUY TRÌNH KIỂM ĐỊNH KỸ THUẬT AN TOÀN CÁC LOẠI MÁY,
+THIẾT BỊ, VẬT TƯ, CÁC CHẤT CÓ YÊU CẦU NGHIÊM NGẶT VỀ AN TOÀN LAO ĐỘNG 
+
+BỘ TRƯỞNG BỘ LAO ĐỘNG - THƯƠNG BINH VÀ XÃ HỘI
+
+Căn cứ Nghị định số 86/2002/NĐ-CP ngày 05 tháng
+11 năm 2002 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ
+chức của Bộ, cơ quan Bộ;
+
+Căn cứ Nghị định số 29/2003/NĐ-CP ngày 31 tháng 3 năm 2003 của Chính phủ quy định
+chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ lao động - Thương binh
+và Xã hội;
+
+Căn cứ Nghị định 06/CP ngày 20 tháng 01 năm 1995 của Chính phủ quy định chi tiết
+một số điều của Bộ luật Lao động về an toàn lao động, vệ sinh lao động; Nghị định
+ll0/2002/NĐ-CP của Chính phủ về việc sửa đổi, bổ sung một số điều của Nghị định
+06/CP ngày 20/01/1995 của Chính phủ;
+
+Căn cứ Thông tư số 23/2003/TT-BLĐTBXH ngày 03 tháng 11 năm 2003 của Bộ Lao động
+- Thương binh và Xã hội quy định, hướng dẫn thủ tục đăng ký và kiểm định các loại
+máy, thiết bị, vật tư, các chất có yêu cầu nghiêm ngặt về an toàn lao động; 
+
+Xét đề nghị của Cục trưởng Cục An toàn lao động,
+
+QUYẾT ĐỊNH:
+
+Điều 1. Ban hành kèm theo Quyết định này các quy trình
+kiểm định kỹ thuật an toàn các loại máy, thiết bị, vật tư, các chất có yêu cầu
+nghiêm ngặt về an toàn lao động sau:
+
+1. Nồi hơi, nồi đun nước nóng - Quy trình kiểm định kỹ thuật an toàn
+(QTKĐ 01-2005);
+
+2. Bình chịu áp lực - Quy trình kiểm định kỹ thuật an toàn (QTKĐ
+02-2005);
+
+3. Hệ thống lạnh - Quy trình kiểm định kỹ thuật an toàn (QTKĐ 03-2005);
+
+4. Đường ống dẫn hơi, nước nóng - Quy trình kiểm định kỹ thuật an toàn
+(QTKĐ 04-2005);
+
+5. Chai chứa khí - Quy trình kiểm định kỹ thuật an toàn (QTKĐ 05-2005);
+
+6. Hệ thống điều chế và nạp khí - Quy trình kiểm định kỹ thuật an toàn
+(QTKĐ 06-2005).
+
+Điều 2. Quyết định này có hiệu lực thi hành sau 15 ngày, kể từ ngày đăng
+Công báo.
+
+Điều 3. Giám đốc các Trung tâm kiểm định kỹ thuật an toàn của các Bộ,
+ngành và các tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm thực hiện
+Quyết định này.
+
+ 
+
+ 
+
+BỘ TRƯỞNG
+
+ Nguyễn Thị Hằng
+
+ 
+
+ 
+
+ 
+
+ 
+
+BỘ LAO ĐỘNG - THƯƠNG BINH VÀ
+ XÃ HỘI
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+NỒI HƠI VÀ NỒI ĐUN NƯỚC NÓNG
+
+QUY TRÌNH KIỂM ĐỊNH KỸ THUẬT AN TOÀN
+
+QTKĐ 01-2005
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+NỒI HƠI VÀ NỒI ĐUN NƯỚC NÓNG -
+
+QUY TRÌNH KIỂM ĐỊNH KỸ THUẬT AN TOÀN
+
+(Ban hành theo Quyết
+định của Bộ trưởng Bộ Lao động - Thương binh và Xã hội số 2013/2005/QĐ-BLĐTBXH
+ngày 29/12/2005)
+
+1. Phạm vi áp dụng
+
+Văn bản kỹ thuật
+này quy định quy trình kiểm định kỹ thuật an toàn lần đầu, định kỳ và bất thường
+các loại nồi hơi và nồi đun nước nóng (sau đây gọi chung là nồi hơi) được quy định
+tại Mục 1 và 2, Phụ lục 1 - Danh mục các loại máy, thiết bị, vật tư và các chất
+có yêu cầu nghiêm ngặt về an toàn lao động trong Thông tư 23/2003/TT-BLĐTBXH
+ngày 03/11/2003 của Bộ Lao động - Thương.binh và Xã hội.
+
+Quy trình quy định những bước công việc phải thực hiện và những lưu ý
+trong quá trình kiểm định nồi hơi. Căn cứ vào quy trình, cơ quan kiểm định sử dụng
+trực tiếp hoặc xây dựng quy trình cụ thể, chi tiết cho từng dạng, loại nồi hơi
+nhưng không được trái với quy định của quy trình này.
+
+2. Tiêu chuẩn bắt buộc áp dụng
+
+(Là tiêu chuẩn Việt Nam về kỹ thuật an toàn, ký hiệu TCVN)
+
++ TCVN6004-1995: Nồi hơi - Yêu cầu kỹ thuật an toàn về thiết kế, kết cấu,
+chế tạo.
+
++ TCVN6005-1995: Nồi hơi - Yêu cầu kỹ thuật an toàn về thiết kế, kết cấu,
+chế tạo - phương pháp thử.
+
++ TCVN6006-1995: Nồi hơi - Yêu cầu kỹ thuật an toàn về lắp đặt, sử dụng, sửa
+chữa.
+
++ TCVN6007-1995: Nồi hơi - Yêu cầu kỹ thuật an toàn về lắp đặt, sử dụng, sửa
+chữa - phương pháp thử.
+
++ TCVN6008-1995: Thiết bị áp lực - Mối hàn yêu cầu kỹ thuật và phương pháp
+kiểm tra.
+
+3. Các phép kiểm định
+
+Tiến hành kiểm tra kỹ thuật an toàn theo các bước sau:
+
+- Kiểm tra hồ sơ: Mục 3.2
+
+- Kiểm tra bên ngoài, bên trong: Mục 3.3
+
+- Kiểm tra khả năng chịu áp lực: Mục 3.4
+
+- Kiểm tra vận hành: Mục 3.5.
+
+3.1. Chuẩn bị kiểm định
+
+3.1.1. Phải thông báo kế hoạch kiểm định và các yêu cầu để cơ sở
+chuẩn bị, phối hợp để đưa nồi hơi vào kiểm định.
+
+3.1.2. Phải xác định biện pháp an toàn và nhân lực thực hiện kiểm
+định. Chuẩn bị đầy đủ dụng cụ, phương tiện, thiết bị cho quá trình kiểm định và
+phương tiện, trang bị bảo vệ cá nhân.
+
+3.2. Kiểm tra hồ sơ
+
+3.2.1. Căn cứ vào chế độ kiểm định để kiểm tra, xem xét hồ sơ của
+nồi hơi.
+
+3.2.1.1. Khi kiểm định lần đầu phải xem xét các hồ sơ sau:
+
+a) Hồ sơ xuất xưởng, lý lịch của nồi hơi; bản vẽ cấu tạo nồi hơi và các bộ
+phận của nó, các chứng chỉ kiểm tra chất lượng;
+
+b) Hồ sơ lắp đặt;
+
+c) Các biên bản kiểm tra mối hàn, kiểm định thiết bị đo lường; biên bản
+kiểm tra thiết bị bảo vệ liên động, thông bi (nếu có).
+
+3.2.1.2. Khi kiểm định định kỳ phải xem xét các hồ sơ sau:
+
+a) Lý lịch, biên bản kiểm định và phiếu kết quả kiểm định lần trước;
+
+b) Nhật ký vận hành, duy tu, bảo dưỡng; biên bản thanh, kiểm tra (nếu
+có).
+
+3.2.1.3. Khi kiểm định bất thường phải xem xét các hồ sơ sau:
+
+a) Sau sự cố hoặc sửa chữa lớn trước thời hạn, thay đổi kết cấu: Xem xét
+hồ sơ như kiểm định định kỳ và xem xét bổ sung hồ sơ về sửa chữa, thay đổi kết
+cấu; biên bản kiểm tra về chất lượng sửa chữa, thay đổi kết cấu;
+
+b) Vận hành lại sau khi nghỉ vận hành từ 12 tháng trở lên: Xem xét
+hồ sơ như kiểm định định kỳ;
+
+c) Thay đổi vị trí lắp đặt, chuyển chủ:
+Như kiểm định định kỳ và xem xét bổ sung hồ sơ lắp đặt.
+
+3.2.2. Xem xét về kết cấu, thông số kỹ thuật làm việc của nồi hơi và các
+thiết bị phụ trợ; hướng dẫn lắp đặt, sử dụng và các quy định khác của nhà chế tạo;
+xác định tiêu chuẩn áp dụng; xác định các vị trí, chi tiết, thiết bị bảo vệ, an
+toàn, phụ trợ... cần quan tâm ưu tiên kiểm tra trong quá trình kiểm định.
+
+Lưu ý: Khi kiểm tra, hồ sơ của nồi hơi phải đủ và đúng theo quy định của quy phạm,
+TCVN về kỹ thuật an toàn hiện hành. Nếu không đảm bảo, yêu cầu cơ sở có hiện
+pháp khắc phục bổ sung.
+
+3.3. Kiểm tra bên ngoài, bên trong
+
+Thực hiện việc kiểm tra bằng mắt và sứ dụng dụng cụ thông thường như:
+kính lúp, búa kiểm tra, dũa, thước đo (thước cứng, thước dây, thước cặp, đồng hồ
+so, thước lá, pan me, dưỡng), đèn chiếu sáng chuyên dụng.
+
+3.3.1. Kiểm tra về nhà nồi hơi, mặt bằng bố trí nồi hơi, các quy định về
+khoảng cách an toàn, lan can cầu thang, đèn chiếu sáng, cấp liệu, thải xỉ, xả.
+
+3.3.2. Kiểm tra về kết cấu, bề mặt kim loại; mức độ ăn mòn, mài
+mòn, biến dạng các phần chịu nhiệt, các phần chịu áp lực.
+
+3.3.3. Kiểm tra các mối hàn, mối núc ống, góc uốn ống.
+
+3.3.4. Kiểm tra tình trạng đóng cáu cặn.
+
+3.3.5. Kiểm tra độ bắt chặt của các chi tiết ghép nối.
+
+3.3.6. Kiểm tra liên kết của tường buồng
+lửa, mương khói, buồng đốt, ghi.
+
+3.3.7. Kiểm tra tình trạng bao che và bảo ôn.
+
+3.3.8. Kiểm tra liên động, các trang thiết bị đo kiểm, bảo vệ, an toàn,
+thiết bị cấp nước về số lượng và tình trạng hiện tại.
+
+3.3.9. Kiểm tra về yêu cầu chế độ nước cấp - nước nồi và tình trạng thiết
+bị xử lý nước.
+
+3.3.10. Kiểm tra số tượng và tình trạng làm việc của các thiết bị phụ trợ.
+
+Lưu ý: Trong trường hợp việc khám xét bên trong nồi hơi bị hạn chế hoặc không
+thực hiện được nếu còn có nghi ngờ kiểm định viên có thể yêu cầu cơ sở tổ chức
+thực hiện các biện pháp bổ sung để đánh giá đầy đủ về tình trạng kỹ thuật
+của nồi hơi.
+
+3.4. Kiếm tra khả năng chịu áp lực (thử
+thủy lực)
+
+Phải thử thủy lực để xét khả năng chịu áp lực của nồi hơi theo trình tự
+sau: 
+
+3.4.1. Xác định áp suất thử: áp suất thử tối thiểu theo quy định tại mục
+6.6.4-b của TCVN 6004-1995.
+
+3.4.2. Phải có biện pháp khống chế sự tác động của thiết bị bảo vệ quá áp
+và đảm bảo các thiết bị này không bị phá hỏng trong quá trình thử. Trong trường
+hợp không thực hiện được thì cô lập hoặc được tháo ra thử riêng. 
+
+3.4.3. Kiểm tra sự làm việc của thiết bị tăng giảm áp suất. Lắp áp kế kiểm
+tra vào đúng vị trí quy định.
+
+3.4.4. Kiểm tra và thử nghiệm biện pháp thông tin liên lạc để quá trình
+tăng giảm áp suất đảm bảo chính xác.
+
+3.4.5. Nạp đầy nước vào nồi và đuổi hết không khí. Nước nạp vào để thử
+theo quy định tại mục 6.6.5 TCVN 6004-1995.
+
+3.4.6. Bố trí vị trí cho mọi người tham gia kiểm định thực hiện được tốt
+công việc và đảm bảo an toàn.
+
+3.4.7. Tăng áp suất theo quy định về tốc độ và thời gian đến áp suất thử.
+
+3.4.8. Duy trì áp suất, thời gian thử tối thiểu theo quy định tại mục
+6.6.5 TCVN 6004-1995 và theo dõi tình trạng của nồi hơi.
+
+3.4.9. Giảm áp suất theo quy định về tốc độ và thời gian đến áp suất làm
+việc, tiến hành kiểm tra tình trạng của toàn bộ nồi hơi và các thiết bị liên
+quan.
+
+3.4.10. Giảm áp suất theo quy định về không (0); khắc phục các tồn tại (nếu
+có) và kiểm tra lại kết quả đã khắc phục được. Khôi phục tác động của thiết bị
+bảo vệ quá áp; tăng áp để kiểm tra áp suất làm việc và tác động của các van an
+toàn.
+
+3.4.11. Đánh giá kết quả thử: Kết quả
+thử tối thiểu đạt yêu cầu theo quy định tại mục 6.6.7 TCVN 6004-1995.
+
+3.4.12. Trong trường hợp nồi hơi được miễn thử thủy lực theo quy định của
+TCVN về kỹ thuật an toàn hiện hành thì phải ghi rõ lý do trong biên bản kiểm định
+và đính kèm các biên bản thử thuỷ lực của hội đồng kỹ thuật của cơ sở chế tạo,
+lắp đặt vào biên bản kiểm định.
+
+3.5. Kiểm tra vận hành (thử vận hành)
+
+Phải thử khả năng vận hành của nồi hơi theo trình tự sau:
+
+3.5.1. Kiểm tra các van an toàn đã được thực hiện theo 3.4.10 của
+quy trình này.
+
+3.5.2. Kiểm tra kết quả chuẩn bị về khối lượng và chất lượng nước cấp nồi
+hơi.
+
+3.5.3. Căn cứ vào quy trình vận hành, yêu cầu cơ sở tiến hành khởi động
+và tăng áp nồi hơi.
+
+3.5.4. Trong quá trình tăng áp suất đến áp suất làm việc của nồi hơi cần
+phải theo dõi chặt chẽ tình trạng làm việc của nồi hơi, thiết bị đo lường, bảo
+vệ và các thiết bị phụ. Nếu thấy có sự bất thường đề nghị cơ sở dừng nồi hơi
+theo đúng quy trình, tiến hành kiểm tra, kết luận cụ thế và các biện pháp khắc
+phục.
+
+3.5.5. Khi tăng đến áp suất làm việc, nếu không có gì bất thường thì tiếp
+tục tăng áp suất để kiểm tra lại sự làm việc của các van an toàn.
+
+3.5.6. Khi trị số đóng mở của van an toàn đạt yêu cầu thì tiến hành niêm
+phong van an toàn.
+
+3.5.7. Đánh giá kết quả thử.
+
+4. Xử lý kết quả kiểm định
+
+4.1. Lập biên bản kiểm định.
+
+4.1.1. Lập biên bản kiểm định theo mẫu quy định (ban hành kèm theo quy
+trình này) kèm theo các biên bản thử thủy lực nêu tại 3.4.12 của quy trình này
+(khi miễn thử thủy lực), ghi đầy đủ các nội dung của biên bản. Ghi rõ TCVN đã
+áp dụng khi tiến hành kiểm định và cả tiêu chuẩn người chế tạo áp dụng có quy định
+việc kiểm tra, thử nghiệm cao hơn TCVN tương ứng mà chủ cơ sở yêu cầu thực hiện
+kiểm tra, thử nghiệm theo tiêu chuẩn đó.
+
+4.1.2. Ghi tóm tắt kết quả kiểm định vào hồ sơ lý lịch của nồi hơi (ghi
+rõ họ tên kiểm định viên, ngày tháng năm kiểm định).
+
+4.2. Thông qua biên bản kiểm định 
+
+Thành phần tham gia thông qua biên bản kiểm định bắt buộc tối thiểu phải
+có các thành viên sau:
+
++ Chủ cơ sở hoặc người được chủ cơ sở ủy quyền;
+
++ Người được giao tham gia chứng kiến kiểm định.
+
+Khi biên bản được thông qua, người tham gia chứng kiến kiểm định ký, chủ
+cơ sở ký và đóng dấu vào biên bản.
+
+4.3. Khi nồi hơi đạt được các yêu cầu quy định tại Mục 3, lãnh đạo cơ
+quan kiểm định cấp phiếu kết quả kiểm định và biên bản kiểm định cho cơ sở.
+
+4.4. Khi nồi hơi không đạt các yêu cầu quy định tại Mục 3 thì thực hiện
+các bước 4.1 và 4.2 và chỉ cấp cho cơ sở biên bản kiểm định có nêu rõ lý
+do nồi hơi được kiểm định không đạt.
+
+5. Chu kỳ kiểm định
+
+5.1. Thực hiện các phép kiểm định quy định ở mục 3 (trừ 3.4): 2
+năm/lần.
+
+5.2. Thực hiện toàn bộ các phép kiểm định quy định ở mục 3: 6
+năm/lần.
+
+5.3. Khi rút ngắn chu kỳ kiểm định, kiểm định viên phải nêu rõ lý do
+trong biên bản kiểm định.
+
+ 
+
+ 
+
+(BỘ,UBND...)
+
+(Tên cơ quan KĐ)
+
+CỘNG HÒA
+ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+Độc lập 
+ - Tự do - Hạnh phúc
+
+ 
+
+.............,
+ ngày.....tháng.......năm.........
+
+ 
+
+BIÊN BẢN KIỂM ĐỊNH KỸ
+THUẬT AN TOÀN NỒI HƠI, NỒI ĐUN NƯỚC NÓNG
+
+Số:................
+
+Chúng tôi: (ghi họ và tên, chức danh và số thẻ kiểm định viên (nếu có)
+
+Thuộc:
+
+Đã tiến hành kiểm định nồi hơi:
+                                    
+Số thứ tự:
+
+Của:
+
+Địa chỉ:
+
+Được lắp đặt tại:
+
+Tiêu chuẩn áp dụng:
+
+Chứng kiến kiểm định có:
+
+I. THÔNG SỐ CƠ BẢN CỦA
+NỒI HƠI
+
+Loại, mã hiệu:
+                                     
+Áp suất thiết kế..........bar (.....kG/cm2) 
+
+Số chế tạo:
+                                         
+Áp suất làm việc........bar (.....kG/cm2) 
+
+Năm chế tạo:
+                                      
+Công suất (T/h):
+
+Nơi chế tạo:
+                                        
+Nhiên liệu sử dụng:
+
+Công dụng:
+
+Số đăng ký:
+                                        
+Tại cơ quan:
+
+Ngày kiểm định gần nhất:
+                    
+Do cơ quan:
+
+II. CHẾ ĐỘ KIỂM ĐỊNH
+
+(Lần đầu, định
+kỳ, bất thường)
+
+III. NỘI DUNG KIỂM ĐỊNH
+
+1. Hồ sơ
+
++ Nhận xét:
+
+2. Kiểm tra:       Bên
+ngoài U                            
+Bên trong U     
+
++ Khoảng cách:
+             
++ Cửa:
+                                   
++ Cầu thang, sàn thao tác:
+
++ Chiếu sáng vận
+hành:                                       
++ Nhà nồi, bảo ôn:
+
++ Các bộ phận chịu
+áp lực (tình trạng bề mặt kim loại và mối hàn):
+
++ Nước cấp, mức
+độ cáu cặn:
+
++ Các thiết bị,
+bộ phận phụ trợ:
+
++ Các thiết bị
+đo lường, bảo vệ, an toàn và tự động:
+
++ Các biện pháp
+bổ sung:
+
++ Nhận xét, đánh
+giá kết quả:      Đạt U;             
+Không đạt U   
+
++ Bổ sung:
+
+3. Thử nghiệm:
+
+NỘI DUNG THỬ
+
+ÁP SUẤT THỬ
+
+(bar)
+
+THỜI GIAN THỬ
+
+(Phút)
+
+Thử thủy lực
+
+ 
+
+ 
+
+Thử vận hành
+
+ 
+
+ 
+
+Nhận xét, đánh
+giá kết quả:         Đạt U;             
+Không đạt U   
+
+Bổ sung:
+
+IV. KẾT LUẬN VÀ KIẾN
+NGHỊ
+
+1. Nồi hơi được kiểm
+định có kết quả:
+               
+Đạt U;             
+Không đạt U
+
+Bổ sung:
+
+2. Áp suất làm
+việc:                    
+bar (         kG/cm2);  
+Nhiệt độ làm việc:           
+0C
+
+3. Áp suất làm
+việc của van an toàn:
+
+ 
+
+ÁP SUẤT MỞ
+
+(bar)
+
+ÁP SUẤT ĐÓNG LẠI
+
+(bar)
+
+Van làm việc
+
+ 
+
+ 
+
+Van kiểm tra
+
+ 
+
+ 
+
+Van quá nhiệt
+
+ 
+
+ 
+
+4. Các kiến nghị:
+
+Thời hạn thực hiện kiến nghị:
+
+V. CHU KỲ KIỂM ĐỊNH
+
+Kiểm định định kỳ:        tháng
+              
+năm
+
+Lý do rút ngắn thời hạn:
+
+Biên bản đã được thông qua
+ngày         tháng
+             
+năm
+
+Tại:
+
+Biên bản được lập thành ..... bản, mỗi bên giữ ..... bản.
+
+Chúng tôi, những kiểm định viên thực
+hiện kiểm định nồi hơi này hoàn toàn chịu trách nhiệm về tính chính xác các nhận
+xét và đánh giá kết quả kiểm định ghi trong biên bản này.
+
+ 
+
+CHỦ CƠ SỚ 
+
+(cam kết thực hiện 
+
+đầy đủ, đúng hạn
+
+các kiến nghị)
+
+ 
+
+NGƯỜI THAM CHỨNG KIẾN
+
+KIẾM ĐỊNH
+
+(ký, ghi rõ họ và tên)
+
+KIỂM ĐỊNH VIÊN
+
+(ký, ghi rõ họ và tên)
+
+ 
+
+ 
+
+ 
+
+ 
+
+BỘ LAO ĐỘNG - THƯƠNG BINH VÀ
+ XÃ HỘI
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+BÌNH CHỊU ÁP LỰC
+
+QUY TRÌNH KIỂM ĐỊNH KỸ THUẬT AN TOÀN
+
+QTKĐ 02-2005
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+BÌNH CHỊU ÁP LỰC - QUY TRÌNH KIỂM ĐỊNH KỸ
+THUẬT AN TOÀN
+
+(Ban hành theo Quyết định của Bộ trưởng Bộ Lao động - Thương binh và Xã
+hội số 2013/2005/QĐ-LĐTBXH ngày 29/12/2005)
+
+ 
+
+1. Phạm vi áp dụng
+
+Văn bản kỹ thuật này quy định quy trình kiểm định kỹ thuật an toàn lần đầu,
+định kỳ và bất thường các bình chịu áp lực được quy định tại mục 3 và 4 phụ lục
+1- Danh mục các loại máy, thiết bị, vật tư và các chất có yêu cầu nghiêm ngặt về
+an toàn lao động trong Thông tư số 23/2003/TT-LĐTBXH ngày 03/11/2003 của Bộ Lao
+động - Thương binh và Xã hội.
+
+Quy trình quy định những bước công việc phải thực hiện và những lưu ý trong
+quá trình kiểm định bình chịu áp lực. Căn cứ vào quy trình, cơ quan kiểm định sử
+dụng trực tiếp hoặc xây dựng quy trình cụ thể, chi tiết cho từng dạng, loại
+bình chịu áp lực nhưng không được trái với quy định của quy trình này.
+
+2. Tiêu chuẩn bắt buộc áp dụng
+
+(Là tiêu chuẩn Việt Nam về kỹ thuật an toàn, ký hiệu TCVN)
+
++ TCVN 6153-1996: Bình chịu áp lực - Yêu cầu kỹ thuật an toàn về thiết kế,
+kết cấu ,chế tạo.
+
++ TCVN6154-1996: Bình chịu áp lực - Yêu cầu kỹ thuật an toàn về thiết kế, kết
+cấu, chế tạo, phương pháp thử.
+
++ TCVN 6155- 1996: Bình chịu áp lực - Yêu cầu kỹ thuật an toàn về lắp đặt,
+sử dụng, sửa chữa.
+
++ TCVN6156-1996: Bình chịu áp lực - Yêu cầu kỹ thuật an toàn về lắp đặt, sử
+dụng, sửa chữa, phương pháp thử.
+
++ TCVN 6008-1995: Thiết bị áp lực - Mối hàn yêu cầu kỹ thuật và phương pháp
+kiểm tra.
+
+3. Các phép kiểm định
+
+Tiến hành xem xét, kiểm tra kỹ thuật an toàn theo các bước sau:
+
+- Kiểm tra hồ sơ: Mục 3.2
+
+- Kiểm tra bên ngoài: Mục 3.3
+
+- Kiểm tra bên trong: Mục 3.4
+
+- Kiểm tra khả năng chịu áp lực: Mục 3.5
+
+- Kiểm tra độ kín - chỉ áp dụng khi công nghệ đòi hỏi hoặc các bình làm
+việc với các môi chất độc hại, dễ cháy nổ: Mục 3.6
+
+- Kiểm tra vận hành: Mục 3.7
+
+3.1. Chuẩn bị kiểm định
+
+3.1.1. Phải thông báo kế hoạch kiểm định và các yêu cầu để cơ sở chuẩn bị,
+phối hợp để đưa bình vào kiểm định.
+
+3.1.2. Phải xác định biện pháp an toàn và nhân lực để thực hiện kiểm
+định. Chuẩn bị đầy đủ dụng cụ, phương tiện, thiết bị cho quá trình kiểm định và
+phương tiện, trang bị bảo vệ cá nhân.
+
+3.2. Kiểm tra hồ sơ
+
+3 .2.1. Căn cứ vào chế độ kiểm định để kiểm tra, xem xét về hồ sơ của
+bình.
+
+3.2.1.1 Khi kiểm định lần đầu phải xem xét các hồ sơ sau:
+
+a) Hồ sơ xuất xưởng, lý lịch của bình; bản vẽ cấu tạo bình và các bộ phận
+của nó, các chứng chỉ kiểm tra chất lượng;
+
+b) Hồ sơ lắp đặt (chỉ áp dụng với bình cố định);
+
+c) Các biên bản kiểm tra mối hàn, kiểm định thiết bị đo lường; biên bản
+kiểm tra tiếp địa, chống sét, thiết bị bảo vệ (nếu có).
+
+3.2.1.2. Khi kiểm định định kỳ phải xem xét các hồ sơ sau:
+
+a) Lý lịch, biên bản kiểm định và phiếu kết quả kiểm định lần trước;
+
+b) Hồ sơ về quản lý sử dụng, vận hành, bảo dưỡng; biên bản thanh, kiểm
+tra (nếu có).
+
+3.2.1.3. Khi kiểm định bất thường phải xem xét các hồ sơ sau:
+
+a) Sau sự cố hoặc sửa chữa lớn trước thời hạn, thay đổi kết cấu: Xem xét hồ
+sơ như kiểm định định kỳ và xem xét bổ sung hồ sơ về sửa chữa, thay đổi kết cấu;
+biên bản kiểm tra về chất lượng sửa chữa, thay đổi kết cấu;
+
+b) Vận hành lại sau khi nghỉ vận hành từ 12 tháng trở lên: Xem xét
+hồ sơ như kiểm định định kỳ;
+
+c) Thay đổi vị trí lắp đặt, chuyển chủ: Như kiểm định định kỳ và xem xét
+bổ sung hồ sơ lắp đặt.
+
+3.2.2. Xem xét về
+kết cấu, thông số kỹ thuật làm việc của bình và các thiết bị phụ trợ; hướng dẫn
+lắp đặt, sử dụng và các quy định khác của nhà chế tạo; xác định tiêu chuẩn áp dụng;
+xác định các vị trí, chi tiết, thiết bị bảo vệ, an toàn, phụ trợ... cần quan
+tâm ưu tiên kiểm tra khi tiến hành khám xét, thử nghiệm.
+
+Lưu ý: Khi kiểm tra, hồ sơ của bình phải đủ và đúng theo quy định của quy phạm,
+TCVN về kỹ thuật an toàn hiện hành. Nếu không đảm bảo, yêu cầu cơ sở có biện
+pháp khắc phục bổ sung.
+
+3.3. Kiểm tra bên ngoài
+
+Thực hiện việc kiểm tra bằng mắt và sử dụng dụng cụ thông thường như:
+kính lúp, búa kiểm tra, dũa, thước đo (thước cứng, thước dây, thước cặp, đồng hồ
+so, thước lá, pan me, dưỡng), đèn chiếu sáng chuyên dụng. Kiểm tra bên ngoài
+theo trình tự các bước sau:
+
+3.3.1. Kiểm tra mặt bằng bố trí thiết bị, chiếu sáng; sàn, cầu thang, giá
+treo...; hệ thống tiếp địa, chống sét (nếu có).
+
+3.3.2. Kiểm tra các thiết bị đo kiểm, an toàn, bảo vệ, tự động về số lượng
+và tình trạng hiện tại.
+
+3.3.3. Kiểm tra số lượng và tình trạng làm việc của các thiết bị phụ trợ.
+
+3.3.4. Kiểm tra về kết cấu, tình trạng bề mặt kim loại, mối hàn, sự biến
+dạng các chi tiết, bộ phận của bình.
+
+3.3.5. Trang bị bảo
+hộ, trang thiết bị xử lý sự cố và quy trình xử lý sự cố thường gặp (đối với
+bình làm việc có môi chất độc hại, dễ cháy nổ....).
+
+3.4. Kiểm tra bên trong
+
+Kiểm tra bằng mắt và sử dụng các dụng cụ thông thường như kiểm tra bên
+ngoài theo trình tự các bước sau:
+
+3.4.1. Kiểm tra về kết cấu, bề mặt kim loại chế tạo, các mối hàn; phát hiện
+các khuyết tật, sai sót, các hiện tượng bất bình thường.
+
+3.4.2. Kiểm tra về kích thước các chi tiết, các bộ phận bị ảnh hưởng
+trực tiếp do nhiệt, ứng suất nhằm phát hiện các biên dạng.
+
+3.4.3. Kiểm tra mức độ, bề dầy cáu cặn; xác định nguyên nhân và biện pháp
+khắc phục.
+
+3.4.4. Khi không
+có khả năng kiểm tra được bên trong hoặc khả năng kiểm tra bị hạn chế nếu còn
+có nghi ngờ kiểm định viên có thể yêu cầu cơ sở tổ chức thực hiện các biện pháp
+bổ sung để đánh giá đầy đủ về tình trạng kỹ thuật của bình.
+
+3.4.5. Đối với các bình đặc chủng, chuyên dùng cần lưu ý kiểm tra các kết
+cấu, chi tiết mang tính chất đặc thù của các bình này (vách giảm sóng bồn LPG
+di động, hệ thống đo kiểm tra chân không bồn khí lỏng 2 vỏ, bình dập lửa tạt lại...).
+
+3.5. Kiểm tra khả năng chịu áp lực (Thử thủy lực)
+
+Phải thử thủy lực để xét khả năng chịu áp lực của bình theo trình tự sau:
+
+3.5.1. Nếu bình có kết cấu nhiều phần làm việc ở cấp áp suất khác nhau có
+thể tách và thử thủy lực cho từng phần, áp suất thử tối thiểu theo quy định tại
+3.11 TCVN 6156: 1996. Nếu do kết cấu của bình không tách được thì thử phần chịu
+áp thấp nhất và áp dụng các biện pháp bổ sung để kiểm tra bằng tính bền cho phần
+còn lại.
+
+3.5.2. Phải có biện pháp khống chế sự tác động của thiết bị bảo vệ quá áp
+và đảm bảo các thiết bị này không bị phá hỏng trong quá trình thử. Trong trường
+hợp không thực hiện được thì cô lập hoặc được tháo ra thử riêng.
+
+3.5.3. Phân công nhiệm vụ cụ thể cho từng người tham gia thực hiện thử và
+thống nhất cách thông tin để thực hiện chính xác các thao tác trong quá trình
+thứ.
+
+3.5.4. Môi chất và nhiệt độ môi chất thử, áp suất thử, thời gian duy trì
+áp suất thử tối thiểu phải đạt yêu cầu theo quy định tại mục 3.4.2; 3.4.3 của
+TCVN 6154: 1996. Khi môi chất dùng để thứ là khí phải tuân thủ các quy định về
+an toàn trong quá trình thử bằng khí.
+
+3.5.5. Lắp áp kế kiểm tra vào đúng vị trí quy định. Nạp môi chất thử và
+tiến hành thử. Theo dõi chặt chẽ tình trạng của bình, các thiết bị phụ, đo lường.
+
+3.5.6. Giảm áp suất theo quy định về không (0); khắc phục các tồn tại (nếu
+có) và kiểm tra lại kết quả đã khắc phục được. Khôi phục tác động của thiết bị
+bảo vệ quá áp; tăng áp để kiểm tra áp suất làm việc và tác động của van an
+toàn.
+
+3.5.7. Đánh giá kết quả thử: Tối thiểu đạt kết quả theo quy định tại mục
+3.4.5 TCVN 6154:1996.
+
+3.5.8. Trong trường hợp bình được miễn thử thủy lực theo quy định của
+TCVN về kỹ thuật an toàn hiện hành thì phải ghi rõ lý do trong biên bản kiểm định
+và đính kèm các biên bản thử thủy lực của hội đồng kỹ thuật của cơ sở chế tạo,
+lắp đặt vào biên bản kiểm định.
+
+3.6. Kiểm tra độ kín (Thử kín): Chỉ áp dụng khi công nghệ đòi hỏi hoặc
+các bình làm việc với các môi chất độc hại, dễ cháy nổ...
+
+3.6.1. Phải nạp đúng môi chất thử đến áp suất thử.
+
+3.6.2. Phát hiện các rò rỉ; đề xuất các biện pháp để cơ sở khắc phục, xử
+lý và kiểm tra lại.
+
+3.6.3. Đánh giá kết quả thử
+
+3.7. Kiểm tra vận hành (Thử vận hành)
+
+3.7.1. Kiểm tra van an toàn đã được thực hiện theo quy định tại 3.5.6 của
+quy trình này.
+
+3.7.2. Căn cứ vào quy trình, phối hợp với cơ sở đưa bình vào làm việc,
+xem xét tình trạng làm việc của bình và các phụ kiện kèm theo; sự làm việc của
+các thiết bị đo lường, bảo vệ.
+
+3.7.3. Khi bình làm việc tốt thì tiến hành kiểm tra tác động của van an
+toàn (Trừ bình chứa môi chất độc hại, dễ cháy nổ) và niêm phong van an toàn.
+
+4. Xử lý kết quả kiểm định
+
+4.1. Lập biên bản kiểm định.
+
+4.1.1. Lập biên bản kiểm định theo mẫu quy định (ban hành kèm theo quy
+trình này) kèm theo biên bản thử thủy lực nêu tại 3.5.8 của quy trình này (khi
+miễn thử thủy lực), ghi đầy đủ các nội dung của biên bản. Ghi rõ TCVN đã áp dụng
+khi tiến hành kiểm định và cả tiêu chuẩn người chế tạo áp dụng có quy định việc
+kiểm tra, thử nghiệm cao hơn TCVN tương ứng mà chủ cơ sở yêu cầu thực hiện kiểm
+tra, thử nghiệm theo tiêu chuẩn đó.
+
+4.1.2. Ghi tóm tắt kết quả kiểm định vào hồ sơ lý lịch của bình (ghi rõ họ
+tên kiểm định viên, ngày tháng năm kiểm định).
+
+4.2. Thông qua biên bản kiểm định
+
+Thành phần tham gia thông qua biên bản kiểm định bắt buộc tối thiểu phải
+có các thành viên sau:
+
++ Chủ cơ sở hoặc người được chủ cơ sở ủy quyền;
+
++ Người được giao tham gia và chứng kiến kiểm định.
+
+Khi biên bản được thông qua, người tham gia chứng kiến kiểm định ký, chủ
+cơ sở ký và đóng dấu vào biên bản.
+
+4.3. Khi bình đạt được các yêu cầu quy định tại Mục 3
+
+Lãnh đạo cơ quan kiểm định cấp phiếu kết quả kiểm định và biên bản kiểm định
+cho cơ sở.
+
+4.4. Khi bình không đạt các yêu cầu quy định tại Mục 3 thì thực hiện các
+bước 4.1 và 4.2 và chỉ cấp cho cơ sở biên bản kiểm định có nêu rõ lý do bình được
+kiểm định không đạt.
+
+5. Chu kỳ kiểm định
+
+5.1. Đối với bình chịu áp lực chứa môi chất không ăn mòn kim loại:
+
+5.1.1. Thực hiện các phép kiểm định quy định ở mục 3 (trừ 3.5): 3 năm/lần.
+
+5.1.2. Thực hiện toàn bộ các phép kiểm định quy định ở mục 3: 6 năm/lần.
+
+5.2. Đối với bình chịu áp lực chứa môi chất ăn mòn kim loại; các xitec,
+thùng chứa Propan-butan và môi chất thông dụng: Chu kỳ kiểm định theo quy định
+như 5.1 nhưng giảm đi 1/3.
+
+5.3. Các xitéc, thùng chứa môi chất ăn mòn kim loại (Clo, Sulfua
+Hydro...) thực hiện toàn bộ các phép kiểm định quy định ở mục 3 : 2 năm/lần
+
+5.4. Khi người chế tạo có quy định chu kỳ kiểm định ngắn hơn các quy định
+chu kỳ kiểm định nêu trên thì theo quy định của người chế tạo.
+
+5.5. .Khi rút ngắn chu kỳ kiểm định, kiểm định viên phải nêu rõ lý do
+trong biên bản kiểm định.
+
+ 
+
+ 
+
+(BỘ,UBND...)
+
+(Tên cơ quan KĐ)
+
+CỘNG HÒA
+ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+Độc lập 
+ - Tự do - Hạnh phúc
+
+ 
+
+............., ngày.....tháng.......năm.........
+
+ 
+
+BIÊN BẢN KIỂM ĐỊNH KỸ
+THUẬT AN TOÀN BÌNH CHỊU ÁP LỰC
+
+Số:................
+
+Chúng tôi là: (ghi họ và tên, chức danh và số thẻ kiểm định viên nếu có)
+
+Thuộc:
+
+Đã tiến hành kiểm định:
+                                               
+Số thứ tự:
+
+Của: (ghi rõ tên cơ sở)
+
+Địa chỉ: (trụ sở chính của cơ sở)
+
+Địa chỉ lắp đặt bình:
+
+Tiêu chuẩn áp dụng:
+
+Có sự chứng kiến của:
+
+I. THÔNG SỐ CƠ BẢN CỦA
+BÌNH
+
+Loại, mã hiệu:
+                                     
+Áp suất thiết kế:           
+bar (     kG/cm2) 
+
+Số chế tạo:
+                                         
+Áp suất làm việc          
+bar (     kG/cm2) 
+
+Năm chế tạo:
+                                      
+Dung tích:                    
+Lít
+
+Nơi chế tạo:
+                                        
+Môi chất làm việc:
+
+Công dụng của
+bình:                            
+Nhiệt độ làm việc:         0C
+
+Số đăng ký:
+                                        
+Tại cơ quan:
+
+Ngày kiểm định gần nhất:
+                    
+Do cơ quan:
+
+II. CHẾ ĐỘ KIỂM ĐỊNH
+
+(Lần đầu, định
+kỳ, bất thường)
+
+III. NỘI DUNG KIỂM ĐỊNH
+
+1. Hồ sơ
+
++ Nhận xét:
+
+2. Kiểm tra:       Bên
+ngoài U                            
+Bên trong U     
+
++ Vị trí lắp đặt:
+                                                  
++ Sàn, cầu thang:
+
++ Chống sét, nối
+trung tính bảo vệ:                      
++ Chiếu sáng vận hành:
+
++ Các bộ phận chịu
+áp lực (tình trạng bề mặt kim loại và mối hàn):
+
++ Các thiết bị
+phụ, bộ phận phụ trợ:
+
++ Các thiết bị
+đo lường, bảo vệ, an toàn và tự động:
+
+Biện pháp bổ
+sung:
+
+Nhận xét, đánh
+giá kết quả:         Đạt U;             
+Không đạt U   
+
+Bổ sung:
+
+3. Thử nghiệm:
+
++ Các cấp áp suất
+làm việc của bình: (nếu 1 không ghi, từ 2 trở lên ghi từ thấp đến cao ví dụ
+12/18; 1,5/32.....)
+
+NỘI DUNG THỬ
+
+MÔI CHẤT THỬ
+
+ÁP SUẤT THỬ
+
+(bar)
+
+THỜI GIAN THỬ
+
+(Phút)
+
+Thử thủy lực
+
+ 
+
+ 
+
+ 
+
+Thủ kín
+
+ 
+
+ 
+
+ 
+
+Thử vận hành
+
+ 
+
+ 
+
+ 
+
+Nhận xét, đánh
+giá kết quả:         Đạt U;             
+Không đạt U   
+
+Bổ sung:
+
+ 
+
+IV. KẾT LUẬN VÀ KIẾN
+NGHỊ
+
+1. Bình được kiểm
+định có kết quả:
+                    
+Đạt U;             
+Không đạt U
+
+Bổ sung:
+
+2. Áp suất làm
+việc:                    
+bar (         kG/cm2);
+                            
+Nhiệt độ làm việc:         0C
+
+3. Áp suất làm
+việc của van an toàn:
+                  
+bar (         kG/cm2); 
+
+   4.
+Các kiến nghị:
+
+Thời hạn thực hiện kiến nghị:
+
+V. CHU KỲ KIỂM ĐỊNH
+
+Kiểm định định kỳ:        tháng
+              
+năm
+
+Lý do rút ngắn thời hạn:
+
+Biên bản đã được thông qua
+ngày         tháng
+             
+năm
+
+Tại:
+
+Biên bản được lập thành ..... bản, mỗi bên giữ ..... bản.
+
+Chúng tôi, những kiểm định viên thực
+hiện kiểm định bình này hoàn toàn chịu trách nhiệm về tính chính xác các nhận
+xét và đánh giá kết quả kiểm định ghi trong biên bản này.
+
+ 
+
+CHỦ CƠ SỚ 
+
+(cam kết thực hiện 
+
+đầy đủ, đúng hạn
+
+các kiến nghị)
+
+NGƯỜI THAM GIA CHỨNG KIẾN KIỂM ĐỊNH 
+
+(ký, ghi rõ họ và tên)
+
+KIỂM ĐỊNH VIÊN
+
+(ký, ghi rõ họ và tên)
+
+ 
+
+ 
+
+ 
+
+BỘ LAO ĐỘNG - THƯƠNG BINH VÀ
+ XÃ HỘI
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+HỆ THỐNG LẠNH
+
+QUY TRÌNH KIỂM ĐỊNH KỸ THUẬT AN TOÀN
+
+QTKĐ 03-2005
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+HỆ THÓNG LẠNH - QUY TRÌNH KIỂM ĐỊNH
+KỸ THUẬT AN TOÀN 
+
+(Ban hành theo Quyết định của Bộ trưởng Bộ Lao động - Thương binh và Xã
+hội số 2013/2005/QĐ-BLĐTBXH ngày 29/12/2005)
+
+ 
+
+1. Phạm vi áp
+dụng:
+
+Văn bản kỹ thuật này quy định quy trình kiểm định kỹ thuật an toàn lần đầu,
+định kỳ và bất thường các hệ thống lạnh được quy định tại mục 5 phụ lục 1 -
+Danh mục các loại máy, thiết bị, vật tư và các chất có yêu cầu nghiêm ngặt về
+an toàn lao động trong Thông tư số 23/2003/TT-LĐTBXH ngày 03/11/2003 của Bộ Lao
+động - Thương binh và Xã hội.
+
+Quy trình quy định những bước công việc phải thực hiện và những lưu ý
+trong quá trình kiểm định. Căn cứ vào quy trình, cơ quan kiểm định sử dụng trực
+tiếp hoặc xây đựng quy trình cụ thể, chi tiết cho từng dạng, loại hệ thống lạnh
+nhưng không được trái với quy định của quy trình này.
+
+2. Tiêu chuẩn bắt buộc áp dụng
+
+(Là tiêu chuẩn Việt Nam về kỹ thuật an toàn, ký hiệu TCVN)
+
++ TCVN 6153, 6154, 6155 và 6156: 1996: Bình chịu áp lực - Yêu cầu kỹ thuật an
+toàn về thiết kế, kết cấu, chế tạo, lắp đặt, sử dụng, sửa chữa và phương pháp
+thử.
+
++ TCVN 6104: 1996: Hệ thống máy lạnh dùng để làm lạnh và sưởi - Yêu cầu an
+toàn
+
++ TCVN 6008: 1995: Thiết bị áp lực - Mối hàn: Yêu cầu kỹ thuật và phương
+pháp kiểm tra.
+
+3. Các phép kiểm định
+
+Tiến hành xem xét, kiểm tra kỹ thuật an toàn theo các bước sau:
+
+- Kiểm tra hồ sơ: Mục 3.2
+
+- Kiểm tra bên ngoài, bên trong: Mục 3.3
+
+- Kiểm tra năng chịu áp lực: Mục 3.4
+
+- Kiểm tra độ kín: Mục 3.5
+
+- Kiểm tra vận hành: Mục 3.6
+
+3.1. Chuẩn bị kiểm định
+
+3.1.1. Phải thông báo kế hoạch kiểm định và các yêu cầu để cơ sở
+chuẩn bị, phối hợp để đưa hệ thống lạnh vào kiểm định.
+
+3.1.2. Phải xác định biện pháp an toàn và nhân lực thực hiện kiểm
+định. Chuẩn bị đầy đủ dụng cụ, phương tiện, thiết bị cho quá trình kiểm định và
+phương tiện, trang bị bảo vệ cá nhân.
+
+3.2. Kiểm tra hồ sơ
+
+3.2.1. Căn cứ vào chế độ kiểm định để kiểm tra, xem xét về hồ sơ của
+hệ thống.
+
+3.2.1.1.Khi kiểm định lần đầu phải xem xét các hồ sơ sau :
+
+a) Hồ sơ xuất xưởng, lý lịch của hệ thống; bản vẽ nguyên lý làm việc và cấu
+tạo các bộ phận của nó, các chứng chỉ kiểm tra chất lượng;
+
+b) Hồ sơ lắp đặt;
+
+c) Các biên bản kiểm tra mối hàn, kiểm định thiết bị đo lường; biên bản
+kiểm tra tiếp địa, chống sét, thiết bị bảo vệ, chỉ thị (nếu có).
+
+3.2.1.2. Khi kiểm định định kỳ phải xem xét các hồ sơ sau: 
+
+a) Lý lịch, biên
+bản kiểm định và phiếu kết quả kiểm định lần trước;
+
+b) Nhật ký vận hành, duy tu, bảo dưỡng; biên bản thanh, kiểm tra (nếu
+có).
+
+3.2.1.3. Khi kiểm định bất thường phải xem xét các hồ sơ sau:
+
+a) Sau sự cố hoặc sửa chữa lớn trước thời hạn, thay đổi kết cấu: Xem xét
+hồ sơ như kiểm định định kỳ và xem xét bổ sung hồ sơ về sửa chữa, thay đổi kết
+cấu; biên bản kiểm tra về chất lượng sửa chữa, thay đổi kết cấu;
+
+b) Vận hành lại sau khi nghỉ vận hành từ 12 tháng trở lên: Xem xét hồ sơ
+như kiểm định định kỳ;
+
+c) Thay đổi vị trí lắp đặt, chuyển chủ: Như kiểm định đính kỳ và xem xét
+bổ sung hồ sơ lắp đặt.
+
+Lưu ý: Khi kiểm tra, hồ sơ của hệ thống lạnh phải đủ và đúng theo quy định của
+quy phạm, TCVN về kỹ thuật an toàn hiện hành. Nếu không đảm bảo, yêu cầu cơ sở
+có biện pháp khắc phục bổ sung.
+
+3.3. Kiểm tra bên ngoài, bên trong
+
+3.3.1. Kiểm tra bên ngoài, bên trong các bình chịu áp lực của hệ thống
+lạnh tuân thủ theo "Bình chịu áp lực - Quy trình kiểm định KTAT (QTKĐ
+02-2005)".
+
+3.3.2. Kiểm tra xác định tình trạng hiện tại của các thiết bị
+trong hệ thống và xác định chất lượng lắp đặt đảm bảo các yêu cầu của thiết kế
+cũng như sự phù hợp với tiêu chuẩn áp dụng.
+
+3.3.3. Trước khi tiến hành tháo mở, kiểm tra các bộ phận bên trong của hệ
+thống, cần xác định chắc chắn thiết bị không còn áp lực dư và nồng độ các chất
+độc hại, cháy nổ ở trong phạm vi cho phép.
+
+3.3.4. Kiểm tra phát hiện các vết nứt, rạn, móp, phồng, các chỗ bị gỉ mòn
+trên các bộ phận, chi tiết của hệ thống.
+
+3.3.5. Kiểm tra, đánh giá tình trạng làm việc của các phụ kiện, dụng cụ
+đo kiểm.
+
+3.3.6. Kiểm tra hệ thống ống dẫn, ống nối môi chất lạnh về các điều kiện
+độ bền, bố trí, lắp đặt theo tiêu chuẩn áp dụng.
+
+3.3.7. Kiểm tra các chi tiết bắt xiết bị mòn, lỏng, các mối nối cũng như
+các bộ phận bảo ôn bị hư hỏng.
+
+3.3.8. Kiểm tra các van khóa, van chặn về số lượng, chủng loại cũng như vị
+trí lắp đặt theo tiêu chuẩn.
+
+3.3.9. Kiểm tra số lượng van an toàn và các cơ cấu bảo vệ an toàn của hệ
+thống phải đảm bảo theo yêu cầu của tiêu chuẩn.
+
+3.3.10. Trường hợp hệ thống lạnh bố trí các cơ cấu bảo vệ khác như đinh
+chì, đĩa nổ cần xác định tính nguyên vẹn của chúng, khi đã bị thay thế cần kiểm
+tra thông số hoạt động của chúng phải phù hợp theo quy định của tiêu chuẩn.
+
+3.3.11. Trường hợp hệ thống lạnh sử dụng môi chất độc hại hoặc
+cháy nổ, cần chú ý kiểm tra hệ thống thông gió cho buồng máy và các miệng thoát
+của van an toàn, đảm bảo theo quy định của tiêu chuẩn áp dụng.
+
+3.4. Kiểm tra khả năng chịu áp lực (thử thủy lực)
+
+Phải thử thủy lực để xét khả năng chịu áp lực của hệ thống theo trình tự
+sau: 
+
+3.4.1. Xác định áp suất thử: áp suất thử tối thiểu theo quy định tại
+mục 3.1.1.1 và 3.1.1.2 của TCVN 6104-1996.
+
+3.4.2. Phải có biện pháp khống chế sự tác động của thiết bị bảo vệ quá áp
+và đảm bảo các thiết bị này không bị phá hỏng trong quá trình thử. Trong trường
+hợp không thực hiện được thì cô lập hoặc được tháo ra thử riêng.
+
+3.4.3. Tiến hành thử thủy lực bao gồm thử cho các bình chứa môi chất lạnh
+trong hệ thống và thử toàn bộ hệ thống theo quy định của tiêu chuẩn áp dụng.
+
+3.4.4. Trong quá trình thử, phải tuân thủ sử dụng môi chất thử
+theo quy định của người chế tạo và quy định của tiêu chuẩn.
+
+3.4.5. Khi không có điều kiện thử bằng nước, chất lỏng khác có thể sử dụng
+khí nén, khí trơ để thử với điều kiện có kết quả tốt về kiểm tra bên ngoài, bên
+trong và đã kiểm tra độ bền của thiết bị bằng tính toán; thực hiện đầy đủ quy định
+về an toàn khi thử bằng khí.
+
+3.4.6. Giảm áp suất thử về không (0), khôi phục sự làm việc của thiết bi
+bảo vệ quá áp và tăng áp suất để kiểm tra áp suất làm việc của các van an toàn
+gắn trên phần đang thử của hệ thống.
+
+3.4.7. Đánh giá kết quả thử: Kết quả thử phải đạt yêu cầu tối thiểu
+như quy định thử thủy lực trong "Bình chịu áp lực - Quy định kiểm định
+KTAT (QTKĐ 02-2005)".
+
+3.4.8. Trong trường hợp hệ thống được miễn thử thủy lực theo quy định của
+TCVN về kỹ thuật an toàn hiện hành thì phải ghi rõ lý do trong biên bản kiểm định
+và đính kèm các biên bản thử thủy lực của hội đồng kỹ thuật của cơ sở chế tạo,
+lắp đặt vào biên bản kiểm định.
+
+3.5. Kiểm tra độ kín (thử kín)
+
+3.5.1. Thử độ kín được thực hiện sau khi đã thử bền tất cả các phần
+cấu thành hệ thống đạt yêu cầu và được lắp ráp lại hoàn chỉnh (do lắp đặt lần đầu
+hoặc do yêu cầu tách hệ thống ra để thử thủy lực khi kiểm định định kỳ). Có thể
+thử độ kín theo từng khối của hệ thống và thử lại tại các mối nối.
+
+3.5.2. Thời gian tiến hành thử kín theo quy định của tiêu chuẩn áp dụng
+hoặc của người chế tạo hoặc đủ thời gian để đảm bảo đánh giá được độ kín của hệ
+thống; nhưng trong mọi trường hợp không ít hơn thời gian để khẳng định rằng áp
+suất thử ổn định, không bị giảm và độ kín được đảm bảo.
+
+3.5.3. Tiến hành kiểm tra phát hiện các rò rỉ; đề xuất các biện pháp để
+cơ sở khắc phục, xử lý và kiểm tra lại.
+
+3.5.4. Đánh giá kết quả thử.
+
+3.6. Kiểm tra vận hành (thử vận hành)
+
+Phải thử khả năng vận hành của hệ thống lạnh theo trình tự sau:
+
+3.6.1. Kiểm tra áp suất làm việc của van an toàn trên toàn hệ thống
+lạnh đã được thực hiện theo quy định lại 3.4.6 của quy trình này.
+
+3.6.2. Căn cứ vào quy trình, phối hợp với cơ sở đưa hệ thống vào
+làm việc.
+
+3.6.3. Kiểm tra hoạt động của hệ thống đảm bảo các thông số thiết
+kế.
+
+3.6.4. Kiểm tra thông số tác động của các thiết bị tự động, bảo vệ (trừ
+van an toàn).
+
+3.6.5. Khi hệ thống làm việc tốt, ổn định thì tiến hành niêm phong van an
+toàn.
+
+3.6.6. Đánh giá kết quả thử.
+
+4. Xử lý kết quả kiểm định
+
+4.1. Lập biên bản kiểm định.
+
+4.1.1. Lập biên bản kiểm định theo mẫu quy định (ban hành kèm theo
+quy trình này) kèm theo biên bản thử thủy lực nêu tại 3.4.8 của quy trình này
+(khi miễn thử thủy lực), ghi đầy đủ các nội dung của biên bản. Ghi rõ TCVN đã
+áp dụng khi tiến hành kiểm định và cả tiêu chuẩn người chế tạo áp dụng có quy định
+việc kiểm tra, thử nghiệm cao hơn TCVN tương ứng mà chủ cơ sở yêu cầu thực hiện
+kiểm tra, thử nghiệm theo tiêu chuẩn đó.
+
+4.1.2. Ghi tóm tắt kết quả kiểm định vào hồ sơ lý lịch của hệ thống (ghi
+rõ họ tên kiểm định viên, ngày tháng năm kiểm định).
+
+4.2. Thông qua biên bản kiểm định
+
+Thành phần tham gia thông qua biên bản kiểm định bắt buộc tối thiểu phải
+có các thành viên sau:
+
++ Chủ cơ sở hoặc người được chủ cơ sở ủy quyền;
+
++ Người được giao tham gia chứng kiến kiểm định.
+
+Khi biên bản được thông qua, người tham gia chứng kiến kiểm định ký, chủ
+cơ sở ký và đóng dấu vào biên bản.
+
+4.3. Khi hệ thống đạt được các yêu cầu quy định tại Mục 3, lãnh đạo cơ
+quan kiểm định cấp phiếu kết quả kiểm định và biên bản kiểm định cho cơ sở.
+
+4.4. Khi hệ thống không đạt các yêu cầu quy định tại Mục 3 thì thực hiện
+các bước 4.1 và 4.2 và chỉ cấp cho cơ sở biên bản kiểm định có nêu rõ lý
+do hệ thống được kiểm định không đạt.
+
+5. Chu kỳ kiểm định
+
+5.1. Đối với hệ thống lạnh sử dụng tác nhân lạnh không ăn mòn kim loại:
+
+5.1.1. Thực hiện các phép kiểm định quy định ở mục 3 (trừ 3.4): 3
+năm/lần.
+
+5.1.2. Thực hiện toàn bộ các phép kiểm định quy định ở mục 3: 6 năm/lần.
+
+5.2. Đối với hệ thống lạnh sử dụng tác nhân lạnh ăn mòn kim loại: Chu kỳ
+kiểm định theo quy định như 5.1 nhưng giảm đi 1/3.
+
+5.3. Khi người chế tạo có quy định chu kỳ kiểm định ngắn hơn các quy định
+chu kỳ kiểm định nêu trên thì theo quy định của người chế tạo.
+
+5.4. Khi rút ngắn chu kỳ kiểm định, kiểm định viên phải nêu rõ lý do
+trong biên bản kiểm định.
+
+ 
+
+ 
+
+(BỘ,UBND...)
+
+(Tên cơ quan KĐ)
+
+CỘNG HÒA
+ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+Độc lập 
+ - Tự do - Hạnh phúc
+
+ 
+
+.............,
+ ngày.....tháng.......năm.........
+
+ 
+
+BIÊN BẢN KIỂM ĐỊNH KỸ
+THUẬT AN TOÀN 
+
+HỆ THỐNG LẠNH
+
+Số:................
+
+Chúng tôi: (ghi họ và tên, chức danh và số thẻ kiểm định viên nếu có)
+
+Thuộc:
+
+Đã tiến hành kiểm định hệ thống lạnhi:
+                          
+Số thứ tự:
+
+Của:
+
+Địa chỉ:
+
+Được lắp đặt tại:
+
+Tiêu chuẩn áp dụng:
+
+Tham gia, chứng kiến kiểm định có:
+
+ 
+
+I. THÔNG SỐ CƠ BẢN CỦA
+HỆ THỐNG
+
+Mã hiệu:           Số chế tạo:
+                 
+Năm chế tạo:
+              
+Nhà chế tạo:
+
+Áp suất làm việc lớn nhất
+(bar)             
+Phía cao áp:
+                
+Phía hạ áp:
+
+                                                                       
+Trung gian:
+
+Môi chất lạnh:                                      
+Năng suất lạnh:
+
+Công dụng:
+
+Số đăng ký:
+                                        
+Tại cơ quan:
+
+Ngày kiểm định gần nhất:
+                    
+Do cơ quan:
+
+II. CHẾ ĐỘ KIỂM ĐỊNH
+
+(Lần đầu, định
+kỳ, bất thường)
+
+III. NỘI DUNG KIỂM ĐỊNH
+
+1. Hồ sơ
+
++ Nhận xét:
+
+2. Kiểm tra:                  
+Bên ngoài U                            
+Bên trong U     
+
++ Khoảng cách:
+             
++ Chiếu sáng vận hành + Thông
+gió:                            
+
++ Cầu thang, sàn
+thao
+tác:                                              
++ Bảo ôn:
+
++ Các thiết bị
+ngưng tụ:
+                                     
++ Các thiết bị bốc hơi:
+
++ Các thiết bị
+tách dầu:                                                   
++ Các thiết bị tách ẩm:
+
++ Các đường ống
+dẫn môi chất, van chặn:
+                      
++ Các bộ phận phụ trợ:
+
++ Các thiết bị
+đo lường, bảo vệ, an toàn và tự động:
+
++ Trang bị bảo hộ
+phòng chống ngạt và quy trình xử lý sự cố:
+
++ Đánh giá kết
+quả:         Đạt U;             
+Không đạt U   
+
++ Bổ sung:
+
+3. Thử nghiệm:
+
+ 
+
+Thử bền
+
+(Cao áp/Hạ áp/T.gian)
+
+Thử kín
+
+(Cao áp/Hạ áp/T.gian)
+
+Môi chất thử
+
+ 
+
+ 
+
+Áp suất thử
+ (bar):
+
+ 
+
+ 
+
+Thời gian duy
+ trì áp suất thử (Phút):
+
+ 
+
+ 
+
++ Thử vận hành
+trong thời gian:
+
++ Đánh giá kết quả
+thử nghiệm chung:      Đạt U;  Không đạt U    
+
++ Bổ sung:
+
+IV. KẾT LUẬN VÀ KIẾN
+NGHỊ
+
+1. Hệ thống lạnh
+được kiểm định có kết quả:        Đạt U;  Không đạt U
+
+2. Áp suất làm
+việc (bar):
+                      
+Phía cao
+áp                 
+Phía hạ áp        Trung gian 
+
+3. Áp suất làm
+việc của van an toàn:
+
+           
+ 
+
+Áp suất mở (bar)
+
+Áp suất đóng lại (bar)
+
+Van an toàn
+ phía cao áp
+
+ 
+
+ 
+
+Van an toàn
+ phía hạ áp
+
+ 
+
+ 
+
+Van an toàn
+ trung gian
+
+ 
+
+ 
+
+4. Các kiến nghị:
+
+Thời hạn thực hiện kiến nghị:
+
+V. CHU KỲ KIỂM ĐỊNH
+
+Kiểm định định kỳ:        tháng
+              
+năm
+
+Lý do rút ngắn thời hạn:
+
+Biên bản đã được thông qua
+ngày         tháng
+             
+năm
+
+Tại:
+
+Biên bản được lập thành ..... bản, mỗi bên giữ ..... bản.
+
+Chúng tôi, những kiểm định viên thực hiện
+kiểm định hệ thống lạnh này hoàn toàn chịu trách nhiệm về tính chính xác các nhận
+xét và đánh giá kết quả kiểm định ghi trong biên bản này.
+
+ 
+
+CHỦ CƠ SỚ 
+
+(cam kết thực hiện 
+
+đầy đủ, đúng hạn
+
+các kiến nghị)
+
+ 
+
+NGƯỜI THAM GIA CHỨNG KIẾN KIẾM ĐỊNH
+
+(ký, ghi rõ họ và tên)
+
+KIỂM ĐỊNH VIÊN
+
+(ký, ghi rõ họ và tên)
+
+ 
+
+ 
+
+ 
+
+BỘ LAO ĐỘNG - THƯƠNG BINH VÀ
+ XÃ HỘI
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ĐƯỜNG ỐNG DẪN HƠI VÀ NƯỚC NÓNG
+
+QUY TRÌNH KIỂM ĐỊNH KỸ THẬT AN TOÀN
+
+QTKĐ 04-2005
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ĐƯỜNG
+ỐNG DẪN HƠI NƯỚC, NƯỚC NÓNG - 
+
+QUY
+TRÌNH KIỂM ĐỊNH KỸ THUẬT AN TOÀN
+
+(Ban hành theo Quyết định của Bộ trưởng Bộ
+Lao động - Thương binh và Xã hội 
+
+số 2013/2005/QĐ-BLĐTBXH ngày 29/12/2005)
+
+ 
+
+1. Phạm vi áp dụng
+
+Văn bản kỹ thuật này quy định quy trình kiểm định kỹ thuật an toàn đường ống
+dẫn hơi nước, nước nóng (sau đây gọi là hệ thống đường ống) được quy định tại Mục
+6, Phụ lục 1- Danh mục các loại máy, thiết bị, vật tư và các chất có yêu cầu
+nghiêm ngặt về an toàn lao động thuộc Thông tư 23/2003/TT-BLĐTBXH ngày
+03/11/2003 của Bộ Lao động - Thương binh và Xã hội.
+
+2. Tiêu chuẩn bắt buộc áp dụng
+
+(Là tiêu chuẩn Việt Nam về kỹ thuật an toàn, ký hiệu TCVN)
+
++ TCVN6158-1996: Đường ống dẫn hơi nước và nước nóng yêu cầu kỹ thuật.
+
++ TCVN6159-1996: Đường ống dẫn hơi nước và nước nóng - phương pháp thử.
+
++ TCVN6008-1995: Thiết bị áp lực - Mối hàn yêu cầu kỹ thuật và phương pháp
+kiểm tra.
+
+3. Các phép kiểm định
+
+Tiến hành xem xét, kiểm tra kỹ thuật an toàn theo các bước sau:
+
+- Kiểm tra hồ sơ: Mục 3.2
+
+- Kiểm tra bên ngoài, bên trong: Mục 3.3
+
+- Kiểm tra khả năng chịu áp lực: Mục 3.4
+
+- Kiểm tra vận hành: Mục 3.5
+
+3.1. Chuẩn bị kiểm định
+
+3.1.1. Phải thông báo kế hoạch kiểm định và các yêu cầu để cơ sở
+chuẩn bị, phối hợp để đưa hệ thống đường ống vào kiểm định.
+
+3.1.2. Phải xác định biện pháp an toàn và nhân lực thực hiện kiểm định.
+Chuẩn bị đầy đủ dụng cụ, phương tiện, thiết bị cho quá trình kiểm định và
+phương tiện, trang bị bảo vệ cá nhân.
+
+3.2. Kiểm tra hồ sơ
+
+3.2.1. Căn cứ vào chế độ kiểm định để kiểm tra, xem xét hồ sơ của hệ thống
+đường ống.
+
+3.2.1.1. Khi kiểm định lần đầu phải xem xét các hồ sơ sau :
+
+a) Lý lịch của hệ thống đường ống; bản vẽ tuyến ống và các bộ phận của
+nó, các chứng nhận kiểm tra chất lượng, xuất sứ của ống;
+
+b) Hồ sơ lắp đặt;
+
+c) Các biên bản kiểm tra mối hàn, kiểm định thiết bị đo lường; biên bản
+kiểm tra tiếp địa, chống sét (nếu có).
+
+3.2.1.2. Khi kiểm định định kỳ phải xem xét các hồ sơ sau:
+
+a) Lý lịch, biên bản kiểm định và phiếu kết quả kiểm định lần trước; 
+
+b) Nhật ký vận hành, duy tu, bảo dưỡng; biên bản thanh, kiểm tra (nếu
+có).
+
+3.2.1.3. Khi kiểm định bất thường phải xem xét các hồ sơ sau:
+
+a) Sau sự cố hoặc sửa chữa lớn trước thời hạn, thay đổi kết cấu: Xem xét
+hồ sơ như kiểm định định kỳ và xem xét bổ sung hồ sơ về sửa chữa, thay đổi kết
+cấu; biên bản kiểm tra về chất lượng sửa chữa, thay đổi kết cấu;
+
+b) Thay đổi vị trí lắp đặt, chuyển chủ:
+Như kiểm định định kỳ và xem xét bổ sung hồ sơ lắp đặt.
+
+3.2.2. Xem xét về kết cấu, sơ đồ tuyến ống, thông số kỹ thuật làm việc của
+hệ thống đường ống và các thiết bị phụ trợ; xác định tiêu chuẩn áp dụng; xác định
+các vị trí, chi tiết, thiết bị bảo vệ, an toàn cần quan tâm ưu tiên kiểm tra
+trong kiểm định.
+
+Lưu ý: Khi kiểm tra, hồ sơ của hệ thống đường ống phải đủ và đúng theo quy định
+của quy phạm, TCVN về kỹ thuật an toàn hiện hành. Nếu không đảm bảo, yêu cầu cơ
+sở có biện pháp khắc phục bổ sung.
+
+3.3. Kiểm tra bên ngoài, bên trong
+
+Thực hiện việc kiểm tra bằng mắt và sử dụng dụng cụ thông thường như:
+kính lúp, búa gõ, dũa, thước đo (thước cứng, thước dây, thước cặp, đồng hồ so,
+thước lá, pan me, dưỡng) và đèn chiếu sáng chuyên dụng.
+
+3.3.1. Kiểm tra bên ngoài
+
++ Kiểm tra về mặt bằng bố trí hệ thống đường ống, các quy định về khoảng
+cách an toàn, lan can cầu thang, đèn chiếu sáng tại các vị trí cần thao tác.
+
++ Kiểm tra độ biến dạng và bền vững kim loại của các chi tiết treo, giá đỡ ống;
+độ cong võng đường ống, góc uốn ống.
+
++ Kiểm tra tình trạng bao che và bảo ôn.
+
++ Kiểm tra độ bắt chặt của các chi tiết ghép nối.
+
++ Kiểm tra số lượng và tình trạng van lắp trên đường ống.
+
++ Kiểm tra số lượng, chất lượng các bộ phận, chi tiết dãn nở; các điểm xả
+nước đọng trên đường ống, van xả nước đọng, vị trí và tình trạng an toàn hố xả.
+
++ Kiểm tra số lượng và tình trạng trang thiết bị đo kiểm, an toàn, bảo vệ,
+tự động.
+
++ Kiểm tra về kết cấu, bề mặt kim loại, mức độ ăn mòn, các mối hàn...
+
+3.3.2. Kiểm tra bên trong (khi có thể thực hiện được)
+
++ Kiểm tra về kết cấu, bề mặt kim loại ống, các mối hàn.
+
++ Kiểm tra tình trạng cáu cặn và đề nghị cơ sở có biện pháp xử lý.
+
+3.3.3. Khi không khám xét được bên trong hoặc khám xét hạn chế kiểm định
+viên có thể yêu cầu cơ sở thực hiện các biện pháp kiểm tra bổ sung phù hợp để
+đánh giá tình trạng kỹ thuật của hệ thống đường ống.
+
+3.4. Kiểm tra khả năng chịu áp lực (thử thủy lực)
+
+Phải thử thủy lực để xét khả năng chịu áp lực của hệ thống đường ống theo
+trình tự sau:
+
+3.4.1. Xác định áp suất thử: áp suất thử tối thiểu theo quy định tại
+mục 7.4 của TCVN 6159: 1996
+
+3.4.2. Phải có biện pháp khống chế sự tác động của thiết bị bảo vệ quá áp
+và đảm bảo các thiết bị này không bị phá hỏng trong quá trình thử. Trong trường
+hợp không thực hiện được thì cô lập hoặc được tháo ra thử riêng.
+
+3.4.3. Kiểm tra sự làm việc của thiết bị tăng giảm áp suất.
+
+3.4.4. Kiểm tra và thử nghiệm biện pháp thông tin liên lạc để quá trình
+tăng giảm áp suất đảm bảo chính xác.
+
+3.4.5. Nạp đầy môi chất vào đường ống. Lắp áp kế kiểm tra đúng vị trí quy
+định.
+
+3.4.6. Bố trí vị trí phù hợp cho mọi người tham gia kiểm định đảm
+bảo thực hiện được công việc và an toàn.
+
+3.4.7. Tăng áp suất theo quy định về tốc độ và thời gian đến áp suất thử.
+
+3.4.8. Duy trì áp suất thử theo quy định tại mục 7.5 của TCVN 6159: 1996
+và theo dõi tình trạng của đường ống.
+
+3.4.9. Giảm áp suất theo quy định về tốc độ và thời gian đến áp suất làm
+việc, tiến hành kiểm tra tình trạng của toàn bộ hệ thống đường ống.
+
+3.4.10. Giảm áp suất về không (0); khắc phục các tồn tại (nếu có)
+và kiểm tra kết quả đã khắc phục được. Khôi phục sự tác động của thiết bị bảo vệ
+quá áp, tăng áp suất để kiểm tra tác động và áp suất làm việc của van an toàn.
+
+3.4.11. Căn cứ vào tiêu chuẩn áp dụng đánh giá kết quả thử, tối
+thiểu đạt yêu cầu theo quy định tại mục 7.6 của TCVN 6159: 1996.
+
+Lưu ý: Khi hệ thống đường ống được kiểm định có cấp áp suất làm việc khác nhau
+thì phải tách độc lập thử cho từng cấp.
+
+3.4.12. Trong trường hợp hệ thống đường ống được miễn thử thủy lực
+theo quy định của TCVN về kỹ thuật an toàn hiện hành thì phải ghi rõ lý do trong
+biên bản kiểm định và đính kèm các biên bản thử thủy lực của hội đồng kỹ thuật
+của cơ sở chế tạo, lắp đặt vào biên bản kiểm định.
+
+3.5. Kiểm tra vận hành (Thử vận hành)
+
+Phải thử khả năng vận hành của hệ thống đường ống theo trình tự sau:
+
+3.5.1. Căn cứ vào quy trình yêu cầu cơ sở tiến hành chuẩn bị khởi động,
+tăng áp đường ống.
+
+3.5.2 Trong quá trình tăng áp suất đến áp suất làm việc của đường ống
+theo dõi chặt chẽ toàn bộ hệ thống đường ống và tình trạng làm việc của
+các thiết bị phụ. Nếu thấy có sự bất thường phải dừng theo đúng quy trình, tiến
+hành kiểm tra, kết luận cụ thể và các biện pháp khắc phục và kiểm tra lại.
+
+3.5.3. Khi tăng đến áp suất làm việc, nếu không có gì bất thường thì tiếp
+tục tăng áp suất để kiểm tra tác động và áp suất làm việc của các van an
+toàn, van giảm áp (nếu có) và kiểm tra hiệu quả điều chỉnh áp suất của van giảm
+áp.
+
+3.5.4. Khi hệ thống đường ống làm việc đạt yêu cầu thì tiến hành niêm
+phong van an toàn.
+
+3.5.5. Đánh giá kết quả thử.
+
+4. Xử lý kết quả kiểm định
+
+4.1. Lập biên bản kiểm định
+
+4.1.1. Lập biên bản kiểm định theo mẫu quy định (ban hành kèm theo quy
+trình này) kèm theo biên bản thử thủy lực nêu tại 3.4.12 của quy trình này (khi
+miễn thử thủy lực), ghi đầy đủ các nội dung của biên bản. Ghi rõ TCVN đã áp dụng
+khi tiến hành kiểm định và cả tiêu chuẩn người chế tạo áp dụng có quy định việc
+kiểm tra, thử nghiệm cao hơn TCVN tương ứng mà chủ cơ sở yêu cầu thực hiện kiểm
+tra, thử nghiệm theo tiêu chuẩn đó.
+
+ 4.1.2. Ghi tóm tắt kết quả kiểm định vào hồ sơ lý lịch của hệ thống
+đường ống (ghi rõ họ tên kiểm định viên, ngày tháng năm kiểm định). 
+
+4.2. Thông qua biên bản kiểm định
+
+Thành phần tham gia thông qua biên bản kiểm định bắt buộc tối thiểu phải
+có các thành viên sau:
+
++ Chủ cơ sở hoặc người được chủ cơ sở ủy quyền;
+
++ Người được giao tham gia chứng kiến kiểm định.
+
+Khi biên bản được thông qua, người tham gia chứng kiến kiểm định ký, chủ
+cơ sở ký và đóng dấu vào biên bản.
+
+4.3 Khi hệ thống đường ống đạt được các yêu cầu quy định tại Mục 3, lãnh
+đạo cơ quan kiểm định cấp phiếu kết quả kiểm định và biên bản kiểm định cho cơ
+sở.
+
+4.4. Khi hệ thống đường ống không đạt các yêu cầu quy định tại Mục 3 thì
+thực hiện các bước 4.1 và 4.2 vfa chỉ cấp cho cơ sở biên bản kiểm định có nêu
+rõ lý do hệ thống đường ống được kiểm định không đạt.
+
+5. Chu kỳ kiểm định
+
+5.1. Thực hiện các phép kiểm định quy định ở mục 3 (trừ 3.4): 3
+năm/lần.
+
+5.2. Thực hiện toàn bộ các phép kiểm định quy định ở mục 3: 6 năm/lần.
+
+5.3. Khi rút ngắn chu kỳ kiểm định, kiểm định viên phải nêu rõ lý do
+trong biên bản kiểm định.
+
+ 
+
+ 
+
+(BỘ,UBND...)
+
+(Tên cơ quan KĐ)
+
+CỘNG HÒA
+ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+Độc lập 
+ - Tự do - Hạnh phúc
+
+ 
+
+.............,
+ ngày.....tháng.......năm.........
+
+ 
+
+BIÊN BẢN KIỂM ĐỊNH KỸ
+THUẬT AN TOÀN 
+
+ĐƯỜNG ỐNG DẪN HƠI, NƯỚC
+NÓNG
+
+Số:................
+
+Chúng tôi: (ghi họ và tên, chức danh và số thẻ kiểm định viên nếu có)
+
+Thuộc:
+
+Đã tiến hành kiểm định:
+                                               
+Số thứ tự:
+
+Của cơ sở:
+
+Địa chỉ: 
+
+Lắp đặt tại:
+
+Tiêu chuẩn áp dụng:
+
+Tham gia và chứng kiến kiểm định có:
+
+I. THÔNG SỐ CƠ BẢN CỦA
+HỆ THỐNG
+
+Mã hiệu ống:
+                                       
+Nước chế tạo:
+
+Ký hiệu hệ thống đường ống:
+               
+Năm chế tạo:
+                                      
+
+Áp suất thiết kế:   bar (..........kG/cm2)  
+Áp suất làm việc     bar (..........kG/cm2)
+
+Đường kính trong:
+                     
+(mm)    Tổng chiều dài (m):
+
+Công dụng
+                  
+
+Số đăng ký:
+                                        
+Tại cơ quan:
+
+Ngày kiểm định gần nhất:
+                    
+Của cơ quan:
+
+ 
+
+II. CHẾ ĐỘ KIỂM ĐỊNH
+
+(Lần đầu, định
+kỳ, bất thường)
+
+III. NỘI DUNG KIỂM ĐỊNH
+
+1. Hồ sơ
+
++ Nhận xét:
+
+ 
+
+2. Kiểm tra:       Bên
+ngoài U                            
+Bên trong U     
+
++ Dây, giá treo
+đỡ:
+                                                        
+
++ Khoảng cách an
+toàn:                          
++ Bảo ôn, che chắn:
+
++ Van, tê, cút,
+nối ống, bù giãn nở:          
++ Van xả, hố xả: 
+
++ Cầu thang, lan
+can, sàn thao tác:          
++ Chiếu sáng:
+
++ Các thiết bị
+đo lường, bảo vệ, an toàn và tự động:
+
++ Bề mặt kim loại
+và mối hàn:
+                
++ Mức độ cáu cặn:
+
++ Nhận xét, đánh
+giá kết quả:      Đạt U;             
+Không đạt U   
+
++ Bổ sung:
+
+3. Thử nghiệm:
+
++ Các cấp áp suất
+làm việc của hệ thống đường ống: (nếu 1 không ghi, từ 2 trở lên ghi từ cao đến
+thấp ví dụ 12/8; 8/3,5.....)
+
+NỘI DUNG THỬ
+
+ÁP SUẤT THỬ
+
+(bar)
+
+THỜI GIAN THỬ
+
+(Phút)
+
+Thử thủy lực
+
+ 
+
+ 
+
+Thử vận hành
+
+ 
+
+ 
+
+Nhận xét, đánh
+giá kết quả:         Đạt U;             
+Không đạt U   
+
+Bổ sung:
+
+IV. KẾT LUẬN VÀ KIẾN
+NGHỊ
+
+1. Hệ thống đường
+ống được kiểm định có kết quả:         Đạt U;  Không đạt U
+
+Bổ sung:
+
+2. Áp suất làm
+việc:                    
+Bar (         kG/cm2);
+     Nhiệt độ làm việc:
+        0C
+
+3. Áp suất làm
+việc của van an toàn:
+                  
+Bar (         kG/cm2); 
+
+4.Các kiến nghị:
+
+Thời gian thực
+hiện kiến nghị:
+
+V. CHU KỲ KIỂM ĐỊNH
+
+Kiểm định định kỳ:        tháng
+              
+năm
+
+Lý do rút ngắn thời hạn:
+
+Biên bản đã được thông qua
+ngày         tháng
+             
+năm
+
+Tại:
+
+Biên bản được lập thành ..... bản, mỗi bên giữ ..... bản.
+
+Chúng tôi, những kiểm định viên thực
+hiện kiểm định đường ống dẫn hơi, nước nóng này hoàn toàn chịu trách nhiệm về
+tính chính xác các nhận xét và đánh giá kết quả kiểm định ghi trong biên bản
+này.
+
+CHỦ CƠ SỚ 
+
+(cam kết thực hiện 
+
+đầy đủ, đúng hạn
+
+các kiến nghị)
+
+ 
+
+NGƯỜI THAM GIA CHỨNG KIẾN KIẾM ĐỊNH
+
+(ký, ghi rõ họ và tên)
+
+KIỂM ĐỊNH VIÊN
+
+(ký, ghi rõ họ và tên)
+
+ 
+
+ 
+
+BỘ LAO ĐỘNG - THƯƠNG BINH VÀ
+ XÃ HỘI
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+CHAI CHỨA KHÍ
+
+QUY TRÌNH KIỂM ĐỊNH KỸ THUẬT AN TOÀN
+
+QTKĐ 05-2005
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+CHAI CHỨA KHÍ - QUY TRÌNH KIỂM ĐỊNH KỸ
+THUẬT AN TOÀN
+
+(Ban
+hành theo Quyết định của Bộ trưởng Bộ Lao động - Thương binh và Xã hội
+
+số
+2013/2005/QĐ-BLĐTBXH ngày 29/12/2005)
+
+ 
+
+1. Phạm vi áp dụng
+
+Văn bản kỹ thuật này quy định quy trình kiểm định kỹ thuật an toàn lần đầu,
+định kỳ và bất thường các loại chai chứa khí, khí hóa lỏng, khí hòa tan (Sau
+đây gọi chung là chai) được quy định tại Mục 17, Phụ lục 1- Danh mục các loại
+máy, thiết bị, vật tư và các chất có yêu cầu nghiêm ngặt về an toàn lao động
+thuộc Thông tư 23/2003/TT-BLĐTBXH ngày 03/11/2003 của Bộ Lao động - Thương binh
+và Xã hội.
+
+Quy trình quy định những bước công việc phải thực hiện và những lưu ý
+trong quá trình kiểm định chai chứa khí. Căn cứ vào quy trình, cơ quan kiểm định
+chai có thể sử dụng trực tiếp hoặc xây dựng quy trình cụ thể, chi tiết cho từng
+dạng, loại chai chứa khí nhưng không được trái với quy định của quy trình này.
+
+2. Tiêu chuẩn bắt buộc áp dụng
+
+(Là tiêu chuẩn Việt Nam về kỹ thuật an toàn, ký hiệu TCVN)
+
++ TCVN 6153: 1996: Bình chịu áp lực -Yêu cầu kỹ thuật an toàn về thiết kế,
+kết cấu, chế tạo.
+
++ TCVN 6154: 1996: Bình chịu áp lực - Yêu cầu kỹ thuật an toàn về thiết kế,
+kết cấu chế tạo - Phương pháp thử.
+
++ TCVN 6155: 1996: Bình chịu áp lực - Yêu cầu kỹ thuật an toàn về
+lắp đặt, sử dụng sửa chữa.
+
++ TCVN 6156: 1996: Bình chịu áp lực - Yêu cầu kỹ thuật an toàn về lắp đặt sử
+dụng, sửa chữa - Phương pháp thử.
+
++ TCVN 6292: 1997: Chai chứa khí - Chai chứa khí bằng thép hàn có thể nạp lại.
+
++ TCVN 6294: 1997: Chai chứa khí. Chai chứa khí bằng thép cácbon hàn - Kiểm
+tra và thử định kỳ.
+
++ TCVN 6295: 1997: Chai chứa khí. Chai chứa khí không hàn - Tiêu chuẩn an
+toàn và đặc tính.
+
++ TCVN 6008- 1995: Thiết bị áp lực - Mối hàn yêu cầu kỹ thuật và phương
+pháp kiểm tra.
+
+3. Các phép kiểm định
+
+Tiến hành xem xét, kiểm tra kỹ thuật an toàn theo các bước sau:
+
+- Kiểm tra hồ sơ: Mục 3.2
+
+- Kiểm tra và xử lý sơ bộ: Mục 3.3
+
+- Kiểm tra bên ngoài, bên trong: Mục 3.4
+
+- Kiểm tra khả năng chịu áp lực: Mục 3.5
+
+- Kiểm tra độ kín: (Chỉ áp dụng cho các chai chứa các môi chất độc hại, dễ
+cháy nổ; các chai khác khi có yêu cầu) Mục 3.6
+
+3.1. Chuẩn bị kiểm định
+
+3.1.1. Căn cứ yêu cầu của cơ sở có chai đề nghị kiểm định, xác định
+chế độ kiểm định:
+
++ Kiểm định lần đầu trước khi đưa chai mới vào sử dụng: 5% số chai của lô
+chai.
+
++ Kiểm định định kỳ hoặc kiểm định bất thường: 100% số chai của lô chai.
+
+Lưu ý: Thực hiện việc lấy mẫu kiếm định theo xác suất 5% các chai phải đảm bảo
+đại diện cho các nhóm chai của lô chai.
+
+3.1.2. Việc kiểm định chai có thể thực hiện tại trạm khám chai hoặc
+tại cơ sở có chai cần kiểm định:
+
++ Khi thực hiện kiểm định tại trạm: Thông báo kế hoạch kiểm định và các yêu
+cầu cơ sở thực hiện trách nhiệm theo quy định của tiêu chuẩn để sẵn sàng đưa chai
+vào kiểm định. Phối hợp với cơ sở tổ chức lấy mẫu (khi kiểm định lần đầu);
+
++ Khi thực hiện kiểm định tại cơ sở: Như kiểm định tại trạm và các yêu cầu
+để cơ sở chuẩn bị bố trí vị trí kiểm định, vị trí xử lý khí dư... để đảm bảo an
+toàn và bảo vệ môi trường.
+
+3.1.3. Chuẩn bị đầy đủ nhân lực, dụng cụ, thiết bị, phương tiện trang bị
+bảo vệ cá nhân cần thiết phục vụ cho quá trình kiểm định.
+
+3.2. Kiểm tra hồ sơ
+
+3.2.1. Căn cứ vào chế độ kiểm định, hồ sơ để xem xét phải có:
+
+3.2.1.1. Kiểm định lần đầu: Hồ sơ xuất xưởng, danh sách lô chai.
+
+3.2.1.2. Kiểm định định kỳ: Hồ sơ về kiểm định lần trước; hồ sơ về
+quản lý sử dụng, bảo dưỡng (nếu có).
+
+3.2.1.3. Bất thường: Hồ sơ về kiểm định, hồ sơ về sửa chữa.
+
+3.3. Kiểm tra và xử lý sơ bộ
+
+3.3.1. Kiểm tra thông số ghi trên tay sách hay cổ chai, đối chiếu số liệu
+với tài liệu kỹ thuật đi kèm. Loại bỏ các chai không thuộc danh sách kiểm định
+và những chai mất hoặc mờ các thông số.
+
+3.3.2. Kiểm tra bằng mắt tình trạng bên ngoài của từng chai để loại bỏ ra
+ngoài các chai có hiện tượng bất thường như: phồng, móp, méo; gẫy tay xách, gẫy
+chân đế; cà xước theo rãnh sâu, rỉ rỗ, cháy, bong tróc nhãn mác.
+
+3.3.3. Các chai chưa được làm sạch cáu bẩn bên ngoài cũng được loại
+riêng.
+
+3.3.4. Đối với chai kiểm định định kỳ phải tiến hành xử lý khí dư trong
+chai.
+
+3.3.4.1. Chai chứa khí trơ, không độc hại, không cháy nổ có thể đưa vào vị
+trí xả trực tiếp.
+
+3.3.4.2. Chai chứa khí độc hại, dễ cháy nổ thì xả, hút hết môi chất chứa
+trong chai bằng thiết bị chuyên dụng để thu hồi sử dụng lại khí hoặc có biện
+pháp xử lý an toàn, không xả trực tiếp ra môi trường.
+
+3.3.5. Khi đảm bảo đã tháo hết khí trong chai, tháo van đầu chai bằng dụng
+cụ, thiết bị chuyên dụng.
+
+3.3.6. Kiểm tra độ kín của van và bộ phận an toàn (nếu có); loại bỏ van
+không đạt yêu cầu
+
+3.3.7. Làm sạch bên trong chai bằng biện pháp, phương tiện thích hợp; đối
+với chai chứa chất xốp xả hết dung môi hòa tan.
+
+3.4. Kiểm tra bên ngoài, bên trong
+
+3.4.1. Kiểm tra tình trạng bề mặt, mối hàn, cổ ren, chân đế, tay
+xách.
+
+3.4.2. Đối với chai đúc, dập liền kiểm tra khối lượng chai và so sánh với
+khối lượng khi xuất xưởng của chai.
+
+3.4.3. Kiểm tra bên trong chai bằng thiết bị soi chuyên dùng để đánh giá
+tình trạng bề mặt kim loại, mối hàn.
+
+3.4.4. Đối với chai có chất xốp thì kiểm tra chất lượng của xốp.
+
+3.4.5. Các chai khám xét không đạt yêu cầu loại bỏ ra ngoài.
+
+3.5. Kiểm tra khả năng chịu áp lực (thử thủy lực)
+
+3.5.1. Đối với chai hàn
+
++ Nạp đầy môi chất thử;
+
++ Tiến hành thử theo đúng quy định về tăng giảm áp suất, thời gian duy trì
+áp suất thử của tiêu chuẩn áp dụng, nếu tiêu chuẩn người chế tạo áp dụng cao
+hơn tiêu chuẩn Việt Nam tương ứng thì theo quy định của người chế tạo;
+
++ Đối với chai có chứa chất xốp hoặc không cho phép thử bằng chất lỏng thì
+tiến hành thử bằng không khí nén, khí trơ; khi thử bằng khí phải tuân thủ các
+điều kiện an toàn tối thiểu theo quy định tại 3.15, 3.16 TCVN 6156: 1996.
+
+3.5.2. Đối với chai đúc, dập liền thực
+hiện như quy định của bước 3.5.1 đồng thời với việc xác định dung tích thực của
+chai sau thử để xác định mức độ tăng dung tích chai cho phép (đặc biệt lưu ý đối
+với các chai có khối lượng giảm nhiều khi tiến hành kiểm tra khối lượng chai thực
+hiện ở bước 3.4.2).
+
+Căn cứ về mức tăng thể tích hoặc giảm khối lượng vỏ chai để quy định áp suất
+làm việc của chai hay loại bỏ theo quy định tại 4.7, 4.10 TCVN 6156: 1996.
+
+3.5.3. Tháo và làm sạch môi chất thử; làm khô bên trong chai.
+
+3.5.4. Lắp van đã kiểm tra đạt yêu cầu vào chai.
+
+3.6. Kiểm tra độ kín (thử kín)
+
+3.6.1. Nạp khí nén hoặc khí trơ vào chai đến áp suất theo quy định
+của tiêu chuẩn áp dụng hoặc theo quy định của người chế tạo.
+
+3.6.2. Kiểm tra độ kín của các đầu nối, mối ghép van... của chai bằng bọt
+xà phòng hay trong bể thử kín chuyên dụng. Các chai có rò rỉ phải đưa ra xử lý và
+thử lại.
+
+3.6.3. Chai thử đạt yêu cầu, tiến hành xả hết khí, làm khô bên ngoài
+chai; hút chân không và nạp khí bảo vệ (khi có yêu cầu).
+
+4. Xử lý kết quả kiểm định
+
+4.1. Các chai đạt yêu cầu quy định tại mục 3
+
+4.1.1. Đóng dấu (tên, mã hiệu, lôgô) của cơ quan kiểm định và
+tháng năm kiểm định tiếp theo vào chai đúng kích cỡ và vị trí quy định.
+
+4.1.2. Sơn và ghi nhãn đúng theo quy định về môi chất làm việc của chai
+(trừ chai LPG).
+
+4.1.3. Ghi sổ khám nghiệm chai làm căn cứ lập biên bản kiểm định.
+
+4.1.4. Lập biên bản kiểm định: Lập biên bản kiểm định theo mẫu
+(ban hành kèm theo quy trình này). Ghi đầy đủ kết quả kiểm định, các nhận xét
+và các yêu c cần thiết đối với cơ sở sử dụng. Ghi rõ TCVN đã áp dụng khi tiến
+hành kiểm định và cả tiêu chuẩn người chế tạo áp dụng có quy định việc kiểm
+tra, thử nghiệm cao hơn TCVN tương ứng mà cơ sở yêu cầu thực hiện kiểm tra, thử
+nghiệm theo tiêu chuẩn đó.
+
+4.1.5. Cấp phiếu kết quả kiểm định, biên bản kiểm định cho cơ sở sử
+dụng.
+
+4.2. Phối hợp với cơ sở tổ chức xử lý các chai loại ra trong các bước thực
+hiện tại Mục 3 theo quy định của tiêu chuẩn áp dụng hoặc nhà chế tạo.
+
+5. Chu kỳ kiểm định
+
+5.1. Đối với chai chứa khí bình thường: Thực hiện toàn bộ các phép kiểm định
+quy định ở mục 3: 5 năm/lần.
+
+5.2. Các chai chứa khí ăn mòn kim loại, độc hại (Clo, Sulfua Hydro,
+Clorua, mêtin, Phốtden, Anhydric Sunfurơ, Clorua Hydro...) thực hiện toàn bộ
+các phép kiểm định quy định ở mục 3: 2 năm/1ần.
+
+5.3. Khi người chế tạo có quy định chu kỳ kiểm định ngắn hơn các quy định
+chu kỳ kiểm định nêu trên thì theo quy định của người chế tạo.
+
+5.4. Khi rút ngắn chu kỳ kiểm định, kiểm định viên phải nêu rõ lý do
+trong biên bản kiểm định.
+
+ 
+
+ 
+
+(BỘ,UBND...)
+
+(Tên cơ quan KĐ)
+
+CỘNG HÒA
+ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+Độc lập 
+ - Tự do - Hạnh phúc
+
+ 
+
+............., ngày.....tháng.......năm.........
+
+ 
+
+BIÊN BẢN KIỂM ĐỊNH KỸ
+THUẬT AN TOÀN 
+
+CHAI CHỨA KHÍ
+
+Số:................
+
+Chúng tôi là: (ghi họ và tên, chức danh và số thẻ kiểm định viên nếu có)
+
+Đã tiến hành kiểm định:
+                                               
+
+Của (ghi rõ têncơ sở):
+
+Địa chỉ (trụ sở chính của cơ sở): 
+
+Thực hiện kiểm định chai tại:
+
+Tiêu chuẩn áp dụng:
+
+Tham gia chứng kiến kiểm định có:
+
+I. THÔNG SỐ CƠ BẢN CỦA
+CHAI
+
+Tên và địa chỉ người chế tạo:
+
+Tháng, năm chế tạo:
+                                        
+
+Số chế tạo của lô chai:  Từ                   
+đến
+
+Số chế tạo của............. chai được kiểm định: Theo danh sách chai đính
+kèm.
+
++ Áp suất thiết kế:        bar
+(..........kG/cm2)      
+
++ Áp suất thử:    
+         bar (..........kG/cm2)
+
++ Dung tích vỏ chai:
+       
+Lít.                  
++ Khối lượng chai rỗng:
+           Kg
+
+Số đăng ký:
+                                        
+Tại cơ quan:
+
+Ngày kiểm định gần nhất:
+                    
+Do cơ quan:
+
++ Công dụng:
+
+II. CHẾ ĐỘ KIỂM ĐỊNH
+
+(Lần đầu, định kỳ,
+bất thường)
+
+III. NỘI DUNG KIỂM ĐỊNH
+
+1. Hồ sơ
+
++ Hồ sơ xuất xưởng
+U                            
++ Hồ sơ sử dụng, kiểm định U
+
++ Các hồ sơ
+khác:
+
++ Bổ sung
+
+2. Khám xét:     
+
++ Bên ngoài U                            
++ Bên trong U 
+
++ Van nạp, xả,
+an toàn: U           
++ Chân đế, tay xách: U +
+Chất xốp, nắp chụp: U
+
++ Đánh giá kết
+quả:         Đạt U;             
+Không đạt U   
+
++ Bổ sung:
+
+3. Thử thủy lực:
+
++ Môi chất thử:
+
++ Áp suất thử:
+               
+bar (     kG/cm2)          
++ Thời gian thử:           
+phút
+
++ Đánh giá kết
+quả:         Đạt U;             
+Không đạt U   
+
+Bổ sung:
+
+4. Thử kín:
+
++ Môi chất thử:
+
++ Áp suất thử:
+               
+bar (     kG/cm2)          
++ Thời gian thử:           
+phút
+
++ Đánh giá kết
+quả:         Đạt U;             
+Không đạt U   
+
++ Bổ sung:
+
+IV. KẾT LUẬN VÀ KIẾN
+NGHỊ
+
+1. Lô chai
+(chai) được kiểm định có kết quả:        Đạt U;  Không đạt U
+
+2. Áp suất làm
+việc:                    
+Bar (         kG/cm2);
+     Nhiệt độ làm việc:
+        0C
+
+3. Các kiến nghị:
+
+4. Thời hạn thực hiện kiến nghị:
+
+V. CHU KỲ KIỂM ĐỊNH
+
+Thời hạn tái kiểm định là:
+          Tháng
+             
+năm
+
+Thời hạn trên được đóng trên chai ở vị trí: Cổ chai U                
+Tay xách U      
+Nhãn U
+
+Lý do rút ngắn thời hạn:
+
+Biên bản lập ngày         tháng
+             
+năm
+
+Tại:
+
+Chúng tôi, những kiểm định viên thực
+hiện kiểm định lô chai này hoàn toàn chịu trách nhiệm về tính chính xác các nhận
+xét và đánh giá kết quả kiểm định ghi trong biên bản này.
+
+GIÁM ĐỐC
+
+(cơ quan kiểm định
+
+ký, đóng dấu)
+
+ 
+
+KIỂM ĐỊNH VIÊN
+
+(ký, ghi rõ họ và tên)
+
+NGƯỜI THAM GIA CHỨNG KIẾN KIỂM  ĐỊNH
+ 
+
+(nếu có)
+
+ 
+
+ 
+
+DANH SÁCH CHAI KIỂM ĐỊNH
+
+(Đính kèm biên bản kiểm định số
+.....ngày    tháng    năm)
+
+Số chế tạo của lô chai từ ............. đến..........
+
+I. Các chai được kiểm định:
+
+SỐ THỨ TỰ
+
+SỐ CHẾ TẠO
+
+DUNG TÍCH 
+
+(LÍT)
+
+KHỐI LƯỢNG 
+
+(Kg)
+
+GHI CHÚ
+
+1
+
+ 
+
+...
+
+...
+
+...
+
+2
+
+ 
+
+...
+
+...
+
+...
+
+...
+
+ 
+
+...
+
+...
+
+...
+
+ 
+
+II. Các chai
+không có trong lô (hoặc danh sách lô chai)
+
+SỐ 
+
+THỨ TỰ
+
+SỐ 
+
+CHẾ TẠO
+
+SỐ 
+
+THỨ TỰ
+
+SỐ 
+
+CHẾ TẠO
+
+SỐ 
+
+THỨ TỰ
+
+SỐ 
+
+CHẾ TẠO
+
+1
+
+ 
+
+...
+
+...
+
+...
+
+...
+
+2
+
+ 
+
+...
+
+...
+
+...
+
+...
+
+...
+
+ 
+
+...
+
+...
+
+...
+
+...
+
+ 
+
+Chú thích:
+
++ Khi lô chai có
+số chế tạo liên tục, số chai không có trong lô ít (do một số chai nhà chế tạo
+đã lấy ra thử cơ tính, thử nổ) thì ghi “các chai không có trong lô”; nếu lô chai
+có số chế tạo không liên tục thì ghi “danh sách lô chai” và phải ghi đủ số chai
+của lô chai;
+
++ Khi số chai ít
+có thể ghi trực tiếp vào biên bản thì không cần phải có danh sách chai đính
+kèm.
+
+Lưu ý: Danh sách chai này không được xóa, sửa
+và phải đóng dấu treo, giáp lai.
+
+ 
+
+BỘ LAO ĐỘNG - THƯƠNG BINH VÀ
+ XÃ HỘI
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+HỆ THỐNG ĐIỀU CHẾ VÀ NẠP KHÍ
+
+QUY TRÌNH KIỂM ĐỊNH KỸ THUẬT AN TOÀN
+
+QTKĐ 06-2005
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+HỆ THỐNG ĐIỀU CHẾ VÀ NẠP KHÍ -
+
+QUY TRÌNH KIỂM ĐỊNH KỸ THUẬT AN TOÀN
+
+(Ban
+hành theo Quyết định của Bộ trưởng Bộ Lao động - Thương binh và Xã hội số
+2013/2005/QĐ-BLĐTBXH ngày 29/12/2005)
+
+ 
+
+1. Phạm vi áp dụng
+
+Văn bản kỹ thuật này quy định quy trình kiểm định kỹ thuật an toàn lần đầu,
+định kỳ và bất thường các hệ thống điều chế (hoặc tồn trữ) khí, khí hóa lỏng,
+khí hòa tan (sau đây gọi chung là hệ thống điều chế, nạp khí) nạp vào các bình,
+chai theo quy định tại mục 18, Phụ lục 1 Thông tư số 23/2003/TT-LĐTBXH
+ngày 03 tháng 11 năm 2003 của Bộ Lao động - Thương binh và Xã hội.
+
+Quy trình quy định những bước công việc phải thực hiện và những lưu ý
+trong quá trình kiểm định hệ thống điều chế, nạp khí. Căn cứ vào quy trình, cơ
+quan kiểm định sử dụng trực tiếp hoặc xây dựng quy trình cụ thể, chi tiết cho từng
+dạng, loại hệ thống điều chế nạp khí nhưng không được trái với quy định của quy
+trình này.
+
+2. Tiêu chuẩn bắt buộc áp dụng
+
+(Là tiêu chuẩn Việt Nam về kỹ thuật an toàn, ký hiệu TCVN)
+
++ TCVN 6153, 6154, 6155 và 6156: 1996: Bình chịu áp lực - Yêu cầu kỹ thuật
+an toàn về thiết kế, kết cấu, chế tạo, lắp đặt, sử dụng, sửa chữa và phương
+pháp thử.
+
++ TCVN 4245: 1996: Tiêu chuẩn Kỹ thuật an toàn trong sản xuất, sử dụng Oxy,
+Axetylen.
+
++ TCVN 6290: 1997: Chai chứa khí. Chai chứa khí vĩnh cửu - Kiểm tra tại thời
+điểm nạp khí.
+
++ TCVN 6713: 2000: Chai chứa khí. An toàn trong thao tác.
+
++ TCVN 6714: 2000: Chai chứa khí hóa lỏng (trừ Axetylen và khí đốt hóa lỏng).
+Kiểm tra tại thời điểm nạp khí.
+
++ TCVN 6715: 2000: Chai chứa khí Axetylen hòa tan. Kiểm tra tại thời điểm nạp
+khí.
+
++ TCVN 6486: 1999: Khí đốt hóa lỏng (LPG). Tồn chứa dưới áp suất. Vị trí,
+thiết kế, dung lượng và lắp đặt.
+
++ TCVN 6304: 1997: Chai chứa khí đốt hóa lỏng. Yêu cầu an toàn trong bảo quản,
+xếp dỡ và vận chuyển.
+
++ TCVN 6485: 1999: Khí đốt hóa lỏng (LPG). Nạp khí vào chai có dung tích nước
+đến 150 lít - Yêu cầu an toàn.
+
++ TCVN 6008: 1995: Thiết bị áp lực - Mối hàn: Yêu cầu kỹ thuật và phương
+pháp kiểm tra.
+
+3. Các phép kiểm định
+
+Tiến hành xem xét, kiểm tra kỹ thuật an toàn theo các bước sau:
+
+- Kiểm tra hồ sơ: Mục 3.2
+
+- Kiểm tra bên ngoài, bên trong: Mục 3.3
+
+- Kiểm tra khả năng chịu áp lực: Mục 3.4
+
+- Kiểm tra độ kín: Mục 3.5
+
+- Kiểm tra vận hành: Mục 3.6
+
+3.1 Chuẩn bị kiểm định
+
+3.1.1. Phải thông báo kế hoạch kiểm định và các yêu cầu để cơ sở chuẩn
+bị, phối hợp để đưa hệ thống điều chế, nạp khí vào kiểm định.
+
+3.1.2. Phải xác định biện pháp an toàn và nhân lực thực hiện kiểm
+định. Chuẩn bị đầy đủ dụng cụ, phương tiện, thiết bị cho quá trình kiểm định và
+phương tiện, trang bị bảo vệ cá nhân.
+
+3.2. Kiểm tra hồ sơ
+
+3.2.1. Căn cứ vào chế độ kiểm định để
+kiểm tra, xem xét về hồ sơ của hệ thống điều chế, nạp khí;
+
+3.2.1.1. Khi kiểm định lần đầu phải xem xét các hồ sơ sau:
+
+a. Hồ sơ xuất xưởng, lý lịch của hệ thống điều chế, nạp khí; bản vẽ
+nguyên lý làm việc và cấu tạo các bộ phận của nó, các chứng chỉ kiểm tra
+chất lượng;
+
+b. Hồ sơ lắp đặt;
+
+c. Quy trình kiểm
+tra chai trước khi nạp, quy trình nạp; hồ sơ về PCCC;
+
+d. Biên bản kiểm tra mối hàn, kiểm định thiết bị đo lường; biên bản kiểm
+tra tiếp địa, chống sét; biên bản kiểm tra thiết bị bảo vệ (nếu có).
+
+3.2.1.2. Khi kiểm định định kỳ phải xem xét các hồ sơ sau:
+
+a) Lý lịch, biên bản kiểm định và phiếu kết quả kiểm định lần trước, hồ
+sơ về quản lý chai;
+
+b) Nhật ký vận hành, duy tu, bảo dưỡng; biên bản thanh, kiểm tra (nếu
+có).
+
+3.2.1.3. Khi kiểm định bất thường phải xem xét các hồ sơ sau:
+
+a) Sau sự cố hoặc sửa chữa lớn trước thời hạn, thay đổi kết cấu: Xem xét
+hồ sơ như kiểm định định kỳ và xem xét bổ sung hồ sơ về sửa chữa, thay đổi kết
+cấu; biên bản kiểm tra về chất lượng sửa chữa, thay đổi kết cấu;
+
+b) Vận hành lại sau khi nghỉ vận hành từ 12 tháng trở lên: Xem xét hồ sơ
+như kiểm định định kỳ;
+
+c) Thay đổi vị trí lắp đặt, chuyển chủ: Như kiểm định định kỳ và xem xét
+bổ sung hồ sơ lắp đặt.
+
+Lưu ý: Khi kiểm tra, hồ sơ của hệ thống điều chế, nạp khí phải đủ và đúng theo
+quy định của quy phạm, TCVN về kỹ thuật an toàn hiện hành. Nếu không đảm bảo,
+yêu cầu cơ sở có biện pháp khắc phục bổ sung.
+
+3.3. Kiểm tra bên ngoài, bên trong
+
+Phải tiến hành kiểm tra bên ngoài, bên trong hệ thống điều chế, nạp khí
+theo trình tự sau:
+
+3.3.1. Kiểm tra mặt bằng lắp đặt, chú ý kiểm tra vị trí các kho chứa
+nguyên liệu (như kho chứa Cacbuacanxi) và các kho chứa chai, bình.
+
+3.3.2. Kiểm tra điều kiện thông gió và các trang thiết bị thông gió (nếu
+có) theo tiêu chuẩn hiện hành.
+
+Chú ý kiểm tra các điều kiện thông gió tại các kho chứa nguyên liệu và chứa
+chai, bình.
+
+3.3.3. Kiểm tra về tiếp địa, chống sét; kiểm tra các thiết bị điện tại
+các khu vực quy định phải dùng loại phòng chống nổ.
+
+3.3.4. Kiểm tra về phương tiện cứu hộ, bảo vệ cá nhân phục vụ xử lý khi sự
+cố xảy ra (đối với các loại khí độc hại, dễ cháy nổ).
+
+3.3.5. Kiểm tra xác định tình trạng kỹ thuật của các thiết bị trong hệ thống
+điều chế, nạp khí sau quá trình vận chuyển và xác định chất lượng lắp đặt đảm bảo
+các yêu cầu của thiết kế cũng như sự phù hợp với các tiêu chuẩn kỹ thuật an
+toàn hiện hành.
+
+3.3.6. Kiểm tra bên ngoài, bên trong các bình chịu áp lực trong hệ thống
+điều chế, nạp khí tuân thủ theo "Bình chịu áp lực - Quy trình kiểm định kỹ
+thuật an toàn (QTKĐ 02-2005)".
+
+3.3.7. Trước khi tiến hành tháo mở, kiểm tra các bộ phận bên trong của hệ
+thống điều chế, nạp khí, cần xác định chắc chắn thiết bị không còn áp lực dư và
+nồng độ các chất độc hại, cháy nổ ở trong phạm vi cho phép.
+
+3.3.8.Chú ý kiểm tra các chỗ nứt, rạn, móp, phồng, các chỗ bị gỉ mòn, các
+hiện tượng bất bình thường trên các bộ phận, chi tiết của hệ thống điều chế, nạp
+khí.
+
+3.3.9. Kiểm tra, đánh giá tình trạng an toàn của các phụ kiện, dụng cụ đo
+kiểm. Đặc biệt lưu ý đối với thiết bị kiếm tra mức nạp đối với khí hóa lỏng.
+
+3.3.10. Kiểm tra hệ thống ống dẫn, ống nối môi chất về các điều kiện độ bền,
+bố trí, lắp đặt theo tiêu chuẩn.
+
+3.3.11. Kiểm tra các chi tiết bắt xiết bị mòn, lỏng, các mối nối cũng như
+các bộ phận bảo ôn.
+
+3.3.12. Kiểm tra các van khóa, van chặn về số lượng, chủng loại
+cũng như vị trí lắp đặt theo tiêu chuẩn.
+
+ 3.3.13. Kiểm tra số lượng van an toàn và các cơ cấu bảo vệ
+an toàn khác của hệ thống phải đảm bảo theo yêu cầu của tiêu chuẩn. 
+
+3.3.14. Trường hợp hệ thống điều chế, nạp khí sử dụng môi chất độc hại hoặc
+cháy nổ, cần chú ý kiểm tra hệ thống thông gió cho buồng máy nén, các kho chứa
+và các miệng thoát của van an toàn đảm bảo điều kiện của tiêu chuẩn.
+
+3.3.15. Kiểm tra các hệ thống làm mát cho các chai nạp (nếu có). Kiểm tra
+dàn nạp và các chi tiết bắt giữ chai trong quá trình nạp. Hệ thống kiểm tra,
+xác định lượng khí nạp (cho khí hóa lỏng).
+
+3.4. Kiểm tra khả năng chịu áp lực (thử thủy lực)
+
+Phải thử thủy lực để xét khả năng chịu áp lực của hệ thống điều chế, nạp
+khí theo quy định và trình tự sau:
+
+3.4.1. Tiến hành thử thủy lực bao gồm thử cho các bồn, bình chứa
+môi chất trong hệ thống và thử toàn bộ hệ thống (bao gồm cả hệ thống ống, áp suất
+thử ống áp dụng như đối với thiết bị), áp suất thử phải đạt yêu cầu tối thiểu
+như quy định thử thủy lực trong "Bình chịu áp lực - Quy trình kiểm định
+KTAT (QTKĐ 02-2005)”.
+
+3.4.2. Trong quá trình nghiệm thử, phải tuân thủ sử dụng môi chất nghiệm
+thử theo quy định của nhà chế tạo và quy định của tiêu chuẩn.
+
+3.4.3. Khi không có điều kiện thử bằng chất lỏng có thể sử dụng
+khí nén, khí trơ để thử với điều kiện có kết quả tốt về khám xét toàn bộ và đã
+kiểm tra độ bền của thiết bị bằng tính toán và đảm bảo quy định về an toàn khi
+thử bằng khí.
+
+ 3.4.5. Phải có biện pháp khống chế sự tác động của thiết bị bảo vệ
+quá áp và đảm bảo các thiết bị này không bị phá hỏng trong quá trình thử. Trong
+trường hợp không thực hiện được thì cô lập hoặc được tháo ra thử riêng.
+
+3.4.6. Kiểm tra thiết bị tăng, giảm áp suất; bố trí người tham gia thử đảm
+bảo thực hiện tốt nhiệm vụ và an toàn. Kiểm tra về phương pháp thông tin đảm bảo
+việc tăng giảm áp suất được chính xác. Lắp áp kế kiểm tra đúng vị trí quy định.
+
+3.4.7. Nạp môi chất thử và tiến hành thử. Sau khi thử hạ áp suất về không
+(0), khắc phục các tồn tại (nếu có) và kiểm tra lại kết quả đã khắc phục. Khôi
+phục sự tác động của thiết bị bảo vệ quá áp, tăng áp suất trở lại để kiểm tra sự
+tác động và áp suất làm việc của van an toàn.
+
+3.4.8. Đánh giá kết quả thử: Kết quả thử phải đạt yêu cầu tối thiểu như
+quy định thử thủy lực trong "Bình chịu áp lực - Quy trình kiểm định KTAT
+(QTKĐ 02-2005)".
+
+3.4.9. Trong trường hợp hệ thống điều chế, nạp khí được miễn thử thủy lực
+theo quy định của TCVN về kỹ thuật an toàn hiện hành thì phải ghi rõ lý do
+trong biên bản kiểm định và đính kèm các biên bản thử thủy lực của hội đồng kỹ
+thuật của cơ sở chế tạo, lắp đặt vào biên bản kiểm định.
+
+3.5. Kiểm tra độ kín (thử kín)
+
+Phải tiến hành thử kín hệ thống điều chế, nạp khí theo trình tự sau: 
+
+3.5.1. Thử độ kín được thực hiện sau
+khi đã thử bền tất cả các phần cấu thành hệ thống đạt yêu cầu và được lắp ráp lại
+hoàn chỉnh (do lắp đặt lần đầu hoặc do yêu cầu tách hệ thống ra để thử thủy lực
+khi kiểm định định kỳ). Có thể thử độ kín theo từng khối của hệ thống và thử lại
+tại các mối nối.
+
+3.5.2. Thời gian tiến hành thử kín theo quy định của tiêu chuẩn áp dụng
+hoặc của người chế tạo hoặc đủ thời gian để đảm bảo đánh giá được độ kín của hệ
+thống điều chế, nạp khí; nhưng trong mọi trường hợp không ít hơn thời gian để
+khẳng định rằng áp suất thử ổn định, không bị giảm và độ kín được đảm bảo.
+
+3.5.3. Tiến hành kiểm tra phát hiện các rò rỉ; đề xuất các biện pháp để
+cơ sở khắc phục, xử lý và kiểm tra lại.
+
+3.5.4. Kiểm tra lại áp suất làm việc của van an toàn và niêm phong
+van an toàn.
+
+3.5.5. Đánh giá kết quả thử
+
+3.6. Thử vận hành
+
+Phải thử khả năng vận hành của hệ thống điều chế, nạp khí theo trình tự
+sau:
+
+3.6.1. Căn cứ vào quy trình yêu cầu cơ sở đưa hệ thống điều chế, nạp khí
+vào vận hành.
+
+3.6.2. Kiểm tra hoạt động của hệ thống điều chế, nạp khí đảm bảo
+các thông số thiết kế.
+
+3.6.3. Kiểm tra trị số tác động của các thiết bị tự động, an toàn
+(trừ van an toàn trong hệ thống điều chế, nạp khí độc hại, dễ cháy nổ).
+
+3.6.4. Đánh giá kết quả thử.
+
+4. Xử lý kết quả kiểm định
+
+4.1. Lập biên bản kiểm định.
+
+4.1.1. Lập biên bản kiểm định theo mẫu quy định (ban hành kèm theo
+quy trình này) kèm theo biên bản thử thủy lực nêu tại 3.4.9 của quy trình này
+(khi miễn thử thủy lực), ghi đầy đủ các nội dung của biên bản. Ghi rõ TCVN đã áp
+dụng khi tiến hành kiểm định và cả tiêu chuẩn người chế tạo áp dụng có quy định
+việc kiểm tra, thử nghiệm cao hơn TCVN tương ứng mà chủ cơ sở yêu cầu thực hiện
+kiểm tra, thử nghiệm theo tiêu chuẩn đó.
+
+4.1.2. Ghi tóm tắt kết quả kiểm định vào hồ sơ lý lịch của hệ thống
+(ghi rõ họ tên kiểm định viên, ngày tháng năm kiểm định).
+
+4.2. Thông qua biên bản kiểm định
+
+Thành phần tham gia thông qua biên bản kiểm định bắt buộc tối thiểu phải
+có các thành viên sau:
+
++ Chủ cơ sở hoặc người được chủ cơ sở ủy quyền;
+
++ Người được giao tham gia chứng kiến kiểm định.
+
+Khi biên bản được thông qua, người tham gia chứng kiến kiểm định ký, chủ
+cơ sở ký và đóng dấu vào biên bản.
+
+4.3. Khi hệ thống điều chế, nạp khí đạt được các yêu cầu quy định tại Mục
+3, lãnh đạo cơ quan kiểm định cấp phiếu kết quả kiểm định và biên bản kiểm định
+cho cơ sở.
+
+4.4. Khi hệ thống không đạt các yêu cầu quy định tại Mục 3 thì thực hiện
+các bước 4.1 và 4.2 và chỉ cấp cho cơ sở biên bản kiểm định có nêu rõ lý
+do hệ thống điều chế, nạp khí được kiểm định không đạt.
+
+5. Chu kỳ kiểm định
+
+5.1. Đối với hệ thống điều chế, nạp loại khí không ăn mòn kim loại:
+
+5.1.1. Thực hiện các phép kiểm định quy định ở mục 3 (trừ 3.4): 3
+năm/lần
+
+5.1.2. Thực hiện toàn bộ các phép kiểm định quy định ở mục 3: 6
+năm/lần
+
+5.2. Đối với hệ thống điều chế, nạp khí ăn mòn kim loại: Chu kỳ kiểm định
+theo quy định như 5.1 nhưng giảm đi 1/3.
+
+5.3. Đối với hệ thống điều chế, nạp loại khí ăn mòn kim loại, độc hại
+(Clo, Sulfuạ Hydro...) thực hiện toàn bộ các phép kiểm định quy định ở mục 3: 2
+năm/lần.
+
+5.4. Khi người chế tạo có quy định chu kỳ kiểm định ngắn hơn các quy định
+chu kỳ kiểm định nêu trên thì theo quy định của người chế tạo.
+
+5.5. Khi rút ngắn chu kỳ kiểm định, kiểm định viên phải nêu rõ lý do
+trong biên bản kiểm định.
+
+ 
+
+ 
+
+(BỘ,UBND...)
+
+(Tên cơ quan KĐKTAT...)
+
+CỘNG HÒA
+ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+Độc lập 
+ - Tự do - Hạnh phúc
+
+ 
+
+.............,
+ ngày.....tháng.......năm.........
+
+ 
+
+BIÊN BẢN KIỂM ĐỊNH KỸ
+THUẬT AN TOÀN 
+
+HỆ THỐNG ĐIỀU CHẾ VÀ
+NẠP KHÍ
+
+Số:................
+
+Chúng tôi là: (ghi họ và tên, chức danh và số thẻ kiểm định viên nếu có)
+
+Đã tiến hành kiểm định:
+                       
+Số thứ tự:                                
+
+Của: (ghi rõ tên cơ sở)
+
+Địa chỉ: (trụ sở chính của cơ sở) 
+
+Địa chỉ lắp đặt bình:
+
+Tiêu chuẩn áp dụng:
+
+Có sự chứng kiến của:
+
+I. ĐẶC TÍNH CƠ BẢN CỦA
+HỆ THỐNG
+
+Mã hiệu:           Số chế tạo:                  
+Năm chế tạo:
+
+Nơi chế tạo:
+                                        
+
+Áp suất điều chế, tồn trữ lớn nhất:  
+     
+            bar
+(..........kG/cm2)      
+
+Áp suất nạp chai:    
+                                        
+bar (..........kG/cm2)
+
+Loại khí:           Số dàn nạp:                 
+Số miệng nạp:
+
+Công dụng:
+
+Số đăng ký:
+                                        
+Tại cơ quan:
+
+Ngày kiểm định gần nhất:
+                    
+Do cơ quan:
+
+II. CHẾ ĐỘ KIỂM ĐỊNH
+
+(Lần đầu, định
+kỳ, bất thường)
+
+III. NỘI DUNG KIỂM ĐỊNH
+
+1. Hồ sơ
+
++ Nhận xét:
+
++ Bổ sung:
+
+2. Khám
+xét:      
+                      
+Bên ngoài U                
+Bên trong U    
+
++ Khoảng
+cách:                          
++ Chiếu sáng:
+
++ Thông gió:
+                              
++ Hệ thống chống sét, tiếp địa:
+
++ Kho chứa
+nguyên liệu, chai, bình:
+
++ Các bộ phận,
+chi tiêt chịu áp lực:
+
++ Các bộ phận phụ
+trợ, máy nén:
+
++ Hệ thống đường
+ống dẫn:
+
++ Thiết bị,
+phương tiện phòng chống cháy nổ:
+
++ Các thiết bị
+đo lường, bảo vệ, an toàn và tự động:
+
++ Đánh giá kết
+quả:         Đạt U;             
+Không đạt U   
+
++ Bổ sung:
+
+3. Thử nghiệm:
+
+NỘI DUNG THỬ
+
+MÔI CHẤT THỬ
+
+ 
+
+ÁP SUẤT THỬ
+
+(bar)
+
+THỜI GIAN THỬ (Phút)
+
+Thử thủy lực
+
+ 
+
+ 
+
+ 
+
+Thử kín
+
+ 
+
+ 
+
+ 
+
+Thử vận hành
+
+ 
+
+ 
+
+ 
+
+ 
+
+Nhận xét, đánh
+giá kết quả:         Đạt U;             
+Không đạt U   
+
+Bổ sung:
+
+IV. KẾT LUẬN VÀ KIẾN
+NGHỊ
+
+1. Hệ thống được
+kiểm định có kết quả:   Đạt U; 
+Không đạt U
+
+Bổ sung:
+
+2. Áp suất làm việc:
+
++ Điều chế                     
+bar (         kG/cm2)
+      +
+         Nạp    
+bar (         kG/cm2) 
+
+3. Áp suất làm việc của van an toàn:
+
++ Điều chế (tồn trữ)      bar
+(         kG/cm2)
+      +
+         Nạp    
+bar (         kG/cm2) 
+
+4. Các kiến nghị:
+
+Thời hạn thực hiện kiến nghị:
+
+V. CHU KỲ KIỂM ĐỊNH
+
+Kiểm định định kỳ:        Tháng
+             
+năm
+
+Lý do rút ngắn thời hạn: 
+
+Biên bản đã được thông qua
+ngày         tháng
+             
+năm
+
+Tại:
+
+Biên bản được lập thành...... bản, mỗi
+bên giữ ...... bản.
+
+Chúng tôi, những kiểm định viên thực
+hiện kiểm định hệ thống này hoàn toàn chịu trách nhiệm về tính chính xác các nhận
+xét và đánh giá kết quả kiểm định ghi trong biên bản này.
+
+CHỦ CƠ SỞ
+
+(cam kết thực hiện đầy đủ, đúng hạn các
+ kiến nghị)
+
+ 
+
+NGƯỜI THAM GIA CHỨNG KIẾN KIỂM ĐỊNH 
+
+(ký, ghi rõ họ và tên)
+
+KIỂM ĐỊNH VIÊN
+
+(ký, ghi rõ họ và tên)--- THÔNG TIN THÊM ---
+Ten: Quyết định 2013/2005/QĐ-BLĐTBXH về quy trình kiểm định kỹ thuật an toàn các loại máy, thiết bị, vật tư, các chất có yêu cầu nghiêm ngặt về an toàn lao động do Bộ trưởng Bộ Lao động – Thương binh và Xã hội ban hành
+So hieu: 2013/2005/QĐ-BLĐTBXH
+Loai van ban: Quyết định
+Linh vuc nganh: Lao động - Tiền lương
+Noi ban hanh: Bộ Lao động – Thương binh và Xã hội
+Nguoi ky: Nguyễn Thị Hằng
+Ngay ban hanh: 29/12/2005
+Ngay hieu luc: 23/01/2006
+Ngay dang: 08/01/2006
+So cong bao: Từ số 11 đến số 12
+Tinh trang: Hết hiệu lực: 09/02/2009
+
+
+--- MỤC LỤC ---
+- QUYẾT ĐỊNH BAN HÀNH QUY TRÌNH KIỂM ĐỊNH KỸ THUẬT AN TOÀN CÁC LOẠI MÁY, THIẾT BỊ, VẬT TƯ, CÁC CHẤT CÓ YÊU CẦU NGHIÊM NGẶT VỀ AN TOÀN LAO ĐỘNG
+  - Điều 1. Ban hành kèm theo Quyết định này các quy trình kiểm định kỹ thuật an toàn các loại máy, thiết bị, vật tư, các chất có yêu cầu nghiêm ngặt về an toàn lao động sau:
+  - Điều 2. Quyết định này có hiệu lực thi hành sau 15 ngày, kể từ ngày đăng Công báo.
+  - Điều 3. Giám đốc các Trung tâm kiểm định kỹ thuật an toàn của các Bộ, ngành và các tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm thực hiện Quyết định này.
+- NỒI HƠI VÀ NỒI ĐUN NƯỚC NÓNG - QUY TRÌNH KIỂM ĐỊNH KỸ THUẬT AN TOÀN
+  - 1. Phạm vi áp dụng
+  - 2. Tiêu chuẩn bắt buộc áp dụng
+  - 3. Các phép kiểm định
+    - 3.1. Chuẩn bị kiểm định
+    - 3.2. Kiểm tra hồ sơ
+    - 3.3. Kiểm tra bên ngoài, bên trong
+    - 3.4. Kiếm tra khả năng chịu áp lực (thử thủy lực)
+    - 3.5. Kiểm tra vận hành (thử vận hành)
+  - 4. Xử lý kết quả kiểm định
+  - 5. Chu kỳ kiểm định
+- BÌNH CHỊU ÁP LỰC - QUY TRÌNH KIỂM ĐỊNH KỸ THUẬT AN TOÀN
+  - 1. Phạm vi áp dụng
+  - 2. Tiêu chuẩn bắt buộc áp dụng
+  - 3. Các phép kiểm định
+  - 4. Xử lý kết quả kiểm định
+  - 5. Chu kỳ kiểm định
+- HỆ THÓNG LẠNH - QUY TRÌNH KIỂM ĐỊNH KỸ THUẬT AN TOÀN
+  - 1. Phạm vi áp dụng
+  - 2. Tiêu chuẩn bắt buộc áp dụng
+  - 3. Các phép kiểm định
+  - 4. Xử lý kết quả kiểm định
+  - 5. Chu kỳ kiểm định
+- ĐƯỜNG ỐNG DẪN HƠI NƯỚC, NƯỚC NÓNG -  QUY TRÌNH KIỂM ĐỊNH KỸ THUẬT AN TOÀN
+  - 1. Phạm vi áp dụng
+  - 2. Tiêu chuẩn bắt buộc áp dụng
+  - 3. Các phép kiểm định
+  - 4. Xử lý kết quả kiểm định
+  - 5. Chu kỳ kiểm định
+- CHAI CHỨA KHÍ - QUY TRÌNH KIỂM ĐỊNH KỸ THUẬT AN TOÀN
+  - 1. Phạm vi áp dụng
+  - 2. Tiêu chuẩn bắt buộc áp dụng
+  - 3. Các phép kiểm định
+  - 4. Xử lý kết quả kiểm định
+  - 5. Chu kỳ kiểm định
+- HỆ THỐNG ĐIỀU CHẾ VÀ NẠP KHÍ - QUY TRÌNH KIỂM ĐỊNH KỸ THUẬT AN TOÀN
+  - 1. Phạm vi áp dụng
+  - 2. Tiêu chuẩn bắt buộc áp dụng
+  - 3. Các phép kiểm định
+  - 4. Xử lý kết quả kiểm định
+  - 5. Chu kỳ kiểm định
+
+--- VĂN BẢN LIÊN QUAN ---
+
+Van ban duoc can cu:
+  - Thông tư 23/2003/TT-BLĐTBXH hướng dẫn thủ tục đăng ký và kiểm định các loại máy, thiết bị, vật tư, các chất... (ID: 51535)
+  - Nghị định 29/2003/NĐ-CP quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Lao động - Thương ... (ID: 50685)
+  - Nghị định 110/2002/NĐ-CP sửa đổi Nghị định 06/CP năm 1995 Hướng dẫn Bộ luật Lao động về an toàn lao động, ... (ID: 50363)
+  - Nghị định 86/2002/NĐ-CP quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của bộ, cơ quan ngang bộ (ID: 50169)
+  - Nghị định 06/CP năm 1995 Hướng dẫn Bộ Luật lao động về an toàn lao động, vệ sinh lao động (ID: 39128)
+
+Van ban thay the:
+  - Quyết định 67/2008/QĐ-BLĐTBXH về quy trình kiểm định kỹ thuật an toàn nồi hơi, bình chịu áp lực, hệ thống ... (ID: 84712)
+  - Thông tư 07/2014/TT-BLĐTBXH về 27 quy trình kiểm định kỹ thuật an toàn đối với máy, thiết bị có yêu cầu ... (ID: 223682)
+  - Quyết định 731/QĐ-LĐTBXH năm 2015 công bố Danh mục văn bản quy phạm pháp luật hết hiệu lực toàn bộ hoặc một... (ID: 276504)
+  - Quyết định 1395/QĐ-LĐTBXH năm 2015 công bố kết quả hệ thống hóa văn bản quy phạm pháp luật thuộc lĩnh vực ... (ID: 292694)
+  - Thông tư 54/2016/TT-BLĐTBXH ban hành 30 quy trình kiểm định kỹ thuật an toàn đối với máy, thiết bị, vật tư ... (ID: 318538)
+  - Quyết định 1895/QĐ-BLĐTBXH năm 2017 về công bố Danh mục văn bản quy phạm pháp luật hết hiệu lực toàn bộ ... (ID: 369622)
+  - Quyết định 746/QĐ-BLĐTBXH năm 2019 công bố kết quả hệ thống hóa văn bản quy phạm pháp luật thuộc lĩnh vực ... (ID: 419870)
+
+Van ban lien quan cung noi dung:
+  - Thông tư 37/2005/TT-BLĐTBXH hướng dẫn công tác huấn luyện an toàn lao động, vệ sinh lao động do Bộ Lao động Thương binh và Xã hội ban hành (ID: 7985)
+  - Thông tư 22/TT-LĐTBXH-1996 hướng dẫn việc khai báo, đăng ký và xin cấp giấy phép sử dụng các loại máy, thiết bị, vật tư và các chất có yêu cầu nghiêm ngặt về an toàn lao động do Bộ Lao động, Thương binh và Xã hội ban hành (ID: 40195)
+  - Quyết định 1407/QĐ-LĐTBXH năm 1996 về việc in, phát hành và quản lý giấy phép sử dụng các loại máy, thiết bị, vật tư và các chất có yêu cầu nghiêm ngặt về an toàn lao động do Bộ trưởng Bộ Lao động, Thương binh và Xã hội ban hành (ID: 40196)
+  - Thông tư liên bộ 26/TT-LB năm 1995 hướng dẫn cấp giấy phép nhập khẩu các loại máy, thiết bị, vật tư, các chất có yêu cầu nghiêm ngặt về an toàn lao động do Bộ Lao động - Thương binh - Xã hội và Bộ Thương mại ban hành (ID: 39384)
