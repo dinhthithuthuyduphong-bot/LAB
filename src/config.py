@@ -18,6 +18,7 @@ RES_XLSX = _env("RES_XLSX", ROOT / "doc" / "RES.xlsx")
 DATA_DIR = _env("DATA_DIR", ROOT / "data")            # small, committed (res.csv, eval split)
 ARTIFACTS_DIR = _env("ARTIFACTS_DIR", ROOT / "artifacts")  # large, git-ignored (chunks, indexes)
 RESULTS_DIR = _env("RESULTS_DIR", ROOT / "results")
+REPORT_DIR = _env("REPORT_DIR", ROOT / "report")
 
 RES_CSV = DATA_DIR / "res.csv"
 EVAL_CSV = DATA_DIR / "eval_set.csv"          # fixed evaluation subset (never used for few-shot)
@@ -30,8 +31,8 @@ EVAL_N = _env("EVAL_N", 200)   # assignment requires >= 100
 # ---- Baseline settings (do not change: used as reference) ----
 BASELINE_CHUNK_SIZE = 2000
 BASELINE_CHUNK_OVERLAP = 50
-BASELINE_EMBEDDING = "keepitreal/vietnamese-sbert"
-BASELINE_LLM = "Qwen/Qwen1.5-1.8B"
+BASELINE_EMBEDDING = _env("BASELINE_EMBEDDING", "keepitreal/vietnamese-sbert")   # env override only for tests
+BASELINE_LLM = _env("BASELINE_LLM", "Qwen/Qwen1.5-1.8B")
 BASELINE_TOP_K = 5
 
 # ---- Improved pipeline settings ----

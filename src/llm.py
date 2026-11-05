@@ -6,6 +6,14 @@ Both use greedy decoding (deterministic).
 """
 
 
+def gpu_memory_gb():
+    try:
+        import torch
+        return round(torch.cuda.max_memory_allocated() / 2**30, 2) if torch.cuda.is_available() else None
+    except Exception:
+        return None
+
+
 def _load(model_id, load_in_4bit=False):
     import torch
     from transformers import AutoModelForCausalLM, AutoTokenizer
@@ -23,8 +31,9 @@ def _load(model_id, load_in_4bit=False):
 
 
 class HFChatLLM:
-    def __init__(self, model_id, max_new_tokens=640, repetition_penalty=1.1, load_in_4bit=False, max_input_tokens=3500):
+    def __init__(self, model_id, max_new_tokens=640, repetition_penalty=1.05, load_in_4bit=False, max_input_tokens=6000):
         self.tok, self.model = _load(model_id, load_in_4bit)
+        self.tok.truncation_side = "left"   # never cut the question / generation prompt at the end
         self.max_new_tokens, self.rep, self.max_in = max_new_tokens, repetition_penalty, max_input_tokens
 
     def generate(self, messages_batch):

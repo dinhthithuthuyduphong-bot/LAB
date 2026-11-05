@@ -62,6 +62,14 @@ Mọi kết quả được cache trong `results/predictions/*.csv`. Nếu phiên
 !python -I scripts/build_chunks.py --strategy legal
 !python -I scripts/build_bm25.py --chunks legal
 """),
+    ("markdown", """
+## 2b. Kiểm tra nhanh (khoảng 5 phút, rất nên chạy)
+Bước này tạo các model tí hon trên máy và chạy toàn bộ pipeline GPU trên 3.000 chunk. Nếu cell này lỗi thì sửa trước rồi mới chạy thật, để không phí quota.
+"""),
+    ("code", """
+!python -I tests/test_core.py
+!python -I tests/smoke_gpu_path.py
+"""),
     ("markdown", "## 3–4. Baseline (đúng như `doc/Baseline.ipynb`, nhưng chạy trên cùng 200 câu với các cấu hình khác)"),
     ("code", """
 !python -I scripts/build_dense.py --chunks baseline --model keepitreal/vietnamese-sbert
@@ -106,8 +114,19 @@ s = pd.read_csv("results/metrics/summary.csv")
 s[s.group == "all"].sort_values("ROUGE_L")
 """),
     ("code", """
-# Save results back (download, or commit from the notebook if you have a token configured)
-!zip -qr results.zip results && ls -la results.zip
+!python -I scripts/error_analysis.py
+!python -I scripts/make_tables.py
+from IPython.display import Markdown, display
+display(Markdown(open("report/results_tables.md", encoding="utf-8").read()))
+"""),
+    ("markdown", """
+## 8. Lưu kết quả và index
+- **Kết quả** (`results/`, `report/results_tables.md`): tải `results.zip` ở cell dưới về máy, giải nén vào repo rồi commit.
+- **Index** (`artifacts/`, khoảng 4GB): bấm *Save Version* của notebook (Kaggle giữ `/kaggle/working` làm output), hoặc *New Dataset*
+  từ output để lần sau gắn vào và đặt `ARTIFACTS_DIR` mà không phải build lại.
+"""),
+    ("code", """
+!zip -qr results.zip results report/results_tables.md && ls -la results.zip
 """),
 ]
 

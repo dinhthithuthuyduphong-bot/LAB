@@ -19,19 +19,22 @@ from src.retriever import dense_dir
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--chunks", default="legal")
-    ap.add_argument("--model", default=config.EMBEDDING_MODEL)
-    ap.add_argument("--max-seq-length", type=int, default=256)
+    ap.add_argument("--model", default=None, help="default: baseline embedding for --chunks baseline, else EMBEDDING_MODEL")
+    ap.add_argument("--max-seq-length", type=int, default=None, help="default: the model's own limit")
     ap.add_argument("--batch-size", type=int, default=128)
     ap.add_argument("--subset", type=int, default=None, help="only the first N chunks (for quick comparisons)")
     a = ap.parse_args()
+    a.model = a.model or (config.BASELINE_EMBEDDING if a.chunks == "baseline" else config.EMBEDDING_MODEL)
     t0 = time.time()
     chunks = load_chunks(config.ARTIFACTS_DIR / f"chunks_{a.chunks}.jsonl", fields=("header", "text"))
     # the baseline embeds the (lowercased) chunk text only; our chunks carry a header
     texts = [c["text"] if a.chunks == "baseline" else chunk_to_index_text(c) for c in chunks]
     if a.subset:
         texts = texts[:a.subset]
-    emb = Embedder(a.model, max_seq_length=a.max_seq_length, batch_size=a.batch_size)
-    idx = DenseIndex(emb).build(texts)
+    baseline = a.chunks == "baseline"
+    # baseline = LangChain HuggingFaceEmbeddings (no normalisation) + FAISS.from_texts (IndexFlatL2)
+    emb = Embedder(a.model, max_seq_length=a.max_seq_length, batch_size=a.batch_size, normalize=not baseline)
+    idx = DenseIndex(emb, metric="l2" if baseline else "ip").build(texts)
     out = dense_dir(a.chunks, a.model) if not a.subset else Path(str(dense_dir(a.chunks, a.model)) + f"_sub{a.subset}")
     idx.save(out)
     print(f"{idx.index.ntotal:,} vectors (dim {idx.index.d}) -> {out}  ({(time.time() - t0) / 60:.1f} min)")

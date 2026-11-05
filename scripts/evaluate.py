@@ -34,7 +34,7 @@ def main():
     embed = None
     if not a.no_cosine:
         from src.dense import Embedder
-        embed = Embedder(config.METRIC_EMBEDDING, max_seq_length=256)
+        embed = Embedder(config.METRIC_EMBEDDING)   # same model + default max length as the baseline
 
     summary = []
     for name in names:

@@ -27,6 +27,7 @@ app/demo.py              demo CLI / Gradio
 notebooks/               run_on_kaggle.ipynb (toàn bộ pipeline GPU), demo.ipynb
 results/                 eda/, retrieval/, predictions/, metrics/
 tests/test_core.py       kiểm tra nhanh các phần CPU
+tests/smoke_gpu_path.py  chạy thử toàn bộ nhánh GPU bằng model tí hon tạo trên máy (không tải gì, CPU chạy được)
 artifacts/               (git-ignored) chunk, chỉ mục BM25/FAISS, build lại bằng scripts
 ```
 
@@ -118,7 +119,25 @@ python -I scripts/run_rag.py --name D_hybrid_rerank --retriever hybrid_legal_rer
 python -I scripts/evaluate.py
 ```
 
-Lệnh cuối tính 5 metric, ghi vào `results/metrics/summary.csv`.
+Lệnh này tính 5 metric, ghi vào `results/metrics/summary.csv`.
+
+```bash
+python -I scripts/error_analysis.py
+```
+
+Phân tích lỗi (ví dụ tốt/xấu, tỷ lệ bịa số hiệu), ghi vào `results/analysis/`. Chạy trên CPU.
+
+```bash
+python -I scripts/make_tables.py
+```
+
+Sinh bảng kết quả cho báo cáo vào `report/results_tables.md`. Chạy trên CPU.
+
+Trước khi chạy thật trên GPU, nên chạy thử nhánh GPU bằng model tí hon (khoảng 5 phút, không tốn quota vì chạy được trên CPU):
+
+```bash
+python -I tests/smoke_gpu_path.py
+```
 
 Câu trả lời được cache trong `results/predictions/<name>.csv`. Nếu phiên bị ngắt, chạy lại lệnh đó: các câu đã có sẽ được bỏ qua. Tính lại metric không cần GPU (thêm `--no-cosine` nếu không muốn tải model embedding).
 

@@ -108,6 +108,11 @@ def main():
                          "sec_per_q": round(dt, 2)})
         pd.DataFrame(recs).to_csv(out_path, mode="a", header=not out_path.exists(), index=False)
 
+    if llm is not None:
+        from src.llm import gpu_memory_gb
+        meta["max_gpu_memory_gb"] = gpu_memory_gb()
+        (out_dir / f"{a.name}.config.json").write_text(json.dumps(meta, ensure_ascii=False, indent=1))
+
 
 if __name__ == "__main__":
     main()

@@ -21,13 +21,15 @@ def _segment(texts):
 
 
 class Embedder:
-    def __init__(self, model_name, device=None, max_seq_length=256, batch_size=128, fp16=True):
+    def __init__(self, model_name, device=None, max_seq_length=None, batch_size=128, fp16=True, normalize=True):
         from sentence_transformers import SentenceTransformer
         import torch
         device = device or ("cuda" if torch.cuda.is_available() else "cpu")
         self.name = model_name
         self.model = SentenceTransformer(model_name, device=device)
-        self.model.max_seq_length = max_seq_length
+        if max_seq_length:                      # None = keep the model default (what the baseline used)
+            self.model.max_seq_length = max_seq_length
+        self.normalize = normalize
         if fp16 and device == "cuda":
             self.model.half()
         self.batch_size = batch_size
@@ -42,7 +44,7 @@ class Embedder:
         return texts
 
     def encode(self, texts, kind="passage", show_progress=False):
-        return self.model.encode(self._prep(list(texts), kind), batch_size=self.batch_size, normalize_embeddings=True,
+        return self.model.encode(self._prep(list(texts), kind), batch_size=self.batch_size, normalize_embeddings=self.normalize,
                                  convert_to_numpy=True, show_progress_bar=show_progress).astype(np.float32)
 
     def __call__(self, texts):  # used by metrics.cosine_scores
@@ -50,8 +52,13 @@ class Embedder:
 
 
 class DenseIndex:
-    def __init__(self, embedder: Embedder):
+    """metric="ip" : inner product on normalised vectors (= cosine), used by our pipeline.
+    metric="l2" : LangChain FAISS default (IndexFlatL2 on raw vectors), used to reproduce the baseline.
+    Scores returned by `search` are always "higher is better" (negative distance for l2)."""
+
+    def __init__(self, embedder: Embedder, metric="ip"):
         self.emb = embedder
+        self.metric = metric
         self.index = None
 
     def build(self, texts, batch=8192):
@@ -60,14 +67,15 @@ class DenseIndex:
         for i in tqdm(range(0, len(texts), batch), desc=f"Embedding with {self.emb.name}"):
             v = self.emb.encode(texts[i:i + batch], kind="passage")
             if self.index is None:
-                self.index = faiss.IndexFlatIP(v.shape[1])   # cosine (vectors are normalised)
+                self.index = faiss.IndexFlatIP(v.shape[1]) if self.metric == "ip" else faiss.IndexFlatL2(v.shape[1])
             self.index.add(v)
         return self
 
     def search(self, query, k=20):
         q = self.emb.encode([query], kind="query")
         s, i = self.index.search(q, k)
-        return [(int(a), float(b)) for a, b in zip(i[0], s[0]) if a >= 0]
+        sign = 1.0 if self.metric == "ip" else -1.0
+        return [(int(a), sign * float(b)) for a, b in zip(i[0], s[0]) if a >= 0]
 
     def vectors(self, ids):
         return np.stack([self.index.reconstruct(int(i)) for i in ids])
@@ -76,13 +84,14 @@ class DenseIndex:
         import faiss
         Path(path).mkdir(parents=True, exist_ok=True)
         faiss.write_index(self.index, str(Path(path, "index.faiss")))
-        Path(path, "cfg.json").write_text(json.dumps({"model": self.emb.name}))
+        Path(path, "cfg.json").write_text(json.dumps({"model": self.emb.name, "metric": self.metric,
+                                                      "normalize": self.emb.normalize}))
 
     @classmethod
     def load(cls, path, embedder=None):
         import faiss
         cfg = json.loads(Path(path, "cfg.json").read_text())
-        d = cls(embedder or Embedder(cfg["model"]))
+        d = cls(embedder or Embedder(cfg["model"], normalize=cfg.get("normalize", True)), metric=cfg.get("metric", "ip"))
         d.index = faiss.read_index(str(Path(path, "index.faiss")))
         return d
 

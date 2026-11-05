@@ -26,7 +26,7 @@ from src.retriever import Retriever, RetrieverConfig
 
 CONFIGS = {
     # exact baseline retrieval: sbert + FAISS over lowercased 2000/50 chunks, plain top-5
-    "baseline":             RetrieverConfig(chunks="baseline", mode="dense", dense_model="keepitreal/vietnamese-sbert",
+    "baseline":             RetrieverConfig(chunks="baseline", mode="dense", dense_model=config.BASELINE_EMBEDDING,
                                             doc_id_boost=False, dedup=False, candidates=5),
     "bm25_baseline":        RetrieverConfig(chunks="baseline", mode="bm25", doc_id_boost=False, max_per_doc=99),
     "bm25_legal_noboost":   RetrieverConfig(chunks="legal", mode="bm25", doc_id_boost=False),
