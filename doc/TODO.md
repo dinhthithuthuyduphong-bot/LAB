@@ -1,7 +1,8 @@
 # TODO – RAG Law Chatbot (cải tiến so với Baseline)
 
 > **Trạng thái (cập nhật):** đã xong hết các phần 🟢 làm được trên CPU (`[x]`).
-> `[~]` = làm một phần. Còn lại: các bước 🟡 chạy GPU bằng `notebooks/run_on_kaggle.ipynb`, và vài quyết định của bạn
+> `[~]` = làm một phần. **Nhánh GPU đã được chạy thử toàn bộ** (`tests/smoke_gpu_path.py`, model tí hon tạo trên máy):
+> mọi script chạy từ đầu đến cuối không lỗi. Chỉ còn phải chạy với model thật trên Kaggle. Còn lại: các bước 🟡 chạy GPU bằng `notebooks/run_on_kaggle.ipynb`, và vài quyết định của bạn
 > (chọn Kaggle hay Colab, có gỡ `Dataset/` khỏi git không, upload Kaggle Dataset).
 
 Nguồn: `doc/RAG_Assignment.pdf`, `doc/Baseline.ipynb`, `doc/RES.xlsx`, `Dataset/export_1/`.

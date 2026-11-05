@@ -18,7 +18,11 @@ def _load(model_id, load_in_4bit=False):
     import torch
     from transformers import AutoModelForCausalLM, AutoTokenizer
     tok = AutoTokenizer.from_pretrained(model_id)
-    kw = {"torch_dtype": torch.float16, "device_map": "auto"}
+    import transformers
+    major, minor = (int(x) for x in transformers.__version__.split(".")[:2])
+    dtype_key = "dtype" if (major, minor) >= (4, 56) else "torch_dtype"   # renamed in transformers 4.56
+    dtype = torch.float16 if torch.cuda.is_available() else torch.float32
+    kw = {dtype_key: dtype, "device_map": "auto" if torch.cuda.is_available() else None}
     if load_in_4bit:
         from transformers import BitsAndBytesConfig
         kw["quantization_config"] = BitsAndBytesConfig(load_in_4bit=True, bnb_4bit_compute_dtype=torch.float16,
