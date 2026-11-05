@@ -1,0 +1,9 @@
+# --- CPU part (data prep, EDA, chunking, BM25, prompts, metrics) ---
+pandas>=2.0
+numpy>=1.26
+scipy>=1.11
+openpyxl>=3.1
+matplotlib>=3.8
+tqdm>=4.66
+pyvi>=0.1.1
+scikit-learn>=1.3

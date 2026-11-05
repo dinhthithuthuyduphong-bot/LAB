@@ -1,0 +1,259 @@
+{
+ "corpus_docs": 16439,
+ "corpus_chars": 268249709,
+ "corpus_chars_desc": {
+  "count": 16439.0,
+  "mean": 16318.0,
+  "std": 27397.0,
+  "min": 119.0,
+  "25%": 4175.0,
+  "50%": 8973.0,
+  "75%": 18130.0,
+  "95%": 52109.0,
+  "max": 784663.0
+ },
+ "docs_with_dieu": 12573,
+ "est_chunks_2000": 137612,
+ "est_chunks_1000": 315559,
+ "doc_types": {
+  "Quyết định": 9090,
+  "Thông tư": 1835,
+  "Nghị quyết": 1828,
+  "Kế hoạch": 1317,
+  "Thông tư liên tịch": 524,
+  "Chỉ thị": 448,
+  "Nghị định": 412,
+  "Hướng dẫn": 290,
+  "Thông báo": 214,
+  "Văn bản hợp nhất": 133,
+  "Sắc lệnh": 72,
+  "Điều ước quốc tế": 67,
+  "Văn bản khác": 62,
+  "Báo cáo": 53,
+  "Luật": 19
+ },
+ "issuers": {
+  "UBND": 8191,
+  "HĐND": 1646,
+  "Không rõ": 951,
+  "BLĐTBXH": 827,
+  "TTg": 498,
+  "CP": 436,
+  "LĐTBXH": 372,
+  "UB": 327,
+  "TLĐ": 326,
+  "BNV": 154,
+  "BTC": 128,
+  "BQP": 119,
+  "CT": 119,
+  "VPCP": 106,
+  "BYT": 99
+ },
+ "fields": {
+  "Lao động - Tiền lương": 16439,
+  "Bộ máy hành chính": 6589,
+  "Tài chính nhà nước": 1553,
+  "Giáo dục": 1398,
+  "Văn hóa - Xã hội": 1256,
+  "Thể thao - Y tế": 859,
+  "Doanh nghiệp": 498,
+  "Bảo hiểm": 443,
+  "Xây dựng - Đô thị": 304,
+  "Thuế - Phí - Lệ Phí": 232,
+  "Công nghệ thông tin": 213,
+  "Giao thông - Vận tải": 150
+ },
+ "status": {
+  "Còn hiệu lực": 7796,
+  "Hết hiệu lực": 5421,
+  "Không còn phù hợp": 1675,
+  "Không xác định": 1517,
+  "Còn hiệu lực đến": 21,
+  "Chưa có hiệu lực": 7
+ },
+ "year_range": [
+  1945,
+  2025
+ ],
+ "qa_pairs": 2745,
+ "q_words_desc": {
+  "count": 2745.0,
+  "mean": 30.6,
+  "std": 8.3,
+  "min": 11.0,
+  "50%": 30.0,
+  "95%": 46.0,
+  "max": 71.0
+ },
+ "a_words_desc": {
+  "count": 2745.0,
+  "mean": 350.9,
+  "std": 211.9,
+  "min": 11.0,
+  "50%": 308.0,
+  "95%": 740.0,
+  "max": 2084.0
+ },
+ "a_chars_mean": 1619.3,
+ "answers_start_with_can_cu": 0.545,
+ "answers_mention_dieu": 0.922,
+ "questions_mention_doc_id": 0.166,
+ "unique_ref_docs": 315,
+ "labelled_rows": 132,
+ "question_types": {
+  "Khác": 982,
+  "Mô tả quy định": 636,
+  "Số liệu / thời hạn": 464,
+  "Có/Không": 329,
+  "Chủ thể / thẩm quyền": 190,
+  "Điều kiện / thủ tục": 144
+ },
+ "ref_issuers": {
+  "NHNN": 1256,
+  "Khác": 792,
+  "CP": 444,
+  "BTC": 84,
+  "TT": 58,
+  "BLĐTBXH": 22,
+  "KBNN": 22,
+  "HĐQT": 8,
+  "TDSV": 8,
+  "NHCS": 7,
+  "BHXH": 4,
+  "BNV": 4
+ },
+ "ref_types": {
+  "TT": 1255,
+  "Khác": 792,
+  "NĐ": 440,
+  "QĐ": 175,
+  "TB": 46,
+  "NHNN": 9,
+  "NHCS": 8,
+  "NQ": 5,
+  "KBNN": 3,
+  "TCT": 3
+ },
+ "rows_without_ref": 772,
+ "coverage_rows": 51,
+ "coverage_docs": 8,
+ "covered_docs": [
+  [
+   "6150/TB-BLĐTBXH",
+   21
+  ],
+  [
+   "14/2022/TT-NHNN",
+   20
+  ],
+  [
+   "5015/TB-LĐTBXH",
+   4
+  ],
+  [
+   "595/QĐ-BHXH",
+   2
+  ],
+  [
+   "1570/TB-BLĐTBXH",
+   1
+  ],
+  [
+   "07/VBHN-VPQH",
+   1
+  ],
+  [
+   "07/2024/TT-BNV",
+   1
+  ],
+  [
+   "73/2024/NĐ-CP",
+   1
+  ]
+ ],
+ "qa_ref_year_median": 2024,
+ "topic_keywords": [
+  {
+   "keyword": "ngân hàng",
+   "pct_questions": 39.3,
+   "pct_corpus_docs": 14.1
+  },
+  {
+   "keyword": "tín dụng",
+   "pct_questions": 25.0,
+   "pct_corpus_docs": 4.1
+  },
+  {
+   "keyword": "lao động",
+   "pct_questions": 0.9,
+   "pct_corpus_docs": 82.8
+  },
+  {
+   "keyword": "tiền lương",
+   "pct_questions": 0.2,
+   "pct_corpus_docs": 26.7
+  },
+  {
+   "keyword": "bảo hiểm",
+   "pct_questions": 2.0,
+   "pct_corpus_docs": 26.4
+  },
+  {
+   "keyword": "đất đai",
+   "pct_questions": 0.0,
+   "pct_corpus_docs": 3.1
+  },
+  {
+   "keyword": "thuế",
+   "pct_questions": 0.8,
+   "pct_corpus_docs": 7.9
+  },
+  {
+   "keyword": "giáo dục",
+   "pct_questions": 0.0,
+   "pct_corpus_docs": 38.8
+  }
+ ],
+ "citation_freq_sheet_top10": [
+  [
+   "52/2024/NĐ-CP",
+   146
+  ],
+  [
+   "17/2024/TT-NHNN",
+   86
+  ],
+  [
+   "39/2016/TT-NHNN",
+   54
+  ],
+  [
+   "27/2025/TT-NHNN",
+   49
+  ],
+  [
+   "50/2024/TT-NHNN",
+   41
+  ],
+  [
+   "37/2024/TT-NHNN",
+   25
+  ],
+  [
+   "6150/TB-BLĐTBXH",
+   22
+  ],
+  [
+   "14/2022/TT-NHNN",
+   20
+  ],
+  [
+   "137/2020/NĐ-CP",
+   9
+  ],
+  [
+   "24/2012/NĐ-CP",
+   9
+  ]
+ ]
+}

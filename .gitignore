@@ -1,0 +1,6 @@
+# large generated files (chunks, BM25 / FAISS indexes) — rebuild with scripts/ or download from Kaggle
+artifacts/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store

@@ -1,0 +1,7 @@
+name,group,n,Cosine_Similarity,Jaccard_Similarity,Token_Overlap,BLEU_Score,ROUGE_L,avg_pred_words
+extractive_bm25_baseline_k5,all,200,,0.2506,0.3974,0.2821,0.1791,418.3
+extractive_bm25_baseline_k5,covered,51,,0.3331,0.5223,0.3861,0.2833,418.6
+extractive_bm25_baseline_k5,not_covered,149,,0.2223,0.3546,0.2465,0.1435,418.2
+extractive_bm25_legal_k5,all,200,,0.2798,0.4313,0.306,0.204,398.6
+extractive_bm25_legal_k5,covered,51,,0.4049,0.5548,0.4146,0.3366,393.9
+extractive_bm25_legal_k5,not_covered,149,,0.237,0.389,0.2689,0.1586,400.2

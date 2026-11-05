@@ -1,5 +1,9 @@
 # TODO – RAG Law Chatbot (cải tiến so với Baseline)
 
+> **Trạng thái (cập nhật):** đã xong hết các phần 🟢 làm được trên CPU (`[x]`).
+> `[~]` = làm một phần. Còn lại: các bước 🟡 chạy GPU bằng `notebooks/run_on_kaggle.ipynb`, và vài quyết định của bạn
+> (chọn Kaggle hay Colab, có gỡ `Dataset/` khỏi git không, upload Kaggle Dataset).
+
 Nguồn: `doc/RAG_Assignment.pdf`, `doc/Baseline.ipynb`, `doc/RES.xlsx`, `Dataset/export_1/`.
 
 ## 💰 Chi phí: phần nào free, phần nào tốn tiền
@@ -75,79 +79,79 @@ Cần ghi rõ điểm này trong báo cáo.
 
 ## 0. Môi trường và cấu trúc dự án — 🟢 FREE
 - [ ] 🟢 Chọn nơi chạy GPU. **Đề xuất Kaggle**: free 30 giờ/tuần, ổn định hơn Colab Free. Colab Free dùng làm dự phòng.
-- [ ] 🟢 Tạo cấu trúc: `src/` (code), `notebooks/`, `results/`, `report/`, `requirements.txt`.
-- [ ] 🟢 Chuyển `RES.xlsx` sheet 1 thành `res.csv` để không phụ thuộc Google Sheet như baseline.
-- [ ] 🟢 Gom các tham số (đường dẫn, model, chunk size, k, số câu hỏi N) vào một file config.
-- [ ] 🟢 Đặt `seed` và generation deterministic (`do_sample=False`) để kết quả lặp lại được.
+- [x] 🟢 Tạo cấu trúc: `src/` (code), `notebooks/`, `results/`, `report/`, `requirements.txt`.
+- [x] 🟢 Chuyển `RES.xlsx` sheet 1 thành `res.csv` để không phụ thuộc Google Sheet như baseline.
+- [x] 🟢 Gom các tham số (đường dẫn, model, chunk size, k, số câu hỏi N) vào một file config.
+- [x] 🟢 Đặt `seed` và generation deterministic (`do_sample=False`) để kết quả lặp lại được.
 - [ ] 🟢 Upload `Dataset/export_1` và `res.csv` lên Kaggle Dataset (free, tối đa khoảng 100GB) để notebook GPU đọc trực tiếp.
 - [ ] 🟢 Cân nhắc gỡ `Dataset/` khỏi git (442MB) và chỉ hướng dẫn cách tải/giải nén trong manual.
 
 ## 1. Khám phá dữ liệu (báo cáo, 1đ) — 🟢 FREE (CPU)
-- [ ] 🟢 Thống kê corpus: số file, phân bố độ dài, loại văn bản (QĐ, TT, NĐ, NQ, CT…), cơ quan ban hành, năm.
-- [ ] 🟢 Thống kê QA: độ dài câu hỏi và câu trả lời, phân bố chủ đề và văn bản được trích dẫn (dùng sheet 2), các mẫu câu hỏi.
-- [ ] 🟢 Đo **độ phủ**: bao nhiêu câu hỏi có văn bản nguồn nằm trong corpus (hiện tại là 51/2.745). Kiểm tra lại bằng cả tên file lẫn nội dung.
-- [ ] 🟢 Phân tích cấu trúc văn bản (Chương / Mục / Điều / Khoản / Điểm) để thiết kế cách chunk.
-- [ ] 🟢 Vẽ biểu đồ đưa vào báo cáo (matplotlib).
+- [x] 🟢 Thống kê corpus: số file, phân bố độ dài, loại văn bản (QĐ, TT, NĐ, NQ, CT…), cơ quan ban hành, năm.
+- [x] 🟢 Thống kê QA: độ dài câu hỏi và câu trả lời, phân bố chủ đề và văn bản được trích dẫn (dùng sheet 2), các mẫu câu hỏi.
+- [x] 🟢 Đo **độ phủ**: bao nhiêu câu hỏi có văn bản nguồn nằm trong corpus (hiện tại là 51/2.745). Kiểm tra lại bằng cả tên file lẫn nội dung. → 8/314 văn bản, 51/2.745 câu. **100% corpus thuộc lĩnh vực Lao động – Tiền lương.**
+- [x] 🟢 Phân tích cấu trúc văn bản (Chương / Mục / Điều / Khoản / Điểm) để thiết kế cách chunk.
+- [x] 🟢 Vẽ biểu đồ đưa vào báo cáo (matplotlib).
 
 ## 2. Tái lập baseline (bắt buộc để so sánh) — 🟡 FREE, cần GPU (khoảng 2–3 giờ)
-- [ ] 🟢 Viết `evaluate.py` với 5 metric như baseline. Chạy trên CPU được.
+- [x] 🟢 Viết `evaluate.py` với 5 metric như baseline. Chạy trên CPU được. → `scripts/evaluate.py` + `src/metrics.py` (test khớp công thức gốc).
 - [ ] 🟡 Build FAISS index baseline: sbert, chunk 2000, khoảng 170k chunk, mất khoảng 20–40 phút trên T4. **Lưu index lại.**
 - [ ] 🟡 Chạy baseline với **N ≥ 100** câu (ví dụ 200, cố định cùng một tập con, có seed). Qwen1.5-1.8B mất khoảng 30–60 phút.
 - [ ] 🟢 Lưu `results/baseline_metrics.csv` và bảng trung bình 5 chỉ số.
-- [ ] 🟢 Sửa lỗi nhỏ nếu cần nhưng phải ghi chú. Ví dụ: baseline in ra `generated_text` có lặp lại prompt,
+- [x] 🟢 Sửa lỗi nhỏ nếu cần nhưng phải ghi chú. Ví dụ: baseline in ra `generated_text` có lặp lại prompt, → **Đã xác nhận trong mã nguồn LangChain:** output baseline có lẫn prompt. Có 2 chế độ `--llm baseline` / `baseline-noecho`.
   vì `HuggingFacePipeline` mặc định `return_full_text=True`. Kiểm tra lỗi này có làm thay đổi metric không.
-- [ ] 🟢 Tách sẵn một tập **eval cố định**. Nên gồm cả 51 câu có văn bản trong corpus cộng các câu ngẫu nhiên, và báo cáo kết quả riêng từng nhóm.
+- [x] 🟢 Tách sẵn một tập **eval cố định**. Nên gồm cả 51 câu có văn bản trong corpus cộng các câu ngẫu nhiên, và báo cáo kết quả riêng từng nhóm. → `data/eval_set.csv` (200 câu = 51 covered + 149 ngẫu nhiên, seed 42).
 
 ## 3. Cải tiến retrieval
-- [ ] 🟢 **Tiền xử lý:** chuẩn hóa Unicode (NFC), nối lại các dòng bị ngắt, bỏ header/footer lặp. Giữ chữ hoa/thường cho model embedding nếu model hỗ trợ.
-- [ ] 🟢 **Metadata:** lưu tên file, số hiệu, loại văn bản, năm, Điều/Khoản vào từng chunk. Baseline đang bỏ hết metadata.
-- [ ] 🟢 **Chunking theo cấu trúc pháp lý:** cắt theo "Điều …" với kích thước khoảng 500–1000 ký tự, overlap 100–200.
+- [x] 🟢 **Tiền xử lý:** chuẩn hóa Unicode (NFC), nối lại các dòng bị ngắt, bỏ header/footer lặp. Giữ chữ hoa/thường cho model embedding nếu model hỗ trợ.
+- [x] 🟢 **Metadata:** lưu tên file, số hiệu, loại văn bản, năm, Điều/Khoản vào từng chunk. Baseline đang bỏ hết metadata.
+- [x] 🟢 **Chunking theo cấu trúc pháp lý:** cắt theo "Điều …" với kích thước khoảng 500–1000 ký tự, overlap 100–200.
   Thêm tiêu đề văn bản và số hiệu vào đầu mỗi chunk.
-- [ ] 🟢 **BM25** (`rank_bm25` hoặc `bm25s`, tách từ bằng `pyvi` hoặc `underthesea`) chạy trên CPU. Nên dùng `bm25s` vì nhanh, đủ cho khoảng 500k chunk.
-- [ ] 🟢 **Bắt số hiệu trong câu hỏi:** nếu câu hỏi có regex dạng `\d+/\d{4}/[A-ZĐ-]+`, ưu tiên hoặc lọc các chunk của văn bản đó.
+- [x] 🟢 **BM25** (`rank_bm25` hoặc `bm25s`, tách từ bằng `pyvi` hoặc `underthesea`) chạy trên CPU. Nên dùng `bm25s` vì nhanh, đủ cho khoảng 500k chunk. → tự cài BM25 bằng scipy sparse (bm25s bị hết RAM), âm tiết + bigram, khoảng 2 phút cho 385k chunk.
+- [x] 🟢 **Bắt số hiệu trong câu hỏi:** nếu câu hỏi có regex dạng `\d+/\d{4}/[A-ZĐ-]+`, ưu tiên hoặc lọc các chunk của văn bản đó.
 - [ ] 🟡 **Embedding:** mỗi model cần build lại index (khoảng 20–60 phút cho model base, 2–4 giờ cho bge-m3). Để tiết kiệm quota, nên chọn 2–3 model:
   `bkai-foundation-models/vietnamese-bi-encoder`, `intfloat/multilingual-e5-base`, (`BAAI/bge-m3` nếu dư quota), so với `keepitreal/vietnamese-sbert`.
   Nhớ tách từ cho các model PhoBERT-based và dùng prefix `query:`/`passage:` cho e5.
   *Mẹo:* so sánh embedding trước trên **một tập con corpus** (ví dụ 2.000 file có liên quan) để chọn model, rồi mới embed toàn bộ.
-- [ ] 🟢 **Hybrid retrieval:** BM25 kết hợp dense, ghép bằng RRF hoặc trọng số. Phần ghép chạy trên CPU vì index dense đã có sẵn.
+- [x] 🟢 **Hybrid retrieval:** BM25 kết hợp dense, ghép bằng RRF hoặc trọng số. Phần ghép chạy trên CPU vì index dense đã có sẵn. → code xong (`src/retriever.py`), cần FAISS index (🟡) để chạy.
 - [ ] 🟡 **Re-ranking:** cross-encoder như `BAAI/bge-reranker-v2-m3` hoặc `itdainb/PhoRanker`. Lấy top-20 rồi rerank xuống top 3–5.
   Mất vài giây mỗi câu trên GPU; CPU vẫn chạy được nhưng chậm.
 - [ ] 🟡 (Tùy chọn) Query rewriting hoặc HyDE bằng chính LLM nhỏ. Cách này tốn thêm thời gian GPU cho mỗi câu hỏi. MMR (🟢) để giảm trùng lặp.
-- [ ] 🟢 Đánh giá riêng retrieval: Recall@k, MRR trên những câu có văn bản nguồn trong corpus. Phần này không cần LLM.
+- [x] 🟢 Đánh giá riêng retrieval: Recall@k, MRR trên những câu có văn bản nguồn trong corpus. Phần này không cần LLM. → `results/retrieval/retrieval_summary.csv` (BM25).
 
 ## 4. Cải tiến generation — 🟡 FREE, cần GPU (phần tốn quota nhiều nhất)
 - [ ] 🟡 Đổi sang LLM **instruct** dưới 4B, ví dụ `Qwen/Qwen2.5-3B-Instruct` (hoặc Qwen2.5-1.5B-Instruct, Llama-3.2-3B-Instruct).
   Dùng `apply_chat_template` và `return_full_text=False`. Tải model miễn phí; Llama cần bấm đồng ý license trên HF.
-- [ ] 🟢 **Prompt engineering:** prompt tiếng Việt, đóng vai luật sư, bắt trả lời theo mẫu
+- [x] 🟢 **Prompt engineering:** prompt tiếng Việt, đóng vai luật sư, bắt trả lời theo mẫu
   *"Căn cứ tại Điều … [văn bản] quy định: …"*, trích nguyên văn điều luật liên quan. Đưa vào 1–2 ví dụ few-shot lấy từ tập train (không lấy từ tập eval).
   Viết và thử trên N=5–10 câu trước để đỡ tốn quota.
 - [ ] 🟡 **Độ dài câu trả lời:** câu trả lời tham chiếu dài khoảng 1.600 ký tự (≈350 từ), nên tăng `max_new_tokens` lên 512–768 để tránh bị phạt brevity penalty BLEU.
   Lưu ý: câu trả lời dài hơn thì **sinh lâu hơn**, mỗi lần chạy tốn thêm quota. Đặt `repetition_penalty` khoảng 1.1.
-- [ ] 🟢 **Ghép context:** đánh số chunk, ghi nguồn (số hiệu, Điều), giới hạn tổng số token, đặt chunk liên quan nhất ở đầu hoặc cuối.
-- [ ] 🟢 Hậu xử lý: cắt phần lặp, bỏ các token đặc biệt.
+- [x] 🟢 **Ghép context:** đánh số chunk, ghi nguồn (số hiệu, Điều), giới hạn tổng số token, đặt chunk liên quan nhất ở đầu hoặc cuối.
+- [x] 🟢 Hậu xử lý: cắt phần lặp, bỏ các token đặc biệt.
 - [ ] 🟡 (Tùy chọn) Dùng 4/8-bit (bitsandbytes) để chạy model 3B trên T4 hoặc chạy 2 model song song trên Kaggle T4×2. Có thể dùng `vLLM` để sinh nhanh hơn 3–5 lần.
 
 ## 5. Thí nghiệm và ablation (báo cáo, 3đ) — 🟡 FREE, cần GPU (khoảng 6–12 giờ, phần lớn quota)
-- [ ] 🟢 Dùng chung `evaluate.py`, cùng tập eval, cùng model embedding cho cosine.
+- [x] 🟢 Dùng chung `evaluate.py`, cùng tập eval, cùng model embedding cho cosine.
   Cosine phải dùng **cùng embedding với baseline** để so sánh công bằng.
 - [ ] 🟡 Bảng ablation, mỗi bước thay một thành phần:
   baseline → instruct LLM + prompt → chunking mới → embedding mới → hybrid → rerank → full.
   Khoảng 6 lần chạy × 1–2 giờ. Có thể chia ra 2 tuần quota Kaggle.
-- [ ] 🟢 **Cache** câu trả lời của mỗi cấu hình ra CSV. Tính lại metric và phân tích trên CPU, không phải chạy lại LLM.
-- [ ] 🟢 Ghi thời gian chạy và bộ nhớ GPU.
+- [x] 🟢 **Cache** câu trả lời của mỗi cấu hình ra CSV. Tính lại metric và phân tích trên CPU, không phải chạy lại LLM. → `results/predictions/*.csv`, chạy tiếp được nếu bị ngắt.
+- [~] 🟢 Ghi thời gian chạy và bộ nhớ GPU. → thời gian/câu đã ghi (`sec_per_q`), VRAM thì ghi tay khi chạy GPU.
 - [ ] 🟢 Phân tích lỗi: vài ví dụ tốt/xấu, tách riêng nhóm có và không có văn bản trong corpus.
 
 ## 6. Demo (2đ) — 🟡 FREE, cần GPU khi chạy demo
-- [ ] 🟢 Notebook `demo.ipynb` hoặc app Gradio (free, `share=True` tạo link công khai 72 giờ): nhập câu hỏi → trả lời kèm nguồn (số hiệu, Điều, đoạn trích).
-- [ ] 🟢 Chuẩn bị 5–10 câu hỏi mẫu, ưu tiên câu có văn bản nguồn trong corpus.
+- [x] 🟢 Notebook `demo.ipynb` hoặc app Gradio (free, `share=True` tạo link công khai 72 giờ): nhập câu hỏi → trả lời kèm nguồn (số hiệu, Điều, đoạn trích). → `app/demo.py` (CLI/Gradio) + `notebooks/demo.ipynb`. Đã test chế độ CPU `--llm extractive`.
+- [x] 🟢 Chuẩn bị 5–10 câu hỏi mẫu, ưu tiên câu có văn bản nguồn trong corpus.
 - [ ] 🟡 Đảm bảo chạy từ đầu đến cuối không lỗi. Load index đã lưu sẵn để demo nhanh, không phải build lại.
 - [ ] 🟢 (Tùy chọn) Dự phòng: lưu sẵn output demo trong notebook, phòng khi lúc chấm không có GPU.
 - [ ] 🔴 (Tùy chọn, không cần) Host demo cố định trên HuggingFace Spaces có GPU (trả phí theo giờ). Spaces CPU free thì quá chậm với model 3B.
 
 ## 7. Báo cáo và manual (5đ) — 🟢 FREE
-- [ ] 🟢 Báo cáo gồm: giới thiệu → khám phá dữ liệu → baseline → phương pháp → thí nghiệm, bảng và biểu đồ → phân tích → hạn chế (độ phủ corpus) → kết luận.
+- [~] 🟢 Báo cáo gồm: giới thiệu → khám phá dữ liệu → baseline → phương pháp → thí nghiệm, bảng và biểu đồ → phân tích → hạn chế (độ phủ corpus) → kết luận. → bản nháp `report/report.md` (đã có phần dữ liệu, phương pháp và kết quả CPU; chờ số liệu GPU).
   Viết bằng LaTeX/Overleaf (free) hoặc Word/Google Docs.
-- [ ] 🟢 `README`/manual: cài đặt (`requirements.txt`), tải và giải nén dữ liệu, build index, chạy evaluate, chạy demo, số cặp QA đã dùng, cấu hình GPU đã dùng.
+- [x] 🟢 `README`/manual: cài đặt (`requirements.txt`), tải và giải nén dữ liệu, build index, chạy evaluate, chạy demo, số cặp QA đã dùng, cấu hình GPU đã dùng. → `README.md`.
 - [ ] 🟡 Kiểm tra lại toàn bộ quy trình trên môi trường sạch (một notebook Kaggle hoặc Colab mới).
 - [ ] 🟢 Đóng gói nộp bài: source code, dataset (hoặc link), manual, báo cáo PDF.
 

@@ -1,0 +1,11 @@
+# --- GPU part (dense retrieval, reranking, LLM, cosine metric, demo) ---
+# Kaggle / Colab already ship torch + transformers; install the rest with:
+#   pip install -r requirements.txt -r requirements-gpu.txt
+-r requirements.txt
+torch>=2.1
+transformers>=4.44
+accelerate>=0.33
+sentence-transformers>=3.0
+faiss-cpu>=1.8          # CPU FAISS is enough: search over ~400k vectors takes milliseconds
+bitsandbytes>=0.43      # optional: --load-in-4bit
+gradio>=4.0             # demo
