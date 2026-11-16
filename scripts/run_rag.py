@@ -19,6 +19,7 @@ from tqdm import tqdm
 
 from src import config
 from src.postprocess import clean_answer
+from src.predictions import append_predictions, load_predictions
 from src.prompts import build_messages, baseline_prompt, messages_to_text
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
@@ -48,7 +49,7 @@ def main():
     out_dir = config.RESULTS_DIR / "predictions"
     out_dir.mkdir(parents=True, exist_ok=True)
     out_path = out_dir / f"{a.name}.csv"
-    done = set(pd.read_csv(out_path).id) if out_path.exists() and a.llm != "dry-run" else set()
+    done = set(load_predictions(out_path).get("id", [])) if a.llm != "dry-run" else set()
     todo = ev[~ev.id.isin(done)]
     print(f"{len(done)} cached, {len(todo)} to run -> {out_path}")
     if todo.empty:
@@ -106,7 +107,7 @@ def main():
                          "prediction": r if a.llm == "baseline" else clean_answer(r), "raw_output": r,
                          "retrieved": "|".join(f"{h['doc_id']}#{h['chunk_id']}" for h in hits),
                          "sec_per_q": round(dt, 2)})
-        pd.DataFrame(recs).to_csv(out_path, mode="a", header=not out_path.exists(), index=False)
+        append_predictions(out_path, recs)   # atomic: safe to interrupt at any time
 
     if llm is not None:
         from src.llm import gpu_memory_gb

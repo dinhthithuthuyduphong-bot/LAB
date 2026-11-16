@@ -14,6 +14,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 import pandas as pd
 
 from src import config
+from src.predictions import load_predictions
 from src.legal_text import find_doc_ids, normalize_doc_id
 
 
@@ -44,7 +45,7 @@ def main():
     names = a.names or sorted(p.stem for p in mdir.glob("*.csv") if p.stem != "summary")
     for name in names:
         m = pd.read_csv(mdir / f"{name}.csv")
-        p = pd.read_csv(pdir / f"{name}.csv")[["id", "prediction", "retrieved"]]
+        p = load_predictions(pdir / f"{name}.csv")[["id", "prediction", "retrieved"]]
         df = m.merge(p, on="id", suffixes=("", "_p")).merge(ev, on="id")
         df["prediction"] = df["prediction"].fillna("").astype(str)
 

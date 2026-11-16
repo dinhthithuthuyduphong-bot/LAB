@@ -17,6 +17,7 @@ import pandas as pd
 
 from src import config
 from src.metrics import METRIC_NAMES, cosine_scores, lexical_metrics
+from src.predictions import load_predictions
 
 
 def main():
@@ -38,7 +39,7 @@ def main():
 
     summary = []
     for name in names:
-        p = pd.read_csv(pred_dir / f"{name}.csv").drop(columns=["group"], errors="ignore")
+        p = load_predictions(pred_dir / f"{name}.csv").drop(columns=["group"], errors="ignore")
         df = ev.merge(p[["id", "prediction"]], on="id", how="inner")
         df["prediction"] = df.prediction.fillna("").astype(str)
         lex = pd.DataFrame([lexical_metrics(pr, gt) for pr, gt in zip(df.prediction, df.answer)])

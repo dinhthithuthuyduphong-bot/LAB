@@ -8,9 +8,23 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 
 
+# Prepended to every code cell except the setup cell: after a kernel restart / interrupt Kaggle and Colab
+# reset the working directory and forget variables, so each cell must be runnable on its own.
+CD = """import os
+for _d in ("/kaggle/working/LAB", "/content/LAB"):
+    if os.path.isdir(_d):
+        os.chdir(_d)
+        break
+else:
+    raise SystemExit("Repo not found: run the first (setup) cell once")
+"""
+
+
 def nb(cells):
     out = []
     for kind, src in cells:
+        if kind == "code" and src is not SETUP:
+            src = CD + src.lstrip("\n")
         c = {"cell_type": kind, "metadata": {}, "source": src.strip("\n").splitlines(keepends=True)}
         if kind == "code":
             c.update(outputs=[], execution_count=None)
@@ -29,6 +43,7 @@ WORK = "/kaggle/working/LAB" if os.path.exists("/kaggle") else "/content/LAB"
 if not os.path.exists(WORK):
     subprocess.run(["git", "clone", "--depth", "1", "-b", BRANCH, REPO, WORK], check=True)
 os.chdir(WORK)
+print("working dir:", os.getcwd())
 # Large artifacts (chunks / BM25 / FAISS) can be kept in a Kaggle Dataset or Google Drive between sessions:
 # os.environ["ARTIFACTS_DIR"] = "/kaggle/input/lab-rag-artifacts"   # read-only input -> copy if you need to write
 !pip install -q -r requirements-gpu.txt

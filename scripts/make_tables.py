@@ -10,6 +10,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 import pandas as pd
 
 from src import config
+from src.predictions import load_predictions
 from src.metrics import METRIC_NAMES
 
 ORDER = ["baseline", "baseline_noecho", "A_llm_prompt", "B_bm25_legal", "C_hybrid", "D_hybrid_rerank",
@@ -46,7 +47,7 @@ def main():
     rows = []
     for c in sorted((config.RESULTS_DIR / "predictions").glob("*.config.json")):
         cfg = json.loads(c.read_text())
-        p = pd.read_csv(c.with_name(c.name.replace(".config.json", ".csv")))
+        p = load_predictions(c.with_name(c.name.replace(".config.json", ".csv")))
         rows.append({"name": c.name.replace(".config.json", ""), "retriever": cfg.get("retriever"), "llm": cfg.get("llm"),
                      "fewshot": cfg.get("fewshot"), "qa_memory": cfg.get("qa_memory"), "n": len(p),
                      "sec_per_q": round(p.sec_per_q.mean(), 2), "max_gpu_gb": cfg.get("max_gpu_memory_gb")})
