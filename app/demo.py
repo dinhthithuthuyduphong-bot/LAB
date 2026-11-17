@@ -15,12 +15,13 @@ from src.prompts import build_messages
 from src.retriever import Retriever
 from eval_retrieval import CONFIGS
 
-EXAMPLES = [
-    "Mức lương cơ sở áp dụng từ ngày 01/7/2024 đối với cán bộ, công chức, viên chức là bao nhiêu?",
-    "Năm 2025 công chức, viên chức được nghỉ Tết Âm lịch bao nhiêu ngày, từ ngày nào đến ngày nào?",
-    "Người lao động được nghỉ lễ, tết những ngày nào theo Bộ luật Lao động?",
+EXAMPLES = [   # checked: BM25 retrieves the right document for each of these
+    "Mức lương cơ sở từ ngày 01/7/2024 là bao nhiêu?",
     "Chế độ tiền thưởng theo Nghị định 73/2024/NĐ-CP được thực hiện như thế nào?",
-    "Điều kiện cấp giấy phép lao động cho người nước ngoài làm việc tại Việt Nam là gì?",
+    "Chế độ nghỉ hằng năm của người lao động được quy định như thế nào?",
+    "Người lao động nghỉ việc được trợ cấp thôi việc như thế nào?",
+    "Dịp lễ 30/4 và 1/5 năm 2025 công chức được nghỉ mấy ngày, có phải làm bù không?",
+    "Ngạch thủ kho, thủ quỹ ngân hàng có chức trách gì theo Thông tư 14/2022/TT-NHNN?",
 ]
 
 
