@@ -35,7 +35,9 @@ src/                     thư viện
 scripts/                 các bước chạy (xem bên dưới)
 app/demo.py              demo CLI / Gradio
 app/notebook_ui.py       ô hỏi–đáp ngay trong notebook (Kaggle/Colab), không cần link ngoài
-notebooks/               run_on_kaggle.ipynb (toàn bộ pipeline GPU), demo.ipynb
+notebooks/               run_on_kaggle.ipynb (toàn bộ pipeline GPU), demo.ipynb,
+                         demo_chatbox.ipynb (bản demo đã chạy trên Kaggle T4, có output, dùng để quay video)
+report/latex/            báo cáo LaTeX (main.tex + figures/), import vào Overleaf: report/overleaf_report.zip
 results/                 eda/, retrieval/, predictions/, metrics/
 tests/test_core.py       kiểm tra nhanh các phần CPU
 tests/smoke_gpu_path.py  chạy thử toàn bộ nhánh GPU bằng model tí hon tạo trên máy (không tải gì, CPU chạy được)
