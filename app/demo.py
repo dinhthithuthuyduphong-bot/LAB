@@ -32,6 +32,8 @@ class Bot:
         if llm != "extractive":
             from src.llm import HFChatLLM
             self.llm = HFChatLLM(llm, max_new_tokens=config.MAX_NEW_TOKENS, load_in_4bit=load_in_4bit)
+            print(f"LLM {llm} loaded on: {self.llm.model.device}"
+                  + ("" if "cuda" in str(self.llm.model.device) else "  ⚠️ CPU: answers will be very slow, enable a GPU"))
         from src.fewshot import ExamplePool
         self.examples = ExamplePool().static(1)
 
