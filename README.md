@@ -34,6 +34,7 @@ src/                     thư viện
   metrics.py             5 metric, giống hệt công thức của baseline
 scripts/                 các bước chạy (xem bên dưới)
 app/demo.py              demo CLI / Gradio
+app/notebook_ui.py       ô hỏi–đáp ngay trong notebook (Kaggle/Colab), không cần link ngoài
 notebooks/               run_on_kaggle.ipynb (toàn bộ pipeline GPU), demo.ipynb
 results/                 eda/, retrieval/, predictions/, metrics/
 tests/test_core.py       kiểm tra nhanh các phần CPU

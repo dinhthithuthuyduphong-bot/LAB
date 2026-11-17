@@ -169,11 +169,28 @@ for q in EXAMPLES:
     ans, src = bot.answer(q)
     display(Markdown(f"### ❓ {q}\\n\\n{ans}\\n\\n<details><summary>Nguồn</summary>\\n\\n{src}\\n</details>"))
 """),
+    ("markdown", """
+## Hỏi trực tiếp trong notebook (khuyên dùng)
+Gõ câu hỏi vào ô rồi bấm **Hỏi**. Câu trả lời hiện ngay bên dưới. Cách này không cần link ngoài nên không bị "connection error".
+Chạy notebook ở chế độ tương tác, không dùng *Save & Run All*.
+"""),
     ("code", """
-# Interactive UI with a public link (Gradio, free). Reuses `bot` from the cell above (no second model load).
-# Run this notebook interactively (not with Save & Run All): this cell keeps running until you press Stop.
-from demo import launch_ui
-launch_ui(bot)
+from notebook_ui import notebook_ui
+notebook_ui(bot)
+"""),
+    ("markdown", "Nếu ô nhập không hiện ra, hỏi bằng cách gọi hàm (mỗi dòng là một câu hỏi):"),
+    ("code", """
+from notebook_ui import hoi
+hoi(bot, "Mức lương cơ sở từ ngày 01/7/2024 là bao nhiêu?")
+"""),
+    ("markdown", """
+## (Tùy chọn) Link công khai Gradio
+Đường hầm `gradio.live` từ Kaggle đôi khi không ổn định ("Connection errored out"). Nếu gặp lỗi đó, dùng ô hỏi ở trên.
+Cell này chạy liên tục cho tới khi bấm Stop.
+"""),
+    ("code", """
+# from demo import launch_ui
+# launch_ui(bot)
 """),
 ]
 
