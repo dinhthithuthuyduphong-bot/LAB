@@ -4,6 +4,16 @@
 > Bài nộp gồm: **source code**, **dataset**, **manual** (file này) để người đọc chạy lại được kết quả.
 > Danh sách việc cần làm và chi phí: [`doc/TODO.md`](doc/TODO.md). Bản nháp báo cáo: [`report/report.md`](report/report.md).
 
+## Kết quả (200 câu, Kaggle T4)
+
+| Cấu hình | Cosine | Jaccard | Token Overlap | BLEU | ROUGE-L |
+|---|---|---|---|---|---|
+| Baseline (gốc) | 0,6991 | 0,2012 | 0,7675 (*) | 0,1173 | 0,0959 |
+| **Hệ thống cải tiến (E)** | **0,7636** | **0,3063** | 0,3692 | **0,2740** | **0,2463** |
+
+(*) Output của baseline gốc có lẫn toàn bộ prompt và ngữ cảnh (khoảng 2.400 từ), nên Token Overlap cao giả tạo.
+So với baseline chỉ tính phần sinh ra, hệ thống cải tiến tốt hơn ở cả 5 chỉ số. Chi tiết: [`report/report.md`](report/report.md).
+
 ## Cấu trúc
 
 ```

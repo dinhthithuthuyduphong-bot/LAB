@@ -1,0 +1,14 @@
+{
+ "name": "E_full_fewshot",
+ "retriever": "hybrid_legal_rerank",
+ "llm": "Qwen/Qwen2.5-3B-Instruct",
+ "top_k": 5,
+ "max_context_chars": 6000,
+ "max_new_tokens": 640,
+ "fewshot": "static",
+ "qa_memory": 0,
+ "batch_size": 4,
+ "load_in_4bit": false,
+ "limit": null,
+ "max_gpu_memory_gb": 7.05
+}

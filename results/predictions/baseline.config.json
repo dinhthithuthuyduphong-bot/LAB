@@ -1,0 +1,14 @@
+{
+ "name": "baseline",
+ "retriever": "baseline",
+ "llm": "baseline",
+ "top_k": 5,
+ "max_context_chars": 6000,
+ "max_new_tokens": 640,
+ "fewshot": "none",
+ "qa_memory": 0,
+ "batch_size": 1,
+ "load_in_4bit": false,
+ "limit": null,
+ "max_gpu_memory_gb": 2.62
+}
