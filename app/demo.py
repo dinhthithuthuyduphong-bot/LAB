@@ -47,6 +47,45 @@ class Bot:
         return ans, src
 
 
+def build_ui(bot):
+    """Gradio UI. Errors are shown in the page and printed, instead of a silent endless spinner."""
+    import traceback
+    import gradio as gr
+
+    def ask(q):
+        if not q or not q.strip():
+            return "Hãy nhập câu hỏi.", ""
+        try:
+            return bot.answer(q.strip())
+        except Exception:
+            err = traceback.format_exc()
+            print(err, flush=True)
+            return "**Lỗi:**\n```\n" + err[-2000:] + "\n```", ""
+
+    with gr.Blocks(title="Chatbot pháp luật (RAG)") as ui:
+        gr.Markdown("## Chatbot hỏi đáp pháp luật lao động – tiền lương (RAG)\n"
+                    "Corpus: 16.439 văn bản lĩnh vực *Lao động – Tiền lương*. Câu trả lời kèm nguồn trích dẫn.")
+        q = gr.Textbox(label="Câu hỏi", lines=2)
+        btn = gr.Button("Hỏi", variant="primary")
+        ans = gr.Markdown()
+        src = gr.Markdown()
+        gr.Examples(EXAMPLES, inputs=q)
+        btn.click(ask, inputs=q, outputs=[ans, src])
+        q.submit(ask, inputs=q, outputs=[ans, src])
+    return ui
+
+
+def launch_ui(bot, share=True):
+    """Works for Gradio 4 and 5+. SSR (Gradio 5 default) is turned off: with it, share links on
+    Kaggle/Colab often never return the answer."""
+    ui = build_ui(bot)
+    ui.queue()
+    try:
+        ui.launch(share=share, debug=True, ssr_mode=False)
+    except TypeError:
+        ui.launch(share=share, debug=True)
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--retriever", default="bm25_legal", choices=list(CONFIGS))
@@ -59,18 +98,7 @@ def main():
         ans, src = bot.answer(a.cli)
         print("TRẢ LỜI:\n", ans, "\n\nNGUỒN:\n", src)
         return
-    import gradio as gr
-    with gr.Blocks(title="Chatbot pháp luật (RAG)") as ui:
-        gr.Markdown("## Chatbot hỏi đáp pháp luật lao động – tiền lương (RAG)\n"
-                    "Corpus: 16.439 văn bản lĩnh vực *Lao động – Tiền lương*. Câu trả lời kèm nguồn trích dẫn.")
-        q = gr.Textbox(label="Câu hỏi", lines=2)
-        btn = gr.Button("Hỏi", variant="primary")
-        ans = gr.Markdown(label="Trả lời")
-        src = gr.Markdown(label="Nguồn")
-        gr.Examples(EXAMPLES, inputs=q)
-        btn.click(bot.answer, inputs=q, outputs=[ans, src])
-        q.submit(bot.answer, inputs=q, outputs=[ans, src])
-    ui.launch(share=True)
+    launch_ui(bot)
 
 
 if __name__ == "__main__":

@@ -170,8 +170,10 @@ for q in EXAMPLES:
     display(Markdown(f"### ❓ {q}\\n\\n{ans}\\n\\n<details><summary>Nguồn</summary>\\n\\n{src}\\n</details>"))
 """),
     ("code", """
-# Interactive UI with a public link (Gradio, free)
-!python -I app/demo.py --retriever {RETRIEVER} --llm {LLM}
+# Interactive UI with a public link (Gradio, free). Reuses `bot` from the cell above (no second model load).
+# Run this notebook interactively (not with Save & Run All): this cell keeps running until you press Stop.
+from demo import launch_ui
+launch_ui(bot)
 """),
 ]
 
