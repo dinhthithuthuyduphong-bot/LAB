@@ -1,7 +1,9 @@
 # RAG Law Chatbot: cải tiến so với Baseline
 
 > Đề bài nằm trong `doc/` (`RAG_Assignment.pdf`, `Baseline.ipynb`, `RES.xlsx`).
+> Tác giả: Đinh Thị Thu Thủy (MSSV 2570508), môn Mô hình ngôn ngữ lớn, nhóm CH01.
 > Báo cáo: [`report/latex/main.pdf`](report/latex/main.pdf) (bản Markdown: [`report/report.md`](report/report.md)).
+> Video demo: https://youtu.be/sOus4EisfnE
 
 ## Nội dung bài nộp
 
@@ -249,6 +251,8 @@ python -I scripts/run_rag.py --name dryrun --retriever bm25_legal --llm dry-run 
 
 ## Demo
 
+Video demo: https://youtu.be/sOus4EisfnE
+
 Giao diện Gradio, tự in ra link công khai (cần GPU):
 
 ```bash
@@ -272,7 +276,7 @@ python -I app/demo.py --llm extractive --cli "Mức lương cơ sở từ 01/7/2
   (`covered`) và 149 câu ngẫu nhiên khác (`not_covered`). Mọi cấu hình, kể cả baseline, đều chạy trên đúng 200 câu này.
 - **Baseline có lẫn prompt trong output.** `HuggingFacePipeline` của LangChain mặc định `skip_prompt=False`, còn
   transformers mặc định `return_full_text=True`. Vì vậy output của baseline gồm cả prompt và ngữ cảnh.
-  Chúng tôi báo cáo cả `baseline` (giữ nguyên hành vi này, coi là số chính thức) và `baseline_noecho` (chỉ phần sinh ra).
+  Tôi báo cáo cả `baseline` (giữ nguyên hành vi này, coi là số chính thức) và `baseline_noecho` (chỉ phần sinh ra).
 - **Cosine** luôn được tính bằng `keepitreal/vietnamese-sbert`, cùng embedding với baseline, để so sánh công bằng.
 - **Corpus và câu hỏi lệch nhau:** 100% văn bản thuộc lĩnh vực *Lao động – Tiền lương*, trong khi phần lớn câu hỏi về ngân hàng.
   Chỉ 8/314 văn bản được hỏi có trong corpus. Chi tiết xem `results/eda/eda_summary.md`.

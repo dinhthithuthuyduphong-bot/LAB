@@ -1,5 +1,7 @@
 # Báo cáo: Cải tiến hệ thống RAG cho chatbot hỏi đáp pháp luật
 
+Đinh Thị Thu Thủy – MSSV 2570508 · Môn học: Mô hình ngôn ngữ lớn / Nhóm: CH01 · Giảng viên hướng dẫn: Thầy Quản Thành Thơ
+
 > Mọi số liệu trong báo cáo được sinh bởi các script trong `scripts/` và chạy lại được (xem `README.md`).
 > Bảng đầy đủ: `report/results_tables.md`. Câu trả lời từng câu: `results/predictions/`. Phân tích lỗi: `results/analysis/`.
 > Phần GPU chạy trên Kaggle (GPU T4, miễn phí).
@@ -47,12 +49,12 @@ Baseline gồm: chunk 2000/50 ký tự trên văn bản đã chuyển hết sang
 prompt 3 dòng → `Qwen/Qwen1.5-1.8B` (bản *base*, chưa tinh chỉnh để làm theo chỉ dẫn), greedy, `max_new_tokens=256`.
 
 Hai điểm cần lưu ý khi tái lập:
-1. Notebook gốc chỉ chạy `df.head(30)`. Chúng tôi chạy lại baseline với đúng cấu hình đó trên 200 câu của tập eval.
+1. Notebook gốc chỉ chạy `df.head(30)`. Tôi chạy lại baseline với đúng cấu hình đó trên 200 câu của tập eval.
 2. **Output của baseline có lẫn prompt.** `HuggingFacePipeline.generate` của LangChain mặc định `skip_prompt=False`,
-   còn transformers mặc định `return_full_text=True`. Chúng tôi đã kiểm tra điều này trong mã nguồn `langchain_huggingface`.
+   còn transformers mặc định `return_full_text=True`. Tôi đã kiểm tra điều này trong mã nguồn `langchain_huggingface`.
    Vì vậy chuỗi được chấm điểm gồm cả prompt và 5 chunk ngữ cảnh: trung bình **2.369 từ**, so với 351 từ của câu tham chiếu.
    Token Overlap đo tỷ lệ từ của câu tham chiếu xuất hiện trong output, nên được lợi rất lớn từ output dài như vậy (0,768).
-   Chúng tôi báo cáo cả hai phiên bản:
+   Tôi báo cáo cả hai phiên bản:
    - `baseline`: giữ nguyên hành vi gốc, dùng làm mốc chính thức;
    - `baseline_noecho`: chỉ chấm phần mô hình sinh ra. Phần này trung bình 79 từ và thường chỉ lặp lại câu hỏi.
 
@@ -134,7 +136,7 @@ BLEU (đo precision, có brevity penalty) và ROUGE-L (F1) phản ánh đúng h�
   Đúng như dự đoán: retrieval tốt hơn chỉ giúp khi văn bản nguồn có trong corpus.
 - **C: hybrid** cải thiện nhẹ trên toàn bộ. **D: rerank** cho điểm covered cao nhất (ROUGE-L 0,350, Cosine 0,843) và Jaccard/BLEU tổng cao nhất.
 - **E: few-shot** cho Cosine và ROUGE-L tổng cao nhất, tốt nhất ở nhóm not_covered, và **ít bịa số hiệu nhất** (5.3).
-  Đổi lại, điểm covered giảm nhẹ so với D. Vì vậy chúng tôi chọn E làm hệ thống cuối; D là phương án thay thế gần tương đương.
+  Đổi lại, điểm covered giảm nhẹ so với D. Vì vậy tôi chọn E làm hệ thống cuối; D là phương án thay thế gần tương đương.
 
 ### 5.3 Phân tích lỗi
 Thống kê từ `scripts/error_analysis.py`. "Bịa số hiệu" là trường hợp câu trả lời nhắc một số hiệu văn bản không xuất hiện ở đâu trong ngữ cảnh lấy về.
@@ -165,12 +167,13 @@ Những câu gần như trùng lặp (Jaccard > 0,8) đã bị loại.
 
 Kết quả: ROUGE-L tăng từ 0,246 lên 0,310, phần tăng gần như hoàn toàn ở nhóm not_covered (0,218 lên 0,310).
 Tuy nhiên, đây là tận dụng dữ liệu hỏi–đáp chứ không phải RAG trên corpus. Câu trả lời cũng thường chép số hiệu văn bản từ các cặp hỏi–đáp đó (35% ở not_covered).
-Vì vậy chúng tôi **không** dùng F làm kết quả chính. F chỉ cho thấy nếu corpus có đúng văn bản ngân hàng thì hệ thống có thể đạt mức nào.
+Vì vậy tôi **không** dùng F làm kết quả chính. F chỉ cho thấy nếu corpus có đúng văn bản ngân hàng thì hệ thống có thể đạt mức nào.
 
 ## 6. Demo
 Chạy `app/demo.py` (giao diện Gradio có link công khai, hoặc `--cli` để hỏi từ dòng lệnh), hoặc dùng `notebooks/demo.ipynb`.
 Câu trả lời kèm danh sách nguồn: tên văn bản, Điều, tên file và đoạn trích.
 Các câu hỏi mẫu được chọn trong lĩnh vực mà corpus có (lương cơ sở, nghỉ lễ tết, giấy phép lao động…).
+Video demo: https://youtu.be/sOus4EisfnE
 
 ## 7. Hạn chế
 - **Corpus và câu hỏi lệch nhau** là giới hạn lớn nhất: chỉ khoảng 2% câu hỏi có văn bản nguồn trong corpus.
@@ -178,7 +181,7 @@ Các câu hỏi mẫu được chọn trong lĩnh vực mà corpus có (lương 
 - Các metric đo độ trùng từ nên ưu tiên câu trả lời dài và theo mẫu. Chúng không đo được tính đúng đắn pháp lý (xem ví dụ Q29).
 - Model 3B đôi khi suy luận sai chi tiết (ngày, số liệu) dù đã lấy đúng văn bản.
 - Đánh giá trên 200/2.745 câu do giới hạn GPU miễn phí. Tập eval cố định và cố tình chứa toàn bộ 51 câu covered,
-  nên điểm trung bình "all" cao hơn một mẫu hoàn toàn ngẫu nhiên. Vì thế chúng tôi báo cáo riêng từng nhóm.
+  nên điểm trung bình "all" cao hơn một mẫu hoàn toàn ngẫu nhiên. Vì thế tôi báo cáo riêng từng nhóm.
 
 ## 8. Kết luận
 Trên cùng 200 câu, hệ thống cải tiến (E) vượt baseline gốc ở Cosine (+9%), Jaccard (+52%), BLEU (+134%) và ROUGE-L (+157%).

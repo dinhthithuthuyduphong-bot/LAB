@@ -30,12 +30,11 @@
 \captionsetup{font=small}
 
 % ======================= THÔNG TIN — SỬA Ở ĐÂY =======================
-\newcommand{\hoten}{Họ và tên sinh viên}
-\newcommand{\mssv}{MSSV}
-\newcommand{\lop}{Lớp / Nhóm}
+\newcommand{\hoten}{Đinh Thị Thu Thủy}
+\newcommand{\mssv}{2570508}
+\newcommand{\lop}{Môn học: Mô hình ngôn ngữ lớn / Nhóm: CH01}
 \newcommand{\githublink}{https://github.com/dinhthithuthuyduphong-bot/LAB/tree/RAG-based-chatbot-system}
-\newcommand{\videolink}{https://link-video-demo}       % link video demo (Drive/YouTube)
-\newcommand{\kagglelink}{https://link-kaggle-notebook}  % link notebook demo trên Kaggle (nếu có)
+\newcommand{\videolink}{https://youtu.be/sOus4EisfnE}       % link video demo (YouTube)
 % =====================================================================
 
 \title{\textbf{Báo cáo bài tập lớn}\\[4pt]
@@ -47,19 +46,18 @@
 \maketitle
 
 \begin{abstract}
-Chúng tôi cải tiến hệ thống RAG baseline (\texttt{vietnamese-sbert} + FAISS + \texttt{Qwen1.5-1.8B}) cho bài toán hỏi đáp pháp luật tiếng Việt.
+Tôi cải tiến hệ thống RAG baseline (\texttt{vietnamese-sbert} + FAISS + \texttt{Qwen1.5-1.8B}) cho bài toán hỏi đáp pháp luật tiếng Việt.
 Hệ thống cuối gồm: tiền xử lý văn bản và tách metadata, chia đoạn theo cấu trúc Chương/Điều, tìm kiếm kết hợp BM25 + dense (RRF),
 xếp hạng lại bằng cross-encoder, mô hình \texttt{Qwen2.5-3B-Instruct} và prompt theo mẫu câu trả lời pháp lý kèm một ví dụ few-shot.
 Trên cùng \textbf{200 cặp hỏi--đáp} cố định, so với baseline, ROUGE-L tăng từ 0{,}096 lên 0{,}246 (+157\%), BLEU từ 0{,}117 lên 0{,}274 (+134\%),
 Jaccard từ 0{,}201 lên 0{,}306 (+52\%) và Cosine từ 0{,}699 lên 0{,}764 (+9\%).
 Phân tích dữ liệu cho thấy corpus (100\% thuộc lĩnh vực Lao động -- Tiền lương) gần như không chứa các văn bản mà bộ câu hỏi (chủ yếu về ngân hàng) trích dẫn.
-Chúng tôi phân tích ảnh hưởng của điều này bằng cách báo cáo riêng hai nhóm câu hỏi.
+Tôi phân tích ảnh hưởng của điều này bằng cách báo cáo riêng hai nhóm câu hỏi.
 \end{abstract}
 
 \noindent\textbf{Tài liệu kèm theo.}
 Mã nguồn, dữ liệu và hướng dẫn chạy lại (manual): \url{\githublink}. Cách cài đặt và chạy lại tóm tắt ở Phụ lục~\ref{app:manual}.
 Video demo: \url{\videolink}.
-Notebook demo: \url{\kagglelink}.
 
 \tableofcontents
 \newpage
@@ -165,11 +163,11 @@ $\rightarrow$ prompt 3 dòng $\rightarrow$ \path{Qwen/Qwen1.5-1.8B} (bản \emph
 
 \paragraph{Output của baseline có lẫn prompt.}
 \texttt{HuggingFacePipeline.generate} của LangChain mặc định \texttt{skip\_prompt=False}, còn transformers mặc định \texttt{return\_full\_text=True}.
-Chúng tôi đã kiểm tra điều này trong mã nguồn \texttt{langchain\_huggingface}.
+Tôi đã kiểm tra điều này trong mã nguồn \texttt{langchain\_huggingface}.
 Vì vậy chuỗi được chấm điểm gồm cả prompt và 5 chunk ngữ cảnh: trung bình \textbf{2.369 từ}, so với 351 từ của câu tham chiếu.
 Token Overlap đo tỷ lệ từ của câu tham chiếu xuất hiện trong output và không phạt độ dài, nên được lợi rất lớn (0{,}768).
-Chúng tôi báo cáo cả \emph{baseline} (giữ nguyên hành vi gốc, dùng làm mốc chính thức) và \emph{baseline\_noecho} (chỉ chấm phần mô hình sinh ra).
-Notebook gốc chỉ chạy 30 câu; chúng tôi chạy lại baseline trên đúng 200 câu của tập đánh giá.
+Tôi báo cáo cả \emph{baseline} (giữ nguyên hành vi gốc, dùng làm mốc chính thức) và \emph{baseline\_noecho} (chỉ chấm phần mô hình sinh ra).
+Notebook gốc chỉ chạy 30 câu; tôi chạy lại baseline trên đúng 200 câu của tập đánh giá.
 
 % =====================================================================
 \section{Phương pháp cải tiến}
@@ -323,7 +321,7 @@ E & \best{2\% / 11\%} & 16\% / 17\% & 77\% / 66\% \\
 Cấu hình F thêm vào prompt 2 cặp hỏi--đáp tương tự nhất, lấy từ 2.545 cặp \emph{không thuộc} tập đánh giá; các câu gần như trùng lặp (Jaccard $>0{,}8$) bị loại.
 ROUGE-L tăng từ 0{,}246 lên 0{,}310, gần như hoàn toàn ở nhóm not\_covered (0{,}218 lên 0{,}310).
 Tuy nhiên đây là tận dụng dữ liệu hỏi--đáp chứ không phải RAG trên corpus, và câu trả lời thường chép số hiệu văn bản từ các cặp đó (35\% ở not\_covered).
-Vì vậy chúng tôi \textbf{không} dùng F làm kết quả chính. F chỉ cho thấy nếu corpus có đúng văn bản ngân hàng thì hệ thống có thể đạt mức nào.
+Vì vậy tôi \textbf{không} dùng F làm kết quả chính. F chỉ cho thấy nếu corpus có đúng văn bản ngân hàng thì hệ thống có thể đạt mức nào.
 
 % =====================================================================
 \section{Demo}
@@ -421,7 +419,7 @@ python -I app/demo.py --llm extractive \
     --cli "Mức lương cơ sở từ 01/7/2024 là bao nhiêu?"
 \end{verbatim}
 \end{enumerate}
-Chúng tôi đã chạy lại đúng các bước trên từ một bản clone sạch (Linux, Python 3.13, RAM 16GB).
+Tôi đã chạy lại đúng các bước trên từ một bản clone sạch (Linux, Python 3.13, RAM 16GB).
 Mọi bước đều chạy được, và \file{data/}, \file{results/eda/}, \file{results/metrics/} sinh ra khớp với bản đã nộp.
 
 \subsection{Chạy lại toàn bộ có GPU}
