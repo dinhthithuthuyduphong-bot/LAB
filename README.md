@@ -5,6 +5,7 @@
 > Báo cáo: [`report/latex/main.pdf`](report/latex/main.pdf) (bản Markdown: [`report/report.md`](report/report.md)).
 > Video demo: https://youtu.be/sOus4EisfnE
 
+
 ## Nội dung bài nộp
 
 Toàn bộ bài nộp nằm trong repo này, nhánh `RAG-based-chatbot-system`. Người đọc chỉ cần clone về là chạy lại được, không phải tải thêm gì.
