@@ -1,7 +1,7 @@
 # RAG Law Chatbot: cải tiến so với Baseline
 
 > Đề bài nằm trong `doc/` (`RAG_Assignment.pdf`, `Baseline.ipynb`, `RES.xlsx`).
-> Tác giả: Đinh Thị Thu Thủy (MSSV 2570508), môn Mô hình ngôn ngữ lớn, nhóm CH01.
+> Tác giả: Đinh Thị Thu Thủy (MSHV 2570508), môn Mô hình ngôn ngữ lớn, nhóm CH01.
 > Báo cáo: [`report/latex/main.pdf`](report/latex/main.pdf) (bản Markdown: [`report/report.md`](report/report.md)).
 > Video demo: https://youtu.be/sOus4EisfnE
 

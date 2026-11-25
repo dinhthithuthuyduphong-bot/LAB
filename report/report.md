@@ -1,6 +1,6 @@
 # Báo cáo: Cải tiến hệ thống RAG cho chatbot hỏi đáp pháp luật
 
-Đinh Thị Thu Thủy – MSSV 2570508 · Môn học: Mô hình ngôn ngữ lớn / Nhóm: CH01 · Giảng viên hướng dẫn: Thầy Quản Thành Thơ
+Học viên: Đinh Thị Thu Thủy – MSHV 2570508 · Môn học: Mô hình ngôn ngữ lớn / Nhóm: CH01 · Giảng viên hướng dẫn: PGS. TS. Quản Thành Thơ
 
 > Mọi số liệu trong báo cáo được sinh bởi các script trong `scripts/` và chạy lại được (xem `README.md`).
 > Bảng đầy đủ: `report/results_tables.md`. Câu trả lời từng câu: `results/predictions/`. Phân tích lỗi: `results/analysis/`.
