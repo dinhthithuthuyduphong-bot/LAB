@@ -44,7 +44,20 @@ def main():
         df["prediction"] = df.prediction.fillna("").astype(str)
         lex = pd.DataFrame([lexical_metrics(pr, gt) for pr, gt in zip(df.prediction, df.answer)])
         df = pd.concat([df.reset_index(drop=True), lex], axis=1)
-        df["Cosine_Similarity"] = cosine_scores(df.prediction, df.answer, embed) if embed else float("nan")
+        if embed:
+            df["Cosine_Similarity"] = cosine_scores(df.prediction, df.answer, embed)
+        else:
+            # --no-cosine: keep the cosine computed by an earlier (GPU) run instead of wiping it
+            df["Cosine_Similarity"] = float("nan")
+            old_path = out_dir / f"{name}.csv"
+            if old_path.exists():
+                old = pd.read_csv(old_path)
+                if "Cosine_Similarity" in old and "prediction" in old:
+                    # reuse only where the prediction is unchanged
+                    old = old[["id", "prediction", "Cosine_Similarity"]].rename(columns={"Cosine_Similarity": "_old_cos"})
+                    old["prediction"] = old.prediction.fillna("").astype(str)
+                    df = df.merge(old, on=["id", "prediction"], how="left")
+                    df["Cosine_Similarity"] = df.pop("_old_cos")
         df["pred_words"] = df.prediction.str.split().str.len()
         df.drop(columns=["answer"]).to_csv(out_dir / f"{name}.csv", index=False)
         for grp, g in [("all", df)] + list(df.groupby("group")):
@@ -58,8 +71,7 @@ def main():
     path = out_dir / "summary.csv"
     if path.exists():
         old = pd.read_csv(path)
-        old = old[~old.name.isin(s.name)]
-        # keep cosine computed earlier if this run skipped it
+        old = old[~old.name.isin(s.name)]   # rows of the configs evaluated now are replaced
         s = pd.concat([old, s], ignore_index=True)
     s.to_csv(path, index=False)
     print(s[s.group == "all"].to_string(index=False))

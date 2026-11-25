@@ -57,7 +57,7 @@ Chúng tôi phân tích ảnh hưởng của điều này bằng cách báo cáo
 \end{abstract}
 
 \noindent\textbf{Tài liệu kèm theo.}
-Mã nguồn, dữ liệu và hướng dẫn chạy lại: \url{\githublink}.
+Mã nguồn, dữ liệu và hướng dẫn chạy lại (manual): \url{\githublink}. Cách cài đặt và chạy lại tóm tắt ở Phụ lục~\ref{app:manual}.
 Video demo: \url{\videolink}.
 Notebook demo: \url{\kagglelink}.
 
@@ -357,18 +357,6 @@ Retrieval tốt hơn (chunk theo Điều, hybrid, rerank) tăng thêm mạnh ở
 (ROUGE-L từ 0{,}215 lên 0{,}329--0{,}350) và giảm rõ việc bịa số hiệu văn bản (từ 31--35\% xuống 2--11\%).
 
 % =====================================================================
-\appendix
-\section{Hướng dẫn chạy lại}
-Chi tiết trong \file{README.md} của repo. Tóm tắt:
-\begin{enumerate}
-  \item \textbf{CPU} (khoảng 8 phút): \file{scripts/build_corpus.py}, \file{prepare_data.py --n 200}, \file{eda.py}, \file{build_chunks.py}, \file{build_bm25.py}.
-  \item \textbf{GPU} (Kaggle, miễn phí): mở \file{notebooks/run_on_kaggle.ipynb}, bật GPU T4 và Internet, chọn \emph{Save \& Run All (Commit)}.
-        Notebook tự tạo index, chạy baseline và các cấu hình A--F, rồi tính metric.
-  \item \textbf{Tổng hợp} (CPU): \file{scripts/evaluate.py}, \file{error_analysis.py}, \file{make_tables.py}, \file{make_report_figures.py}.
-\end{enumerate}
-Kiểm thử: \file{tests/test_core.py} (các phần CPU) và \file{tests/smoke_gpu_path.py} (chạy thử toàn bộ nhánh GPU bằng model tí hon tạo trên máy).
-Câu trả lời của từng câu cho mọi cấu hình nằm trong \file{results/predictions/}.
-
 \section{Tài liệu tham khảo}
 \begin{enumerate}[label={[\arabic*]}]
   \item P. Lewis et al. Retrieval-augmented generation for knowledge-intensive NLP tasks. NeurIPS 2020.
@@ -380,5 +368,68 @@ Câu trả lời của từng câu cho mọi cấu hình nằm trong \file{resul
   \item Qwen Team. Qwen2.5 Technical Report. 2024.
   \item J. Chen et al. BGE M3-Embedding / bge-reranker. 2024.
 \end{enumerate}
+
+
+% =====================================================================
+\appendix
+\section{Mã nguồn, dữ liệu và hướng dẫn chạy lại}\label{app:manual}
+Toàn bộ bài nộp nằm trong repo \url{\githublink}. Bản đầy đủ của phụ lục này là \file{README.md} trong repo.
+
+\subsection{Thành phần bài nộp}
+\begin{center}\small
+\begin{tabularx}{\linewidth}{@{}lX@{}}
+\toprule
+Thành phần & Vị trí trong repo \\
+\midrule
+Mã nguồn & \file{src/} (thư viện), \file{scripts/} (các bước chạy), \file{app/} (demo), \file{notebooks/} (Kaggle), \file{tests/} \\
+Dữ liệu & \file{Dataset/export_1/}: 16.439 văn bản .txt, khoảng 442MB; \file{doc/RES.xlsx}: 2.745 cặp QA.
+           Cả hai đã nằm trong git, không phải tải riêng. \file{data/eval_set.csv}: 200 câu đánh giá cố định (seed 42) \\
+Hướng dẫn & \file{README.md} (cài đặt, chạy lại, demo, kết quả mong đợi) \\
+Kết quả & \file{results/predictions/}: câu trả lời từng câu của mọi cấu hình; \file{results/metrics/}; \file{results/eda/} \\
+\bottomrule
+\end{tabularx}
+\end{center}
+
+\subsection{Cài đặt}
+\begin{verbatim}
+git clone -b RAG-based-chatbot-system \
+    https://github.com/dinhthithuthuyduphong-bot/LAB.git
+cd LAB
+pip install -r requirements.txt        # hoặc requirements-lock.txt
+pip install -r requirements-gpu.txt    # chỉ khi có GPU
+\end{verbatim}
+
+\subsection{Kiểm tra nhanh, không cần GPU (khoảng 10 phút)}
+\begin{enumerate}
+  \item \textbf{Tính lại metric} từ câu trả lời đã lưu: \verb|python -I scripts/evaluate.py --no-cosine|.
+        Bốn metric từ vựng phải trùng với Bảng~\ref{tab:main}. Nếu lệnh \verb|git diff results/metrics/summary.csv| không in ra gì thì kết quả đã khớp.
+  \item \textbf{Dựng lại dữ liệu và chỉ mục BM25} (khoảng 5 phút):
+\begin{verbatim}
+python -I scripts/build_corpus.py         # 16439 documents
+python -I scripts/prepare_data.py --n 200 # 200 câu: 51 covered + 149
+python -I scripts/eda.py
+python -I scripts/build_chunks.py --strategy legal     # 384,612 chunks
+python -I scripts/build_chunks.py --strategy baseline
+python -I scripts/build_bm25.py --chunks legal
+python -I scripts/build_bm25.py --chunks baseline
+python -I scripts/eval_retrieval.py --k 5
+python -I tests/test_core.py
+\end{verbatim}
+  \item \textbf{Demo không cần GPU} (chỉ hiện các đoạn văn bản tìm được):
+\begin{verbatim}
+python -I app/demo.py --llm extractive \
+    --cli "Mức lương cơ sở từ 01/7/2024 là bao nhiêu?"
+\end{verbatim}
+\end{enumerate}
+Chúng tôi đã chạy lại đúng các bước trên từ một bản clone sạch (Linux, Python 3.13, RAM 16GB).
+Mọi bước đều chạy được, và \file{data/}, \file{results/eda/}, \file{results/metrics/} sinh ra khớp với bản đã nộp.
+
+\subsection{Chạy lại toàn bộ có GPU}
+Mở \file{notebooks/run_on_kaggle.ipynb} trên Kaggle, bật GPU T4 và Internet, rồi chọn \emph{Save \& Run All (Commit)}.
+Notebook tự clone repo, tạo index FAISS, chạy baseline và các cấu hình A--F, rồi tính đủ 5 metric.
+Mỗi cấu hình mất khoảng 30--45 phút cho 200 câu.
+Câu trả lời được lưu dần vào \file{results/predictions/}, nên nếu phiên bị ngắt thì chạy lại sẽ tiếp tục từ chỗ dừng.
+Sau đó chạy \file{scripts/error_analysis.py}, \file{make_tables.py} và \file{make_report_figures.py} trên CPU để sinh bảng và hình cho báo cáo.
+Muốn chạy thử nhánh GPU mà không tốn quota, dùng \file{tests/smoke_gpu_path.py}: script này dùng model tí hon tạo ngay trên máy và chạy được trên CPU.
 
 \end{document}

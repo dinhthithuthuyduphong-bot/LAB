@@ -149,11 +149,13 @@ Cần ghi rõ điểm này trong báo cáo.
 - [-] 🔴 (Tùy chọn, không cần) Host demo cố định trên HuggingFace Spaces có GPU (trả phí theo giờ). Spaces CPU free thì quá chậm với model 3B. → bỏ qua (tốn tiền, không cần).
 
 ## 7. Báo cáo và manual (5đ) — 🟢 FREE
-- [x] 🟢 Báo cáo gồm: giới thiệu → khám phá dữ liệu → baseline → phương pháp → thí nghiệm, bảng và biểu đồ → phân tích → hạn chế (độ phủ corpus) → kết luận. → bản nháp `report/report.md` (đã có phần dữ liệu, phương pháp và kết quả CPU; chờ số liệu GPU).
+- [x] 🟢 Báo cáo gồm: giới thiệu → khám phá dữ liệu → baseline → phương pháp → thí nghiệm, bảng và biểu đồ → phân tích → hạn chế (độ phủ corpus) → kết luận. → `report/latex/main.pdf` (bản Markdown: `report/report.md`), đã có đủ số liệu GPU.
   Viết bằng LaTeX/Overleaf (free) hoặc Word/Google Docs.
 - [x] 🟢 `README`/manual: cài đặt (`requirements.txt`), tải và giải nén dữ liệu, build index, chạy evaluate, chạy demo, số cặp QA đã dùng, cấu hình GPU đã dùng. → `README.md`.
 - [x] 🟡 Kiểm tra lại toàn bộ quy trình trên môi trường sạch (một notebook Kaggle hoặc Colab mới).
-- [x] 🟢 Đóng gói nộp bài: source code, dataset (hoặc link), manual, báo cáo PDF. → code, dữ liệu, kết quả và báo cáo đều đã nằm trên GitHub; xuất PDF nếu thầy yêu cầu.
+- [x] 🟢 Đóng gói nộp bài: source code, dataset (hoặc link), manual, báo cáo PDF. → code, dữ liệu, kết quả và báo cáo đều đã nằm trên GitHub. README có bảng "Nội dung bài nộp" và mục "Kiểm tra nhanh cho người chấm"; Phụ lục A của báo cáo PDF tóm tắt manual.
+- [x] 🟢 Chạy lại phần CPU từ một bản clone sạch theo đúng README (2026-11-25): mọi bước chạy được, `data/`, `results/eda/` và `results/metrics/` sinh ra khớp với bản đã nộp (file kết quả từng câu chỉ khác ở chữ số thập phân thứ 16 tùy phiên bản pandas). Đã thêm `requirements-lock.txt`.
+- [ ] Điền họ tên, MSSV, lớp và link video demo vào `report/latex/main.tex` (dòng 33–38), rồi biên dịch lại PDF.
 
 ---
 

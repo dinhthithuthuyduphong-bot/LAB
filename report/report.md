@@ -189,5 +189,15 @@ Retrieval tốt hơn (chunk theo Điều, hybrid, rerank) tăng thêm mạnh ở
 
 Hướng phát triển: bổ sung văn bản ngân hàng (NHNN) và các văn bản năm 2024–2025 vào corpus, vì đây là phần lớn câu hỏi trong RES.
 
-## Phụ lục: chạy lại
-Xem `README.md`. Bước CPU mất khoảng 8 phút. Bước GPU dùng `notebooks/run_on_kaggle.ipynb` với chế độ *Save & Run All (Commit)* trên Kaggle (T4, miễn phí).
+## Phụ lục: mã nguồn, dữ liệu và hướng dẫn chạy lại
+Toàn bộ bài nộp nằm trong repo https://github.com/dinhthithuthuyduphong-bot/LAB, nhánh `RAG-based-chatbot-system`.
+
+| Thành phần | Vị trí |
+|---|---|
+| Mã nguồn | `src/`, `scripts/`, `app/`, `notebooks/`, `tests/` |
+| Dữ liệu | `Dataset/export_1/` (16.439 văn bản), `doc/RES.xlsx` (2.745 cặp QA), `data/eval_set.csv` (200 câu đánh giá). Đã nằm trong git |
+| Hướng dẫn | `README.md`: cài đặt, kiểm tra nhanh cho người chấm, chạy lại từ đầu, demo |
+
+- **Kiểm tra nhanh, không cần GPU (khoảng 10 phút):** tính lại metric từ câu trả lời đã lưu bằng `python -I scripts/evaluate.py --no-cosine`, dựng lại dữ liệu và chỉ mục BM25 (khoảng 5 phút), rồi chạy demo `--llm extractive`.
+  Kết quả mong đợi ghi trong README. Phần CPU đã được chạy lại từ một bản clone sạch, và kết quả khớp với bản đã nộp.
+- **Chạy lại toàn bộ có GPU:** dùng `notebooks/run_on_kaggle.ipynb` với chế độ *Save & Run All (Commit)* trên Kaggle (T4, miễn phí).

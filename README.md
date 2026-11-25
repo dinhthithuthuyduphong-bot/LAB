@@ -1,8 +1,33 @@
 # RAG Law Chatbot: cải tiến so với Baseline
 
 > Đề bài nằm trong `doc/` (`RAG_Assignment.pdf`, `Baseline.ipynb`, `RES.xlsx`).
-> Bài nộp gồm: **source code**, **dataset**, **manual** (file này) để người đọc chạy lại được kết quả.
-> Danh sách việc cần làm và chi phí: [`doc/TODO.md`](doc/TODO.md). Bản nháp báo cáo: [`report/report.md`](report/report.md).
+> Báo cáo: [`report/latex/main.pdf`](report/latex/main.pdf) (bản Markdown: [`report/report.md`](report/report.md)).
+
+## Nội dung bài nộp
+
+Toàn bộ bài nộp nằm trong repo này, nhánh `RAG-based-chatbot-system`. Người đọc chỉ cần clone về là chạy lại được, không phải tải thêm gì.
+
+| Thành phần | Ở đâu | Ghi chú |
+|---|---|---|
+| **Source code** | `src/`, `scripts/`, `app/`, `notebooks/`, `tests/` | Mô tả từng file ở mục [Cấu trúc](#cấu-trúc) |
+| **Dataset** | `Dataset/export_1/` (16.439 văn bản .txt, khoảng 442MB), `doc/RES.xlsx` (2.745 cặp QA) | Đã nằm trong git. `data/` chứa tập eval 200 câu cố định (seed 42) sinh từ RES.xlsx |
+| **Manual** | File này: [Cài đặt](#cài-đặt), [Kiểm tra nhanh cho người chấm](#kiểm-tra-nhanh-cho-người-chấm-không-cần-gpu-khoảng-10-phút), [Chạy lại từ đầu](#chạy-lại-từ-đầu), [Demo](#demo) | Phụ lục A của báo cáo PDF tóm tắt lại các bước này |
+| Kết quả đã chạy | `results/` (câu trả lời từng câu, metric, EDA, retrieval) | Dùng để đối chiếu khi chạy lại |
+
+Lấy mã nguồn và dữ liệu:
+
+```bash
+git clone -b RAG-based-chatbot-system https://github.com/dinhthithuthuyduphong-bot/LAB.git
+```
+
+```bash
+cd LAB
+```
+
+**Môi trường đã kiểm tra:** phần CPU chạy lại từ một bản clone sạch trên Linux, Python 3.13, RAM 16GB, kết quả khớp với số đã nộp (xem mục dưới).
+Phần GPU chạy trên Kaggle (GPU T4 miễn phí), bằng `notebooks/run_on_kaggle.ipynb`.
+
+Danh sách việc đã làm và chi phí: [`doc/TODO.md`](doc/TODO.md).
 
 ## Kết quả (200 câu, Kaggle T4)
 
@@ -42,14 +67,24 @@ results/                 eda/, retrieval/, predictions/, metrics/
 tests/test_core.py       kiểm tra nhanh các phần CPU
 tests/smoke_gpu_path.py  chạy thử toàn bộ nhánh GPU bằng model tí hon tạo trên máy (không tải gì, CPU chạy được)
 artifacts/               (git-ignored) chunk, chỉ mục BM25/FAISS, build lại bằng scripts
+requirements.txt         thư viện cho phần CPU; requirements-gpu.txt thêm phần GPU
+requirements-lock.txt    phiên bản CPU chính xác đã kiểm tra chạy lại từ bản clone sạch
 ```
 
 🟢 = chạy trên CPU · 🟡 = cần GPU (Kaggle hoặc Colab miễn phí là đủ).
 
 ## Cài đặt
 
+Cần Python 3.10 trở lên.
+
 ```bash
 pip install -r requirements.txt
+```
+
+Nếu bản mới nhất của một thư viện nào đó bị lỗi, cài đúng các phiên bản đã kiểm tra:
+
+```bash
+pip install -r requirements-lock.txt
 ```
 
 Nếu chạy trên máy có GPU (Kaggle/Colab), cài thêm:
@@ -60,9 +95,53 @@ pip install -r requirements-gpu.txt
 
 Các script đều chạy được bằng `python -I scripts/<tên>.py` từ bất kỳ thư mục nào. Cờ `-I` dùng để cô lập môi trường, không bắt buộc.
 
+## Kiểm tra nhanh cho người chấm (không cần GPU, khoảng 10 phút)
+
+Các bước dưới đây chạy hết trên CPU. Chúng kiểm tra lại được: số liệu khám phá dữ liệu, kết quả retrieval, 4 metric từ vựng của mọi cấu hình, và demo.
+
+**1. Tính lại metric từ câu trả lời đã lưu** (vài giây). Câu trả lời của 200 câu cho mọi cấu hình nằm trong `results/predictions/`.
+
+```bash
+python -I scripts/evaluate.py --no-cosine
+```
+
+Lệnh này tính lại Jaccard, Token Overlap, BLEU và ROUGE-L. Cosine cần model embedding nên được giữ nguyên từ lần chạy GPU (bỏ `--no-cosine` để tính lại, khoảng 5 phút trên CPU).
+Kết quả phải trùng với bảng sau. Có thể kiểm tra bằng lệnh dưới đây: nếu lệnh không in ra gì thì kết quả đã khớp.
+
+```bash
+git diff results/metrics/summary.csv
+```
+
+Các file kết quả từng câu (`results/metrics/<cấu hình>.csv`) có thể khác ở chữ số thập phân thứ 16, tùy phiên bản pandas. Khác biệt này không ảnh hưởng đến kết quả. Muốn đưa các file về như cũ thì chạy `git checkout results/metrics`.
+
+| Cấu hình (200 câu) | Cosine | Jaccard | Token Overlap | BLEU | ROUGE-L |
+|---|---|---|---|---|---|
+| baseline | 0,6991 | 0,2012 | 0,7675 | 0,1173 | 0,0959 |
+| baseline_noecho | 0,5768 | 0,1510 | 0,1064 | 0,0426 | 0,1127 |
+| E_full_fewshot (hệ thống cuối) | 0,7636 | 0,3063 | 0,3692 | 0,2740 | 0,2463 |
+
+**2. Dựng lại dữ liệu, chunk và chỉ mục BM25** (khoảng 5 phút). Đây là các lệnh ở mục [Bước CPU](#-bước-cpu-khoảng-5-phút-ram--8gb) bên dưới.
+Kết quả đúng khi:
+- `build_corpus.py` in ra `16439 documents`;
+- `prepare_data.py` in ra `eval_set.csv: 200 rows ({'not_covered': 149, 'covered': 51})`;
+- `build_chunks.py --strategy legal` in ra `384,612 chunks`;
+- `eval_retrieval.py` in ra `hybrid_legal_rerank` có DocRecall@1 = 0,608 và DocRecall@5 = 0,863 (đọc lại từ file kết quả có sẵn), còn `bm25_legal` có DocRecall@5 = 0,784.
+
+`data/` và `results/eda/` sinh ra giống hệt bản đã nộp.
+
+**3. Chạy demo không cần GPU.** Demo chỉ hiện các đoạn văn bản tìm được, chưa có LLM sinh câu trả lời. Cần làm bước 2 trước.
+
+```bash
+python -I app/demo.py --llm extractive --cli "Mức lương cơ sở từ 01/7/2024 là bao nhiêu?"
+```
+
+Kết quả đúng: nguồn đầu tiên là Kết luận 83-KL/TW, có đoạn "điều chỉnh mức lương cơ sở từ 1,8 triệu đồng lên 2,34 triệu đồng … kể từ ngày 01/7/2024".
+
+Bản demo đầy đủ có LLM chạy trên GPU (xem mục [Demo](#demo)). Nếu không có GPU, xem `notebooks/demo_chatbox.ipynb`: notebook này đã có sẵn output của lần chạy trên Kaggle.
+
 ## Chạy lại từ đầu
 
-### 🟢 Bước CPU (khoảng 8 phút, RAM ≥ 8GB)
+### 🟢 Bước CPU (khoảng 5 phút, RAM ≥ 8GB)
 
 ```bash
 python -I scripts/build_corpus.py
