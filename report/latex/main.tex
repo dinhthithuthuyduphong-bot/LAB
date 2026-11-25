@@ -4,6 +4,7 @@
 \usepackage[T5]{fontenc}
 \usepackage[vietnamese]{babel}
 \usepackage{lmodern}
+\renewcommand{\rmdefault}{utm}   % Times (URW, hỗ trợ tiếng Việt), font chữ của chuẩn IEEE
 \usepackage{microtype}     % giảm tràn lề
 \emergencystretch=2em
 \usepackage[a4paper,margin=2.3cm]{geometry}
@@ -21,10 +22,12 @@
 \usepackage{xurl}          % URL / đường dẫn dài được ngắt dòng
 \usepackage{tikz}
 \usetikzlibrary{positioning,arrows.meta,shapes.geometric}
+\usepackage{cite}          % trích dẫn số theo IEEE: [1], [2]--[4]
 \usepackage[colorlinks=true,linkcolor=blue!50!black,urlcolor=blue!60!black,citecolor=blue!50!black]{hyperref}
 
 \graphicspath{{figures/}}
 \setlist{nosep,leftmargin=*}
+\addto\captionsvietnamese{\renewcommand{\refname}{Tài liệu tham khảo}}
 \newcommand{\best}[1]{\textbf{#1}}
 \newcommand{\file}[1]{\path{#1}}
 \captionsetup{font=small}
@@ -32,18 +35,42 @@
 % ======================= THÔNG TIN — SỬA Ở ĐÂY =======================
 \newcommand{\hoten}{Đinh Thị Thu Thủy}
 \newcommand{\mssv}{2570508}
-\newcommand{\lop}{Môn học: Mô hình ngôn ngữ lớn / Nhóm: CH01}
+\newcommand{\monhoc}{Mô hình ngôn ngữ lớn}
+\newcommand{\nhom}{CH01}
+\newcommand{\vaitro}{Sinh viên thực hiện}   % đổi thành "Học viên thực hiện" nếu là học viên cao học
+\newcommand{\gvhd}{Quản Thành Thơ}
+\newcommand{\khoa}{KHOA KHOA HỌC VÀ KỸ THUẬT MÁY TÍNH}
 \newcommand{\githublink}{https://github.com/dinhthithuthuyduphong-bot/LAB/tree/RAG-based-chatbot-system}
 \newcommand{\videolink}{https://youtu.be/sOus4EisfnE}       % link video demo (YouTube)
 % =====================================================================
 
-\title{\textbf{Báo cáo bài tập lớn}\\[4pt]
-\Large Retrieval-Augmented Generation:\\ Chatbot hỏi đáp pháp luật đơn giản}
-\author{\hoten\quad--\quad\mssv\\ \lop\\[4pt] Giảng viên hướng dẫn: Thầy Quản Thành Thơ}
-\date{\today}
-
 \begin{document}
-\maketitle
+\begin{titlepage}
+\centering
+{\large ĐẠI HỌC QUỐC GIA THÀNH PHỐ HỒ CHÍ MINH\\[2pt]
+TRƯỜNG ĐẠI HỌC BÁCH KHOA\\[2pt]
+\textbf{\khoa}\par}
+\vspace{1.2cm}
+% Logo: đặt file figures/logo_hcmut.png (logo chính thức của trường) để logo tự hiện ở đây.
+\IfFileExists{figures/logo_hcmut.png}{\includegraphics[width=4.2cm]{logo_hcmut.png}\par\vspace{1.2cm}}{\vspace{3cm}}
+{\Large\textbf{\MakeUppercase{\monhoc}}\par}
+\vspace{0.8cm}
+{\large BÁO CÁO BÀI TẬP LỚN\par}
+\vspace{0.6cm}
+\rule{\linewidth}{0.8pt}\par\vspace{0.3cm}
+{\LARGE\textbf{CẢI TIẾN HỆ THỐNG RAG\\[4pt] CHO CHATBOT HỎI ĐÁP PHÁP LUẬT}\par}
+\vspace{0.2cm}\rule{\linewidth}{0.8pt}\par
+\vspace{1.8cm}
+{\large
+\begin{tabular}{@{}ll@{}}
+Giảng viên hướng dẫn: & \gvhd \\[4pt]
+\vaitro: & \hoten \\[4pt]
+MSSV: & \mssv \\[4pt]
+Nhóm: & \nhom \\
+\end{tabular}\par}
+\vfill
+{\large TP. Hồ Chí Minh, tháng \the\month/\the\year\par}
+\end{titlepage}
 
 \begin{abstract}
 Em cải tiến hệ thống RAG baseline (\texttt{vietnamese-sbert} + FAISS + \texttt{Qwen1.5-1.8B}) cho bài toán hỏi đáp pháp luật tiếng Việt.
@@ -173,6 +200,7 @@ Notebook gốc chỉ chạy 30 câu; em chạy lại baseline trên đúng 200 c
 \section{Phương pháp cải tiến}
 \begin{table}[H]
 \centering\small
+\caption{So sánh từng thành phần của baseline và hệ thống cải tiến.}
 \begin{tabularx}{\linewidth}{@{}l>{\raggedright}p{2.6cm}X@{}}
 \toprule
 & \textbf{Baseline} & \textbf{Cải tiến} \\
@@ -187,7 +215,6 @@ Few-shot & -- & 1 ví dụ hỏi--đáp cố định, chỉ lấy từ phần d�
 Hậu xử lý & -- & bỏ prompt bị lặp, token đặc biệt và câu lặp \\
 \bottomrule
 \end{tabularx}
-\caption{So sánh từng thành phần của baseline và hệ thống cải tiến.}
 \end{table}
 
 \paragraph{Lý do lựa chọn.}
@@ -207,6 +234,8 @@ Các công thức metric giống hệt notebook baseline (có kiểm thử tự 
 \subsection{Retrieval}
 \begin{table}[H]
 \centering\small
+\caption{Retrieval, chưa dùng LLM. DocRecall/MRR tính trên 51 câu covered. CtxTokenRecall là tỷ lệ từ của câu trả lời tham chiếu có mặt trong ngữ cảnh lấy về (tính trên cả 200 câu).}
+\label{tab:retrieval}
 \begin{tabular}{@{}lccccc@{}}
 \toprule
 Cấu hình ($k=5$) & DocRecall@1 & DocRecall@5 & MRR & CtxTokenRecall & Ký tự ngữ cảnh \\
@@ -218,8 +247,6 @@ Hybrid (RRF) & 0{,}471 & 0{,}843 & 0{,}622 & 0{,}653 & 3.841 \\
 Hybrid + rerank & \best{0{,}608} & \best{0{,}863} & \best{0{,}727} & 0{,}655 & 3.960 \\
 \bottomrule
 \end{tabular}
-\caption{Retrieval, chưa dùng LLM. DocRecall/MRR tính trên 51 câu covered. CtxTokenRecall là tỷ lệ từ của câu trả lời tham chiếu có mặt trong ngữ cảnh lấy về (tính trên cả 200 câu).}
-\label{tab:retrieval}
 \end{table}
 
 \begin{figure}[H]
@@ -234,6 +261,8 @@ CtxTokenRecall cao nhất ở chunk 2.000 chỉ vì ngữ cảnh dài gấp 2{,}
 \subsection{Kết quả chính và ablation}
 \begin{table}[H]
 \centering\small
+\caption{Kết quả trên 200 câu, mỗi dòng thêm một thành phần. ($^{*}$) cao giả tạo vì output có lẫn khoảng 2.400 từ prompt và ngữ cảnh (mục 3). F được báo cáo riêng (mục 5.5).}
+\label{tab:main}
 \resizebox{\linewidth}{!}{%
 \begin{tabular}{@{}lcccccr@{}}
 \toprule
@@ -251,8 +280,6 @@ D: + rerank & 0{,}7517 & \best{0{,}3120} & 0{,}3692 & \best{0{,}2784} & 0{,}2424
 \emph{F: E + hỏi--đáp tương tự làm tham khảo} & \emph{0{,}7676} & \emph{0{,}3692} & \emph{0{,}4187} & \emph{0{,}3276} & \emph{0{,}3099} & \emph{242} \\
 \bottomrule
 \end{tabular}}
-\caption{Kết quả trên 200 câu, mỗi dòng thêm một thành phần. ($^{*}$) cao giả tạo vì output có lẫn khoảng 2.400 từ prompt và ngữ cảnh (mục 3). F được báo cáo riêng (mục 5.5).}
-\label{tab:main}
 \end{table}
 
 \begin{figure}[H]
@@ -262,6 +289,7 @@ D: + rerank & 0{,}7517 & \best{0{,}3120} & 0{,}3692 & \best{0{,}2784} & 0{,}2424
 
 \begin{table}[H]
 \centering\small
+\caption{Mức cải thiện của hệ thống cuối. BLEU (đo precision, có brevity penalty) và ROUGE-L (F1) không bị ảnh hưởng bởi việc lẫn prompt như Token Overlap.}
 \resizebox{\linewidth}{!}{%
 \begin{tabular}{@{}lccccc@{}}
 \toprule
@@ -271,7 +299,6 @@ Baseline (gốc) & +0{,}065 (+9\%) & +0{,}105 (+52\%) & $-0{,}398^{*}$ & +0{,}15
 Baseline\_noecho & +0{,}187 (+32\%) & +0{,}155 (+103\%) & +0{,}263 (+247\%) & +0{,}231 (+543\%) & +0{,}134 (+119\%) \\
 \bottomrule
 \end{tabular}}
-\caption{Mức cải thiện của hệ thống cuối. BLEU (đo precision, có brevity penalty) và ROUGE-L (F1) không bị ảnh hưởng bởi việc lẫn prompt như Token Overlap.}
 \end{table}
 
 \subsection{Phân tích theo nhóm câu hỏi}
@@ -293,6 +320,7 @@ Baseline\_noecho & +0{,}187 (+32\%) & +0{,}155 (+103\%) & +0{,}263 (+247\%) & +0
 \subsection{Phân tích lỗi}
 \begin{table}[H]
 \centering\small
+\caption{``Bịa số hiệu'': câu trả lời nhắc một số hiệu văn bản không xuất hiện ở đâu trong ngữ cảnh lấy về.}
 \begin{tabular}{@{}lccc@{}}
 \toprule
 Cấu hình & Bịa số hiệu (covered / not\_cov.) & Nói ``không tìm thấy'' & Mở đầu ``Căn cứ\dots'' \\
@@ -303,7 +331,6 @@ D & 6\% / 17\% & 6\% / 11\% & 100\% / 97\% \\
 E & \best{2\% / 11\%} & 16\% / 17\% & 77\% / 66\% \\
 \bottomrule
 \end{tabular}
-\caption{``Bịa số hiệu'': câu trả lời nhắc một số hiệu văn bản không xuất hiện ở đâu trong ngữ cảnh lấy về.}
 \end{table}
 
 \begin{itemize}
@@ -355,39 +382,9 @@ Retrieval tốt hơn (chunk theo Điều, hybrid, rerank) tăng thêm mạnh ở
 (ROUGE-L từ 0{,}215 lên 0{,}329--0{,}350) và giảm rõ việc bịa số hiệu văn bản (từ 31--35\% xuống 2--11\%).
 
 % =====================================================================
-\renewcommand{\refname}{Tài liệu tham khảo}
 \phantomsection\addcontentsline{toc}{section}{Tài liệu tham khảo}
-\begin{thebibliography}{99}\small\setlength{\itemsep}{2pt}
-\bibitem{assignment} Quản Thành Thơ. \emph{Retrieval Augmented Generation Assignment: Building a Simple Law Chatbot}. Đề bài môn học, phiên bản 1.0, 9/11/2025.
-\bibitem{lewis2020rag} P. Lewis, E. Perez, A. Piktus, F. Petroni, V. Karpukhin, N. Goyal, H. Küttler, M. Lewis, W. Yih, T. Rocktäschel, S. Riedel, D. Kiela.
-  Retrieval-augmented generation for knowledge-intensive NLP tasks. In \emph{Advances in Neural Information Processing Systems 33 (NeurIPS 2020)}, pp.~9459--9474, 2020.
-\bibitem{manning2008ir} C.~D. Manning, P. Raghavan, H. Schütze. \emph{Introduction to Information Retrieval}. Cambridge University Press, 2008.
-\bibitem{papineni2002bleu} K. Papineni, S. Roukos, T. Ward, W.-J. Zhu. BLEU: a method for automatic evaluation of machine translation.
-  In \emph{Proceedings of the 40th Annual Meeting of the ACL}, pp.~311--318, Philadelphia, 2002.
-\bibitem{lin2004rouge} C.-Y. Lin. ROUGE: A package for automatic evaluation of summaries. In \emph{Text Summarization Branches Out (ACL Workshop)}, pp.~74--81, Barcelona, 2004.
-\bibitem{reimers2019sbert} N. Reimers, I. Gurevych. Sentence-BERT: Sentence embeddings using Siamese BERT-networks.
-  In \emph{Proceedings of EMNLP-IJCNLP 2019}, pp.~3982--3992, 2019.
-\bibitem{vietsbert} keepitreal. \texttt{vietnamese-sbert} (mô hình embedding câu tiếng Việt). Hugging Face, \url{https://huggingface.co/keepitreal/vietnamese-sbert}.
-\bibitem{johnson2021faiss} J. Johnson, M. Douze, H. Jégou. Billion-scale similarity search with GPUs. \emph{IEEE Transactions on Big Data}, 7(3):535--547, 2021. arXiv:1702.08734.
-\bibitem{qwen15} Qwen Team. Introducing Qwen1.5. Blog, 2/2024. \url{https://qwenlm.github.io/blog/qwen1.5/}.
-\bibitem{qwen25} Qwen Team (A. Yang và cộng sự). Qwen2.5 Technical Report. arXiv:2412.15115, 2024.
-\bibitem{langchain} H. Chase. LangChain. Phần mềm mã nguồn mở, 2022. \url{https://github.com/langchain-ai/langchain}.
-\bibitem{wolf2020transformers} T. Wolf và cộng sự. Transformers: State-of-the-art natural language processing.
-  In \emph{Proceedings of EMNLP 2020: System Demonstrations}, pp.~38--45, 2020.
-\bibitem{robertson2009bm25} S. Robertson, H. Zaragoza. The probabilistic relevance framework: BM25 and beyond.
-  \emph{Foundations and Trends in Information Retrieval}, 3(4):333--389, 2009.
-\bibitem{bkaibiencoder} BKAI Foundation Models Lab. \texttt{vietnamese-bi-encoder}. Hugging Face, \url{https://huggingface.co/bkai-foundation-models/vietnamese-bi-encoder}.
-\bibitem{duc2024vietrag} Nguyen Quang Duc, Le Hai Son, Nguyen Duc Nhan, Nguyen Dich Nhat Minh, Le Thanh Huong, Dinh Viet Sang.
-  Towards comprehensive Vietnamese retrieval-augmented generation and large language models. arXiv:2403.01616, 2024.
-\bibitem{nguyen2020phobert} D.~Q. Nguyen, A.~T. Nguyen. PhoBERT: Pre-trained language models for Vietnamese.
-  In \emph{Findings of the Association for Computational Linguistics: EMNLP 2020}, pp.~1037--1042, 2020.
-\bibitem{pyvi} Trung Tran Viet. pyvi: Python Vietnamese Core NLP Toolkit. \url{https://github.com/trungtv/pyvi}.
-\bibitem{cormack2009rrf} G.~V. Cormack, C.~L.~A. Clarke, S. Büttcher. Reciprocal rank fusion outperforms Condorcet and individual rank learning methods.
-  In \emph{Proceedings of SIGIR 2009}, pp.~758--759, 2009.
-\bibitem{chen2024m3} J. Chen, S. Xiao, P. Zhang, K. Luo, D. Lian, Z. Liu. M3-Embedding: Multi-linguality, multi-functionality, multi-granularity text embeddings through self-knowledge distillation.
-  In \emph{Findings of the Association for Computational Linguistics: ACL 2024}, pp.~2318--2335, 2024.
-\bibitem{bgereranker} BAAI. \texttt{bge-reranker-v2-m3}. Hugging Face, \url{https://huggingface.co/BAAI/bge-reranker-v2-m3}.
-\end{thebibliography}
+\bibliographystyle{IEEEtran}
+\bibliography{references}
 
 
 % =====================================================================

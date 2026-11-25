@@ -193,26 +193,47 @@ Retrieval tốt hơn (chunk theo Điều, hybrid, rerank) tăng thêm mạnh ở
 Hướng phát triển: bổ sung văn bản ngân hàng (NHNN) và các văn bản năm 2024–2025 vào corpus, vì đây là phần lớn câu hỏi trong RES.
 
 ## Tài liệu tham khảo
-1. Quản Thành Thơ. *Retrieval Augmented Generation Assignment: Building a Simple Law Chatbot*. Đề bài môn học, phiên bản 1.0, 9/11/2025.
-2. P. Lewis, E. Perez, A. Piktus, F. Petroni, V. Karpukhin, N. Goyal, H. Küttler, M. Lewis, W. Yih, T. Rocktäschel, S. Riedel, D. Kiela. Retrieval-augmented generation for knowledge-intensive NLP tasks. *NeurIPS 2020*, pp. 9459–9474.
-3. C. D. Manning, P. Raghavan, H. Schütze. *Introduction to Information Retrieval*. Cambridge University Press, 2008.
-4. K. Papineni, S. Roukos, T. Ward, W.-J. Zhu. BLEU: a method for automatic evaluation of machine translation. *ACL 2002*, pp. 311–318.
-5. C.-Y. Lin. ROUGE: A package for automatic evaluation of summaries. *Text Summarization Branches Out (ACL Workshop)*, pp. 74–81, 2004.
-6. N. Reimers, I. Gurevych. Sentence-BERT: Sentence embeddings using Siamese BERT-networks. *EMNLP-IJCNLP 2019*, pp. 3982–3992.
-7. keepitreal. `vietnamese-sbert`. Hugging Face: https://huggingface.co/keepitreal/vietnamese-sbert
-8. J. Johnson, M. Douze, H. Jégou. Billion-scale similarity search with GPUs. *IEEE Transactions on Big Data*, 7(3):535–547, 2021. arXiv:1702.08734.
-9. Qwen Team. Introducing Qwen1.5. Blog, 2/2024: https://qwenlm.github.io/blog/qwen1.5/
-10. Qwen Team (A. Yang và cộng sự). Qwen2.5 Technical Report. arXiv:2412.15115, 2024.
-11. H. Chase. LangChain, 2022: https://github.com/langchain-ai/langchain
-12. T. Wolf và cộng sự. Transformers: State-of-the-art natural language processing. *EMNLP 2020: System Demonstrations*, pp. 38–45.
-13. S. Robertson, H. Zaragoza. The probabilistic relevance framework: BM25 and beyond. *Foundations and Trends in Information Retrieval*, 3(4):333–389, 2009.
-14. BKAI Foundation Models Lab. `vietnamese-bi-encoder`. Hugging Face: https://huggingface.co/bkai-foundation-models/vietnamese-bi-encoder
-15. Nguyen Quang Duc, Le Hai Son, Nguyen Duc Nhan, Nguyen Dich Nhat Minh, Le Thanh Huong, Dinh Viet Sang. Towards comprehensive Vietnamese retrieval-augmented generation and large language models. arXiv:2403.01616, 2024.
-16. D. Q. Nguyen, A. T. Nguyen. PhoBERT: Pre-trained language models for Vietnamese. *Findings of EMNLP 2020*, pp. 1037–1042.
-17. Trung Tran Viet. pyvi: Python Vietnamese Core NLP Toolkit: https://github.com/trungtv/pyvi
-18. G. V. Cormack, C. L. A. Clarke, S. Büttcher. Reciprocal rank fusion outperforms Condorcet and individual rank learning methods. *SIGIR 2009*, pp. 758–759.
-19. J. Chen, S. Xiao, P. Zhang, K. Luo, D. Lian, Z. Liu. M3-Embedding: Multi-linguality, multi-functionality, multi-granularity text embeddings through self-knowledge distillation. *Findings of ACL 2024*, pp. 2318–2335.
-20. BAAI. `bge-reranker-v2-m3`. Hugging Face: https://huggingface.co/BAAI/bge-reranker-v2-m3
+Định dạng theo chuẩn IEEE, đánh số theo thứ tự trích dẫn trong bản PDF (`report/latex/main.pdf`).
+
+[1] P. Lewis, E. Perez, A. Piktus, F. Petroni, V. Karpukhin, N. Goyal *et al.*, "Retrieval-augmented generation for knowledge-intensive NLP tasks," in *Advances in Neural Information Processing Systems*, vol. 33, 2020, pp. 9459–9474.
+
+[2] T. Quan, "Retrieval augmented generation assignment: Building a simple law chatbot," Course assignment, version 1.0, Nov. 2025.
+
+[3] C. D. Manning, P. Raghavan, and H. Schütze, *Introduction to Information Retrieval*. Cambridge, U.K.: Cambridge University Press, 2008.
+
+[4] K. Papineni, S. Roukos, T. Ward, and W.-J. Zhu, "BLEU: A method for automatic evaluation of machine translation," in *Proc. 40th Annu. Meeting Assoc. Comput. Linguistics (ACL)*, Philadelphia, PA, USA, 2002, pp. 311–318.
+
+[5] C.-Y. Lin, "ROUGE: A package for automatic evaluation of summaries," in *Text Summarization Branches Out*, Barcelona, Spain, 2004, pp. 74–81.
+
+[6] keepitreal, "vietnamese-sbert," Hugging Face model, accessed: Nov. 25, 2026. [Online]. Available: https://huggingface.co/keepitreal/vietnamese-sbert
+
+[7] N. Reimers and I. Gurevych, "Sentence-BERT: Sentence embeddings using Siamese BERT-networks," in *Proc. 2019 Conf. Empirical Methods Natural Lang. Process. and 9th Int. Joint Conf. Natural Lang. Process. (EMNLP-IJCNLP)*, Hong Kong, China, 2019, pp. 3982–3992.
+
+[8] J. Johnson, M. Douze, and H. Jégou, "Billion-scale similarity search with GPUs," *IEEE Trans. Big Data*, vol. 7, no. 3, pp. 535–547, 2021.
+
+[9] Qwen Team, "Introducing Qwen1.5," Qwen blog, Feb. 2024, accessed: Nov. 25, 2026. [Online]. Available: https://qwenlm.github.io/blog/qwen1.5/
+
+[10] H. Chase, "LangChain," GitHub repository, 2022, accessed: Nov. 25, 2026. [Online]. Available: https://github.com/langchain-ai/langchain
+
+[11] T. Wolf, L. Debut, V. Sanh, J. Chaumond, C. Delangue, A. Moi *et al.*, "Transformers: State-of-the-art natural language processing," in *Proc. 2020 Conf. Empirical Methods Natural Lang. Process.: Syst. Demonstrations*, 2020, pp. 38–45.
+
+[12] S. Robertson and H. Zaragoza, "The probabilistic relevance framework: BM25 and beyond," *Found. Trends Inf. Retr.*, vol. 3, no. 4, pp. 333–389, 2009.
+
+[13] BKAI Foundation Models Lab, "vietnamese-bi-encoder," Hugging Face model, accessed: Nov. 25, 2026. [Online]. Available: https://huggingface.co/bkai-foundation-models/vietnamese-bi-encoder
+
+[14] Q. D. Nguyen, H. S. Le, D. N. Nguyen, D. N. M. Nguyen, T. H. Le, and V. S. Dinh, "Towards comprehensive Vietnamese retrieval-augmented generation and large language models," arXiv:2403.01616, 2024.
+
+[15] D. Q. Nguyen and A. T. Nguyen, "PhoBERT: Pre-trained language models for Vietnamese," in *Findings Assoc. Comput. Linguistics: EMNLP 2020*, 2020, pp. 1037–1042.
+
+[16] V. T. Tran, "Pyvi: Python Vietnamese core NLP toolkit," GitHub repository, accessed: Nov. 25, 2026. [Online]. Available: https://github.com/trungtv/pyvi
+
+[17] G. V. Cormack, C. L. A. Clarke, and S. Büttcher, "Reciprocal rank fusion outperforms Condorcet and individual rank learning methods," in *Proc. 32nd Int. ACM SIGIR Conf. Res. Develop. Inf. Retrieval*, Boston, MA, USA, 2009, pp. 758–759.
+
+[18] BAAI, "bge-reranker-v2-m3," Hugging Face model, accessed: Nov. 25, 2026. [Online]. Available: https://huggingface.co/BAAI/bge-reranker-v2-m3
+
+[19] J. Chen, S. Xiao, P. Zhang, K. Luo, D. Lian, and Z. Liu, "M3-Embedding: Multi-linguality, multi-functionality, multi-granularity text embeddings through self-knowledge distillation," in *Findings Assoc. Comput. Linguistics: ACL 2024*, Bangkok, Thailand, 2024, pp. 2318–2335.
+
+[20] Qwen Team, "Qwen2.5 technical report," arXiv:2412.15115, 2024.
 
 ## Phụ lục: mã nguồn, dữ liệu và hướng dẫn chạy lại
 Toàn bộ bài nộp nằm trong repo https://github.com/dinhthithuthuyduphong-bot/LAB, nhánh `RAG-based-chatbot-system`.
