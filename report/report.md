@@ -49,12 +49,12 @@ Baseline gồm: chunk 2000/50 ký tự trên văn bản đã chuyển hết sang
 prompt 3 dòng → `Qwen/Qwen1.5-1.8B` (bản *base*, chưa tinh chỉnh để làm theo chỉ dẫn), greedy, `max_new_tokens=256`.
 
 Hai điểm cần lưu ý khi tái lập:
-1. Notebook gốc chỉ chạy `df.head(30)`. Tôi chạy lại baseline với đúng cấu hình đó trên 200 câu của tập eval.
+1. Notebook gốc chỉ chạy `df.head(30)`. Em chạy lại baseline với đúng cấu hình đó trên 200 câu của tập eval.
 2. **Output của baseline có lẫn prompt.** `HuggingFacePipeline.generate` của LangChain mặc định `skip_prompt=False`,
-   còn transformers mặc định `return_full_text=True`. Tôi đã kiểm tra điều này trong mã nguồn `langchain_huggingface`.
+   còn transformers mặc định `return_full_text=True`. Em đã kiểm tra điều này trong mã nguồn `langchain_huggingface`.
    Vì vậy chuỗi được chấm điểm gồm cả prompt và 5 chunk ngữ cảnh: trung bình **2.369 từ**, so với 351 từ của câu tham chiếu.
    Token Overlap đo tỷ lệ từ của câu tham chiếu xuất hiện trong output, nên được lợi rất lớn từ output dài như vậy (0,768).
-   Tôi báo cáo cả hai phiên bản:
+   Em báo cáo cả hai phiên bản:
    - `baseline`: giữ nguyên hành vi gốc, dùng làm mốc chính thức;
    - `baseline_noecho`: chỉ chấm phần mô hình sinh ra. Phần này trung bình 79 từ và thường chỉ lặp lại câu hỏi.
 
@@ -136,7 +136,7 @@ BLEU (đo precision, có brevity penalty) và ROUGE-L (F1) phản ánh đúng h�
   Đúng như dự đoán: retrieval tốt hơn chỉ giúp khi văn bản nguồn có trong corpus.
 - **C: hybrid** cải thiện nhẹ trên toàn bộ. **D: rerank** cho điểm covered cao nhất (ROUGE-L 0,350, Cosine 0,843) và Jaccard/BLEU tổng cao nhất.
 - **E: few-shot** cho Cosine và ROUGE-L tổng cao nhất, tốt nhất ở nhóm not_covered, và **ít bịa số hiệu nhất** (5.3).
-  Đổi lại, điểm covered giảm nhẹ so với D. Vì vậy tôi chọn E làm hệ thống cuối; D là phương án thay thế gần tương đương.
+  Đổi lại, điểm covered giảm nhẹ so với D. Vì vậy em chọn E làm hệ thống cuối; D là phương án thay thế gần tương đương.
 
 ### 5.3 Phân tích lỗi
 Thống kê từ `scripts/error_analysis.py`. "Bịa số hiệu" là trường hợp câu trả lời nhắc một số hiệu văn bản không xuất hiện ở đâu trong ngữ cảnh lấy về.
@@ -167,7 +167,7 @@ Những câu gần như trùng lặp (Jaccard > 0,8) đã bị loại.
 
 Kết quả: ROUGE-L tăng từ 0,246 lên 0,310, phần tăng gần như hoàn toàn ở nhóm not_covered (0,218 lên 0,310).
 Tuy nhiên, đây là tận dụng dữ liệu hỏi–đáp chứ không phải RAG trên corpus. Câu trả lời cũng thường chép số hiệu văn bản từ các cặp hỏi–đáp đó (35% ở not_covered).
-Vì vậy tôi **không** dùng F làm kết quả chính. F chỉ cho thấy nếu corpus có đúng văn bản ngân hàng thì hệ thống có thể đạt mức nào.
+Vì vậy em **không** dùng F làm kết quả chính. F chỉ cho thấy nếu corpus có đúng văn bản ngân hàng thì hệ thống có thể đạt mức nào.
 
 ## 6. Demo
 Chạy `app/demo.py` (giao diện Gradio có link công khai, hoặc `--cli` để hỏi từ dòng lệnh), hoặc dùng `notebooks/demo.ipynb`.
@@ -181,7 +181,7 @@ Video demo: https://youtu.be/sOus4EisfnE
 - Các metric đo độ trùng từ nên ưu tiên câu trả lời dài và theo mẫu. Chúng không đo được tính đúng đắn pháp lý (xem ví dụ Q29).
 - Model 3B đôi khi suy luận sai chi tiết (ngày, số liệu) dù đã lấy đúng văn bản.
 - Đánh giá trên 200/2.745 câu do giới hạn GPU miễn phí. Tập eval cố định và cố tình chứa toàn bộ 51 câu covered,
-  nên điểm trung bình "all" cao hơn một mẫu hoàn toàn ngẫu nhiên. Vì thế tôi báo cáo riêng từng nhóm.
+  nên điểm trung bình "all" cao hơn một mẫu hoàn toàn ngẫu nhiên. Vì thế em báo cáo riêng từng nhóm.
 
 ## 8. Kết luận
 Trên cùng 200 câu, hệ thống cải tiến (E) vượt baseline gốc ở Cosine (+9%), Jaccard (+52%), BLEU (+134%) và ROUGE-L (+157%).
@@ -192,6 +192,28 @@ Retrieval tốt hơn (chunk theo Điều, hybrid, rerank) tăng thêm mạnh ở
 
 Hướng phát triển: bổ sung văn bản ngân hàng (NHNN) và các văn bản năm 2024–2025 vào corpus, vì đây là phần lớn câu hỏi trong RES.
 
+## Tài liệu tham khảo
+1. Quản Thành Thơ. *Retrieval Augmented Generation Assignment: Building a Simple Law Chatbot*. Đề bài môn học, phiên bản 1.0, 9/11/2025.
+2. P. Lewis, E. Perez, A. Piktus, F. Petroni, V. Karpukhin, N. Goyal, H. Küttler, M. Lewis, W. Yih, T. Rocktäschel, S. Riedel, D. Kiela. Retrieval-augmented generation for knowledge-intensive NLP tasks. *NeurIPS 2020*, pp. 9459–9474.
+3. C. D. Manning, P. Raghavan, H. Schütze. *Introduction to Information Retrieval*. Cambridge University Press, 2008.
+4. K. Papineni, S. Roukos, T. Ward, W.-J. Zhu. BLEU: a method for automatic evaluation of machine translation. *ACL 2002*, pp. 311–318.
+5. C.-Y. Lin. ROUGE: A package for automatic evaluation of summaries. *Text Summarization Branches Out (ACL Workshop)*, pp. 74–81, 2004.
+6. N. Reimers, I. Gurevych. Sentence-BERT: Sentence embeddings using Siamese BERT-networks. *EMNLP-IJCNLP 2019*, pp. 3982–3992.
+7. keepitreal. `vietnamese-sbert`. Hugging Face: https://huggingface.co/keepitreal/vietnamese-sbert
+8. J. Johnson, M. Douze, H. Jégou. Billion-scale similarity search with GPUs. *IEEE Transactions on Big Data*, 7(3):535–547, 2021. arXiv:1702.08734.
+9. Qwen Team. Introducing Qwen1.5. Blog, 2/2024: https://qwenlm.github.io/blog/qwen1.5/
+10. Qwen Team (A. Yang và cộng sự). Qwen2.5 Technical Report. arXiv:2412.15115, 2024.
+11. H. Chase. LangChain, 2022: https://github.com/langchain-ai/langchain
+12. T. Wolf và cộng sự. Transformers: State-of-the-art natural language processing. *EMNLP 2020: System Demonstrations*, pp. 38–45.
+13. S. Robertson, H. Zaragoza. The probabilistic relevance framework: BM25 and beyond. *Foundations and Trends in Information Retrieval*, 3(4):333–389, 2009.
+14. BKAI Foundation Models Lab. `vietnamese-bi-encoder`. Hugging Face: https://huggingface.co/bkai-foundation-models/vietnamese-bi-encoder
+15. Nguyen Quang Duc, Le Hai Son, Nguyen Duc Nhan, Nguyen Dich Nhat Minh, Le Thanh Huong, Dinh Viet Sang. Towards comprehensive Vietnamese retrieval-augmented generation and large language models. arXiv:2403.01616, 2024.
+16. D. Q. Nguyen, A. T. Nguyen. PhoBERT: Pre-trained language models for Vietnamese. *Findings of EMNLP 2020*, pp. 1037–1042.
+17. Trung Tran Viet. pyvi: Python Vietnamese Core NLP Toolkit: https://github.com/trungtv/pyvi
+18. G. V. Cormack, C. L. A. Clarke, S. Büttcher. Reciprocal rank fusion outperforms Condorcet and individual rank learning methods. *SIGIR 2009*, pp. 758–759.
+19. J. Chen, S. Xiao, P. Zhang, K. Luo, D. Lian, Z. Liu. M3-Embedding: Multi-linguality, multi-functionality, multi-granularity text embeddings through self-knowledge distillation. *Findings of ACL 2024*, pp. 2318–2335.
+20. BAAI. `bge-reranker-v2-m3`. Hugging Face: https://huggingface.co/BAAI/bge-reranker-v2-m3
+
 ## Phụ lục: mã nguồn, dữ liệu và hướng dẫn chạy lại
 Toàn bộ bài nộp nằm trong repo https://github.com/dinhthithuthuyduphong-bot/LAB, nhánh `RAG-based-chatbot-system`.
 
@@ -199,7 +221,7 @@ Toàn bộ bài nộp nằm trong repo https://github.com/dinhthithuthuyduphong-
 |---|---|
 | Mã nguồn | `src/`, `scripts/`, `app/`, `notebooks/`, `tests/` |
 | Dữ liệu | `Dataset/export_1/` (16.439 văn bản), `doc/RES.xlsx` (2.745 cặp QA), `data/eval_set.csv` (200 câu đánh giá). Đã nằm trong git |
-| Hướng dẫn | `README.md`: cài đặt, kiểm tra nhanh cho người chấm, chạy lại từ đầu, demo |
+| Hướng dẫn | `README.md`: cài đặt, kiểm tra nhanh (không cần GPU), chạy lại từ đầu, demo |
 
 - **Kiểm tra nhanh, không cần GPU (khoảng 10 phút):** tính lại metric từ câu trả lời đã lưu bằng `python -I scripts/evaluate.py --no-cosine`, dựng lại dữ liệu và chỉ mục BM25 (khoảng 5 phút), rồi chạy demo `--llm extractive`.
   Kết quả mong đợi ghi trong README. Phần CPU đã được chạy lại từ một bản clone sạch, và kết quả khớp với bản đã nộp.

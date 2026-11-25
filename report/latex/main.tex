@@ -46,17 +46,17 @@
 \maketitle
 
 \begin{abstract}
-Tôi cải tiến hệ thống RAG baseline (\texttt{vietnamese-sbert} + FAISS + \texttt{Qwen1.5-1.8B}) cho bài toán hỏi đáp pháp luật tiếng Việt.
+Em cải tiến hệ thống RAG baseline (\texttt{vietnamese-sbert} + FAISS + \texttt{Qwen1.5-1.8B}) cho bài toán hỏi đáp pháp luật tiếng Việt.
 Hệ thống cuối gồm: tiền xử lý văn bản và tách metadata, chia đoạn theo cấu trúc Chương/Điều, tìm kiếm kết hợp BM25 + dense (RRF),
 xếp hạng lại bằng cross-encoder, mô hình \texttt{Qwen2.5-3B-Instruct} và prompt theo mẫu câu trả lời pháp lý kèm một ví dụ few-shot.
 Trên cùng \textbf{200 cặp hỏi--đáp} cố định, so với baseline, ROUGE-L tăng từ 0{,}096 lên 0{,}246 (+157\%), BLEU từ 0{,}117 lên 0{,}274 (+134\%),
 Jaccard từ 0{,}201 lên 0{,}306 (+52\%) và Cosine từ 0{,}699 lên 0{,}764 (+9\%).
 Phân tích dữ liệu cho thấy corpus (100\% thuộc lĩnh vực Lao động -- Tiền lương) gần như không chứa các văn bản mà bộ câu hỏi (chủ yếu về ngân hàng) trích dẫn.
-Tôi phân tích ảnh hưởng của điều này bằng cách báo cáo riêng hai nhóm câu hỏi.
+Em phân tích ảnh hưởng của điều này bằng cách báo cáo riêng hai nhóm câu hỏi.
 \end{abstract}
 
 \noindent\textbf{Tài liệu kèm theo.}
-Mã nguồn, dữ liệu và hướng dẫn chạy lại (manual): \url{\githublink}. Cách cài đặt và chạy lại tóm tắt ở Phụ lục~\ref{app:manual}.
+Mã nguồn, dữ liệu và hướng dẫn chạy lại (manual): \url{\githublink}. Thầy có thể làm theo Phụ lục~\ref{app:manual} để cài đặt và chạy lại toàn bộ kết quả, kể cả khi không có GPU.
 Video demo: \url{\videolink}.
 
 \tableofcontents
@@ -64,10 +64,10 @@ Video demo: \url{\videolink}.
 
 % =====================================================================
 \section{Giới thiệu}
-Retrieval-Augmented Generation (RAG) kết hợp bước tìm kiếm tài liệu liên quan với bước sinh câu trả lời bằng mô hình ngôn ngữ,
+Retrieval-Augmented Generation (RAG)~\cite{lewis2020rag} kết hợp bước tìm kiếm tài liệu liên quan với bước sinh câu trả lời bằng mô hình ngôn ngữ,
 giúp câu trả lời dựa trên văn bản thật thay vì chỉ dựa vào trí nhớ của mô hình.
-Bài tập yêu cầu cải tiến một hệ thống RAG baseline cho hỏi đáp pháp luật, với điều kiện dùng LLM dưới 4 tỷ tham số,
-và chứng minh cải tiến bằng các chỉ số Cosine, Jaccard/Token Overlap, BLEU và ROUGE-L.
+Bài tập~\cite{assignment} yêu cầu cải tiến một hệ thống RAG baseline cho hỏi đáp pháp luật, với điều kiện dùng LLM dưới 4 tỷ tham số,
+và chứng minh cải tiến bằng các chỉ số Cosine~\cite{manning2008ir}, Jaccard/Token Overlap, BLEU~\cite{papineni2002bleu} và ROUGE-L~\cite{lin2004rouge}.
 
 \textbf{Đóng góp chính:}
 \begin{enumerate}
@@ -158,16 +158,16 @@ Vì vậy tập đánh giá gồm \textbf{cả 51 câu có văn bản nguồn tr
 
 % =====================================================================
 \section{Baseline}
-Baseline: chunk 2.000/50 ký tự trên văn bản đã chuyển hết sang chữ thường $\rightarrow$ \path{keepitreal/vietnamese-sbert} $\rightarrow$ FAISS (L2), lấy top-5
-$\rightarrow$ prompt 3 dòng $\rightarrow$ \path{Qwen/Qwen1.5-1.8B} (bản \emph{base}, chưa tinh chỉnh để làm theo chỉ dẫn), greedy, \texttt{max\_new\_tokens}=256.
+Baseline: chunk 2.000/50 ký tự trên văn bản đã chuyển hết sang chữ thường $\rightarrow$ \path{keepitreal/vietnamese-sbert}~\cite{vietsbert,reimers2019sbert} $\rightarrow$ FAISS~\cite{johnson2021faiss} (L2), lấy top-5
+$\rightarrow$ prompt 3 dòng $\rightarrow$ \path{Qwen/Qwen1.5-1.8B}~\cite{qwen15} (bản \emph{base}, chưa tinh chỉnh để làm theo chỉ dẫn), greedy, \texttt{max\_new\_tokens}=256.
 
 \paragraph{Output của baseline có lẫn prompt.}
-\texttt{HuggingFacePipeline.generate} của LangChain mặc định \texttt{skip\_prompt=False}, còn transformers mặc định \texttt{return\_full\_text=True}.
-Tôi đã kiểm tra điều này trong mã nguồn \texttt{langchain\_huggingface}.
+\texttt{HuggingFacePipeline.generate} của LangChain~\cite{langchain} mặc định \texttt{skip\_prompt=False}, còn Transformers~\cite{wolf2020transformers} mặc định \texttt{return\_full\_text=True}.
+Em đã kiểm tra điều này trong mã nguồn \texttt{langchain\_huggingface}.
 Vì vậy chuỗi được chấm điểm gồm cả prompt và 5 chunk ngữ cảnh: trung bình \textbf{2.369 từ}, so với 351 từ của câu tham chiếu.
 Token Overlap đo tỷ lệ từ của câu tham chiếu xuất hiện trong output và không phạt độ dài, nên được lợi rất lớn (0{,}768).
-Tôi báo cáo cả \emph{baseline} (giữ nguyên hành vi gốc, dùng làm mốc chính thức) và \emph{baseline\_noecho} (chỉ chấm phần mô hình sinh ra).
-Notebook gốc chỉ chạy 30 câu; tôi chạy lại baseline trên đúng 200 câu của tập đánh giá.
+Em báo cáo cả \emph{baseline} (giữ nguyên hành vi gốc, dùng làm mốc chính thức) và \emph{baseline\_noecho} (chỉ chấm phần mô hình sinh ra).
+Notebook gốc chỉ chạy 30 câu; em chạy lại baseline trên đúng 200 câu của tập đánh giá.
 
 % =====================================================================
 \section{Phương pháp cải tiến}
@@ -179,9 +179,9 @@ Notebook gốc chỉ chạy 30 câu; tôi chạy lại baseline trên đúng 200
 \midrule
 Tiền xử lý & lowercase, \textbackslash n $\rightarrow$ space & chuẩn hóa NFC, nối dòng bị ngắt, \textbf{giữ hoa/thường}, tách metadata, bỏ MỤC LỤC/VĂN BẢN LIÊN QUAN \\
 Chunking & ký tự 2.000/50 & \textbf{theo Chương/Điều}, 1.000/150, cắt ở biên câu/từ; gắn \textbf{header} (tên văn bản, số hiệu, Điều) vào mỗi chunk. Tổng 384.612 chunk \\
-Retrieval & dense sbert & \textbf{BM25} (âm tiết + bigram) + dense \texttt{vietnamese-bi-encoder}, ghép bằng \textbf{RRF}; ưu tiên văn bản có số hiệu ghi trong câu hỏi; tối đa 3 chunk mỗi văn bản \\
-Reranking & -- & cross-encoder \texttt{bge-reranker-v2-m3}, lấy top-20 rồi giữ top-5 \\
-LLM & Qwen1.5-1.8B (base) & \textbf{Qwen2.5-3B-Instruct}, dùng chat template, greedy, repetition penalty 1{,}05, tối đa 640 token \\
+Retrieval & dense sbert & \textbf{BM25}~\cite{robertson2009bm25} (âm tiết + bigram) + dense \texttt{vietnamese-bi-encoder}~\cite{bkaibiencoder,duc2024vietrag} (nền PhoBERT~\cite{nguyen2020phobert}, tách từ bằng pyvi~\cite{pyvi}), ghép bằng \textbf{RRF}~\cite{cormack2009rrf}; ưu tiên văn bản có số hiệu ghi trong câu hỏi; tối đa 3 chunk mỗi văn bản \\
+Reranking & -- & cross-encoder \texttt{bge-reranker-v2-m3}~\cite{bgereranker,chen2024m3}, lấy top-20 rồi giữ top-5 \\
+LLM & Qwen1.5-1.8B (base) & \textbf{Qwen2.5-3B-Instruct}~\cite{qwen25}, dùng chat template, greedy, repetition penalty 1{,}05, tối đa 640 token \\
 Prompt & 3 dòng chung chung & vai luật sư; mẫu \textbf{``Căn cứ tại Điều \dots\ quy định:''}; nguồn đánh số kèm header và tình trạng hiệu lực; cấm bịa số hiệu/Điều; nói rõ khi không tìm thấy \\
 Few-shot & -- & 1 ví dụ hỏi--đáp cố định, chỉ lấy từ phần dữ liệu ngoài tập đánh giá \\
 Hậu xử lý & -- & bỏ prompt bị lặp, token đặc biệt và câu lặp \\
@@ -321,7 +321,7 @@ E & \best{2\% / 11\%} & 16\% / 17\% & 77\% / 66\% \\
 Cấu hình F thêm vào prompt 2 cặp hỏi--đáp tương tự nhất, lấy từ 2.545 cặp \emph{không thuộc} tập đánh giá; các câu gần như trùng lặp (Jaccard $>0{,}8$) bị loại.
 ROUGE-L tăng từ 0{,}246 lên 0{,}310, gần như hoàn toàn ở nhóm not\_covered (0{,}218 lên 0{,}310).
 Tuy nhiên đây là tận dụng dữ liệu hỏi--đáp chứ không phải RAG trên corpus, và câu trả lời thường chép số hiệu văn bản từ các cặp đó (35\% ở not\_covered).
-Vì vậy tôi \textbf{không} dùng F làm kết quả chính. F chỉ cho thấy nếu corpus có đúng văn bản ngân hàng thì hệ thống có thể đạt mức nào.
+Vì vậy em \textbf{không} dùng F làm kết quả chính. F chỉ cho thấy nếu corpus có đúng văn bản ngân hàng thì hệ thống có thể đạt mức nào.
 
 % =====================================================================
 \section{Demo}
@@ -355,17 +355,39 @@ Retrieval tốt hơn (chunk theo Điều, hybrid, rerank) tăng thêm mạnh ở
 (ROUGE-L từ 0{,}215 lên 0{,}329--0{,}350) và giảm rõ việc bịa số hiệu văn bản (từ 31--35\% xuống 2--11\%).
 
 % =====================================================================
-\section{Tài liệu tham khảo}
-\begin{enumerate}[label={[\arabic*]}]
-  \item P. Lewis et al. Retrieval-augmented generation for knowledge-intensive NLP tasks. NeurIPS 2020.
-  \item C.-Y. Lin. ROUGE: A package for automatic evaluation of summaries. 2004.
-  \item K. Papineni et al. BLEU: a method for automatic evaluation of machine translation. ACL 2002.
-  \item C. D. Manning, P. Raghavan, H. Schütze. Introduction to Information Retrieval. Cambridge University Press, 2008.
-  \item S. Robertson, H. Zaragoza. The Probabilistic Relevance Framework: BM25 and Beyond. 2009.
-  \item G. Cormack, C. Clarke, S. Büttcher. Reciprocal rank fusion outperforms Condorcet and individual rank learning methods. SIGIR 2009.
-  \item Qwen Team. Qwen2.5 Technical Report. 2024.
-  \item J. Chen et al. BGE M3-Embedding / bge-reranker. 2024.
-\end{enumerate}
+\renewcommand{\refname}{Tài liệu tham khảo}
+\phantomsection\addcontentsline{toc}{section}{Tài liệu tham khảo}
+\begin{thebibliography}{99}\small\setlength{\itemsep}{2pt}
+\bibitem{assignment} Quản Thành Thơ. \emph{Retrieval Augmented Generation Assignment: Building a Simple Law Chatbot}. Đề bài môn học, phiên bản 1.0, 9/11/2025.
+\bibitem{lewis2020rag} P. Lewis, E. Perez, A. Piktus, F. Petroni, V. Karpukhin, N. Goyal, H. Küttler, M. Lewis, W. Yih, T. Rocktäschel, S. Riedel, D. Kiela.
+  Retrieval-augmented generation for knowledge-intensive NLP tasks. In \emph{Advances in Neural Information Processing Systems 33 (NeurIPS 2020)}, pp.~9459--9474, 2020.
+\bibitem{manning2008ir} C.~D. Manning, P. Raghavan, H. Schütze. \emph{Introduction to Information Retrieval}. Cambridge University Press, 2008.
+\bibitem{papineni2002bleu} K. Papineni, S. Roukos, T. Ward, W.-J. Zhu. BLEU: a method for automatic evaluation of machine translation.
+  In \emph{Proceedings of the 40th Annual Meeting of the ACL}, pp.~311--318, Philadelphia, 2002.
+\bibitem{lin2004rouge} C.-Y. Lin. ROUGE: A package for automatic evaluation of summaries. In \emph{Text Summarization Branches Out (ACL Workshop)}, pp.~74--81, Barcelona, 2004.
+\bibitem{reimers2019sbert} N. Reimers, I. Gurevych. Sentence-BERT: Sentence embeddings using Siamese BERT-networks.
+  In \emph{Proceedings of EMNLP-IJCNLP 2019}, pp.~3982--3992, 2019.
+\bibitem{vietsbert} keepitreal. \texttt{vietnamese-sbert} (mô hình embedding câu tiếng Việt). Hugging Face, \url{https://huggingface.co/keepitreal/vietnamese-sbert}.
+\bibitem{johnson2021faiss} J. Johnson, M. Douze, H. Jégou. Billion-scale similarity search with GPUs. \emph{IEEE Transactions on Big Data}, 7(3):535--547, 2021. arXiv:1702.08734.
+\bibitem{qwen15} Qwen Team. Introducing Qwen1.5. Blog, 2/2024. \url{https://qwenlm.github.io/blog/qwen1.5/}.
+\bibitem{qwen25} Qwen Team (A. Yang và cộng sự). Qwen2.5 Technical Report. arXiv:2412.15115, 2024.
+\bibitem{langchain} H. Chase. LangChain. Phần mềm mã nguồn mở, 2022. \url{https://github.com/langchain-ai/langchain}.
+\bibitem{wolf2020transformers} T. Wolf và cộng sự. Transformers: State-of-the-art natural language processing.
+  In \emph{Proceedings of EMNLP 2020: System Demonstrations}, pp.~38--45, 2020.
+\bibitem{robertson2009bm25} S. Robertson, H. Zaragoza. The probabilistic relevance framework: BM25 and beyond.
+  \emph{Foundations and Trends in Information Retrieval}, 3(4):333--389, 2009.
+\bibitem{bkaibiencoder} BKAI Foundation Models Lab. \texttt{vietnamese-bi-encoder}. Hugging Face, \url{https://huggingface.co/bkai-foundation-models/vietnamese-bi-encoder}.
+\bibitem{duc2024vietrag} Nguyen Quang Duc, Le Hai Son, Nguyen Duc Nhan, Nguyen Dich Nhat Minh, Le Thanh Huong, Dinh Viet Sang.
+  Towards comprehensive Vietnamese retrieval-augmented generation and large language models. arXiv:2403.01616, 2024.
+\bibitem{nguyen2020phobert} D.~Q. Nguyen, A.~T. Nguyen. PhoBERT: Pre-trained language models for Vietnamese.
+  In \emph{Findings of the Association for Computational Linguistics: EMNLP 2020}, pp.~1037--1042, 2020.
+\bibitem{pyvi} Trung Tran Viet. pyvi: Python Vietnamese Core NLP Toolkit. \url{https://github.com/trungtv/pyvi}.
+\bibitem{cormack2009rrf} G.~V. Cormack, C.~L.~A. Clarke, S. Büttcher. Reciprocal rank fusion outperforms Condorcet and individual rank learning methods.
+  In \emph{Proceedings of SIGIR 2009}, pp.~758--759, 2009.
+\bibitem{chen2024m3} J. Chen, S. Xiao, P. Zhang, K. Luo, D. Lian, Z. Liu. M3-Embedding: Multi-linguality, multi-functionality, multi-granularity text embeddings through self-knowledge distillation.
+  In \emph{Findings of the Association for Computational Linguistics: ACL 2024}, pp.~2318--2335, 2024.
+\bibitem{bgereranker} BAAI. \texttt{bge-reranker-v2-m3}. Hugging Face, \url{https://huggingface.co/BAAI/bge-reranker-v2-m3}.
+\end{thebibliography}
 
 
 % =====================================================================
@@ -398,6 +420,7 @@ pip install -r requirements-gpu.txt    # chỉ khi có GPU
 \end{verbatim}
 
 \subsection{Kiểm tra nhanh, không cần GPU (khoảng 10 phút)}
+Thầy có thể kiểm tra lại kết quả chỉ bằng CPU theo ba bước sau.
 \begin{enumerate}
   \item \textbf{Tính lại metric} từ câu trả lời đã lưu: \verb|python -I scripts/evaluate.py --no-cosine|.
         Bốn metric từ vựng phải trùng với Bảng~\ref{tab:main}. Nếu lệnh \verb|git diff results/metrics/summary.csv| không in ra gì thì kết quả đã khớp.
@@ -419,7 +442,7 @@ python -I app/demo.py --llm extractive \
     --cli "Mức lương cơ sở từ 01/7/2024 là bao nhiêu?"
 \end{verbatim}
 \end{enumerate}
-Tôi đã chạy lại đúng các bước trên từ một bản clone sạch (Linux, Python 3.13, RAM 16GB).
+Em đã chạy lại đúng các bước trên từ một bản clone sạch (Linux, Python 3.13, RAM 16GB).
 Mọi bước đều chạy được, và \file{data/}, \file{results/eda/}, \file{results/metrics/} sinh ra khớp với bản đã nộp.
 
 \subsection{Chạy lại toàn bộ có GPU}

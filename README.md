@@ -13,7 +13,7 @@ Toàn bộ bài nộp nằm trong repo này, nhánh `RAG-based-chatbot-system`. 
 |---|---|---|
 | **Source code** | `src/`, `scripts/`, `app/`, `notebooks/`, `tests/` | Mô tả từng file ở mục [Cấu trúc](#cấu-trúc) |
 | **Dataset** | `Dataset/export_1/` (16.439 văn bản .txt, khoảng 442MB), `doc/RES.xlsx` (2.745 cặp QA) | Đã nằm trong git. `data/` chứa tập eval 200 câu cố định (seed 42) sinh từ RES.xlsx |
-| **Manual** | File này: [Cài đặt](#cài-đặt), [Kiểm tra nhanh cho người chấm](#kiểm-tra-nhanh-cho-người-chấm-không-cần-gpu-khoảng-10-phút), [Chạy lại từ đầu](#chạy-lại-từ-đầu), [Demo](#demo) | Phụ lục A của báo cáo PDF tóm tắt lại các bước này |
+| **Manual** | File này: [Cài đặt](#cài-đặt), [Kiểm tra nhanh](#kiểm-tra-nhanh-không-cần-gpu-khoảng-10-phút), [Chạy lại từ đầu](#chạy-lại-từ-đầu), [Demo](#demo) | Phụ lục A của báo cáo PDF tóm tắt lại các bước này |
 | Kết quả đã chạy | `results/` (câu trả lời từng câu, metric, EDA, retrieval) | Dùng để đối chiếu khi chạy lại |
 
 Lấy mã nguồn và dữ liệu:
@@ -97,7 +97,7 @@ pip install -r requirements-gpu.txt
 
 Các script đều chạy được bằng `python -I scripts/<tên>.py` từ bất kỳ thư mục nào. Cờ `-I` dùng để cô lập môi trường, không bắt buộc.
 
-## Kiểm tra nhanh cho người chấm (không cần GPU, khoảng 10 phút)
+## Kiểm tra nhanh (không cần GPU, khoảng 10 phút)
 
 Các bước dưới đây chạy hết trên CPU. Chúng kiểm tra lại được: số liệu khám phá dữ liệu, kết quả retrieval, 4 metric từ vựng của mọi cấu hình, và demo.
 
@@ -276,7 +276,7 @@ python -I app/demo.py --llm extractive --cli "Mức lương cơ sở từ 01/7/2
   (`covered`) và 149 câu ngẫu nhiên khác (`not_covered`). Mọi cấu hình, kể cả baseline, đều chạy trên đúng 200 câu này.
 - **Baseline có lẫn prompt trong output.** `HuggingFacePipeline` của LangChain mặc định `skip_prompt=False`, còn
   transformers mặc định `return_full_text=True`. Vì vậy output của baseline gồm cả prompt và ngữ cảnh.
-  Tôi báo cáo cả `baseline` (giữ nguyên hành vi này, coi là số chính thức) và `baseline_noecho` (chỉ phần sinh ra).
+  Em báo cáo cả `baseline` (giữ nguyên hành vi này, coi là số chính thức) và `baseline_noecho` (chỉ phần sinh ra).
 - **Cosine** luôn được tính bằng `keepitreal/vietnamese-sbert`, cùng embedding với baseline, để so sánh công bằng.
 - **Corpus và câu hỏi lệch nhau:** 100% văn bản thuộc lĩnh vực *Lao động – Tiền lương*, trong khi phần lớn câu hỏi về ngân hàng.
   Chỉ 8/314 văn bản được hỏi có trong corpus. Chi tiết xem `results/eda/eda_summary.md`.

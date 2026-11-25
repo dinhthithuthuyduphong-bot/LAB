@@ -153,7 +153,7 @@ Cần ghi rõ điểm này trong báo cáo.
   Viết bằng LaTeX/Overleaf (free) hoặc Word/Google Docs.
 - [x] 🟢 `README`/manual: cài đặt (`requirements.txt`), tải và giải nén dữ liệu, build index, chạy evaluate, chạy demo, số cặp QA đã dùng, cấu hình GPU đã dùng. → `README.md`.
 - [x] 🟡 Kiểm tra lại toàn bộ quy trình trên môi trường sạch (một notebook Kaggle hoặc Colab mới).
-- [x] 🟢 Đóng gói nộp bài: source code, dataset (hoặc link), manual, báo cáo PDF. → code, dữ liệu, kết quả và báo cáo đều đã nằm trên GitHub. README có bảng "Nội dung bài nộp" và mục "Kiểm tra nhanh cho người chấm"; Phụ lục A của báo cáo PDF tóm tắt manual.
+- [x] 🟢 Đóng gói nộp bài: source code, dataset (hoặc link), manual, báo cáo PDF. → code, dữ liệu, kết quả và báo cáo đều đã nằm trên GitHub. README có bảng "Nội dung bài nộp" và mục "Kiểm tra nhanh (không cần GPU)"; Phụ lục A của báo cáo PDF tóm tắt manual.
 - [x] 🟢 Chạy lại phần CPU từ một bản clone sạch theo đúng README (2026-11-25): mọi bước chạy được, `data/`, `results/eda/` và `results/metrics/` sinh ra khớp với bản đã nộp (file kết quả từng câu chỉ khác ở chữ số thập phân thứ 16 tùy phiên bản pandas). Đã thêm `requirements-lock.txt`.
 - [x] Điền họ tên, MSSV, lớp và link video demo vào `report/latex/main.tex`, đổi nhân xưng thành "tôi" (bài cá nhân), biên dịch lại PDF.
 
